@@ -13,8 +13,11 @@ def main():
     trading = False
 
     for i in range(n):
-        line = re.sub(r"-+>", "→", lines[i]).replace("* ", "x")
         next_line = lines[i + 1] if i + 1 < n else ""
+        line = re.sub(r"-+>", "→", lines[i])
+        line = line.replace("* ", "x")
+        line = line.replace("�", "e")
+        line = line.replace("Poke Ball", "Poké Ball")
 
         if line == "---":  # Skip this line
             continue

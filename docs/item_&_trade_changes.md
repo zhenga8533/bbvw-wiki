@@ -27,7 +27,7 @@
 #### Route 2
 
 ```
-1. Pok� Ball → Oval Stone
+1. Poké Ball → Oval Stone
 2. Potion → Everstone
 ```
 
@@ -43,7 +43,7 @@
 
 ```
 1. Repel → TM23 Smack Down
-2. Poke Ball → TM59 Incinerate
+2. Poké Ball → TM59 Incinerate
 3. TM75 Swords Dance → Wide Lens
 4. Potion → TM76 Struggle Bug
 5. Parlyz Heal → TM88 Pluck
