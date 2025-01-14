@@ -1,1815 +1,4238 @@
 Important Trainer Rosters
 Below are the rosters for the important trainers in the game, such as the Gym Leaders, Elite Four, Bianca, Cheren and N. They are detailed in terms of levels, movesets, abilities and items. Note that these constitute as spoilers, so read at your own risk.
+#### Rival Bianca – 1
 
-Rival Bianca – 1
-Battle Type: Single Battle
-Location: Nuvema Town
-
-Bianca’s Team
-
-Species Snivy
-Oshawott
-Tepig
-Level 5
-Item -
-
-Ability
-(Regular) Contrary
-Vital Spirit
-Adaptability
-
-Ability
-(Clean) Overgrow
-Torrent
-Blaze
-
-Rival Cheren – 1
-Battle Type: Single Battle
-Location: Nuvema Town
-
-Cheren’s Team
-
-Species Snivy
-Oshawott
-Tepig
-Level 5
-Item -
-
-Ability
-(Regular) Contrary
-Vital Spirit
-Adaptability
-
-Ability
-(Clean) Overgrow
-Torrent
-Blaze
-
-PKMN Trainer N – 1
-Battle Type: Single Battle
-Location: Accumula Town
-
-N’s Team
-
-Species Nincada Purrloin Mankey
-Level 6 6 6
-
-Rival Bianca – 2
-Battle Type: Single Battle
-Location: Route 2
-
-Bianca’s Team
-
-Species
-Meowth Snivy
-Oshawott
-Tepig
-Level 9 10
-Item - -
-
-Ability
-(Regular)
-Technician Contrary
-Vital Spirit
-Adaptability
-
-Ability
-(Clean)
-Technician Overgrow
-Torrent
-Blaze
-
-Rival Cheren – 2
-Battle Type: Single Battle
-Location: Striaton City
-
-Cheren’s Team
-
-Species
-Starly Snivy
-Oshawott
-Tepig
-Level 11 12
-Item - Oran Berry
-
-Ability
-(Regular)
-Keen Eye Contrary
-Vital Spirit
-Adaptability
-
-Ability
-(Clean)
-Keen Eye Overgrow
-Torrent
-Blaze
-
-Gym Leader Cilan, Gym Leader Cress, Gym Leader Chili
-Battle Type: Rotation Battle (First Fight) / Triple Battle (Rematch)
-Reward: TM83 Work Up
-
-Cilan’s Team – Striation Gym
-
-Species Snivy Bulbasaur Chikorita
-Level 12 12 12
-Item - - -
-Ability Overgrow Overgrow Overgrow
-Move #1 Tackle Secret Power Wring Out
-Move #2 Growth Sleep Powder Synthesis
-Move #3 Magical Leaf Leech Seed Razor Leaf
-Move #4 Twister Vine Whip PoisonPowder
-Treecko Turtwig Pansage
-12 12 14 - - Oran Berry
-Overgrow Overgrow Gluttony
-GrassWhistle Tackle Work Up
-Leech Seed Tickle Bite
-Absorb Razor Leaf Magical Leaf
-Quick Attack Stealth Rock Protect
-
-Cilan’s Team – Route 11; replaces Backpacker Talon.
-
-Species Serperior Venusaur Meganium
-Level 86 86 86
-Item Yache Berry Payapa Berry Kebia Berry
-Ability (Reg.) Contrary Chlorophyll Natural Cure
-Ability (Clean) Overgrow Overgrow Overgrow
-Move #1 Leaf Storm Growth Aromatherapy
-Move #2 Light Screen Earthquake Petal Dance
-Move #3 Reflect Power Whip Toxic
-Move #4 Sunny Day Sludge Bomb Leech Seed
-Sceptile Torterra Simisage
-86 86 88
-Tanga Berry Occa Berry Liechi Berry
-Adaptability Sturdy Unburden
-Overgrow Overgrow Gluttony
-Energy Ball Earthquake Leaf Storm
-Focus Blast Crunch Rock Slide
-Dragon Pulse Wood Hammer Shadow Claw
-Leaf Storm Stone Edge Low Kick
-
-Cress’s Team – Striaton Gym
-
-Species Oshawott Squirtle Totodile
-Level 12 12 12
-Item - - -
-Ability Torrent Torrent Torrent
-Move #1 Tackle Tackle Scratch
-Move #2 Screech Iron Defense Dragon Dance
-Move #3 Brine Aqua Jet Aqua Jet
-Move #4 Air Slash Fake Out Bite
-Mudkip Piplup Panpour
-12 12 14 - - Oran Berry
-Torrent Torrent Gluttony
-Tackle Pound Nasty Plot
-Ice Ball Icy Wind Bite
-Mud Bomb BubbleBeam Water Gun
-Water Gun Pluck Protect
-
-Cress’s Team – Route 11; replaces Backpacker Corin.
-
-Species Samurott Blastoise Feraligatr
-Level 86 86 86
-Item Wacan Berry Rindo Berry Wacan Berry
-Ability (Reg.) Vital Spirit Sturdy Sheer Force
-Ability (Clean) Torrent Torrent Torrent
-Move #1 Shell Smash\*_ Shell Smash_ Dragon Dance
-Move #2 Aqua Jet Hydro Pump Waterfall
-Move #3 Megahorn Blizzard Crunch
-Move #4 Razor Shell Focus Blast Earthquake
-Swampert Empoleon Simipour
-86 86 88
-Rindo Berry Shuca Berry Petaya Berry
-Mold Breaker Defiant Unburden
-Torrent Torrent Gluttony
-Earthquake Hydro Pump Hydro Pump
-Waterfall Flash Cannon Ice Beam
-Avalanche Grass Knot Grass Knot
-Hammer Arm Aqua Jet Focus Blast
-
-- Water Spout in the Clean version.
-  \*\* Swords Dance in the Clean version.
-
-Chili’s Team – Striaton Gym
-
-Species Tepig Charmander Cyndaquil
-Level 12 12 12
-Item - - -
-Ability Blaze Blaze Blaze
-Move #1 Tackle Scratch Quick Attack
-Move #2 Yawn Dragon Dance Nature Power
-Move #3 Ember Ember Smokescreen
-Move #4 Magnitude Smokescreen Flame Burst
-Torchic Chimchar Pansear
-12 12 14 - - Oran Berry
-Blaze Blaze Gluttony
-Low Kick Assist Nasty Plot
-Focus Energy Fake Out Bite
-Ember Ember Incinerate
-Featherdance Torment Protect
-
-Chili’s Team – Abundant Shrine; replaces Youngster Wes.
-
-Species Emboar Charizard Typhlosion
-Level 86 86 86
-Item Passho Berry Charti Berry Shuca Berry
-Ability (Reg.) Adaptability Solar Power Flash Fire
-Ability (Clean) Blaze Blaze Blaze
-Move #1 Flare Blitz Fire Blast Eruption
-Move #2 Earthquake Air Slash Focus Blast
-Move #3 Hammer Arm Outrage SolarBeam
-Move #4 Scald Earthquake ThunderPunch
-Blaziken Infernape Simisear
-86 86 88
-Payapa Berry Coba Berry Petaya Berry
-Speed Boost Iron Fist Unburden
-Blaze Blaze Gluttony
-Hi Jump Kick Overheat Fire Blast
-Flare Blitz Close Combat Focus Blast
-Stone Edge Grass Knot Grass Knot
-ThunderPunch ThunderPunch Will-O-Wisp
-
-Rival Cheren – 3
-Battle Type: Single Battle
-Location: Route 3
-
-Cheren’s Team
-
-Species
-Staravia
-Roggenrola Panpour
-Pansear
-Pansage Snivy
-Oshawott
-Tepig
-Level 14 14 14 16
-Item - - - Sitrus Berry
-
-Ability
-(Regular)
-Reckless
-Sturdy Torrent
-Blaze
-Overgrow Contrary
-Vital Spirit
-Adaptability
-
-Ability
-(Clean)
-Intimidate
-Sturdy
-Gluttony Overgrow
-Torrent
-Blaze
-
-PKMN Trainer N – 2
-Battle Type: Double Battle
-Location: Nacrene City
-
-N’s Team
-
-Species Drilbur Bronzor Tympole Vulpix Zorua
-Level 19 19 19 19 19
-
-Gym Leader Lenora
-Battle Type: Double Battle (Initial) / Single Battle (Rematch)
-Reward: TM67 Retaliate
-
-Lenora’s Team – Nacrene Gym
-
-Species Stantler Herdier Furret
-Level 18 18 18
-Item - - -
-Ability (Reg.) Intimidate Intimidate Keen Eye
-Ability (Clean) Intimidate Intimidate Keen Eye
-Move #1 Retaliate Retaliate Retaliate
-Move #2 Hypnosis Bite Follow Me
-Move #3 Disable Helping Hand Thunderbolt
-Move #4 Extrasensory Charm Reversal
-Bibarel Watchog Bouffalant
-18 20 20 - Sitrus Berry Sitrus Berry
-Moody Analytic Sap Sipper
-Simple Keen Eye Sap Sipper
-Retaliate Retaliate Retaliate
-Curse Hypnosis Aerial Ace
-Aqua Tail Super Fang Rock Tomb
-Amnesia Crunch Revenge
-
-Lenora’s Team – Village Bridge; replaces Scientist Shannon.
-
-Species Stoutland Granbull Kangaskhan
-Level 87 87 87
-Item Air Balloon Chople Berry Expert Belt
-Ability (Reg.) Intimidate Intimidate Scrappy
-Ability (Clean) Intimidate Intimidate Scrappy
-Move #1 Return Thunder Wave Outrage
-Move #2 Crunch Return Return
-Move #3 Fire Fang Earthquake Earthquake
-Move #4 Wild Charge Crunch Sucker Punch
-Ambipom Watchog Bouffalant
-87 87 89
-Scope Lens Air Balloon Sitrus Berry
-Technician Analytic Reckless
-Technician Keen Eye Reckless
-Double Hit Super Fang Head Charge
-Fake Out Crunch Wild Charge
-Low Kick Low Kick Stone Edge
-U-turn Thunder Wave Earthquake
-
-Gym Leader Burgh
-Battle Type: Double Battle (Initial) / Single Battle (Rematch)
-Reward: TM89 U-turn
-
-Burgh’s Team – Castelia Gym
-
-Species Masquerain Vespiquen Heracross
-Level 28 28 28
-Item - - Flame Orb
-Ability (Reg.) Levitate Intimidate Guts
-Ability (Clean) Intimidate Pressure Guts
-Move #1 Scald Acrobatics Brick Break
-Move #2 Silver Wind Toxic Aerial Ace
-Move #3 Stun Spore Heal Order Bug Bite
-Move #4 Icy Wind U-turn Night Slash
-Yanmega Scolipede Leavanny
-28 30 30 - Sitrus Berry Sitrus Berry
-Speed Boost Poison Touch Swarm
-Speed Boost Swarm Swarm
-Protect Toxic Protect
-U-turn Rock Climb Leaf Blade
-Air Slash Megahorn X-Scissor
-Signal Beam Rock Slide GrassWhistle
-
-Burgh’s Team – Route 13; replaces Artist Zach.
-
-Species Yanmega Crustle Scizor
-Level 87 87 87
-Item Occa Berry White Herb Life Orb
-Ability Speed Boost Sturdy Technician
-Move #1 Bug Buzz Shell Smash Bullet Punch
-Move #2 Air Slash Stone Edge Bug Bite
-Move #3 Psychic X-Scissor Superpower
-Move #4 Shadow Ball Earthquake Pursuit
-Venomoth Scolipede Leavanny
-87 87 89
-Starf Berry Liechi Berry Focus Sash
-Tinted Lens Swarm Swarm
-Quiver Dance Megahorn X-Scissor
-Bug Buzz Toxic Spikes Leaf Blade
-Sludge Bomb Spikes Agility
-Sleep Powder Rock Slide Shadow Claw
-
-Rival Bianca – 3
-Battle Type: Double Battle
-Location: Castelia City-Route 4 Gatehouse
-
-Bianca’s Team
-
-Species
-Munna Simipour
-Simisear
-Simisage
-Persian Servine
-Dewott
-Pignite
-Level 29 29 31 31
-Item - - - Sitrus Berry
-
-Ability
-(Regular)
-Analytic
-Unburden
-Technician Contrary
-Vital Spirit
-Adaptability
-
-Ability
-(Clean)
-Synchronize
-Gluttony
-Technician Overgrow
-Torrent
-Blaze
-
-Rival Cheren – 4
-Battle Type: Rotation Battle
-Location: Route 4
-
-Cheren’s Team
-
-Species
-Staravia
-Boldore
-Kadabra Simipour
-Simisear
-Simisage Servine
-Dewott
-Pignite
-Level 31 31 31 31 33
-Item Sharp Beak Hard Stone TwistedSpoon Expert Belt Sitrus Berry
-
-Ability
-(Regular)
-Reckless
-Sturdy
-Magic Guard Torrent
-Blaze
-Overgrow Contrary
-Vital Spirit
-Adaptability
-
-Ability
-(Clean)
-Intimidate
-Sturdy
-Synchronize
-Gluttony Overgrow
-Torrent
-Blaze
-
-PKMN Trainer N – 3
-Battle Type: Double Battle
-Location: Nimbasa City
-
-N’s Team
-
-Species Hippopotas Maractus Gligar
-Level 33 33 33
-Larvesta Golett Sigilyph
-33 33 33
-
-Gym Leader Elesa
-Battle Type: Single Battle
-Reward: TM93 Wild Charge
-
-Elesa’s Team – Nimbasa Gym
-
-Species Emolga Manectric Ampharos
-Level 36 36 36
-Item - - -
-Ability (Reg.) Static Static Static
-Ability (Clean) Static Static Static
-Move #1 Wild Charge Thunderbolt Thunderbolt
-Move #2 U-turn Volt Switch Charge
-Move #3 Acrobatics Flamethrower Focus Blast
-Move #4 Roost Attract Cotton Guard
-Raichu Galvantula Zebstrika
-36 36 38 - - Sitrus Berry
-Static Compoundeyes Sap Sipper
-Static Compoundeyes Lightningrod
-Wild Charge Thunder Wild Charge
-Volt Switch Volt Switch Volt Switch
-Grass Knot Signal Beam Flame Charge
-Focus Blast Energy Ball Double Kick
-
-Elesa’s Team – Route 13; replaces Parasol Lady Laura.
-
-Species Emolga Electivire Jolteon
-Level 88 88 88
-Item Starf Berry Sitrus Berry Starf Berry
-Ability (Reg.) Static Motor Drive Lightningrod
-Ability (Clean) Static Motor Drive Volt Absorb
-Move #1 Baton Pass Volt Tackle* Thunder
-Move #2 Agility Cross Chop Shadow Ball
-Move #3 Thunder Ice Punch Baton Pass
-Move #4 Light Screen Earthquake Thunder Wave
-Eelektross Galvantula Zebstrika
-88 88 90
-Flying Gem Wide Lens Life Orb
-Levitate Compoundeyes Sap Sipper
-Levitate Compoundeyes Motor Drive
-Acrobatics Thunder Volt Tackle*
-Thunder Bug Buzz Flame Charge
-Rock Slide Energy Ball Quick Attack
-Flamethrower Thunder Wave Return
-
-- Wild Charge in the Clean version.
-
-Rival Cheren – 5
-Battle Type: Single Battle
-Location: Route 5
-
-Cheren’s Team
-
-Species
-Staraptor
-Gigalith
-Alakazam Simipour
-Simisear
-Simisage Serperior
-Samurott
-Emboar
-Level 36 36 36 36 38
-Item Sharp Beak Hard Stone TwistedSpoon Expert Belt Sitrus Berry
-
-Ability
-(Regular)
-Reckless
-Sturdy
-Magic Guard Torrent
-Blaze
-Overgrow Contrary
-Vital Spirit
-Adaptability
-
-Ability
-(Clean)
-Intimidate
-Sturdy
-Synchronize
-Gluttony Overgrow
-Torrent
-Blaze
-
-Gym Leader Clay
-Battle Type: Single Battle
-Reward: TM78 Bulldoze
-
-Clay’s Team – Driftveil Gym
-
-Species Hippowdon Seismitoad Steelix
-Level 42 42 42
-Item - Chesto Berry Passho Berry
-Ability (Reg.) Sand Stream Water Absorb Sturdy
-Ability (Clean) Sand Stream Poison Hand Sturdy
-Move #1 Bulldoze Earth Power Earthquake
-Move #2 Slack Off Muddy Water Fire Fang
-Move #3 Stealth Rock Sludge Wave Gyro Ball
-Move #4 Stone Edge Rest Coil\*
-Marowak Krookodile Excadrill
-42 42 44
-Thick Club Persim Berry Sitrus Berry
-Mold Breaker Intimidate Sand Rush
-Rock Head Intimidate Sand Rush
-Earthquake Earthquake Earthquake
-Stone Edge Crunch Rock Slide
-Low Kick Thrash X-Scissor
-Perish Song Torment Swords Dance
-
-- DragonBreath in the Clean version.
-
-Clay’s Team – Route 14; replaces Hiker Jebediah.
-
-Species Hippowdon Seismitoad Rhyperior
-Level 88 88 88
-Item Passho Berry Rindo Berry Life Orb
-Ability (Reg.) Sand Stream Water Absorb Solid Rock
-Ability (Clean) Sand Stream Poison Hand Solid Rock
-Move #1 Earthquake Earthquake Earthquake
-Move #2 Slack Off Muddy Water Stone Edge
-Move #3 Stone Edge Grass Knot Megahorn
-Move #4 Crunch Drain Punch Superpower
-Donphan Krookodile Excadrill
-88 88 90
-Custap Berry Chople Berry Air Balloon
-Sturdy Intimidate Sand Rush
-Sturdy Intimidate Sand Rush
-Earthquake Earthquake Earthquake
-Ice Shard Crunch Rock Slide
-Endeavor Stone Edge X-Scissor
-Stone Edge Outrage Horn Drill
-
-Rival Bianca – 4
-Battle Type: Single Battle
-Location: Driftveil City
-
-Bianca’s Team
-
-Species
-Mienfoo
-Musharna
-Persian Simipour
-Simisear
-Simisage Serperior
-Samurott
-Emboar
-Level 41 41 41 41 43
-Item - - - - Sitrus Berry
-
-Ability
-(Regular)
-Reckless
-Analytic
-Technician
-Unburden Contrary
-Vital Spirit
-Adaptability
-
-Ability
-(Clean)
-Regenerator
-Synchronize
-Technician
-Gluttony Overgrow
-Torrent
-Blaze
-
-PKMN Trainer N – 4
-Battle Type: Single Battle
-Location: Chargestone Cave
-
-N’s Team
-
-Species Rotom Rotom Rotom
-Level 47 47 47
-Rotom Rotom Rotom
-47 47 47
-
-Gym Leader Skyla
-Battle Type: Triple Battle
-Reward: TM62 Acrobatics
-
-Skyla’s Team – Mistralton Gym
-
-Species Mandibuzz Skarmory Braviary
-Level 54 54 54
-Item (Reg.) Chesto Berry Occa Berry Sitrus Berry
-Item (Clean) Chesto Berry Occa Berry Sitrus Berry
-Ability (Reg.) Big Pecks Sturdy Defiant
-Ability (Clean) Big Pecks Sturdy Sheer Force
-Move #1 Brave Bird Brave Bird Brave Bird
-Move #2 (Reg)
-Move #2 (Cln) Torment
-Torment Spikes
-Spikes Rock Slide
-Rock Slide
-Move #3 Tailwind Steel Wing Crush Claw
-Move #4 Rest Roost Bulk Up
-Archeops Gliscor Swanna
-56 56 56
-Flying Gem Toxic Orb Sitrus Berry
-Flying Gem Flying Gem Sitrus Berry
-Defeatist Poison Heal Big Pecks
-Defeatist Hyper Cutter Big Pecks
-Acrobatics Acrobatics Hurricane
-Stone Edge
-Stone Edge Fling
-Roost Brine
-Brine
-Earthquake Earthquake Ice Beam
-Dragon Claw Thunder Fang Tailwind
-
-Skyla’s Team – Route 14; replaces Ace Trainer Junko.
-
-Species Swoobat Braviary Tropius
-Level 88 88 88
-Item Focus Sash White Herb Power Herb
-Ability (Reg.) Simple Defiant Chlorophyll
-Ability (Clean) Unaware Sheer Force Chlorophyll
-Move #1 Psychic Crush Claw Leaf Blade
-Move #2 (Reg)
-Move #2 (Cln) Stored Power
-Charge Beam ExtremeSpeed
-U-turn Earthquake
-Earthquake
-Move #3 Air Slash Brave Bird Fly
-Move #4 Calm Mind Rock Slide Roost
-Skarmory Gliscor Swanna
-90 90 90
-Sitrus Berry Toxic Orb\* Life Orb
-Sturdy Poison Heal Big Pecks
-Sturdy Hyper Cutter Big Pecks
-Brave Bird Earthquake Surf
-Steel Wing
-Steel Wing Fling
-Roost Ice Beam
-Ice Beam
-Roost Stone Edge Brave Bird
-X-Scissor Acrobatics Tailwind
-
-- Yache Berry in Clean version.
-
-Rival Cheren – 6
-Battle Type: Rotation Battle
-Location: Twist Mountain
-
-Cheren’s Team
-
-Species
-Staraptor
-Gigalith
-Alakazam
-Level 53 53 53
-Item Sharp Beak Hard Stone TwistedSpoon
-
-Ability
-(Regular)
-Reckless
-Sturdy
-Magic Guard
-
-Ability
-(Clean)
-Intimidate
-Sturdy
-Synchronize
-
-Move #1
-Brave Bird
-Stone Edge
-Psychic
-
-Move #2
-Close Combat
-Stealth Rock
-Shadow Ball
-
-Move #3
-Retaliate
-Earthquake
-Energy Ball
-
-Move #4 (Reg)
-U-turn
-Explosion
-Charge Beam
-
-Move #4 (Cln)
-U-turn
-Explosion
-Charge Beam
-
-Species Houndoom
-Whimsicott
-Gyarados Simipour
-Simisear
-Simisage Serperior
-Samurott
-Emboar
-Level 53 53 55
-Item Lum Berry Iron Ball Sitrus Berry
-
-Ability
-(Regular) Intimidate
-Prankster
-Moxie Torrent
-Blaze
-Overgrow Contrary
-Vital Spirit
-Adaptability
-
-Ability
-(Clean) Flash Fire
-Prankster
-Intimidate
-Gluttony Overgrow
-Torrent
-Blaze
-
-Move #1 Flamethrower
-Energy Ball
-Aqua Tail Scald
-Flame Burst
-Seed Bomb Leaf Blade
-Scald
-Heat Crash
-
-Move #2 Dark Pulse
-Hurricane
-Ice Fang Acrobatics
-Acrobatics
-Acrobatics Leech Seed
-Swords Dance
-Bulk Up
-
-Move #3 Nasty Plot
-Tailwind
-Dragon Dance Fling
-Fling
-Fling Glare
-Megahorn
-Wild Charge
-
-Move #4 (Reg) Will-O-Wisp
-Cotton Guard
-Earthquake Hydro Cannon
-Blast Burn
-Frenzy Plant Dragon Pulse
-Sacred Sword
-Earthquake
-
-Move #4 (Cln) Will-O-Wisp
-Cotton Guard
-Earthquake Rock Slide
-Rock Slide
-Rock Slide Reflect
-Ice Beam
-Hammer Arm
-
-Gym Leader Brycen
-Battle Type: Double Battle (Initial) / Triple Battle (Rematch)
-Reward: TM13 Ice Beam
-
-Brycen’s Team – Icirrus Gym
-
-Species Abomasnow Glaceon Froslass
-Level 61 61 61
-Item Expert Belt Choice Scarf Life Orb
-Ability (Reg.) Snow Warning Serene Grace Levitate
-Ability (Clean) Snow Warning Snow Cloak Snow Cloak
-Move #1 Blizzard Blizzard Blizzard
-Move #2 (Reg)
-Move #2 (Cln) Wood Hammer Wood Hammer Earth Power
-Hidden Power Thunderbolt Thunderbolt
-Move #3 (Reg)
-Move #3 (Cln) Focus Blast
-Focus Blast Shadow Ball Shadow Ball Shadow Ball Shadow Ball
-Move #4 Ice Shard Baton Pass Disable
-Vanilluxe Cryogonal Beartic
-63 61 63
-NeverMeltIce Focus Sash White Herb
-Weak Armor Levitate Sheer Force
-Ice Body Levitate Snow Cloak
-Blizzard Blizzard Icicle Crash
-Flash Cannon Flash Cannon Reflect
-Reflect Close Combat Superpower
-Energy Ball
-Icy Wind Hidden Power Hidden Power Waterfall
-Shadow Claw
-Autotomize Protect Rock Slide
-
-Brycen’s Team – Route 14; replaces Ace Trainer Kipp.
-
-Species Abomasnow Lapras Glalie
-Level 88 88 88
-Item Expert Belt Chople Berry Occa Berry
-Ability (Reg.) Snow Warning Shell Armor Levitate
-Ability (Clean) Snow Warning Shell Armor Ice Body
-Move #1 Blizzard Blizzard Blizzard
-Move #2 Wood Hammer Hydro Pump Earthquake
-Move #3 Focus Blast Sing Ice Shard
-Move #4 (Reg)
-Move #4 (Cln) Earthquake
-Earthquake Perish Song
-Perish Song Stone Edge
-Signal Beam
-Cryogonal Vanilluxe Beartic
-88 90 90
-Focus Sash Life Orb Life Orb
-Levitate Weak Armor Sheer Force
-Levitate Ice Body Snow Cloak
-Blizzard Blizzard Icicle Crash
-Flash Cannon Flash Cannon Stone Edge
-Reflect Water Pulse Dive
-Sheer Cold
-Sheer Cold Energy Ball
-Sheer Cold Close Combat
-Superpower
-
-Rival Bianca – 5
-Battle Type: Triple Battle
-Location: Route 8
-
-Bianca’s Team
-
-Species
-Persian
-Musharna
-Mienshao
-Level 61 59 61
-Item Chople Berry Kasib Berry Coba Berry
-
-Ability
-(Regular)
-Technician
-Analytic
-Reckless
-
-Ability
-(Clean)
-Technician
-Synchronize
-Regenerator
-
-Move #1
-Nasty Plot
-Hypnosis
-Hi Jump Kick
-
-Move #2
-Hypnosis
-Psychic
-U-turn
-
-Move #3
-Swift
-Energy Ball
-Stone Edge
-
-Move #4 (Reg)
-Fake Out
-Reflect
-Poison Jab
-
-Move #4 (Cln)
-Fake Out
-Reflect
-Poison Jab
-
-Species Chandelure
-Lilligant
-Milotic Simipour
-Simisear
-Simisage Serperior
-Samurott
-Emboar
-Level 63 63 65
-Item Sitrus Berry Flying Gem Leftovers
-
-Ability
-(Regular) Levitate
-Own Tempo
-Multiscale
-Unburden Contrary
-Vital Spirit
-Adaptability
-
-Ability
-(Clean) Flame Body
-Own Tempo
-Marvel Scale
-Gluttony Overgrow
-Torrent
-Blaze
-
-Move #1 Flamethrower
-Petal Dance
-Surf Work Up
-Work Up
-Work Up Leaf Blade
-Scald
-Heat Crash
-
-Move #2 Shadow Ball
-Hidden Power
-Ice Beam Acrobatics
-Acrobatics
-Acrobatics Leech Seed
-Swords Dance
-Bulk Up
-
-Move #3 Will-O-Wisp
-Sleep Powder
-Hypnosis Focus Blast
-Focus Blast
-Focus Blast Glare
-Megahorn
-Wild Charge
-
-Move #4 (Reg) Psychic
-Focus Blast
-Dragon Tail Water Spout
-Fire Blast
-Power Whip Dragon Pulse
-Sacred Sword
-Earthquake
-
-Move #4 (Cln) Psychic
-Aromatherapy
-Dragon Tail Hydro Pump
-Overheat
-Leaf Storm Reflect
-Ice Beam
-Hammer Arm
-
-Gym Leader Drayden
-Battle Type: Rotation Battle
-Reward: TM82 Dragon Tail
-
-Drayden’s Team – Opelucid Gym, Black
-
-Species Druddigon Charizard Flygon
-Level 64 64 64
-Item Rocky Helmet Salac Berry Yache Berry
-Ability (Reg.) Rough Skin Blaze Levitate
-Ability (Clean) Rough Skin Blaze Levitate
-Move #1 (Reg)
-Move #1 (Cln) Outrage
-Outrage Belly Drum
-Belly Drum Quiver Dance
-Tailwind
-Move #2 Revenge Fire Punch Dragon Pulse
-Move #3 Earthquake Earthquake Earth Power
-Move #4 Dragon Tail Substitute Fire Blast
-Salamence Kingdra Haxorus
-64 64 66
-Life Orb White Herb Sitrus Berry
-Moxie Sniper Mold Breaker
-Intimidate Sniper Mold Breaker
-Outrage
-Outrage Draco Meteor
-Draco Meteor Dragon Dance
-Dragon Dance
-Hydro Pump Waterfall Outrage
-Brick Break Outrage Earthquake
-Fire Blast Frost Breath Dragon Tail
-
-Drayden’s Team – Challenger’s Cave; replaces Veteran Shaun.
-
-Species Salamence Charizard Druddigon
-Level 93 93 93
-Item White Herb Life Orb Life Orb
-Ability (Reg.) Moxie Solar Power Sheer Force
-Ability (Clean) Intimidate Blaze Sheer Force
-Move #1 (Reg)
-Move #1 (Cln) Draco Meteor
-Draco Meteor Sunny Day
-Sunny Day Glare
-Glare
-Move #2 Earthquake Fire Blast Dragon Claw
-Move #3 Dragon Claw SolarBeam Superpower
-Move #4 Fly Dragon Pulse Rock Slide
-Haxorus Kingdra Hydreigon
-93 93 95
-Life Orb White Herb White Herb
-Mold Breaker Sniper Levitate
-Mold Breaker Sniper Levitate
-Dragon Claw
-Dragon Claw Frost Breath
-Ice Beam Earth Power
-Surf
-Earthquake Draco Meteor Fire Blast
-Dragon Dance Waterfall Dark Pulse
-Outrage Outrage Focus Blast
-
-Gym Leader Iris
-Battle Type: Triple Battle
-Reward: TM82 Dragon Tail
-
-Iris’s Team – Opelucid Gym, White
-
-Species Druddigon Gyarados Altaria
-Level 63 63 63
-Item Rocky Helmet Wacan Berry Yache Berry
-Ability (Reg.) Rough Skin Moxie Natural Cure
-Ability (Clean) Rough Skin Intimidate Natural Cure
-Move #1 Outrage Dragon Dance Cotton Guard
-Move #2 Revenge Aqua Tail Dragon Pulse
-Move #3 Earthquake Ice Fang Ice Beam
-Move #4 Dragon Tail Earthquake Fire Blast
-Dragonite Kingdra Haxorus
-65 65 65
-Sitrus Berry Damp Rock Dragon Gem
-Multiscale Swift Swim Mold Breaker
-Inner Focus Swift Swim Mold Breaker
-Stone Edge Rain Dance Dragon Dance
-Dragon Claw Hydro Pump Outrage
-Hurricane Dragon Pulse Earthquake
-Thunder Blizzard Dragon Tail
-
-Iris’s Team – Route 15; replaces Battle Girl Susie.
-
-Species Kingdra Druddigon Altaria
-Level 87 87 87
-Item Damp Rock Rocky Helmet Sitrus Berry
-Ability (Reg.) Swift Swim Rough Skin Natural Cure
-Ability (Clean) Swift Swim Rough Skin Natural Cure
-Move #1 Rain Dance Outrage Outrage
-Move #2 Hydro Pump Superpower Roost
-Move #3 Blizzard Rock Slide Cotton Guard
-Move #4 Dragon Pulse Substitute Ice Beam
-Garchomp Dragonite Haxorus
-89 89 89
-Yache Berry Sitrus Berry Choice Band
-Rough Skin Multiscale Mold Breaker
-Sand Veil Inner Focus Mold Breaker
-Outrage Outrage Outrage
-Earthquake Hurricane Dual Chop
-Stone Edge Thunder Earthquake
-Draco Meteor Roost Brick Break
-
-Rival Cheren – 7
-Battle Type: Single Battle
-Location: Route 10
-
-Cheren’s Team
-
-Species
-Staraptor
-Gigalith
-Alakazam
-Level 66 66 66
-Item Sharp Beak Hard Stone TwistedSpoon
-
-Ability
-(Regular)
-Reckless
-Sturdy
-Magic Guard
-
-Ability
-(Clean)
-Intimidate
-Sturdy
-Synchronize
-
-Move #1
-Brave Bird
-Stone Edge
-Psychic
-
-Move #2
-Close Combat
-Stealth Rock
-Shadow Ball
-
-Move #3
-Double-Edge
-Earthquake
-Energy Ball
-
-Move #4 (Reg)
-U-turn
-Explosion
-Aura Sphere
-
-Move #4 (Cln)
-U-turn
-Explosion
-Focus Blast
-
-Species Houndoom
-Whimsicott
-Gyarados Simipour
-Simisear
-Simisage Serperior
-Samurott
-Emboar
-Level 66 66 68
-Item Lum Berry Flying Gem Sitrus Berry
-
-Ability
-(Regular) Intimidate
-Prankster
-Moxie Torrent
-Blaze
-Overgrow Contrary
-Vital Spirit
-Adaptability
-
-Ability
-(Clean) Flash Fire
-Prankster
-Intimidate
-Gluttony Overgrow
-Torrent
-Blaze
-
-Move #1 Flamethrower
-Leech Seed
-Aqua Tail Work Up
-Work Up
-Work Up Leaf Blade
-Hydro Pump
-Flare Blitz
-
-Move #2 Dark Pulse
-Hurricane
-Bounce Acrobatics
-Acrobatics
-Acrobatics Leech Seed
-Swords Dance
-Bulk Up
-
-Move #3 Nasty Plot
-Substitute
-Dragon Dance Focus Blast
-Focus Blast
-Focus Blast Glare
-Megahorn
-Wild Charge
-
-Move #4 (Reg) Will-O-Wisp
-Cotton Guard
-Earthquake Water Spout
-Fire Blast
-Power Whip Draco Meteor
-Secret Sword
-Earthquake
-
-Move #4 (Cln) Will-O-Wisp
-Substitute
-Earthquake Hydro Pump
-Overheat
-Leaf Storm Reflect
-Ice Beam
-Hammer Arm
-
-Elite Four Shauntal
-
-Shauntal’s First Team
-Battle Type: Double Battle
-
-Species Drifblim Golurk Mismagius
-Level 71 71 71
-Item (Regular) Flame Orb Soft Sand Spell Tag
-Item (Clean) Sitrus Berry Soft Sand Spell Tag
-Ability (Reg.) Flare Boost Iron Fist Levitate
-Ability (Clean) Unburden Iron Fist Levitate
-Move #1 Tailwind Earthquake Shadow Ball
-Move #2 Shadow Ball Shadow Punch Nasty Plot
-Move #3 Thunderbolt Hammer Arm Thunderbolt
-Move #4 Hurricane* Rock Polish Will-O-Wisp
-Froslass Jellicent Chandelure
-71 73 73
-NeverMeltIce Mystic Water Charcoal
-NeverMeltIce Mystic Water Air Balloon
-Levitate Cursed Body Levitate
-Snow Cloak Cursed Body Flame Body
-Shadow Ball Shadow Ball Shadow Ball
-Blizzard Hydro Pump Fire Blast
-Thunderbolt Will-O-Wisp Energy Ball
-Will-O-Wisp Recover Psychic
-*Air Cutter in the Clean version.
-
-Shauntal’s Second Team
-Battle Type: Single Battle
-
-Species Cofagrigus Gengar Sableye
-Level 91 91 91
-Item (Regular) Eject Button Focus Sash Sitrus Berry
-Item (Clean) Eject Button Focus Sash Sitrus Berry
-Ability (Reg.) Mummy Levitate Prankster
-Ability (Clean) Mummy Levitate Stall
-Move #1 Will-O-Wisp Focus Blast Recover*
-Move #2 Shadow Ball Shadow Ball Shadow Claw
-Move #3 Psychic Thunder Foul Play
-Move #4 Disable Sludge Bomb Will-O-Wisp
-Golurk Jellicent Chandelure
-91 91 93
-Expert Belt Leftovers Life Orb
-Expert Belt Leftovers Air Balloon
-No Guard Cursed Body Levitate
-Iron Fist Cursed Body Flame Body
-DynamicPunch Hydro Pump Fire Blast
-Shadow Punch Shadow Ball Shadow Ball
-Earthquake Recover Hidden Power
-Substitute Will-O-Wisp Calm Mind
-*Metal Burst in the Clean version.
-
-Elite Four Grimsley
-
-Grimsley’s First Team
-Battle Type: Double Battle
-
-Species Sharpedo Liepard Honchkrow
-Level 71 71 71
-Item Rocky Helmet Liechi Berry Scope Lens
-Ability (Reg.) Speed Boost Prankster Moxie
-Ability (Clean) Rough Skin Unburden Super Luck
-Move #1 Protect Thunder Wave Thunder Wave
-Move #2 Crunch Sucker Punch Brave Bird
-Move #3 Aqua Jet Charm Sucker Punch
-Move #4 Hydro Pump Wild Charge* Heat Wave
-Absol Houndoom Bisharp
-71 73 73
-Scope Lens Focus Sash BlackGlasses
-Super Luck Intimidate Defiant
-Super Luck Flash Fire Defiant
-Megahorn Dark Pulse Sucker Punch
-Night Slash Fire Blast X-Scissor
-Psycho Cut Sucker Punch Leaf Blade\*\*
-Perish Song Hidden Power Stone Edge
-*Aerial Ace in the Clean version.
-\*\* Iron Head in the Clean version.
-
-Grimsley’s Second Team
-Battle Type: Single Battle
-
-Species Honchkrow Sharpedo Weavile
-Level 91 91 91
-Item Flying Gem Focus Sash Expert Belt
-Ability (Reg.) Moxie Speed Boost Technician
-Ability (Clean) Super Luck Rough Skin Pressure
-Move #1 Brave Bird Protect Rock Smash
-Move #2 Sucker Punch Hydro Pump Ice Shard
-Move #3 Superpower Crunch Night Slash
-Move #4 Heat Wave Aqua Jet X-Scissor
-Houndoom Bisharp Zoroark
-91 91 93
-Power Herb Air Balloon Life Orb
-Intimidate Defiant Illusion
-Flash Fire Defiant Illusion
-Nasty Plot Sucker Punch Night Daze
-Fire Blast Swords Dance Flamethrower
-Dark Pulse Thunder Wave Focus Blast
-SolarBeam Swagger Grass Knot
-
-Elite Four Marshal
-
-Marshal’s First Team
-Battle Type: Double Battle
-
-Species Throh Sawk Breloom
-Level 71 71 71
-Item Flame Orb Salac Berry Focus Sash
-Ability (Reg.) Guts Sturdy Technician
-Ability (Clean) Guts Sturdy Effect Spore
-Move #1 Superpower Close Combat Spore
-Move #2 Facade Stone Edge Bullet Seed
-Move #3 Fling Payback Drain Punch
-Move #4 Rock Slide Return Mach Punch
-Poliwrath Mienshao Conkeldurr
-71 73 73
-Wacan Berry Flying Gem Chesto Berry
-Water Absorb Reckless Iron Fist
-Water Absorb Regenerator Sheer Force
-Waterfall Acrobatics Mach Punch
-Brick Break Hi Jump Kick Drain Punch
-Icy Wind U-turn Stone Edge
-Vacuum Wave Stone Edge Rest
-
-Marshal’s Second Team
-Battle Type: Single Battle
-
-Species Mienshao Breloom Scrafty
-Level 91 91 91
-Item (Reg) Life Orb Toxic Orb Sitrus Berry
-Item (Cln) Life Orb Toxic Orb Sitrus Berry
-Ability (Reg.) Reckless Poison Heal Moxie
-Ability (Clean) Regenerator Poison Heal Moxie
-Move #1 Hi Jump Kick Protect Sucker Punch\*
-Move #2 Stone Edge Leech Seed Hi Jump Kick
-Move #3 Grass Knot Drain Punch Light Screen
-Move #4 Hidden Power Seed Bomb Head Smash
-Lucario Blaziken Conkeldurr
-91 91 93
-Air Balloon Liechi Berry Sitrus Berry
-Air Balloon Salac Berry Flame Orb
-Justified Speed Boost Iron Fist
-Steadfast Blaze Guts
-Hi Jump Kick Protect Mach Punch
-Dragon Pulse Blaze Kick Stone Edge
-Ice Punch Hi Jump Kick Payback
-Bullet Punch Baton Pass Drain Punch
-
-- Payback in the Clean version.
-
-Elite Four Caitlin
-
-Caitlin’s First Team
-Battle Type: Double Battle
-
-Species Musharna Sigilyph Beheeyem
-Level 71 71 71
-Item Light Clay Life Orb Wise Glasses
-Ability (Reg.) Telepathy Magic Guard Analytic
-Ability (Clean) Synchronize Magic Guard Telepathy
-Move #1 Trick Room Protect Trick Room
-Move #2 (Reg)
-Move #2 (Cln) Psyshock
-Psyshock Hurricane
-Air Slash Thunderbolt
-Thunderbolt
-Move #3 Reflect Psychic Psychic
-Move #4 Light Screen Ice Beam Energy Ball
-Bronzong Gothitelle Reuniclus
-71 73 73
-Chesto Berry Sitrus Berry Life Orb
-Levitate Magic Bounce Magic Guard
-Levitate Frisk Magic Guard
-Trick Room Trick Room Trick Room
-Rest
-Rest Focus Blast
-Dark Pulse Thunder
-Focus Blast
-Earthquake Psychic Psychic
-Gyro Ball Thunderbolt Energy Ball
-
-Caitlin’s Second Team
-Battle Type: Single Battle
-
-Species Musharna Gardevoir Sigilyph
-Level 91 91 91
-Item Chesto Berry Psychic Gem Life Orb
-Ability (Reg.) Analytic Trace Tinted Lens
-Ability (Clean) Synchronize Trace Magic Guard
-Move #1 Yawn Psychic Psychic
-Move #2 Psyshock Focus Blast Ice Beam
-Move #3 Rest Will-O-Wisp Energy Ball
-Move #4 (Reg)
-Move #4 (Cln) Shadow Ball
-Shadow Ball Reflect
-Reflect Hurricane
-Air Slash
-Gothitelle Reuniclus Metagross
-91 91 93
-Dark Gem Life Orb Expert Belt
-Shadow Tag Magic Guard Analytic
-Frisk Magic Guard Clear Body
-Dark Pulse Psychic Meteor Mash
-Psychic Focus Blast Zen Headbutt
-Charm Thunder Earthquake
-Thunder Wave
-Thunder Wave Recover
-Recover Ice Punch
-Ice Punch
-
-PKMN Trainer N – Final
-Battle Type: Single Battle
-
-N’s Team – Blaze Black
-
-Species Zoroark Magmortar Slowbro
-Level 73 73 73
-Item Dark Gem Fire Gem Water Gem
-Ability (Reg.) Illusion Flash Fire Regenerator
-Ability (Clean) Illusion Flame Body Own Tempo
-Move #1 Night Daze Thunderbolt Surf
-Move #2 (Reg) Focus Blast Focus Blast Psychic
-Move #2 (Cln) Focus Blast Focus Blast Psychic
-Move #3 (Reg) Flamethrower Nasty Plot Flamethrower
-Move #3 (Cln) Flamethrower Flame Charge Flamethrower
-Move #4 (Reg) Grass Knot Magma Storm Slack Off
-Move #4 (Cln) Grass Knot Fire Blast Slack Off
-Species Aerodactyl Porygon-Z Zekrom
-Level 73 73 75
-Item Rock Gem Normal Gem Life Orb
-Ability (Reg.) Rock Head Adaptability Teravolt
-Ability (Clean) Rock Head Adaptability Teravolt
-Move #1 Earthquake Tri Attack Dragon Claw
-Move #2 (Reg) Thunder Fang Ice Beam Bolt Strike
-Move #2 (Cln) Thunder Fang Ice Beam Fusion Bolt
-Move #3 (Reg) Head Smash Dark Pulse Light Screen
-Move #3 (Cln) Stone Edge Dark Pulse Light Screen
-Move #4 (Reg) Dragon Dance Thunderbolt Hone Claws
-Move #4 (Cln) Aerial Ace Thunderbolt Hone Claws
-
-N’s Team – Volt White
-
-Species Zoroark Electivire Slowking
-Level 73 73 73
-Item Dark Gem Electric Gem Water Gem
-Ability (Reg.) Illusion Vital Spirit Regenerator
-Ability (Clean) Illusion Motor Drive Own Tempo
-Move #1 Night Daze Earthquake Surf
-Move #2 (Reg) Focus Blast Close Combat Psychic
-Move #2 (Cln) Focus Blast Cross Chop Psychic
-Move #3 (Reg) Flamethrower Volt Tackle Aura Sphere
-Move #3 (Cln) Flamethrower Wild Charge Flamethrower
-Move #4 (Reg) Grass Knot Ice Punch Slack Off
-Move #4 (Cln) Grass Knot Ice Punch Slack Off
-Species Aerodactyl Porygon-Z Reshiram
-Level 73 73 75
-Item Rock Gem Normal Gem White Herb
-Ability (Reg.) Rock Head Adaptability Turboblaze
-Ability (Clean) Rock Head Adaptability Turboblaze
-Move #1 Earthquake Tri Attack Dragon Pulse
-Move #2 (Reg) Thunder Fang Ice Beam Blue Flare
-Move #2 (Cln) Thunder Fang Ice Beam Fusion Flare
-Move #3 (Reg) Head Smash Dark Pulse Reflect
-Move #3 (Cln) Stone Edge Dark Pulse Reflect
-Move #4 (Reg) Dragon Dance Thunderbolt Draco Meteor
-Move #4 (Cln) Aerial Ace Thunderbolt Draco Meteor
-
-Team Plasma Ghetsis
-Battle Type: Single Battle
-Reward: N/A
+<pre><code>
+<b>Battle Type:</b> Single Battle
+<b>Location:</b> Nuvema Town
 
+<b><u>Bianca’s Team</u></b>
+
+<b>Species:</b>
+1. Snivy
+2. Oshawott
+3. Tepig
+
+<b>Levels:</b>
+1. 5
+
+<b>Items:</b>
+1. -
+
+<b>Abilities:</b>
+1. Contrary
+2. Vital Spirit
+3. Adaptability
+
+<b>Abilities:</b>
+1. Overgrow
+2. Torrent
+3. Blaze
+</code></pre>
+
+#### Rival Cheren – 1
+
+<pre><code>
+<b>Battle Type:</b> Single Battle
+<b>Location:</b> Nuvema Town
+
+<b><u>Cheren’s Team</u></b>
+
+<b>Species:</b>
+1. Snivy
+2. Oshawott
+3. Tepig
+
+<b>Levels:</b>
+1. 5
+
+<b>Items:</b>
+1. -
+
+<b>Abilities:</b>
+1. Contrary
+2. Vital Spirit
+3. Adaptability
+
+<b>Abilities:</b>
+1. Overgrow
+2. Torrent
+3. Blaze
+</code></pre>
+
+#### PKMN Trainer N – 1
+
+<pre><code>
+<b>Battle Type:</b> Single Battle
+<b>Location:</b> Accumula Town
+
+<b><u>N’s Team</u></b>
+
+<b>Species:</b>
+1. Nincada
+2. Purrloin
+3. Mankey
+
+<b>Levels:</b>
+1. 6
+2. 6
+3. 6
+</code></pre>
+
+#### Rival Bianca – 2
+
+<pre><code>
+<b>Battle Type:</b> Single Battle
+<b>Location:</b> Route 2
+
+<b><u>Bianca’s Team</u></b>
+
+<b>Species:</b>
+1. Meowth
+2. Snivy
+3. Oshawott
+4. Tepig
+
+<b>Levels:</b>
+1. 9
+2. 10
+
+<b>Items:</b>
+1. -
+2. -
+
+<b>Abilities:</b>
+1. Technician
+2. Contrary
+3. Vital Spirit
+4. Adaptability
+
+<b>Abilities:</b>
+1. Technician
+2. Overgrow
+3. Torrent
+4. Blaze
+</code></pre>
+
+#### Rival Cheren – 2
+
+<pre><code>
+<b>Battle Type:</b> Single Battle
+<b>Location:</b> Striaton City
+
+<b><u>Cheren’s Team</u></b>
+
+<b>Species:</b>
+1. Starly
+2. Snivy
+3. Oshawott
+4. Tepig
+
+<b>Levels:</b>
+1. 11
+2. 12
+
+<b>Items:</b>
+1. -
+2. Oran Berry
+
+<b>Abilities:</b>
+1. Keen Eye
+2. Contrary
+3. Vital Spirit
+4. Adaptability
+
+<b>Abilities:</b>
+1. Keen Eye
+2. Overgrow
+3. Torrent
+4. Blaze
+</code></pre>
+
+#### Gym Leader Cilan, Gym Leader Cress, Gym Leader Chili
+
+<pre><code>
+<b>Battle Type:</b> Rotation Battle (First Fight) / Triple Battle (Rematch)
+<b>Reward:</b> TM83 Work Up
+
+<b><u>Cilan’s Team – Striation Gym</u></b>
+
+<b>Species:</b>
+1. Snivy
+2. Bulbasaur
+3. Chikorita
+
+<b>Levels:</b>
+1. 12
+2. 12
+3. 12
+
+<b>Items:</b>
+1. -
+2. -
+3. -
+
+<b>Abilities:</b>
+1. Overgrow
+2. Overgrow
+3. Overgrow
+
+<b>Move #1</b>
+1. Tackle
+2. Secret Power
+3. Wring Out
+
+<b>Move #2</b>
+1. Growth
+2. Sleep Powder
+3. Synthesis
+
+<b>Move #3</b>
+1. Magical Leaf
+2. Leech Seed
+3. Razor Leaf
+
+<b>Move #4</b>
+1. Twister
+2. Vine Whip
+3. PoisonPowder
+
+<b>Species:</b>
+1. Treecko
+2. Turtwig
+3. Pansage
+4. 12
+5. 12
+6. 14
+7. -
+8. -
+9. Oran Berry
+10. Overgrow
+11. Overgrow
+12. Gluttony
+13. GrassWhistle
+14. Tackle
+15. Work Up
+16. Leech Seed
+17. Tickle
+18. Bite
+19. Absorb
+20. Razor Leaf
+21. Magical Leaf
+22. Quick Attack
+23. Stealth Rock
+24. Protect
+
+<b><u>Cilan’s Team – Route 11; replaces Backpacker Talon.</u></b>
+
+<b>Species:</b>
+1. Serperior
+2. Venusaur
+3. Meganium
+
+<b>Levels:</b>
+1. 86
+2. 86
+3. 86
+
+<b>Items:</b>
+1. Yache Berry
+2. Payapa Berry
+3. Kebia Berry
+
+<b>Abilities:</b>
+1. Contrary
+2. Chlorophyll
+3. Natural Cure
+
+<b>Abilities:</b>
+1. Overgrow
+2. Overgrow
+3. Overgrow
+
+<b>Move #1</b>
+1. Leaf Storm
+2. Growth
+3. Aromatherapy
+
+<b>Move #2</b>
+1. Light Screen
+2. Earthquake
+3. Petal Dance
+
+<b>Move #3</b>
+1. Reflect
+2. Power Whip
+3. Toxic
+
+<b>Move #4</b>
+1. Sunny Day
+2. Sludge Bomb
+3. Leech Seed
+4. Sceptile
+5. Torterra
+6. Simisage
+7. 86
+8. 86
+9. 88
+10. Tanga Berry
+11. Occa Berry
+12. Liechi Berry
+13. Adaptability
+14. Sturdy
+15. Unburden
+16. Overgrow
+17. Overgrow
+18. Gluttony
+19. Energy Ball
+20. Earthquake
+21. Leaf Storm
+22. Focus Blast
+23. Crunch
+24. Rock Slide
+25. Dragon Pulse
+26. Wood Hammer
+27. Shadow Claw
+28. Leaf Storm
+29. Stone Edge
+30. Low Kick
+
+<b><u>Cress’s Team – Striaton Gym</u></b>
+
+<b>Species:</b>
+1. Oshawott
+2. Squirtle
+3. Totodile
+
+<b>Levels:</b>
+1. 12
+2. 12
+3. 12
+
+<b>Items:</b>
+1. -
+2. -
+3. -
+
+<b>Abilities:</b>
+1. Torrent
+2. Torrent
+3. Torrent
+
+<b>Move #1</b>
+1. Tackle
+2. Tackle
+3. Scratch
+
+<b>Move #2</b>
+1. Screech
+2. Iron Defense
+3. Dragon Dance
+
+<b>Move #3</b>
+1. Brine
+2. Aqua Jet
+3. Aqua Jet
+
+<b>Move #4</b>
+1. Air Slash
+2. Fake Out
+3. Bite
+4. Mudkip
+5. Piplup
+6. Panpour
+7. 12
+8. 12
+9. 14
+10. -
+11. -
+12. Oran Berry
+13. Torrent
+14. Torrent
+15. Gluttony
+16. Tackle
+17. Pound
+18. Nasty Plot
+19. Ice Ball
+20. Icy Wind
+21. Bite
+22. Mud Bomb
+23. BubbleBeam
+24. Water Gun
+25. Water Gun
+26. Pluck
+27. Protect
+
+<b><u>Cress’s Team – Route 11; replaces Backpacker Corin.</u></b>
+
+<b>Species:</b>
+1. Samurott
+2. Blastoise
+3. Feraligatr
+
+<b>Levels:</b>
+1. 86
+2. 86
+3. 86
+
+<b>Items:</b>
+1. Wacan Berry
+2. Rindo Berry
+3. Wacan Berry
+
+<b>Abilities:</b>
+1. Vital Spirit
+2. Sturdy
+3. Sheer Force
+
+<b>Abilities:</b>
+1. Torrent
+2. Torrent
+3. Torrent
+
+<b>Move #1</b>
+1. Shell Smash**
+2. Shell Smash*
+3. Dragon Dance
+
+<b>Move #2</b>
+1. Aqua Jet
+2. Hydro Pump
+3. Waterfall
+
+<b>Move #3</b>
+1. Megahorn
+2. Blizzard
+3. Crunch
+
+<b>Move #4</b>
+1. Razor Shell
+2. Focus Blast
+3. Earthquake
+4. Swampert
+5. Empoleon
+6. Simipour
+7. 86
+8. 86
+9. 88
+10. Rindo Berry
+11. Shuca Berry
+12. Petaya Berry
+13. Mold Breaker
+14. Defiant
+15. Unburden
+16. Torrent
+17. Torrent
+18. Gluttony
+19. Earthquake
+20. Hydro Pump
+21. Hydro Pump
+22. Waterfall
+23. Flash Cannon
+24. Ice Beam
+25. Avalanche
+26. Grass Knot
+27. Grass Knot
+28. Hammer Arm
+29. Aqua Jet
+30. Focus Blast
+31. * Water Spout in the Clean version.
+32. ** Swords Dance in the Clean version.
+
+<b><u>Chili’s Team – Striaton Gym</u></b>
+
+<b>Species:</b>
+1. Tepig
+2. Charmander
+3. Cyndaquil
+
+<b>Levels:</b>
+1. 12
+2. 12
+3. 12
+
+<b>Items:</b>
+1. -
+2. -
+3. -
+
+<b>Abilities:</b>
+1. Blaze
+2. Blaze
+3. Blaze
+
+<b>Move #1</b>
+1. Tackle
+2. Scratch
+3. Quick Attack
+
+<b>Move #2</b>
+1. Yawn
+2. Dragon Dance
+3. Nature Power
+
+<b>Move #3</b>
+1. Ember
+2. Ember
+3. Smokescreen
+
+<b>Move #4</b>
+1. Magnitude
+2. Smokescreen
+3. Flame Burst
+4. Torchic
+5. Chimchar
+6. Pansear
+7. 12
+8. 12
+9. 14
+10. -
+11. -
+12. Oran Berry
+13. Blaze
+14. Blaze
+15. Gluttony
+16. Low Kick
+17. Assist
+18. Nasty Plot
+19. Focus Energy
+20. Fake Out
+21. Bite
+22. Ember
+23. Ember
+24. Incinerate
+25. Featherdance
+26. Torment
+27. Protect
+
+<b><u>Chili’s Team – Abundant Shrine; replaces Youngster Wes.</u></b>
+
+<b>Species:</b>
+1. Emboar
+2. Charizard
+3. Typhlosion
+
+<b>Levels:</b>
+1. 86
+2. 86
+3. 86
+
+<b>Items:</b>
+1. Passho Berry
+2. Charti Berry
+3. Shuca Berry
+
+<b>Abilities:</b>
+1. Adaptability
+2. Solar Power
+3. Flash Fire
+
+<b>Abilities:</b>
+1. Blaze
+2. Blaze
+3. Blaze
+
+<b>Move #1</b>
+1. Flare Blitz
+2. Fire Blast
+3. Eruption
+
+<b>Move #2</b>
+1. Earthquake
+2. Air Slash
+3. Focus Blast
+
+<b>Move #3</b>
+1. Hammer Arm
+2. Outrage
+3. SolarBeam
+
+<b>Move #4</b>
+1. Scald
+2. Earthquake
+3. ThunderPunch
+4. Blaziken
+5. Infernape
+6. Simisear
+7. 86
+8. 86
+9. 88
+10. Payapa Berry
+11. Coba Berry
+12. Petaya Berry
+13. Speed Boost
+14. Iron Fist
+15. Unburden
+16. Blaze
+17. Blaze
+18. Gluttony
+19. Hi Jump Kick
+20. Overheat
+21. Fire Blast
+22. Flare Blitz
+23. Close Combat
+24. Focus Blast
+25. Stone Edge
+26. Grass Knot
+27. Grass Knot
+28. ThunderPunch
+29. ThunderPunch
+30. Will-O-Wisp
+</code></pre>
+
+#### Rival Cheren – 3
+
+<pre><code>
+<b>Battle Type:</b> Single Battle
+<b>Location:</b> Route 3
+
+<b><u>Cheren’s Team</u></b>
+
+<b>Species:</b>
+1. Staravia
+2. Roggenrola
+3. Panpour
+4. Pansear
+5. Pansage
+6. Snivy
+7. Oshawott
+8. Tepig
+
+<b>Levels:</b>
+1. 14
+2. 14
+3. 14
+4. 16
+
+<b>Items:</b>
+1. -
+2. -
+3. -
+4. Sitrus Berry
+
+<b>Abilities:</b>
+1. Reckless
+2. Sturdy
+3. Torrent
+4. Blaze
+5. Overgrow
+6. Contrary
+7. Vital Spirit
+8. Adaptability
+
+<b>Abilities:</b>
+1. Intimidate
+2. Sturdy
+3. Gluttony
+4. Overgrow
+5. Torrent
+6. Blaze
+</code></pre>
+
+#### PKMN Trainer N – 2
+
+<pre><code>
+<b>Battle Type:</b> Double Battle
+<b>Location:</b> Nacrene City
+
+<b><u>N’s Team</u></b>
+
+<b>Species:</b>
+1. Drilbur
+2. Bronzor
+3. Tympole
+4. Vulpix
+5. Zorua
+
+<b>Levels:</b>
+1. 19
+2. 19
+3. 19
+4. 19
+5. 19
+</code></pre>
+
+#### Gym Leader Lenora
+
+<pre><code>
+<b>Battle Type:</b> Double Battle (Initial) / Single Battle (Rematch)
+<b>Reward:</b> TM67 Retaliate
+
+<b><u>Lenora’s Team – Nacrene Gym</u></b>
+
+<b>Species:</b>
+1. Stantler
+2. Herdier
+3. Furret
+
+<b>Levels:</b>
+1. 18
+2. 18
+3. 18
+
+<b>Items:</b>
+1. -
+2. -
+3. -
+
+<b>Abilities:</b>
+1. Intimidate
+2. Intimidate
+3. Keen Eye
+
+<b>Abilities:</b>
+1. Intimidate
+2. Intimidate
+3. Keen Eye
+
+<b>Move #1</b>
+1. Retaliate
+2. Retaliate
+3. Retaliate
+
+<b>Move #2</b>
+1. Hypnosis
+2. Bite
+3. Follow Me
+
+<b>Move #3</b>
+1. Disable
+2. Helping Hand
+3. Thunderbolt
+
+<b>Move #4</b>
+1. Extrasensory
+2. Charm
+3. Reversal
+4. Bibarel
+5. Watchog
+6. Bouffalant
+7. 18
+8. 20
+9. 20
+10. -
+11. Sitrus Berry
+12. Sitrus Berry
+13. Moody
+14. Analytic
+15. Sap Sipper
+16. Simple
+17. Keen Eye
+18. Sap Sipper
+19. Retaliate
+20. Retaliate
+21. Retaliate
+22. Curse
+23. Hypnosis
+24. Aerial Ace
+25. Aqua Tail
+26. Super Fang
+27. Rock Tomb
+28. Amnesia
+29. Crunch
+30. Revenge
+
+<b><u>Lenora’s Team – Village Bridge; replaces Scientist Shannon.</u></b>
+
+<b>Species:</b>
+1. Stoutland
+2. Granbull
+3. Kangaskhan
+
+<b>Levels:</b>
+1. 87
+2. 87
+3. 87
+
+<b>Items:</b>
+1. Air Balloon
+2. Chople Berry
+3. Expert Belt
+
+<b>Abilities:</b>
+1. Intimidate
+2. Intimidate
+3. Scrappy
+
+<b>Abilities:</b>
+1. Intimidate
+2. Intimidate
+3. Scrappy
+
+<b>Move #1</b>
+1. Return
+2. Thunder Wave
+3. Outrage
+
+<b>Move #2</b>
+1. Crunch
+2. Return
+3. Return
+
+<b>Move #3</b>
+1. Fire Fang
+2. Earthquake
+3. Earthquake
+
+<b>Move #4</b>
+1. Wild Charge
+2. Crunch
+3. Sucker Punch
+4. Ambipom
+5. Watchog
+6. Bouffalant
+7. 87
+8. 87
+9. 89
+10. Scope Lens
+11. Air Balloon
+12. Sitrus Berry
+13. Technician
+14. Analytic
+15. Reckless
+16. Technician
+17. Keen Eye
+18. Reckless
+19. Double Hit
+20. Super Fang
+21. Head Charge
+22. Fake Out
+23. Crunch
+24. Wild Charge
+25. Low Kick
+26. Low Kick
+27. Stone Edge
+28. U-turn
+29. Thunder Wave
+30. Earthquake
+</code></pre>
+
+#### Gym Leader Burgh
+
+<pre><code>
+<b>Battle Type:</b> Double Battle (Initial) / Single Battle (Rematch)
+<b>Reward:</b> TM89 U-turn
+
+<b><u>Burgh’s Team – Castelia Gym</u></b>
+
+<b>Species:</b>
+1. Masquerain
+2. Vespiquen
+3. Heracross
+
+<b>Levels:</b>
+1. 28
+2. 28
+3. 28
+
+<b>Items:</b>
+1. -
+2. -
+3. Flame Orb
+
+<b>Abilities:</b>
+1. Levitate
+2. Intimidate
+3. Guts
+
+<b>Abilities:</b>
+1. Intimidate
+2. Pressure
+3. Guts
+
+<b>Move #1</b>
+1. Scald
+2. Acrobatics
+3. Brick Break
+
+<b>Move #2</b>
+1. Silver Wind
+2. Toxic
+3. Aerial Ace
+
+<b>Move #3</b>
+1. Stun Spore
+2. Heal Order
+3. Bug Bite
+
+<b>Move #4</b>
+1. Icy Wind
+2. U-turn
+3. Night Slash
+4. Yanmega
+5. Scolipede
+6. Leavanny
+7. 28
+8. 30
+9. 30
+10. -
+11. Sitrus Berry
+12. Sitrus Berry
+13. Speed Boost
+14. Poison Touch
+15. Swarm
+16. Speed Boost
+17. Swarm
+18. Swarm
+19. Protect
+20. Toxic
+21. Protect
+22. U-turn
+23. Rock Climb
+24. Leaf Blade
+25. Air Slash
+26. Megahorn
+27. X-Scissor
+28. Signal Beam
+29. Rock Slide
+30. GrassWhistle
+
+<b><u>Burgh’s Team – Route 13; replaces Artist Zach.</u></b>
+
+<b>Species:</b>
+1. Yanmega
+2. Crustle
+3. Scizor
+
+<b>Levels:</b>
+1. 87
+2. 87
+3. 87
+
+<b>Items:</b>
+1. Occa Berry
+2. White Herb
+3. Life Orb
+
+<b>Abilities:</b>
+1. Speed Boost
+2. Sturdy
+3. Technician
+
+<b>Move #1</b>
+1. Bug Buzz
+2. Shell Smash
+3. Bullet Punch
+
+<b>Move #2</b>
+1. Air Slash
+2. Stone Edge
+3. Bug Bite
+
+<b>Move #3</b>
+1. Psychic
+2. X-Scissor
+3. Superpower
+
+<b>Move #4</b>
+1. Shadow Ball
+2. Earthquake
+3. Pursuit
+4. Venomoth
+5. Scolipede
+6. Leavanny
+7. 87
+8. 87
+9. 89
+10. Starf Berry
+11. Liechi Berry
+12. Focus Sash
+13. Tinted Lens
+14. Swarm
+15. Swarm
+16. Quiver Dance
+17. Megahorn
+18. X-Scissor
+19. Bug Buzz
+20. Toxic Spikes
+21. Leaf Blade
+22. Sludge Bomb
+23. Spikes
+24. Agility
+25. Sleep Powder
+26. Rock Slide
+27. Shadow Claw
+</code></pre>
+
+#### Rival Bianca – 3
+
+<pre><code>
+<b>Battle Type:</b> Double Battle
+<b>Location:</b> Castelia City-Route 4 Gatehouse
+
+<b><u>Bianca’s Team</u></b>
+
+<b>Species:</b>
+1. Munna
+2. Simipour
+3. Simisear
+4. Simisage
+5. Persian
+6. Servine
+7. Dewott
+8. Pignite
+
+<b>Levels:</b>
+1. 29
+2. 29
+3. 31
+4. 31
+
+<b>Items:</b>
+1. -
+2. -
+3. -
+4. Sitrus Berry
+
+<b>Abilities:</b>
+1. Analytic
+2. Unburden
+3. Technician
+4. Contrary
+5. Vital Spirit
+6. Adaptability
+
+<b>Abilities:</b>
+1. Synchronize
+2. Gluttony
+3. Technician
+4. Overgrow
+5. Torrent
+6. Blaze
+</code></pre>
+
+#### Rival Cheren – 4
+
+<pre><code>
+<b>Battle Type:</b> Rotation Battle
+<b>Location:</b> Route 4
+
+<b><u>Cheren’s Team</u></b>
+
+<b>Species:</b>
+1. Staravia
+2. Boldore
+3. Kadabra
+4. Simipour
+5. Simisear
+6. Simisage
+7. Servine
+8. Dewott
+9. Pignite
+
+<b>Levels:</b>
+1. 31
+2. 31
+3. 31
+4. 31
+5. 33
+
+<b>Items:</b>
+1. Sharp Beak
+2. Hard Stone
+3. TwistedSpoon
+4. Expert Belt
+5. Sitrus Berry
+
+<b>Abilities:</b>
+1. Reckless
+2. Sturdy
+3. Magic Guard
+4. Torrent
+5. Blaze
+6. Overgrow
+7. Contrary
+8. Vital Spirit
+9. Adaptability
+
+<b>Abilities:</b>
+1. Intimidate
+2. Sturdy
+3. Synchronize
+4. Gluttony
+5. Overgrow
+6. Torrent
+7. Blaze
+</code></pre>
+
+#### PKMN Trainer N – 3
+
+<pre><code>
+<b>Battle Type:</b> Double Battle
+<b>Location:</b> Nimbasa City
+
+<b><u>N’s Team</u></b>
+
+<b>Species:</b>
+1. Hippopotas
+2. Maractus
+3. Gligar
+
+<b>Levels:</b>
+1. 33
+2. 33
+3. 33
+4. Larvesta
+5. Golett
+6. Sigilyph
+7. 33
+8. 33
+9. 33
+</code></pre>
+
+#### Gym Leader Elesa
+
+<pre><code>
+<b>Battle Type:</b> Single Battle
+<b>Reward:</b> TM93 Wild Charge
+
+<b><u>Elesa’s Team – Nimbasa Gym</u></b>
+
+<b>Species:</b>
+1. Emolga
+2. Manectric
+3. Ampharos
+
+<b>Levels:</b>
+1. 36
+2. 36
+3. 36
+
+<b>Items:</b>
+1. -
+2. -
+3. -
+
+<b>Abilities:</b>
+1. Static
+2. Static
+3. Static
+
+<b>Abilities:</b>
+1. Static
+2. Static
+3. Static
+
+<b>Move #1</b>
+1. Wild Charge
+2. Thunderbolt
+3. Thunderbolt
+
+<b>Move #2</b>
+1. U-turn
+2. Volt Switch
+3. Charge
+
+<b>Move #3</b>
+1. Acrobatics
+2. Flamethrower
+3. Focus Blast
+
+<b>Move #4</b>
+1. Roost
+2. Attract
+3. Cotton Guard
+4. Raichu
+5. Galvantula
+6. Zebstrika
+7. 36
+8. 36
+9. 38
+10. -
+11. -
+12. Sitrus Berry
+13. Static
+14. Compoundeyes
+15. Sap Sipper
+16. Static
+17. Compoundeyes
+18. Lightningrod
+19. Wild Charge
+20. Thunder
+21. Wild Charge
+22. Volt Switch
+23. Volt Switch
+24. Volt Switch
+25. Grass Knot
+26. Signal Beam
+27. Flame Charge
+28. Focus Blast
+29. Energy Ball
+30. Double Kick
+
+<b><u>Elesa’s Team – Route 13; replaces Parasol Lady Laura.</u></b>
+
+<b>Species:</b>
+1. Emolga
+2. Electivire
+3. Jolteon
+
+<b>Levels:</b>
+1. 88
+2. 88
+3. 88
+
+<b>Items:</b>
+1. Starf Berry
+2. Sitrus Berry
+3. Starf Berry
+
+<b>Abilities:</b>
+1. Static
+2. Motor Drive
+3. Lightningrod
+
+<b>Abilities:</b>
+1. Static
+2. Motor Drive
+3. Volt Absorb
+
+<b>Move #1</b>
+1. Baton Pass
+2. Volt Tackle*
+3. Thunder
+
+<b>Move #2</b>
+1. Agility
+2. Cross Chop
+3. Shadow Ball
+
+<b>Move #3</b>
+1. Thunder
+2. Ice Punch
+3. Baton Pass
+
+<b>Move #4</b>
+1. Light Screen
+2. Earthquake
+3. Thunder Wave
+4. Eelektross
+5. Galvantula
+6. Zebstrika
+7. 88
+8. 88
+9. 90
+10. Flying Gem
+11. Wide Lens
+12. Life Orb
+13. Levitate
+14. Compoundeyes
+15. Sap Sipper
+16. Levitate
+17. Compoundeyes
+18. Motor Drive
+19. Acrobatics
+20. Thunder
+21. Volt Tackle*
+22. Thunder
+23. Bug Buzz
+24. Flame Charge
+25. Rock Slide
+26. Energy Ball
+27. Quick Attack
+28. Flamethrower
+29. Thunder Wave
+30. Return
+31. * Wild Charge in the Clean version.
+</code></pre>
+
+#### Rival Cheren – 5
+
+<pre><code>
+<b>Battle Type:</b> Single Battle
+<b>Location:</b> Route 5
+
+<b><u>Cheren’s Team</u></b>
+
+<b>Species:</b>
+1. Staraptor
+2. Gigalith
+3. Alakazam
+4. Simipour
+5. Simisear
+6. Simisage
+7. Serperior
+8. Samurott
+9. Emboar
+
+<b>Levels:</b>
+1. 36
+2. 36
+3. 36
+4. 36
+5. 38
+
+<b>Items:</b>
+1. Sharp Beak
+2. Hard Stone
+3. TwistedSpoon
+4. Expert Belt
+5. Sitrus Berry
+
+<b>Abilities:</b>
+1. Reckless
+2. Sturdy
+3. Magic Guard
+4. Torrent
+5. Blaze
+6. Overgrow
+7. Contrary
+8. Vital Spirit
+9. Adaptability
+
+<b>Abilities:</b>
+1. Intimidate
+2. Sturdy
+3. Synchronize
+4. Gluttony
+5. Overgrow
+6. Torrent
+7. Blaze
+</code></pre>
+
+#### Gym Leader Clay
+
+<pre><code>
+<b>Battle Type:</b> Single Battle
+<b>Reward:</b> TM78 Bulldoze
+
+<b><u>Clay’s Team – Driftveil Gym</u></b>
+
+<b>Species:</b>
+1. Hippowdon
+2. Seismitoad
+3. Steelix
+
+<b>Levels:</b>
+1. 42
+2. 42
+3. 42
+
+<b>Items:</b>
+1. -
+2. Chesto Berry
+3. Passho Berry
+
+<b>Abilities:</b>
+1. Sand Stream
+2. Water Absorb
+3. Sturdy
+
+<b>Abilities:</b>
+1. Sand Stream
+2. Poison Hand
+3. Sturdy
+
+<b>Move #1</b>
+1. Bulldoze
+2. Earth Power
+3. Earthquake
+
+<b>Move #2</b>
+1. Slack Off
+2. Muddy Water
+3. Fire Fang
+
+<b>Move #3</b>
+1. Stealth Rock
+2. Sludge Wave
+3. Gyro Ball
+
+<b>Move #4</b>
+1. Stone Edge
+2. Rest
+3. Coil*
+4. Marowak
+5. Krookodile
+6. Excadrill
+7. 42
+8. 42
+9. 44
+10. Thick Club
+11. Persim Berry
+12. Sitrus Berry
+13. Mold Breaker
+14. Intimidate
+15. Sand Rush
+16. Rock Head
+17. Intimidate
+18. Sand Rush
+19. Earthquake
+20. Earthquake
+21. Earthquake
+22. Stone Edge
+23. Crunch
+24. Rock Slide
+25. Low Kick
+26. Thrash
+27. X-Scissor
+28. Perish Song
+29. Torment
+30. Swords Dance
+31. * DragonBreath in the Clean version.
+
+<b><u>Clay’s Team – Route 14; replaces Hiker Jebediah.</u></b>
+
+<b>Species:</b>
+1. Hippowdon
+2. Seismitoad
+3. Rhyperior
+
+<b>Levels:</b>
+1. 88
+2. 88
+3. 88
+
+<b>Items:</b>
+1. Passho Berry
+2. Rindo Berry
+3. Life Orb
+
+<b>Abilities:</b>
+1. Sand Stream
+2. Water Absorb
+3. Solid Rock
+
+<b>Abilities:</b>
+1. Sand Stream
+2. Poison Hand
+3. Solid Rock
+
+<b>Move #1</b>
+1. Earthquake
+2. Earthquake
+3. Earthquake
+
+<b>Move #2</b>
+1. Slack Off
+2. Muddy Water
+3. Stone Edge
+
+<b>Move #3</b>
+1. Stone Edge
+2. Grass Knot
+3. Megahorn
+
+<b>Move #4</b>
+1. Crunch
+2. Drain Punch
+3. Superpower
+4. Donphan
+5. Krookodile
+6. Excadrill
+7. 88
+8. 88
+9. 90
+10. Custap Berry
+11. Chople Berry
+12. Air Balloon
+13. Sturdy
+14. Intimidate
+15. Sand Rush
+16. Sturdy
+17. Intimidate
+18. Sand Rush
+19. Earthquake
+20. Earthquake
+21. Earthquake
+22. Ice Shard
+23. Crunch
+24. Rock Slide
+25. Endeavor
+26. Stone Edge
+27. X-Scissor
+28. Stone Edge
+29. Outrage
+30. Horn Drill
+</code></pre>
+
+#### Rival Bianca – 4
+
+<pre><code>
+<b>Battle Type:</b> Single Battle
+<b>Location:</b> Driftveil City
+
+<b><u>Bianca’s Team</u></b>
+
+<b>Species:</b>
+1. Mienfoo
+2. Musharna
+3. Persian
+4. Simipour
+5. Simisear
+6. Simisage
+7. Serperior
+8. Samurott
+9. Emboar
+
+<b>Levels:</b>
+1. 41
+2. 41
+3. 41
+4. 41
+5. 43
+
+<b>Items:</b>
+1. -
+2. -
+3. -
+4. -
+5. Sitrus Berry
+
+<b>Abilities:</b>
+1. Reckless
+2. Analytic
+3. Technician
+4. Unburden
+5. Contrary
+6. Vital Spirit
+7. Adaptability
+
+<b>Abilities:</b>
+1. Regenerator
+2. Synchronize
+3. Technician
+4. Gluttony
+5. Overgrow
+6. Torrent
+7. Blaze
+</code></pre>
+
+#### PKMN Trainer N – 4
+
+<pre><code>
+<b>Battle Type:</b> Single Battle
+<b>Location:</b> Chargestone Cave
+
+<b><u>N’s Team</u></b>
+
+<b>Species:</b>
+1. Rotom
+2. Rotom
+3. Rotom
+
+<b>Levels:</b>
+1. 47
+2. 47
+3. 47
+4. Rotom
+5. Rotom
+6. Rotom
+7. 47
+8. 47
+9. 47
+</code></pre>
+
+#### Gym Leader Skyla
+
+<pre><code>
+<b>Battle Type:</b> Triple Battle
+<b>Reward:</b> TM62 Acrobatics
+
+<b><u>Skyla’s Team – Mistralton Gym</u></b>
+
+<b>Species:</b>
+1. Mandibuzz
+2. Skarmory
+3. Braviary
+
+<b>Levels:</b>
+1. 54
+2. 54
+3. 54
+
+<b>Items:</b>
+1. Chesto Berry
+2. Occa Berry
+3. Sitrus Berry
+
+<b>Items:</b>
+1. Chesto Berry
+2. Occa Berry
+3. Sitrus Berry
+
+<b>Abilities:</b>
+1. Big Pecks
+2. Sturdy
+3. Defiant
+
+<b>Abilities:</b>
+1. Big Pecks
+2. Sturdy
+3. Sheer Force
+
+<b>Move #1</b>
+1. Brave Bird
+2. Brave Bird
+3. Brave Bird
+
+<b>Move #2 (Reg)</b>
+
+<b>Move #2 (Cln)</b>
+1. Torment
+2. Torment
+3. Spikes
+4. Spikes
+5. Rock Slide
+6. Rock Slide
+
+<b>Move #3</b>
+1. Tailwind
+2. Steel Wing
+3. Crush Claw
+
+<b>Move #4</b>
+1. Rest
+2. Roost
+3. Bulk Up
+4. Archeops
+5. Gliscor
+6. Swanna
+7. 56
+8. 56
+9. 56
+10. Flying Gem
+11. Toxic Orb
+12. Sitrus Berry
+13. Flying Gem
+14. Flying Gem
+15. Sitrus Berry
+16. Defeatist
+17. Poison Heal
+18. Big Pecks
+19. Defeatist
+20. Hyper Cutter
+21. Big Pecks
+22. Acrobatics
+23. Acrobatics
+24. Hurricane
+25. Stone Edge
+26. Stone Edge
+27. Fling
+28. Roost
+29. Brine
+30. Brine
+31. Earthquake
+32. Earthquake
+33. Ice Beam
+34. Dragon Claw
+35. Thunder Fang
+36. Tailwind
+
+<b><u>Skyla’s Team – Route 14; replaces Ace Trainer Junko.</u></b>
+
+<b>Species:</b>
+1. Swoobat
+2. Braviary
+3. Tropius
+
+<b>Levels:</b>
+1. 88
+2. 88
+3. 88
+
+<b>Items:</b>
+1. Focus Sash
+2. White Herb
+3. Power Herb
+
+<b>Abilities:</b>
+1. Simple
+2. Defiant
+3. Chlorophyll
+
+<b>Abilities:</b>
+1. Unaware
+2. Sheer Force
+3. Chlorophyll
+
+<b>Move #1</b>
+1. Psychic
+2. Crush Claw
+3. Leaf Blade
+
+<b>Move #2 (Reg)</b>
+
+<b>Move #2 (Cln)</b>
+1. Stored Power
+2. Charge Beam
+3. ExtremeSpeed
+4. U-turn
+5. Earthquake
+6. Earthquake
+
+<b>Move #3</b>
+1. Air Slash
+2. Brave Bird
+3. Fly
+
+<b>Move #4</b>
+1. Calm Mind
+2. Rock Slide
+3. Roost
+4. Skarmory
+5. Gliscor
+6. Swanna
+7. 90
+8. 90
+9. 90
+10. Sitrus Berry
+11. Toxic Orb*
+12. Life Orb
+13. Sturdy
+14. Poison Heal
+15. Big Pecks
+16. Sturdy
+17. Hyper Cutter
+18. Big Pecks
+19. Brave Bird
+20. Earthquake
+21. Surf
+22. Steel Wing
+23. Steel Wing
+24. Fling
+25. Roost
+26. Ice Beam
+27. Ice Beam
+28. Roost
+29. Stone Edge
+30. Brave Bird
+31. X-Scissor
+32. Acrobatics
+33. Tailwind
+34. * Yache Berry in Clean version.
+</code></pre>
+
+#### Rival Cheren – 6
+
+<pre><code>
+<b>Battle Type:</b> Rotation Battle
+<b>Location:</b> Twist Mountain
+
+<b><u>Cheren’s Team</u></b>
+
+<b>Species:</b>
+1. Staraptor
+2. Gigalith
+3. Alakazam
+
+<b>Levels:</b>
+1. 53
+2. 53
+3. 53
+
+<b>Items:</b>
+1. Sharp Beak
+2. Hard Stone
+3. TwistedSpoon
+
+<b>Abilities:</b>
+1. Reckless
+2. Sturdy
+3. Magic Guard
+
+<b>Abilities:</b>
+1. Intimidate
+2. Sturdy
+3. Synchronize
+
+<b>Move #1</b>
+1. Brave Bird
+2. Stone Edge
+3. Psychic
+
+<b>Move #2</b>
+1. Close Combat
+2. Stealth Rock
+3. Shadow Ball
+
+<b>Move #3</b>
+1. Retaliate
+2. Earthquake
+3. Energy Ball
+
+<b>Move #4 (Reg)</b>
+1. U-turn
+2. Explosion
+3. Charge Beam
+
+<b>Move #4 (Cln)</b>
+1. U-turn
+2. Explosion
+3. Charge Beam
+
+<b>Species:</b>
+1. Houndoom
+2. Whimsicott
+3. Gyarados
+4. Simipour
+5. Simisear
+6. Simisage
+7. Serperior
+8. Samurott
+9. Emboar
+
+<b>Levels:</b>
+1. 53
+2. 53
+3. 55
+
+<b>Items:</b>
+1. Lum Berry
+2. Iron Ball
+3. Sitrus Berry
+
+<b>Abilities:</b>
+1. Intimidate
+2. Prankster
+3. Moxie
+4. Torrent
+5. Blaze
+6. Overgrow
+7. Contrary
+8. Vital Spirit
+9. Adaptability
+
+<b>Abilities:</b>
+1. Flash Fire
+2. Prankster
+3. Intimidate
+4. Gluttony
+5. Overgrow
+6. Torrent
+7. Blaze
+
+<b>Move #1</b>
+1. Flamethrower
+2. Energy Ball
+3. Aqua Tail
+4. Scald
+5. Flame Burst
+6. Seed Bomb
+7. Leaf Blade
+8. Scald
+9. Heat Crash
+
+<b>Move #2</b>
+1. Dark Pulse
+2. Hurricane
+3. Ice Fang
+4. Acrobatics
+5. Acrobatics
+6. Acrobatics
+7. Leech Seed
+8. Swords Dance
+9. Bulk Up
+
+<b>Move #3</b>
+1. Nasty Plot
+2. Tailwind
+3. Dragon Dance
+4. Fling
+5. Fling
+6. Fling
+7. Glare
+8. Megahorn
+9. Wild Charge
+
+<b>Move #4 (Reg)</b>
+1. Will-O-Wisp
+2. Cotton Guard
+3. Earthquake
+4. Hydro Cannon
+5. Blast Burn
+6. Frenzy Plant
+7. Dragon Pulse
+8. Sacred Sword
+9. Earthquake
+
+<b>Move #4 (Cln)</b>
+1. Will-O-Wisp
+2. Cotton Guard
+3. Earthquake
+4. Rock Slide
+5. Rock Slide
+6. Rock Slide
+7. Reflect
+8. Ice Beam
+9. Hammer Arm
+</code></pre>
+
+#### Gym Leader Brycen
+
+<pre><code>
+<b>Battle Type:</b> Double Battle (Initial) / Triple Battle (Rematch)
+<b>Reward:</b> TM13 Ice Beam
+
+<b><u>Brycen’s Team – Icirrus Gym</u></b>
+
+<b>Species:</b>
+1. Abomasnow
+2. Glaceon
+3. Froslass
+
+<b>Levels:</b>
+1. 61
+2. 61
+3. 61
+
+<b>Items:</b>
+1. Expert Belt
+2. Choice Scarf
+3. Life Orb
+
+<b>Abilities:</b>
+1. Snow Warning
+2. Serene Grace
+3. Levitate
+
+<b>Abilities:</b>
+1. Snow Warning
+2. Snow Cloak
+3. Snow Cloak
+
+<b>Move #1</b>
+1. Blizzard
+2. Blizzard
+3. Blizzard
+
+<b>Move #2 (Reg)</b>
+
+<b>Move #2 (Cln)</b>
+1. Wood Hammer Wood Hammer
+2. Earth Power
+3. Hidden Power
+4. Thunderbolt Thunderbolt
+
+<b>Move #3 (Reg)</b>
+
+<b>Move #3 (Cln)</b>
+1. Focus Blast
+2. Focus Blast
+3. Shadow Ball Shadow Ball
+4. Shadow Ball Shadow Ball
+
+<b>Move #4</b>
+1. Ice Shard
+2. Baton Pass
+3. Disable
+4. Vanilluxe
+5. Cryogonal
+6. Beartic
+7. 63
+8. 61
+9. 63
+10. NeverMeltIce
+11. Focus Sash
+12. White Herb
+13. Weak Armor
+14. Levitate
+15. Sheer Force
+16. Ice Body
+17. Levitate
+18. Snow Cloak
+19. Blizzard
+20. Blizzard
+21. Icicle Crash
+22. Flash Cannon Flash Cannon
+23. Reflect
+24. Reflect
+25. Close Combat Superpower
+26. Energy Ball
+27. Icy Wind
+28. Hidden Power Hidden Power
+29. Waterfall
+30. Shadow Claw
+31. Autotomize
+32. Protect
+33. Rock Slide
+
+<b><u>Brycen’s Team – Route 14; replaces Ace Trainer Kipp.</u></b>
+
+<b>Species:</b>
+1. Abomasnow
+2. Lapras
+3. Glalie
+
+<b>Levels:</b>
+1. 88
+2. 88
+3. 88
+
+<b>Items:</b>
+1. Expert Belt
+2. Chople Berry
+3. Occa Berry
+
+<b>Abilities:</b>
+1. Snow Warning
+2. Shell Armor
+3. Levitate
+
+<b>Abilities:</b>
+1. Snow Warning
+2. Shell Armor
+3. Ice Body
+
+<b>Move #1</b>
+1. Blizzard
+2. Blizzard
+3. Blizzard
+
+<b>Move #2</b>
+1. Wood Hammer
+2. Hydro Pump
+3. Earthquake
+
+<b>Move #3</b>
+1. Focus Blast
+2. Sing
+3. Ice Shard
+
+<b>Move #4 (Reg)</b>
+
+<b>Move #4 (Cln)</b>
+1. Earthquake
+2. Earthquake
+3. Perish Song
+4. Perish Song
+5. Stone Edge
+6. Signal Beam
+7. Cryogonal
+8. Vanilluxe
+9. Beartic
+10. 88
+11. 90
+12. 90
+13. Focus Sash
+14. Life Orb
+15. Life Orb
+16. Levitate
+17. Weak Armor
+18. Sheer Force
+19. Levitate
+20. Ice Body
+21. Snow Cloak
+22. Blizzard
+23. Blizzard
+24. Icicle Crash
+25. Flash Cannon
+26. Flash Cannon
+27. Stone Edge
+28. Reflect
+29. Water Pulse
+30. Dive
+31. Sheer Cold
+32. Sheer Cold
+33. Energy Ball
+34. Sheer Cold
+35. Close Combat
+36. Superpower
+</code></pre>
+
+#### Rival Bianca – 5
+
+<pre><code>
+<b>Battle Type:</b> Triple Battle
+<b>Location:</b> Route 8
+
+<b><u>Bianca’s Team</u></b>
+
+<b>Species:</b>
+1. Persian
+2. Musharna
+3. Mienshao
+
+<b>Levels:</b>
+1. 61
+2. 59
+3. 61
+
+<b>Items:</b>
+1. Chople Berry
+2. Kasib Berry
+3. Coba Berry
+
+<b>Abilities:</b>
+1. Technician
+2. Analytic
+3. Reckless
+
+<b>Abilities:</b>
+1. Technician
+2. Synchronize
+3. Regenerator
+
+<b>Move #1</b>
+1. Nasty Plot
+2. Hypnosis
+3. Hi Jump Kick
+
+<b>Move #2</b>
+1. Hypnosis
+2. Psychic
+3. U-turn
+
+<b>Move #3</b>
+1. Swift
+2. Energy Ball
+3. Stone Edge
+
+<b>Move #4 (Reg)</b>
+1. Fake Out
+2. Reflect
+3. Poison Jab
+
+<b>Move #4 (Cln)</b>
+1. Fake Out
+2. Reflect
+3. Poison Jab
+
+<b>Species:</b>
+1. Chandelure
+2. Lilligant
+3. Milotic
+4. Simipour
+5. Simisear
+6. Simisage
+7. Serperior
+8. Samurott
+9. Emboar
+
+<b>Levels:</b>
+1. 63
+2. 63
+3. 65
+
+<b>Items:</b>
+1. Sitrus Berry
+2. Flying Gem
+3. Leftovers
+
+<b>Abilities:</b>
+1. Levitate
+2. Own Tempo
+3. Multiscale
+4. Unburden
+5. Contrary
+6. Vital Spirit
+7. Adaptability
+
+<b>Abilities:</b>
+1. Flame Body
+2. Own Tempo
+3. Marvel Scale
+4. Gluttony
+5. Overgrow
+6. Torrent
+7. Blaze
+
+<b>Move #1</b>
+1. Flamethrower
+2. Petal Dance
+3. Surf
+4. Work Up
+5. Work Up
+6. Work Up
+7. Leaf Blade
+8. Scald
+9. Heat Crash
+
+<b>Move #2</b>
+1. Shadow Ball
+2. Hidden Power
+3. Ice Beam
+4. Acrobatics
+5. Acrobatics
+6. Acrobatics
+7. Leech Seed
+8. Swords Dance
+9. Bulk Up
+
+<b>Move #3</b>
+1. Will-O-Wisp
+2. Sleep Powder
+3. Hypnosis
+4. Focus Blast
+5. Focus Blast
+6. Focus Blast
+7. Glare
+8. Megahorn
+9. Wild Charge
+
+<b>Move #4 (Reg)</b>
+1. Psychic
+2. Focus Blast
+3. Dragon Tail
+4. Water Spout
+5. Fire Blast
+6. Power Whip
+7. Dragon Pulse
+8. Sacred Sword
+9. Earthquake
+
+<b>Move #4 (Cln)</b>
+1. Psychic
+2. Aromatherapy
+3. Dragon Tail
+4. Hydro Pump
+5. Overheat
+6. Leaf Storm
+7. Reflect
+8. Ice Beam
+9. Hammer Arm
+</code></pre>
+
+#### Gym Leader Drayden
+
+<pre><code>
+<b>Battle Type:</b> Rotation Battle
+<b>Reward:</b> TM82 Dragon Tail
+
+<b><u>Drayden’s Team – Opelucid Gym, Black</u></b>
+
+<b>Species:</b>
+1. Druddigon
+2. Charizard
+3. Flygon
+
+<b>Levels:</b>
+1. 64
+2. 64
+3. 64
+
+<b>Items:</b>
+1. Rocky Helmet
+2. Salac Berry
+3. Yache Berry
+
+<b>Abilities:</b>
+1. Rough Skin
+2. Blaze
+3. Levitate
+
+<b>Abilities:</b>
+1. Rough Skin
+2. Blaze
+3. Levitate
+
+<b>Move #1 (Reg)</b>
+
+<b>Move #1 (Cln)</b>
+1. Outrage
+2. Outrage
+3. Belly Drum
+4. Belly Drum
+5. Quiver Dance
+6. Tailwind
+
+<b>Move #2</b>
+1. Revenge
+2. Fire Punch
+3. Dragon Pulse
+
+<b>Move #3</b>
+1. Earthquake
+2. Earthquake
+3. Earth Power
+
+<b>Move #4</b>
+1. Dragon Tail
+2. Substitute
+3. Fire Blast
+4. Salamence
+5. Kingdra
+6. Haxorus
+7. 64
+8. 64
+9. 66
+10. Life Orb
+11. White Herb
+12. Sitrus Berry
+13. Moxie
+14. Sniper
+15. Mold Breaker
+16. Intimidate
+17. Sniper
+18. Mold Breaker
+19. Outrage
+20. Outrage
+21. Draco Meteor
+22. Draco Meteor
+23. Dragon Dance
+24. Dragon Dance
+25. Hydro Pump
+26. Waterfall
+27. Outrage
+28. Brick Break
+29. Outrage
+30. Earthquake
+31. Fire Blast
+32. Frost Breath
+33. Dragon Tail
+
+<b><u>Drayden’s Team – Challenger’s Cave; replaces Veteran Shaun.</u></b>
+
+<b>Species:</b>
+1. Salamence
+2. Charizard
+3. Druddigon
+
+<b>Levels:</b>
+1. 93
+2. 93
+3. 93
+
+<b>Items:</b>
+1. White Herb
+2. Life Orb
+3. Life Orb
+
+<b>Abilities:</b>
+1. Moxie
+2. Solar Power
+3. Sheer Force
+
+<b>Abilities:</b>
+1. Intimidate
+2. Blaze
+3. Sheer Force
+
+<b>Move #1 (Reg)</b>
+
+<b>Move #1 (Cln)</b>
+1. Draco Meteor
+2. Draco Meteor
+3. Sunny Day
+4. Sunny Day
+5. Glare
+6. Glare
+
+<b>Move #2</b>
+1. Earthquake
+2. Fire Blast
+3. Dragon Claw
+
+<b>Move #3</b>
+1. Dragon Claw
+2. SolarBeam
+3. Superpower
+
+<b>Move #4</b>
+1. Fly
+2. Dragon Pulse
+3. Rock Slide
+4. Haxorus
+5. Kingdra
+6. Hydreigon
+7. 93
+8. 93
+9. 95
+10. Life Orb
+11. White Herb
+12. White Herb
+13. Mold Breaker
+14. Sniper
+15. Levitate
+16. Mold Breaker
+17. Sniper
+18. Levitate
+19. Dragon Claw
+20. Dragon Claw
+21. Frost Breath
+22. Ice Beam
+23. Earth Power
+24. Surf
+25. Earthquake
+26. Draco Meteor
+27. Fire Blast
+28. Dragon Dance
+29. Waterfall
+30. Dark Pulse
+31. Outrage
+32. Outrage
+33. Focus Blast
+</code></pre>
+
+#### Gym Leader Iris
+
+<pre><code>
+<b>Battle Type:</b> Triple Battle
+<b>Reward:</b> TM82 Dragon Tail
+
+<b><u>Iris’s Team – Opelucid Gym, White</u></b>
+
+<b>Species:</b>
+1. Druddigon
+2. Gyarados
+3. Altaria
+
+<b>Levels:</b>
+1. 63
+2. 63
+3. 63
+
+<b>Items:</b>
+1. Rocky Helmet
+2. Wacan Berry
+3. Yache Berry
+
+<b>Abilities:</b>
+1. Rough Skin
+2. Moxie
+3. Natural Cure
+
+<b>Abilities:</b>
+1. Rough Skin
+2. Intimidate
+3. Natural Cure
+
+<b>Move #1</b>
+1. Outrage
+2. Dragon Dance
+3. Cotton Guard
+
+<b>Move #2</b>
+1. Revenge
+2. Aqua Tail
+3. Dragon Pulse
+
+<b>Move #3</b>
+1. Earthquake
+2. Ice Fang
+3. Ice Beam
+
+<b>Move #4</b>
+1. Dragon Tail
+2. Earthquake
+3. Fire Blast
+4. Dragonite
+5. Kingdra
+6. Haxorus
+7. 65
+8. 65
+9. 65
+10. Sitrus Berry
+11. Damp Rock
+12. Dragon Gem
+13. Multiscale
+14. Swift Swim
+15. Mold Breaker
+16. Inner Focus
+17. Swift Swim
+18. Mold Breaker
+19. Stone Edge
+20. Rain Dance
+21. Dragon Dance
+22. Dragon Claw
+23. Hydro Pump
+24. Outrage
+25. Hurricane
+26. Dragon Pulse
+27. Earthquake
+28. Thunder
+29. Blizzard
+30. Dragon Tail
+
+<b><u>Iris’s Team – Route 15; replaces Battle Girl Susie.</u></b>
+
+<b>Species:</b>
+1. Kingdra
+2. Druddigon
+3. Altaria
+
+<b>Levels:</b>
+1. 87
+2. 87
+3. 87
+
+<b>Items:</b>
+1. Damp Rock
+2. Rocky Helmet
+3. Sitrus Berry
+
+<b>Abilities:</b>
+1. Swift Swim
+2. Rough Skin
+3. Natural Cure
+
+<b>Abilities:</b>
+1. Swift Swim
+2. Rough Skin
+3. Natural Cure
+
+<b>Move #1</b>
+1. Rain Dance
+2. Outrage
+3. Outrage
+
+<b>Move #2</b>
+1. Hydro Pump
+2. Superpower
+3. Roost
+
+<b>Move #3</b>
+1. Blizzard
+2. Rock Slide
+3. Cotton Guard
+
+<b>Move #4</b>
+1. Dragon Pulse
+2. Substitute
+3. Ice Beam
+4. Garchomp
+5. Dragonite
+6. Haxorus
+7. 89
+8. 89
+9. 89
+10. Yache Berry
+11. Sitrus Berry
+12. Choice Band
+13. Rough Skin
+14. Multiscale
+15. Mold Breaker
+16. Sand Veil
+17. Inner Focus
+18. Mold Breaker
+19. Outrage
+20. Outrage
+21. Outrage
+22. Earthquake
+23. Hurricane
+24. Dual Chop
+25. Stone Edge
+26. Thunder
+27. Earthquake
+28. Draco Meteor
+29. Roost
+30. Brick Break
+</code></pre>
+
+#### Rival Cheren – 7
+
+<pre><code>
+<b>Battle Type:</b> Single Battle
+<b>Location:</b> Route 10
+
+<b><u>Cheren’s Team</u></b>
+
+<b>Species:</b>
+1. Staraptor
+2. Gigalith
+3. Alakazam
+
+<b>Levels:</b>
+1. 66
+2. 66
+3. 66
+
+<b>Items:</b>
+1. Sharp Beak
+2. Hard Stone
+3. TwistedSpoon
+
+<b>Abilities:</b>
+1. Reckless
+2. Sturdy
+3. Magic Guard
+
+<b>Abilities:</b>
+1. Intimidate
+2. Sturdy
+3. Synchronize
+
+<b>Move #1</b>
+1. Brave Bird
+2. Stone Edge
+3. Psychic
+
+<b>Move #2</b>
+1. Close Combat
+2. Stealth Rock
+3. Shadow Ball
+
+<b>Move #3</b>
+1. Double-Edge
+2. Earthquake
+3. Energy Ball
+
+<b>Move #4 (Reg)</b>
+1. U-turn
+2. Explosion
+3. Aura Sphere
+
+<b>Move #4 (Cln)</b>
+1. U-turn
+2. Explosion
+3. Focus Blast
+
+<b>Species:</b>
+1. Houndoom
+2. Whimsicott
+3. Gyarados
+4. Simipour
+5. Simisear
+6. Simisage
+7. Serperior
+8. Samurott
+9. Emboar
+
+<b>Levels:</b>
+1. 66
+2. 66
+3. 68
+
+<b>Items:</b>
+1. Lum Berry
+2. Flying Gem
+3. Sitrus Berry
+
+<b>Abilities:</b>
+1. Intimidate
+2. Prankster
+3. Moxie
+4. Torrent
+5. Blaze
+6. Overgrow
+7. Contrary
+8. Vital Spirit
+9. Adaptability
+
+<b>Abilities:</b>
+1. Flash Fire
+2. Prankster
+3. Intimidate
+4. Gluttony
+5. Overgrow
+6. Torrent
+7. Blaze
+
+<b>Move #1</b>
+1. Flamethrower
+2. Leech Seed
+3. Aqua Tail
+4. Work Up
+5. Work Up
+6. Work Up
+7. Leaf Blade
+8. Hydro Pump
+9. Flare Blitz
+
+<b>Move #2</b>
+1. Dark Pulse
+2. Hurricane
+3. Bounce
+4. Acrobatics
+5. Acrobatics
+6. Acrobatics
+7. Leech Seed
+8. Swords Dance
+9. Bulk Up
+
+<b>Move #3</b>
+1. Nasty Plot
+2. Substitute
+3. Dragon Dance
+4. Focus Blast
+5. Focus Blast
+6. Focus Blast
+7. Glare
+8. Megahorn
+9. Wild Charge
+
+<b>Move #4 (Reg)</b>
+1. Will-O-Wisp
+2. Cotton Guard
+3. Earthquake
+4. Water Spout
+5. Fire Blast
+6. Power Whip
+7. Draco Meteor
+8. Secret Sword
+9. Earthquake
+
+<b>Move #4 (Cln)</b>
+1. Will-O-Wisp
+2. Substitute
+3. Earthquake
+4. Hydro Pump
+5. Overheat
+6. Leaf Storm
+7. Reflect
+8. Ice Beam
+9. Hammer Arm
+10. Elite Four Shauntal
+</code></pre>
+
+#### Shauntal’s First Team
+
+<pre><code>
+<b>Battle Type:</b> Double Battle
+
+<b>Species:</b>
+1. Drifblim
+2. Golurk
+3. Mismagius
+
+<b>Levels:</b>
+1. 71
+2. 71
+3. 71
+
+<b>Items:</b>
+1. Flame Orb
+2. Soft Sand
+3. Spell Tag
+
+<b>Items:</b>
+1. Sitrus Berry
+2. Soft Sand
+3. Spell Tag
+
+<b>Abilities:</b>
+1. Flare Boost
+2. Iron Fist
+3. Levitate
+
+<b>Abilities:</b>
+1. Unburden
+2. Iron Fist
+3. Levitate
+
+<b>Move #1</b>
+1. Tailwind
+2. Earthquake
+3. Shadow Ball
+
+<b>Move #2</b>
+1. Shadow Ball
+2. Shadow Punch
+3. Nasty Plot
+
+<b>Move #3</b>
+1. Thunderbolt
+2. Hammer Arm
+3. Thunderbolt
+
+<b>Move #4</b>
+1. Hurricane*
+2. Rock Polish
+3. Will-O-Wisp
+4. Froslass
+5. Jellicent
+6. Chandelure
+7. 71
+8. 73
+9. 73
+10. NeverMeltIce
+11. Mystic Water
+12. Charcoal
+13. NeverMeltIce
+14. Mystic Water
+15. Air Balloon
+16. Levitate
+17. Cursed Body
+18. Levitate
+19. Snow Cloak
+20. Cursed Body
+21. Flame Body
+22. Shadow Ball
+23. Shadow Ball
+24. Shadow Ball
+25. Blizzard
+26. Hydro Pump
+27. Fire Blast
+28. Thunderbolt
+29. Will-O-Wisp
+30. Energy Ball
+31. Will-O-Wisp
+32. Recover
+33. Psychic
+34. *Air Cutter in the Clean version.
+</code></pre>
+
+#### Shauntal’s Second Team
+
+<pre><code>
+<b>Battle Type:</b> Single Battle
+
+<b>Species:</b>
+1. Cofagrigus
+2. Gengar
+3. Sableye
+
+<b>Levels:</b>
+1. 91
+2. 91
+3. 91
+
+<b>Items:</b>
+1. Eject Button
+2. Focus Sash
+3. Sitrus Berry
+
+<b>Items:</b>
+1. Eject Button
+2. Focus Sash
+3. Sitrus Berry
+
+<b>Abilities:</b>
+1. Mummy
+2. Levitate
+3. Prankster
+
+<b>Abilities:</b>
+1. Mummy
+2. Levitate
+3. Stall
+
+<b>Move #1</b>
+1. Will-O-Wisp
+2. Focus Blast
+3. Recover*
+
+<b>Move #2</b>
+1. Shadow Ball
+2. Shadow Ball
+3. Shadow Claw
+
+<b>Move #3</b>
+1. Psychic
+2. Thunder
+3. Foul Play
+
+<b>Move #4</b>
+1. Disable
+2. Sludge Bomb
+3. Will-O-Wisp
+4. Golurk
+5. Jellicent
+6. Chandelure
+7. 91
+8. 91
+9. 93
+10. Expert Belt
+11. Leftovers
+12. Life Orb
+13. Expert Belt
+14. Leftovers
+15. Air Balloon
+16. No Guard
+17. Cursed Body
+18. Levitate
+19. Iron Fist
+20. Cursed Body
+21. Flame Body
+22. DynamicPunch
+23. Hydro Pump
+24. Fire Blast
+25. Shadow Punch
+26. Shadow Ball
+27. Shadow Ball
+28. Earthquake
+29. Recover
+30. Hidden Power
+31. Substitute
+32. Will-O-Wisp
+33. Calm Mind
+34. *Metal Burst in the Clean version.
+35. Elite Four Grimsley
+</code></pre>
+
+#### Grimsley’s First Team
+
+<pre><code>
+<b>Battle Type:</b> Double Battle
+
+<b>Species:</b>
+1. Sharpedo
+2. Liepard
+3. Honchkrow
+
+<b>Levels:</b>
+1. 71
+2. 71
+3. 71
+
+<b>Items:</b>
+1. Rocky Helmet
+2. Liechi Berry
+3. Scope Lens
+
+<b>Abilities:</b>
+1. Speed Boost
+2. Prankster
+3. Moxie
+
+<b>Abilities:</b>
+1. Rough Skin
+2. Unburden
+3. Super Luck
+
+<b>Move #1</b>
+1. Protect
+2. Thunder Wave
+3. Thunder Wave
+
+<b>Move #2</b>
+1. Crunch
+2. Sucker Punch
+3. Brave Bird
+
+<b>Move #3</b>
+1. Aqua Jet
+2. Charm
+3. Sucker Punch
+
+<b>Move #4</b>
+1. Hydro Pump
+2. Wild Charge*
+3. Heat Wave
+4. Absol
+5. Houndoom
+6. Bisharp
+7. 71
+8. 73
+9. 73
+10. Scope Lens
+11. Focus Sash
+12. BlackGlasses
+13. Super Luck
+14. Intimidate
+15. Defiant
+16. Super Luck
+17. Flash Fire
+18. Defiant
+19. Megahorn
+20. Dark Pulse
+21. Sucker Punch
+22. Night Slash
+23. Fire Blast
+24. X-Scissor
+25. Psycho Cut
+26. Sucker Punch
+27. Leaf Blade**
+28. Perish Song
+29. Hidden Power
+30. Stone Edge
+31. *Aerial Ace in the Clean version.
+32. ** Iron Head in the Clean version.
+</code></pre>
+
+#### Grimsley’s Second Team
+
+<pre><code>
+<b>Battle Type:</b> Single Battle
+
+<b>Species:</b>
+1. Honchkrow
+2. Sharpedo
+3. Weavile
+
+<b>Levels:</b>
+1. 91
+2. 91
+3. 91
+
+<b>Items:</b>
+1. Flying Gem
+2. Focus Sash
+3. Expert Belt
+
+<b>Abilities:</b>
+1. Moxie
+2. Speed Boost
+3. Technician
+
+<b>Abilities:</b>
+1. Super Luck
+2. Rough Skin
+3. Pressure
+
+<b>Move #1</b>
+1. Brave Bird
+2. Protect
+3. Rock Smash
+
+<b>Move #2</b>
+1. Sucker Punch
+2. Hydro Pump
+3. Ice Shard
+
+<b>Move #3</b>
+1. Superpower
+2. Crunch
+3. Night Slash
+
+<b>Move #4</b>
+1. Heat Wave
+2. Aqua Jet
+3. X-Scissor
+4. Houndoom
+5. Bisharp
+6. Zoroark
+7. 91
+8. 91
+9. 93
+10. Power Herb
+11. Air Balloon
+12. Life Orb
+13. Intimidate
+14. Defiant
+15. Illusion
+16. Flash Fire
+17. Defiant
+18. Illusion
+19. Nasty Plot
+20. Sucker Punch
+21. Night Daze
+22. Fire Blast
+23. Swords Dance
+24. Flamethrower
+25. Dark Pulse
+26. Thunder Wave
+27. Focus Blast
+28. SolarBeam
+29. Swagger
+30. Grass Knot
+31. Elite Four Marshal
+</code></pre>
+
+#### Marshal’s First Team
+
+<pre><code>
+<b>Battle Type:</b> Double Battle
+
+<b>Species:</b>
+1. Throh
+2. Sawk
+3. Breloom
+
+<b>Levels:</b>
+1. 71
+2. 71
+3. 71
+
+<b>Items:</b>
+1. Flame Orb
+2. Salac Berry
+3. Focus Sash
+
+<b>Abilities:</b>
+1. Guts
+2. Sturdy
+3. Technician
+
+<b>Abilities:</b>
+1. Guts
+2. Sturdy
+3. Effect Spore
+
+<b>Move #1</b>
+1. Superpower
+2. Close Combat
+3. Spore
+
+<b>Move #2</b>
+1. Facade
+2. Stone Edge
+3. Bullet Seed
+
+<b>Move #3</b>
+1. Fling
+2. Payback
+3. Drain Punch
+
+<b>Move #4</b>
+1. Rock Slide
+2. Return
+3. Mach Punch
+4. Poliwrath
+5. Mienshao
+6. Conkeldurr
+7. 71
+8. 73
+9. 73
+10. Wacan Berry
+11. Flying Gem
+12. Chesto Berry
+13. Water Absorb
+14. Reckless
+15. Iron Fist
+16. Water Absorb
+17. Regenerator
+18. Sheer Force
+19. Waterfall
+20. Acrobatics
+21. Mach Punch
+22. Brick Break
+23. Hi Jump Kick
+24. Drain Punch
+25. Icy Wind
+26. U-turn
+27. Stone Edge
+28. Vacuum Wave
+29. Stone Edge
+30. Rest
+</code></pre>
+
+#### Marshal’s Second Team
+
+<pre><code>
+<b>Battle Type:</b> Single Battle
+
+<b>Species:</b>
+1. Mienshao
+2. Breloom
+3. Scrafty
+
+<b>Levels:</b>
+1. 91
+2. 91
+3. 91
+
+<b>Items:</b>
+1. Life Orb
+2. Toxic Orb
+3. Sitrus Berry
+
+<b>Items:</b>
+1. Life Orb
+2. Toxic Orb
+3. Sitrus Berry
+
+<b>Abilities:</b>
+1. Reckless
+2. Poison Heal
+3. Moxie
+
+<b>Abilities:</b>
+1. Regenerator
+2. Poison Heal
+3. Moxie
+
+<b>Move #1</b>
+1. Hi Jump Kick
+2. Protect
+3. Sucker Punch*
+
+<b>Move #2</b>
+1. Stone Edge
+2. Leech Seed
+3. Hi Jump Kick
+
+<b>Move #3</b>
+1. Grass Knot
+2. Drain Punch
+3. Light Screen
+
+<b>Move #4</b>
+1. Hidden Power
+2. Seed Bomb
+3. Head Smash
+4. Lucario
+5. Blaziken
+6. Conkeldurr
+7. 91
+8. 91
+9. 93
+10. Air Balloon
+11. Liechi Berry
+12. Sitrus Berry
+13. Air Balloon
+14. Salac Berry
+15. Flame Orb
+16. Justified
+17. Speed Boost
+18. Iron Fist
+19. Steadfast
+20. Blaze
+21. Guts
+22. Hi Jump Kick
+23. Protect
+24. Mach Punch
+25. Dragon Pulse
+26. Blaze Kick
+27. Stone Edge
+28. Ice Punch
+29. Hi Jump Kick
+30. Payback
+31. Bullet Punch
+32. Baton Pass
+33. Drain Punch
+34. * Payback in the Clean version.
+35. Elite Four Caitlin
+</code></pre>
+
+#### Caitlin’s First Team
+
+<pre><code>
+<b>Battle Type:</b> Double Battle
+
+<b>Species:</b>
+1. Musharna
+2. Sigilyph
+3. Beheeyem
+
+<b>Levels:</b>
+1. 71
+2. 71
+3. 71
+
+<b>Items:</b>
+1. Light Clay
+2. Life Orb
+3. Wise Glasses
+
+<b>Abilities:</b>
+1. Telepathy
+2. Magic Guard
+3. Analytic
+
+<b>Abilities:</b>
+1. Synchronize
+2. Magic Guard
+3. Telepathy
+
+<b>Move #1</b>
+1. Trick Room
+2. Protect
+3. Trick Room
+
+<b>Move #2 (Reg)</b>
+
+<b>Move #2 (Cln)</b>
+1. Psyshock
+2. Psyshock
+3. Hurricane
+4. Air Slash
+5. Thunderbolt
+6. Thunderbolt
+
+<b>Move #3</b>
+1. Reflect
+2. Psychic
+3. Psychic
+
+<b>Move #4</b>
+1. Light Screen
+2. Ice Beam
+3. Energy Ball
+4. Bronzong
+5. Gothitelle
+6. Reuniclus
+7. 71
+8. 73
+9. 73
+10. Chesto Berry
+11. Sitrus Berry
+12. Life Orb
+13. Levitate
+14. Magic Bounce
+15. Magic Guard
+16. Levitate
+17. Frisk
+18. Magic Guard
+19. Trick Room
+20. Trick Room
+21. Trick Room
+22. Rest
+23. Rest
+24. Focus Blast
+25. Dark Pulse
+26. Thunder
+27. Focus Blast
+28. Earthquake
+29. Psychic
+30. Psychic
+31. Gyro Ball
+32. Thunderbolt
+33. Energy Ball
+</code></pre>
+
+#### Caitlin’s Second Team
+
+<pre><code>
+<b>Battle Type:</b> Single Battle
+
+<b>Species:</b>
+1. Musharna
+2. Gardevoir
+3. Sigilyph
+
+<b>Levels:</b>
+1. 91
+2. 91
+3. 91
+
+<b>Items:</b>
+1. Chesto Berry
+2. Psychic Gem
+3. Life Orb
+
+<b>Abilities:</b>
+1. Analytic
+2. Trace
+3. Tinted Lens
+
+<b>Abilities:</b>
+1. Synchronize
+2. Trace
+3. Magic Guard
+
+<b>Move #1</b>
+1. Yawn
+2. Psychic
+3. Psychic
+
+<b>Move #2</b>
+1. Psyshock
+2. Focus Blast
+3. Ice Beam
+
+<b>Move #3</b>
+1. Rest
+2. Will-O-Wisp
+3. Energy Ball
+
+<b>Move #4 (Reg)</b>
+
+<b>Move #4 (Cln)</b>
+1. Shadow Ball
+2. Shadow Ball
+3. Reflect
+4. Reflect
+5. Hurricane
+6. Air Slash
+7. Gothitelle
+8. Reuniclus
+9. Metagross
+10. 91
+11. 91
+12. 93
+13. Dark Gem
+14. Life Orb
+15. Expert Belt
+16. Shadow Tag
+17. Magic Guard
+18. Analytic
+19. Frisk
+20. Magic Guard
+21. Clear Body
+22. Dark Pulse
+23. Psychic
+24. Meteor Mash
+25. Psychic
+26. Focus Blast
+27. Zen Headbutt
+28. Charm
+29. Thunder
+30. Earthquake
+31. Thunder Wave
+32. Thunder Wave
+33. Recover
+34. Recover
+35. Ice Punch
+36. Ice Punch
+</code></pre>
+
+#### PKMN Trainer N – Final
+
+<pre><code>
+<b>Battle Type:</b> Single Battle
+
+<b><u>N’s Team – Blaze Black</u></b>
+
+<b>Species:</b>
+1. Zoroark
+2. Magmortar
+3. Slowbro
+
+<b>Levels:</b>
+1. 73
+2. 73
+3. 73
+
+<b>Items:</b>
+1. Dark Gem
+2. Fire Gem
+3. Water Gem
+
+<b>Abilities:</b>
+1. Illusion
+2. Flash Fire
+3. Regenerator
+
+<b>Abilities:</b>
+1. Illusion
+2. Flame Body
+3. Own Tempo
+
+<b>Move #1</b>
+1. Night Daze
+2. Thunderbolt
+3. Surf
+
+<b>Move #2 (Reg)</b>
+1. Focus Blast
+2. Focus Blast
+3. Psychic
+
+<b>Move #2 (Cln)</b>
+1. Focus Blast
+2. Focus Blast
+3. Psychic
+
+<b>Move #3 (Reg)</b>
+1. Flamethrower
+2. Nasty Plot
+3. Flamethrower
+
+<b>Move #3 (Cln)</b>
+1. Flamethrower
+2. Flame Charge
+3. Flamethrower
+
+<b>Move #4 (Reg)</b>
+1. Grass Knot
+2. Magma Storm
+3. Slack Off
+
+<b>Move #4 (Cln)</b>
+1. Grass Knot
+2. Fire Blast
+3. Slack Off
+
+<b>Species:</b>
+1. Aerodactyl
+2. Porygon-Z
+3. Zekrom
+
+<b>Levels:</b>
+1. 73
+2. 73
+3. 75
+
+<b>Items:</b>
+1. Rock Gem
+2. Normal Gem
+3. Life Orb
+
+<b>Abilities:</b>
+1. Rock Head
+2. Adaptability
+3. Teravolt
+
+<b>Abilities:</b>
+1. Rock Head
+2. Adaptability
+3. Teravolt
+
+<b>Move #1</b>
+1. Earthquake
+2. Tri Attack
+3. Dragon Claw
+
+<b>Move #2 (Reg)</b>
+1. Thunder Fang
+2. Ice Beam
+3. Bolt Strike
+
+<b>Move #2 (Cln)</b>
+1. Thunder Fang
+2. Ice Beam
+3. Fusion Bolt
+
+<b>Move #3 (Reg)</b>
+1. Head Smash
+2. Dark Pulse
+3. Light Screen
+
+<b>Move #3 (Cln)</b>
+1. Stone Edge
+2. Dark Pulse
+3. Light Screen
+
+<b>Move #4 (Reg)</b>
+1. Dragon Dance
+2. Thunderbolt
+3. Hone Claws
+
+<b>Move #4 (Cln)</b>
+1. Aerial Ace
+2. Thunderbolt
+3. Hone Claws
+
+<b><u>N’s Team – Volt White</u></b>
+
+<b>Species:</b>
+1. Zoroark
+2. Electivire
+3. Slowking
+
+<b>Levels:</b>
+1. 73
+2. 73
+3. 73
+
+<b>Items:</b>
+1. Dark Gem
+2. Electric Gem
+3. Water Gem
+
+<b>Abilities:</b>
+1. Illusion
+2. Vital Spirit
+3. Regenerator
+
+<b>Abilities:</b>
+1. Illusion
+2. Motor Drive
+3. Own Tempo
+
+<b>Move #1</b>
+1. Night Daze
+2. Earthquake
+3. Surf
+
+<b>Move #2 (Reg)</b>
+1. Focus Blast
+2. Close Combat
+3. Psychic
+
+<b>Move #2 (Cln)</b>
+1. Focus Blast
+2. Cross Chop
+3. Psychic
+
+<b>Move #3 (Reg)</b>
+1. Flamethrower
+2. Volt Tackle
+3. Aura Sphere
+
+<b>Move #3 (Cln)</b>
+1. Flamethrower
+2. Wild Charge
+3. Flamethrower
+
+<b>Move #4 (Reg)</b>
+1. Grass Knot
+2. Ice Punch
+3. Slack Off
+
+<b>Move #4 (Cln)</b>
+1. Grass Knot
+2. Ice Punch
+3. Slack Off
+
+<b>Species:</b>
+1. Aerodactyl
+2. Porygon-Z
+3. Reshiram
+
+<b>Levels:</b>
+1. 73
+2. 73
+3. 75
+
+<b>Items:</b>
+1. Rock Gem
+2. Normal Gem
+3. White Herb
+
+<b>Abilities:</b>
+1. Rock Head
+2. Adaptability
+3. Turboblaze
+
+<b>Abilities:</b>
+1. Rock Head
+2. Adaptability
+3. Turboblaze
+
+<b>Move #1</b>
+1. Earthquake
+2. Tri Attack
+3. Dragon Pulse
+
+<b>Move #2 (Reg)</b>
+1. Thunder Fang
+2. Ice Beam
+3. Blue Flare
+
+<b>Move #2 (Cln)</b>
+1. Thunder Fang
+2. Ice Beam
+3. Fusion Flare
+
+<b>Move #3 (Reg)</b>
+1. Head Smash
+2. Dark Pulse
+3. Reflect
+
+<b>Move #3 (Cln)</b>
+1. Stone Edge
+2. Dark Pulse
+3. Reflect
+
+<b>Move #4 (Reg)</b>
+1. Dragon Dance
+2. Thunderbolt
+3. Draco Meteor
+
+<b>Move #4 (Cln)</b>
+1. Aerial Ace
+2. Thunderbolt
+3. Draco Meteor
+</code></pre>
+
+#### Team Plasma Ghetsis
+
+<pre><code>
+<b>Battle Type:</b> Single Battle
+<b>Reward:</b> N/A
 Ghetsis’ Team
 
-Species Drapion Dusknoir Eelektross
-Level 75 75 75
-Item Scope Lens Sitrus Berry Flying Gem
-Ability (Reg.) Sniper Cursed Body Levitate
-Ability (Clean) Sniper Pressure Levitate
-Move #1 Night Slash Payback Acrobatics
-Move #2 Cross Poison Will-O-Wisp Thunder
-Move #3 Storm Throw* Pain Split Flamethrower
-Move #4 Toxic Spikes Earthquake Rock Slide
-Gyarados Genesect Hydreigon
-75 75 77
-Life Orb Focus Sash White Herb
-Moxie Download Levitate
-Intimidate Download Levitate
-Aqua Tail Bug Buzz Draco Meteor
-Dragon Dance Ice Beam Fire Blast
-Thunder Wave Thunderbolt Focus Blast
-Earthquake Rock Polish Dark Pulse
-*Aqua Tail in the Clean version.
+<b>Species:</b>
+1. Drapion
+2. Dusknoir
+3. Eelektross
 
-Rival Cheren – Final
-Battle Type: Triple Battle
-Location: Victory Road
+<b>Levels:</b>
+1. 75
+2. 75
+3. 75
 
-Cheren’s Team
+<b>Items:</b>
+1. Scope Lens
+2. Sitrus Berry
+3. Flying Gem
 
-Species
-Staraptor
-Gigalith
-Alakazam
-Level 88 88 88
-Item Life Orb Custap Berry Life Orb
+<b>Abilities:</b>
+1. Sniper
+2. Cursed Body
+3. Levitate
 
-Ability
-(Regular)
-Reckless
-Sturdy
-Magic Guard
+<b>Abilities:</b>
+1. Sniper
+2. Pressure
+3. Levitate
 
-Ability
-(Clean)
-Intimidate
-Sturdy
-Synchronize
+<b>Move #1</b>
+1. Night Slash
+2. Payback
+3. Acrobatics
 
-Move #1
-Brave Bird
-Stone Edge
-Psychic
+<b>Move #2</b>
+1. Cross Poison
+2. Will-O-Wisp
+3. Thunder
 
-Move #2
-Close Combat
-Stealth Rock
-Shadow Ball
+<b>Move #3</b>
+1. Storm Throw*
+2. Pain Split
+3. Flamethrower
 
-Move #3
-Double-Edge
-Earthquake
-Energy Ball
+<b>Move #4</b>
+1. Toxic Spikes
+2. Earthquake
+3. Rock Slide
+4. Gyarados
+5. Genesect
+6. Hydreigon
+7. 75
+8. 75
+9. 77
+10. Life Orb
+11. Focus Sash
+12. White Herb
+13. Moxie
+14. Download
+15. Levitate
+16. Intimidate
+17. Download
+18. Levitate
+19. Aqua Tail
+20. Bug Buzz
+21. Draco Meteor
+22. Dragon Dance
+23. Ice Beam
+24. Fire Blast
+25. Thunder Wave
+26. Thunderbolt
+27. Focus Blast
+28. Earthquake
+29. Rock Polish
+30. Dark Pulse
+31. *Aqua Tail in the Clean version.
+</code></pre>
 
-Move #4 (Reg)
-U-turn
-Explosion
-Focus Blast
+#### Rival Cheren – Final
 
-Move #4 (Cln)
-U-turn
-Explosion
-Aura Sphere
+<pre><code>
+<b>Battle Type:</b> Triple Battle
+<b>Location:</b> Victory Road
 
-Species Houndoom
-Whimsicott
-Gyarados Simipour
-Simisear
-Simisage Serperior
-Samurott
-Emboar
-Level 88 88 90
-Item Leftovers Flying Gem Life Orb
+<b><u>Cheren’s Team</u></b>
 
-Ability
-(Regular) Intimidate
-Prankster
-Moxie Torrent
-Blaze
-Overgrow Contrary
-Vital Spirit
-Adaptability
+<b>Species:</b>
+1. Staraptor
+2. Gigalith
+3. Alakazam
 
-Ability
-(Clean) Flash Fire
-Prankster
-Intimidate
-Gluttony Overgrow
-Torrent
-Blaze
+<b>Levels:</b>
+1. 88
+2. 88
+3. 88
 
-Move #1 Flamethrower
-Leech Seed
-Aqua Tail Work Up
-Work Up
-Work Up Leaf Storm
-Hydro Pump
-Flare Blitz
+<b>Items:</b>
+1. Life Orb
+2. Custap Berry
+3. Life Orb
 
-Move #2 Dark Pulse
-Hurricane
-Bounce Acrobatics
-Acrobatics
-Acrobatics Leech Seed
-Shell Smash\*
-Bulk Up
+<b>Abilities:</b>
+1. Reckless
+2. Sturdy
+3. Magic Guard
 
-Move #3 Nasty Plot
-Substitute
-Dragon Dance Focus Blast
-Focus Blast
-Focus Blast Glare
-Megahorn
-Wild Charge
+<b>Abilities:</b>
+1. Intimidate
+2. Sturdy
+3. Synchronize
 
-Move #4 (Reg) Will-O-Wisp
-Cotton Guard
-Earthquake Water Spout
-Fire Blast
-Power Whip Draco Meteor
-Secret Sword
-Earthquake
+<b>Move #1</b>
+1. Brave Bird
+2. Stone Edge
+3. Psychic
 
-Move #4 (Cln) Will-O-Wisp
-Substitute
-Earthquake Hydro Pump
-Overheat
-Leaf Storm Reflect
-Ice Beam
-Hammer Arm
+<b>Move #2</b>
+1. Close Combat
+2. Stealth Rock
+3. Shadow Ball
 
-- Swords Dance in the Clean version.
+<b>Move #3</b>
+1. Double-Edge
+2. Earthquake
+3. Energy Ball
 
-Rival Bianca – Final
-Battle Type: Rotation Battle
-Location: Nuvema Town
+<b>Move #4 (Reg)</b>
+1. U-turn
+2. Explosion
+3. Focus Blast
 
-Bianca’s Team
+<b>Move #4 (Cln)</b>
+1. U-turn
+2. Explosion
+3. Aura Sphere
 
-Species
-Persian
-Musharna
-Mienshao
-Level 88 88 88
-Item Normal Gem Psychic Gem Flying Gem
+<b>Species:</b>
+1. Houndoom
+2. Whimsicott
+3. Gyarados
+4. Simipour
+5. Simisear
+6. Simisage
+7. Serperior
+8. Samurott
+9. Emboar
 
-Ability
-(Regular)
-Technician
-Analytic
-Reckless
+<b>Levels:</b>
+1. 88
+2. 88
+3. 90
 
-Ability
-(Clean)
-Technician
-Synchronize
-Regenerator
+<b>Items:</b>
+1. Leftovers
+2. Flying Gem
+3. Life Orb
 
-Move #1
-Nasty Plot
-Hypnosis
-Hi Jump Kick
+<b>Abilities:</b>
+1. Intimidate
+2. Prankster
+3. Moxie
+4. Torrent
+5. Blaze
+6. Overgrow
+7. Contrary
+8. Vital Spirit
+9. Adaptability
 
-Move #2
-Hypnosis
-Psychic
-U-turn
+<b>Abilities:</b>
+1. Flash Fire
+2. Prankster
+3. Intimidate
+4. Gluttony
+5. Overgrow
+6. Torrent
+7. Blaze
 
-Move #3
-Swift
-Energy Ball
-Stone Edge
+<b>Move #1</b>
+1. Flamethrower
+2. Leech Seed
+3. Aqua Tail
+4. Work Up
+5. Work Up
+6. Work Up
+7. Leaf Storm
+8. Hydro Pump
+9. Flare Blitz
 
-Move #4 (Reg)
-Fake Out
-Reflect
-Acrobatics
+<b>Move #2</b>
+1. Dark Pulse
+2. Hurricane
+3. Bounce
+4. Acrobatics
+5. Acrobatics
+6. Acrobatics
+7. Leech Seed
+8. Shell Smash*
+9. Bulk Up
 
-Move #4 (Cln)
-Fake Out
-Reflect
-Acrobatics
+<b>Move #3</b>
+1. Nasty Plot
+2. Substitute
+3. Dragon Dance
+4. Focus Blast
+5. Focus Blast
+6. Focus Blast
+7. Glare
+8. Megahorn
+9. Wild Charge
 
-Species Chandelure
-Lilligant
-Milotic Simipour
-Simisear
-Simisage Serperior
-Samurott
-Emboar
-Level 88 88 90
-Item Sitrus Berry Flying Gem Life Orb
+<b>Move #4 (Reg)</b>
+1. Will-O-Wisp
+2. Cotton Guard
+3. Earthquake
+4. Water Spout
+5. Fire Blast
+6. Power Whip
+7. Draco Meteor
+8. Secret Sword
+9. Earthquake
 
-Ability
-(Regular) Levitate
-Own Tempo
-Multiscale
-Unburden Contrary
-Vital Spirit
-Adaptability
+<b>Move #4 (Cln)</b>
+1. Will-O-Wisp
+2. Substitute
+3. Earthquake
+4. Hydro Pump
+5. Overheat
+6. Leaf Storm
+7. Reflect
+8. Ice Beam
+9. Hammer Arm
+10. * Swords Dance in the Clean version.
+</code></pre>
 
-Ability
-(Clean) Flame Body
-Own Tempo
-Marvel Scale
-Gluttony Overgrow
-Torrent
-Blaze
+#### Rival Bianca – Final
 
-Move #1 Flamethrower
-Petal Dance
-Surf Work Up
-Work Up
-Work Up Leaf Storm
-Hydro Pump
-Fire Blast
+<pre><code>
+<b>Battle Type:</b> Rotation Battle
+<b>Location:</b> Nuvema Town
 
-Move #2 Shadow Ball
-Focus Blast\*_
-Ice Beam Acrobatics
-Acrobatics
-Acrobatics Leech Seed
-Shell Smash_
-Bulk Up
+<b><u>Bianca’s Team</u></b>
 
-Move #3 Will-O-Wisp
-Sleep Powder
-Hypnosis Focus Blast
-Focus Blast
-Focus Blast Glare
-Megahorn
-Wild Charge
+<b>Species:</b>
+1. Persian
+2. Musharna
+3. Mienshao
 
-Move #4 (Reg) Psychic
-Psychic
-Dragon Tail Water Spout
-Fire Blast
-Power Whip Draco Meteor
-Secret Sword
-Earthquake
+<b>Levels:</b>
+1. 88
+2. 88
+3. 88
 
-Move #4 (Cln) Psychic
-Aromatherapy
-Dragon Tail Hydro Pump
-Overheat
-Leaf Storm Reflect
-Ice Beam
-Hammer Arm
+<b>Items:</b>
+1. Normal Gem
+2. Psychic Gem
+3. Flying Gem
 
-- Swords Dance in the Clean version.
-  \*\* Hidden Power in the Clean version.
+<b>Abilities:</b>
+1. Technician
+2. Analytic
+3. Reckless
 
-PKMN Trainer Cynthia
-Battle Type: Single Battle
-Reward: N/A
+<b>Abilities:</b>
+1. Technician
+2. Synchronize
+3. Regenerator
 
-Cynthia’s Team
+<b>Move #1</b>
+1. Nasty Plot
+2. Hypnosis
+3. Hi Jump Kick
 
-Species Spiritomb Roserade Milotic
-Level 95 95 95
-Item Lax Incense Rose Incense Sea Incense
-Ability (Reg.) Pressure Technician Multiscale
-Ability (Clean) Pressure Poison Point Marvel Scale
-Move #1 Nasty Plot Sleep Powder Hydro Pump
-Move #2 Dark Pulse Sludge Bomb Blizzard
-Move #3 (Reg)
-Move #3 (Cln) Will-O-Wisp
-Will-O-Wisp Magical Leaf
-Petal Dance Recover
-Rest
-Move #4 (Reg)
-Move #4 (Cln) Pain Split
-Pain Split Quiver Dance
-Shadow Ball Toxic
-Sleep Talk
-Togekiss Lucario Garchomp
-95 95 100
-Scope Lens Life Orb Life Orb
-Serene Grace Justified Rough Skin
-Serene Grace Steadfast Sand Veil
-Thunder Wave Nasty Plot Outrage
-Air Slash Aura Sphere Earthquake
-Tri Attack
-Roost Dragon Pulse
-Dragon Pulse Stone Edge
-Stone Edge
-Aura Sphere
-Aura Sphere Ice Punch
-Ice Punch ExtremeSpeed
-Fire Blast
+<b>Move #2</b>
+1. Hypnosis
+2. Psychic
+3. U-turn
 
-Champion Alder
-Battle Type: Single Battle
-Reward: N/A
+<b>Move #3</b>
+1. Swift
+2. Energy Ball
+3. Stone Edge
 
-Alder’s Team
+<b>Move #4 (Reg)</b>
+1. Fake Out
+2. Reflect
+3. Acrobatics
 
-Species Bouffalant Braviary Espeon
-Level 95 95 95
-Item Choice Band Flying Gem Focus Sash
-Ability (Reg) Reckless Defiant Magic Bounce
-Ability (Cln) Reckless Sheer Force Synchronize
-Move #1 Head Charge Brave Bird Morning Sun
-Move #2 Earthquake Rock Slide Psyshock
-Move #3 Payback Superpower Grass Knot
-Move #4 (Reg) - ExtremeSpeed Aura Sphere
-Move #4 (Cln) - Return Shadow Ball
-Flygon Vanilluxe Volcarona
-95 95 100
-Yache Berry Red Card Life Orb
-Levitate Weak Armor Drought
-Levitate Ice Body Flame Body
-Draco Meteor Frost Breath Fiery Dance
-Earthquake Weather Ball Bug Buzz
-Dragon Claw Ice Shard Quiver Dance
-Fire Punch Energy Ball Thunderbolt
-Fire Punch Flash Cannon Psychic
+<b>Move #4 (Cln)</b>
+1. Fake Out
+2. Reflect
+3. Acrobatics
 
-GAME Freak Morimoto
-Battle Type: Triple Battle
-Reward: N/A
+<b>Species:</b>
+1. Chandelure
+2. Lilligant
+3. Milotic
+4. Simipour
+5. Simisear
+6. Simisage
+7. Serperior
+8. Samurott
+9. Emboar
 
-Morimoto’s Team
+<b>Levels:</b>
+1. 88
+2. 88
+3. 90
 
-Species Victini Celebi Jirachi
-Level 95 95 95
-Item White Herb Lum Berry Lum Berry
-Ability (Reg.) Victory Star Natural Cure Serene Grace
-Move #1 V-Create Nasty Plot Thunder Wave
-Move #2 Fusion Bolt Grass Knot Iron Head
-Move #3 Psychic Psyshock Water Pulse
-Move #4 Grass Knot Shadow Ball Thunder
-Manaphy Shaymin Mew
-95 95 100
-Damp Rock Lum Berry Expert Belt
-Hydration Natural Cure Synchronize
-Rain Dance Seed Flare Psychic
-Rest Air Slash Fire Blast
-Hydro Pump Psychic Earth Power
-Tail Glow Earth Power Dragon Pulse
+<b>Items:</b>
+1. Sitrus Berry
+2. Flying Gem
+3. Life Orb
+
+<b>Abilities:</b>
+1. Levitate
+2. Own Tempo
+3. Multiscale
+4. Unburden
+5. Contrary
+6. Vital Spirit
+7. Adaptability
+
+<b>Abilities:</b>
+1. Flame Body
+2. Own Tempo
+3. Marvel Scale
+4. Gluttony
+5. Overgrow
+6. Torrent
+7. Blaze
+
+<b>Move #1</b>
+1. Flamethrower
+2. Petal Dance
+3. Surf
+4. Work Up
+5. Work Up
+6. Work Up
+7. Leaf Storm
+8. Hydro Pump
+9. Fire Blast
+
+<b>Move #2</b>
+1. Shadow Ball
+2. Focus Blast**
+3. Ice Beam
+4. Acrobatics
+5. Acrobatics
+6. Acrobatics
+7. Leech Seed
+8. Shell Smash*
+9. Bulk Up
+
+<b>Move #3</b>
+1. Will-O-Wisp
+2. Sleep Powder
+3. Hypnosis
+4. Focus Blast
+5. Focus Blast
+6. Focus Blast
+7. Glare
+8. Megahorn
+9. Wild Charge
+
+<b>Move #4 (Reg)</b>
+1. Psychic
+2. Psychic
+3. Dragon Tail
+4. Water Spout
+5. Fire Blast
+6. Power Whip
+7. Draco Meteor
+8. Secret Sword
+9. Earthquake
+
+<b>Move #4 (Cln)</b>
+1. Psychic
+2. Aromatherapy
+3. Dragon Tail
+4. Hydro Pump
+5. Overheat
+6. Leaf Storm
+7. Reflect
+8. Ice Beam
+9. Hammer Arm
+10. * Swords Dance in the Clean version.
+11. ** Hidden Power in the Clean version.
+</code></pre>
+
+#### PKMN Trainer Cynthia
+
+<pre><code>
+<b>Battle Type:</b> Single Battle
+<b>Reward:</b> N/A
+
+<b><u>Cynthia’s Team</u></b>
+
+<b>Species:</b>
+1. Spiritomb
+2. Roserade
+3. Milotic
+
+<b>Levels:</b>
+1. 95
+2. 95
+3. 95
+
+<b>Items:</b>
+1. Lax Incense
+2. Rose Incense
+3. Sea Incense
+
+<b>Abilities:</b>
+1. Pressure
+2. Technician
+3. Multiscale
+
+<b>Abilities:</b>
+1. Pressure
+2. Poison Point
+3. Marvel Scale
+
+<b>Move #1</b>
+1. Nasty Plot
+2. Sleep Powder
+3. Hydro Pump
+
+<b>Move #2</b>
+1. Dark Pulse
+2. Sludge Bomb
+3. Blizzard
+
+<b>Move #3 (Reg)</b>
+
+<b>Move #3 (Cln)</b>
+1. Will-O-Wisp
+2. Will-O-Wisp
+3. Magical Leaf
+4. Petal Dance
+5. Recover
+6. Rest
+
+<b>Move #4 (Reg)</b>
+
+<b>Move #4 (Cln)</b>
+1. Pain Split
+2. Pain Split
+3. Quiver Dance
+4. Shadow Ball
+5. Toxic
+6. Sleep Talk
+7. Togekiss
+8. Lucario
+9. Garchomp
+10. 95
+11. 95
+12. 100
+13. Scope Lens
+14. Life Orb
+15. Life Orb
+16. Serene Grace
+17. Justified
+18. Rough Skin
+19. Serene Grace
+20. Steadfast
+21. Sand Veil
+22. Thunder Wave
+23. Nasty Plot
+24. Outrage
+25. Air Slash
+26. Aura Sphere
+27. Earthquake
+28. Tri Attack
+29. Roost
+30. Dragon Pulse
+31. Dragon Pulse
+32. Stone Edge
+33. Stone Edge
+34. Aura Sphere
+35. Aura Sphere
+36. Ice Punch
+37. Ice Punch
+38. ExtremeSpeed
+39. Fire Blast
+</code></pre>
+
+#### Champion Alder
+
+<pre><code>
+<b>Battle Type:</b> Single Battle
+<b>Reward:</b> N/A
+
+<b><u>Alder’s Team</u></b>
+
+<b>Species:</b>
+1. Bouffalant
+2. Braviary
+3. Espeon
+
+<b>Levels:</b>
+1. 95
+2. 95
+3. 95
+
+<b>Items:</b>
+1. Choice Band
+2. Flying Gem
+3. Focus Sash
+
+<b>Abilities:</b>
+1. Reckless
+2. Defiant
+3. Magic Bounce
+
+<b>Abilities:</b>
+1. Reckless
+2. Sheer Force
+3. Synchronize
+
+<b>Move #1</b>
+1. Head Charge
+2. Brave Bird
+3. Morning Sun
+
+<b>Move #2</b>
+1. Earthquake
+2. Rock Slide
+3. Psyshock
+
+<b>Move #3</b>
+1. Payback
+2. Superpower
+3. Grass Knot
+
+<b>Move #4 (Reg)</b>
+1. -
+2. ExtremeSpeed
+3. Aura Sphere
+
+<b>Move #4 (Cln)</b>
+1. -
+2. Return
+3. Shadow Ball
+4. Flygon
+5. Vanilluxe
+6. Volcarona
+7. 95
+8. 95
+9. 100
+10. Yache Berry
+11. Red Card
+12. Life Orb
+13. Levitate
+14. Weak Armor
+15. Drought
+16. Levitate
+17. Ice Body
+18. Flame Body
+19. Draco Meteor
+20. Frost Breath
+21. Fiery Dance
+22. Earthquake
+23. Weather Ball
+24. Bug Buzz
+25. Dragon Claw
+26. Ice Shard
+27. Quiver Dance
+28. Fire Punch
+29. Energy Ball
+30. Thunderbolt
+31. Fire Punch
+32. Flash Cannon
+33. Psychic
+</code></pre>
+
+#### GAME Freak Morimoto
+
+<pre><code>
+<b>Battle Type:</b> Triple Battle
+<b>Reward:</b> N/A
+
+<b><u>Morimoto’s Team</u></b>
+
+<b>Species:</b>
+1. Victini
+2. Celebi
+3. Jirachi
+
+<b>Levels:</b>
+1. 95
+2. 95
+3. 95
+
+<b>Items:</b>
+1. White Herb
+2. Lum Berry
+3. Lum Berry
+
+<b>Abilities:</b>
+1. Victory Star
+2. Natural Cure
+3. Serene Grace
+
+<b>Move #1</b>
+1. V-Create
+2. Nasty Plot
+3. Thunder Wave
+
+<b>Move #2</b>
+1. Fusion Bolt
+2. Grass Knot
+3. Iron Head
+
+<b>Move #3</b>
+1. Psychic
+2. Psyshock
+3. Water Pulse
+
+<b>Move #4</b>
+1. Grass Knot
+2. Shadow Ball
+3. Thunder
+4. Manaphy
+5. Shaymin
+6. Mew
+7. 95
+8. 95
+9. 100
+10. Damp Rock
+11. Lum Berry
+12. Expert Belt
+13. Hydration
+14. Natural Cure
+15. Synchronize
+16. Rain Dance
+17. Seed Flare
+18. Psychic
+19. Rest
+20. Air Slash
+21. Fire Blast
+22. Hydro Pump
+23. Psychic
+24. Earth Power
+25. Tail Glow
+26. Earth Power
+27. Dragon Pulse

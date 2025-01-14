@@ -140,6 +140,7 @@ Move #2	Growth	Sleep Powder	Synthesis
 Move #3	Magical Leaf	Leech Seed	Razor Leaf
 Move #4	Twister	Vine Whip	PoisonPowder
 			
+	Species
 	Treecko	Turtwig	Pansage
 	12	12	14
 	-	-	Oran Berry
