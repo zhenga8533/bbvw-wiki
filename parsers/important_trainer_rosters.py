@@ -1,5 +1,6 @@
 from util.file import load, save
-from util.format import replace_last
+from util.format import clean_variable_name, parse_camel_case
+from util.pokemon_set import PokemonSet
 
 
 def main():
@@ -10,7 +11,9 @@ def main():
     md = ""
 
     listing = 0
+    listing_type = None
     teaming = False
+    pokemon_sets = []
 
     for i in range(n):
         next_line = lines[i + 1] if i + 1 < n else ""
@@ -23,67 +26,59 @@ def main():
         elif next_line.startswith("Battle Type"):
             # Close previous section
             if teaming:
+                for p in pokemon_sets:
+                    md += "\n" + p.to_string()
+                pokemon_sets = []
+
                 md += "</code></pre>\n\n"
                 listing = 0
-            md += f"#### {line}\n\n<pre><code>\n"
+
+            md += f"#### {line}\n\n<pre><code>"
             teaming = True
         elif line.startswith("Battle Type:") or line.startswith("Reward:") or line.startswith("Location:"):
             s = line.split(": ")
             md += f"<b>{s[0]}:</b> {s[1]}\n"
         elif "’s Team" in line:
+            for p in pokemon_sets:
+                md += "\n" + p.to_string()
+            pokemon_sets = []
+            listing = 1
+
             md += f"\n<b><u>{line}</u></b>\n"
-        elif line.startswith("Species"):
-            md += "\n<b>Species:</b>\n"
+        elif (
+            line.startswith("Species")
+            or line.startswith("Level")
+            or line.startswith("Item")
+            or line.startswith("Ability")
+            or line.startswith("Move #")
+        ):
+            strs = line.split("\t")
             listing = 1
+            listing_type = clean_variable_name(strs[0].lower())
 
-            species = line.split("\t")[1:]
-            for s in species:
-                md += f"{listing}. {s}\n"
-                listing += 1
-        elif line.startswith("Level"):
-            md += "\n<b>Levels:</b>\n"
-            listing = 1
-
-            levels = line.split("\t")[1:]
-            for level in levels:
-                md += f"{listing}. {level}\n"
-                listing += 1
-        elif line.startswith("Item"):
-            md += "\n<b>Items:</b>\n"
-            listing = 1
-
-            items = line.split("\t")[1:]
-            for item in items:
-                md += f"{listing}. {item}\n"
-                listing += 1
-        elif line.startswith("Ability"):
-            md += "\n<b>Abilities:</b>\n"
-            listing = 1
-
-            abilities = line.split("\t")[1:]
-            for ability in abilities:
-                md += f"{listing}. {ability}\n"
-                listing += 1
-        elif line.startswith("Move #"):
-            moves = line.split("\t")
-            md += f"\n<b>{moves[0]}</b>\n"
-            listing = 1
-
-            for move in moves[1:]:
-                md += f"{listing}. {move}\n"
+            for s in strs[1:]:
+                if listing > len(pokemon_sets):
+                    pokemon_sets.append(PokemonSet())
+                pokemon_sets[listing - 1].__dict__[listing_type] = parse_camel_case(s)
                 listing += 1
         else:
             if listing:
                 strs = line.split("\t")
 
                 for s in strs:
-                    if s.startswith("(") and s.endswith(")"):
-                        replace_last(s, ":</b>", f" {s}</b>")
-                        continue
-                    md += f"{listing}. {s}\n"
+                    if listing > len(pokemon_sets):
+                        pokemon_sets.append(PokemonSet())
+                    pokemon_sets[listing - 1].__dict__[listing_type] = parse_camel_case(s)
                     listing += 1
             else:
                 md += f"{line}\n"
+                if not teaming:
+                    md += "\n"
+
+    if len(pokemon_sets) > 0:
+        for p in pokemon_sets:
+            md += "\n" + p.to_string()
+        md += "</code></pre>\n"
 
     save("output/important_trainer_rosters.md", md)
 
