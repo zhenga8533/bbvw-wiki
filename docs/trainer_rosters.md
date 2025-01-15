@@ -1,9 +1,11 @@
+---
 #### Nuvema Town
 
 <pre><code>1. <b><u>Bianca</u></b>
 2. <b><u>Cheren</u></b>
 3. <b><u>Bianca (Final)</u></b>
 </code></pre>
+---
 
 #### Route 1
 
@@ -19,10 +21,14 @@
    - Kingler L50
 </code></pre>
 
+---
+
 #### Accumula Town
 
 <pre><code>1. <b><u>PKMN Trainer N</u></b>
 </code></pre>
+
+---
 
 #### Route 2
 
@@ -43,6 +49,8 @@
 4. <b><u>Bianca</u></b>
 </code></pre>
 
+---
+
 #### Striation City
 
 <pre><code>1. <b><u>Cheren</u></b>
@@ -58,6 +66,8 @@
 5. <b><u>Leader, Cress</u></b>
 6. <b><u>Leader, Cilan</u></b>
 </code></pre>
+
+---
 
 #### Dreamyard
 
@@ -77,6 +87,8 @@
    - Grimer L14
    - Cacnea L15
 </code></pre>
+
+---
 
 #### Route 3
 
@@ -131,6 +143,8 @@
    - Emboar L50
 </code></pre>
 
+---
+
 #### Wellspring Cave
 
 <pre><code>1. <b>Plasma Grunt:</b>
@@ -146,6 +160,8 @@
    - Numel L15
    - Houndour L15
 </code></pre>
+
+---
 
 #### Nacrene City
 
@@ -169,6 +185,8 @@
    - Delcatty L18
 6. <b><u>Leader Lenora</u></b>
 </code></pre>
+
+---
 
 #### Pinwheel Forest
 
@@ -258,6 +276,8 @@
    - Sandshrew L22
 </code></pre>
 
+---
+
 #### Castelia City
 
 <pre><code>1. <b>Clerk Ingrid:</b>
@@ -346,6 +366,8 @@
 20. <b><u>Leader Burgh</u></b>
 </code></pre>
 
+---
+
 #### Route 4
 
 <pre><code>1. <b><u>Bianca</u></b>
@@ -411,6 +433,8 @@
    - Shieldon L26
 </code></pre>
 
+---
+
 #### Desert Resort
 
 <pre><code>1. <b>Doctor Jerry:</b>
@@ -450,6 +474,8 @@
    - Shuppet L30
 </code></pre>
 
+---
+
 #### Relic Castle
 
 <pre><code>1. <b>Psychic Perry:</b>
@@ -484,6 +510,8 @@
    - Seviper L59 
 </code></pre>
 
+---
+
 #### Nimbasa City
 
 <pre><code>1. Dome trainers are not listed here, as they are not essential to completing the seen portion of the PokéDex.
@@ -516,6 +544,8 @@
 8. <b><u>Leader Elesa</u></b>
 </code></pre>
 
+---
+
 #### Route 16
 
 <pre><code>1. <b>Cycling Hector:</b>
@@ -537,6 +567,8 @@
    - Corphish L30
    - Ariados L30
 </code></pre>
+
+---
 
 #### Route 5
 
@@ -565,6 +597,8 @@
 10. <b>Backpacker Lois:</b>
    - Shiftry L33
 </code></pre>
+
+---
 
 #### Cold Storage
 
@@ -611,6 +645,8 @@
    - Raticate L36
 </code></pre>
 
+---
+
 #### Driftveil City
 
 <pre><code>1. <b>Motorcyclist Charles:</b>
@@ -648,6 +684,8 @@
 9. <b><u>Bianca</u></b>
 </code></pre>
 
+---
+
 #### Route 6
 
 <pre><code>1. <b>Scientist William:</b>
@@ -676,6 +714,8 @@
    - Sealeo L34
    - Leavanny L34
 </code></pre>
+
+---
 
 #### Chargestone Cave
 
@@ -735,6 +775,8 @@
    - Arcanine L42
 </code></pre>
 
+---
+
 #### Route 7
 
 <pre><code>1. <b>Youngster Mikey:</b>
@@ -771,6 +813,8 @@
    - Hitmontop L44
    - Meganium L44
 </code></pre>
+
+---
 
 #### Celestial Tower
 
@@ -820,6 +864,8 @@
    - Magmortar L50
 </code></pre>
 
+---
+
 #### Mistralton City
 
 <pre><code>1. <b>Worker Cliff:</b>
@@ -855,6 +901,8 @@
 6. <b><u>Leader Skyla</u></b>
 </code></pre>
 
+---
+
 #### Route 17
 
 <pre><code>1. <b>Fisherman Lydon:</b>
@@ -876,6 +924,8 @@
    - Dewgong L52
    - Lapras L52
 </code></pre>
+
+---
 
 #### Route 18
 
@@ -900,6 +950,8 @@
    - Electivire L53
 </code></pre>
 
+---
+
 #### Mistralton Cave
 
 <pre><code>1. <b>Hiker Hugh:</b>
@@ -910,6 +962,8 @@
    - Bastiodon L53
    - Marowak L53
 </code></pre>
+
+---
 
 #### Twist Mountain
 
@@ -961,6 +1015,8 @@
    - Yanmega L55
 </code></pre>
 
+---
+
 #### Icirrus City
 
 <pre><code>1. <b>Black Belt Grant:</b>
@@ -994,6 +1050,8 @@
 7. <b><u>Leader Brycen</u></b>
 </code></pre>
 
+---
+
 #### Route 8
 
 <pre><code>1. <b>PKMN Ranger Lewis:</b>
@@ -1018,6 +1076,8 @@
 6. <b><u>Bianca</u></b>
 </code></pre>
 
+---
+
 #### Moor Of Icirrus
 
 <pre><code>1. <b>PKMN Ranger Harry:</b>
@@ -1037,6 +1097,8 @@
    - Vaporeon L58
    - Golurk L58
 </code></pre>
+
+---
 
 #### Dragonspiral Tower
 
@@ -1078,6 +1140,8 @@
    - Bisharp L60
 </code></pre>
 
+---
+
 #### Tubeline Bridge
 
 <pre><code>1. <b>Biker Morgann:</b>
@@ -1085,6 +1149,8 @@
 2. <b>Biker Jeremy:</b>
    - Bouffalant L60
 </code></pre>
+
+---
 
 #### Route 9
 
@@ -1118,6 +1184,8 @@
    - Gengar L61
    - Snorlax L61
 </code></pre>
+
+---
 
 #### Opelucid City
 
@@ -1166,6 +1234,8 @@
 11. <b><u>Drayden / Iris</u></b>
 </code></pre>
 
+---
+
 #### Route 10
 
 <pre><code>1. <b>Battle Girl Amy:</b>
@@ -1205,6 +1275,8 @@
    - Skarmory L63
    - Luxray L63
 </code></pre>
+
+---
 
 #### Victory Road
 

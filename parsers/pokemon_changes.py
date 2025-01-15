@@ -19,13 +19,13 @@ def main():
                 listing = False
             continue
         elif line.startswith("#"):
-            md += f"**{line}**\n\n<pre><code>"
+            md += f"---\n\n**{line}**\n\n<pre><code>"
             listing = True
         elif line.endswith("Pokémon") or line == "Evolution Changes":
             md += f"## {line}\n\n"
         elif line.startswith("The following Pokémon"):
             strs = line.split(": ")
-            md += f"**{strs[0]}:**\n\n```\n"
+            md += f"---\n\n**{strs[0]}:**\n\n```\n"
 
             pokemon = strs[1].split(", ")
             for i, p in enumerate(pokemon):

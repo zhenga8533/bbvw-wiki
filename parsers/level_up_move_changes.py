@@ -18,7 +18,7 @@ def main():
                 listing = False
             continue
         elif line.startswith("#"):
-            md += f"**{line}**\n\n```\n"
+            md += f"---\n\n**{line}**\n\n```\n"
             listing = True
         elif line.endswith("Pokémon"):
             md += f"## {line}\n\n"

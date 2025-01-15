@@ -33,7 +33,7 @@ def main():
                 md += "</code></pre>\n\n"
                 listing = 0
 
-            md += f"#### {line}\n\n<pre><code>"
+            md += f"---\n\n#### {line}\n\n<pre><code>"
             teaming = True
         elif line.startswith("Battle Type:") or line.startswith("Reward:") or line.startswith("Location:"):
             s = line.split(": ")

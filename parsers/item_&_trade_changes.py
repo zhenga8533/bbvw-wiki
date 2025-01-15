@@ -21,16 +21,14 @@ def main():
 
         if line == "---":  # Skip this line
             continue
-        elif line == "+ + + + +":  # Start of section
-            md += "---\n"
         elif line.startswith("TRADE"):  # Header
             if not trading:
                 md += "## Trade Changes\n\n"
                 trading = True
-            md += f"#### {string.capwords(line)}\n\n```\n"
+            md += f"---\n\n#### {string.capwords(line)}\n\n```\n"
             listing = 1
         elif next_line == "---":
-            md += f"#### {string.capwords(line)}\n\n```\n"
+            md += f"---\n\n#### {string.capwords(line)}\n\n```\n"
             listing = 1
         elif line == "":  # End of section
             if listing:  # Close the code block

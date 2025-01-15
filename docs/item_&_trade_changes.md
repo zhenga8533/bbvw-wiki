@@ -1,5 +1,7 @@
 ## Item Changes
 
+---
+
 #### The Following Items Have Been Edited Into "use" Items:
 
 ```
@@ -24,12 +26,16 @@
 3. TM10 Hidden Power → TM60 Quash
 ```
 
+---
+
 #### Route 2
 
 ```
 1. Poké Ball → Oval Stone
 2. Potion → Everstone
 ```
+
+---
 
 #### Striaton City
 
@@ -38,6 +44,8 @@
 2. Oran Berries x3 → HM01 Cut
 3. HM01 Cut → TM10 Hidden Power
 ```
+
+---
 
 #### Dreamyard
 
@@ -49,11 +57,15 @@
 5. Parlyz Heal → TM88 Pluck
 ```
 
+---
+
 #### Nacrene City
 
 ```
 1. Chesto Berry x3 → Sun Stone x6
 ```
+
+---
 
 #### Route 3
 
@@ -62,6 +74,8 @@
 2. HP Up → TM75 Swords Dance
 3. Full Heal → TM77 Psych Up
 ```
+
+---
 
 #### Pinwheel Forest
 
@@ -74,6 +88,8 @@
 6. Hyper Potion → Miracle Seed
 7. Moon Stone (NPC) → Moon Stone x6
 ```
+
+---
 
 #### Castelia City
 
@@ -88,6 +104,8 @@
 8. Water Stone (NPC) → Water Stone x6
 ```
 
+---
+
 #### Route 4
 
 ```
@@ -96,6 +114,8 @@
 3. Burn Heal → Root Fossil
 4. X Accuarcy → Skull Fossil
 ```
+
+---
 
 #### Desert Resort
 
@@ -106,6 +126,8 @@
 4. Super Potion → Armor Fossil
 5. Fire Stone → Fire Stone x6
 ```
+
+---
 
 #### Relic Castle
 
@@ -118,6 +140,8 @@
 6. Max Potion → TM35 Flamethrower
 ```
 
+---
+
 #### Nimbasa City
 
 ```
@@ -128,6 +152,8 @@
 5. X Attack → ThunderStone x6
 ```
 
+---
+
 #### Route 5
 
 ```
@@ -136,12 +162,16 @@
 3. Great Ball → BlackGlasses
 ```
 
+---
+
 #### Cold Storage Outside
 
 ```
 1. Protein → Dawn Stone x6
 2. Ether → Razor Fang
 ```
+
+---
 
 #### Cold Storage Inside
 
@@ -151,12 +181,16 @@
 3. Ice Heal → Razor Claw
 ```
 
+---
+
 #### Driftveil City
 
 ```
 1. HM02 Fly (NPC) → RageCandyBar
 2. Water Stone → Water Stone x6
 ```
+
+---
 
 #### Route 6
 
@@ -167,6 +201,8 @@
 4. Leaf Stone → Leaf Stone x6
 ```
 
+---
+
 #### Chargestone Cave
 
 ```
@@ -175,11 +211,15 @@
 3. ThunderStone → Electirizer
 ```
 
+---
+
 #### Route 7
 
 ```
 1. Ultra Ball → Magmarizer
 ```
+
+---
 
 #### Celestial Tower
 
@@ -188,6 +228,8 @@
 2. Hyper Potion → TM19 Telekenesis
 ```
 
+---
+
 #### Mistralton Cave
 
 ```
@@ -195,11 +237,15 @@
 2. Max Repel → TM69 Rock Polish
 ```
 
+---
+
 #### Icirrus City
 
 ```
 1. TM79 Frost Breath (NPC) → TM13 Ice Beam
 ```
+
+---
 
 #### Moor Of Icirrus
 
@@ -208,17 +254,23 @@
 2. Ultra Ball → TM34 Sludge Wave
 ```
 
+---
+
 #### Dragonspiral Tower
 
 ```
 1. Shiny Stone → TM29 Psychic
 ```
 
+---
+
 #### Tubeline Bridge
 
 ```
 1. TM43 Flame Charge (NPC) → TM71 Stone Edge
 ```
+
+---
 
 #### Route 10
 
@@ -227,11 +279,15 @@
 2. Dawn Stone → TM26 Earthquake
 ```
 
+---
+
 #### Victory Road
 
 ```
 1. TM93 Wild Charge → Power Herb
 ```
+
+---
 
 #### Route 11
 
@@ -239,11 +295,15 @@
 1. Protector → Air Balloon
 ```
 
+---
+
 #### Route 12
 
 ```
 1. TM53 Energy Ball → Light Ball
 ```
+
+---
 
 #### Route 13
 
@@ -255,12 +315,16 @@
 5. TM89 U-turn (NPC) → Metronome
 ```
 
+---
+
 #### Route 14
 
 ```
 1. Reaper Cloth → Light Clay
 2. TM08 Bulk Up (NPC) → Choice Band
 ```
+
+---
 
 #### Route 15
 
@@ -269,11 +333,15 @@
 2. TM09 Venoshock → Black Sludge
 ```
 
+---
+
 #### Route 16
 
 ```
 1. Rare Candy → TM03 Psyshock
 ```
+
+---
 
 #### Route 18
 
@@ -282,11 +350,15 @@
 2. TM19 Telekenesis → TM87 Swagger
 ```
 
+---
+
 #### Lostlorn Forest
 
 ```
 1. Big Mushroom → TM01 Hone Claws
 ```
+
+---
 
 #### Abundant Shrine
 
@@ -295,12 +367,16 @@
 2. TM35 Flamethrower → Soul Dew
 ```
 
+---
+
 #### Giant Chasm
 
 ```
 1. TM03 Psyshock → Rare Candy x50
 2. TM13 Ice Beam → God Stone
 ```
+
+---
 
 #### Challenger's Cave
 
@@ -317,12 +393,16 @@
 
 ## Trade Changes
 
+---
+
 #### Trade #1: Nacrene City
 
 ```
 1. Original: Cottonee/Petilil → Cottonee/Petilil [Lv. 15] @ Cheri Berry
 2. New: Shroomish → Ponyta [Lv. 20] @ Lum Berry
 ```
+
+---
 
 #### Trade #2: Driftveil City
 
@@ -331,6 +411,8 @@
 2. New: Wailmer → Snover [Lv. 30] @ Focus Sash
 ```
 
+---
+
 #### Trade #3: Route 7
 
 ```
@@ -338,12 +420,16 @@
 2. New: Haunter → Torkoal [Lv. 40] @ White Herb
 ```
 
+---
+
 #### Trade #4: Route 15
 
 ```
 1. Original: Ditto → Rotom [Lv. 60] @ Max Elixir
 2. New: Metagross → Salamence [Lv. 70] @ Master Ball
 ```
+
+---
 
 #### Trade #5: Undella Town
 

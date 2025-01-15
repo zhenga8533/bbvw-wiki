@@ -2,6 +2,8 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 
 ¹²³ — This Pokémon changes based on the chosen starter.
 
+---
+
 #### Rival Bianca – 1
 
 <pre><code><b>Battle Type:</b> Single Battle
@@ -21,6 +23,8 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 <b>Ability:</b> Adaptability
 <b>Level:</b> 5
 </code></pre>
+
+---
 
 #### Rival Cheren – 1
 
@@ -42,6 +46,8 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 <b>Level:</b> 5
 </code></pre>
 
+---
+
 #### PKMN Trainer N – 1
 
 <pre><code><b>Battle Type:</b> Single Battle
@@ -61,6 +67,8 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 <b>Ability:</b> ?
 <b>Level:</b> 6
 </code></pre>
+
+---
 
 #### Rival Bianca – 2
 
@@ -86,6 +94,8 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 <b>Level:</b> 10
 </code></pre>
 
+---
+
 #### Rival Cheren – 2
 
 <pre><code><b>Battle Type:</b> Single Battle
@@ -109,6 +119,8 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 <b>Ability:</b> Adaptability
 <b>Level:</b> 12
 </code></pre>
+
+---
 
 #### Gym Leader Cilan, Gym Leader Cress, Gym Leader Chili
 
@@ -452,6 +464,8 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 4. Will-O-Wisp
 </code></pre>
 
+---
+
 #### Rival Cheren – 3
 
 <pre><code><b>Battle Type:</b> Single Battle
@@ -492,6 +506,8 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 <b>Level:</b> 16
 </code></pre>
 
+---
+
 #### PKMN Trainer N – 2
 
 <pre><code><b>Battle Type:</b> Double Battle
@@ -519,6 +535,8 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 <b>Ability:</b> ?
 <b>Level:</b> 19
 </code></pre>
+
+---
 
 #### Gym Leader Lenora
 
@@ -638,6 +656,8 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 4. Earthquake
 </code></pre>
 
+---
+
 #### Gym Leader Burgh
 
 <pre><code><b>Battle Type:</b> Double Battle (Initial) / Single Battle (Rematch)
@@ -756,6 +776,8 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 4. Shadow Claw
 </code></pre>
 
+---
+
 #### Rival Bianca – 3
 
 <pre><code><b>Battle Type:</b> Double Battle
@@ -795,6 +817,8 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 <b>Ability:</b> Adaptability
 <b>Level:</b> 31
 </code></pre>
+
+---
 
 #### Rival Cheren – 4
 
@@ -840,6 +864,8 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 <b>Level:</b> 33
 </code></pre>
 
+---
+
 #### PKMN Trainer N – 3
 
 <pre><code><b>Battle Type:</b> Double Battle
@@ -871,6 +897,8 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 <b>Ability:</b> ?
 <b>Level:</b> 33
 </code></pre>
+
+---
 
 #### Gym Leader Elesa
 
@@ -990,6 +1018,8 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 4. Return
 </code></pre>
 
+---
+
 #### Rival Cheren – 5
 
 <pre><code><b>Battle Type:</b> Single Battle
@@ -1033,6 +1063,8 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 <b>Ability:</b> Adaptability
 <b>Level:</b> 38
 </code></pre>
+
+---
 
 #### Gym Leader Clay
 
@@ -1152,6 +1184,8 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 4. Horn Drill
 </code></pre>
 
+---
+
 #### Rival Bianca – 4
 
 <pre><code><b>Battle Type:</b> Single Battle
@@ -1196,6 +1230,8 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 <b>Level:</b> 43
 </code></pre>
 
+---
+
 #### PKMN Trainer N – 4
 
 <pre><code><b>Battle Type:</b> Single Battle
@@ -1227,6 +1263,8 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 <b>Ability:</b> ?
 <b>Level:</b> 47
 </code></pre>
+
+---
 
 #### Gym Leader Skyla
 
@@ -1346,6 +1384,8 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 4. Tailwind
 </code></pre>
 
+---
+
 #### Rival Cheren – 6
 
 <pre><code><b>Battle Type:</b> Rotation Battle
@@ -1461,6 +1501,8 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 3. Wild Charge
 4. Earthquake
 </code></pre>
+
+---
 
 #### Gym Leader Brycen
 
@@ -1580,6 +1622,8 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 4. Close Combat
 </code></pre>
 
+---
+
 #### Rival Bianca – 5
 
 <pre><code><b>Battle Type:</b> Triple Battle
@@ -1695,6 +1739,8 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 3. Wild Charge
 4. Earthquake
 </code></pre>
+
+---
 
 #### Gym Leader Drayden
 
@@ -1814,6 +1860,8 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 4. Focus Blast
 </code></pre>
 
+---
+
 #### Gym Leader Iris
 
 <pre><code><b>Battle Type:</b> Triple Battle
@@ -1932,6 +1980,8 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 4. Brick Break
 </code></pre>
 
+---
+
 #### Rival Cheren – 7
 
 <pre><code><b>Battle Type:</b> Single Battle
@@ -2048,6 +2098,8 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 4. Earthquake
 </code></pre>
 
+---
+
 #### Elite Four Shauntal
 
 <pre><code><b>Battle Type:</b> Double Battle
@@ -2108,6 +2160,8 @@ Shauntal’s First Team
 4. Psychic
 </code></pre>
 
+---
+
 #### Shauntal’s Second Team
 
 <pre><code><b>Battle Type:</b> Single Battle
@@ -2166,6 +2220,8 @@ Shauntal’s First Team
 3. Hidden Power
 4. Calm Mind
 </code></pre>
+
+---
 
 #### Elite Four Grimsley
 
@@ -2227,6 +2283,8 @@ Grimsley’s First Team
 4. Stone Edge
 </code></pre>
 
+---
+
 #### Grimsley’s Second Team
 
 <pre><code><b>Battle Type:</b> Single Battle
@@ -2285,6 +2343,8 @@ Grimsley’s First Team
 3. Focus Blast
 4. Grass Knot
 </code></pre>
+
+---
 
 #### Elite Four Marshal
 
@@ -2346,6 +2406,8 @@ Marshal’s First Team
 4. Rest
 </code></pre>
 
+---
+
 #### Marshal’s Second Team
 
 <pre><code><b>Battle Type:</b> Single Battle
@@ -2404,6 +2466,8 @@ Marshal’s First Team
 3. Payback
 4. Drain Punch
 </code></pre>
+
+---
 
 #### Elite Four Caitlin
 
@@ -2465,6 +2529,8 @@ Caitlin’s First Team
 4. Energy Ball
 </code></pre>
 
+---
+
 #### Caitlin’s Second Team
 
 <pre><code><b>Battle Type:</b> Single Battle
@@ -2523,6 +2589,8 @@ Caitlin’s First Team
 3. Earthquake
 4. Ice Punch
 </code></pre>
+
+---
 
 #### PKMN Trainer N – Final
 
@@ -2641,6 +2709,8 @@ Caitlin’s First Team
 4. Draco Meteor
 </code></pre>
 
+---
+
 #### Team Plasma Ghetsis
 
 <pre><code><b>Battle Type:</b> Single Battle
@@ -2701,6 +2771,8 @@ Ghetsis’ Team
 3. Focus Blast
 4. Dark Pulse
 </code></pre>
+
+---
 
 #### Rival Cheren – Final
 
@@ -2818,6 +2890,8 @@ Ghetsis’ Team
 4. Earthquake
 </code></pre>
 
+---
+
 #### Rival Bianca – Final
 
 <pre><code><b>Battle Type:</b> Rotation Battle
@@ -2934,6 +3008,8 @@ Ghetsis’ Team
 4. Hammer Arm
 </code></pre>
 
+---
+
 #### PKMN Trainer Cynthia
 
 <pre><code><b>Battle Type:</b> Single Battle
@@ -2996,6 +3072,8 @@ Ghetsis’ Team
 4. Extreme Speed
 </code></pre>
 
+---
+
 #### Champion Alder
 
 <pre><code><b>Battle Type:</b> Single Battle
@@ -3057,6 +3135,8 @@ Ghetsis’ Team
 3. Quiver Dance
 4. Thunderbolt
 </code></pre>
+
+---
 
 #### GAME Freak Morimoto
 

@@ -12,7 +12,7 @@ Game ID (Full): IRBO 626A092E
 Game ID (Clean): IRBO 8C8A35DF
 ```
 
-<br/>
+---
 
 #### No$gba Fix Code (for use with 2.6a and no$zoomer)
 
@@ -37,6 +37,8 @@ EAA01606 00000000
 D0000000 00000000
 ```
 
+---
+
 #### Swap Between Black City and White Forest
 
 When activated, push L for Black City, push R for White Forest. After pushing button, save game and reset. The effect is permanent i.e. it won't swap back to the original place without you making it.
@@ -51,6 +53,8 @@ B2000024 00000000
 20034906 00000001
 D2000000 00000000
 ```
+
+---
 
 #### Make Ten Particular People Appear in BC/WF
 
@@ -75,6 +79,8 @@ DC000000 00000018
 D2000000 00000000
 ```
 
+---
+
 #### Make a Different Ten Appear
 
 Activated via L + R.
@@ -98,6 +104,8 @@ DC000000 00000018
 D2000000 00000000
 ```
 
+---
+
 #### Make the Last Ten Appear
 
 Activated via L + R.
@@ -120,6 +128,8 @@ C0000000 00000009
 DC000000 00000018
 D2000000 00000000
 ```
+
+---
 
 #### View IVs/EVs (L/R/Start)
 
@@ -145,6 +155,8 @@ D1EB4290 65A92100
 D2000000 00000000
 ```
 
+---
+
 #### Instant Shaking Grass/Dirt/Shadow/Bubbles
 
 Press L while walking and they'll appear.
@@ -158,6 +170,8 @@ Press L while walking and they'll appear.
 D2000000 00000000
 ```
 
+---
+
 #### Double Movement Speed
 
 ```
@@ -165,6 +179,8 @@ D2000000 00000000
 02197FC8 085F0056
 D0000000 00000000
 ```
+
+---
 
 #### Computer Everywhere (Start)
 
@@ -184,6 +200,8 @@ D0022808 07C09822
 D0000000 00000000
 ```
 
+---
+
 #### Speed Up Battle Messages
 
 Automatically removes the delay after battle messages.
@@ -193,6 +211,8 @@ Automatically removes the delay after battle messages.
 121ED07E 0000E003
 D2000000 00000000
 ```
+
+---
 
 #### Auto-Run (B)
 
@@ -225,6 +245,8 @@ D1024770 4C0220FF
 D2000000 00000000
 ```
 
+---
+
 #### DS Lite Backlight Control
 
 Hold L+R+SELECT then press UP to increase brightness or DOWN to decrease brightness.
@@ -258,6 +280,8 @@ D1FC4228 80220C12
 D2000000 00000000
 ```
 
+---
+
 #### Rematch Trainers (Hold L)
 
 This will let you rebattle regular trainers (probably not important ones like Gym Leaders). Should work with the Gym Leader rematches if you want to try them a second or further time.
@@ -280,7 +304,7 @@ Game ID (Full): IRAO 5908558D
 Game ID (Clean): IRAO 90B4A9C7
 ```
 
-<br/>
+---
 
 #### No$gba Fix Code (for use with 2.6a and no$zoomer)
 
@@ -305,6 +329,8 @@ EAA01606 00000000
 D0000000 00000000
 ```
 
+---
+
 #### Swap Between Black City and White Forest
 
 When activated, push L for Black City, push R for White Forest. After pushing button, save game and reset. The effect is permanent i.e. it won't swap back to the original place without you making it.
@@ -319,6 +345,8 @@ B2000024 00000000
 20034906 00000001
 D2000000 00000000
 ```
+
+---
 
 #### Make Ten Particular People Appear in BC/WF
 
@@ -343,6 +371,8 @@ DC000000 00000018
 D2000000 00000000
 ```
 
+---
+
 #### Make a Different Ten Appear
 
 Activated via L + R.
@@ -366,6 +396,8 @@ DC000000 00000018
 D2000000 00000000
 ```
 
+---
+
 #### Make the Last Ten Appear
 
 Activated via L + R.
@@ -388,6 +420,8 @@ C0000000 00000009
 DC000000 00000018
 D2000000 00000000
 ```
+
+---
 
 #### View IVs/EVs (L/R/Start)
 
@@ -413,6 +447,8 @@ D1EB4290 65A92100
 D2000000 00000000
 ```
 
+---
+
 #### Instant Shaking Grass/Dirt/Shadow/Bubbles
 
 Press L while walking and they'll appear.
@@ -426,6 +462,8 @@ Press L while walking and they'll appear.
 D2000000 00000000
 ```
 
+---
+
 #### Double Movement Speed
 
 ```
@@ -433,6 +471,8 @@ D2000000 00000000
 02197FE8 085F0056
 D0000000 00000000
 ```
+
+---
 
 #### Computer Everywhere (Start)
 
@@ -452,6 +492,8 @@ D0022808 07C09822
 D0000000 00000000
 ```
 
+---
+
 #### Speed Up Battle Messages
 
 Automatically removes the delay after battle messages.
@@ -461,6 +503,8 @@ Automatically removes the delay after battle messages.
 121ED09E 0000E003
 D2000000 00000000
 ```
+
+---
 
 #### Auto-Run (B)
 
@@ -492,6 +536,8 @@ D2000000 00000000
 D2000000 00000000
 ```
 
+---
+
 #### DS Lite Backlight Control
 
 Hold L+R+SELECT then press UP to increase brightness or DOWN to decrease brightness.
@@ -524,6 +570,8 @@ D1FC4228 80220C12
 023FE074 E3520003
 D2000000 00000000
 ```
+
+---
 
 #### Rematch Trainers (Hold L)
 
