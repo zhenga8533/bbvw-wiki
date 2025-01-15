@@ -1,6 +1,4 @@
 from util.file import load, save
-import re
-import string
 
 
 def main():
