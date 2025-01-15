@@ -1,2968 +1,4136 @@
-Evolution Changes
-The following Pokémon have received an edit to their evolution method: Poliwhirl, Kadabra, Machoke, Graveler, Slowpoke, Haunter, Onix, Rhydon, Seadra, Scyther, Electabuzz, Magmar, Porygon, Porygon2, Feebas, Dusclops, Clamperl, Happiny, Boldore, Gurdurr, Karrablast, Shelmet.
+## Evolution Changes
 
-The following Pokémon have had their evolution levels adjusted: Scraggy, Elgyem, Litwick, Mienfoo, Golett, Pawniard, Rufflet, Vullaby, Deino, Larvesta.
+**The following Pokémon have received an edit to their evolution method:**
 
-The following Pokémon have received an edit to their typing: Farfetch’d, Masquerain, Volbeat, Illumise, Glalie, Luxio, Luxray, Electivire, Serperior, Pignite, Emboar, Dewott, Samurott, Cofagrigus, Gothita, Gothorita, Gothitelle, Beartic.
+```
+1. Poliwhirl
+2. Kadabra
+3. Machoke
+4. Graveler
+5. Slowpoke
+6. Haunter
+7. Onix
+8. Rhydon
+9. Seadra
+10. Scyther
+11. Electabuzz
+12. Magmar
+13. Porygon
+14. Porygon2
+15. Feebas
+16. Dusclops
+17. Clamperl
+18. Happiny
+19. Boldore
+20. Gurdurr
+21. Karrablast
+22. Shelmet
+```
+
+**The following Pokémon have had their evolution levels adjusted:**
+
+```
+1. Scraggy
+2. Elgyem
+3. Litwick
+4. Mienfoo
+5. Golett
+6. Pawniard
+7. Rufflet
+8. Vullaby
+9. Deino
+10. Larvesta
+```
+
+**The following Pokémon have received an edit to their typing:**
+
+```
+1. Farfetch’d
+2. Masquerain
+3. Volbeat
+4. Illumise
+5. Glalie
+6. Luxio
+7. Luxray
+8. Electivire
+9. Serperior
+10. Pignite
+11. Emboar
+12. Dewott
+13. Samurott
+14. Cofagrigus
+15. Gothita
+16. Gothorita
+17. Gothitelle
+18. Beartic
+```
 
 Things unlisted haven’t been changed from the original Black & White. Abilities are the exception, and are listed regardless of change.
 
 Use the Ctrl + F function to skip directly to them to see the new method.
 
-Kanto Pokémon
-
-#001 Bulbasaur - #002 Ivysaur
-Item: Miracle Seed (50%)
-Ability One: Overgrow
-Ability Two: Chlorophyll
-
-#003 Venusaur
-Item: Miracle Seed (50%)
-TM: Can now learn TM34, Sludge Wave.
-Ability One: Overgrow
-Ability Two: Chlorophyll
-
-#004 Charmander - #006 Charizard
-Item: Charcoal (50%)
-Ability One: Blaze
-Ability Two: Solar Power
-
-#007 Squirtle - #009 Blastoise
-Item: Mystic Water (50%)
-Ability One: Torrent
-Ability Two: Sturdy
-
-#010 Caterpie
-Ability One: Shield Dust
-Ability Two: Suction Cups
-
-#011 Metapod
-Ability One: Shed Skin
-Ability Two: Battle Armor
-
-#012 Butterfree
-Special Attack: 80  95
-Speed: 70  90
-Total: 385  420
-Ability One: Compoundeyes
-Ability Two: Tinted Lens
-
-#013 Weedle
-Ability One: Shield Dust
-Ability Two: Poison Touch
-
-#014 Kakuna
-Ability One: Shed Skin
-Ability Two: Battle Armor
-
-#015 Beedrill
-Attack: 80  95
-Speed: 75  95
-Total: 385  420
-Ability One: Sniper
-Ability Two: Poison Touch
-
-#016 Pidgey
-Items: Oran Berry (5%)
-TM: Now able to learn TM62, Acrobatics.
-Ability One: Big Pecks
-Ability Two: Tangled Feet
-
-#017 Pidgeotto
-Items: Oran Berry (50%), Sitrus Berry (5%)
-TM: Now able to learn TM62, Acrobatics.
-Ability One: Big Pecks
-Ability Two: Tangled Feet
-
-#018 Pidgeot
-HP: 83  105
-Attack: 80  90
-Defense: 75  85
-Special Defense: 70  80
-Total: 469  521
-TM: Now able to learn TM62, Acrobatics.
-Ability One: Big Pecks
-Ability Two: Tangled Feet
-
-#019 Rattata
-Ability One: Hustle
-Ability Two: Guts
-TM: Can now learn TM01, Hone Claws.
-
-#020 Raticate
-HP: 55  60
-Attack: 81  87
-Speed: 97  109
-Total: 413  436
-Item: Chilan Berry (50%)
-Ability One: Hustle
-Ability Two: Guts
-TM: Can now learn TM01, Hone Claws.
-
-#021 Spearow
-Item: Sharp Beak (5%)
-Ability One: Keen Eye
-Ability Two: Sniper
-
-#022 Fearow
-Attack: 90  100
-Total: 442  452
-Item: Sharp Beak (50%)
-Ability One: Keen Eye
-Ability Two: Sniper
-
-#023 Ekans
-Catch Rate: 200
-Item: Kebia Berry (5%)
-Ability One: Intimidate
-Ability Two: Shed Skin
-
-#024 Arbok
-Attack: 85  96
-Speed: 80  87
-Special Attack: 65  80
-Total: 438  471
-Item: Kebia Berry (50%)
-Ability One: Intimidate
-Ability Two: Shed Skin
-
-#025 Pikachu
-Attack: 55  80
-Speed: 90  110
-Special Attack: 50  85
-Total: 300  380
-Item: Light Ball (50%), Sitrus Berry (5%)
-HM: Can now learn HM03, Surf.
-Ability One: Static
-Ability Two: LightningRod
-
-#026 Raichu
-Attack: 90  100
-Speed: 100  120
-Special Attack: 90  100
-Special Defense: 80  90
-Total: 475  525
-HM: Can now learn HM03, Surf.
-Ability One: Static
-Ability Two: LightningRod
-
-#027 Sandshrew - #028 Sandslash
-Ability One: Sand Veil
-Ability Two: Sand Rush
-
-#029 Nidoran F
-Item: Pecha Berry (50%)
-Ability One: Poison Point
-Ability Two: Rivalry
-
-#030 Nidorina
-Ability One: Hustle
-Ability Two: Rivalry
-
-#031 Nidoqueen
-Attack: 82  92
-Special Attack: 75  90
-Total: 495  520
-Ability One: Sheer Force
-Ability Two: Rivalry
-
-#032 Nidoran M
-Item: Pecha Berry (50%)
-Ability One: Poison Point
-Ability Two: Rivalry
-
-#033 Nidorino
-Ability One: Hustle
-Ability Two: Rivalry
-
-#034 Nidoking
-Attack: 92  102
-Special Attack: 85  95
-Total: 495  520
-Ability One: Sheer Force
-Ability Two: Rivalry
-
-#035 Clefairy
-Ability One: Cute Charm
-Ability Two: Magic Guard
-
-#036 Clefable
-HP: 95  105
-Special Attack: 83  93
-Special Defense: 90  100
-Total: 473  503
-Ability One: Unaware
-Ability Two: Magic Guard
-
-#037 Vulpix
-Items: Rawst Berry (50%), Occa Berry (5%)
-Ability One: Flash Fire
-Ability Two: Drought
-
-#038 Ninetales
-Items: Rawst Berry (50%), Occa Berry (5%)
-Ability One: Flash Fire
-Ability Two: Drought
-
-#039 Jigglypuff
-HP: 115  128
-Attack: 45  65
-Special Attack: 45  65
-Total: 270  323
-Ability One: Cute Charm
-Ability Two: Friend Guard
-
-#040 Wigglytuff
-Attack: 70  83
-Defense: 45  60
-Special Attack: 75  95
-Special Defense: 50  80
-Total: 425  503
-Ability One: Cute Charm
-Ability Two: Frisk
-
-#041 Zubat
-Base Happiness: 140
-Ability One: Inner Focus
-Ability Two: Infiltrator
-
-#042 Golbat
-Base Happiness: 140
-Ability One: Inner Focus
-Ability Two: Infiltrator
-
-#043 Oddish
-Ability One: Chlorophyll
-Ability Two: Run Away
-
-#044 Gloom
-Ability One: Chlorophyll
-Ability Two: Stench
-
-#045 Vileplume
-HP: 75  85
-Special Attack: 100  110
-Special Defense: 90  100
-Total: 480  510
-Ability One: Chlorophyll
-Ability Two: Effect Spore
-
-#046 Paras
-Ability One: Effect Spore
-Ability Two: Dry Skin
-
-#047 Parasect
-HP: 60  80
-Attack: 95  110
-Defense: 80  100
-Special Defense: 80  90
-Speed: 30  40
-Total: 405  480
-Ability One: Effect Spore
-Ability Two: Dry Skin
-
-#048 Venonat
-Ability One: Compoundeyes
-Ability Two: Tinted Lens
-
-#049 Venomoth
-Special Attack: 90  100
-Speed: 90  100
-Total: 450  470
-Ability One: Wonder Skin
-Ability Two: Tinted Lens
-
-#050 Diglett
-Ability One: Sand Force
-Ability Two: Arena Trap
-
-#051 Dugtrio
-Attack: 80  105
-Total: 405  430
-Ability One: Sand Force
-Ability Two: Arena Trap
-
-#052 Meowth
-Ability One: Pickup
-Ability Two: Technician
-
-#053 Persian
-Special Attack: 65  85
-Total: 440  460
-Ability One: Limber
-Ability Two: Technician
-
-#054 Psyduck - #055 Golduck
-Ability One: Swift Swim
-Ability Two: Cloud Nine
-
-#056 Mankey
-Ability One: Defiant
-Ability Two: Anger Point
-
-#057 Primeape
-Attack: 105  115
-Speed: 95  110
-Total: 455  480
-Ability One: Defiant
-Ability Two: Anger Point
-
-#058 Growlithe
-Ability One: Intimidate
-Ability Two: Justified
-
-#059 Arcanine
-Ability One: Intimidate
-Ability Two: Justified
-
-#060 Poliwag
-Ability One: Water Absorb
-Ability Two: Swift Swim
-
-#061 Poliwhirl
-Evolution (Politoed): Level Up at Night with King's Rock equipped.
-Ability One: Water Absorb
-Ability Two: Swift Swim
-
-#062 Poliwrath
-Attack: 85  105
-Total: 500  520
-Ability One: Water Absorb
-Ability Two: Swift Swim
-
-#063 Abra
-Ability One: Synchronize
-Ability Two: Magic Guard
-
-#064 Kadabra
-Evolution: Level 36.
-Ability One: Synchronize
-Ability Two: Magic Guard
-
-#065 Alakazam
-Ability One: Synchronize
-Ability Two: Magic Guard
-
-#066 Machop
-Ability One: Guts
-Ability Two: No Guard
-
-#067 Machoke
-Evolution: Level 39.
-Ability One: Guts
-Ability Two: No Guard
-
-#068 Machamp
-Ability One: Guts
-Ability Two: No Guard
-
-#069 Bellsprout
-Ability One: Chlorophyll
-Ability Two: Limber
-
-#070 Weepinbell
-Ability One: Chlorophyll
-Ability Two: Gluttony
-
-#071 Victreebel
-HP: 80  90
-Attack: 105  115
-Speed: 70  80
-Total: 480  510
-Ability One: Chlorophyll
-Ability Two: Intimidate
-
-#072 Tentacool - #073 Tentacruel
-Ability One: Clear Body
-Ability Two: Liquid Ooze
-
-#074 Geodude
-Ability One: Rock Head
-Ability Two: Sturdy
-
-#075 Graveler
-Evolution: Level 36.
-Ability One: Rock Head
-Ability Two: Sturdy
-
-#076 Golem
-HP: 80  90
-Total: 485  495
-Ability One: Rock Head
-Ability Two: Sturdy
-
-#077 Ponyta - #078 Rapidash
-Ability One: Flame Body
-Ability Two: Flash Fire
-
-#079 Slowpoke
-Evolution (Slowbro): Level 37 or Level Up with a Shellder in the party.
-Evolution (Slowking): Level Up at Day with King's Rock.
-Ability One: Regenerator
-Ability Two: Drizzle
-
-#080 Slowbro
-Ability One: Regenerator
-Ability Two: Drizzle
-
-#081 Magnemite - #082 Magneton
-Ability One: Magnet Pull
-Ability Two: Analytic
-
-#083 Farfetch'd
-Type: Fighting / Flying
-HP: 52  70
-Attack: 65  105
-Defense: 55  70
-Special Attack: 58  50
-Special Defense: 62  70
-Speed: 60  110
-Total: 352  475
-Base EXP: 123  192
-Item: Stick (50%)
-Ability One: Defiant
-Ability Two: Super Luck
-
-#084 Doduo
-Ability One: Tangled Feet
-Ability Two: Early Bird
-
-#085 Dodrio
-Ability One: Anger Point
-Ability Two: Early Bird
-
-#086 Seel
-Ability One: Thick Fat
-Ability Two: Hydration
-
-#087 Dewgong
-Special Attack: 70  85
-Total: 475  490
-Ability One: Thick Fat
-Ability Two: Hydration
-
-#088 Grimer - #089 Muk
-Item: Toxic Orb (50%)
-Ability One: Stench
-Ability Two: Poison Touch
-
-#090 Shellder
-Ability One: Overcoat
-Ability Two: Skill Link
-
-#091 Cloyster
-Ability One: Overcoat
-Ability Two: Skill Link
-
-#092 Gastly
-TM: Can now learn TM34, Sludge Wave.
-Ability One: Levitate
-Ability Two: Levitate
-
-#093 Haunter
-TM: Can now learn TM34, Sludge Wave.
-Evolution: Level 36.
-Ability One: Levitate
-Ability Two: Levitate
-
-#094 Gengar
-TM: Can now learn TM34, Sludge Wave.
-Ability One: Levitate
-Ability Two: Levitate
-
-#095 Onix
-Attack: 45  70
-Total: 385  410
-Evolution: Level Up at Night with Metal Coat equipped.
-Ability One: Weak Armor
-Ability Two: Sturdy
-
-#096 Drowzee - #097 Hypno
-Ability One: Insomnia
-Ability Two: Forewarn
-
-#098 Krabby - #099 Kingler
-HM: Can now learn HM05, Waterfall.
-Ability One: Hyper Cutter
-Ability Two: Sheer Force
-
-#100 Voltorb - #101 Electrode
-Ability One: Aftermath
-Ability Two: Static
-
-#102 Exeggcute
-Ability One: Chlorophyll
-Ability Two: Harvest
-
-#103 Exeggutor
-Ability One: Chlorophyll
-Ability Two: Harvest
-
-#104 Cubone
-Item: Thick Club (50%)
-Ability One: Rock Head
-Ability Two: Mold Breaker
-
-#105 Marowak
-Speed: 45  70
-Total: 425  450
-Ability One: Rock Head
-Ability Two: Mold Breaker
-
-#106 Hitmonlee
-Ability One: Unburden
-Ability Two: Reckless
-
-#107 Hitmonchan
-Ability One: Inner Focus
-Ability Two: Iron Fist
-
-#108 Lickitung
-Ability One: Cloud Nine
-Ability Two: Gluttony
-
-#109 Koffing
-TM: Can now learn TM34, Sludge Wave.
-Ability One: Levitate
-Ability Two: Levitate
-
-#110 Weezing
-TM: Can now learn TM34, Sludge Wave.
-Special Attack: 85  95
-Total: 490  500
-Ability One: Levitate
-Ability Two: Levitate
-
-#111 Rhyhorn
-Ability One: Reckless
-Ability Two: Rock Head
-
-#112 Rhydon
-Evolution: Use the Protector.
-Ability One: Reckless
-Ability Two: Rock Head
-
-#113 Chansey
-Item: Lucky Egg (0%)
-Base Happiness: 160
-Ability One: Natural Cure
-Ability Two: Serene Grace
-
-#114 Tangela
-Ability One: Chlorophyll
-Ability Two: Regenerator
-
-#115 Kangaskhan
-Ability One: Early Bird
-Ability Two: Scrappy
-
-#116 Horsea
-TM: Now learns TM79, Frost Breath.
-Ability One: Swift Swim
-Ability Two: Sniper
-
-#117 Seadra
-TM: Now learns TM79, Frost Breath.
-Evolution: Use the Dragon Scale.
-Ability One: Poison Point
-Ability Two: Poison Touch
-
-#118 Goldeen
-Ability One: Swift Swim
-Ability Two: LightningRod
-
-#119 Seaking
-Attack: 92  112
-Speed: 68  88
-Total: 450  490
-Ability One: Swift Swim
-Ability Two: LightningRod
-
-#120 Staryu - #121 Starmie
-Ability One: Regenerator
-Ability Two: Natural Cure
-
-#122 Mr. Mime
-Speed: 90  100
-Total: 460  470
-Ability One: Technician
-Ability Two: Filter
-
-#123 Scyther
-Evolution: Level Up at Day with a Metal Coat equipped.
-TM: Can now learn TM62, Acrobatics.
-Ability One: Swarm
-Ability Two: Technician
-
-#124 Jynx
-Special Attack: 115  125
-Speed: 95  100
-Total: 455  470
-Ability One: Trace
-Ability Two: Dry Skin
-
-#125 Electabuzz
-Evolution: Use the Electirizer.
-Ability One: Static
-Ability Two: Vital Spirit
-
-#126 Magmar
-Evolution: Use the Magmarizer.
-Ability One: Flame Body
-Ability Two: Vital Spirit
-
-#127 Pinsir
-Ability One: Moxie
-Ability Two: Mold Breaker
-
-#128 Tauros
-Attack: 100  110
-Total: 490  500
-Ability One: Intimidate
-Ability Two: Sheer Force
-
-#129 Magikarp
-Ability One: Swift Swim
-Ability Two: Rattled
-
-#130 Gyarados
-Ability One: Intimidate
-Ability Two: Moxie
-
-#131 Lapras
-Ability One: Water Absorb
-Ability Two: Shell Armor
-
-#132 Ditto
-Ability One: Imposter
-Ability Two: Imposter
-
-#133 Eevee
-Base Happiness: 200
-TM: Can now learn TM86, Grass Knot.
-Ability One: Anticipation
-Ability Two: Adaptability
-
-#134 Vaporeon
-Base Happiness: 200
-TM: Can now learn TM86, Grass Knot.
-Ability One: Water Absorb
-Ability Two: Hydration
-
-#135 Jolteon
-Base Happiness: 200
-TM: Can now learn TM86, Grass Knot.
-Ability One: Volt Absorb
-Ability Two: LightningRod
-
-#136 Flareon
-Base Happiness: 200
-HP: 65  110
-Attack: 130  130
-Defense: 60  65
-Special Attack: 95  60
-Special Defense: 110  65
-Speed: 65  95
-TM: Can now learn TM71, Stone Edge, TM80, Rock Slide, TM86 Grass Knot and TM93, Wild Charge.
-Ability One: Flash Fire
-Ability Two: Sheer Force
-
-#137 Porygon
-Evolution: Use the Up-Grade.
-Ability One: Trace
-Ability Two: Download
-
-#138 Omanyte
-Ability One: Swift Swim
-Ability Two: Shell Armor
-
-#139 Omastar
-Ability One: Swift Swim
-Ability Two: Iron Barbs
-
-#140 Kabuto
-Ability One: Swift Swim
-Ability Two: Battle Armor
-
-#141 Kabutops
-Ability One: Swift Swim
-Ability Two: Hyper Cutter
-
-#142 Aerodactyl
-Ability One: Rock Head
-Ability Two: Pressure
-
-#143 Snorlax
-Ability One: Gluttony
-Ability Two: Thick Fat
-
-#144 Articuno
-Item: Petaya Berry (100%)
-Ability One: Pressure
-Ability Two: Snow Cloak
-
-#145 Zapdos
-Item: Salac Berry (100%)
-Ability One: Pressure
-Ability Two: LightningRod
-
-#146 Moltres
-Item: Liechi Berry (100%)
-Ability One: Pressure
-Ability Two: Flame Body
-
-#147 Dratini
-Ability One: Shed Skin
-Ability Two: Marvel Scale
-
-#148 Dragonair
-Ability One: Shed Skin
-Ability Two: Marvel Scale
-
-#149 Dragonite
-Ability One: Multiscale
-Ability Two: Marvel Scale
-
-#150 Mewtwo
-Item: Apicot Berry (100%)
-Ability One: Pressure
-Ability Two: Unnerve
-
-#151 Mew
-Ability One: Synchronize
-Ability Two: Magic Guard
-
-Johto Pokémon
-
-#152 Chikorita - #154 Meganium
-Item: Miracle Seed (50%)
-Ability One: Overgrow
-Ability Two: Natural Cure
-
-#155 Cyndaquil - #157 Typhlosion
-Item: Charcoal (50%)
-Ability One: Blaze
-Ability Two: Flash Fire
-
-#158 Totodile - #160 Feraligatr.
-Item: Mystic Water (50%)
-Ability One: Torrent
-Ability Two: Sheer Force
-
-#161 Sentret
-Ability One: Frisk
-Ability Two: Keen Eye
-
-#162 Furret
-Attack: 76  86
-Speed: 90  100
-Total: 415  435
-Ability One: Frisk
-Ability Two: Keen Eye
-
-#163 Hoothoot
-Ability One: Insomnia
-Ability Two: Tinted Lens
-
-#164 Noctowl
-Special Attack: 76  96
-Total: 442  462
-Ability One: Insomnia
-Ability Two: Tinted Lens
-
-#165 Ledyba
-Attack: 20  40
-Special Attack: 40  20
-Ability One: Rattled
-Ability Two: Early Bird
-
-#166 Ledian
-Attack: 35  95
-Special Attack: 55  35
-Total: 390  430
-Ability One: Iron Fist
-Ability Two: Early Bird
-
-#167 Spinarak
-Ability One: Sniper
-Ability Two: Insomnia
-
-#168 Ariados
-Speed: 40  80
-Total: 390  430
-Ability One: Sniper
-Ability Two: Insomnia
-
-#169 Crobat
-Base Happiness: 140
-Ability One: Inner Focus
-Ability Two: Infiltrator
-
-#170 Chinchou
-Ability One: Volt Absorb
-Ability Two: Water Absorb
-
-#171 Lanturn
-Special Attack: 76  86
-Special Defense: 76  86
-Total: 460  480
-Ability One: Volt Absorb
-Ability Two: Water Absorb
-
-#172 Pichu
-Base Happiness: 200
-HM: Can now learn HM03, Surf.
-Ability One: Static
-Ability Two: LightningRod
-
-#173 Cleffa
-Base Happiness: 200
-Ability One: Friend Guard
-Ability Two: Magic Guard
-
-#174 Igglypuff
-Base Happiness: 200.
-Ability One: Cute Charm
-Ability Two: Friend Guard
-
-#175 Togepi
-Base Happiness: 200
-Ability One: Super Luck
-Ability Two: Serene Grace
-
-#176 Togetic
-Ability One: Super Luck
-Ability Two: Serene Grace
-
-#177 Natu
-Ability One: Synchronize
-Ability Two: Magic Bounce
-
-#178 Xatu
-Special Attack: 95  100
-Speed: 95  100
-Total: 470  480
-Ability One: Synchronize
-Ability Two: Magic Bounce
-
-#179 Mareep - #180 Flaaffy
-Ability One: Static
-Ability Two: Overcoat
-
-#181 Ampharos
-TM: Can now learn TM91, Flash Cannon.
-Ability One: Static
-Ability Two: Overcoat
-
-#182 Bellossom
-HP: 75  85
-Special Attack: 90  100
-Special Defense: 100  110
-Total: 480  510
-Ability One: Chlorophyll
-Ability Two: Own Tempo
-
-#183 Marill
-Special Attack: 20  50
-Total: 250  280
-Ability One: Sap Sipper
-Ability Two: Huge Power
-
-#184 Azumarill
-HP: 100  110
-Special Attack: 50  90
-Total: 410  450
-Ability One: Sap Sipper
-Ability Two: Huge Power
-
-#185 Sudowoodo
-HP: 70  85
-Attack: 100  115
-Defense: 115  130
-Special Defense: 65  80
-Total: 410  470
-Ability One: Sturdy
-Ability Two: Rattled
-
-#186 Politoed
-Ability One: Water Absorb
-Ability Two: Drizzle
-
-#187 Hoppip - #189 Jumpluff
-Ability One: Chlorophyll
-Ability Two: Prankster
-
-#190 Aipom
-Ability One: Skill Link
-Ability Two: Pickup
-
-#191 Sunkern
-Ability One: Chlorophyll
-Ability Two: Simple
-
-#192 Sunflora
-Defense: 55  85
-Special Attack: 105  135
-Special Defense: 85  95
-Total: 425  495
-Base EXP: 149  209
-Ability One: Chlorophyll
-Ability Two: Simple
-
-#193 Yanma
-Ability One: Speed Boost
-Ability Two: Compoundeyes
-
-#194 Wooper
-Ability One: Unaware
-Ability Two: Water Absorb
-
-#195 Quagsire
-Attack: 85  95
-Defense: 85  95
-Total: 430  450
-Ability One: Unaware
-Ability Two: Water Absorb
-
-#196 Espeon
-Ability One: Synchronize
-Ability Two: Magic Bounce
-
-#197 Umbreon
-TM: Can now learn TM86, Grass Knot.
-Ability One: Synchronize
-Ability Two: Prankster
-
-#198 Murkrow
-Ability One: Prankster
-Ability Two: Super Luck
-
-#199 Slowking
-Ability One: Regenerator
-Ability Two: Drizzle
-
-#200 Misdreavus
-Ability One: Levitate
-Ability Two: Levitate
-
-#201 Unown
-Attack: 72  112
-Special Attack: 72  112
-Speed: 48  88
-Total: 336  456
-Base EXP: 118  196
-Ability One: Levitate
-Ability Two: Levitate
-
-#202 Wobbuffet
-Ability One: Shadow Tag
-Ability Two: Telepathy
-
-#203 Girafarig
-Special Attack: 90  110
-Speed: 85  105
-Total: 455  495
-Base EXP: 159  205
-Ability One: Sap Sipper
-Ability Two: Early Bird
-
-#204 Pineco - #205 Forretress
-Ability One: Sturdy
-Ability Two: Overcoat
-
-#206 Dunsparce
-HP: 100  120
-Attack: 70  90
-Total: 415  455
-Ability One: Serene Grace
-Ability Two: Rattled
-
-#207 Gligar
-Ability One: Hyper Cutter
-Ability Two: Immunity
-
-#208 Steelix
-Attack: 85  90
-Total: 510  515
-Ability One: Sheer Force
-Ability Two: Sturdy
-
-#209 Snubbull
-Ability One: Intimidate
-Ability Two: Rattled
-
-#210 Granbull
-HP: 90  105
-Total: 450  465
-Ability One: Intimidate
-Ability Two: Rattled
-
-#211 Qwilfish
-Special Attack: 55  95
-Total: 430  470
-Ability One: Poison Touch
-Ability Two: Intimidate
-
-#212 Scizor
-Ability One: Swarm
-Ability Two: Technician
-
-#213 Shuckle
-Ability One: Sturdy
-Ability Two: Solid Rock
-
-#214 Heracross
-Ability One: Moxie
-Ability Two: Guts
-
-#215 Sneasel
-TM: Now learns TM79, Frost Breath.
-Ability One: Pickpocket
-Ability Two: Technician
-
-#216 Teddiursa - #217 Ursaring
-Ability One: Pickup (Teddiursa) / Guts (Ursaring)
-Ability Two: Honey Gather (Teddiursa) / Sheer Force (Ursaring)
-
-#218 Slugma
-Item: Flame Orb (50%)
-Ability One: Magma Armor
-Ability Two: Flame Body
-
-#219 Magcargo
-Item: Flame Orb (50%)
-Defense: 120  135
-Special Attack: 80  115
-Special Defense: 80  115
-Total: 410  495
-Base EXP: 144  205
-Ability One: Solid Rock
-Ability Two: Flame Body
-
-#220 Swinub - #221 Piloswine
-Ability One: Thick Fat
-Ability Two: Snow Cloak
-
-#222 Corsola
-Defense: 85  115
-Special Attack: 65  105
-Special Defense: 85  110
-Total: 380  475
-Base EXP: 133  205
-Ability One: Regenerator
-Ability Two: Natural Cure
-
-#223 Remoraid - #224 Octillery
-TM: Now learn TM79, Frost Breath.
-Ability One: Moody
-Ability Two: Sniper
-
-#225 Delibird
-HP: 45  50
-Attack: 55  95
-Defense: 45  55
-Special Attack: 65  105
-Special Defense: 45  55
-Speed: 75  115
-Total: 330  475
-Base EXP: 116  201
-TM: Can now learn TM62 Acrobatics and TM89 U-turn.
-Ability One: Vital Spirit
-Ability Two: Technician
-
-#226 Mantine
-HM: Can now learn HM02, Fly.
-Ability One: Swift Swim
-Ability Two: Water Absorb
-
-#227 Skarmory
-Ability One: Light Metal
-Ability Two: Sturdy
-
-#228 Houndour, #229 Houndoom
-Ability One: Intimidate
-Ability Two: Flash Fire
-
-#230 Kingdra
-TM: Now learns TM79, Frost Breath.
-Ability One: Swift Swim
-Ability Two: Sniper
-
-#231 Phanpy
-Ability One: Pickup
-Ability Two: Sand Veil
-
-#232 Donphan
-Ability One: Sturdy
-Ability Two: Sand Force
-
-#233 Porygon2
-Evolution: Use the Dubious Disc.
-Ability One: Trace
-Ability Two: Download
-
-#234 Stantler
-Attack: 95  100
-Total: 465  470
-Ability One: Intimidate
-Ability Two: Sap Sipper
-
-#235 Smeargle
-Speed: 75  115
-Total: 250  290
-Base EXP: 88  111
-Ability One: Moody
-Ability Two: Technician
-
-#236 Tyrogue - #237 Hitmontop
-Ability One: Guts (Tyrogue) / Intimidate (Hitmontop)
-Ability Two: Vital Spirit (Tyrogue) / Technician (Hitmontop)
-
-#238 Smoochum
-Ability One: Trace
-Ability Two: Hydration
-
-#239 Elekid
-Ability One: Static
-Ability Two: Vital Spirit
-
-#240 Magby
-Ability One: Flame Body
-Ability Two: Vital Spirit
-
-#241 Miltank
-Attack: 80  90
-Total: 490  500
-Ability One: Thick Fat
-Ability Two: Scrappy
-
-#242 Blissey
-Ability One: Natural Cure
-Ability Two: Serene Grace
-
-#243 Raikou
-Item: Micle Berry (100%)
-Ability One: Pressure
-Ability Two: Volt Absorb
-
-#244 Entei
-Item: Custap Berry (100%)
-Ability One: Pressure
-Ability Two: Flash Fire
-
-#245 Suicune
-Item: Rowap Berry (100%)
-Ability One: Pressure
-Ability Two: Water Absorb
-
-#246 Larvitar
-Ability One: Guts
-Ability Two: Hustle
-
-#247 Pupitar
-Ability One: Shed Skin
-Ability Two: Battle Armor
-
-#248 Tyranitar
-Ability One: Sand Stream
-Ability Two: Battle Armor
-
-#249 Lugia
-Item: Ganlon Berry (100%)
-Ability One: Pressure
-Ability Two: Multiscale
-
-#250 Ho-oh
-Ability One: Pressure
-Ability Two: Regenerator
-
-#251 Celebi
-Item: Jaboca Berry (100%)
-Ability One: Natural Cure
-Ability Two: Magic Guard
-
-Hoenn Pokémon
-
-#252 Treecko - #254 Sceptile
-Item: Miracle Seed (50%)
-Ability One: Overgrow
-Ability Two: Adaptability
-
-#255 Torchic - #257 Blaziken
-Item: Charcoal (50%)
-Ability One: Blaze
-Ability Two: Speed Boost
-
-#258 Mudkip - #260 Swampert
-Item: Mystic Water (50%)
-Ability One: Torrent
-Ability Two: Mold Breaker
-
-#261 Poochyena
-Ability One: Rattled
-Ability Two: Quick Feet
-
-#262 Mightyena
-Attack: 90  105
-Total: 420  435
-Ability One: Intimidate
-Ability Two: Moxie
-
-#263 Zigzagoon
-Ability One: Pickup
-Ability Two: Gluttony
-
-#264 Linoone
-Attack: 70  85
-Total: 420  435
-Ability One: Pickup
-Ability Two: Quick Feet
-
-#265 Wurmple
-Ability One: Shield Dust
-Ability Two: Run Away
-
-#266 Silcoon
-Ability One: Shed Skin
-Ability Two: Battle Armor
-
-#267 Beautifly
-Special Attack: 90  105
-Speed: 65  85
-Total: 385  420
-Ability One: Swarm
-Ability Two: Shield Dust
-
-#268 Silcoon
-Ability One: Shed Skin
-Ability Two: Battle Armor
-
-#269 Dustox
-Special Defense: 90  105
-Speed: 65  85
-Total: 385  420
-Ability One: Shield Dust
-Ability Two: Compoundeyes
-
-#270 Lotad
-Ability One: Swift Swim
-Ability Two: Rain Dish
-
-#271 Lombre
-Ability One: Swift Swim
-Ability Two: Rain Dish
-
-#272 Ludicolo
-Ability One: Swift Swim
-Ability Two: Rain Dish
-
-#273 Seedot
-Ability One: Pickpocket
-Ability Two: Early Bird
-
-#274 Nuzleaf
-Ability One: Pickpocket
-Ability Two: Early Bird
-
-#275 Shiftry
-Ability One: Pickpocket
-Ability Two: Early Bird
-
-#276 Taillow
-TM: Now learns TM62 Acrobatics.
-Ability One: Unburden
-Ability Two: Scrappy
-
-#277 Swellow
-HP: 60  70
-Attack: 85  100
-Total: 430  455
-TM: Now learns TM62 Acrobatics.
-Ability One: Unburden
-Ability Two: Scrappy
-
-#278 Wingull
-Ability One: Keen Eye
-Ability Two: Infiltrator
-
-#279 Pelipper
-Defense: 100  120
-Special Attack: 85  100
-Stat Total: 430  465
-Ability One: Keen Eye
-Ability Two: Rain Dish
-
-#280 Ralts
-Special Attack: 45  65
-Total: 198  218
-Ability One: Synchronize
-Ability Two: Trace
-
-#281 Kirlia
-Special Attack: 65  95
-Total: 278  308
-Ability One: Synchronize
-Ability Two: Trace
-
-#282 Gardevoir
-Ability One: Synchronize
-Ability Two: Trace
-
-#283 Surskit
-Ability One: Swift Swim
-Ability Two: Rain Dish
-HM: Can now learn HM03, Surf.
-
-#284 Masquerain
-Type: Bug / Water
-HP: 70  70
-Attack: 60  60
-Defense: 62  62
-Special Attack: 80  100
-Special Defense: 82  102
-Speed: 60  90
-Total: 414  484
-Base EXP: 145  200
-HM: Can now learn HM03, Surf and HM05, Waterfall.
-Ability One: Levitate
-Ability Two: Levitate
-
-#285 Shroomish
-Ability One: Effect Spore
-Ability Two: Poison Heal
-
-#286 Breloom
-Ability One: Technician
-Ability Two: Poison Heal
-
-#287 Slakoth
-Ability One: Truant
-Ability Two: Slow Start
-
-#288 Vigoroth
-Attack: 80  100
-Total: 440  460
-Ability One: Vital Spirit
-Ability Two: Sheer Force
-
-#289 Slaking
-Ability One: Truant
-Ability Two: Slow Start
-
-#290 Nincada
-Ability One: Compoundeyes
-Ability Two: Anticipation
-
-#291 Ninjask
-Ability One: Speed Boost
-Ability Two: Infiltrator
-
-#292 Shedinja
-Ability One: Wonder Guard
-Ability Two: Wonder Guard
-
-#293 Whismur
-Ability One: Soundproof
-Ability Two: Rattled
-
-#294 Loudred - #295 Exploud
-Ability One: Soundproof
-Ability Two: Scrappy
-
-#296 Makuhita - #297 Hariyama
-Ability One: Thick Fat
-Ability Two: Sheer Force
-
-#298 Azurill
-Ability One: Sap Sipper
-Ability Two: Huge Power
-
-#299 Nosepass
-Ability One: Sturdy
-Ability Two: Magnet Pull
-
-#300 Skitty
-Ability One: Normalize
-Ability Two: Wonder Skin
-
-#301 Delcatty
-Attack: 65  75
-Special Attack: 55  95
-Speed: 70  90
-Total: 380  450
-Ability One: Normalize
-Ability Two: Wonder Skin
-
-#302 Sableye
-HP: 50  70
-Attack: 75  95
-Defense: 75  95
-Special Defense: 65  85
-Total: 380  460
-Base EXP: 133  197
-Ability One: Prankster
-Ability Two: Analytic
-
-#303 Mawile
-HP: 50  70
-Attack: 85  105
-Defense: 85  90
-Special Defense: 55  90
-Total: 380  460
-Base EXP: 133  197
-Ability One: Sheer Force
-Ability Two: Intimidate
-
-#304 Aron - #306 Aggron
-Ability One: Sturdy
-Ability Two: Rock Head
-
-#307 Meditite - #308 Medicham
-Ability One: Pure Power
-Ability Two: Telepathy
-
-#309 Electrike - #310 Manectric
-Ability One: Static
-Ability Two: Lightningrod
-
-#311 Plusle
-Ability One: Plus
-Ability Two: Plus
-
-#312 Minun
-Ability One: Minus
-Ability Two: Minus
-
-#313 Volbeat
-Type: Bug / Electric
-HP: 65  80
-Attack: 73  30
-Defense: 55  60
-Special Attack: 47  90
-Special Defense: 75  80
-Speed: 85  90
-Stat Total: 400  430
-Base EXP: 140  195
-Ability One: Prankster
-Ability Two: Swarm
-
-#314 Illumise
-Type: Bug / Electric
-HP: 65  80
-Attack: 73  30
-Defense: 55  60
-Special Attack: 47  80
-Special Defense: 75  90
-Speed: 85  90
-Stat Total: 400  430
-Max EXP: 1,640,000  600,000
-Base EXP: 140  195
-Ability One: Prankster
-Ability Two: Tinted Lens
-
-#315 Roselia
-Ability One: Natural Cure
-Ability Two: Poison Point
-
-#316 Gulpin
-Ability One: Liquid Ooze
-Ability Two: Gluttony
-
-#317 Swalot
-Special Attack: 73  103
-Total: 467  497
-Ability One: Liquid Ooze
-Ability Two: Gluttony
-
-#318 Carvanha - #319 Sharpedo
-Ability One: Rough Skin
-Ability Two: Speed Boost
-
-#320 Wailmer - #321 Wailord
-Ability One: Thick Fat
-Ability Two: Drizzle
-
-#322 Numel
-Ability One: Own Tempo
-Ability Two: Simple
-
-#323 Camerupt
-Ability One: Drought
-Ability Two: Solid Rock
-
-#324 Torkoal
-Attack: 85  100
-Special Attack: 85  100
-Total: 470  500
-Ability One: White Smoke
-Ability Two: Sturdy
-
-#325 Spoink - #326 Grumpig
-Ability One: Thick Fat
-Ability Two: Own Tempo
-
-#327 Spinda
-HP: 60  80
-Attack: 60  80
-Defense: 60  80
-Special Attack: 60  80
-Special Defense: 60  80
-Speed: 60  80
-Total: 360  480
-Base EXP: 126  200
-Ability One: Own Tempo
-Ability Two: Contrary
-
-#328 Trapinch
-Ability One: Hyper Cutter
-Ability Two: Sheer Force
-
-#329 Vibrava
-Ability One: Levitate
-Ability Two: Levitate
-
-#330 Flygon
-Attack: 100  110
-Defense: 80  75
-Special Attack: 80  110
-Special Defense: 80  75
-Total: 520  550
-Base EXP: 234  243
-Ability One: Levitate
-Ability Two: Levitate
-
-#331 Cacnea - #332 Cacturne
-Ability One: Sand Veil
-Ability Two: Water Absorb
-
-#333 Swablu
-TM: Now learns TM62 Acrobatics.
-Ability One: Natural Cure
-Ability Two: Cloud Nine
-
-#334 Altaria
-Special Attack: 70  100
-Total: 490  520
-Base EXP: 172  203
-TM: Now learns TM58 Sky Drop and TM62 Acrobatics.
-Ability One: Natural Cure
-Ability Two: Cloud Nine
-
-#335 Zangoose
-Abilities: Immunity, Toxic Boost.
-Ability One: Immunity
-Ability Two: Toxic Boost
-
-#336 Seviper
-Ability One: Shed Skin
-Ability Two: Infiltrator
-
-#337 Lunatone
-Special Attack: 95  115
-Total: 440  460
-Ability One: Levitate
-Ability Two: Levitate
-
-#338 Solrock
-Attack: 95  115
-Total: 440  460
-Ability One: Levitate
-Ability Two: Levitate
-
-#339 Barboach
-Ability One: Forewarn
-Ability Two: Simple
-
-#340 Whiscash
-Attack: 78  98
-Total: 468  488
-Ability One: Forewarn
-Ability Two: Simple
-
-#341 Corphish - #342 Crawdaunt
-Ability One: Hyper Cutter
-Ability Two: Adaptability
-
-#343 Baltoy
-Ability One: Levitate
-Ability Two: Levitate
-
-#344 Claydol
-Item: Life Orb (5%)
-HM: Can now learn HM02, Fly.
-Ability One: Levitate
-Ability Two: Levitate
-
-#345 Lileep - #346 Cradily
-Ability One: Suction Cups
-Ability Two: Storm Drain
-
-#347 Anorith - #348 Armaldo
-Ability One: Battle Armor
-Ability Two: Swift Swim
-
-#349 Feebas
-Evolution: Use the Prism Scale.
-Ability One: Swift Swim
-Ability Two: Adaptability
-
-#350 Milotic
-Ability One: Marvel Scale
-Ability Two: Multiscale
-
-#351 Castform
-HP: 60  80
-Attack: 60  80
-Special Attack: 60  100
-Speed: 60  100
-Total: 360  500
-Base EXP: 147  202
-Ability One: Forecast
-Ability Two: Forecast
-
-#352 Kecleon
-HP: 60  100
-Total: 440  480
-Ability One: Colour Change
-Ability Two: Colour Change
-
-#353 Shuppet
-Ability One: Insomnia
-Ability Two: Cursed Body
-
-#354 Banette
-Attack: 115  130
-Speed: 65  80
-Total: 455  485
-Ability One: Insomnia
-Ability Two: Cursed Body
-
-#355 Duskull
-Ability One: Levitate
-Ability Two: Levitate
-
-#356 Dusclops
-Evolution: Use the Reaper Cloth.
-Ability One: Pressure
-Ability Two: Cursed Body
-
-#357 Tropius
-HP: 99  110
-Attack: 68  85
-Defense: 83  90
-Special Attack: 72  90
-Special Defense: 87  90
-Speed: 51  70
-Total: 460  535
-Base EXP: 161  238
-Ability One: Chlorophyll
-Ability Two: Harvest
-
-#358 Chimecho
-HP: 65  70
-Defense: 70  80
-Special Attack: 95  110
-Special Defense: 80  100
-Speed: 65  90
-Total: 425  500
-Base EXP: 149  199
-Ability One: Levitate
-Ability Two: Levitate
-
-#359 Absol
-Ability One: Justified
-Ability Two: Super Luck
-
-#360 Wynaut
-Ability One: Shadow Tag
-Ability Two: Telepathy
-
-#361 Snorunt
-Ability One: Ice Body
-Ability Two: Moody
-
-#362 Glalie
-Type: Ice / Rock
-TM: Can now learn TM23 Smack Down, TM37 Sandstorm, TM69 Rock Polish, TM71 Stone Edge and TM80 Rock Slide.
-HP: 80  100
-Attack: 80  100
-Defense: 80  120
-Special Attack: 80  60
-Special Defense: 80  60
-Speed: 80  60
-Total: 480  500
-Base EXP: 168  189
-Ability One: Solid Rock
-Ability Two: Moody
-
-#363 Spheal - #365 Walrein
-Ability One: Thick Fat
-Ability Two: Ice Body
-
-#366 Clamperl
-Evolution (Huntail): Level Up at Night with a DeepSeaTooth equipped.
-Evolution (Gorebyss): Level Up at Night with a DeepSeaScale equipped.
-Ability One: Shell Armor
-Ability Two: Rattled
-
-#367 Huntail
-Ability One: Swift Swim
-Ability Two: Sheer Force
-
-#368 Gorebyss
-Ability One: Swift Swim
-Ability Two: Storm Drain
-
-#369 Relicanth
-Ability One: Sturdy
-Ability Two: Rock Head
-
-#370 Luvdisc
-HP: 43  50
-Attack: 30  35
-Defense: 55  60
-Special Attack: 40  100
-Special Defense: 65  80
-Speed: 97  125
-Total: 330  450
-Base EXP: 116  200
-Item: Heart Scale (100%)
-Ability One: Swift Swim
-Ability Two: Hydration
-
-#371 Bagon
-Ability One: Rock Head
-Ability Two: Sheer Force
-
-#372 Shelgon
-Ability One: Rock Head
-Ability Two: Overcoat
-
-#373 Salamence
-Ability One: Intimidate
-Ability Two: Moxie
-
-#374 Beldum - #375 Metang
-Ability One: Levitate
-Ability Two: Levitate
-
-#376 Metagross
-HM: Can now learn HM02, Fly.
-Ability One: Iron Fist
-Ability Two: Analytic
-
-#377 Regirock
-Ability One: Clear Body
-Ability Two: Solid Rock
-
-#378 Regice
-Ability One: Clear Body
-Ability Two: Heatproof
-
-#379 Registeel
-Ability One: Clear Body
-Ability Two: Sturdy
-
-#380 Latias
-Ability One: Levitate
-Ability Two: Levitate
-
-#381 Latios
-Ability One: Levitate
-Ability Two: Levitate
-
-#382 Kyogre
-Ability One: Drizzle
-Ability Two: Drizzle
-
-#383 Groudon
-Ability One: Drought
-Ability Two: Drought
-
-#384 Rayquaza
-Ability One: Air Lock
-Ability Two: Air Lock
-
-#385 Jirachi
-Ability One: Serene Grace
-Ability Two: Magic Guard
-
-#386 Deoxys
-Ability One: Pressure
-Ability Two: Pressure
-
-Sinnoh Pokémon
-
-#387 Turtwig - #389 Torterra
-Item: Miracle Seed (50%)
-Ability One: Overgrow
-Ability Two: Sturdy
-
-#390 Chimchar - #392 Infernape
-Item: Charcoal (50%)
-Ability One: Blaze
-Ability Two: Iron Fist
-
-#393 Piplup - #395 Empoleon
-Item: Mystic Water (50%)
-Ability One: Torrent
-Ability Two: Defiant
-
-#396 Starly
-TM: Now learns TM62, Acrobatics.
-Ability One: Keen Eye
-Ability Two: Keen Eye
-
-#397 Staravia
-TM: Now learns TM62, Acrobatics.
-Ability One: Intimidate
-Ability Two: Reckless
-
-#398 Staraptor
-TM: Now learns TM62, Acrobatics.
-HP: 85  100
-Defense: 70  80
-Total: 475  500
-Ability One: Intimidate
-Ability Two: Reckless
-
-#399 Bidoof
-Ability One: Simple
-Ability Two: Moody
-
-#400 Bibarel
-HP: 79  89
-Attack: 85  95
-Special Attack: 55  60
-Total: 410  435
-Ability One: Simple
-Ability Two: Moody
-
-#401 Kricketot
-Ability One: Shed Skin
-Ability Two: Run Away
-
-#402 Kricketune
-Attack: 85  104
-Speed: 65  87
-Total: 384  425
-Base EXP: 134  158
-Ability One: Swarm
-Ability Two: Technician
-
-#403 Shinx
-Ability One: Guts
-Ability Two: Intimidate
-
-#404 Luxio
-Type: Electric / Dark
-Ability One: Guts
-Ability Two: Intimidate
-
-#405 Luxray
-Type: Electric / Dark
-Speed: 70  82
-Total: 523  535
-Ability One: Guts
-Ability Two: Intimidate
-
-#406 Budew
-Base Happiness: 200.
-Ability One: Natural Cure
-Ability Two: Leaf Guard
-
-#407 Roserade
-Defense: 55  65
-Speed: 90  100
-Total: 505  525
-Ability One: Natural Cure
-Ability Two: Technician
-
-#408 Cranidos - #409 Rampardos
-Ability One: Mold Breaker
-Ability Two: Sheer Force
-
-#410 Shieldon - #411 Bastiodon
-Ability One: Sturdy
-Ability Two: Soundproof
-
-#412 Burmy
-Ability One: Shed Skin
-Ability Two: Overcoat
-
-#413 Wormadam (Plant)
-Special Attack: 79  99
-Special Defense: 105  125
-Total: 424  464
-Ability One: Anticipation
-Ability Two: Leaf Guard
-
-#413 Wormadam (Sandy)
-Attack: 79  99
-Defense: 105  125
-Total: 424  464
-Ability One: Anticipation
-Ability Two: Sand Veil
-
-#413 Wormadam (Trash)
-Defense: 95  115
-Special Defense: 95  115
-Total: 424  464
-Ability One: Anticipation
-Ability Two: Sturdy
-
-#414 Mothim
-Special Attack: 94  104
-Special Defense: 66  96
-Total: 424  464
-Ability One: Swarm
-Ability Two: Tinted Lens
-
-#415 Combee
-Ability One: Honey Gather
-Ability Two: Hustle
-
-#416 Vespiquen
-Ability One: Pressure
-Ability Two: Intimidate
-
-#417 Pachirisu
-Special Attack: 45  100
-Total: 405  460
-Base EXP: 142  161
-Ability One: Volt Absorb
-Ability Two: Pickup
-
-#418 Buizel - #419 Floatzel
-Ability One: Swift Swim
-Ability Two: Technician
-
-#420 Cherubi
-Ability One: Chlorophyll
-Ability Two: Healer
-
-#421 Cherrim
-Special Attack: 87  107
-Speed: 85  95
-Total: 450  480
-Ability One: Flower Gift
-Ability Two: Flower Gift
-
-#422 Shellos - #423 Gastrodon
-Ability One: Sticky Hold
-Ability Two: Storm Drain
-
-#424 Ambipom
-Ability One: Technician
-Ability Two: Pickup
-
-#425 Drifloon - #426 Drifblim
-Ability One: Flare Boost
-Ability Two: Unburden
-
-#427 Buneary
-Base Happiness: 140
-Ability One: Klutz
-Ability Two: Limber
-
-#428 Lopunny
-Ability One: Cute Charm
-Ability Two: Limber
-
-#429 Mismagius
-HP: 60  70
-Attack: 60  70
-Defense: 60  70
-Total: 495  525
-Base EXP: 173  201
-Ability One: Levitate
-Ability Two: Levitate
-
-#430 Honchkrow
-HP: 100  120
-Total: 505  525
-Base EXP: 177  205
-Ability One: Moxie
-Ability Two: Super Luck
-
-#431 Glameow
-Ability One: Limber
-Ability Two: Own Tempo
-
-#432 Purugly
-HP: 71  89
-Attack: 82  91
-Total: 452  479
-Base EXP: 158  168
-Ability One: Thick Fat
-Ability Two: Defiant
-
-#433 Chingling
-Base Happiness: 200.
-Ability One: Levitate
-Ability Two: Levitate
-
-#434 Stunky - #435 Skuntank
-Ability One: Stench
-Ability Two: Aftermath
-
-#436 Bronzor
-Ability One: Levitate
-Ability Two: Heatproof
-
-#437 Bronzong
-HM: Can now learn HM02, Fly.
-Ability One: Levitate
-Ability Two: Heatproof
-
-#438 Bonsly
-Ability One: Sturdy
-Ability Two: Rattled
-
-#439 Mime Jr.
-Ability One: Technician
-Ability Two: Filter
-
-#440 Happiny
-Evolution: Use the Oval Stone.
-Base Happiness: 160
-Ability One: Natural Cure
-Ability Two: Friend Guard
-
-#441 Chatot
-Defense: 45  56
-Special Attack: 92  112
-Special Defense: 42  55
-Speed: 91  111
-Total: 411  475
-Base EXP: 144  192
-Ability One: Moody
-Ability Two: Tangled Feet
-
-#442 Spiritomb
-Ability One: Pressure
-Ability Two: Cursed Body
-
-#443 Gible - #444 Gabite
-Ability One: Sand Veil
-Ability Two: Rough Skin
-
-#445 Garchomp
-HM: Can now learn HM02, Fly.
-Ability One: Sand Veil
-Ability Two: Rough Skin
-
-#446 Munchlax
-Base Happiness: 180
-Ability One: Gluttony
-Ability Two: Thick Fat
-
-#447 Riolu
-Base Happiness: 180
-Ability One: Steadfast
-Ability Two: Prankster
-
-#448 Lucario
-Ability One: Steadfast
-Ability Two: Justified
-
-#449 Hippopotas - #450 Hippowdon
-Ability One: Sand Stream
-Ability Two: Sand Force
-
-#451 Skorupi - #452 Drapion
-Ability One: Battle Armor
-Ability Two: Sniper
-
-#453 Croagunk - #454 Toxicroak
-Ability One: Poison Touch
-Ability Two: Dry Skin
-
-#455 Carnivine
-Attack: 100  120
-Speed: 46  86
-Total: 420  480
-Ability One: Levitate
-Ability Two: Levitate
-
-#456 Finneon
-Ability One: Swift Swim
-Ability Two: Storm Drain
-
-#457 Lumineon
-Special Attack: 69  89
-Speed: 91  101
-Total: 460  490
-Ability One: Swift Swim
-Ability Two: Storm Drain
-
-#458 Mantyke
-Ability One: Swift Swim
-Ability Two: Water Absorb
-
-#459 Snover - #460 Abomasnow
-Ability One: Snow Warning
-Ability Two: Soundproof
-
-#461 Weavile
-TM: Now learns TM79, Frost Breath.
-Ability One: Pickpocket
-Ability Two: Technician
-
-#462 Magnezone
-Ability One: Magnet Pull
-Ability Two: Analytic
-
-#463 Lickilicky
-Ability One: Thick Fat
-Ability Two: Gluttony
-
-#464 Rhyperior
-Ability One: Reckless
-Ability Two: Solid Rock
-
-#465 Tangrowth
-Ability One: Chlorophyll
-Ability Two: Regenerator
-
-#466 Electivire
-Type: Electric / Fighting
-Ability One: Motor Drive
-Ability Two: Vital Spirit
-
-#467 Magmortar
-Ability One: Flame Body
-Ability Two: Vital Spirit
-
-#468 Togekiss
-Ability One: Super Luck
-Ability Two: Serene Grace
-
-#469 Yanmega
-HM: Can now learn HM02, Fly.
-Ability One: Speed Boost
-Ability Two: Tinted Lens
-
-#470 Leafeon
-Ability One: Leaf Guard
-Ability Two: Natural Cure
-
-#471 Glaceon
-TM: Can now learn TM86, Grass Knot.
-Ability One: Snow Cloak
-Ability Two: Serene Grace
-
-#472 Gliscor
-HM: Can now learn HM02, Fly.
-Ability One: Hyper Cutter
-Ability Two: Poison Heal
-
-#473 Mamoswine
-Ability One: Thick Fat
-Ability Two: Snow Cloak
-
-#474 Porygon-Z
-Ability One: Adaptability
-Ability Two: Download
-
-#475 Gallade
-Ability One: Justified
-Ability Two: Trace
-
-#476 Probopass
-Ability One: Sturdy
-Ability Two: Magnet Pull
-
-#477 Dusknoir
-Ability One: Pressure
-Ability Two: Cursed Body
-
-#478 Froslass
-Special Attack: 80  100
-Total: 480  500
-Base EXP: 168  189
-Ability One: Levitate
-Ability Two: Levitate
-
-#479 Rotom (Regular)
-Speed: 91  111
-Total: 440  460
-Ability One: Levitate
-Ability Two: Levitate
-
-#479 Rotom (Oven, Mow, Fridge, Wash)
-Ability One: Levitate
-Ability Two: Levitate
-
-#479 Rotom (Fan)
-Ability One: Speed Boost
-Ability Two: Motor Drive
-
-#480 Uxie
-Ability One: Levitate
-Ability Two: Levitate
-
-#481 Mesprit
-Ability One: Levitate
-Ability Two: Levitate
-
-#482 Azelf
-Ability One: Levitate
-Ability Two: Levitate
-
-#483 Dialga
-Ability One: Pressure
-Ability Two: Telepathy
-
-#484 Palkia
-Ability One: Pressure
-Ability Two: Telepathy
-
-#485 Heatran
-Ability One: Flash Fire
-Ability Two: Flame Body
-
-#486 Regigigas
-Ability One: Sheer Force
-Ability Two: Sheer Force
-
-#487 Giratina
-Ability One: Pressure (Altered) / Levitate (Origin)
-Ability Two: Telepathy (Altered) / Levitate (Origin)
-
-#488 Cresselia
-Ability One: Levitate
-Ability Two: Levitate
-
-#489 Phione
-HP: 80  90
-Attack: 80  90
-Defense: 80  90
-Special Attack: 80  90
-Special Defense: 80  90
-Speed: 80  90
-Total: 480  540
-Base EXP: 216  255
-Ability One: Hydration
-Ability Two: Magic Guard
-
-#490 Manaphy
-Item: Lansat Berry (100%)
-Ability One: Hydration
-Ability Two: Magic Guard
-
-#491 Darkrai
-Ability One: Bad Dreams
-Ability Two: Bad Dreams
-
-#492 Shaymin
-Item: Starf Berry (100%)
-Ability One: Natural Cure (Land) / Serene Grace (Sky)
-Ability Two: Natural Cure (Land) / Serene Grace (Sky)
-
-#493 Arceus
-Item: Enigma Berry (100%)
-Base EXP: 324  511
-Ability One: Multitype
-Ability Two: Multitype
-
-Unova Pokémon
-
-#494 Victini
-Ability One: Victory Star
-Ability Two: Victory Star
-
-#495 Snivy
-Item: Miracle Seed (50%)
-Base EXP: 28  50
-Base Happiness: 70  0
-Ability One: Overgrow
-Ability Two: Contrary
-
-#496 Servine
-Item: Miracle Seed (50%)
-Base Happiness: 70  0
-Ability One: Overgrow
-Ability Two: Contrary
-
-#497 Serperior
-TM: Can now learn TM26 Earthquake.
-Tutor: Can now learn Draco Meteor.
-Item: Miracle Seed (50%)
-Type: Grass / Dragon
-Base Happiness: 70  0
-HP: 75  82
-Total: 528  535
-Ability One: Overgrow
-Ability Two: Contrary
-
-#498 Tepig
-Item: Charcoal (50%)
-Base EXP: 28  50
-Ability One: Blaze
-Ability Two: Adaptability
-
-#499 Pignite
-Item: Charcoal (50%)
-Type: Fire / Ground
-Ability One: Blaze
-Ability Two: Adaptability
-
-#500 Emboar
-Item: Charcoal (50%)
-HP: 110  120
-Attack: 123  130
-Defense: 65  80
-Special Attack: 100  70
-Special Defense: 65  80
-Speed: 65  55
-Total: 528  535
-Type: Fire / Ground
-Ability One: Blaze
-Ability Two: Adaptability
-
-#501 Oshawott
-Item: Mystic Water (50%)
-Base EXP: 28  50
-Ability One: Torrent
-Ability Two: Vital Spirit
-
-#502 Dewott
-Item: Mystic Water (50%)
-Type: Water / Fighting
-Ability One: Torrent
-Ability Two: Vital Spirit
-
-#503 Samurott
-TM: Can now learn TM26 Earthquake.
-Item: Mystic Water (50%)
-Special Attack: 108  105
-Speed: 70  80
-Total: 528  535
-Type: Water / Fighting
-Ability One: Torrent
-Ability Two: Vital Spirit
-
-#504 Patrat
-Ability One: Analytic
-Ability Two: Keen Eye
-
-#505 Watchog
-Special Attack: 60  85
-Total: 420  435
-Ability One: Analytic
-Ability Two: Keen Eye
-
-#506 Lillipup
-Ability One: Vital Spirit
-Ability Two: Pickup
-
-#507 Herdier
-Ability One: Intimidate
-Ability Two: Scrappy
-
-#508 Stoutland
-HP: 85  105
-Attack: 100  110
-Total: 490  520
-Ability One: Intimidate
-Ability Two: Scrappy
-
-#509 Purrloin
-Ability One: Limber
-Ability Two: Prankster
-
-#510 Liepard
-TM: Can now learn TM43, Flame Charge and TM93, Wild Charge.
-Attack: 88  98
-Special Attack: 88  98
-Total: 446  466
-Ability One: Limber
-Ability Two: Prankster
-
-#511 Pansage - #512 Simisage
-Tutor: Can now learn Grass Pledge and Frenzy Plant.
-Ability One: Gluttony (Pansage) / Unburden (Simisage)
-Ability Two: Overgrow
-
-#513 Pansear - #514 Simisear
-Tutor: Can now learn Fire Pledge and Blast Burn.
-Ability One: Gluttony (Pansear) / Unburden (Simisear)
-Ability Two: Blaze
-
-#515 Panpour - #516 Simipour
-Tutor: Can now learn Water Pledge and Hydro Cannon.
-Ability One: Gluttony (Panpour) / Unburden (Simipour)
-Ability Two: Torrent
-
-#517 Munna
-Ability One: Telepathy
-Ability Two: Analytic
-Ability Three (DW): Magic Bounce
-
-#518 Musharna
-Ability One: Telepathy
-Ability Two: Analytic
-Ability Three (DW): Magic Bounce
-
-#519 Pidove
-Attack: 55  36
-Defense: 50  30
-Special Attack: 36  55
-Special Defense: 30  50
-Ability One: Rivalry
-Ability Two: Super Luck
-
-#520 Tranquill
-Attack: 77  50
-Defense: 62  42
-Special Attack: 50  77
-Special Defense: 42  62
-Ability One: Rivalry
-Ability Two: Super Luck
-
-#521 Unfezant
-Attack: 105  65
-Defense: 80  55
-Special Attack: 65  115
-Special Defense: 55  100
-Speed: 93  103
-Total: 478  518
-Ability One: Serene Grace
-Ability Two: Super Luck
-
-#522 Blitzle
-Ability One: LightningRod
-Ability Two: Sap Sipper
-
-#523 Zebstrika
-Ability One: LightningRod
-Ability Two: Sap Sipper
-
-#524 Roggenrola
-Ability One: Sturdy
-Ability Two: Sand Force
-
-#525 Boldore
-Evolution: Level 36.
-Ability One: Sturdy
-Ability Two: Sand Force
-
-#526 Gigalith
-Ability One: Sturdy
-Ability Two: Sand Force
-
-#527 Woobat
-Base Happiness: 180
-Ability One: Unaware
-Ability Two: Klutz
-
-#528 Swoobat
-Base Happiness: 180
-HP: 67  77
-Attack: 57  67
-Special Attack: 77  107
-Special Defense: 55  65
-Total: 425  485
-Base EXP: 149  199
-Ability One: Unaware
-Ability Two: Simple
-
-#529 Drilbur - #530 Excadrill
-Ability One: Sand Rush
-Ability Two: Mold Breaker
-
-#531 Audino
-Base EXP: 390  400
-Ability One: Serene Grace
-Ability Two: Regenerator
-
-#532 Timburr
-Ability One: Guts
-Ability Two: Iron Fist
-
-#533 Gurdurr
-Evolution: Level 36.
-Ability One: Guts
-Ability Two: Iron Fist
-
-#534 Conkeldurr
-Ability One: Guts
-Ability Two: Iron Fist
-
-#535 Tympole - #536 Palpitoad
-TM: Can now learn TM13 Ice Beam and TM14 Blizzard.
-Ability One: Water Absorb
-Ability Two: Hydration
-
-#537 Seismitoad
-TM: Can now learn TM13 Ice Beam and TM14 Blizzard.
-Attack: 85  95
-Special Attack: 85  95
-Total: 499  519
-Ability One: Water Absorb
-Ability Two: Poison Touch
-
-#538 Throh
-Item: Black Belt (50%)
-Item: Expert Belt (5%)
-Ability One: Guts
-Ability Two: Mold Breaker
-
-#539 Sawk
-Item: Black Belt (50%)
-Item: Expert Belt (5%)
-Ability One: Sturdy
-Ability Two: Mold Breaker
-
-#540 Sewaddle - #542 Leavanny
-Base Happiness: 180
-Ability One: Swarm (Sewaddle) / Leaf Guard (Swadloon) / Swarm (Leavanny)
-Ability Two: Chlorophyll (Sewaddle) / Overcoat (Swadloon) / Chlorophyll (Leavanny)
-
-#543 Venipede - #545 Scolipede
-Ability One: Poison Point (Venipede) / Battle Armor (Whirlipede) / Poison Touch (Scolipede)
-Ability Two: Swarm
-
-#546 Cottonee - #547 Whimsicott
-Ability One: Prankster
-Ability Two: Infiltrator
-
-#548 Petilil – #549 Lilligant
-TM: Now learns TM29, Psychic and TM30, Shadow Ball + TM52 Focus Blast (Lilligant).
-Ability One: Chlorophyll
-Ability Two: Leaf Guard (Petilil) / Own Tempo (Lilligant)
-
-#550 Basculin
-Attack: 92  102
-Speed: 98  108
-Total: 460  480
-Ability One: Reckless (Red) / Rock Head (Blue)
-Ability Two: Adaptability
-
-#551 Sandile - #553 Krookodile
-Ability One: Anger Point (Sandile) / Anger Point (Krokorok) / Intimidate (Krookodile)
-Ability Two: Moxie
-
-#554 Darumaka
-Ability One: Hustle
-Ability Two: Rattled
-
-#555 Darmanitan
-Ability One: Sheer Force
-Ability Two: Iron Fist
-
-#556 Maractus
-TM: Can now learn TM55, Scald.
-Attack: 86  101
-Special Attack: 106  116
-Total: 461  486
-Ability One: Water Absorb
-Ability Two: Storm Drain
-
-#557 Dwebble - #558 Crustle
-Ability One: Sturdy
-Ability Two: Shell Armor
-
-#559 Scraggy - #560 Scrafty
-Ability One: Shed Skin
-Ability Two: Moxie
-Evolution: Level 35 [Scraggy]
-
-#561 Sigilyph
-Special Attack: 103  108
-Speed: 97  102
-Total: 490  500
-Base EXP: 172  200
-Ability One: Tinted Lens
-Ability Two: Magic Guard
-
-#562 Yamask
-Ability One: Mummy
-Ability Two: Mummy
-
-#563 Cofagrigus
-Type: Ghost / Steel
-TM: Can now learn TM91, Flash Cannon.
-Ability One: Mummy
-Ability Two: Mummy
-
-#564 Tirtouga - #565 Carracosta
-Ability One: Solid Rock
-Ability Two: Sturdy
-
-#566 Archen - #567 Archeops
-Ability One: Defeatist
-Ability Two: Defeatist
-
-#568 Trubbish
-Ability One: Stench
-Ability Two: Sticky Hold
-
-#569 Garbodor
-Special Attack: 60  80
-Total: 474  494
-Ability One: Stench
-Ability Two: Aftermath
-
-#570 Zorua
-Ability One: Illusion
-Ability Two: Illusion
-
-#571 Zoroark
-Ability One: Illusion
-Ability Two: Illusion
-
-#572 Minccino
-Ability One: Skill Link
-Ability Two: Technician
-
-#573 Cinccino
-Attack: 95  105
-Total: 470  480
-Ability One: Skill Link
-Ability Two: Technician
-
-#574 Gothita
-Type: Psychic / Dark
-TM: Now learns TM61 Will-O-Wisp.
-Ability One: Frisk
-Ability Two: Magic Bounce
-
-#575 Gothorita
-Type: Psychic / Dark
-TM: Now learns TM61 Will-O-Wisp.
-Ability One: Frisk
-Ability Two: Magic Bounce
-
-#576 Gothitelle
-Type: Psychic / Dark
-Attack: 55  45
-Special Attack: 95  115
-Total: 490  500
-TM: Now learns TM52 Focus Blast and TM61 Will-O-Wisp.
-Ability One: Shadow Tag
-Ability Two: Magic Bounce
-
-#577 Solosis – #578 Duosion
-Ability One: Regenerator
-Ability Two: Magic Guard
-
-#579 Reuniclus
-Defense: 75  85
-Total: 490  500
-Ability One: Regenerator
-Ability Two: Magic Guard
-
-#580 Ducklett
-Ability One: Hydration
-Ability Two: Big Pecks
-
-#581 Swanna
-Attack: 87  97
-Special Attack: 87  97
-Speed: 98  108
-Total: 473  503
-TM: Can now learn TM62, Acrobatics.
-Ability One: Hydration
-Ability Two: Big Pecks
-
-#582 Vanillite - #583 Vanillish
-TM: Can now learn TM30, Shadow Ball, TM53, Energy Ball and TM86, Grass Knot.
-Ability One: Ice Body
-Ability Two: Weak Armor
-
-#584 Vanilluxe
-HP: 71  70
-Attack: 95  70
-Defense: 85  80
-Special Attack: 110  145
-Special Defense: 95  90
-Speed: 79  80
-Total: 535  535
-TM: Can now learn TM30, Shadow Ball, TM53, Energy Ball and TM86, Grass Knot.
-Ability One: Ice Body
-Ability Two: Weak Armor
-
-#585 Deerling
-Ability One: Chlorophyll
-Ability Two: Serene Grace
-
-#586 Sawsbuck
-Attack: 100  115
-Speed: 95  105
-Total: 475  500
-Ability One: Chlorophyll
-Ability Two: Serene Grace
-
-#587 Emolga
-Attack: 75  95
-Special Attack: 75  95
-Total: 428  468
-Ability One: Static
-Ability Two: Motor Drive
-
-#588 Karrablast
-Evolution: Level Up with Shelmet in the party.
-Ability One: Swarm
-Ability Two: No Guard
-
-#589 Escavalier
-Ability One: Swarm
-Ability Two: No Guard
-TM: Can now learn TM74, Gyro Ball.
-
-#590 Foongus - #591 Amoonguss
-Ability One: Effect Spore
-Ability Two: Regenerator
-
-#592 Frillish - #593 Jellicent
-Ability One: Water Absorb
-Ability Two: Cursed Body
-
-#594 Alomomola
-Attack: 75  90
-Total: 470  485
-Ability One: Regenerator
-Ability Two: Hydration
-
-#595 Joltik
-Ability One: Compoundeyes
-Ability Two: Swarm
-
-#596 Galvantula
-Special Attack: 97  107
-Speed: 108  118
-Total: 472  492
-Ability One: Compoundeyes
-Ability Two: Swarm
-
-#597 Ferroseed - #598 Ferrothorn
-Ability One: Iron Barbs
-Ability Two: Iron Barbs
-
-#599 Klink - #600 Klang
-TM: Can now learn TM80 Rock Slide, TM93, Wild Charge.
-Ability One: Motor Drive
-Ability Two: Clear Body
-
-#601 Klinklang
-Attack: 100  115
-Total: 520  535
-TM: Can now learn TM26 Earthquake, TM71 Stone Edge, TM80 Rock Slide, TM93, Wild Charge.
-Ability One: Motor Drive
-Ability Two: Clear Body
-
-#602 Tynamo - #604 Eelektross
-Ability One: Levitate
-Ability Two: Levitate
-
-#605 Elgyem
-Evolution: Level 35
-Ability One: Analytic
-Ability Two: Synchronize
-
-#606 Beheeyem
-Defense: 75  95
-Total: 485  505
-Ability One: Analytic
-Ability Two: Synchronize
-
-#607 Litwick
-Evolution: Level 34
-Ability One: Flash Fire
-Ability Two: Flame Body
-
-#608 Lampent - #609 Chandelure
-Ability One: Levitate
-Ability Two: Levitate
-
-#610 Axew - #612 Haxorus
-Ability One: Rivalry
-Ability Two: Mold Breaker
-
-#613 Cubchoo
-Ability One: Snow Cloak
-Ability Two: Rattled
-
-#614 Beartic
-Type: Ice / Fighting
-HP: 95  110
-Defense: 80  85
-Special Defense: 80  85
-Speed: 50  60
-Total: 485  520
-TM: Can now learn TM26, Earthquake.
-HM: Can now learn HM05, Waterfall.
-Ability One: Sheer Force
-Ability Two: Swift Swim
-
-#615 Cryogonal
-Defense: 30  60
-Special Attack: 95  100
-Total: 485  520
-Ability One: Levitate
-Ability Two: Levitate
-
-#616 Shelmet
-Evolution: Level Up with a Karrablast in the party.
-Ability One: Hydration
-Ability Two: Overcoat
-
-#617 Accelgor
-Ability One: Hydration
-Ability Two: Unburuden
-
-#618 Stunfisk
-Special Attack: 81  101
-Total: 471  491
-Ability One: Static
-Ability Two: Limber
-
-#619 Mienfoo - #620 Mienshao
-Evolution: Level 39
-Ability One: Reckless
-Ability Two: Regenerator
-
-#621 Druddigon
-HM: Can now learn HM02, Fly.
-Ability One: Rough Skin
-Ability Two: Sheer Force
-
-#622 Golett
-Evolution: Level 36
-Ability One: Iron Fist
-Ability Two: Klutz
-
-#623 Golurk
-HP: 89  99
-Defense: 80  90
-Special Defense: 80  90
-Total: 483  513
-Ability One: Iron Fist
-Ability Two: No Guard
-
-#624 Pawniard
-Evolution: Level 37
-Ability One: Defiant
-Ability Two: Pressure
-
-#625 Bisharp
-Speed: 70  90
-Total: 490  510
-Ability One: Defiant
-Ability Two: Pressure
-
-#626 Bouffalant
-Ability One: Reckless
-Ability Two: Sap Sipper
-
-#627 Rufflet
-Evolution: Level 39 [Rufflet]
-Ability One: Hustle
-Ability Two: Sheer Force
-
-#628 Braviary
-Ability One: Defiant
-Ability Two: Sheer Force
-
-#629 Vullaby - #630 Mandibuzz
-Evolution: Level 39 [Vullaby]
-Ability One: Big Pecks
-Ability Two: Overcoat
-
-#631 Heatmor
-Attack: 97  100
-Defense: 66  70
-Special Attack: 105  115
-Special Defense: 66  70
-Speed: 65  70
-Total: 484  510
-Base EXP: 169  200
-Ability One: White Smoke
-Ability Two: Moody
-
-#632 Durant
-HP: 58  75
-Attack: 109  111
-Special Defense: 48  55
-Total: 484  510
-Base EXP: 169  200
-Ability One: Swarm
-Ability Two: Hustle
-
-#633 Deino
-Evolution: Level 30
-Ability One: Hustle
-Ability Two: Intimidate
-
-#634 Zweilous
-Evolution: Level 55
-Ability One: Hustle
-Ability Two: Intimidate
-
-#635 Hydreigon
-Ability One: Levitate
-Ability Two: Levitate
-
-#636 Larvesta
-Evolution: Level 45
-Ability One: Flame Body
-Ability Two: Swarm
-
-#637 Volcarona
-TM: Can now learn TM24 Thunderbolt and TM25 Thunder.
-Ability One: Drought
-Ability Two: Drought
-
-#638 Cobalion
-Ability One: Justified
-Ability Two: Justified
-
-#639 Terrakion
-Ability One: Justified
-Ability Two: Justified
-
-#640 Virizion
-Ability One: Justified
-Ability Two: Justified
-
-#641 Tornadus
-Ability One: Prankster
-Ability Two: Defiant
-
-#642 Thundurus
-Ability One: Prankster
-Ability Two: Defiant
-
-#643 Reshiram
-TM: Can now learn TM26 Earthquake.
-Ability One: TurboBlaze
-Ability Two: TurboBlaze
-
-#644 Zekrom
-TM: Can now learn TM26 Earthquake.
-Ability One: TeraVolt
-Ability Two: TeraVolt
-
-#645 Landorus
-Ability One: Sand Force
-Ability Two: Sheer Force
-
-#646 Kyurem
-TM: Can now learn TM26 Earthquake and TM79 Frost Breath.
-Ability One: Snow Warning
-Ability Two: Snow Warning
-
-#647 Keldeo
-TM: Can now learn TM13 Ice Beam and TM14 Blizzard.
-Ability One: Justified
-Ability Two: Justified
-
-#648 Meloetta
-Ability One: Serene Grace
-Ability Two: Magic Guard
-
-#649 Genesect
-Ability One: Download
-Ability Two: Download
+## Kanto Pokémon
+
+**#001 Bulbasaur - #002 Ivysaur**
+
+<pre><code><b>Item:</b> Miracle Seed (50%)
+<b>Ability One:</b> Overgrow
+<b>Ability Two:</b> Chlorophyll
+</code></pre>
+
+**#003 Venusaur**
+
+<pre><code><b>Item:</b> Miracle Seed (50%)
+<b>TM:</b> Can now learn TM34, Sludge Wave.
+<b>Ability One:</b> Overgrow
+<b>Ability Two:</b> Chlorophyll
+</code></pre>
+
+**#004 Charmander - #006 Charizard**
+
+<pre><code><b>Item:</b> Charcoal (50%)
+<b>Ability One:</b> Blaze
+<b>Ability Two:</b> Solar Power
+</code></pre>
+
+**#007 Squirtle - #009 Blastoise**
+
+<pre><code><b>Item:</b> Mystic Water (50%)
+<b>Ability One:</b> Torrent
+<b>Ability Two:</b> Sturdy
+</code></pre>
+
+**#010 Caterpie**
+
+<pre><code><b>Ability One:</b> Shield Dust
+<b>Ability Two:</b> Suction Cups
+</code></pre>
+
+**#011 Metapod**
+
+<pre><code><b>Ability One:</b> Shed Skin
+<b>Ability Two:</b> Battle Armor
+</code></pre>
+
+**#012 Butterfree**
+
+<pre><code><b>Special Attack:</b> 80 → 95
+<b>Speed:</b> 70 → 90
+<b>Total:</b> 385 → 420
+<b>Ability One:</b> Compoundeyes
+<b>Ability Two:</b> Tinted Lens
+</code></pre>
+
+**#013 Weedle**
+
+<pre><code><b>Ability One:</b> Shield Dust
+<b>Ability Two:</b> Poison Touch
+</code></pre>
+
+**#014 Kakuna**
+
+<pre><code><b>Ability One:</b> Shed Skin
+<b>Ability Two:</b> Battle Armor
+</code></pre>
+
+**#015 Beedrill**
+
+<pre><code><b>Attack:</b> 80 → 95
+<b>Speed:</b> 75 → 95
+<b>Total:</b> 385 → 420
+<b>Ability One:</b> Sniper
+<b>Ability Two:</b> Poison Touch
+</code></pre>
+
+**#016 Pidgey**
+
+<pre><code><b>Items:</b> Oran Berry (5%)
+<b>TM:</b> Now able to learn TM62, Acrobatics.
+<b>Ability One:</b> Big Pecks
+<b>Ability Two:</b> Tangled Feet
+</code></pre>
+
+**#017 Pidgeotto**
+
+<pre><code><b>Items:</b> Oran Berry (50%), Sitrus Berry (5%)
+<b>TM:</b> Now able to learn TM62, Acrobatics.
+<b>Ability One:</b> Big Pecks
+<b>Ability Two:</b> Tangled Feet
+</code></pre>
+
+**#018 Pidgeot**
+
+<pre><code><b>HP:</b> 83 → 105
+<b>Attack:</b> 80 → 90
+<b>Defense:</b> 75 → 85
+<b>Special Defense:</b> 70 → 80
+<b>Total:</b> 469 → 521
+<b>TM:</b> Now able to learn TM62, Acrobatics.
+<b>Ability One:</b> Big Pecks
+<b>Ability Two:</b> Tangled Feet
+</code></pre>
+
+**#019 Rattata**
+
+<pre><code><b>Ability One:</b> Hustle
+<b>Ability Two:</b> Guts
+<b>TM:</b> Can now learn TM01, Hone Claws.
+</code></pre>
+
+**#020 Raticate**
+
+<pre><code><b>HP:</b> 55 → 60
+<b>Attack:</b> 81 → 87
+<b>Speed:</b> 97 → 109
+<b>Total:</b> 413 → 436
+<b>Item:</b> Chilan Berry (50%)
+<b>Ability One:</b> Hustle
+<b>Ability Two:</b> Guts
+<b>TM:</b> Can now learn TM01, Hone Claws.
+</code></pre>
+
+**#021 Spearow**
+
+<pre><code><b>Item:</b> Sharp Beak (5%)
+<b>Ability One:</b> Keen Eye
+<b>Ability Two:</b> Sniper
+</code></pre>
+
+**#022 Fearow**
+
+<pre><code><b>Attack:</b> 90 → 100
+<b>Total:</b> 442 → 452
+<b>Item:</b> Sharp Beak (50%)
+<b>Ability One:</b> Keen Eye
+<b>Ability Two:</b> Sniper
+</code></pre>
+
+**#023 Ekans**
+
+<pre><code><b>Catch Rate:</b> 200
+<b>Item:</b> Kebia Berry (5%)
+<b>Ability One:</b> Intimidate
+<b>Ability Two:</b> Shed Skin
+</code></pre>
+
+**#024 Arbok**
+
+<pre><code><b>Attack:</b> 85 → 96
+<b>Speed:</b> 80 → 87
+<b>Special Attack:</b> 65 → 80
+<b>Total:</b> 438 → 471
+<b>Item:</b> Kebia Berry (50%)
+<b>Ability One:</b> Intimidate
+<b>Ability Two:</b> Shed Skin
+</code></pre>
+
+**#025 Pikachu**
+
+<pre><code><b>Attack:</b> 55 → 80
+<b>Speed:</b> 90 → 110
+<b>Special Attack:</b> 50 → 85
+<b>Total:</b> 300 → 380
+<b>Item:</b> Light Ball (50%), Sitrus Berry (5%)
+<b>HM:</b> Can now learn HM03, Surf.
+<b>Ability One:</b> Static
+<b>Ability Two:</b> LightningRod
+</code></pre>
+
+**#026 Raichu**
+
+<pre><code><b>Attack:</b> 90 → 100
+<b>Speed:</b> 100 → 120
+<b>Special Attack:</b> 90 → 100
+<b>Special Defense:</b> 80 → 90
+<b>Total:</b> 475 → 525
+<b>HM:</b> Can now learn HM03, Surf.
+<b>Ability One:</b> Static
+<b>Ability Two:</b> LightningRod
+</code></pre>
+
+**#027 Sandshrew - #028 Sandslash**
+
+<pre><code><b>Ability One:</b> Sand Veil
+<b>Ability Two:</b> Sand Rush
+</code></pre>
+
+**#029 Nidoran F**
+
+<pre><code><b>Item:</b> Pecha Berry (50%)
+<b>Ability One:</b> Poison Point
+<b>Ability Two:</b> Rivalry
+</code></pre>
+
+**#030 Nidorina**
+
+<pre><code><b>Ability One:</b> Hustle
+<b>Ability Two:</b> Rivalry
+</code></pre>
+
+**#031 Nidoqueen**
+
+<pre><code><b>Attack:</b> 82 → 92
+<b>Special Attack:</b> 75 → 90
+<b>Total:</b> 495 → 520
+<b>Ability One:</b> Sheer Force
+<b>Ability Two:</b> Rivalry
+</code></pre>
+
+**#032 Nidoran M**
+
+<pre><code><b>Item:</b> Pecha Berry (50%)
+<b>Ability One:</b> Poison Point
+<b>Ability Two:</b> Rivalry
+</code></pre>
+
+**#033 Nidorino**
+
+<pre><code><b>Ability One:</b> Hustle
+<b>Ability Two:</b> Rivalry
+</code></pre>
+
+**#034 Nidoking**
+
+<pre><code><b>Attack:</b> 92 → 102
+<b>Special Attack:</b> 85 → 95
+<b>Total:</b> 495 → 520
+<b>Ability One:</b> Sheer Force
+<b>Ability Two:</b> Rivalry
+</code></pre>
+
+**#035 Clefairy**
+
+<pre><code><b>Ability One:</b> Cute Charm
+<b>Ability Two:</b> Magic Guard
+</code></pre>
+
+**#036 Clefable**
+
+<pre><code><b>HP:</b> 95 → 105
+<b>Special Attack:</b> 83 → 93
+<b>Special Defense:</b> 90 → 100
+<b>Total:</b> 473 → 503
+<b>Ability One:</b> Unaware
+<b>Ability Two:</b> Magic Guard
+</code></pre>
+
+**#037 Vulpix**
+
+<pre><code><b>Items:</b> Rawst Berry (50%), Occa Berry (5%)
+<b>Ability One:</b> Flash Fire
+<b>Ability Two:</b> Drought
+</code></pre>
+
+**#038 Ninetales**
+
+<pre><code><b>Items:</b> Rawst Berry (50%), Occa Berry (5%)
+<b>Ability One:</b> Flash Fire
+<b>Ability Two:</b> Drought
+</code></pre>
+
+**#039 Jigglypuff**
+
+<pre><code><b>HP:</b> 115 → 128
+<b>Attack:</b> 45 → 65
+<b>Special Attack:</b> 45 → 65
+<b>Total:</b> 270 → 323
+<b>Ability One:</b> Cute Charm
+<b>Ability Two:</b> Friend Guard
+</code></pre>
+
+**#040 Wigglytuff**
+
+<pre><code><b>Attack:</b> 70 → 83
+<b>Defense:</b> 45 → 60
+<b>Special Attack:</b> 75 → 95
+<b>Special Defense:</b> 50 → 80
+<b>Total:</b> 425 → 503
+<b>Ability One:</b> Cute Charm
+<b>Ability Two:</b> Frisk
+</code></pre>
+
+**#041 Zubat**
+
+<pre><code><b>Base Happiness:</b> 140
+<b>Ability One:</b> Inner Focus
+<b>Ability Two:</b> Infiltrator
+</code></pre>
+
+**#042 Golbat**
+
+<pre><code><b>Base Happiness:</b> 140
+<b>Ability One:</b> Inner Focus
+<b>Ability Two:</b> Infiltrator
+</code></pre>
+
+**#043 Oddish**
+
+<pre><code><b>Ability One:</b> Chlorophyll
+<b>Ability Two:</b> Run Away
+</code></pre>
+
+**#044 Gloom**
+
+<pre><code><b>Ability One:</b> Chlorophyll
+<b>Ability Two:</b> Stench
+</code></pre>
+
+**#045 Vileplume**
+
+<pre><code><b>HP:</b> 75 → 85
+<b>Special Attack:</b> 100 → 110
+<b>Special Defense:</b> 90 → 100
+<b>Total:</b> 480 → 510
+<b>Ability One:</b> Chlorophyll
+<b>Ability Two:</b> Effect Spore
+</code></pre>
+
+**#046 Paras**
+
+<pre><code><b>Ability One:</b> Effect Spore
+<b>Ability Two:</b> Dry Skin
+</code></pre>
+
+**#047 Parasect**
+
+<pre><code><b>HP:</b> 60 → 80
+<b>Attack:</b> 95 → 110
+<b>Defense:</b> 80 → 100
+<b>Special Defense:</b> 80 → 90
+<b>Speed:</b> 30 → 40
+<b>Total:</b> 405 → 480
+<b>Ability One:</b> Effect Spore
+<b>Ability Two:</b> Dry Skin
+</code></pre>
+
+**#048 Venonat**
+
+<pre><code><b>Ability One:</b> Compoundeyes
+<b>Ability Two:</b> Tinted Lens
+</code></pre>
+
+**#049 Venomoth**
+
+<pre><code><b>Special Attack:</b> 90 → 100
+<b>Speed:</b> 90 → 100
+<b>Total:</b> 450 → 470
+<b>Ability One:</b> Wonder Skin
+<b>Ability Two:</b> Tinted Lens
+</code></pre>
+
+**#050 Diglett**
+
+<pre><code><b>Ability One:</b> Sand Force
+<b>Ability Two:</b> Arena Trap
+</code></pre>
+
+**#051 Dugtrio**
+
+<pre><code><b>Attack:</b> 80 → 105
+<b>Total:</b> 405 → 430
+<b>Ability One:</b> Sand Force
+<b>Ability Two:</b> Arena Trap
+</code></pre>
+
+**#052 Meowth**
+
+<pre><code><b>Ability One:</b> Pickup
+<b>Ability Two:</b> Technician
+</code></pre>
+
+**#053 Persian**
+
+<pre><code><b>Special Attack:</b> 65 → 85
+<b>Total:</b> 440 → 460
+<b>Ability One:</b> Limber
+<b>Ability Two:</b> Technician
+</code></pre>
+
+**#054 Psyduck - #055 Golduck**
+
+<pre><code><b>Ability One:</b> Swift Swim
+<b>Ability Two:</b> Cloud Nine
+</code></pre>
+
+**#056 Mankey**
+
+<pre><code><b>Ability One:</b> Defiant
+<b>Ability Two:</b> Anger Point
+</code></pre>
+
+**#057 Primeape**
+
+<pre><code><b>Attack:</b> 105 → 115
+<b>Speed:</b> 95 → 110
+<b>Total:</b> 455 → 480
+<b>Ability One:</b> Defiant
+<b>Ability Two:</b> Anger Point
+</code></pre>
+
+**#058 Growlithe**
+
+<pre><code><b>Ability One:</b> Intimidate
+<b>Ability Two:</b> Justified
+</code></pre>
+
+**#059 Arcanine**
+
+<pre><code><b>Ability One:</b> Intimidate
+<b>Ability Two:</b> Justified
+</code></pre>
+
+**#060 Poliwag**
+
+<pre><code><b>Ability One:</b> Water Absorb
+<b>Ability Two:</b> Swift Swim
+</code></pre>
+
+**#061 Poliwhirl**
+
+<pre><code><b>Evolution (Politoed):</b> Level Up at Night with King's Rock equipped.
+<b>Ability One:</b> Water Absorb
+<b>Ability Two:</b> Swift Swim
+</code></pre>
+
+**#062 Poliwrath**
+
+<pre><code><b>Attack:</b> 85 → 105
+<b>Total:</b> 500 → 520
+<b>Ability One:</b> Water Absorb
+<b>Ability Two:</b> Swift Swim
+</code></pre>
+
+**#063 Abra**
+
+<pre><code><b>Ability One:</b> Synchronize
+<b>Ability Two:</b> Magic Guard
+</code></pre>
+
+**#064 Kadabra**
+
+<pre><code><b>Evolution:</b> Level 36.
+<b>Ability One:</b> Synchronize
+<b>Ability Two:</b> Magic Guard
+</code></pre>
+
+**#065 Alakazam**
+
+<pre><code><b>Ability One:</b> Synchronize
+<b>Ability Two:</b> Magic Guard
+</code></pre>
+
+**#066 Machop**
+
+<pre><code><b>Ability One:</b> Guts
+<b>Ability Two:</b> No Guard
+</code></pre>
+
+**#067 Machoke**
+
+<pre><code><b>Evolution:</b> Level 39.
+<b>Ability One:</b> Guts
+<b>Ability Two:</b> No Guard
+</code></pre>
+
+**#068 Machamp**
+
+<pre><code><b>Ability One:</b> Guts
+<b>Ability Two:</b> No Guard
+</code></pre>
+
+**#069 Bellsprout**
+
+<pre><code><b>Ability One:</b> Chlorophyll
+<b>Ability Two:</b> Limber
+</code></pre>
+
+**#070 Weepinbell**
+
+<pre><code><b>Ability One:</b> Chlorophyll
+<b>Ability Two:</b> Gluttony
+</code></pre>
+
+**#071 Victreebel**
+
+<pre><code><b>HP:</b> 80 → 90
+<b>Attack:</b> 105 → 115
+<b>Speed:</b> 70 → 80
+<b>Total:</b> 480 → 510
+<b>Ability One:</b> Chlorophyll
+<b>Ability Two:</b> Intimidate
+</code></pre>
+
+**#072 Tentacool - #073 Tentacruel**
+
+<pre><code><b>Ability One:</b> Clear Body
+<b>Ability Two:</b> Liquid Ooze
+</code></pre>
+
+**#074 Geodude**
+
+<pre><code><b>Ability One:</b> Rock Head
+<b>Ability Two:</b> Sturdy
+</code></pre>
+
+**#075 Graveler**
+
+<pre><code><b>Evolution:</b> Level 36.
+<b>Ability One:</b> Rock Head
+<b>Ability Two:</b> Sturdy
+</code></pre>
+
+**#076 Golem**
+
+<pre><code><b>HP:</b> 80 → 90
+<b>Total:</b> 485 → 495
+<b>Ability One:</b> Rock Head
+<b>Ability Two:</b> Sturdy
+</code></pre>
+
+**#077 Ponyta - #078 Rapidash**
+
+<pre><code><b>Ability One:</b> Flame Body
+<b>Ability Two:</b> Flash Fire
+</code></pre>
+
+**#079 Slowpoke**
+
+<pre><code><b>Evolution (Slowbro):</b> Level 37 or Level Up with a Shellder in the party.
+<b>Evolution (Slowking):</b> Level Up at Day with King's Rock.
+<b>Ability One:</b> Regenerator
+<b>Ability Two:</b> Drizzle
+</code></pre>
+
+**#080 Slowbro**
+
+<pre><code><b>Ability One:</b> Regenerator
+<b>Ability Two:</b> Drizzle
+</code></pre>
+
+**#081 Magnemite - #082 Magneton**
+
+<pre><code><b>Ability One:</b> Magnet Pull
+<b>Ability Two:</b> Analytic
+</code></pre>
+
+**#083 Farfetch'd**
+
+<pre><code><b>Type:</b> Fighting / Flying
+<b>HP:</b> 52 → 70
+<b>Attack:</b> 65 → 105
+<b>Defense:</b> 55 → 70
+<b>Special Attack:</b> 58 → 50
+<b>Special Defense:</b> 62 → 70
+<b>Speed:</b> 60 → 110
+<b>Total:</b> 352 → 475
+<b>Base EXP:</b> 123 → 192
+<b>Item:</b> Stick (50%)
+<b>Ability One:</b> Defiant
+<b>Ability Two:</b> Super Luck
+</code></pre>
+
+**#084 Doduo**
+
+<pre><code><b>Ability One:</b> Tangled Feet
+<b>Ability Two:</b> Early Bird
+</code></pre>
+
+**#085 Dodrio**
+
+<pre><code><b>Ability One:</b> Anger Point
+<b>Ability Two:</b> Early Bird
+</code></pre>
+
+**#086 Seel**
+
+<pre><code><b>Ability One:</b> Thick Fat
+<b>Ability Two:</b> Hydration
+</code></pre>
+
+**#087 Dewgong**
+
+<pre><code><b>Special Attack:</b> 70 → 85
+<b>Total:</b> 475 → 490
+<b>Ability One:</b> Thick Fat
+<b>Ability Two:</b> Hydration
+</code></pre>
+
+**#088 Grimer - #089 Muk**
+
+<pre><code><b>Item:</b> Toxic Orb (50%)
+<b>Ability One:</b> Stench
+<b>Ability Two:</b> Poison Touch
+</code></pre>
+
+**#090 Shellder**
+
+<pre><code><b>Ability One:</b> Overcoat
+<b>Ability Two:</b> Skill Link
+</code></pre>
+
+**#091 Cloyster**
+
+<pre><code><b>Ability One:</b> Overcoat
+<b>Ability Two:</b> Skill Link
+</code></pre>
+
+**#092 Gastly**
+
+<pre><code><b>TM:</b> Can now learn TM34, Sludge Wave.
+<b>Ability One:</b> Levitate
+<b>Ability Two:</b> Levitate
+</code></pre>
+
+**#093 Haunter**
+
+<pre><code><b>TM:</b> Can now learn TM34, Sludge Wave.
+<b>Evolution:</b> Level 36.
+<b>Ability One:</b> Levitate
+<b>Ability Two:</b> Levitate
+</code></pre>
+
+**#094 Gengar**
+
+<pre><code><b>TM:</b> Can now learn TM34, Sludge Wave.
+<b>Ability One:</b> Levitate
+<b>Ability Two:</b> Levitate
+</code></pre>
+
+**#095 Onix**
+
+<pre><code><b>Attack:</b> 45 → 70
+<b>Total:</b> 385 → 410
+<b>Evolution:</b> Level Up at Night with Metal Coat equipped.
+<b>Ability One:</b> Weak Armor
+<b>Ability Two:</b> Sturdy
+</code></pre>
+
+**#096 Drowzee - #097 Hypno**
+
+<pre><code><b>Ability One:</b> Insomnia
+<b>Ability Two:</b> Forewarn
+</code></pre>
+
+**#098 Krabby - #099 Kingler**
+
+<pre><code><b>HM:</b> Can now learn HM05, Waterfall.
+<b>Ability One:</b> Hyper Cutter
+<b>Ability Two:</b> Sheer Force
+</code></pre>
+
+**#100 Voltorb - #101 Electrode**
+
+<pre><code><b>Ability One:</b> Aftermath
+<b>Ability Two:</b> Static
+</code></pre>
+
+**#102 Exeggcute**
+
+<pre><code><b>Ability One:</b> Chlorophyll
+<b>Ability Two:</b> Harvest
+</code></pre>
+
+**#103 Exeggutor**
+
+<pre><code><b>Ability One:</b> Chlorophyll
+<b>Ability Two:</b> Harvest
+</code></pre>
+
+**#104 Cubone**
+
+<pre><code><b>Item:</b> Thick Club (50%)
+<b>Ability One:</b> Rock Head
+<b>Ability Two:</b> Mold Breaker
+</code></pre>
+
+**#105 Marowak**
+
+<pre><code><b>Speed:</b> 45 → 70
+<b>Total:</b> 425 → 450
+<b>Ability One:</b> Rock Head
+<b>Ability Two:</b> Mold Breaker
+</code></pre>
+
+**#106 Hitmonlee**
+
+<pre><code><b>Ability One:</b> Unburden
+<b>Ability Two:</b> Reckless
+</code></pre>
+
+**#107 Hitmonchan**
+
+<pre><code><b>Ability One:</b> Inner Focus
+<b>Ability Two:</b> Iron Fist
+</code></pre>
+
+**#108 Lickitung**
+
+<pre><code><b>Ability One:</b> Cloud Nine
+<b>Ability Two:</b> Gluttony
+</code></pre>
+
+**#109 Koffing**
+
+<pre><code><b>TM:</b> Can now learn TM34, Sludge Wave.
+<b>Ability One:</b> Levitate
+<b>Ability Two:</b> Levitate
+</code></pre>
+
+**#110 Weezing**
+
+<pre><code><b>TM:</b> Can now learn TM34, Sludge Wave.
+<b>Special Attack:</b> 85 → 95
+<b>Total:</b> 490 → 500
+<b>Ability One:</b> Levitate
+<b>Ability Two:</b> Levitate
+</code></pre>
+
+**#111 Rhyhorn**
+
+<pre><code><b>Ability One:</b> Reckless
+<b>Ability Two:</b> Rock Head
+</code></pre>
+
+**#112 Rhydon**
+
+<pre><code><b>Evolution:</b> Use the Protector.
+<b>Ability One:</b> Reckless
+<b>Ability Two:</b> Rock Head
+</code></pre>
+
+**#113 Chansey**
+
+<pre><code><b>Item:</b> Lucky Egg (0%)
+<b>Base Happiness:</b> 160
+<b>Ability One:</b> Natural Cure
+<b>Ability Two:</b> Serene Grace
+</code></pre>
+
+**#114 Tangela**
+
+<pre><code><b>Ability One:</b> Chlorophyll
+<b>Ability Two:</b> Regenerator
+</code></pre>
+
+**#115 Kangaskhan**
+
+<pre><code><b>Ability One:</b> Early Bird
+<b>Ability Two:</b> Scrappy
+</code></pre>
+
+**#116 Horsea**
+
+<pre><code><b>TM:</b> Now learns TM79, Frost Breath.
+<b>Ability One:</b> Swift Swim
+<b>Ability Two:</b> Sniper
+</code></pre>
+
+**#117 Seadra**
+
+<pre><code><b>TM:</b> Now learns TM79, Frost Breath.
+<b>Evolution:</b> Use the Dragon Scale.
+<b>Ability One:</b> Poison Point
+<b>Ability Two:</b> Poison Touch
+</code></pre>
+
+**#118 Goldeen**
+
+<pre><code><b>Ability One:</b> Swift Swim
+<b>Ability Two:</b> LightningRod
+</code></pre>
+
+**#119 Seaking**
+
+<pre><code><b>Attack:</b> 92 → 112
+<b>Speed:</b> 68 → 88
+<b>Total:</b> 450 → 490
+<b>Ability One:</b> Swift Swim
+<b>Ability Two:</b> LightningRod
+</code></pre>
+
+**#120 Staryu - #121 Starmie**
+
+<pre><code><b>Ability One:</b> Regenerator
+<b>Ability Two:</b> Natural Cure
+</code></pre>
+
+**#122 Mr. Mime**
+
+<pre><code><b>Speed:</b> 90 → 100
+<b>Total:</b> 460 → 470
+<b>Ability One:</b> Technician
+<b>Ability Two:</b> Filter
+</code></pre>
+
+**#123 Scyther**
+
+<pre><code><b>Evolution:</b> Level Up at Day with a Metal Coat equipped.
+<b>TM:</b> Can now learn TM62, Acrobatics.
+<b>Ability One:</b> Swarm
+<b>Ability Two:</b> Technician
+</code></pre>
+
+**#124 Jynx**
+
+<pre><code><b>Special Attack:</b> 115 → 125
+<b>Speed:</b> 95 → 100
+<b>Total:</b> 455 → 470
+<b>Ability One:</b> Trace
+<b>Ability Two:</b> Dry Skin
+</code></pre>
+
+**#125 Electabuzz**
+
+<pre><code><b>Evolution:</b> Use the Electirizer.
+<b>Ability One:</b> Static
+<b>Ability Two:</b> Vital Spirit
+</code></pre>
+
+**#126 Magmar**
+
+<pre><code><b>Evolution:</b> Use the Magmarizer.
+<b>Ability One:</b> Flame Body
+<b>Ability Two:</b> Vital Spirit
+</code></pre>
+
+**#127 Pinsir**
+
+<pre><code><b>Ability One:</b> Moxie
+<b>Ability Two:</b> Mold Breaker
+</code></pre>
+
+**#128 Tauros**
+
+<pre><code><b>Attack:</b> 100 → 110
+<b>Total:</b> 490 → 500
+<b>Ability One:</b> Intimidate
+<b>Ability Two:</b> Sheer Force
+</code></pre>
+
+**#129 Magikarp**
+
+<pre><code><b>Ability One:</b> Swift Swim
+<b>Ability Two:</b> Rattled
+</code></pre>
+
+**#130 Gyarados**
+
+<pre><code><b>Ability One:</b> Intimidate
+<b>Ability Two:</b> Moxie
+</code></pre>
+
+**#131 Lapras**
+
+<pre><code><b>Ability One:</b> Water Absorb
+<b>Ability Two:</b> Shell Armor
+</code></pre>
+
+**#132 Ditto**
+
+<pre><code><b>Ability One:</b> Imposter
+<b>Ability Two:</b> Imposter
+</code></pre>
+
+**#133 Eevee**
+
+<pre><code><b>Base Happiness:</b> 200
+<b>TM:</b> Can now learn TM86, Grass Knot.
+<b>Ability One:</b> Anticipation
+<b>Ability Two:</b> Adaptability
+</code></pre>
+
+**#134 Vaporeon**
+
+<pre><code><b>Base Happiness:</b> 200
+<b>TM:</b> Can now learn TM86, Grass Knot.
+<b>Ability One:</b> Water Absorb
+<b>Ability Two:</b> Hydration
+</code></pre>
+
+**#135 Jolteon**
+
+<pre><code><b>Base Happiness:</b> 200
+<b>TM:</b> Can now learn TM86, Grass Knot.
+<b>Ability One:</b> Volt Absorb
+<b>Ability Two:</b> LightningRod
+</code></pre>
+
+**#136 Flareon**
+
+<pre><code><b>Base Happiness:</b> 200
+<b>HP:</b> 65 → 110
+<b>Attack:</b> 130 → 130
+<b>Defense:</b> 60 → 65
+<b>Special Attack:</b> 95 → 60
+<b>Special Defense:</b> 110 → 65
+<b>Speed:</b> 65 → 95
+<b>TM:</b> Can now learn TM71, Stone Edge, TM80, Rock Slide, TM86 Grass Knot and TM93, Wild Charge.
+<b>Ability One:</b> Flash Fire
+<b>Ability Two:</b> Sheer Force
+</code></pre>
+
+**#137 Porygon**
+
+<pre><code><b>Evolution:</b> Use the Up-Grade.
+<b>Ability One:</b> Trace
+<b>Ability Two:</b> Download
+</code></pre>
+
+**#138 Omanyte**
+
+<pre><code><b>Ability One:</b> Swift Swim
+<b>Ability Two:</b> Shell Armor
+</code></pre>
+
+**#139 Omastar**
+
+<pre><code><b>Ability One:</b> Swift Swim
+<b>Ability Two:</b> Iron Barbs
+</code></pre>
+
+**#140 Kabuto**
+
+<pre><code><b>Ability One:</b> Swift Swim
+<b>Ability Two:</b> Battle Armor
+</code></pre>
+
+**#141 Kabutops**
+
+<pre><code><b>Ability One:</b> Swift Swim
+<b>Ability Two:</b> Hyper Cutter
+</code></pre>
+
+**#142 Aerodactyl**
+
+<pre><code><b>Ability One:</b> Rock Head
+<b>Ability Two:</b> Pressure
+</code></pre>
+
+**#143 Snorlax**
+
+<pre><code><b>Ability One:</b> Gluttony
+<b>Ability Two:</b> Thick Fat
+</code></pre>
+
+**#144 Articuno**
+
+<pre><code><b>Item:</b> Petaya Berry (100%)
+<b>Ability One:</b> Pressure
+<b>Ability Two:</b> Snow Cloak
+</code></pre>
+
+**#145 Zapdos**
+
+<pre><code><b>Item:</b> Salac Berry (100%)
+<b>Ability One:</b> Pressure
+<b>Ability Two:</b> LightningRod
+</code></pre>
+
+**#146 Moltres**
+
+<pre><code><b>Item:</b> Liechi Berry (100%)
+<b>Ability One:</b> Pressure
+<b>Ability Two:</b> Flame Body
+</code></pre>
+
+**#147 Dratini**
+
+<pre><code><b>Ability One:</b> Shed Skin
+<b>Ability Two:</b> Marvel Scale
+</code></pre>
+
+**#148 Dragonair**
+
+<pre><code><b>Ability One:</b> Shed Skin
+<b>Ability Two:</b> Marvel Scale
+</code></pre>
+
+**#149 Dragonite**
+
+<pre><code><b>Ability One:</b> Multiscale
+<b>Ability Two:</b> Marvel Scale
+</code></pre>
+
+**#150 Mewtwo**
+
+<pre><code><b>Item:</b> Apicot Berry (100%)
+<b>Ability One:</b> Pressure
+<b>Ability Two:</b> Unnerve
+</code></pre>
+
+**#151 Mew**
+
+<pre><code><b>Ability One:</b> Synchronize
+<b>Ability Two:</b> Magic Guard
+</code></pre>
+
+## Johto Pokémon
+
+**#152 Chikorita - #154 Meganium**
+
+<pre><code><b>Item:</b> Miracle Seed (50%)
+<b>Ability One:</b> Overgrow
+<b>Ability Two:</b> Natural Cure
+</code></pre>
+
+**#155 Cyndaquil - #157 Typhlosion**
+
+<pre><code><b>Item:</b> Charcoal (50%)
+<b>Ability One:</b> Blaze
+<b>Ability Two:</b> Flash Fire
+</code></pre>
+
+**#158 Totodile - #160 Feraligatr.**
+
+<pre><code><b>Item:</b> Mystic Water (50%)
+<b>Ability One:</b> Torrent
+<b>Ability Two:</b> Sheer Force
+</code></pre>
+
+**#161 Sentret**
+
+<pre><code><b>Ability One:</b> Frisk
+<b>Ability Two:</b> Keen Eye
+</code></pre>
+
+**#162 Furret**
+
+<pre><code><b>Attack:</b> 76 → 86
+<b>Speed:</b> 90 → 100
+<b>Total:</b> 415 → 435
+<b>Ability One:</b> Frisk
+<b>Ability Two:</b> Keen Eye
+</code></pre>
+
+**#163 Hoothoot**
+
+<pre><code><b>Ability One:</b> Insomnia
+<b>Ability Two:</b> Tinted Lens
+</code></pre>
+
+**#164 Noctowl**
+
+<pre><code><b>Special Attack:</b> 76 → 96
+<b>Total:</b> 442 → 462
+<b>Ability One:</b> Insomnia
+<b>Ability Two:</b> Tinted Lens
+</code></pre>
+
+**#165 Ledyba**
+
+<pre><code><b>Attack:</b> 20 → 40
+<b>Special Attack:</b> 40 → 20
+<b>Ability One:</b> Rattled
+<b>Ability Two:</b> Early Bird
+</code></pre>
+
+**#166 Ledian**
+
+<pre><code><b>Attack:</b> 35 → 95
+<b>Special Attack:</b> 55 → 35
+<b>Total:</b> 390 → 430
+<b>Ability One:</b> Iron Fist
+<b>Ability Two:</b> Early Bird
+</code></pre>
+
+**#167 Spinarak**
+
+<pre><code><b>Ability One:</b> Sniper
+<b>Ability Two:</b> Insomnia
+</code></pre>
+
+**#168 Ariados**
+
+<pre><code><b>Speed:</b> 40 → 80
+<b>Total:</b> 390 → 430
+<b>Ability One:</b> Sniper
+<b>Ability Two:</b> Insomnia
+</code></pre>
+
+**#169 Crobat**
+
+<pre><code><b>Base Happiness:</b> 140
+<b>Ability One:</b> Inner Focus
+<b>Ability Two:</b> Infiltrator
+</code></pre>
+
+**#170 Chinchou**
+
+<pre><code><b>Ability One:</b> Volt Absorb
+<b>Ability Two:</b> Water Absorb
+</code></pre>
+
+**#171 Lanturn**
+
+<pre><code><b>Special Attack:</b> 76 → 86
+<b>Special Defense:</b> 76 → 86
+<b>Total:</b> 460 → 480
+<b>Ability One:</b> Volt Absorb
+<b>Ability Two:</b> Water Absorb
+</code></pre>
+
+**#172 Pichu**
+
+<pre><code><b>Base Happiness:</b> 200
+<b>HM:</b> Can now learn HM03, Surf.
+<b>Ability One:</b> Static
+<b>Ability Two:</b> LightningRod
+</code></pre>
+
+**#173 Cleffa**
+
+<pre><code><b>Base Happiness:</b> 200
+<b>Ability One:</b> Friend Guard
+<b>Ability Two:</b> Magic Guard
+</code></pre>
+
+**#174 Igglypuff**
+
+<pre><code><b>Base Happiness:</b> 200.
+<b>Ability One:</b> Cute Charm
+<b>Ability Two:</b> Friend Guard
+</code></pre>
+
+**#175 Togepi**
+
+<pre><code><b>Base Happiness:</b> 200
+<b>Ability One:</b> Super Luck
+<b>Ability Two:</b> Serene Grace
+</code></pre>
+
+**#176 Togetic**
+
+<pre><code><b>Ability One:</b> Super Luck
+<b>Ability Two:</b> Serene Grace
+</code></pre>
+
+**#177 Natu**
+
+<pre><code><b>Ability One:</b> Synchronize
+<b>Ability Two:</b> Magic Bounce
+</code></pre>
+
+**#178 Xatu**
+
+<pre><code><b>Special Attack:</b> 95 → 100
+<b>Speed:</b> 95 → 100
+<b>Total:</b> 470 → 480
+<b>Ability One:</b> Synchronize
+<b>Ability Two:</b> Magic Bounce
+</code></pre>
+
+**#179 Mareep - #180 Flaaffy**
+
+<pre><code><b>Ability One:</b> Static
+<b>Ability Two:</b> Overcoat
+</code></pre>
+
+**#181 Ampharos**
+
+<pre><code><b>TM:</b> Can now learn TM91, Flash Cannon.
+<b>Ability One:</b> Static
+<b>Ability Two:</b> Overcoat
+</code></pre>
+
+**#182 Bellossom**
+
+<pre><code><b>HP:</b> 75 → 85
+<b>Special Attack:</b> 90 → 100
+<b>Special Defense:</b> 100 → 110
+<b>Total:</b> 480 → 510
+<b>Ability One:</b> Chlorophyll
+<b>Ability Two:</b> Own Tempo
+</code></pre>
+
+**#183 Marill**
+
+<pre><code><b>Special Attack:</b> 20 → 50
+<b>Total:</b> 250 → 280
+<b>Ability One:</b> Sap Sipper
+<b>Ability Two:</b> Huge Power
+</code></pre>
+
+**#184 Azumarill**
+
+<pre><code><b>HP:</b> 100 → 110
+<b>Special Attack:</b> 50 → 90
+<b>Total:</b> 410 → 450
+<b>Ability One:</b> Sap Sipper
+<b>Ability Two:</b> Huge Power
+</code></pre>
+
+**#185 Sudowoodo**
+
+<pre><code><b>HP:</b> 70 → 85
+<b>Attack:</b> 100 → 115
+<b>Defense:</b> 115 → 130
+<b>Special Defense:</b> 65 → 80
+<b>Total:</b> 410 → 470
+<b>Ability One:</b> Sturdy
+<b>Ability Two:</b> Rattled
+</code></pre>
+
+**#186 Politoed**
+
+<pre><code><b>Ability One:</b> Water Absorb
+<b>Ability Two:</b> Drizzle
+</code></pre>
+
+**#187 Hoppip - #189 Jumpluff**
+
+<pre><code><b>Ability One:</b> Chlorophyll
+<b>Ability Two:</b> Prankster
+</code></pre>
+
+**#190 Aipom**
+
+<pre><code><b>Ability One:</b> Skill Link
+<b>Ability Two:</b> Pickup
+</code></pre>
+
+**#191 Sunkern**
+
+<pre><code><b>Ability One:</b> Chlorophyll
+<b>Ability Two:</b> Simple
+</code></pre>
+
+**#192 Sunflora**
+
+<pre><code><b>Defense:</b> 55 → 85
+<b>Special Attack:</b> 105 → 135
+<b>Special Defense:</b> 85 → 95
+<b>Total:</b> 425 → 495
+<b>Base EXP:</b> 149 → 209
+<b>Ability One:</b> Chlorophyll
+<b>Ability Two:</b> Simple
+</code></pre>
+
+**#193 Yanma**
+
+<pre><code><b>Ability One:</b> Speed Boost
+<b>Ability Two:</b> Compoundeyes
+</code></pre>
+
+**#194 Wooper**
+
+<pre><code><b>Ability One:</b> Unaware
+<b>Ability Two:</b> Water Absorb
+</code></pre>
+
+**#195 Quagsire**
+
+<pre><code><b>Attack:</b> 85 → 95
+<b>Defense:</b> 85 → 95
+<b>Total:</b> 430 → 450
+<b>Ability One:</b> Unaware
+<b>Ability Two:</b> Water Absorb
+</code></pre>
+
+**#196 Espeon**
+
+<pre><code><b>Ability One:</b> Synchronize
+<b>Ability Two:</b> Magic Bounce
+</code></pre>
+
+**#197 Umbreon**
+
+<pre><code><b>TM:</b> Can now learn TM86, Grass Knot.
+<b>Ability One:</b> Synchronize
+<b>Ability Two:</b> Prankster
+</code></pre>
+
+**#198 Murkrow**
+
+<pre><code><b>Ability One:</b> Prankster
+<b>Ability Two:</b> Super Luck
+</code></pre>
+
+**#199 Slowking**
+
+<pre><code><b>Ability One:</b> Regenerator
+<b>Ability Two:</b> Drizzle
+</code></pre>
+
+**#200 Misdreavus**
+
+<pre><code><b>Ability One:</b> Levitate
+<b>Ability Two:</b> Levitate
+</code></pre>
+
+**#201 Unown**
+
+<pre><code><b>Attack:</b> 72 → 112
+<b>Special Attack:</b> 72 → 112
+<b>Speed:</b> 48 → 88
+<b>Total:</b> 336 → 456
+<b>Base EXP:</b> 118 → 196
+<b>Ability One:</b> Levitate
+<b>Ability Two:</b> Levitate
+</code></pre>
+
+**#202 Wobbuffet**
+
+<pre><code><b>Ability One:</b> Shadow Tag
+<b>Ability Two:</b> Telepathy
+</code></pre>
+
+**#203 Girafarig**
+
+<pre><code><b>Special Attack:</b> 90 → 110
+<b>Speed:</b> 85 → 105
+<b>Total:</b> 455 → 495
+<b>Base EXP:</b> 159 → 205
+<b>Ability One:</b> Sap Sipper
+<b>Ability Two:</b> Early Bird
+</code></pre>
+
+**#204 Pineco - #205 Forretress**
+
+<pre><code><b>Ability One:</b> Sturdy
+<b>Ability Two:</b> Overcoat
+</code></pre>
+
+**#206 Dunsparce**
+
+<pre><code><b>HP:</b> 100 → 120
+<b>Attack:</b> 70 → 90
+<b>Total:</b> 415 → 455
+<b>Ability One:</b> Serene Grace
+<b>Ability Two:</b> Rattled
+</code></pre>
+
+**#207 Gligar**
+
+<pre><code><b>Ability One:</b> Hyper Cutter
+<b>Ability Two:</b> Immunity
+</code></pre>
+
+**#208 Steelix**
+
+<pre><code><b>Attack:</b> 85 → 90
+<b>Total:</b> 510 → 515
+<b>Ability One:</b> Sheer Force
+<b>Ability Two:</b> Sturdy
+</code></pre>
+
+**#209 Snubbull**
+
+<pre><code><b>Ability One:</b> Intimidate
+<b>Ability Two:</b> Rattled
+</code></pre>
+
+**#210 Granbull**
+
+<pre><code><b>HP:</b> 90 → 105
+<b>Total:</b> 450 → 465
+<b>Ability One:</b> Intimidate
+<b>Ability Two:</b> Rattled
+</code></pre>
+
+**#211 Qwilfish**
+
+<pre><code><b>Special Attack:</b> 55 → 95
+<b>Total:</b> 430 → 470
+<b>Ability One:</b> Poison Touch
+<b>Ability Two:</b> Intimidate
+</code></pre>
+
+**#212 Scizor**
+
+<pre><code><b>Ability One:</b> Swarm
+<b>Ability Two:</b> Technician
+</code></pre>
+
+**#213 Shuckle**
+
+<pre><code><b>Ability One:</b> Sturdy
+<b>Ability Two:</b> Solid Rock
+</code></pre>
+
+**#214 Heracross**
+
+<pre><code><b>Ability One:</b> Moxie
+<b>Ability Two:</b> Guts
+</code></pre>
+
+**#215 Sneasel**
+
+<pre><code><b>TM:</b> Now learns TM79, Frost Breath.
+<b>Ability One:</b> Pickpocket
+<b>Ability Two:</b> Technician
+</code></pre>
+
+**#216 Teddiursa - #217 Ursaring**
+
+<pre><code><b>Ability One:</b> Pickup (Teddiursa) / Guts (Ursaring)
+<b>Ability Two:</b> Honey Gather (Teddiursa) / Sheer Force (Ursaring)
+</code></pre>
+
+**#218 Slugma**
+
+<pre><code><b>Item:</b> Flame Orb (50%)
+<b>Ability One:</b> Magma Armor
+<b>Ability Two:</b> Flame Body
+</code></pre>
+
+**#219 Magcargo**
+
+<pre><code><b>Item:</b> Flame Orb (50%)
+<b>Defense:</b> 120 → 135
+<b>Special Attack:</b> 80 → 115
+<b>Special Defense:</b> 80 → 115
+<b>Total:</b> 410 → 495
+<b>Base EXP:</b> 144 → 205
+<b>Ability One:</b> Solid Rock
+<b>Ability Two:</b> Flame Body
+</code></pre>
+
+**#220 Swinub - #221 Piloswine**
+
+<pre><code><b>Ability One:</b> Thick Fat
+<b>Ability Two:</b> Snow Cloak
+</code></pre>
+
+**#222 Corsola**
+
+<pre><code><b>Defense:</b> 85 → 115
+<b>Special Attack:</b> 65 → 105
+<b>Special Defense:</b> 85 → 110
+<b>Total:</b> 380 → 475
+<b>Base EXP:</b> 133 → 205
+<b>Ability One:</b> Regenerator
+<b>Ability Two:</b> Natural Cure
+</code></pre>
+
+**#223 Remoraid - #224 Octillery**
+
+<pre><code><b>TM:</b> Now learn TM79, Frost Breath.
+<b>Ability One:</b> Moody
+<b>Ability Two:</b> Sniper
+</code></pre>
+
+**#225 Delibird**
+
+<pre><code><b>HP:</b> 45 → 50
+<b>Attack:</b> 55 → 95
+<b>Defense:</b> 45 → 55
+<b>Special Attack:</b> 65 → 105
+<b>Special Defense:</b> 45 → 55
+<b>Speed:</b> 75 → 115
+<b>Total:</b> 330 → 475
+<b>Base EXP:</b> 116 → 201
+<b>TM:</b> Can now learn TM62 Acrobatics and TM89 U-turn.
+<b>Ability One:</b> Vital Spirit
+<b>Ability Two:</b> Technician
+</code></pre>
+
+**#226 Mantine**
+
+<pre><code><b>HM:</b> Can now learn HM02, Fly.
+<b>Ability One:</b> Swift Swim
+<b>Ability Two:</b> Water Absorb
+</code></pre>
+
+**#227 Skarmory**
+
+<pre><code><b>Ability One:</b> Light Metal
+<b>Ability Two:</b> Sturdy
+</code></pre>
+
+**#228 Houndour, #229 Houndoom**
+
+<pre><code><b>Ability One:</b> Intimidate
+<b>Ability Two:</b> Flash Fire
+</code></pre>
+
+**#230 Kingdra**
+
+<pre><code><b>TM:</b> Now learns TM79, Frost Breath.
+<b>Ability One:</b> Swift Swim
+<b>Ability Two:</b> Sniper
+</code></pre>
+
+**#231 Phanpy**
+
+<pre><code><b>Ability One:</b> Pickup
+<b>Ability Two:</b> Sand Veil
+</code></pre>
+
+**#232 Donphan**
+
+<pre><code><b>Ability One:</b> Sturdy
+<b>Ability Two:</b> Sand Force
+</code></pre>
+
+**#233 Porygon2**
+
+<pre><code><b>Evolution:</b> Use the Dubious Disc.
+<b>Ability One:</b> Trace
+<b>Ability Two:</b> Download
+</code></pre>
+
+**#234 Stantler**
+
+<pre><code><b>Attack:</b> 95 → 100
+<b>Total:</b> 465 → 470
+<b>Ability One:</b> Intimidate
+<b>Ability Two:</b> Sap Sipper
+</code></pre>
+
+**#235 Smeargle**
+
+<pre><code><b>Speed:</b> 75 → 115
+<b>Total:</b> 250 → 290
+<b>Base EXP:</b> 88 → 111
+<b>Ability One:</b> Moody
+<b>Ability Two:</b> Technician
+</code></pre>
+
+**#236 Tyrogue - #237 Hitmontop**
+
+<pre><code><b>Ability One:</b> Guts (Tyrogue) / Intimidate (Hitmontop)
+<b>Ability Two:</b> Vital Spirit (Tyrogue) / Technician (Hitmontop)
+</code></pre>
+
+**#238 Smoochum**
+
+<pre><code><b>Ability One:</b> Trace
+<b>Ability Two:</b> Hydration
+</code></pre>
+
+**#239 Elekid**
+
+<pre><code><b>Ability One:</b> Static
+<b>Ability Two:</b> Vital Spirit
+</code></pre>
+
+**#240 Magby**
+
+<pre><code><b>Ability One:</b> Flame Body
+<b>Ability Two:</b> Vital Spirit
+</code></pre>
+
+**#241 Miltank**
+
+<pre><code><b>Attack:</b> 80 → 90
+<b>Total:</b> 490 → 500
+<b>Ability One:</b> Thick Fat
+<b>Ability Two:</b> Scrappy
+</code></pre>
+
+**#242 Blissey**
+
+<pre><code><b>Ability One:</b> Natural Cure
+<b>Ability Two:</b> Serene Grace
+</code></pre>
+
+**#243 Raikou**
+
+<pre><code><b>Item:</b> Micle Berry (100%)
+<b>Ability One:</b> Pressure
+<b>Ability Two:</b> Volt Absorb
+</code></pre>
+
+**#244 Entei**
+
+<pre><code><b>Item:</b> Custap Berry (100%)
+<b>Ability One:</b> Pressure
+<b>Ability Two:</b> Flash Fire
+</code></pre>
+
+**#245 Suicune**
+
+<pre><code><b>Item:</b> Rowap Berry (100%)
+<b>Ability One:</b> Pressure
+<b>Ability Two:</b> Water Absorb
+</code></pre>
+
+**#246 Larvitar**
+
+<pre><code><b>Ability One:</b> Guts
+<b>Ability Two:</b> Hustle
+</code></pre>
+
+**#247 Pupitar**
+
+<pre><code><b>Ability One:</b> Shed Skin
+<b>Ability Two:</b> Battle Armor
+</code></pre>
+
+**#248 Tyranitar**
+
+<pre><code><b>Ability One:</b> Sand Stream
+<b>Ability Two:</b> Battle Armor
+</code></pre>
+
+**#249 Lugia**
+
+<pre><code><b>Item:</b> Ganlon Berry (100%)
+<b>Ability One:</b> Pressure
+<b>Ability Two:</b> Multiscale
+</code></pre>
+
+**#250 Ho-oh**
+
+<pre><code><b>Ability One:</b> Pressure
+<b>Ability Two:</b> Regenerator
+</code></pre>
+
+**#251 Celebi**
+
+<pre><code><b>Item:</b> Jaboca Berry (100%)
+<b>Ability One:</b> Natural Cure
+<b>Ability Two:</b> Magic Guard
+</code></pre>
+
+## Hoenn Pokémon
+
+**#252 Treecko - #254 Sceptile**
+
+<pre><code><b>Item:</b> Miracle Seed (50%)
+<b>Ability One:</b> Overgrow
+<b>Ability Two:</b> Adaptability
+</code></pre>
+
+**#255 Torchic - #257 Blaziken**
+
+<pre><code><b>Item:</b> Charcoal (50%)
+<b>Ability One:</b> Blaze
+<b>Ability Two:</b> Speed Boost
+</code></pre>
+
+**#258 Mudkip - #260 Swampert**
+
+<pre><code><b>Item:</b> Mystic Water (50%)
+<b>Ability One:</b> Torrent
+<b>Ability Two:</b> Mold Breaker
+</code></pre>
+
+**#261 Poochyena**
+
+<pre><code><b>Ability One:</b> Rattled
+<b>Ability Two:</b> Quick Feet
+</code></pre>
+
+**#262 Mightyena**
+
+<pre><code><b>Attack:</b> 90 → 105
+<b>Total:</b> 420 → 435
+<b>Ability One:</b> Intimidate
+<b>Ability Two:</b> Moxie
+</code></pre>
+
+**#263 Zigzagoon**
+
+<pre><code><b>Ability One:</b> Pickup
+<b>Ability Two:</b> Gluttony
+</code></pre>
+
+**#264 Linoone**
+
+<pre><code><b>Attack:</b> 70 → 85
+<b>Total:</b> 420 → 435
+<b>Ability One:</b> Pickup
+<b>Ability Two:</b> Quick Feet
+</code></pre>
+
+**#265 Wurmple**
+
+<pre><code><b>Ability One:</b> Shield Dust
+<b>Ability Two:</b> Run Away
+</code></pre>
+
+**#266 Silcoon**
+
+<pre><code><b>Ability One:</b> Shed Skin
+<b>Ability Two:</b> Battle Armor
+</code></pre>
+
+**#267 Beautifly**
+
+<pre><code><b>Special Attack:</b> 90 → 105
+<b>Speed:</b> 65 → 85
+<b>Total:</b> 385 → 420
+<b>Ability One:</b> Swarm
+<b>Ability Two:</b> Shield Dust
+</code></pre>
+
+**#268 Silcoon**
+
+<pre><code><b>Ability One:</b> Shed Skin
+<b>Ability Two:</b> Battle Armor
+</code></pre>
+
+**#269 Dustox**
+
+<pre><code><b>Special Defense:</b> 90 → 105
+<b>Speed:</b> 65 → 85
+<b>Total:</b> 385 → 420
+<b>Ability One:</b> Shield Dust
+<b>Ability Two:</b> Compoundeyes
+</code></pre>
+
+**#270 Lotad**
+
+<pre><code><b>Ability One:</b> Swift Swim
+<b>Ability Two:</b> Rain Dish
+</code></pre>
+
+**#271 Lombre**
+
+<pre><code><b>Ability One:</b> Swift Swim
+<b>Ability Two:</b> Rain Dish
+</code></pre>
+
+**#272 Ludicolo**
+
+<pre><code><b>Ability One:</b> Swift Swim
+<b>Ability Two:</b> Rain Dish
+</code></pre>
+
+**#273 Seedot**
+
+<pre><code><b>Ability One:</b> Pickpocket
+<b>Ability Two:</b> Early Bird
+</code></pre>
+
+**#274 Nuzleaf**
+
+<pre><code><b>Ability One:</b> Pickpocket
+<b>Ability Two:</b> Early Bird
+</code></pre>
+
+**#275 Shiftry**
+
+<pre><code><b>Ability One:</b> Pickpocket
+<b>Ability Two:</b> Early Bird
+</code></pre>
+
+**#276 Taillow**
+
+<pre><code><b>TM:</b> Now learns TM62 Acrobatics.
+<b>Ability One:</b> Unburden
+<b>Ability Two:</b> Scrappy
+</code></pre>
+
+**#277 Swellow**
+
+<pre><code><b>HP:</b> 60 → 70
+<b>Attack:</b> 85 → 100
+<b>Total:</b> 430 → 455
+<b>TM:</b> Now learns TM62 Acrobatics.
+<b>Ability One:</b> Unburden
+<b>Ability Two:</b> Scrappy
+</code></pre>
+
+**#278 Wingull**
+
+<pre><code><b>Ability One:</b> Keen Eye
+<b>Ability Two:</b> Infiltrator
+</code></pre>
+
+**#279 Pelipper**
+
+<pre><code><b>Defense:</b> 100 → 120
+<b>Special Attack:</b> 85 → 100
+<b>Stat Total:</b> 430 → 465
+<b>Ability One:</b> Keen Eye
+<b>Ability Two:</b> Rain Dish
+</code></pre>
+
+**#280 Ralts**
+
+<pre><code><b>Special Attack:</b> 45 → 65
+<b>Total:</b> 198 → 218
+<b>Ability One:</b> Synchronize
+<b>Ability Two:</b> Trace
+</code></pre>
+
+**#281 Kirlia**
+
+<pre><code><b>Special Attack:</b> 65 → 95
+<b>Total:</b> 278 → 308
+<b>Ability One:</b> Synchronize
+<b>Ability Two:</b> Trace
+</code></pre>
+
+**#282 Gardevoir**
+
+<pre><code><b>Ability One:</b> Synchronize
+<b>Ability Two:</b> Trace
+</code></pre>
+
+**#283 Surskit**
+
+<pre><code><b>Ability One:</b> Swift Swim
+<b>Ability Two:</b> Rain Dish
+<b>HM:</b> Can now learn HM03, Surf.
+</code></pre>
+
+**#284 Masquerain**
+
+<pre><code><b>Type:</b> Bug / Water
+<b>HP:</b> 70 → 70
+<b>Attack:</b> 60 → 60
+<b>Defense:</b> 62 → 62
+<b>Special Attack:</b> 80 → 100
+<b>Special Defense:</b> 82 → 102
+<b>Speed:</b> 60 → 90
+<b>Total:</b> 414 → 484
+<b>Base EXP:</b> 145 → 200
+<b>HM:</b> Can now learn HM03, Surf and HM05, Waterfall.
+<b>Ability One:</b> Levitate
+<b>Ability Two:</b> Levitate
+</code></pre>
+
+**#285 Shroomish**
+
+<pre><code><b>Ability One:</b> Effect Spore
+<b>Ability Two:</b> Poison Heal
+</code></pre>
+
+**#286 Breloom**
+
+<pre><code><b>Ability One:</b> Technician
+<b>Ability Two:</b> Poison Heal
+</code></pre>
+
+**#287 Slakoth**
+
+<pre><code><b>Ability One:</b> Truant
+<b>Ability Two:</b> Slow Start
+</code></pre>
+
+**#288 Vigoroth**
+
+<pre><code><b>Attack:</b> 80 → 100
+<b>Total:</b> 440 → 460
+<b>Ability One:</b> Vital Spirit
+<b>Ability Two:</b> Sheer Force
+</code></pre>
+
+**#289 Slaking**
+
+<pre><code><b>Ability One:</b> Truant
+<b>Ability Two:</b> Slow Start
+</code></pre>
+
+**#290 Nincada**
+
+<pre><code><b>Ability One:</b> Compoundeyes
+<b>Ability Two:</b> Anticipation
+</code></pre>
+
+**#291 Ninjask**
+
+<pre><code><b>Ability One:</b> Speed Boost
+<b>Ability Two:</b> Infiltrator
+</code></pre>
+
+**#292 Shedinja**
+
+<pre><code><b>Ability One:</b> Wonder Guard
+<b>Ability Two:</b> Wonder Guard
+</code></pre>
+
+**#293 Whismur**
+
+<pre><code><b>Ability One:</b> Soundproof
+<b>Ability Two:</b> Rattled
+</code></pre>
+
+**#294 Loudred - #295 Exploud**
+
+<pre><code><b>Ability One:</b> Soundproof
+<b>Ability Two:</b> Scrappy
+</code></pre>
+
+**#296 Makuhita - #297 Hariyama**
+
+<pre><code><b>Ability One:</b> Thick Fat
+<b>Ability Two:</b> Sheer Force
+</code></pre>
+
+**#298 Azurill**
+
+<pre><code><b>Ability One:</b> Sap Sipper
+<b>Ability Two:</b> Huge Power
+</code></pre>
+
+**#299 Nosepass**
+
+<pre><code><b>Ability One:</b> Sturdy
+<b>Ability Two:</b> Magnet Pull
+</code></pre>
+
+**#300 Skitty**
+
+<pre><code><b>Ability One:</b> Normalize
+<b>Ability Two:</b> Wonder Skin
+</code></pre>
+
+**#301 Delcatty**
+
+<pre><code><b>Attack:</b> 65 → 75
+<b>Special Attack:</b> 55 → 95
+<b>Speed:</b> 70 → 90
+<b>Total:</b> 380 → 450
+<b>Ability One:</b> Normalize
+<b>Ability Two:</b> Wonder Skin
+</code></pre>
+
+**#302 Sableye**
+
+<pre><code><b>HP:</b> 50 → 70
+<b>Attack:</b> 75 → 95
+<b>Defense:</b> 75 → 95
+<b>Special Defense:</b> 65 → 85
+<b>Total:</b> 380 → 460
+<b>Base EXP:</b> 133 → 197
+<b>Ability One:</b> Prankster
+<b>Ability Two:</b> Analytic
+</code></pre>
+
+**#303 Mawile**
+
+<pre><code><b>HP:</b> 50 → 70
+<b>Attack:</b> 85 → 105
+<b>Defense:</b> 85 → 90
+<b>Special Defense:</b> 55 → 90
+<b>Total:</b> 380 → 460
+<b>Base EXP:</b> 133 → 197
+<b>Ability One:</b> Sheer Force
+<b>Ability Two:</b> Intimidate
+</code></pre>
+
+**#304 Aron - #306 Aggron**
+
+<pre><code><b>Ability One:</b> Sturdy
+<b>Ability Two:</b> Rock Head
+</code></pre>
+
+**#307 Meditite - #308 Medicham**
+
+<pre><code><b>Ability One:</b> Pure Power
+<b>Ability Two:</b> Telepathy
+</code></pre>
+
+**#309 Electrike - #310 Manectric**
+
+<pre><code><b>Ability One:</b> Static
+<b>Ability Two:</b> Lightningrod
+</code></pre>
+
+**#311 Plusle**
+
+<pre><code><b>Ability One:</b> Plus
+<b>Ability Two:</b> Plus
+</code></pre>
+
+**#312 Minun**
+
+<pre><code><b>Ability One:</b> Minus
+<b>Ability Two:</b> Minus
+</code></pre>
+
+**#313 Volbeat**
+
+<pre><code><b>Type:</b> Bug / Electric
+<b>HP:</b> 65 → 80
+<b>Attack:</b> 73 → 30
+<b>Defense:</b> 55 → 60
+<b>Special Attack:</b> 47 → 90
+<b>Special Defense:</b> 75 → 80
+<b>Speed:</b> 85 → 90
+<b>Stat Total:</b> 400 → 430
+<b>Base EXP:</b> 140 → 195
+<b>Ability One:</b> Prankster
+<b>Ability Two:</b> Swarm
+</code></pre>
+
+**#314 Illumise**
+
+<pre><code><b>Type:</b> Bug / Electric
+<b>HP:</b> 65 → 80
+<b>Attack:</b> 73 → 30
+<b>Defense:</b> 55 → 60
+<b>Special Attack:</b> 47 → 80
+<b>Special Defense:</b> 75 → 90
+<b>Speed:</b> 85 → 90
+<b>Stat Total:</b> 400 → 430
+<b>Max EXP:</b> 1,640,000 → 600,000
+<b>Base EXP:</b> 140 → 195
+<b>Ability One:</b> Prankster
+<b>Ability Two:</b> Tinted Lens
+</code></pre>
+
+**#315 Roselia**
+
+<pre><code><b>Ability One:</b> Natural Cure
+<b>Ability Two:</b> Poison Point
+</code></pre>
+
+**#316 Gulpin**
+
+<pre><code><b>Ability One:</b> Liquid Ooze
+<b>Ability Two:</b> Gluttony
+</code></pre>
+
+**#317 Swalot**
+
+<pre><code><b>Special Attack:</b> 73 → 103
+<b>Total:</b> 467 → 497
+<b>Ability One:</b> Liquid Ooze
+<b>Ability Two:</b> Gluttony
+</code></pre>
+
+**#318 Carvanha - #319 Sharpedo**
+
+<pre><code><b>Ability One:</b> Rough Skin
+<b>Ability Two:</b> Speed Boost
+</code></pre>
+
+**#320 Wailmer - #321 Wailord**
+
+<pre><code><b>Ability One:</b> Thick Fat
+<b>Ability Two:</b> Drizzle
+</code></pre>
+
+**#322 Numel**
+
+<pre><code><b>Ability One:</b> Own Tempo
+<b>Ability Two:</b> Simple
+</code></pre>
+
+**#323 Camerupt**
+
+<pre><code><b>Ability One:</b> Drought
+<b>Ability Two:</b> Solid Rock
+</code></pre>
+
+**#324 Torkoal**
+
+<pre><code><b>Attack:</b> 85 → 100
+<b>Special Attack:</b> 85 → 100
+<b>Total:</b> 470 → 500
+<b>Ability One:</b> White Smoke
+<b>Ability Two:</b> Sturdy
+</code></pre>
+
+**#325 Spoink - #326 Grumpig**
+
+<pre><code><b>Ability One:</b> Thick Fat
+<b>Ability Two:</b> Own Tempo
+</code></pre>
+
+**#327 Spinda**
+
+<pre><code><b>HP:</b> 60 → 80
+<b>Attack:</b> 60 → 80
+<b>Defense:</b> 60 → 80
+<b>Special Attack:</b> 60 → 80
+<b>Special Defense:</b> 60 → 80
+<b>Speed:</b> 60 → 80
+<b>Total:</b> 360 → 480
+<b>Base EXP:</b> 126 → 200
+<b>Ability One:</b> Own Tempo
+<b>Ability Two:</b> Contrary
+</code></pre>
+
+**#328 Trapinch**
+
+<pre><code><b>Ability One:</b> Hyper Cutter
+<b>Ability Two:</b> Sheer Force
+</code></pre>
+
+**#329 Vibrava**
+
+<pre><code><b>Ability One:</b> Levitate
+<b>Ability Two:</b> Levitate
+</code></pre>
+
+**#330 Flygon**
+
+<pre><code><b>Attack:</b> 100 → 110
+<b>Defense:</b> 80 → 75
+<b>Special Attack:</b> 80 → 110
+<b>Special Defense:</b> 80 → 75
+<b>Total:</b> 520 → 550
+<b>Base EXP:</b> 234 → 243
+<b>Ability One:</b> Levitate
+<b>Ability Two:</b> Levitate
+</code></pre>
+
+**#331 Cacnea - #332 Cacturne**
+
+<pre><code><b>Ability One:</b> Sand Veil
+<b>Ability Two:</b> Water Absorb
+</code></pre>
+
+**#333 Swablu**
+
+<pre><code><b>TM:</b> Now learns TM62 Acrobatics.
+<b>Ability One:</b> Natural Cure
+<b>Ability Two:</b> Cloud Nine
+</code></pre>
+
+**#334 Altaria**
+
+<pre><code><b>Special Attack:</b> 70 → 100
+<b>Total:</b> 490 → 520
+<b>Base EXP:</b> 172 → 203
+<b>TM:</b> Now learns TM58 Sky Drop and TM62 Acrobatics.
+<b>Ability One:</b> Natural Cure
+<b>Ability Two:</b> Cloud Nine
+</code></pre>
+
+**#335 Zangoose**
+
+<pre><code><b>Abilities:</b> Immunity, Toxic Boost.
+<b>Ability One:</b> Immunity
+<b>Ability Two:</b> Toxic Boost
+</code></pre>
+
+**#336 Seviper**
+
+<pre><code><b>Ability One:</b> Shed Skin
+<b>Ability Two:</b> Infiltrator
+</code></pre>
+
+**#337 Lunatone**
+
+<pre><code><b>Special Attack:</b> 95 → 115
+<b>Total:</b> 440 → 460
+<b>Ability One:</b> Levitate
+<b>Ability Two:</b> Levitate
+</code></pre>
+
+**#338 Solrock**
+
+<pre><code><b>Attack:</b> 95 → 115
+<b>Total:</b> 440 → 460
+<b>Ability One:</b> Levitate
+<b>Ability Two:</b> Levitate
+</code></pre>
+
+**#339 Barboach**
+
+<pre><code><b>Ability One:</b> Forewarn
+<b>Ability Two:</b> Simple
+</code></pre>
+
+**#340 Whiscash**
+
+<pre><code><b>Attack:</b> 78 → 98
+<b>Total:</b> 468 → 488
+<b>Ability One:</b> Forewarn
+<b>Ability Two:</b> Simple
+</code></pre>
+
+**#341 Corphish - #342 Crawdaunt**
+
+<pre><code><b>Ability One:</b> Hyper Cutter
+<b>Ability Two:</b> Adaptability
+</code></pre>
+
+**#343 Baltoy**
+
+<pre><code><b>Ability One:</b> Levitate
+<b>Ability Two:</b> Levitate
+</code></pre>
+
+**#344 Claydol**
+
+<pre><code><b>Item:</b> Life Orb (5%)
+<b>HM:</b> Can now learn HM02, Fly.
+<b>Ability One:</b> Levitate
+<b>Ability Two:</b> Levitate
+</code></pre>
+
+**#345 Lileep - #346 Cradily**
+
+<pre><code><b>Ability One:</b> Suction Cups
+<b>Ability Two:</b> Storm Drain
+</code></pre>
+
+**#347 Anorith - #348 Armaldo**
+
+<pre><code><b>Ability One:</b> Battle Armor
+<b>Ability Two:</b> Swift Swim
+</code></pre>
+
+**#349 Feebas**
+
+<pre><code><b>Evolution:</b> Use the Prism Scale.
+<b>Ability One:</b> Swift Swim
+<b>Ability Two:</b> Adaptability
+</code></pre>
+
+**#350 Milotic**
+
+<pre><code><b>Ability One:</b> Marvel Scale
+<b>Ability Two:</b> Multiscale
+</code></pre>
+
+**#351 Castform**
+
+<pre><code><b>HP:</b> 60 → 80
+<b>Attack:</b> 60 → 80
+<b>Special Attack:</b> 60 → 100
+<b>Speed:</b> 60 → 100
+<b>Total:</b> 360 → 500
+<b>Base EXP:</b> 147 → 202
+<b>Ability One:</b> Forecast
+<b>Ability Two:</b> Forecast
+</code></pre>
+
+**#352 Kecleon**
+
+<pre><code><b>HP:</b> 60 → 100
+<b>Total:</b> 440 → 480
+<b>Ability One:</b> Colour Change
+<b>Ability Two:</b> Colour Change
+</code></pre>
+
+**#353 Shuppet**
+
+<pre><code><b>Ability One:</b> Insomnia
+<b>Ability Two:</b> Cursed Body
+</code></pre>
+
+**#354 Banette**
+
+<pre><code><b>Attack:</b> 115 → 130
+<b>Speed:</b> 65 → 80
+<b>Total:</b> 455 → 485
+<b>Ability One:</b> Insomnia
+<b>Ability Two:</b> Cursed Body
+</code></pre>
+
+**#355 Duskull**
+
+<pre><code><b>Ability One:</b> Levitate
+<b>Ability Two:</b> Levitate
+</code></pre>
+
+**#356 Dusclops**
+
+<pre><code><b>Evolution:</b> Use the Reaper Cloth.
+<b>Ability One:</b> Pressure
+<b>Ability Two:</b> Cursed Body
+</code></pre>
+
+**#357 Tropius**
+
+<pre><code><b>HP:</b> 99 → 110
+<b>Attack:</b> 68 → 85
+<b>Defense:</b> 83 → 90
+<b>Special Attack:</b> 72 → 90
+<b>Special Defense:</b> 87 → 90
+<b>Speed:</b> 51 → 70
+<b>Total:</b> 460 → 535
+<b>Base EXP:</b> 161 → 238
+<b>Ability One:</b> Chlorophyll
+<b>Ability Two:</b> Harvest
+</code></pre>
+
+**#358 Chimecho**
+
+<pre><code><b>HP:</b> 65 → 70
+<b>Defense:</b> 70 → 80
+<b>Special Attack:</b> 95 → 110
+<b>Special Defense:</b> 80 → 100
+<b>Speed:</b> 65 → 90
+<b>Total:</b> 425 → 500
+<b>Base EXP:</b> 149 → 199
+<b>Ability One:</b> Levitate
+<b>Ability Two:</b> Levitate
+</code></pre>
+
+**#359 Absol**
+
+<pre><code><b>Ability One:</b> Justified
+<b>Ability Two:</b> Super Luck
+</code></pre>
+
+**#360 Wynaut**
+
+<pre><code><b>Ability One:</b> Shadow Tag
+<b>Ability Two:</b> Telepathy
+</code></pre>
+
+**#361 Snorunt**
+
+<pre><code><b>Ability One:</b> Ice Body
+<b>Ability Two:</b> Moody
+</code></pre>
+
+**#362 Glalie**
+
+<pre><code><b>Type:</b> Ice / Rock
+<b>TM:</b> Can now learn TM23 Smack Down, TM37 Sandstorm, TM69 Rock Polish, TM71 Stone Edge and TM80 Rock Slide.
+<b>HP:</b> 80 → 100
+<b>Attack:</b> 80 → 100
+<b>Defense:</b> 80 → 120
+<b>Special Attack:</b> 80 → 60
+<b>Special Defense:</b> 80 → 60
+<b>Speed:</b> 80 → 60
+<b>Total:</b> 480 → 500
+<b>Base EXP:</b> 168 → 189
+<b>Ability One:</b> Solid Rock
+<b>Ability Two:</b> Moody
+</code></pre>
+
+**#363 Spheal - #365 Walrein**
+
+<pre><code><b>Ability One:</b> Thick Fat
+<b>Ability Two:</b> Ice Body
+</code></pre>
+
+**#366 Clamperl**
+
+<pre><code><b>Evolution (Huntail):</b> Level Up at Night with a DeepSeaTooth equipped.
+<b>Evolution (Gorebyss):</b> Level Up at Night with a DeepSeaScale equipped.
+<b>Ability One:</b> Shell Armor
+<b>Ability Two:</b> Rattled
+</code></pre>
+
+**#367 Huntail**
+
+<pre><code><b>Ability One:</b> Swift Swim
+<b>Ability Two:</b> Sheer Force
+</code></pre>
+
+**#368 Gorebyss**
+
+<pre><code><b>Ability One:</b> Swift Swim
+<b>Ability Two:</b> Storm Drain
+</code></pre>
+
+**#369 Relicanth**
+
+<pre><code><b>Ability One:</b> Sturdy
+<b>Ability Two:</b> Rock Head
+</code></pre>
+
+**#370 Luvdisc**
+
+<pre><code><b>HP:</b> 43 → 50
+<b>Attack:</b> 30 → 35
+<b>Defense:</b> 55 → 60
+<b>Special Attack:</b> 40 → 100
+<b>Special Defense:</b> 65 → 80
+<b>Speed:</b> 97 → 125
+<b>Total:</b> 330 → 450
+<b>Base EXP:</b> 116 → 200
+<b>Item:</b> Heart Scale (100%)
+<b>Ability One:</b> Swift Swim
+<b>Ability Two:</b> Hydration
+</code></pre>
+
+**#371 Bagon**
+
+<pre><code><b>Ability One:</b> Rock Head
+<b>Ability Two:</b> Sheer Force
+</code></pre>
+
+**#372 Shelgon**
+
+<pre><code><b>Ability One:</b> Rock Head
+<b>Ability Two:</b> Overcoat
+</code></pre>
+
+**#373 Salamence**
+
+<pre><code><b>Ability One:</b> Intimidate
+<b>Ability Two:</b> Moxie
+</code></pre>
+
+**#374 Beldum - #375 Metang**
+
+<pre><code><b>Ability One:</b> Levitate
+<b>Ability Two:</b> Levitate
+</code></pre>
+
+**#376 Metagross**
+
+<pre><code><b>HM:</b> Can now learn HM02, Fly.
+<b>Ability One:</b> Iron Fist
+<b>Ability Two:</b> Analytic
+</code></pre>
+
+**#377 Regirock**
+
+<pre><code><b>Ability One:</b> Clear Body
+<b>Ability Two:</b> Solid Rock
+</code></pre>
+
+**#378 Regice**
+
+<pre><code><b>Ability One:</b> Clear Body
+<b>Ability Two:</b> Heatproof
+</code></pre>
+
+**#379 Registeel**
+
+<pre><code><b>Ability One:</b> Clear Body
+<b>Ability Two:</b> Sturdy
+</code></pre>
+
+**#380 Latias**
+
+<pre><code><b>Ability One:</b> Levitate
+<b>Ability Two:</b> Levitate
+</code></pre>
+
+**#381 Latios**
+
+<pre><code><b>Ability One:</b> Levitate
+<b>Ability Two:</b> Levitate
+</code></pre>
+
+**#382 Kyogre**
+
+<pre><code><b>Ability One:</b> Drizzle
+<b>Ability Two:</b> Drizzle
+</code></pre>
+
+**#383 Groudon**
+
+<pre><code><b>Ability One:</b> Drought
+<b>Ability Two:</b> Drought
+</code></pre>
+
+**#384 Rayquaza**
+
+<pre><code><b>Ability One:</b> Air Lock
+<b>Ability Two:</b> Air Lock
+</code></pre>
+
+**#385 Jirachi**
+
+<pre><code><b>Ability One:</b> Serene Grace
+<b>Ability Two:</b> Magic Guard
+</code></pre>
+
+**#386 Deoxys**
+
+<pre><code><b>Ability One:</b> Pressure
+<b>Ability Two:</b> Pressure
+</code></pre>
+
+## Sinnoh Pokémon
+
+**#387 Turtwig - #389 Torterra**
+
+<pre><code><b>Item:</b> Miracle Seed (50%)
+<b>Ability One:</b> Overgrow
+<b>Ability Two:</b> Sturdy
+</code></pre>
+
+**#390 Chimchar - #392 Infernape**
+
+<pre><code><b>Item:</b> Charcoal (50%)
+<b>Ability One:</b> Blaze
+<b>Ability Two:</b> Iron Fist
+</code></pre>
+
+**#393 Piplup - #395 Empoleon**
+
+<pre><code><b>Item:</b> Mystic Water (50%)
+<b>Ability One:</b> Torrent
+<b>Ability Two:</b> Defiant
+</code></pre>
+
+**#396 Starly**
+
+<pre><code><b>TM:</b> Now learns TM62, Acrobatics.
+<b>Ability One:</b> Keen Eye
+<b>Ability Two:</b> Keen Eye
+</code></pre>
+
+**#397 Staravia**
+
+<pre><code><b>TM:</b> Now learns TM62, Acrobatics.
+<b>Ability One:</b> Intimidate
+<b>Ability Two:</b> Reckless
+</code></pre>
+
+**#398 Staraptor**
+
+<pre><code><b>TM:</b> Now learns TM62, Acrobatics.
+<b>HP:</b> 85 → 100
+<b>Defense:</b> 70 → 80
+<b>Total:</b> 475 → 500
+<b>Ability One:</b> Intimidate
+<b>Ability Two:</b> Reckless
+</code></pre>
+
+**#399 Bidoof**
+
+<pre><code><b>Ability One:</b> Simple
+<b>Ability Two:</b> Moody
+</code></pre>
+
+**#400 Bibarel**
+
+<pre><code><b>HP:</b> 79 → 89
+<b>Attack:</b> 85 → 95
+<b>Special Attack:</b> 55 → 60
+<b>Total:</b> 410 → 435
+<b>Ability One:</b> Simple
+<b>Ability Two:</b> Moody
+</code></pre>
+
+**#401 Kricketot**
+
+<pre><code><b>Ability One:</b> Shed Skin
+<b>Ability Two:</b> Run Away
+</code></pre>
+
+**#402 Kricketune**
+
+<pre><code><b>Attack:</b> 85 → 104
+<b>Speed:</b> 65 → 87
+<b>Total:</b> 384 → 425
+<b>Base EXP:</b> 134 → 158
+<b>Ability One:</b> Swarm
+<b>Ability Two:</b> Technician
+</code></pre>
+
+**#403 Shinx**
+
+<pre><code><b>Ability One:</b> Guts
+<b>Ability Two:</b> Intimidate
+</code></pre>
+
+**#404 Luxio**
+
+<pre><code><b>Type:</b> Electric / Dark
+<b>Ability One:</b> Guts
+<b>Ability Two:</b> Intimidate
+</code></pre>
+
+**#405 Luxray**
+
+<pre><code><b>Type:</b> Electric / Dark
+<b>Speed:</b> 70 → 82
+<b>Total:</b> 523 → 535
+<b>Ability One:</b> Guts
+<b>Ability Two:</b> Intimidate
+</code></pre>
+
+**#406 Budew**
+
+<pre><code><b>Base Happiness:</b> 200.
+<b>Ability One:</b> Natural Cure
+<b>Ability Two:</b> Leaf Guard
+</code></pre>
+
+**#407 Roserade**
+
+<pre><code><b>Defense:</b> 55 → 65
+<b>Speed:</b> 90 → 100
+<b>Total:</b> 505 → 525
+<b>Ability One:</b> Natural Cure
+<b>Ability Two:</b> Technician
+</code></pre>
+
+**#408 Cranidos - #409 Rampardos**
+
+<pre><code><b>Ability One:</b> Mold Breaker
+<b>Ability Two:</b> Sheer Force
+</code></pre>
+
+**#410 Shieldon - #411 Bastiodon**
+
+<pre><code><b>Ability One:</b> Sturdy
+<b>Ability Two:</b> Soundproof
+</code></pre>
+
+**#412 Burmy**
+
+<pre><code><b>Ability One:</b> Shed Skin
+<b>Ability Two:</b> Overcoat
+</code></pre>
+
+**#413 Wormadam (Plant)**
+
+<pre><code><b>Special Attack:</b> 79 → 99
+<b>Special Defense:</b> 105 → 125
+<b>Total:</b> 424 → 464
+<b>Ability One:</b> Anticipation
+<b>Ability Two:</b> Leaf Guard
+</code></pre>
+
+**#413 Wormadam (Sandy)**
+
+<pre><code><b>Attack:</b> 79 → 99
+<b>Defense:</b> 105 → 125
+<b>Total:</b> 424 → 464
+<b>Ability One:</b> Anticipation
+<b>Ability Two:</b> Sand Veil
+</code></pre>
+
+**#413 Wormadam (Trash)**
+
+<pre><code><b>Defense:</b> 95 → 115
+<b>Special Defense:</b> 95 → 115
+<b>Total:</b> 424 → 464
+<b>Ability One:</b> Anticipation
+<b>Ability Two:</b> Sturdy
+</code></pre>
+
+**#414 Mothim**
+
+<pre><code><b>Special Attack:</b> 94 → 104
+<b>Special Defense:</b> 66 → 96
+<b>Total:</b> 424 → 464
+<b>Ability One:</b> Swarm
+<b>Ability Two:</b> Tinted Lens
+</code></pre>
+
+**#415 Combee**
+
+<pre><code><b>Ability One:</b> Honey Gather
+<b>Ability Two:</b> Hustle
+</code></pre>
+
+**#416 Vespiquen**
+
+<pre><code><b>Ability One:</b> Pressure
+<b>Ability Two:</b> Intimidate
+</code></pre>
+
+**#417 Pachirisu**
+
+<pre><code><b>Special Attack:</b> 45 → 100
+<b>Total:</b> 405 → 460
+<b>Base EXP:</b> 142 → 161
+<b>Ability One:</b> Volt Absorb
+<b>Ability Two:</b> Pickup
+</code></pre>
+
+**#418 Buizel - #419 Floatzel**
+
+<pre><code><b>Ability One:</b> Swift Swim
+<b>Ability Two:</b> Technician
+</code></pre>
+
+**#420 Cherubi**
+
+<pre><code><b>Ability One:</b> Chlorophyll
+<b>Ability Two:</b> Healer
+</code></pre>
+
+**#421 Cherrim**
+
+<pre><code><b>Special Attack:</b> 87 → 107
+<b>Speed:</b> 85 → 95
+<b>Total:</b> 450 → 480
+<b>Ability One:</b> Flower Gift
+<b>Ability Two:</b> Flower Gift
+</code></pre>
+
+**#422 Shellos - #423 Gastrodon**
+
+<pre><code><b>Ability One:</b> Sticky Hold
+<b>Ability Two:</b> Storm Drain
+</code></pre>
+
+**#424 Ambipom**
+
+<pre><code><b>Ability One:</b> Technician
+<b>Ability Two:</b> Pickup
+</code></pre>
+
+**#425 Drifloon - #426 Drifblim**
+
+<pre><code><b>Ability One:</b> Flare Boost
+<b>Ability Two:</b> Unburden
+</code></pre>
+
+**#427 Buneary**
+
+<pre><code><b>Base Happiness:</b> 140
+<b>Ability One:</b> Klutz
+<b>Ability Two:</b> Limber
+</code></pre>
+
+**#428 Lopunny**
+
+<pre><code><b>Ability One:</b> Cute Charm
+<b>Ability Two:</b> Limber
+</code></pre>
+
+**#429 Mismagius**
+
+<pre><code><b>HP:</b> 60 → 70
+<b>Attack:</b> 60 → 70
+<b>Defense:</b> 60 → 70
+<b>Total:</b> 495 → 525
+<b>Base EXP:</b> 173 → 201
+<b>Ability One:</b> Levitate
+<b>Ability Two:</b> Levitate
+</code></pre>
+
+**#430 Honchkrow**
+
+<pre><code><b>HP:</b> 100 → 120
+<b>Total:</b> 505 → 525
+<b>Base EXP:</b> 177 → 205
+<b>Ability One:</b> Moxie
+<b>Ability Two:</b> Super Luck
+</code></pre>
+
+**#431 Glameow**
+
+<pre><code><b>Ability One:</b> Limber
+<b>Ability Two:</b> Own Tempo
+</code></pre>
+
+**#432 Purugly**
+
+<pre><code><b>HP:</b> 71 → 89
+<b>Attack:</b> 82 → 91
+<b>Total:</b> 452 → 479
+<b>Base EXP:</b> 158 → 168
+<b>Ability One:</b> Thick Fat
+<b>Ability Two:</b> Defiant
+</code></pre>
+
+**#433 Chingling**
+
+<pre><code><b>Base Happiness:</b> 200.
+<b>Ability One:</b> Levitate
+<b>Ability Two:</b> Levitate
+</code></pre>
+
+**#434 Stunky - #435 Skuntank**
+
+<pre><code><b>Ability One:</b> Stench
+<b>Ability Two:</b> Aftermath
+</code></pre>
+
+**#436 Bronzor**
+
+<pre><code><b>Ability One:</b> Levitate
+<b>Ability Two:</b> Heatproof
+</code></pre>
+
+**#437 Bronzong**
+
+<pre><code><b>HM:</b> Can now learn HM02, Fly.
+<b>Ability One:</b> Levitate
+<b>Ability Two:</b> Heatproof
+</code></pre>
+
+**#438 Bonsly**
+
+<pre><code><b>Ability One:</b> Sturdy
+<b>Ability Two:</b> Rattled
+</code></pre>
+
+**#439 Mime Jr.**
+
+<pre><code><b>Ability One:</b> Technician
+<b>Ability Two:</b> Filter
+</code></pre>
+
+**#440 Happiny**
+
+<pre><code><b>Evolution:</b> Use the Oval Stone.
+<b>Base Happiness:</b> 160
+<b>Ability One:</b> Natural Cure
+<b>Ability Two:</b> Friend Guard
+</code></pre>
+
+**#441 Chatot**
+
+<pre><code><b>Defense:</b> 45 → 56
+<b>Special Attack:</b> 92 → 112
+<b>Special Defense:</b> 42 → 55
+<b>Speed:</b> 91 → 111
+<b>Total:</b> 411 → 475
+<b>Base EXP:</b> 144 → 192
+<b>Ability One:</b> Moody
+<b>Ability Two:</b> Tangled Feet
+</code></pre>
+
+**#442 Spiritomb**
+
+<pre><code><b>Ability One:</b> Pressure
+<b>Ability Two:</b> Cursed Body
+</code></pre>
+
+**#443 Gible - #444 Gabite**
+
+<pre><code><b>Ability One:</b> Sand Veil
+<b>Ability Two:</b> Rough Skin
+</code></pre>
+
+**#445 Garchomp**
+
+<pre><code><b>HM:</b> Can now learn HM02, Fly.
+<b>Ability One:</b> Sand Veil
+<b>Ability Two:</b> Rough Skin
+</code></pre>
+
+**#446 Munchlax**
+
+<pre><code><b>Base Happiness:</b> 180
+<b>Ability One:</b> Gluttony
+<b>Ability Two:</b> Thick Fat
+</code></pre>
+
+**#447 Riolu**
+
+<pre><code><b>Base Happiness:</b> 180
+<b>Ability One:</b> Steadfast
+<b>Ability Two:</b> Prankster
+</code></pre>
+
+**#448 Lucario**
+
+<pre><code><b>Ability One:</b> Steadfast
+<b>Ability Two:</b> Justified
+</code></pre>
+
+**#449 Hippopotas - #450 Hippowdon**
+
+<pre><code><b>Ability One:</b> Sand Stream
+<b>Ability Two:</b> Sand Force
+</code></pre>
+
+**#451 Skorupi - #452 Drapion**
+
+<pre><code><b>Ability One:</b> Battle Armor
+<b>Ability Two:</b> Sniper
+</code></pre>
+
+**#453 Croagunk - #454 Toxicroak**
+
+<pre><code><b>Ability One:</b> Poison Touch
+<b>Ability Two:</b> Dry Skin
+</code></pre>
+
+**#455 Carnivine**
+
+<pre><code><b>Attack:</b> 100 → 120
+<b>Speed:</b> 46 → 86
+<b>Total:</b> 420 → 480
+<b>Ability One:</b> Levitate
+<b>Ability Two:</b> Levitate
+</code></pre>
+
+**#456 Finneon**
+
+<pre><code><b>Ability One:</b> Swift Swim
+<b>Ability Two:</b> Storm Drain
+</code></pre>
+
+**#457 Lumineon**
+
+<pre><code><b>Special Attack:</b> 69 → 89
+<b>Speed:</b> 91 → 101
+<b>Total:</b> 460 → 490
+<b>Ability One:</b> Swift Swim
+<b>Ability Two:</b> Storm Drain
+</code></pre>
+
+**#458 Mantyke**
+
+<pre><code><b>Ability One:</b> Swift Swim
+<b>Ability Two:</b> Water Absorb
+</code></pre>
+
+**#459 Snover - #460 Abomasnow**
+
+<pre><code><b>Ability One:</b> Snow Warning
+<b>Ability Two:</b> Soundproof
+</code></pre>
+
+**#461 Weavile**
+
+<pre><code><b>TM:</b> Now learns TM79, Frost Breath.
+<b>Ability One:</b> Pickpocket
+<b>Ability Two:</b> Technician
+</code></pre>
+
+**#462 Magnezone**
+
+<pre><code><b>Ability One:</b> Magnet Pull
+<b>Ability Two:</b> Analytic
+</code></pre>
+
+**#463 Lickilicky**
+
+<pre><code><b>Ability One:</b> Thick Fat
+<b>Ability Two:</b> Gluttony
+</code></pre>
+
+**#464 Rhyperior**
+
+<pre><code><b>Ability One:</b> Reckless
+<b>Ability Two:</b> Solid Rock
+</code></pre>
+
+**#465 Tangrowth**
+
+<pre><code><b>Ability One:</b> Chlorophyll
+<b>Ability Two:</b> Regenerator
+</code></pre>
+
+**#466 Electivire**
+
+<pre><code><b>Type:</b> Electric / Fighting
+<b>Ability One:</b> Motor Drive
+<b>Ability Two:</b> Vital Spirit
+</code></pre>
+
+**#467 Magmortar**
+
+<pre><code><b>Ability One:</b> Flame Body
+<b>Ability Two:</b> Vital Spirit
+</code></pre>
+
+**#468 Togekiss**
+
+<pre><code><b>Ability One:</b> Super Luck
+<b>Ability Two:</b> Serene Grace
+</code></pre>
+
+**#469 Yanmega**
+
+<pre><code><b>HM:</b> Can now learn HM02, Fly.
+<b>Ability One:</b> Speed Boost
+<b>Ability Two:</b> Tinted Lens
+</code></pre>
+
+**#470 Leafeon**
+
+<pre><code><b>Ability One:</b> Leaf Guard
+<b>Ability Two:</b> Natural Cure
+</code></pre>
+
+**#471 Glaceon**
+
+<pre><code><b>TM:</b> Can now learn TM86, Grass Knot.
+<b>Ability One:</b> Snow Cloak
+<b>Ability Two:</b> Serene Grace
+</code></pre>
+
+**#472 Gliscor**
+
+<pre><code><b>HM:</b> Can now learn HM02, Fly.
+<b>Ability One:</b> Hyper Cutter
+<b>Ability Two:</b> Poison Heal
+</code></pre>
+
+**#473 Mamoswine**
+
+<pre><code><b>Ability One:</b> Thick Fat
+<b>Ability Two:</b> Snow Cloak
+</code></pre>
+
+**#474 Porygon-Z**
+
+<pre><code><b>Ability One:</b> Adaptability
+<b>Ability Two:</b> Download
+</code></pre>
+
+**#475 Gallade**
+
+<pre><code><b>Ability One:</b> Justified
+<b>Ability Two:</b> Trace
+</code></pre>
+
+**#476 Probopass**
+
+<pre><code><b>Ability One:</b> Sturdy
+<b>Ability Two:</b> Magnet Pull
+</code></pre>
+
+**#477 Dusknoir**
+
+<pre><code><b>Ability One:</b> Pressure
+<b>Ability Two:</b> Cursed Body
+</code></pre>
+
+**#478 Froslass**
+
+<pre><code><b>Special Attack:</b> 80 → 100
+<b>Total:</b> 480 → 500
+<b>Base EXP:</b> 168 → 189
+<b>Ability One:</b> Levitate
+<b>Ability Two:</b> Levitate
+</code></pre>
+
+**#479 Rotom (Regular)**
+
+<pre><code><b>Speed:</b> 91 → 111
+<b>Total:</b> 440 → 460
+<b>Ability One:</b> Levitate
+<b>Ability Two:</b> Levitate
+</code></pre>
+
+**#479 Rotom (Oven, Mow, Fridge, Wash)**
+
+<pre><code><b>Ability One:</b> Levitate
+<b>Ability Two:</b> Levitate
+</code></pre>
+
+**#479 Rotom (Fan)**
+
+<pre><code><b>Ability One:</b> Speed Boost
+<b>Ability Two:</b> Motor Drive
+</code></pre>
+
+**#480 Uxie**
+
+<pre><code><b>Ability One:</b> Levitate
+<b>Ability Two:</b> Levitate
+</code></pre>
+
+**#481 Mesprit**
+
+<pre><code><b>Ability One:</b> Levitate
+<b>Ability Two:</b> Levitate
+</code></pre>
+
+**#482 Azelf**
+
+<pre><code><b>Ability One:</b> Levitate
+<b>Ability Two:</b> Levitate
+</code></pre>
+
+**#483 Dialga**
+
+<pre><code><b>Ability One:</b> Pressure
+<b>Ability Two:</b> Telepathy
+</code></pre>
+
+**#484 Palkia**
+
+<pre><code><b>Ability One:</b> Pressure
+<b>Ability Two:</b> Telepathy
+</code></pre>
+
+**#485 Heatran**
+
+<pre><code><b>Ability One:</b> Flash Fire
+<b>Ability Two:</b> Flame Body
+</code></pre>
+
+**#486 Regigigas**
+
+<pre><code><b>Ability One:</b> Sheer Force
+<b>Ability Two:</b> Sheer Force
+</code></pre>
+
+**#487 Giratina**
+
+<pre><code><b>Ability One:</b> Pressure (Altered) / Levitate (Origin)
+<b>Ability Two:</b> Telepathy (Altered) / Levitate (Origin)
+</code></pre>
+
+**#488 Cresselia**
+
+<pre><code><b>Ability One:</b> Levitate
+<b>Ability Two:</b> Levitate
+</code></pre>
+
+**#489 Phione**
+
+<pre><code><b>HP:</b> 80 → 90
+<b>Attack:</b> 80 → 90
+<b>Defense:</b> 80 → 90
+<b>Special Attack:</b> 80 → 90
+<b>Special Defense:</b> 80 → 90
+<b>Speed:</b> 80 → 90
+<b>Total:</b> 480 → 540
+<b>Base EXP:</b> 216 → 255
+<b>Ability One:</b> Hydration
+<b>Ability Two:</b> Magic Guard
+</code></pre>
+
+**#490 Manaphy**
+
+<pre><code><b>Item:</b> Lansat Berry (100%)
+<b>Ability One:</b> Hydration
+<b>Ability Two:</b> Magic Guard
+</code></pre>
+
+**#491 Darkrai**
+
+<pre><code><b>Ability One:</b> Bad Dreams
+<b>Ability Two:</b> Bad Dreams
+</code></pre>
+
+**#492 Shaymin**
+
+<pre><code><b>Item:</b> Starf Berry (100%)
+<b>Ability One:</b> Natural Cure (Land) / Serene Grace (Sky)
+<b>Ability Two:</b> Natural Cure (Land) / Serene Grace (Sky)
+</code></pre>
+
+**#493 Arceus**
+
+<pre><code><b>Item:</b> Enigma Berry (100%)
+<b>Base EXP:</b> 324 → 511
+<b>Ability One:</b> Multitype
+<b>Ability Two:</b> Multitype
+</code></pre>
+
+## Unova Pokémon
+
+**#494 Victini**
+
+<pre><code><b>Ability One:</b> Victory Star
+<b>Ability Two:</b> Victory Star
+</code></pre>
+
+**#495 Snivy**
+
+<pre><code><b>Item:</b> Miracle Seed (50%)
+<b>Base EXP:</b> 28 → 50
+<b>Base Happiness:</b> 70 → 0
+<b>Ability One:</b> Overgrow
+<b>Ability Two:</b> Contrary
+</code></pre>
+
+**#496 Servine**
+
+<pre><code><b>Item:</b> Miracle Seed (50%)
+<b>Base Happiness:</b> 70 → 0
+<b>Ability One:</b> Overgrow
+<b>Ability Two:</b> Contrary
+</code></pre>
+
+**#497 Serperior**
+
+<pre><code><b>TM:</b> Can now learn TM26 Earthquake.
+<b>Tutor:</b> Can now learn Draco Meteor.
+<b>Item:</b> Miracle Seed (50%)
+<b>Type:</b> Grass / Dragon
+<b>Base Happiness:</b> 70 → 0
+<b>HP:</b> 75 → 82
+<b>Total:</b> 528 → 535
+<b>Ability One:</b> Overgrow
+<b>Ability Two:</b> Contrary
+</code></pre>
+
+**#498 Tepig**
+
+<pre><code><b>Item:</b> Charcoal (50%)
+<b>Base EXP:</b> 28 → 50
+<b>Ability One:</b> Blaze
+<b>Ability Two:</b> Adaptability
+</code></pre>
+
+**#499 Pignite**
+
+<pre><code><b>Item:</b> Charcoal (50%)
+<b>Type:</b> Fire / Ground
+<b>Ability One:</b> Blaze
+<b>Ability Two:</b> Adaptability
+</code></pre>
+
+**#500 Emboar**
+
+<pre><code><b>Item:</b> Charcoal (50%)
+<b>HP:</b> 110 → 120
+<b>Attack:</b> 123 → 130
+<b>Defense:</b> 65 → 80
+<b>Special Attack:</b> 100 → 70
+<b>Special Defense:</b> 65 → 80
+<b>Speed:</b> 65 → 55
+<b>Total:</b> 528 → 535
+<b>Type:</b> Fire / Ground
+<b>Ability One:</b> Blaze
+<b>Ability Two:</b> Adaptability
+</code></pre>
+
+**#501 Oshawott**
+
+<pre><code><b>Item:</b> Mystic Water (50%)
+<b>Base EXP:</b> 28 → 50
+<b>Ability One:</b> Torrent
+<b>Ability Two:</b> Vital Spirit
+</code></pre>
+
+**#502 Dewott**
+
+<pre><code><b>Item:</b> Mystic Water (50%)
+<b>Type:</b> Water / Fighting
+<b>Ability One:</b> Torrent
+<b>Ability Two:</b> Vital Spirit
+</code></pre>
+
+**#503 Samurott**
+
+<pre><code><b>TM:</b> Can now learn TM26 Earthquake.
+<b>Item:</b> Mystic Water (50%)
+<b>Special Attack:</b> 108 → 105
+<b>Speed:</b> 70 → 80
+<b>Total:</b> 528 → 535
+<b>Type:</b> Water / Fighting
+<b>Ability One:</b> Torrent
+<b>Ability Two:</b> Vital Spirit
+</code></pre>
+
+**#504 Patrat**
+
+<pre><code><b>Ability One:</b> Analytic
+<b>Ability Two:</b> Keen Eye
+</code></pre>
+
+**#505 Watchog**
+
+<pre><code><b>Special Attack:</b> 60 → 85
+<b>Total:</b> 420 → 435
+<b>Ability One:</b> Analytic
+<b>Ability Two:</b> Keen Eye
+</code></pre>
+
+**#506 Lillipup**
+
+<pre><code><b>Ability One:</b> Vital Spirit
+<b>Ability Two:</b> Pickup
+</code></pre>
+
+**#507 Herdier**
+
+<pre><code><b>Ability One:</b> Intimidate
+<b>Ability Two:</b> Scrappy
+</code></pre>
+
+**#508 Stoutland**
+
+<pre><code><b>HP:</b> 85 → 105
+<b>Attack:</b> 100 → 110
+<b>Total:</b> 490 → 520
+<b>Ability One:</b> Intimidate
+<b>Ability Two:</b> Scrappy
+</code></pre>
+
+**#509 Purrloin**
+
+<pre><code><b>Ability One:</b> Limber
+<b>Ability Two:</b> Prankster
+</code></pre>
+
+**#510 Liepard**
+
+<pre><code><b>TM:</b> Can now learn TM43, Flame Charge and TM93, Wild Charge.
+<b>Attack:</b> 88 → 98
+<b>Special Attack:</b> 88 → 98
+<b>Total:</b> 446 → 466
+<b>Ability One:</b> Limber
+<b>Ability Two:</b> Prankster
+</code></pre>
+
+**#511 Pansage - #512 Simisage**
+
+<pre><code><b>Tutor:</b> Can now learn Grass Pledge and Frenzy Plant.
+<b>Ability One:</b> Gluttony (Pansage) / Unburden (Simisage)
+<b>Ability Two:</b> Overgrow
+</code></pre>
+
+**#513 Pansear - #514 Simisear**
+
+<pre><code><b>Tutor:</b> Can now learn Fire Pledge and Blast Burn.
+<b>Ability One:</b> Gluttony (Pansear) / Unburden (Simisear)
+<b>Ability Two:</b> Blaze
+</code></pre>
+
+**#515 Panpour - #516 Simipour**
+
+<pre><code><b>Tutor:</b> Can now learn Water Pledge and Hydro Cannon.
+<b>Ability One:</b> Gluttony (Panpour) / Unburden (Simipour)
+<b>Ability Two:</b> Torrent
+</code></pre>
+
+**#517 Munna**
+
+<pre><code><b>Ability One:</b> Telepathy
+<b>Ability Two:</b> Analytic
+<b>Ability Three (DW):</b> Magic Bounce
+</code></pre>
+
+**#518 Musharna**
+
+<pre><code><b>Ability One:</b> Telepathy
+<b>Ability Two:</b> Analytic
+<b>Ability Three (DW):</b> Magic Bounce
+</code></pre>
+
+**#519 Pidove**
+
+<pre><code><b>Attack:</b> 55 → 36
+<b>Defense:</b> 50 → 30
+<b>Special Attack:</b> 36 → 55
+<b>Special Defense:</b> 30 → 50
+<b>Ability One:</b> Rivalry
+<b>Ability Two:</b> Super Luck
+</code></pre>
+
+**#520 Tranquill**
+
+<pre><code><b>Attack:</b> 77 → 50
+<b>Defense:</b> 62 → 42
+<b>Special Attack:</b> 50 → 77
+<b>Special Defense:</b> 42 → 62
+<b>Ability One:</b> Rivalry
+<b>Ability Two:</b> Super Luck
+</code></pre>
+
+**#521 Unfezant**
+
+<pre><code><b>Attack:</b> 105 → 65
+<b>Defense:</b> 80 → 55
+<b>Special Attack:</b> 65 → 115
+<b>Special Defense:</b> 55 → 100
+<b>Speed:</b> 93 → 103
+<b>Total:</b> 478 → 518
+<b>Ability One:</b> Serene Grace
+<b>Ability Two:</b> Super Luck
+</code></pre>
+
+**#522 Blitzle**
+
+<pre><code><b>Ability One:</b> LightningRod
+<b>Ability Two:</b> Sap Sipper
+</code></pre>
+
+**#523 Zebstrika**
+
+<pre><code><b>Ability One:</b> LightningRod
+<b>Ability Two:</b> Sap Sipper
+</code></pre>
+
+**#524 Roggenrola**
+
+<pre><code><b>Ability One:</b> Sturdy
+<b>Ability Two:</b> Sand Force
+</code></pre>
+
+**#525 Boldore**
+
+<pre><code><b>Evolution:</b> Level 36.
+<b>Ability One:</b> Sturdy
+<b>Ability Two:</b> Sand Force
+</code></pre>
+
+**#526 Gigalith**
+
+<pre><code><b>Ability One:</b> Sturdy
+<b>Ability Two:</b> Sand Force
+</code></pre>
+
+**#527 Woobat**
+
+<pre><code><b>Base Happiness:</b> 180
+<b>Ability One:</b> Unaware
+<b>Ability Two:</b> Klutz
+</code></pre>
+
+**#528 Swoobat**
+
+<pre><code><b>Base Happiness:</b> 180
+<b>HP:</b> 67 → 77
+<b>Attack:</b> 57 → 67
+<b>Special Attack:</b> 77 → 107
+<b>Special Defense:</b> 55 → 65
+<b>Total:</b> 425 → 485
+<b>Base EXP:</b> 149 → 199
+<b>Ability One:</b> Unaware
+<b>Ability Two:</b> Simple
+</code></pre>
+
+**#529 Drilbur - #530 Excadrill**
+
+<pre><code><b>Ability One:</b> Sand Rush
+<b>Ability Two:</b> Mold Breaker
+</code></pre>
+
+**#531 Audino**
+
+<pre><code><b>Base EXP:</b> 390 → 400
+<b>Ability One:</b> Serene Grace
+<b>Ability Two:</b> Regenerator
+</code></pre>
+
+**#532 Timburr**
+
+<pre><code><b>Ability One:</b> Guts
+<b>Ability Two:</b> Iron Fist
+</code></pre>
+
+**#533 Gurdurr**
+
+<pre><code><b>Evolution:</b> Level 36.
+<b>Ability One:</b> Guts
+<b>Ability Two:</b> Iron Fist
+</code></pre>
+
+**#534 Conkeldurr**
+
+<pre><code><b>Ability One:</b> Guts
+<b>Ability Two:</b> Iron Fist
+</code></pre>
+
+**#535 Tympole - #536 Palpitoad**
+
+<pre><code><b>TM:</b> Can now learn TM13 Ice Beam and TM14 Blizzard.
+<b>Ability One:</b> Water Absorb
+<b>Ability Two:</b> Hydration
+</code></pre>
+
+**#537 Seismitoad**
+
+<pre><code><b>TM:</b> Can now learn TM13 Ice Beam and TM14 Blizzard.
+<b>Attack:</b> 85 → 95
+<b>Special Attack:</b> 85 → 95
+<b>Total:</b> 499 → 519
+<b>Ability One:</b> Water Absorb
+<b>Ability Two:</b> Poison Touch
+</code></pre>
+
+**#538 Throh**
+
+<pre><code><b>Item:</b> Black Belt (50%)
+<b>Item:</b> Expert Belt (5%)
+<b>Ability One:</b> Guts
+<b>Ability Two:</b> Mold Breaker
+</code></pre>
+
+**#539 Sawk**
+
+<pre><code><b>Item:</b> Black Belt (50%)
+<b>Item:</b> Expert Belt (5%)
+<b>Ability One:</b> Sturdy
+<b>Ability Two:</b> Mold Breaker
+</code></pre>
+
+**#540 Sewaddle - #542 Leavanny**
+
+<pre><code><b>Base Happiness:</b> 180
+<b>Ability One:</b> Swarm (Sewaddle) / Leaf Guard (Swadloon) / Swarm (Leavanny)
+<b>Ability Two:</b> Chlorophyll (Sewaddle) / Overcoat (Swadloon) / Chlorophyll (Leavanny)
+</code></pre>
+
+**#543 Venipede - #545 Scolipede**
+
+<pre><code><b>Ability One:</b> Poison Point (Venipede) / Battle Armor (Whirlipede) / Poison Touch (Scolipede)
+<b>Ability Two:</b> Swarm
+</code></pre>
+
+**#546 Cottonee - #547 Whimsicott**
+
+<pre><code><b>Ability One:</b> Prankster
+<b>Ability Two:</b> Infiltrator
+</code></pre>
+
+**#548 Petilil – #549 Lilligant**
+
+<pre><code><b>TM:</b> Now learns TM29, Psychic and TM30, Shadow Ball + TM52 Focus Blast (Lilligant).
+<b>Ability One:</b> Chlorophyll
+<b>Ability Two:</b> Leaf Guard (Petilil) / Own Tempo (Lilligant)
+</code></pre>
+
+**#550 Basculin**
+
+<pre><code><b>Attack:</b> 92 → 102
+<b>Speed:</b> 98 → 108
+<b>Total:</b> 460 → 480
+<b>Ability One:</b> Reckless (Red) / Rock Head (Blue)
+<b>Ability Two:</b> Adaptability
+</code></pre>
+
+**#551 Sandile - #553 Krookodile**
+
+<pre><code><b>Ability One:</b> Anger Point (Sandile) / Anger Point (Krokorok) / Intimidate (Krookodile)
+<b>Ability Two:</b> Moxie
+</code></pre>
+
+**#554 Darumaka**
+
+<pre><code><b>Ability One:</b> Hustle
+<b>Ability Two:</b> Rattled
+</code></pre>
+
+**#555 Darmanitan**
+
+<pre><code><b>Ability One:</b> Sheer Force
+<b>Ability Two:</b> Iron Fist
+</code></pre>
+
+**#556 Maractus**
+
+<pre><code><b>TM:</b> Can now learn TM55, Scald.
+<b>Attack:</b> 86 → 101
+<b>Special Attack:</b> 106 → 116
+<b>Total:</b> 461 → 486
+<b>Ability One:</b> Water Absorb
+<b>Ability Two:</b> Storm Drain
+</code></pre>
+
+**#557 Dwebble - #558 Crustle**
+
+<pre><code><b>Ability One:</b> Sturdy
+<b>Ability Two:</b> Shell Armor
+</code></pre>
+
+**#559 Scraggy - #560 Scrafty**
+
+<pre><code><b>Ability One:</b> Shed Skin
+<b>Ability Two:</b> Moxie
+<b>Evolution:</b> Level 35 [Scraggy]
+</code></pre>
+
+**#561 Sigilyph**
+
+<pre><code><b>Special Attack:</b> 103 → 108
+<b>Speed:</b> 97 → 102
+<b>Total:</b> 490 → 500
+<b>Base EXP:</b> 172 → 200
+<b>Ability One:</b> Tinted Lens
+<b>Ability Two:</b> Magic Guard
+</code></pre>
+
+**#562 Yamask**
+
+<pre><code><b>Ability One:</b> Mummy
+<b>Ability Two:</b> Mummy
+</code></pre>
+
+**#563 Cofagrigus**
+
+<pre><code><b>Type:</b> Ghost / Steel
+<b>TM:</b> Can now learn TM91, Flash Cannon.
+<b>Ability One:</b> Mummy
+<b>Ability Two:</b> Mummy
+</code></pre>
+
+**#564 Tirtouga - #565 Carracosta**
+
+<pre><code><b>Ability One:</b> Solid Rock
+<b>Ability Two:</b> Sturdy
+</code></pre>
+
+**#566 Archen - #567 Archeops**
+
+<pre><code><b>Ability One:</b> Defeatist
+<b>Ability Two:</b> Defeatist
+</code></pre>
+
+**#568 Trubbish**
+
+<pre><code><b>Ability One:</b> Stench
+<b>Ability Two:</b> Sticky Hold
+</code></pre>
+
+**#569 Garbodor**
+
+<pre><code><b>Special Attack:</b> 60 → 80
+<b>Total:</b> 474 → 494
+<b>Ability One:</b> Stench
+<b>Ability Two:</b> Aftermath
+</code></pre>
+
+**#570 Zorua**
+
+<pre><code><b>Ability One:</b> Illusion
+<b>Ability Two:</b> Illusion
+</code></pre>
+
+**#571 Zoroark**
+
+<pre><code><b>Ability One:</b> Illusion
+<b>Ability Two:</b> Illusion
+</code></pre>
+
+**#572 Minccino**
+
+<pre><code><b>Ability One:</b> Skill Link
+<b>Ability Two:</b> Technician
+</code></pre>
+
+**#573 Cinccino**
+
+<pre><code><b>Attack:</b> 95 → 105
+<b>Total:</b> 470 → 480
+<b>Ability One:</b> Skill Link
+<b>Ability Two:</b> Technician
+</code></pre>
+
+**#574 Gothita**
+
+<pre><code><b>Type:</b> Psychic / Dark
+<b>TM:</b> Now learns TM61 Will-O-Wisp.
+<b>Ability One:</b> Frisk
+<b>Ability Two:</b> Magic Bounce
+</code></pre>
+
+**#575 Gothorita**
+
+<pre><code><b>Type:</b> Psychic / Dark
+<b>TM:</b> Now learns TM61 Will-O-Wisp.
+<b>Ability One:</b> Frisk
+<b>Ability Two:</b> Magic Bounce
+</code></pre>
+
+**#576 Gothitelle**
+
+<pre><code><b>Type:</b> Psychic / Dark
+<b>Attack:</b> 55 → 45
+<b>Special Attack:</b> 95 → 115
+<b>Total:</b> 490 → 500
+<b>TM:</b> Now learns TM52 Focus Blast and TM61 Will-O-Wisp.
+<b>Ability One:</b> Shadow Tag
+<b>Ability Two:</b> Magic Bounce
+</code></pre>
+
+**#577 Solosis – #578 Duosion**
+
+<pre><code><b>Ability One:</b> Regenerator
+<b>Ability Two:</b> Magic Guard
+</code></pre>
+
+**#579 Reuniclus**
+
+<pre><code><b>Defense:</b> 75 → 85
+<b>Total:</b> 490 → 500
+<b>Ability One:</b> Regenerator
+<b>Ability Two:</b> Magic Guard
+</code></pre>
+
+**#580 Ducklett**
+
+<pre><code><b>Ability One:</b> Hydration
+<b>Ability Two:</b> Big Pecks
+</code></pre>
+
+**#581 Swanna**
+
+<pre><code><b>Attack:</b> 87 → 97
+<b>Special Attack:</b> 87 → 97
+<b>Speed:</b> 98 → 108
+<b>Total:</b> 473 → 503
+<b>TM:</b> Can now learn TM62, Acrobatics.
+<b>Ability One:</b> Hydration
+<b>Ability Two:</b> Big Pecks
+</code></pre>
+
+**#582 Vanillite - #583 Vanillish**
+
+<pre><code><b>TM:</b> Can now learn TM30, Shadow Ball, TM53, Energy Ball and TM86, Grass Knot.
+<b>Ability One:</b> Ice Body
+<b>Ability Two:</b> Weak Armor
+</code></pre>
+
+**#584 Vanilluxe**
+
+<pre><code><b>HP:</b> 71 → 70
+<b>Attack:</b> 95 → 70
+<b>Defense:</b> 85 → 80
+<b>Special Attack:</b> 110 → 145
+<b>Special Defense:</b> 95 → 90
+<b>Speed:</b> 79 → 80
+<b>Total:</b> 535 → 535
+<b>TM:</b> Can now learn TM30, Shadow Ball, TM53, Energy Ball and TM86, Grass Knot.
+<b>Ability One:</b> Ice Body
+<b>Ability Two:</b> Weak Armor
+</code></pre>
+
+**#585 Deerling**
+
+<pre><code><b>Ability One:</b> Chlorophyll
+<b>Ability Two:</b> Serene Grace
+</code></pre>
+
+**#586 Sawsbuck**
+
+<pre><code><b>Attack:</b> 100 → 115
+<b>Speed:</b> 95 → 105
+<b>Total:</b> 475 → 500
+<b>Ability One:</b> Chlorophyll
+<b>Ability Two:</b> Serene Grace
+</code></pre>
+
+**#587 Emolga**
+
+<pre><code><b>Attack:</b> 75 → 95
+<b>Special Attack:</b> 75 → 95
+<b>Total:</b> 428 → 468
+<b>Ability One:</b> Static
+<b>Ability Two:</b> Motor Drive
+</code></pre>
+
+**#588 Karrablast**
+
+<pre><code><b>Evolution:</b> Level Up with Shelmet in the party.
+<b>Ability One:</b> Swarm
+<b>Ability Two:</b> No Guard
+</code></pre>
+
+**#589 Escavalier**
+
+<pre><code><b>Ability One:</b> Swarm
+<b>Ability Two:</b> No Guard
+<b>TM:</b> Can now learn TM74, Gyro Ball.
+</code></pre>
+
+**#590 Foongus - #591 Amoonguss**
+
+<pre><code><b>Ability One:</b> Effect Spore
+<b>Ability Two:</b> Regenerator
+</code></pre>
+
+**#592 Frillish - #593 Jellicent**
+
+<pre><code><b>Ability One:</b> Water Absorb
+<b>Ability Two:</b> Cursed Body
+</code></pre>
+
+**#594 Alomomola**
+
+<pre><code><b>Attack:</b> 75 → 90
+<b>Total:</b> 470 → 485
+<b>Ability One:</b> Regenerator
+<b>Ability Two:</b> Hydration
+</code></pre>
+
+**#595 Joltik**
+
+<pre><code><b>Ability One:</b> Compoundeyes
+<b>Ability Two:</b> Swarm
+</code></pre>
+
+**#596 Galvantula**
+
+<pre><code><b>Special Attack:</b> 97 → 107
+<b>Speed:</b> 108 → 118
+<b>Total:</b> 472 → 492
+<b>Ability One:</b> Compoundeyes
+<b>Ability Two:</b> Swarm
+</code></pre>
+
+**#597 Ferroseed - #598 Ferrothorn**
+
+<pre><code><b>Ability One:</b> Iron Barbs
+<b>Ability Two:</b> Iron Barbs
+</code></pre>
+
+**#599 Klink - #600 Klang**
+
+<pre><code><b>TM:</b> Can now learn TM80 Rock Slide, TM93, Wild Charge.
+<b>Ability One:</b> Motor Drive
+<b>Ability Two:</b> Clear Body
+</code></pre>
+
+**#601 Klinklang**
+
+<pre><code><b>Attack:</b> 100 → 115
+<b>Total:</b> 520 → 535
+<b>TM:</b> Can now learn TM26 Earthquake, TM71 Stone Edge, TM80 Rock Slide, TM93, Wild Charge.
+<b>Ability One:</b> Motor Drive
+<b>Ability Two:</b> Clear Body
+</code></pre>
+
+**#602 Tynamo - #604 Eelektross**
+
+<pre><code><b>Ability One:</b> Levitate
+<b>Ability Two:</b> Levitate
+</code></pre>
+
+**#605 Elgyem**
+
+<pre><code><b>Evolution:</b> Level 35
+<b>Ability One:</b> Analytic
+<b>Ability Two:</b> Synchronize
+</code></pre>
+
+**#606 Beheeyem**
+
+<pre><code><b>Defense:</b> 75 → 95
+<b>Total:</b> 485 → 505
+<b>Ability One:</b> Analytic
+<b>Ability Two:</b> Synchronize
+</code></pre>
+
+**#607 Litwick**
+
+<pre><code><b>Evolution:</b> Level 34
+<b>Ability One:</b> Flash Fire
+<b>Ability Two:</b> Flame Body
+</code></pre>
+
+**#608 Lampent - #609 Chandelure**
+
+<pre><code><b>Ability One:</b> Levitate
+<b>Ability Two:</b> Levitate
+</code></pre>
+
+**#610 Axew - #612 Haxorus**
+
+<pre><code><b>Ability One:</b> Rivalry
+<b>Ability Two:</b> Mold Breaker
+</code></pre>
+
+**#613 Cubchoo**
+
+<pre><code><b>Ability One:</b> Snow Cloak
+<b>Ability Two:</b> Rattled
+</code></pre>
+
+**#614 Beartic**
+
+<pre><code><b>Type:</b> Ice / Fighting
+<b>HP:</b> 95 → 110
+<b>Defense:</b> 80 → 85
+<b>Special Defense:</b> 80 → 85
+<b>Speed:</b> 50 → 60
+<b>Total:</b> 485 → 520
+<b>TM:</b> Can now learn TM26, Earthquake.
+<b>HM:</b> Can now learn HM05, Waterfall.
+<b>Ability One:</b> Sheer Force
+<b>Ability Two:</b> Swift Swim
+</code></pre>
+
+**#615 Cryogonal**
+
+<pre><code><b>Defense:</b> 30 → 60
+<b>Special Attack:</b> 95 → 100
+<b>Total:</b> 485 → 520
+<b>Ability One:</b> Levitate
+<b>Ability Two:</b> Levitate
+</code></pre>
+
+**#616 Shelmet**
+
+<pre><code><b>Evolution:</b> Level Up with a Karrablast in the party.
+<b>Ability One:</b> Hydration
+<b>Ability Two:</b> Overcoat
+</code></pre>
+
+**#617 Accelgor**
+
+<pre><code><b>Ability One:</b> Hydration
+<b>Ability Two:</b> Unburuden
+</code></pre>
+
+**#618 Stunfisk**
+
+<pre><code><b>Special Attack:</b> 81 → 101
+<b>Total:</b> 471 → 491
+<b>Ability One:</b> Static
+<b>Ability Two:</b> Limber
+</code></pre>
+
+**#619 Mienfoo - #620 Mienshao**
+
+<pre><code><b>Evolution:</b> Level 39
+<b>Ability One:</b> Reckless
+<b>Ability Two:</b> Regenerator
+</code></pre>
+
+**#621 Druddigon**
+
+<pre><code><b>HM:</b> Can now learn HM02, Fly.
+<b>Ability One:</b> Rough Skin
+<b>Ability Two:</b> Sheer Force
+</code></pre>
+
+**#622 Golett**
+
+<pre><code><b>Evolution:</b> Level 36
+<b>Ability One:</b> Iron Fist
+<b>Ability Two:</b> Klutz
+</code></pre>
+
+**#623 Golurk**
+
+<pre><code><b>HP:</b> 89 → 99
+<b>Defense:</b> 80 → 90
+<b>Special Defense:</b> 80 → 90
+<b>Total:</b> 483 → 513
+<b>Ability One:</b> Iron Fist
+<b>Ability Two:</b> No Guard
+</code></pre>
+
+**#624 Pawniard**
+
+<pre><code><b>Evolution:</b> Level 37
+<b>Ability One:</b> Defiant
+<b>Ability Two:</b> Pressure
+</code></pre>
+
+**#625 Bisharp**
+
+<pre><code><b>Speed:</b> 70 → 90
+<b>Total:</b> 490 → 510
+<b>Ability One:</b> Defiant
+<b>Ability Two:</b> Pressure
+</code></pre>
+
+**#626 Bouffalant**
+
+<pre><code><b>Ability One:</b> Reckless
+<b>Ability Two:</b> Sap Sipper
+</code></pre>
+
+**#627 Rufflet**
+
+<pre><code><b>Evolution:</b> Level 39 [Rufflet]
+<b>Ability One:</b> Hustle
+<b>Ability Two:</b> Sheer Force
+</code></pre>
+
+**#628 Braviary**
+
+<pre><code><b>Ability One:</b> Defiant
+<b>Ability Two:</b> Sheer Force
+</code></pre>
+
+**#629 Vullaby - #630 Mandibuzz**
+
+<pre><code><b>Evolution:</b> Level 39 [Vullaby]
+<b>Ability One:</b> Big Pecks
+<b>Ability Two:</b> Overcoat
+</code></pre>
+
+**#631 Heatmor**
+
+<pre><code><b>Attack:</b> 97 → 100
+<b>Defense:</b> 66 → 70
+<b>Special Attack:</b> 105 → 115
+<b>Special Defense:</b> 66 → 70
+<b>Speed:</b> 65 → 70
+<b>Total:</b> 484 → 510
+<b>Base EXP:</b> 169 → 200
+<b>Ability One:</b> White Smoke
+<b>Ability Two:</b> Moody
+</code></pre>
+
+**#632 Durant**
+
+<pre><code><b>HP:</b> 58 → 75
+<b>Attack:</b> 109 → 111
+<b>Special Defense:</b> 48 → 55
+<b>Total:</b> 484 → 510
+<b>Base EXP:</b> 169 → 200
+<b>Ability One:</b> Swarm
+<b>Ability Two:</b> Hustle
+</code></pre>
+
+**#633 Deino**
+
+<pre><code><b>Evolution:</b> Level 30
+<b>Ability One:</b> Hustle
+<b>Ability Two:</b> Intimidate
+</code></pre>
+
+**#634 Zweilous**
+
+<pre><code><b>Evolution:</b> Level 55
+<b>Ability One:</b> Hustle
+<b>Ability Two:</b> Intimidate
+</code></pre>
+
+**#635 Hydreigon**
+
+<pre><code><b>Ability One:</b> Levitate
+<b>Ability Two:</b> Levitate
+</code></pre>
+
+**#636 Larvesta**
+
+<pre><code><b>Evolution:</b> Level 45
+<b>Ability One:</b> Flame Body
+<b>Ability Two:</b> Swarm
+</code></pre>
+
+**#637 Volcarona**
+
+<pre><code><b>TM:</b> Can now learn TM24 Thunderbolt and TM25 Thunder.
+<b>Ability One:</b> Drought
+<b>Ability Two:</b> Drought
+</code></pre>
+
+**#638 Cobalion**
+
+<pre><code><b>Ability One:</b> Justified
+<b>Ability Two:</b> Justified
+</code></pre>
+
+**#639 Terrakion**
+
+<pre><code><b>Ability One:</b> Justified
+<b>Ability Two:</b> Justified
+</code></pre>
+
+**#640 Virizion**
+
+<pre><code><b>Ability One:</b> Justified
+<b>Ability Two:</b> Justified
+</code></pre>
+
+**#641 Tornadus**
+
+<pre><code><b>Ability One:</b> Prankster
+<b>Ability Two:</b> Defiant
+</code></pre>
+
+**#642 Thundurus**
+
+<pre><code><b>Ability One:</b> Prankster
+<b>Ability Two:</b> Defiant
+</code></pre>
+
+**#643 Reshiram**
+
+<pre><code><b>TM:</b> Can now learn TM26 Earthquake.
+<b>Ability One:</b> TurboBlaze
+<b>Ability Two:</b> TurboBlaze
+</code></pre>
+
+**#644 Zekrom**
+
+<pre><code><b>TM:</b> Can now learn TM26 Earthquake.
+<b>Ability One:</b> TeraVolt
+<b>Ability Two:</b> TeraVolt
+</code></pre>
+
+**#645 Landorus**
+
+<pre><code><b>Ability One:</b> Sand Force
+<b>Ability Two:</b> Sheer Force
+</code></pre>
+
+**#646 Kyurem**
+
+<pre><code><b>TM:</b> Can now learn TM26 Earthquake and TM79 Frost Breath.
+<b>Ability One:</b> Snow Warning
+<b>Ability Two:</b> Snow Warning
+</code></pre>
+
+**#647 Keldeo**
+
+<pre><code><b>TM:</b> Can now learn TM13 Ice Beam and TM14 Blizzard.
+<b>Ability One:</b> Justified
+<b>Ability Two:</b> Justified
+</code></pre>
+
+**#648 Meloetta**
+
+<pre><code><b>Ability One:</b> Serene Grace
+<b>Ability Two:</b> Magic Guard
+</code></pre>
+
+**#649 Genesect**
+
+<pre><code><b>Ability One:</b> Download
+<b>Ability Two:</b> Download
+</code></pre>
