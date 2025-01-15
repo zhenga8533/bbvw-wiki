@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://mydomain.org/mysite/</loc>
+         <lastmod>2025-01-15</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/action_replay_codes/</loc>
+         <lastmod>2025-01-15</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/important_trainer_rosters/</loc>
+         <lastmod>2025-01-15</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/item_%26_trade_changes/</loc>
+         <lastmod>2025-01-15</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/level_up_move_changes/</loc>
+         <lastmod>2025-01-15</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/pokemon_changes/</loc>
+         <lastmod>2025-01-15</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/trainer_rosters/</loc>
+         <lastmod>2025-01-15</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/wild_pokemon/</loc>
+         <lastmod>2025-01-15</lastmod>
+    </url>
+</urlset>
