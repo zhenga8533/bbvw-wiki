@@ -1,6 +1,6 @@
 Below are the rosters for the important trainers in the game, such as the Gym Leaders, Elite Four, Bianca, Cheren and N. They are detailed in terms of levels, movesets, abilities and items. Note that these constitute as spoilers, so read at your own risk. 
 
-¹ — This Pokémon changes based on the chosen starter.
+¹²³ — This Pokémon changes based on the chosen starter.
 
 Rival Bianca – 1
 Battle Type: Single Battle
@@ -11,8 +11,8 @@ Bianca’s Team
 	
 
 Species	Snivy¹
-Oshawott¹
-Tepig¹
+Oshawott²
+Tepig³
 Level	5	5	5
 Item	-	-	-
 
@@ -37,8 +37,8 @@ Location: Nuvema Town
 	
 
 Species	Snivy¹
-Oshawott¹
-Tepig¹
+Oshawott²
+Tepig³
 Level	5	5	5
 Item	-	-	-
 
@@ -76,8 +76,8 @@ Bianca’s Team
 
 Species	
 Meowth	Snivy¹
-Oshawott¹
-Tepig¹
+Oshawott²
+Tepig³
 Level	9	10	10	10
 Item	-	-	-	-
 
@@ -103,8 +103,8 @@ Location: Striaton City
 
 Species	
 Starly	Snivy¹
-Oshawott¹
-Tepig¹
+Oshawott²
+Tepig³
 Level	11	12	12	12
 Item	-	Oran Berry	Oran Berry	Oran Berry
 
@@ -214,10 +214,10 @@ Location: Route 3
 Species	
 Staravia	
 Roggenrola	Panpour¹
-Pansear¹
-Pansage¹	Snivy¹
-Oshawott¹
-Tepig¹
+Pansear²
+Pansage³	Snivy¹
+Oshawott²
+Tepig³
 Level	14	14	14	14	14	16	16	16
 Item	-	-	-	-	-	Sitrus Berry	Sitrus Berry	Sitrus Berry
 
@@ -324,11 +324,11 @@ Bianca’s Team
 
 Species	
 Munna	Simipour¹
-Simisear¹
-Simisage¹	
+Simisear²
+Simisage³	
 Persian	Servine¹
-Dewott¹
-Pignite¹
+Dewott²
+Pignite³
 Level	29	29	29	29	31	31	31	31
 Item	-	-	-	-	-	Sitrus Berry	Sitrus Berry	Sitrus Berry
 
@@ -366,10 +366,10 @@ Species
 Staravia	
 Boldore	
 Kadabra	Simipour¹
-Simisear¹
-Simisage¹	Servine¹
-Dewott¹
-Pignite¹
+Simisear²
+Simisage³	Servine¹
+Dewott²
+Pignite³
 Level	31	31	31	31	31	31	33	33	33
 Item	Sharp Beak	Hard Stone	TwistedSpoon	Expert Belt Expert Belt Expert Belt	Sitrus Berry	Sitrus Berry	Sitrus Berry
 
@@ -447,10 +447,10 @@ Species
 Staraptor	
 Gigalith	
 Alakazam	Simipour¹
-Simisear¹
-Simisage¹	Serperior¹
-Samurott¹
-Emboar¹
+Simisear²
+Simisage³	Serperior¹
+Samurott²
+Emboar³
 Level	36	36	36	36	36	36	38	38	38
 Item	Sharp Beak	Hard Stone	TwistedSpoon	Expert Belt	Expert Belt	Expert Belt	Sitrus Berry	Sitrus Berry	Sitrus Berry
 
@@ -517,10 +517,10 @@ Species
 Mienfoo	
 Musharna	
 Persian	Simipour¹
-Simisear¹
-Simisage¹	Serperior¹
-Samurott¹
-Emboar¹
+Simisear²
+Simisage³	Serperior¹
+Samurott²
+Emboar³
 Level	41	41	41	41	41	41	43	43	43
 Item	-	-	-	-	-	-	Sitrus Berry	Sitrus Berry	Sitrus Berry
 
@@ -606,12 +606,12 @@ Staraptor
 Gigalith	
 Alakazam
 Houndoom¹
-Whimsicott¹
-Gyarados¹	Simipour¹
-Simisear¹
-Simisage¹	Serperior¹
-Samurott¹
-Emboar¹
+Whimsicott²
+Gyarados³	Simipour¹
+Simisear²
+Simisage³	Serperior¹
+Samurott²
+Emboar³
 Level	53	53	53	53	53	53	53	53	53	55	55	55
 Item	Sharp Beak	Hard Stone	TwistedSpoon	Lum Berry	Lum Berry	Lum Berry	Iron Ball	Iron Ball	Iron Ball	Sitrus Berry	Sitrus Berry	Sitrus Berry
 
@@ -733,12 +733,12 @@ Persian
 Musharna	
 Mienshao
 Chandelure¹
-Lilligant¹
-Milotic¹	Simipour¹
-Simisear¹
-Simisage¹	Serperior¹
-Samurott¹
-Emboar¹
+Lilligant²
+Milotic³	Simipour¹
+Simisear²
+Simisage³	Serperior¹
+Samurott²
+Emboar³
 Level	61	59	61	63	63	63	63	63	63	65	65	65
 Item	Chople Berry	Kasib Berry	Coba Berry	Sitrus Berry	Sitrus Berry	Sitrus Berry	Flying Gem	Flying Gem	Flying Gem	Leftovers	Leftovers	Leftovers
 
@@ -897,12 +897,12 @@ Staraptor
 Gigalith	
 Alakazam
 Houndoom¹
-Whimsicott¹
-Gyarados¹	Simipour¹
-Simisear¹
-Simisage¹	Serperior¹
-Samurott¹
-Emboar¹
+Whimsicott²
+Gyarados³	Simipour¹
+Simisear²
+Simisage³	Serperior¹
+Samurott²
+Emboar³
 Level	66	66	66	66	66	66	66	66	66	68	68	68
 Item	Sharp Beak	Hard Stone	TwistedSpoon	Lum Berry Lum Berry Lum Berry	Flying Gem	Flying Gem	Flying Gem	Sitrus Berry	Sitrus Berry	Sitrus Berry
 
@@ -1175,12 +1175,12 @@ Staraptor
 Gigalith	
 Alakazam
 Houndoom¹
-Whimsicott¹
-Gyarados¹	Simipour¹
-Simisear¹
-Simisage¹	Serperior¹
-Samurott¹
-Emboar¹
+Whimsicott²
+Gyarados³	Simipour¹
+Simisear²
+Simisage³	Serperior¹
+Samurott²
+Emboar³
 Level	88	88	88	88	88	88	88	88	88	90	90	90
 Item	Life Orb	Custap Berry	Life Orb	Leftovers Leftovers Leftovers	Flying Gem	Flying Gem	Flying Gem	Life Orb	Life Orb	Life Orb
 
@@ -1270,12 +1270,12 @@ Persian
 Musharna	
 Mienshao
 Chandelure¹
-Lilligant¹
-Milotic¹	Simipour¹
-Simisear¹
-Simisage¹	Serperior¹
-Samurott¹
-Emboar¹
+Lilligant²
+Milotic³	Simipour¹
+Simisear²
+Simisage³	Serperior¹
+Samurott²
+Emboar³
 Level	88	88	88	88	88	88	88	88	88	90	90	90
 Item	Normal Gem	Psychic Gem	Flying Gem	Sitrus Berry	Sitrus Berry	Sitrus Berry	Flying Gem	Flying Gem	Flying Gem	Life Orb	Life Orb	Life Orb
 

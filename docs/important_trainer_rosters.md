@@ -1,6 +1,6 @@
 Below are the rosters for the important trainers in the game, such as the Gym Leaders, Elite Four, Bianca, Cheren and N. They are detailed in terms of levels, movesets, abilities and items. Note that these constitute as spoilers, so read at your own risk.
 
-¹ — This Pokémon changes based on the chosen starter.
+¹²³ — This Pokémon changes based on the chosen starter.
 
 #### Rival Bianca – 1
 
@@ -13,11 +13,11 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 <b>Ability:</b> Contrary
 <b>Level:</b> 5
 
-<b>Oshawott¹</b> @ No Item
+<b>Oshawott²</b> @ No Item
 <b>Ability:</b> Vital Spirit
 <b>Level:</b> 5
 
-<b>Tepig¹</b> @ No Item
+<b>Tepig³</b> @ No Item
 <b>Ability:</b> Adaptability
 <b>Level:</b> 5
 </code></pre>
@@ -33,11 +33,11 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 <b>Ability:</b> Contrary
 <b>Level:</b> 5
 
-<b>Oshawott¹</b> @ No Item
+<b>Oshawott²</b> @ No Item
 <b>Ability:</b> Vital Spirit
 <b>Level:</b> 5
 
-<b>Tepig¹</b> @ No Item
+<b>Tepig³</b> @ No Item
 <b>Ability:</b> Adaptability
 <b>Level:</b> 5
 </code></pre>
@@ -77,11 +77,11 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 <b>Ability:</b> Contrary
 <b>Level:</b> 10
 
-<b>Oshawott¹</b> @ No Item
+<b>Oshawott²</b> @ No Item
 <b>Ability:</b> Vital Spirit
 <b>Level:</b> 10
 
-<b>Tepig¹</b> @ No Item
+<b>Tepig³</b> @ No Item
 <b>Ability:</b> Adaptability
 <b>Level:</b> 10
 </code></pre>
@@ -101,11 +101,11 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 <b>Ability:</b> Contrary
 <b>Level:</b> 12
 
-<b>Oshawott¹</b> @ Oran Berry
+<b>Oshawott²</b> @ Oran Berry
 <b>Ability:</b> Vital Spirit
 <b>Level:</b> 12
 
-<b>Tepig¹</b> @ Oran Berry
+<b>Tepig³</b> @ Oran Berry
 <b>Ability:</b> Adaptability
 <b>Level:</b> 12
 </code></pre>
@@ -471,11 +471,11 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 <b>Ability:</b> Torrent
 <b>Level:</b> 14
 
-<b>Pansear¹</b> @ No Item
+<b>Pansear²</b> @ No Item
 <b>Ability:</b> Blaze
 <b>Level:</b> 14
 
-<b>Pansage¹</b> @ No Item
+<b>Pansage³</b> @ No Item
 <b>Ability:</b> Overgrow
 <b>Level:</b> 14
 
@@ -483,11 +483,11 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 <b>Ability:</b> Contrary
 <b>Level:</b> 16
 
-<b>Oshawott¹</b> @ Sitrus Berry
+<b>Oshawott²</b> @ Sitrus Berry
 <b>Ability:</b> Vital Spirit
 <b>Level:</b> 16
 
-<b>Tepig¹</b> @ Sitrus Berry
+<b>Tepig³</b> @ Sitrus Berry
 <b>Ability:</b> Adaptability
 <b>Level:</b> 16
 </code></pre>
@@ -771,11 +771,11 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 <b>Ability:</b> Unburden
 <b>Level:</b> 29
 
-<b>Simisear¹</b> @ No Item
+<b>Simisear²</b> @ No Item
 <b>Ability:</b> Technician
 <b>Level:</b> 29
 
-<b>Simisage¹</b> @ No Item
+<b>Simisage³</b> @ No Item
 <b>Ability:</b> Technician
 <b>Level:</b> 29
 
@@ -787,11 +787,11 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 <b>Ability:</b> Contrary
 <b>Level:</b> 31
 
-<b>Dewott¹</b> @ Sitrus Berry
+<b>Dewott²</b> @ Sitrus Berry
 <b>Ability:</b> Vital Spirit
 <b>Level:</b> 31
 
-<b>Pignite¹</b> @ Sitrus Berry
+<b>Pignite³</b> @ Sitrus Berry
 <b>Ability:</b> Adaptability
 <b>Level:</b> 31
 </code></pre>
@@ -819,11 +819,11 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 <b>Ability:</b> Torrent
 <b>Level:</b> 31
 
-<b>Simisear¹</b> @ Sitrus Berry
+<b>Simisear²</b> @ Sitrus Berry
 <b>Ability:</b> Blaze
 <b>Level:</b> 31
 
-<b>Simisage¹</b> @ Sitrus Berry
+<b>Simisage³</b> @ Sitrus Berry
 <b>Ability:</b> Overgrow
 <b>Level:</b> 31
 
@@ -831,11 +831,11 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 <b>Ability:</b> Contrary
 <b>Level:</b> 33
 
-<b>Dewott¹</b> @ No Item
+<b>Dewott²</b> @ No Item
 <b>Ability:</b> Vital Spirit
 <b>Level:</b> 33
 
-<b>Pignite¹</b> @ No Item
+<b>Pignite³</b> @ No Item
 <b>Ability:</b> Adaptability
 <b>Level:</b> 33
 </code></pre>
@@ -1013,11 +1013,11 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 <b>Ability:</b> Torrent
 <b>Level:</b> 36
 
-<b>Simisear¹</b> @ Expert Belt
+<b>Simisear²</b> @ Expert Belt
 <b>Ability:</b> Blaze
 <b>Level:</b> 36
 
-<b>Simisage¹</b> @ Expert Belt
+<b>Simisage³</b> @ Expert Belt
 <b>Ability:</b> Overgrow
 <b>Level:</b> 36
 
@@ -1025,11 +1025,11 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 <b>Ability:</b> Contrary
 <b>Level:</b> 38
 
-<b>Samurott¹</b> @ Sitrus Berry
+<b>Samurott²</b> @ Sitrus Berry
 <b>Ability:</b> Vital Spirit
 <b>Level:</b> 38
 
-<b>Emboar¹</b> @ Sitrus Berry
+<b>Emboar³</b> @ Sitrus Berry
 <b>Ability:</b> Adaptability
 <b>Level:</b> 38
 </code></pre>
@@ -1175,11 +1175,11 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 <b>Ability:</b> Unburden
 <b>Level:</b> 41
 
-<b>Simisear¹</b> @ No Item
+<b>Simisear²</b> @ No Item
 <b>Ability:</b> Unburden
 <b>Level:</b> 41
 
-<b>Simisage¹</b> @ No Item
+<b>Simisage³</b> @ No Item
 <b>Ability:</b> Unburden
 <b>Level:</b> 41
 
@@ -1187,11 +1187,11 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 <b>Ability:</b> Contrary
 <b>Level:</b> 43
 
-<b>Samurott¹</b> @ Sitrus Berry
+<b>Samurott²</b> @ Sitrus Berry
 <b>Ability:</b> Vital Spirit
 <b>Level:</b> 43
 
-<b>Emboar¹</b> @ Sitrus Berry
+<b>Emboar³</b> @ Sitrus Berry
 <b>Ability:</b> Adaptability
 <b>Level:</b> 43
 </code></pre>
@@ -1389,7 +1389,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 3. Nasty Plot
 4. Will-O-Wisp
 
-<b>Whimsicott¹</b> @ Lum Berry
+<b>Whimsicott²</b> @ Lum Berry
 <b>Ability:</b> Prankster
 <b>Level:</b> 53
 <b>Moves:</b>
@@ -1398,7 +1398,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 3. Tailwind
 4. Cotton Guard
 
-<b>Gyarados¹</b> @ Lum Berry
+<b>Gyarados³</b> @ Lum Berry
 <b>Ability:</b> Moxie
 <b>Level:</b> 53
 <b>Moves:</b>
@@ -1416,7 +1416,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 3. Fling
 4. Hydro Cannon
 
-<b>Simisear¹</b> @ Iron Ball
+<b>Simisear²</b> @ Iron Ball
 <b>Ability:</b> Blaze
 <b>Level:</b> 53
 <b>Moves:</b>
@@ -1425,7 +1425,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 3. Fling
 4. Blast Burn
 
-<b>Simisage¹</b> @ Iron Ball
+<b>Simisage³</b> @ Iron Ball
 <b>Ability:</b> Overgrow
 <b>Level:</b> 53
 <b>Moves:</b>
@@ -1443,7 +1443,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 3. Glare
 4. Dragon Pulse
 
-<b>Samurott¹</b> @ Sitrus Berry
+<b>Samurott²</b> @ Sitrus Berry
 <b>Ability:</b> Vital Spirit
 <b>Level:</b> 55
 <b>Moves:</b>
@@ -1452,7 +1452,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 3. Megahorn
 4. Sacred Sword
 
-<b>Emboar¹</b> @ Sitrus Berry
+<b>Emboar³</b> @ Sitrus Berry
 <b>Ability:</b> Adaptability
 <b>Level:</b> 55
 <b>Moves:</b>
@@ -1623,7 +1623,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 3. Will-O-Wisp
 4. Psychic
 
-<b>Lilligant¹</b> @ Sitrus Berry
+<b>Lilligant²</b> @ Sitrus Berry
 <b>Ability:</b> Own Tempo
 <b>Level:</b> 63
 <b>Moves:</b>
@@ -1632,7 +1632,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 3. Sleep Powder
 4. Focus Blast
 
-<b>Milotic¹</b> @ Sitrus Berry
+<b>Milotic³</b> @ Sitrus Berry
 <b>Ability:</b> Multiscale
 <b>Level:</b> 63
 <b>Moves:</b>
@@ -1650,7 +1650,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 3. Focus Blast
 4. Water Spout
 
-<b>Simisear¹</b> @ Flying Gem
+<b>Simisear²</b> @ Flying Gem
 <b>Ability:</b> Unburden
 <b>Level:</b> 63
 <b>Moves:</b>
@@ -1659,7 +1659,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 3. Focus Blast
 4. Fire Blast
 
-<b>Simisage¹</b> @ Flying Gem
+<b>Simisage³</b> @ Flying Gem
 <b>Ability:</b> Unburden
 <b>Level:</b> 63
 <b>Moves:</b>
@@ -1677,7 +1677,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 3. Glare
 4. Dragon Pulse
 
-<b>Samurott¹</b> @ Leftovers
+<b>Samurott²</b> @ Leftovers
 <b>Ability:</b> Vital Spirit
 <b>Level:</b> 65
 <b>Moves:</b>
@@ -1686,7 +1686,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 3. Megahorn
 4. Sacred Sword
 
-<b>Emboar¹</b> @ Leftovers
+<b>Emboar³</b> @ Leftovers
 <b>Ability:</b> Adaptability
 <b>Level:</b> 65
 <b>Moves:</b>
@@ -1975,7 +1975,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 3. Nasty Plot
 4. Will-O-Wisp
 
-<b>Whimsicott¹</b> @ Flying Gem
+<b>Whimsicott²</b> @ Flying Gem
 <b>Ability:</b> Prankster
 <b>Level:</b> 66
 <b>Moves:</b>
@@ -1984,7 +1984,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 3. Substitute
 4. Cotton Guard
 
-<b>Gyarados¹</b> @ Flying Gem
+<b>Gyarados³</b> @ Flying Gem
 <b>Ability:</b> Moxie
 <b>Level:</b> 66
 <b>Moves:</b>
@@ -2002,7 +2002,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 3. Focus Blast
 4. Water Spout
 
-<b>Simisear¹</b> @ Sitrus Berry
+<b>Simisear²</b> @ Sitrus Berry
 <b>Ability:</b> Blaze
 <b>Level:</b> 66
 <b>Moves:</b>
@@ -2011,7 +2011,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 3. Focus Blast
 4. Fire Blast
 
-<b>Simisage¹</b> @ Sitrus Berry
+<b>Simisage³</b> @ Sitrus Berry
 <b>Ability:</b> Overgrow
 <b>Level:</b> 66
 <b>Moves:</b>
@@ -2029,7 +2029,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 3. Glare
 4. Draco Meteor
 
-<b>Samurott¹</b> @ No Item
+<b>Samurott²</b> @ No Item
 <b>Ability:</b> Vital Spirit
 <b>Level:</b> 68
 <b>Moves:</b>
@@ -2038,7 +2038,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 3. Megahorn
 4. Secret Sword
 
-<b>Emboar¹</b> @ No Item
+<b>Emboar³</b> @ No Item
 <b>Ability:</b> Adaptability
 <b>Level:</b> 68
 <b>Moves:</b>
@@ -2745,7 +2745,7 @@ Ghetsis’ Team
 3. Nasty Plot
 4. Will-O-Wisp
 
-<b>Whimsicott¹</b> @ Flying Gem
+<b>Whimsicott²</b> @ Flying Gem
 <b>Ability:</b> Prankster
 <b>Level:</b> 88
 <b>Moves:</b>
@@ -2754,7 +2754,7 @@ Ghetsis’ Team
 3. Substitute
 4. Cotton Guard
 
-<b>Gyarados¹</b> @ Flying Gem
+<b>Gyarados³</b> @ Flying Gem
 <b>Ability:</b> Moxie
 <b>Level:</b> 88
 <b>Moves:</b>
@@ -2772,7 +2772,7 @@ Ghetsis’ Team
 3. Focus Blast
 4. Water Spout
 
-<b>Simisear¹</b> @ Life Orb
+<b>Simisear²</b> @ Life Orb
 <b>Ability:</b> Blaze
 <b>Level:</b> 88
 <b>Moves:</b>
@@ -2781,7 +2781,7 @@ Ghetsis’ Team
 3. Focus Blast
 4. Fire Blast
 
-<b>Simisage¹</b> @ Life Orb
+<b>Simisage³</b> @ Life Orb
 <b>Ability:</b> Overgrow
 <b>Level:</b> 88
 <b>Moves:</b>
@@ -2799,7 +2799,7 @@ Ghetsis’ Team
 3. Glare
 4. Draco Meteor
 
-<b>Samurott¹</b> @ No Item
+<b>Samurott²</b> @ No Item
 <b>Ability:</b> Vital Spirit
 <b>Level:</b> 90
 <b>Moves:</b>
@@ -2808,7 +2808,7 @@ Ghetsis’ Team
 3. Megahorn
 4. Secret Sword
 
-<b>Emboar¹</b> @ No Item
+<b>Emboar³</b> @ No Item
 <b>Ability:</b> Adaptability
 <b>Level:</b> 90
 <b>Moves:</b>
@@ -2861,7 +2861,7 @@ Ghetsis’ Team
 3. Will-O-Wisp
 4. Psychic
 
-<b>Lilligant¹</b> @ Sitrus Berry
+<b>Lilligant²</b> @ Sitrus Berry
 <b>Ability:</b> Own Tempo
 <b>Level:</b> 88
 <b>Moves:</b>
@@ -2870,7 +2870,7 @@ Ghetsis’ Team
 3. Sleep Powder
 4. Aromatherapy
 
-<b>Milotic¹</b> @ Sitrus Berry
+<b>Milotic³</b> @ Sitrus Berry
 <b>Ability:</b> Multiscale
 <b>Level:</b> 88
 <b>Moves:</b>
@@ -2888,7 +2888,7 @@ Ghetsis’ Team
 3. Focus Blast
 4. Hydro Pump
 
-<b>Simisear¹</b> @ Flying Gem
+<b>Simisear²</b> @ Flying Gem
 <b>Ability:</b> Unburden
 <b>Level:</b> 88
 <b>Moves:</b>
@@ -2897,7 +2897,7 @@ Ghetsis’ Team
 3. Focus Blast
 4. Overheat
 
-<b>Simisage¹</b> @ Flying Gem
+<b>Simisage³</b> @ Flying Gem
 <b>Ability:</b> Unburden
 <b>Level:</b> 88
 <b>Moves:</b>
@@ -2915,7 +2915,7 @@ Ghetsis’ Team
 3. Glare
 4. Reflect
 
-<b>Samurott¹</b> @ Life Orb
+<b>Samurott²</b> @ Life Orb
 <b>Ability:</b> Vital Spirit
 <b>Level:</b> 90
 <b>Moves:</b>
@@ -2924,7 +2924,7 @@ Ghetsis’ Team
 3. Megahorn
 4. Ice Beam
 
-<b>Emboar¹</b> @ Life Orb
+<b>Emboar³</b> @ Life Orb
 <b>Ability:</b> Adaptability
 <b>Level:</b> 90
 <b>Moves:</b>
