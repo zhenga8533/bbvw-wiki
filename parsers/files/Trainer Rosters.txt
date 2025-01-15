@@ -417,5 +417,4 @@ Ace Trainer David: Tyranitar L67, Excadrill L67, Steelix L67, Golem L67, Garchom
 Veteran Martell: Slaking L68, Haxorus L68, Sceptile L68, Aggron L68, Dusclops L68
 * Cheren
 
-At this point, every Pokémon except for legendaries and Unown should be 
-seen in the PokéDex.
+At this point, every Pokémon except for legendaries and Unown should be seen in the PokéDex.
