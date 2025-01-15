@@ -1,4 +1,3 @@
-Wild Pokémon
 Recall that no shaking grass will appear until after the first badge has been obtained!
 
 'Special' refers to the rare spots. Doubles refers to tall grass where double battles can occur.
@@ -11,7 +10,7 @@ You won’t be able to get all 649 in the wild alone, but evolution will make it
 Note that there are several sections with a “Legendary Encounter.” The legendary is a normal Wild Pokémon, just very rare. Obviously the total encounter chance can’t be 101-102%, but the Pokemon whose chance is lessened as a result is not listed. Usually, it’s just the last one in the list, so a 10% might become an 8%, a 5% might become a 4% etcetera. Although it’s somewhat untidy, this is the best method that can be done for now, due to scripting being impossible as of August 2011.
 
 There are a couple of differences between Blaze Black and Volt White. Namely, Blaze Black will find Zekrom, Thundurus and the pink Shellos/Gastrodon wild, as well as Red Basculin only. Volt White instead get Reshiram, Tornadus and the blue Shellos/Gastrodon wild, and Blue Basculin only. The opposites of each legendary are catchable as per usual in their regular places.
-
+==================================================================
 Route 1
 
 
@@ -48,14 +47,14 @@ Grass, Normal: Munna (20%), Drowzee (20%), Spinda (10%), Natu (10%), Venonat (10
 Grass, Doubles: Munna (20%), Hypno (20%), Clefairy (10%), Jigglypuff (10%), Xatu (10%), Venomoth (10%), Kirlia (10%), Spinda (10%)
 Grass, Special: Audino (40%), Togepi (20%), Cleffa (10%), Igglybuff (10%), Chingling (10%), Lunatone (5%), Solrock (5%)
 
-LEGENDARY ENCOUNTER
+Legendary Encounter
 
 Jirachi, Level 30
 Dreamyard
 Grass, Special, 1%
 * Dreams and wishes often coincide, and as a result the Wishmaker Jirachi is attracted to the Dreamyard. You might be lucky enough to find him early on your journey, but don’t undestimate its power!
 
-SPECIAL ENCOUNTER
+Special Encounter
 
 Musharna, Level 70
 Dreamyard Basement
@@ -110,7 +109,7 @@ Surf, Special: Masquerain (100%)
 Fish, Normal: Psyduck (60%), Poliwag (40%)
 Fish, Special: Poliwhirl (95%), Politoed (5%)
 
-LEGENDARY ENCOUNTER
+Legendary Encounter
 
 Virizion. Level 56
 Rumination Field
@@ -119,7 +118,7 @@ Liberty Garden
 
 
 
-LEGENDARY ENCOUNTER
+Legendary Encounter
 
 Victini, Level 20
 Liberty Tower Basement
@@ -158,7 +157,7 @@ Sand: Sandile (20%), Sandshrew (20%), Darumaka (10%), Scraggy (10%), Cacnea (10%
 Main
 Sand: Trapinch (20%), Darumaka (20%), Cacnea (10%), Hippopotas (10%), Gligar (10%), Dwebble (10%), Maractus (5%), Sigilyph (5%), Skarmory (5%), Mandibuzz (5%)
 
-SPECIAL ENCOUNTER
+Special Encounter
 
 Darmanitan, Level 35
 Desert Resort
@@ -183,28 +182,28 @@ Sand: Krokorok (20%), Cofagrigus (20%), Vibrava (10%), Hippowdon (10%), Sandslas
 Pot Rooms
 Sand: Unown (100%)
 
-LEGENDARY ENCOUNTER
+Legendary Encounter
 
 Regirock, Level 50
 Relic Castle, B5F
 Sand, 1%
 * The Relic Castle is a place with many ancient secrets sleeping beneath its depths. The arrival of Team Plasma has made two particular members of a trio wake up… but you’ll be lucky to bump into them. 
 
-LEGENDARY ENCOUNTER
+Legendary Encounter
 
 Registeel, Level 50
 Relic Castle, B5F
 Sand, 1%
 * The ancient, sandy area is also enjoyed by the tough Registeel, but despite its size, it’s still rare to make contact with it. Why? Who knows; blame it on their legendary powers.
 
-LEGENDARY ENCOUNTER
+Legendary Encounter
 
 Regigigas. Level 70
 Relic Castle, Volcarona Room
 Floor, 1%
 * It’s of little surprise that the king would appear in the same area as the majority of his subjects. The deepest, most valuable room in the castle houses this beast.
 
-SPECIAL ENCOUNTER
+Special Encounter
 
 Volcarona, Level 75
 Relic Castle, Volcarona Room
@@ -237,14 +236,14 @@ Surf, Special: Gyarados (100%)
 Fish, Normal: Carvanha (60%), Magikarp (30%), Goldeen (10%)
 Fish, Special: Sharpedo (60%), Seaking (30%), Gyarados (10%)
 
-LEGENDARY ENCOUNTER
+Legendary Encounter
 
 Mew, Level 30
 Lostlorn Forest
 Doubles Grass, 1%.
 * Mew loves appearing in foresty areas. The Lostlorn Forest in particular is famous for its myths, and Mew is drawn to such places… mostly to play.
 
-LEGENDARY ENCOUNTER
+Legendary Encounter
 
 Celebi, Level 30
 Lostlorn Forest
@@ -285,7 +284,7 @@ Surf, Normal: Finneon (60%), Goldeen (30%), Chinchou (10%)
 Surf, Special: Lumineon (60%), Lanturn (30%), Seaking (10%)
 Fish, Normal: Finneon (60%), Chinchou (40%)
 Fish, Special: Lumineon (60%), Lanturn (40%)
-
+==================================================================
 Route 6 – Winter
 Grass, Normal: Snover (20%), Deerling (20%), Stantler (10%), Foongus (10%), Pidgeotto (10%), Natu (10%), Mime Jr. (5%), Bonsly (5%), Plusle (5%), Minun (5%)
 Grass, Doubles: Snover (20%), Sawsbuck (20%), Stantler (10%), Foongus (10%), Pidgeotto (10%), Xatu (10%), Mr. Mime (5%), Sudowoodo (5%), Plusle (5%), Minun (5%)
@@ -311,7 +310,7 @@ B2F
 Cave, Normal: Galvantula (20%), Klang (20%), Electabuzz (10%), Magneton (10%), Electrode (10%), Ferrothorn (10%), Durant (5%), Eelektrik (5%), Porygon (5%), Rotom (4%)
 Cave, Special: Excadrill (50%), Dugtrio (50%)
 
-LEGENDARY ENCOUNTER
+Legendary Encounter
 
 Zapdos, Level 50
 Chargestone Cave, B2F.
@@ -339,7 +338,7 @@ Tower, Normal: Lampent (20%), Beheeyem (20%), Chimecho (10%), Haunter (10%), Dus
 5F (Roof)
 Tower, Normal: Misdreavus (20%), Murkrow (20%), Drifblim (20%), Noctowl (20%), Absol (10%), Spiritomb (10%) 
 
-LEGENDARY ENCOUNTER
+Legendary Encounter
 
 Cresselia, Level 50
 Celestial Tower, Roof
@@ -354,7 +353,7 @@ Surf, Special: Wailord (60%), Corsola (30%), Mantine (10%)
 Fish, Normal: Luvdisc (100%)
 Fish, Special: Alomomola (60%), Corsola (40%)
 
-LEGENDARY ENCOUNTER
+Legendary Encounter
 
 Manaphy, Level 30
 Route 17
@@ -373,7 +372,7 @@ Surf, Special: Alomomola (60%), Qwilfish (30%), Sharpedo (10%)
 Fish, Normal: Tentacool (60%), Horsea (40%)
 Fish, Special: Qwilfish (60%), Seadra (30%), Tentacruel (10%)
 
-SPECIAL ENCOUNTER
+Special Encounter
 
 Phione, Level 30
 Route 17
@@ -402,28 +401,28 @@ Mistralton Cave 3F (Guidance Chamber)
 Cave, Normal: Steelix (20%), Rhydon (20%), Pupitar (10%), Shelgon (10%), Metang (10%), Gabite (10%), Fraxure (10%), Zweilous (10%)
 Cave, Special: Excadrill (50%), Dugtrio (50%)
 
-LEGENDARY ENCOUNTER
+Legendary Encounter
 
 Uxie, Level 50
 Mistralton Cave, 1F
 Cave, Normal, 1%
 * Mistralton Cave, though already home to the mythical Cobalion, is a dark cave close by to the bountiful rivers to Route 6. It’s no lake, but it’s a good enough place for the pixie trio to reside.
 
-LEGENDARY ENCOUNTER
+Legendary Encounter
 
 Mesprit, Level 50
 Mistralton Cave, 2F
 Cave, Normal, 1%
 * Mistralton Cave, though already home to the mythical Cobalion, is a dark cave close by to the bountiful rivers to Route 6. It’s no lake, but it’s a good enough place for the pixie trio to reside.
 
-LEGENDARY ENCOUNTER
+Legendary Encounter
 
 Azelf, Level 50
 Mistralton Cave, 3F
 Cave, Normal, 1%
 * Mistralton Cave, though already home to the mythical Cobalion, is a dark cave close by to the bountiful rivers to Route 6. It’s no lake, but it’s a good enough place for the pixie trio to reside.
 
-LEGENDARY ENCOUNTER
+Legendary Encounter
 
 Cobalion, Level 56
 Guidance Chamber
@@ -440,7 +439,7 @@ Not 1F - All Seasons
 Cave, Normal: Donphan (20%), Ursaring (20%), Beartic (10%), Sneasel (10%), Delibird (10%), Piloswine (10%), Mawile (5%), Sableye (5%), Cryogonal (5%), Durant (5%)
 Cave, Special: Excadrill (50%), Dugtrio (50%)
 
-LEGENDARY ENCOUNTER
+Legendary Encounter
 
 Regice, Level 50
 Twist Mountain, Ice Rock Room, Winter
@@ -467,7 +466,7 @@ Surf, Special: Whiscash (60%), Seismitoad (40%)
 Fish, Normal: Barboach (70%), Stunfisk (30%)
 Fish, Special: Barboach (60%), Stunfisk (30%), Whiscash (10%)
 
-LEGENDARY ENCOUNTER
+Legendary Encounter
 
 Keldeo, Level 56
 Moor of Iccirus, Autumn
@@ -502,14 +501,14 @@ Tower, Normal: Druddigon (40%), Baltoy (30%), Golett (30%)
 Inside – Room Two
 Tower, Normal: Claydol (50%), Golurk (50%)
 
-LEGENDARY ENCOUNTER
+Legendary Encounter
 
 Articuno, Level 50
 Dragonspiral Tower, Outside, Winter
 Doubles Grass, 1%.
 * Only in the doubles grass right outside the tower! Articuno enjoys a rest in the snowy north of the Unova region, but you might be welcome to disturb it.
 
-LEGENDARY ENCOUNTER
+Legendary Encounter
 
 Suicune, Level 50
 Dragonspiral Tower, Outside, Spring, Summer & Autumn
@@ -524,14 +523,14 @@ Grass, Normal: Gothorita (20%), Duosion (20%), Kirlia (10%), Minccino (10%), Paw
 Grass, Doubles: Flaaffy (20%), Luxio (20%), Hypno (10%), Cinccino (10%), Bisharp (10%), Garbodor (10%), Houndoom (10%), Granbull (10%)
 Grass, Special: Audino (90%), Gothitelle (5%), Reuniclus (5%)
 
-LEGENDARY ENCOUNTER
+Legendary Encounter
 
 Raikou, Level 50
 Route 9
 Grass, Special, 1%.
 * You’ll have to sift through loads of Audino for this beast. Raikou is naturally attracted to electricity, and the Department Store in the route has plenty of that.
 
-LEGENDARY ENCOUNTER
+Legendary Encounter
 
 Entei, Level 50
 Route 9
@@ -547,7 +546,7 @@ Grass, Normal: Herdier (20%), Pidgeotto (20%), Rufflet (10%), Vullaby (10%), Mac
 Grass, Doubles: Mandibuzz (20%), Braviary (20%), Bouffalant (10%), Grumpig (10%), Drapion (10%), Scrafty (10%), Heracross (10%), Manectric (10%)
 Grass, Special: Audino (100%)
 
-LEGENDARY ENCOUNTER
+Legendary Encounter
 / 
 Tornadus, Level 40 (Volt White) / Thundurus, Level 40 (Blaze Black)
 Route 10, Main Route
@@ -559,14 +558,14 @@ Grass, Normal: Linoone (20%), Bibarel (20%), Skiploom (10%), Arbok (10%), Sandsl
 Grass, Doubles: Scyther (20%), Pinsir (20%), Cherrim (10%), Fearow (10%), Herdier (10%), Rapidash (10%), Tropius (10%), Girafarig (10%)
 Grass, Special: Chansey (90%), Blissey (10%)
 
-LEGENDARY ENCOUNTER
+Legendary Encounter
 
 Latias, Level 60
 Route 10, League Path
 Grass, Doubles, 1%
 * The Lati twins have always loved challenging destined League champions, and in Unova this is no exception. They even wait on the actual path to the League, just to be sure. Of course, they also like to test people by remaining hidden.
 
-LEGENDARY ENCOUNTER
+Legendary Encounter
 
 Latios, Level 60
 Route 10, League Path
@@ -592,19 +591,19 @@ Inside – Rooms without Water
 Cave, Normal: Loudred (20%), Durant (20%), Woobat (10%), Golbat (10%), Klang (10%), Rhydon (10%), Boldore (10%), Gurdurr (10%)
 Cave, Special: Excadrill (25%), Dugtrio (25%), Steelix (25%), Sandslash (25%)
 
-LEGENDARY ENCOUNTER
+Legendary Encounter
 
 Terrakion, Level 56
 Victory Road, Trial Chamber
 
-LEGENDARY ENCOUNTER
+Legendary Encounter
 
 Moltres, Level 50
 Victory Road, Outside
 Rocky Grass, 1%.
 * Good luck using Repel with this bird! Moltres loves a rocky field, and after being shifted around by game desingers twice, it needed a rest. The peaks of Victory Road make for a great perch.
 
-LEGENDARY ENCOUNTER
+Legendary Encounter
 
 Heatran. Level 60
 Victory Road, Trial Chamber
@@ -615,8 +614,7 @@ N’s Castle
 
 
 
-LEGENDARY ENCOUNTER
- /
+Legendary Encounter
 Reshiram (Blaze Black) | Zekrom (Volt White)
 Level 70
 N’s Castle
@@ -647,14 +645,14 @@ Surf, Special: Sharpedo (60%), Jellicent (40%)
 Fish, Normal: Carvanha (70%), Basculin (30%)
 Fish, Special: Carvanha (60%), Basculin (30%), Sharpedo (10%)
 
-LEGENDARY ENCOUNTER
+Legendary Encounter
 
 Shaymin, Level 50
 Village Bridge
 Grass, Doubles, 1%
 * This little hedgehog loves the peaceful river and vegetation of the Village Bridge, and can be found dancing among the flowers to the music. A run in with this small legendary is unlikely, but not impossible.
 
-LEGENDARY ENCOUNTER
+Legendary Encounter
 
 Meloetta, Level 50
 Village Bridge
@@ -682,7 +680,7 @@ Surf, Special: Tentacruel (60%), Starmie (30%), Kingdra (10%)
 Fish, Normal: Shellder (65%), Krabby (30%), Luvdisc (5%)
 Fish, Special: Shellder (60%), Luvdisc (30%), Kingler (5%), Cloyster (5%)
 
-LEGENDARY ENCOUNTER
+Legendary Encounter
 
 Lugia, Level 70
 Route 13
@@ -697,7 +695,7 @@ Grass, Normal: Absol (20%), Drifblim (20%), Swellow (10%), Lunatone (10%), Solro
 Grass, Doubles: Golbat (20%), Tangela (20%), Nidorino (10%), Nidorina (10%), Yanma (10%), Gloom (10%), Weepinbell (10%), Skiploom (10%)
 Grass, Special: Audino (80%), Tangrowth (5%), Crobat (5%), Nidoking (5%), Nidoqueen (5%)
 
-LEGENDARY ENCOUNTER
+Legendary Encounter
 
 Deoxys, Level 70
 Giant Chasm, Outside Area
@@ -715,14 +713,14 @@ Surf, Special: Walrein (100%)
 Fish, Normal: Poliwag (65%), Basculin (30%), Poliwhirl (5%)
 Fish, Special: Poliwhirl (65%), Baculin (30%), Poliwrath (5%)
 
-LEGENDARY ENCOUNTER
+Legendary Encounter
 
 Dialga, Level 70
 Giant Chasm, Inside Cave (not Kyurem bit)
 Cave, Normal, 1%
 * The Giant Chasm, ruled by Kyurem, is sometimes rumoured to also be related to the powers of time. Dialga’s visits to this place mean you might just find it, or perhaps its counterpart, Palkia.
 
-LEGENDARY ENCOUNTER
+Legendary Encounter
 
 Palkia, Level 70
 Giant Chasm, Inside Cave (not Kyurem bit)
@@ -737,21 +735,20 @@ Grass, Normal: Clefairy (20%), Jigglypuff (20%), Skitty (10%), Sneasel (10%), Me
 Grass, Doubles: Piloswine (20%), Abomasnow (20%), Bouffalant (10%), Solrock (10%), Lunatone (10%), Skiploom (10%), Metang (10%), Ditto (10%)
 Grass, Special: Audino (80%), Clefable (5%), Wigglytuff (5%), Mamoswine (5%), Metagross (5%)
 
-LEGENDARY ENCOUNTER
+Legendary Encounter
 
 Giratina, Level 70
 Giant Chasm, Inside Plains
 Grass, Doubles, 1%
 * Giratina, the third dragon of Sinnoh, also makes an appearance. Though he intends to see the Celestial Tower, the Giant Chasm is an ideal place for rest.
 
-LEGENDARY ENCOUNTER
-/ 
+Legendary Encounter
 Reshiram, Level 70 (Volt White) / Zekrom, Level 70 (Blaze Black)
 Giant Chasm, Inside Plains
 Grass, Doubles, 1%
 * The remaining Tao dragon also appears, having split off from N and returning to greet the third member of its trio. You might be able to find it, if you’re lucky…
 
-LEGENDARY ENCOUNTER
+Legendary Encounter
 
 Kyurem, Level 75
 Giant Chasm, Rear Cave
@@ -775,7 +772,7 @@ Surf, Special: Mantine (60%), Wailord (40%)
 Fish, Normal: Remoraid (65%), Shellder (30%), Luvdisc (5%)
 Fish, Special: Shellder (60%), Luvdisc (30%), Octillery (5%), Cloyster (5%)
 
-LEGENDARY ENCOUNTER
+Legendary Encounter
 
 Kyogre, Level 70
 Undella Bay, Summer
@@ -806,14 +803,14 @@ Surf, Special: Slowking (60%), Slowbro (40%)
 Fish, Normal: Goldeen (70%), Basculin (30%)
 Fish, Special: Goldeen (60%), Basculin (30%), Seaking (10%)
 
-LEGENDARY ENCOUNTER
+Legendary Encounter
 
 Ho-oh, Level 70
 Abundant Shrine
 Grass, Special, 1%
 * Ho-oh sometimes visits the shrine as a peace offering from Johto. Legendaries have culture too, you know! If you’re lucky, you might catch a glimpse of it.
 
-LEGENDARY ENCOUNTER
+Legendary Encounter
 
 Landorus, Level 75
 Abundant Shrine
@@ -832,7 +829,7 @@ Grass, Normal: Throh (20%), Sawk (20%), Tyrogue (10%), Graveler (10%), Gabite (1
 Grass, Doubles: Machoke (20%), Gurdurr (20%), Pupitar (10%), Gligar (10%), Kangaskhan (10%), Donphan (10%), Ursaring (10%), Marowak (10%)
 Grass, Special: Audino (70%), Emolga (10%), Tyranitar (5%), Gliscor (5%), Machamp (5%), Conkeldurr (5%)
 
-LEGENDARY ENCOUNTER
+Legendary Encounter
 
 Groudon, Level 70
 Route 15
@@ -845,47 +842,46 @@ Marvelous Bridge
 
 Bridge, Special: Swanna (20%), Pelipper (20%), Altaria (20%), Fearow (20%), Skiploom (20%)
 
-LEGENDARY ENCOUNTER
+Legendary Encounter
 
 Rayquaza, Level 70
 Marvelous Bridge
 Bridge, Special, 1%
 * At the altitude of the Wonder Bridge, it isn’t all that uncommon to see Rayquaza flying by. Well, it is, but regardless it needs to keep an eye on Kyogre and Groudon. Perhaps if a trainer looks straight up at the sky, they may just be lucky enough to see it…
+
+
+
 ==================================================================
-Challenger’s Cave – All Floors
-
-
-
-1F
+Challenger’s Cave – 1F
 Cave, Normal: Mawile (20%), Sableye (20%), Lickitung (10%), Graveler (10%), Woobat (10%), Boldore (10%), Marowak (10%), Hariyama (10%)
 Cave, Special: Excadrill (50%), Dugtrio (50%)
 
-LEGENDARY ENCOUNTER
+Legendary Encounter
 
 Genesect, Level 75
 Challenger’s Cave, 1F
 Cave, Normal, 1%.
 * Though previously seen in the hands of Ghetsis, the artificial Genesect now appears in the top floors of the looming Challenger’s Cave. The threats below keep it from descending, but this insect might just drop on your head. It won’t be pretty.
-
-B1F
+==================================================================
+Challenger’s Cave – B1F
 Cave, Normal: Mawile (20%), Sableye (20%), Magneton (10%), Golbat (10%), Wobbuffet (10%), Parasect (10%), Marowak (10%), Electrode (10%)
 Cave, Special: Excadrill (50%), Dugtrio (50%)
 
-LEGENDARY ENCOUNTER
+Legendary Encounter
 
 Mewtwo, Level 75
 Challenger’s Cave, B1F
 Cave, Normal, 1%.
 * Mewtwo returns in a post League cave once more. Challenger’s Cave is a lot like Cerulean’s Cave, but a certain Pokémon God stopped him getting into the real bottom floor. Still, the dark and damp is enough to make it feel like home.
 
-LEGENDARY ENCOUNTER
+Legendary Encounter
 
 Darkrai, Level 70
 Challenger’s Cave, B1F
 Cave, Normal, 1%.
 * The dark, mid-depths of the Challenger’s Cave are also of intrigue to Darkrai, who loves the darkness and occasionally likes to taunt the people of Icirrus City and Opelucid City with nightmares. But you don’t need to hear about that.
-
-B2F
+==================================================================
+Challenger’s Cave – B2F
 Cave, Normal: Mawile (20%), Sableye (20%), Kadabra (10%), Golbat (10%), Zweilous (10%), Medicham (10%), Ursaring (10%), Donphan (10%)
 Cave, Special: Excadrill (50%), Dugtrio (50%)
 Surf, Normal: Psyduck (90%), Tentacool (10%)
@@ -893,7 +889,7 @@ Surf, Special: Tentacruel (60%), Golduck (30%), Starmie (10%)
 Fish, Normal: Goldeen (90%), Poliwhirl (10%)
 Fish, Special: Seaking (60%), Gyarados (30%), Poliwrath (5%), Politoed (5%)
 
-LEGENDARY ENCOUNTER
+Legendary Encounter
 
 Arceus, Level 80
 Challenger’s Cave, B2F

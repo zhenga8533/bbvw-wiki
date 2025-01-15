@@ -1,7 +1,7 @@
-Wild Pokémon
 Recall that no shaking grass will appear until after the first badge has been obtained!
 
 'Special' refers to the rare spots. Doubles refers to tall grass where double battles can occur.
+
 Unless otherwise stated, fishing encounters have not been edited.
 
 Thanks go to Serebii.net for the images.
@@ -12,105 +12,397 @@ Note that there are several sections with a “Legendary Encounter.” The legen
 
 There are a couple of differences between Blaze Black and Volt White. Namely, Blaze Black will find Zekrom, Thundurus and the pink Shellos/Gastrodon wild, as well as Red Basculin only. Volt White instead get Reshiram, Tornadus and the blue Shellos/Gastrodon wild, and Blue Basculin only. The opposites of each legendary are catchable as per usual in their regular places.
 
-Route 1
+---
 
-Grass, Normal: Lillipup (20%), Pidgey (20%), Bidoof (10%), Sentret (10%), Rattata (10%), Zigzagoon (10%), Starly (10%), Hoothoot (10%)
-Grass, Doubles: Herdier (20%), Watchog (20%), Bibarel (10%), Furret (10%), Raticate (10%), Linoone (10%), Mightyena (5%), Pidgeotto (5%), Staravia (5%), Noctowl (5%)
-Grass, Special: Audino (80%), Happiny (10%), Azurill (10%)
-Surf, Normal: Basculin (60%), Marill (30%), Feebas (10%)
-Surf, Special: Basculin (60%), Azumarill (30%), Feebas (10%)
-Fish, Normal: Goldeen (60%), Magikarp (30%), Feebas (10%)
-Fish, Special: Basculin (60%), Dratini (30%), Gyarados (5%), Milotic (5%)
-==================================================================
-Route 2
+#### Route 1
 
-Grass, Normal: Purrloin (20%), Patrat (20%), Kricketot (10%), Caterpie (10%), Wurmple (10%), Weedle (10%), Poochyena (5%), Meowth (5%), Spearow (5%), Mankey (5%)
-Grass, Special: Audino (60%), Skitty (10%), Nincada (10%), Butterfree (5%), Beedrill (5%), Beautifly (5%), Dustox (5%)
-==================================================================
-Striaton City
+<pre><code><b>Grass, Normal:</b>
+1. Lillipup (20%)
+2. Pidgey (20%)
+3. Bidoof (10%)
+4. Sentret (10%)
+5. Rattata (10%)
+6. Zigzagoon (10%)
+7. Starly (10%)
+8. Hoothoot (10%)
 
-Surf, Normal: Marill (100%)
-Surf, Special: Azumarill (100%)
-Fish, Normal: Psyduck (60%), Slowpoke (30%), Staryu (10%)
-Fish, Special: Basculin (60%), Staryu (40%)
-==================================================================
-Dreamyard
+<b>Grass, Doubles:</b>
+1. Herdier (20%)
+2. Watchog (20%)
+3. Bibarel (10%)
+4. Furret (10%)
+5. Raticate (10%)
+6. Linoone (10%)
+7. Mightyena (5%)
+8. Pidgeotto (5%)
+9. Staravia (5%)
+10. Noctowl (5%)
 
-Grass, Normal: Munna (20%), Drowzee (20%), Spinda (10%), Natu (10%), Venonat (10%), Ralts (10%), Clefairy (5%), Jigglypuff (5%), Nidoran♂ (5%), Nidoran♀ (5%)
-Grass, Doubles: Munna (20%), Hypno (20%), Clefairy (10%), Jigglypuff (10%), Xatu (10%), Venomoth (10%), Kirlia (10%), Spinda (10%)
-Grass, Special: Audino (40%), Togepi (20%), Cleffa (10%), Igglybuff (10%), Chingling (10%), Lunatone (5%), Solrock (5%)
+<b>Grass, Special:</b>
+1. Audino (80%)
+2. Happiny (10%)
+3. Azurill (10%)
 
-LEGENDARY ENCOUNTER
+<b>Surf, Normal:</b>
+1. Basculin (60%)
+2. Marill (30%)
+3. Feebas (10%)
 
+<b>Surf, Special:</b>
+1. Basculin (60%)
+2. Azumarill (30%)
+3. Feebas (10%)
+
+<b>Fish, Normal:</b>
+1. Goldeen (60%)
+2. Magikarp (30%)
+3. Feebas (10%)
+
+<b>Fish, Special:</b>
+1. Basculin (60%)
+2. Dratini (30%)
+3. Gyarados (5%)
+4. Milotic (5%)
+</code></pre>
+
+---
+
+#### Route 2
+
+<pre><code><b>Grass, Normal:</b>
+1. Purrloin (20%)
+2. Patrat (20%)
+3. Kricketot (10%)
+4. Caterpie (10%)
+5. Wurmple (10%)
+6. Weedle (10%)
+7. Poochyena (5%)
+8. Meowth (5%)
+9. Spearow (5%)
+10. Mankey (5%)
+
+<b>Grass, Special:</b>
+1. Audino (60%)
+2.  Skitty (10%)
+3. Nincada (10%)
+4. Butterfree (5%)
+5. Beedrill (5%)
+6. Beautifly (5%)
+7. Dustox (5%)
+</code></pre>
+
+---
+
+#### Striaton City
+
+<pre><code><b>Surf, Normal:</b>
+1. Marill (100%)
+
+<b>Surf, Special:</b>
+1. Azumarill (100%)
+
+<b>Fish, Normal:</b>
+1. Psyduck (60%)
+2. Slowpoke (30%)
+3. Staryu (10%)
+
+<b>Fish, Special:</b>
+1. Basculin (60%)
+2. Staryu (40%)
+</code></pre>
+
+---
+
+#### Dreamyard
+
+<pre><code><b>Grass, Normal:</b>
+1. Munna (20%)
+2. Drowzee (20%)
+3. Spinda (10%)
+4. Natu (10%)
+5. Venonat (10%)
+6. Ralts (10%)
+7. Clefairy (5%)
+8. Jigglypuff (5%)
+9. Nidoran♂ (5%)
+10. Nidoran♀ (5%)
+
+<b>Grass, Doubles:</b>
+1. Munna (20%)
+2. Hypno (20%)
+3. Clefairy (10%)
+4. Jigglypuff (10%)
+5. Xatu (10%)
+6. Venomoth (10%)
+7. Kirlia (10%)
+8. Spinda (10%)
+
+<b>Grass, Special:</b>
+1. Audino (40%)
+2. Togepi (20%)
+3. Cleffa (10%)
+4. Igglybuff (10%)
+5. Chingling (10%)
+6. Lunatone (5%)
+7. Solrock (5%)
+</code></pre>
+
+##### Legendary Encounter
+
+```
 Jirachi, Level 30
 Dreamyard
 Grass, Special, 1%
+```
 
-- Dreams and wishes often coincide, and as a result the Wishmaker Jirachi is attracted to the Dreamyard. You might be lucky enough to find him early on your journey, but don’t undestimate its power!
+<sub><sup>_Dreams and wishes often coincide, and as a result the Wishmaker Jirachi is attracted to the Dreamyard. You might be lucky enough to find him early on your journey, but don’t undestimate its power!_</sub></sup>
 
-SPECIAL ENCOUNTER
+</code></pre>
 
+##### Special Encounter
+
+```
 Musharna, Level 70
 Dreamyard Basement
-==================================================================
-Route 3
+```
 
-Grass, Normal: Mareep (20%), Taillow (20%), Shellos (10%), Sunkern (10%), Lotad (10%), Seedot (10%), Shinx (10%), Abra (5%), Phanpy (5%)
-Grass, Doubles: Blitzle (20%), Pidove (20%), Growlithe (10%), Vulpix (10%), Hoppip (10%), Budew (10%), Marill (5%), Houndour (5%), Volbeat (4%), Illumise (4%), Lombre (1%), Nuzleaf (1%)
-Grass, Special: Audino (70%), Oshawott (10%), Squirtle (5%), Totodile (5%), Mudkip (5%), Piplup (5%)
-Surf, Normal: Slowpoke (60%), Psyduck (30%), Marill (10%)
-Surf, Special: Golduck (60%), Azumarill (30%), Slowbro (5%), Slowking (5%)
-Fish, Normal: Poliwag (60%), Slowpoke (30%), Chinchou (5%), Remoraid (5%)
-Fish, Special: Chinchou (60%), Qwilfish (30%), Remoraid (10%)
-==================================================================
-Wellspring Cave 1F
+---
 
-1F
-Cave, Normal: Woobat (20%), Zubat (20%), Geodude (10%), Roggenrola (10%), Aron (10%), Whismur (10%), Wooper (5%), Bronzor (5%), Axew (5%), Teddiursa (5%)
-Cave, Special: Drilbur (40%), Diglett (40%), Gible (20%)
-Surf, Normal: Wooper (60%), Shellos (40%)
-Surf, Special: Quagsire (60%), Gastrodon (40%)
-Fish, Normal: Barboach (60%), Tentacool (30%), Shellder (10%)
-Fish, Special: Shellder (100%)
+#### Route 3
 
+<pre><code><b>Grass, Normal:</b>
+1. Mareep (20%)
+2. Taillow (20%)
+3. Shellos (10%)
+4. Sunkern (10%)
+5. Lotad (10%)
+6. Seedot (10%)
+7. Shinx (10%)
+8. Abra (5%)
+9. Phanpy (5%)
+
+<b>Grass, Doubles:</b>
+1. Blitzle (20%)
+2. Pidove (20%)
+3. Growlithe (10%)
+4. Vulpix (10%)
+5. Hoppip (10%)
+6. Budew (10%)
+7. Marill (5%)
+8. Houndour (5%)
+9. Volbeat (4%)
+10. Illumise (4%)
+11. Lombre (1%)
+12. Nuzleaf (1%)
+
+<b>Grass, Special:</b>
+1. Audino (70%)
+2. Oshawott (10%)
+3. Squirtle (5%)
+4. Totodile (5%)
+5. Mudkip (5%)
+6. Piplup (5%)
+
+<b>Surf, Normal:</b>
+1. Slowpoke (60%)
+2. Psyduck (30%)
+3. Marill (10%)
+
+<b>Surf, Special:</b>
+1. Golduck (60%)
+2. Azumarill (30%)
+3. Slowbro (5%)
+4. Slowking (5%)
+
+<b>Fish, Normal:</b>
+1. Poliwag (60%)
+2. Slowpoke (30%)
+3. Chinchou (5%)
+4. Remoraid (5%)
+
+<b>Fish, Special:</b>
+1. Chinchou (60%)
+2. Qwilfish (30%)
+3. Remoraid (10%)
+</code></pre>
+
+---
+
+#### Wellspring Cave 1F
+
+<pre><code>1F
+<b>Cave, Normal:</b>
+1. Woobat (20%)
+2. Zubat (20%)
+3. Geodude (10%)
+4. Roggenrola (10%)
+5. Aron (10%)
+6. Whismur (10%)
+7. Wooper (5%)
+8. Bronzor (5%)
+9. Axew (5%)
+10. Teddiursa (5%)
+
+<b>Cave, Special:</b>
+1. Drilbur (40%)
+2. Diglett (40%)
+3. Gible (20%)
+
+<b>Surf, Normal:</b>
+1. Wooper (60%)
+2. Shellos (40%)
+
+<b>Surf, Special:</b>
+1. Quagsire (60%)
+2. Gastrodon (40%)
+
+<b>Fish, Normal:</b>
+1. Barboach (60%)
+2. Tentacool (30%)
+3. Shellder (10%)
+
+<b>Fish, Special:</b>
+1. Shellder (100%)
 B1F
-Cave, Normal: Woobat (20%), Golbat (20%), Graveler (10%), Boldore (10%), Lairon (10%), Steelix (10%), Loudred (10%), Quagsire (10%)
-Cave, Special: Excadrill (50%), Dugtrio (50%)
-Surf, Normal: Whiscash (60%), Gastrodon (40%)
-Surf, Special: Whiscash (60%), Gastrodon (40%)
-Fish, Normal: Whiscash (100%)
-Fish, Special: Cloyster (100%)
-==================================================================
-Pinwheel Forest
 
-Outside
-Grass, Normal: Tympole (20%), Timburr (20%), Meditite (10%), Spinarak (10%), Ledyba (10%), Machop (10%), Makuhita (10%), Croagunk (5%), Slakoth (5%)
-Grass, Doubles: Throh (20%), Sawk (20%), Dunsparce (10%), Doduo (10%), Snubbull (10%), Aipom (10%), Cubone (9%), Burmy (9%), Heracross (2%)
-Grass, Special: Audino (50%), Tepig (10%), Tyrogue (10%), Riolu (10%), Charmander (5%), Cyndaquil (5%), Torchic (5%), Chimchar (5%)
+<b>Cave, Normal:</b>
+1. Woobat (20%)
+2. Golbat (20%)
+3. Graveler (10%)
+4. Boldore (10%)
+5. Lairon (10%)
+6. Steelix (10%)
+7. Loudred (10%)
+8. Quagsire (10%)
 
+<b>Cave, Special:</b>
+1. Excadrill (50%)
+2. Dugtrio (50%)
+
+<b>Surf, Normal:</b>
+1. Whiscash (60%)
+2. Gastrodon (40%)
+
+<b>Surf, Special:</b>
+1. Whiscash (60%)
+2. Gastrodon (40%)
+
+<b>Fish, Normal:</b>
+1. Whiscash (100%)
+
+<b>Fish, Special:</b>
+1. Cloyster (100%)
+</code></pre>
+
+---
+
+#### Pinwheel Forest
+
+<pre><code>Outside
+<b>Grass, Normal:</b>
+1. Tympole (20%)
+2. Timburr (20%)
+3. Meditite (10%)
+4. Spinarak (10%)
+5. Ledyba (10%)
+6. Machop (10%)
+7. Makuhita (10%)
+8. Croagunk (5%)
+9. Slakoth (5%)
+
+<b>Grass, Doubles:</b>
+1. Throh (20%)
+2. Sawk (20%)
+3. Dunsparce (10%)
+4. Doduo (10%)
+5. Snubbull (10%)
+6. Aipom (10%)
+7. Cubone (9%)
+8. Burmy (9%)
+9. Heracross (2%)
+
+<b>Grass, Special:</b>
+1. Audino (50%)
+2. Tepig (10%)
+3. Tyrogue (10%)
+4. Riolu (10%)
+5. Charmander (5%)
+6. Cyndaquil (5%)
+7. Torchic (5%)
+8. Chimchar (5%)
 Inside
-Grass, Normal: Cottonee (20%), Petilil (20%), Sewaddle (10%), Venipede (10%), Oddish (10%), Bellsprout (10%), Shroomish (5%), Exeggcute (5%), Murkrow (5%), Misdreavus (5%)
-Grass, Doubles: Tangela (20%), Roselia (20%), Swadloon (10%), Whirlipede (10%), Gloom (10%), Weepinbell (10%), Carnivine (5%), Scyther (5%), Pinsir (5%), Vigoroth (5%)
-Grass, Special: Audino (40%), Snivy (10%), Pansage (10%), Panpour (10%), Pansear (10%), Bulbasaur (5%), Chikorita (5%), Treecko (5%), Turtwig (5%)
-Surf, Normal: Surskit (100%)
-Surf, Special: Masquerain (100%)
-Fish, Normal: Psyduck (60%), Poliwag (40%)
-Fish, Special: Poliwhirl (95%), Politoed (5%)
 
-LEGENDARY ENCOUNTER
+<b>Grass, Normal:</b>
+1. Cottonee (20%)
+2. Petilil (20%)
+3. Sewaddle (10%)
+4. Venipede (10%)
+5. Oddish (10%)
+6. Bellsprout (10%)
+7. Shroomish (5%)
+8. Exeggcute (5%)
+9. Murkrow (5%)
+10. Misdreavus (5%)
 
+<b>Grass, Doubles:</b>
+1. Tangela (20%)
+2. Roselia (20%)
+3. Swadloon (10%)
+4. Whirlipede (10%)
+5. Gloom (10%)
+6. Weepinbell (10%)
+7. Carnivine (5%)
+8. Scyther (5%)
+9. Pinsir (5%)
+10. Vigoroth (5%)
+
+<b>Grass, Special:</b>
+1. Audino (40%)
+2. Snivy (10%)
+3. Pansage (10%)
+4. Panpour (10%)
+5. Pansear (10%)
+6. Bulbasaur (5%)
+7. Chikorita (5%)
+8. Treecko (5%)
+9. Turtwig (5%)
+
+<b>Surf, Normal:</b>
+1. Surskit (100%)
+
+<b>Surf, Special:</b>
+1. Masquerain (100%)
+
+<b>Fish, Normal:</b>
+1. Psyduck (60%)
+2. Poliwag (40%)
+
+<b>Fish, Special:</b>
+1. Poliwhirl (95%)
+2. Politoed (5%)
+</code></pre>
+
+##### Legendary Encounter
+
+```
 Virizion. Level 56
 Rumination Field
-==================================================================
-Liberty Garden
+```
 
-LEGENDARY ENCOUNTER
+---
 
+#### Liberty Garden
+
+<pre><code></code></pre>
+
+##### Legendary Encounter
+
+```
 Victini, Level 20
 Liberty Tower Basement
+```
 
 There are no Wild Pokemon in here as usual, but this is the only place to catch Victini. It is currently impossible to give the ticket in-game and have it work fully.
-
 You will need your .sav file. If you are using a flashcard such as an R4 or an Acekard, then it is likely to be readily available; you will just need to utilize your .sav file. Those of you using DeSmuME will have to use the Export Backup Memory found in the File drop-down, which will export your .dsv as a .sav. Finally, no$gba users will have to use the savegames converter to change the .sav in their BATTERY folder into a regular .sav.
 
 You then need to load up your .sav with the Pokémon Mystery Gift Editor, made by Grovyle91. The setup was included in the download for the patch. If somehow you have this document but NOT the enclosed setup, you can download it here. Once installed, you will also need the .pgf file for the Liberty Ticket event. This also came with the download, but if you are missing it then you can get it from here.
@@ -121,711 +413,1986 @@ Flashcards already have their .sav ready to play, but for the others; DeSmuME us
 
 With the wonder card loaded, simply go into any Pokémon Center and talk to the blue guy on the right. You will get the Liberty Ticket and all required flags will be activated, allowing you to sail on the ship at the far left port of the city to the island. It’s all normal from there. Note that the trainer levels are sufficent for you to catch Victini the moment you first reach Castelia City.
 
-# Don’t let the length of the words fool you; it’s simple!
+Don’t let the length of the words fool you; it’s simple!
 
-Route 4
+---
 
-Sand: Sandile (20%), Sandshrew (20%), Darumaka (10%), Scraggy (10%), Cacnea (10%), Trapinch (10%), Vullaby (10%), Hippopotas (5%), Elgyem (5%)
-Surf, Normal: Frillish (60%), Clamperl (30%), Relicanth (10%)
-Surf, Special: Jellicent (60%), Relicanth (30%), Huntail (5%), Gorebyss (5%)
-Fish, Normal: Krabby (60%), Corphish (30%), Clamperl (10%)
-Fish, Special: Clamperl (60%), Frillish (30%), Relicanth (10%)
-==================================================================
-Desert Resort
+#### Route 4
 
-Entrance
-Sand: Sandile (20%), Sandshrew (20%), Darumaka (10%), Scraggy (10%), Cacnea (10%), Dwebble (10%), Baltoy (10%), Trapinch (10%)
+<pre><code><b>Sand:</b>
+1. Sandile (20%)
+2. Sandshrew (20%)
+3. Darumaka (10%)
+4. Scraggy (10%)
+5. Cacnea (10%)
+6. Trapinch (10%)
+7. Vullaby (10%)
+8. Hippopotas (5%)
+9. Elgyem (5%)
 
+<b>Surf, Normal:</b>
+1. Frillish (60%)
+2. Clamperl (30%)
+3. Relicanth (10%)
+
+<b>Surf, Special:</b>
+1. Jellicent (60%)
+2. Relicanth (30%)
+3. Huntail (5%)
+4. Gorebyss (5%)
+
+<b>Fish, Normal:</b>
+1. Krabby (60%)
+2. Corphish (30%)
+3. Clamperl (10%)
+
+<b>Fish, Special:</b>
+1. Clamperl (60%)
+2. Frillish (30%)
+3. Relicanth (10%)
+</code></pre>
+
+---
+
+#### Desert Resort
+
+<pre><code>Entrance
+<b>Sand:</b>
+1. Sandile (20%)
+2. Sandshrew (20%)
+3. Darumaka (10%)
+4. Scraggy (10%)
+5. Cacnea (10%)
+6. Dwebble (10%)
+7. Baltoy (10%)
+8. Trapinch (10%)
 Main
-Sand: Trapinch (20%), Darumaka (20%), Cacnea (10%), Hippopotas (10%), Gligar (10%), Dwebble (10%), Maractus (5%), Sigilyph (5%), Skarmory (5%), Mandibuzz (5%)
 
-SPECIAL ENCOUNTER
+<b>Sand:</b>
+1. Trapinch (20%)
+2. Darumaka (20%)
+3. Cacnea (10%)
+4. Hippopotas (10%)
+5. Gligar (10%)
+6. Dwebble (10%)
+7. Maractus (5%)
+8. Sigilyph (5%)
+9. Skarmory (5%)
+10. Mandibuzz (5%)
+</code></pre>
 
+##### Special Encounter
+
+```
 Darmanitan, Level 35
 Desert Resort
+```
 
-- # This is still the only way to get a Zen Mode Darmanitan!
-  Relic Castle
+<sub><sup>_This is still the only way to get a Zen Mode Darmanitan!_</sub></sup>
 
-1F
-Sand: Sandile (20%), Sandshrew (20%), Rhyhorn (10%), Numel (10%), Golett (10%), Bronzor (10%), Onix (10%), Trapinch (10%)
+---
 
+#### Relic Castle
+
+<pre><code>1F
+<b>Sand:</b>
+1. Sandile (20%)
+2. Sandshrew (20%)
+3. Rhyhorn (10%)
+4. Numel (10%)
+5. Golett (10%)
+6. Bronzor (10%)
+7. Onix (10%)
+8. Trapinch (10%)
 B1F
-Sand: Yamask (20%), Gastly (20%), Shuppet (10%), Duskull (10%), Bronzor (10%), Elgyem (10%), Litwick (10%), Beldum (4%), Larvitar (4%), Larvesta (2%)
 
+<b>Sand:</b>
+1. Yamask (20%)
+2. Gastly (20%)
+3. Shuppet (10%)
+4. Duskull (10%)
+5. Bronzor (10%)
+6. Elgyem (10%)
+7. Litwick (10%)
+8. Beldum (4%)
+9. Larvitar (4%)
+10. Larvesta (2%)
 B2F, B3F, B4F, B5F
-Sand: Krokorok (20%), Cofagrigus (20%), Vibrava (10%), Hippowdon (10%), Sandslash (10%), Claydol (10%), Sigilyph (5%), Crustle (5%), Darmanitan (5%), Camerupt (5%)
 
+<b>Sand:</b>
+1. Krokorok (20%)
+2. Cofagrigus (20%)
+3. Vibrava (10%)
+4. Hippowdon (10%)
+5. Sandslash (10%)
+6. Claydol (10%)
+7. Sigilyph (5%)
+8. Crustle (5%)
+9. Darmanitan (5%)
+10. Camerupt (5%)
 B6F, Maze
-Sand: Krokorok (20%), Cofagrigus (20%), Vibrava (10%), Hippowdon (10%), Sandslash (10%), Claydol (10%), Sigilyph (5%), Crustle (5%), Darmanitan (5%), Camerupt (5%)
 
+<b>Sand:</b>
+1. Krokorok (20%)
+2. Cofagrigus (20%)
+3. Vibrava (10%)
+4. Hippowdon (10%)
+5. Sandslash (10%)
+6. Claydol (10%)
+7. Sigilyph (5%)
+8. Crustle (5%)
+9. Darmanitan (5%)
+10. Camerupt (5%)
 Pot Rooms
-Sand: Unown (100%)
 
-LEGENDARY ENCOUNTER
+<b>Sand:</b>
+1. Unown (100%)
+</code></pre>
 
+##### Legendary Encounter
+
+```
 Regirock, Level 50
 Relic Castle, B5F
 Sand, 1%
+```
 
-- The Relic Castle is a place with many ancient secrets sleeping beneath its depths. The arrival of Team Plasma has made two particular members of a trio wake up… but you’ll be lucky to bump into them.
+<sub><sup>_The Relic Castle is a place with many ancient secrets sleeping beneath its depths. The arrival of Team Plasma has made two particular members of a trio wake up… but you’ll be lucky to bump into them._</sub></sup>
 
-LEGENDARY ENCOUNTER
+</code></pre>
 
+##### Legendary Encounter
+
+```
 Registeel, Level 50
 Relic Castle, B5F
 Sand, 1%
+```
 
-- The ancient, sandy area is also enjoyed by the tough Registeel, but despite its size, it’s still rare to make contact with it. Why? Who knows; blame it on their legendary powers.
+<sub><sup>_The ancient, sandy area is also enjoyed by the tough Registeel, but despite its size, it’s still rare to make contact with it. Why? Who knows; blame it on their legendary powers._</sub></sup>
 
-LEGENDARY ENCOUNTER
+</code></pre>
 
+##### Legendary Encounter
+
+```
 Regigigas. Level 70
 Relic Castle, Volcarona Room
 Floor, 1%
+```
 
-- It’s of little surprise that the king would appear in the same area as the majority of his subjects. The deepest, most valuable room in the castle houses this beast.
+<sub><sup>_It’s of little surprise that the king would appear in the same area as the majority of his subjects. The deepest, most valuable room in the castle houses this beast._</sub></sup>
 
-SPECIAL ENCOUNTER
+</code></pre>
 
+##### Special Encounter
+
+```
 Volcarona, Level 75
 Relic Castle, Volcarona Room
-==================================================================
-Route 5
+```
 
-Grass, Normal: Solosis (20%), Gothita (20%), Koffing (10%), Trubbish (10%), Gulpin (10%), Grimer (10%), Ditto (5%), Mime Jr. (5%), Bonsly (5%), Pachirisu (5%)
-Grass, Doubles: Nidorina (20%), Nidorino (20%), Rufflet (10%), Lickitung (10%), Smeargle (10%), Minccino (10%), Miltank (5%), Tauros (5%), Bagon (5%), Munchlax (5%)
-Grass, Special: Audino (40%), Emolga (20%), Cinccino (10%), Nidoqueen (10%), Nidoking (10%), Braviary (10%)
-==================================================================
-Route 16
+---
 
-Grass, Normal: Ekans (20%), Pineco (20%), Skorupi (10%), Electrike (10%), Combee (10%), Paras (10%), Buneary (5%), Pawniard (5%), Drifloon (5%), Spoink (5%)
-Grass, Doubles: Zangoose (20%), Seviper (20%), Stunky (10%), Glameow (10%), Slugma (10%), Vespiquen (10%), Parasect (10%), Girafarig (5%), Castform (5%)
-Grass, Special: Audino (70%), Emolga (10%), Bisharp (10%), Lopunny (10%)
-==================================================================
-Lostlorn Forest
+#### Route 5
 
-Grass, Normal: Karrablast (20%), Shelmet (20%), Yanma (10%), Pichu (10%), Psyduck (10%), Surskit (10%), Farfetch'd (5%), Chatot (5%), Misdreavus (5%), Murkrow (5%)
-Grass, Doubles: Escavalier (20%), Accelgor (20%), Wormadam (10%), Mothim (10%), Masquerain (10%), Golduck (10%), Farfetch'd (5%), Chatot (5%), Swadloon (5%), Whirlipede (5%)
-Grass, Special: Audino (40%), Pikachu (10%), Kecleon (10%), Whimsicott (10%), Lilligant (10%), Zorua (5%), Eevee (5%), Mismagius (5%), Honchkrow (5%)
-Surf, Normal: Magikarp (100%)
-Surf, Special: Gyarados (100%)
-Fish, Normal: Carvanha (60%), Magikarp (30%), Goldeen (10%)
-Fish, Special: Sharpedo (60%), Seaking (30%), Gyarados (10%)
+<pre><code><b>Grass, Normal:</b>
+1. Solosis (20%)
+2. Gothita (20%)
+3. Koffing (10%)
+4. Trubbish (10%)
+5. Gulpin (10%)
+6. Grimer (10%)
+7. Ditto (5%)
+8. Mime Jr. (5%)
+9. Bonsly (5%)
+10. Pachirisu (5%)
 
-LEGENDARY ENCOUNTER
+<b>Grass, Doubles:</b>
+1. Nidorina (20%)
+2. Nidorino (20%)
+3. Rufflet (10%)
+4. Lickitung (10%)
+5. Smeargle (10%)
+6. Minccino (10%)
+7. Miltank (5%)
+8. Tauros (5%)
+9. Bagon (5%)
+10. Munchlax (5%)
 
+<b>Grass, Special:</b>
+1. Audino (40%)
+2. Emolga (20%)
+3. Cinccino (10%)
+4. Nidoqueen (10%)
+5. Nidoking (10%)
+6. Braviary (10%)
+</code></pre>
+
+---
+
+#### Route 16
+
+<pre><code><b>Grass, Normal:</b>
+1. Ekans (20%)
+2. Pineco (20%)
+3. Skorupi (10%)
+4. Electrike (10%)
+5. Combee (10%)
+6. Paras (10%)
+7. Buneary (5%)
+8. Pawniard (5%)
+9. Drifloon (5%)
+10. Spoink (5%)
+
+<b>Grass, Doubles:</b>
+1. Zangoose (20%)
+2. Seviper (20%)
+3. Stunky (10%)
+4. Glameow (10%)
+5. Slugma (10%)
+6. Vespiquen (10%)
+7. Parasect (10%)
+8. Girafarig (5%)
+9. Castform (5%)
+
+<b>Grass, Special:</b>
+1. Audino (70%)
+2. Emolga (10%)
+3. Bisharp (10%)
+4. Lopunny (10%)
+</code></pre>
+
+---
+
+#### Lostlorn Forest
+
+<pre><code><b>Grass, Normal:</b>
+1. Karrablast (20%)
+2. Shelmet (20%)
+3. Yanma (10%)
+4. Pichu (10%)
+5. Psyduck (10%)
+6. Surskit (10%)
+7. Farfetch'd (5%)
+8. Chatot (5%)
+9. Misdreavus (5%)
+10. Murkrow (5%)
+
+<b>Grass, Doubles:</b>
+1. Escavalier (20%)
+2. Accelgor (20%)
+3. Wormadam (10%)
+4. Mothim (10%)
+5. Masquerain (10%)
+6. Golduck (10%)
+7. Farfetch'd (5%)
+8. Chatot (5%)
+9. Swadloon (5%)
+10. Whirlipede (5%)
+
+<b>Grass, Special:</b>
+1. Audino (40%)
+2. Pikachu (10%)
+3. Kecleon (10%)
+4. Whimsicott (10%)
+5. Lilligant (10%)
+6. Zorua (5%)
+7. Eevee (5%)
+8. Mismagius (5%)
+9. Honchkrow (5%)
+
+<b>Surf, Normal:</b>
+1. Magikarp (100%)
+
+<b>Surf, Special:</b>
+1. Gyarados (100%)
+
+<b>Fish, Normal:</b>
+1. Carvanha (60%)
+2. Magikarp (30%)
+3. Goldeen (10%)
+
+<b>Fish, Special:</b>
+1. Sharpedo (60%)
+2. Seaking (30%)
+3. Gyarados (10%)
+</code></pre>
+
+##### Legendary Encounter
+
+```
 Mew, Level 30
 Lostlorn Forest
 Doubles Grass, 1%.
+```
 
-- Mew loves appearing in foresty areas. The Lostlorn Forest in particular is famous for its myths, and Mew is drawn to such places… mostly to play.
+<sub><sup>_Mew loves appearing in foresty areas. The Lostlorn Forest in particular is famous for its myths, and Mew is drawn to such places… mostly to play._</sub></sup>
 
-LEGENDARY ENCOUNTER
+</code></pre>
 
+##### Legendary Encounter
+
+```
 Celebi, Level 30
 Lostlorn Forest
 Doubles Grass, 1%.
+```
 
-- # Celebi also enjoys a forest, and although the Lostlorn Forest employs no shrine, it’s still a peaceful setting where Celebi can find a home.
-  Driftveil Drawbidge
+<sub><sup>_Celebi also enjoys a forest, and although the Lostlorn Forest employs no shrine, it’s still a peaceful setting where Celebi can find a home._</sub></sup>
 
-# Bridge, Special: Ducklett (20%), Wingull (20%), Swablu (20%), Spearow (20%), Hoppip (20%)
+---
 
-Driftveil City
+#### Driftveil Drawbidge
 
-Surf, Normal: Frillish (60%), Tentacool (30%), Staryu (10%)
-Surf, Special: Staryu (60%), Tentacruel (30%), Lapras (10%)
-Fish, Normal: Horsea (60%), Wailmer (30%), Mantyke (10%)
-Fish, Special: Wailmer (60%), Seadra (30%), Mantyke (10%)
-==================================================================
-Cold Storage
+<pre><code><b>Bridge, Special:</b>
+1. Ducklett (20%)
+2. Wingull (20%)
+3. Swablu (20%)
+4. Spearow (20%)
+5. Hoppip (20%)
+</code></pre>
 
-Grass, Normal: Vanillite (20%), Herdier (20%), Snorunt (10%), Swinub (10%), Cubchoo (10%), Buizel (10%), Mienfoo (10%), Taillow (10%)
-Grass, Doubles: Vanillish (20%), Herdier (20%), Swellow (10%), Floatzel (10%), Sneasel (10%), Delibird (10%), Smoochum (10%), Piloswine (10%)
-Grass, Special: Audino (90%), Mienshao (10%)
-==================================================================
-Route 6 – Spring / Summer / Autumn
+---
 
-Grass, Normal: Cherubi (20%), Deerling (20%), Stantler (10%), Foongus (10%), Pidgeotto (10%), Natu (10%), Mime Jr. (5%), Bonsly (5%), Plusle (5%), Minun (5%)
-Grass, Doubles: Cherrim (20%), Sawsbuck (20%), Stantler (10%), Foongus (10%), Pidgeotto (10%), Xatu (10%), Mr. Mime (5%), Sudowoodo (5%), Plusle (5%), Minun (5%)
-Grass, Special: Chansey (80%), Emolga (10%), Leavanny (5%), Unfezant (5%)
-Surf, Normal: Finneon (60%), Goldeen (30%), Chinchou (10%)
-Surf, Special: Lumineon (60%), Lanturn (30%), Seaking (10%)
-Fish, Normal: Finneon (60%), Chinchou (40%)
-Fish, Special: Lumineon (60%), Lanturn (40%)
+#### Driftveil City
 
-Route 6 – Winter
-Grass, Normal: Snover (20%), Deerling (20%), Stantler (10%), Foongus (10%), Pidgeotto (10%), Natu (10%), Mime Jr. (5%), Bonsly (5%), Plusle (5%), Minun (5%)
-Grass, Doubles: Snover (20%), Sawsbuck (20%), Stantler (10%), Foongus (10%), Pidgeotto (10%), Xatu (10%), Mr. Mime (5%), Sudowoodo (5%), Plusle (5%), Minun (5%)
-Grass, Special: Chansey (80%), Emolga (10%), Leavanny (5%), Unfezant (5%)
-Surf, Normal: Seel (60%), Spheal (30%), Chinchou (10%)
-Surf, Special: Dewgong (60%), Sealeo (30%), Lanturn (10%)
-Fish, Normal: Seel (60%), Spheal (30%), Chinchou (10%)
-Fish, Special: Dewgong (60%), Sealeo (30%), Lanturn (10%)
-==================================================================
-Chargestone Cave
+<pre><code><b>Surf, Normal:</b>
+1. Frillish (60%)
+2. Tentacool (30%)
+3. Staryu (10%)
 
-1F
-Cave, Normal: Joltik (20%), Klink (20%), Elekid (10%), Magnemite (10%), Voltorb (10%), Ferroseed (10%), Nosepass (10%), Lairon (10%)
-Cave, Special: Drilbur (50%), Diglett (50%)
+<b>Surf, Special:</b>
+1. Staryu (60%)
+2. Tentacruel (30%)
+3. Lapras (10%)
 
+<b>Fish, Normal:</b>
+1. Horsea (60%)
+2. Wailmer (30%)
+3. Mantyke (10%)
+
+<b>Fish, Special:</b>
+1. Wailmer (60%)
+2. Seadra (30%)
+3. Mantyke (10%)
+</code></pre>
+
+---
+
+#### Cold Storage
+
+<pre><code><b>Grass, Normal:</b>
+1. Vanillite (20%)
+2. Herdier (20%)
+3. Snorunt (10%)
+4. Swinub (10%)
+5. Cubchoo (10%)
+6. Buizel (10%)
+7. Mienfoo (10%)
+8. Taillow (10%)
+
+<b>Grass, Doubles:</b>
+1. Vanillish (20%)
+2. Herdier (20%)
+3. Swellow (10%)
+4. Floatzel (10%)
+5. Sneasel (10%)
+6. Delibird (10%)
+7. Smoochum (10%)
+8. Piloswine (10%)
+
+<b>Grass, Special:</b>
+1. Audino (90%)
+2. Mienshao (10%)
+</code></pre>
+
+---
+
+#### Route 6 – Spring / Summer / Autumn
+
+<pre><code><b>Grass, Normal:</b>
+1. Cherubi (20%)
+2. Deerling (20%)
+3. Stantler (10%)
+4. Foongus (10%)
+5. Pidgeotto (10%)
+6. Natu (10%)
+7. Mime Jr. (5%)
+8. Bonsly (5%)
+9. Plusle (5%)
+10. Minun (5%)
+
+<b>Grass, Doubles:</b>
+1. Cherrim (20%)
+2. Sawsbuck (20%)
+3. Stantler (10%)
+4. Foongus (10%)
+5. Pidgeotto (10%)
+6. Xatu (10%)
+7. Mr. Mime (5%)
+8. Sudowoodo (5%)
+9. Plusle (5%)
+10. Minun (5%)
+
+<b>Grass, Special:</b>
+1. Chansey (80%)
+2. Emolga (10%)
+3. Leavanny (5%)
+4. Unfezant (5%)
+
+<b>Surf, Normal:</b>
+1. Finneon (60%)
+2. Goldeen (30%)
+3. Chinchou (10%)
+
+<b>Surf, Special:</b>
+1. Lumineon (60%)
+2. Lanturn (30%)
+3. Seaking (10%)
+
+<b>Fish, Normal:</b>
+1. Finneon (60%)
+2. Chinchou (40%)
+
+<b>Fish, Special:</b>
+1. Lumineon (60%)
+2. Lanturn (40%)
+</code></pre>
+
+---
+
+#### Route 6 – Winter
+
+<pre><code><b>Grass, Normal:</b>
+1. Snover (20%)
+2. Deerling (20%)
+3. Stantler (10%)
+4. Foongus (10%)
+5. Pidgeotto (10%)
+6. Natu (10%)
+7. Mime Jr. (5%)
+8. Bonsly (5%)
+9. Plusle (5%)
+10. Minun (5%)
+
+<b>Grass, Doubles:</b>
+1. Snover (20%)
+2. Sawsbuck (20%)
+3. Stantler (10%)
+4. Foongus (10%)
+5. Pidgeotto (10%)
+6. Xatu (10%)
+7. Mr. Mime (5%)
+8. Sudowoodo (5%)
+9. Plusle (5%)
+10. Minun (5%)
+
+<b>Grass, Special:</b>
+1. Chansey (80%)
+2. Emolga (10%)
+3. Leavanny (5%)
+4. Unfezant (5%)
+
+<b>Surf, Normal:</b>
+1. Seel (60%)
+2. Spheal (30%)
+3. Chinchou (10%)
+
+<b>Surf, Special:</b>
+1. Dewgong (60%)
+2. Sealeo (30%)
+3. Lanturn (10%)
+
+<b>Fish, Normal:</b>
+1. Seel (60%)
+2. Spheal (30%)
+3. Chinchou (10%)
+
+<b>Fish, Special:</b>
+1. Dewgong (60%)
+2. Sealeo (30%)
+3. Lanturn (10%)
+</code></pre>
+
+---
+
+#### Chargestone Cave
+
+<pre><code>1F
+<b>Cave, Normal:</b>
+1. Joltik (20%)
+2. Klink (20%)
+3. Elekid (10%)
+4. Magnemite (10%)
+5. Voltorb (10%)
+6. Ferroseed (10%)
+7. Nosepass (10%)
+8. Lairon (10%)
+
+<b>Cave, Special:</b>
+1. Drilbur (50%)
+2. Diglett (50%)
 B1F
-Cave, Normal: Joltik (20%), Klink (20%), Mawile (10%), Sableye (10%), Tynamo (10%), Durant (10%), Nosepass (10%), Deino (10%)
-Cave, Special: Drilbur (50%), Diglett (50%)
 
+<b>Cave, Normal:</b>
+1. Joltik (20%)
+2. Klink (20%)
+3. Mawile (10%)
+4. Sableye (10%)
+5. Tynamo (10%)
+6. Durant (10%)
+7. Nosepass (10%)
+8. Deino (10%)
+
+<b>Cave, Special:</b>
+1. Drilbur (50%)
+2. Diglett (50%)
 B2F
-Cave, Normal: Galvantula (20%), Klang (20%), Electabuzz (10%), Magneton (10%), Electrode (10%), Ferrothorn (10%), Durant (5%), Eelektrik (5%), Porygon (5%), Rotom (4%)
-Cave, Special: Excadrill (50%), Dugtrio (50%)
 
-LEGENDARY ENCOUNTER
+<b>Cave, Normal:</b>
+1. Galvantula (20%)
+2. Klang (20%)
+3. Electabuzz (10%)
+4. Magneton (10%)
+5. Electrode (10%)
+6. Ferrothorn (10%)
+7. Durant (5%)
+8. Eelektrik (5%)
+9. Porygon (5%)
+10. Rotom (4%)
 
+<b>Cave, Special:</b>
+1. Excadrill (50%)
+2. Dugtrio (50%)
+</code></pre>
+
+##### Legendary Encounter
+
+```
 Zapdos, Level 50
 Chargestone Cave, B2F.
 Cave, Normal, 1%.
+```
 
-- # Zapdos, like most Electric types, is drawn to high potential sources. Watch out – don’t underestimate its power!
-  Route 7 – All Seasons
+<sub><sup>_Zapdos, like most Electric types, is drawn to high potential sources. Watch out – don’t underestimate its power!_</sub></sup>
 
-Grass, Normal: Ponyta (20%), Aipom (20%), Magby (10%), Nincada (10%), Doduo (10%), Cubone (10%), Skarmory (5%), Pachirisu (5%), Torkoal (5%), Gligar (5%)
-Grass, Doubles: Rapidash (20%), Ambipom (20%), Magmar (10%), Ninjask (10%), Dodrio (10%), Marowak (10%), Heatmor (5%), Bouffalant (5%), Miltank (5%), Tauros (5%)
-Grass, Shaking: Audino (60%), Emolga (30%), Gliscor (10%)
-==================================================================
-Celestial Tower
+---
 
-2F, 3F
-Tower, Normal: Litwick (20%), Elgyem (20%), Chingling (10%), Gastly (10%), Duskull (10%), Shuppet (10%), Wynaut (10%), Bronzor (10%)
+#### Route 7 – All Seasons
 
+<pre><code><b>Grass, Normal:</b>
+1. Ponyta (20%)
+2. Aipom (20%)
+3. Magby (10%)
+4. Nincada (10%)
+5. Doduo (10%)
+6. Cubone (10%)
+7. Skarmory (5%)
+8. Pachirisu (5%)
+9. Torkoal (5%)
+10. Gligar (5%)
+
+<b>Grass, Doubles:</b>
+1. Rapidash (20%)
+2. Ambipom (20%)
+3. Magmar (10%)
+4. Ninjask (10%)
+5. Dodrio (10%)
+6. Marowak (10%)
+7. Heatmor (5%)
+8. Bouffalant (5%)
+9. Miltank (5%)
+10. Tauros (5%)
+
+<b>Grass, Shaking:</b>
+1. Audino (60%)
+2. Emolga (30%)
+3. Gliscor (10%)
+</code></pre>
+
+---
+
+#### Celestial Tower
+
+<pre><code>2F, 3F
+<b>Tower, Normal:</b>
+1. Litwick (20%)
+2. Elgyem (20%)
+3. Chingling (10%)
+4. Gastly (10%)
+5. Duskull (10%)
+6. Shuppet (10%)
+7. Wynaut (10%)
+8. Bronzor (10%)
 4F
-Tower, Normal: Lampent (20%), Beheeyem (20%), Chimecho (10%), Haunter (10%), Dusclops (10%), Banette (10%), Wobbuffet (10%), Bronzong (10%)
 
+<b>Tower, Normal:</b>
+1. Lampent (20%)
+2. Beheeyem (20%)
+3. Chimecho (10%)
+4. Haunter (10%)
+5. Dusclops (10%)
+6. Banette (10%)
+7. Wobbuffet (10%)
+8. Bronzong (10%)
 5F (Roof)
-Tower, Normal: Misdreavus (20%), Murkrow (20%), Drifblim (20%), Noctowl (20%), Absol (10%), Spiritomb (10%)
 
-LEGENDARY ENCOUNTER
+<b>Tower, Normal:</b>
+1. Misdreavus (20%)
+2. Murkrow (20%)
+3. Drifblim (20%)
+4. Noctowl (20%)
+5. Absol (10%)
+6. Spiritomb (10%)
+</code></pre>
 
+##### Legendary Encounter
+
+```
 Cresselia, Level 50
 Celestial Tower, Roof
 Tower, Normal, 1%
+```
 
-- # The mistress of the moon is kind, and takes pity upon the departed souls of Pokémon. You can interrupt her mourning and put her in a ball. Isn’t that dandy?
-  Route 17
+<sub><sup>_The mistress of the moon is kind, and takes pity upon the departed souls of Pokémon. You can interrupt her mourning and put her in a ball. Isn’t that dandy?_</sub></sup>
 
-Surf, Normal: Wailmer (60%), Corsola (30%), Mantyke (10%)
-Surf, Special: Wailord (60%), Corsola (30%), Mantine (10%)
-Fish, Normal: Luvdisc (100%)
-Fish, Special: Alomomola (60%), Corsola (40%)
+---
 
-LEGENDARY ENCOUNTER
+#### Route 17
 
+<pre><code><b>Surf, Normal:</b>
+1. Wailmer (60%)
+2. Corsola (30%)
+3. Mantyke (10%)
+
+<b>Surf, Special:</b>
+1. Wailord (60%)
+2. Corsola (30%)
+3. Mantine (10%)
+
+<b>Fish, Normal:</b>
+1. Luvdisc (100%)
+
+<b>Fish, Special:</b>
+1. Alomomola (60%)
+2. Corsola (40%)
+</code></pre>
+
+##### Legendary Encounter
+
+```
 Manaphy, Level 30
 Route 17
 Surf, Special, 1%
+```
 
-- Manaphy likes the colder seas of the Unova region, so its presence in the vast waters of Route 17 is not surprising. Go a little further and you might encounter its children, too.
+<sub><sup>_Manaphy likes the colder seas of the Unova region, so its presence in the vast waters of Route 17 is not surprising. Go a little further and you might encounter its children, too._</sub></sup>
 
 Route 18
 
 Grass, Normal: Throh (20%), Sawk (20%), Heracross (10%), Munchlax (10%), Dwebble (10%), Lickitung (10%), Kangaskhan (10%), Tropius (10%)
+
 Grass, Doubles: Throh (20%), Sawk (20%), Heracross (10%), Munchlax (10%), Crustle (10%), Lickitung (10%), Kangaskhan (10%), Tropius (10%)
+
 Shaking Grass: Audino (90%), Snorlax (5%), Lickilicky (5%)
+
 Surf, Normal: Carvanha (60%), Luvdisc (30%), Qwilfish (10%)
+
 Surf, Special: Alomomola (60%), Qwilfish (30%), Sharpedo (10%)
+
 Fish, Normal: Tentacool (60%), Horsea (40%)
+
 Fish, Special: Qwilfish (60%), Seadra (30%), Tentacruel (10%)
 
-SPECIAL ENCOUNTER
+</code></pre>
 
+##### Special Encounter
+
+```
 Phione, Level 30
 Route 17
 Surf, Special, 1%
+```
 
-- # This often debated Pokémon can sometimes be found in the warmer seas of the Unova region. It has gained more strength, but is still weaker than its fully grown counterpart.
-  P2 Laboratory
+<sub><sup>_This often debated Pokémon can sometimes be found in the warmer seas of the Unova region. It has gained more strength, but is still weaker than its fully grown counterpart._</sub></sup>
 
-Grass, Normal: Porygon (20%), Klang (20%), Magneton (20%), Electrode (20%), Kingler (10%), Shuckle (10%)
-Grass, Special: Audino (95%), Porygon2 (5%)
-Surf, Normal: Wingull (60%), Tentacool (30%), Pelipper (10%)
-Surf, Special: Tentacruel (60%), Frillish (30%), Jellicent (10%)
-Fish, Normal: Krabby (60%), Corphish (40%)
-Fish, Special: Kingler (60%), Crawdaunt (40%)
-==================================================================
-Mistralton Cave 1F – 2F
+---
 
-Cave, Normal: Onix (20%), Rhyhorn (20%), Larvitar (10%), Bagon (10%), Beldum (10%), Gible (10%), Axew (10%), Deino (10%)
-Cave, Special: Drilbur (50%), Diglett (50%)
+#### P2 Laboratory
 
+<pre><code><b>Grass, Normal:</b>
+1. Porygon (20%)
+2. Klang (20%)
+3. Magneton (20%)
+4. Electrode (20%)
+5. Kingler (10%)
+6. Shuckle (10%)
+
+<b>Grass, Special:</b>
+1. Audino (95%)
+2. Porygon2 (5%)
+
+<b>Surf, Normal:</b>
+1. Wingull (60%)
+2. Tentacool (30%)
+3. Pelipper (10%)
+
+<b>Surf, Special:</b>
+1. Tentacruel (60%)
+2. Frillish (30%)
+3. Jellicent (10%)
+
+<b>Fish, Normal:</b>
+1. Krabby (60%)
+2. Corphish (40%)
+
+<b>Fish, Special:</b>
+1. Kingler (60%)
+2. Crawdaunt (40%)
+</code></pre>
+
+---
+
+#### Mistralton Cave 1F – 2F
+
+<pre><code><b>Cave, Normal:</b>
+1. Onix (20%)
+2. Rhyhorn (20%)
+3. Larvitar (10%)
+4. Bagon (10%)
+5. Beldum (10%)
+6. Gible (10%)
+7. Axew (10%)
+8. Deino (10%)
+
+<b>Cave, Special:</b>
+1. Drilbur (50%)
+2. Diglett (50%)
 Mistralton Cave 3F (Guidance Chamber)
-Cave, Normal: Steelix (20%), Rhydon (20%), Pupitar (10%), Shelgon (10%), Metang (10%), Gabite (10%), Fraxure (10%), Zweilous (10%)
-Cave, Special: Excadrill (50%), Dugtrio (50%)
 
-LEGENDARY ENCOUNTER
+<b>Cave, Normal:</b>
+1. Steelix (20%)
+2. Rhydon (20%)
+3. Pupitar (10%)
+4. Shelgon (10%)
+5. Metang (10%)
+6. Gabite (10%)
+7. Fraxure (10%)
+8. Zweilous (10%)
 
+<b>Cave, Special:</b>
+1. Excadrill (50%)
+2. Dugtrio (50%)
+</code></pre>
+
+##### Legendary Encounter
+
+```
 Uxie, Level 50
 Mistralton Cave, 1F
 Cave, Normal, 1%
+```
 
-- Mistralton Cave, though already home to the mythical Cobalion, is a dark cave close by to the bountiful rivers to Route 6. It’s no lake, but it’s a good enough place for the pixie trio to reside.
+<sub><sup>_Mistralton Cave, though already home to the mythical Cobalion, is a dark cave close by to the bountiful rivers to Route 6. It’s no lake, but it’s a good enough place for the pixie trio to reside._</sub></sup>
 
-LEGENDARY ENCOUNTER
+</code></pre>
 
+##### Legendary Encounter
+
+```
 Mesprit, Level 50
 Mistralton Cave, 2F
 Cave, Normal, 1%
+```
 
-- Mistralton Cave, though already home to the mythical Cobalion, is a dark cave close by to the bountiful rivers to Route 6. It’s no lake, but it’s a good enough place for the pixie trio to reside.
+<sub><sup>_Mistralton Cave, though already home to the mythical Cobalion, is a dark cave close by to the bountiful rivers to Route 6. It’s no lake, but it’s a good enough place for the pixie trio to reside._</sub></sup>
 
-LEGENDARY ENCOUNTER
+</code></pre>
 
+##### Legendary Encounter
+
+```
 Azelf, Level 50
 Mistralton Cave, 3F
 Cave, Normal, 1%
+```
 
-- Mistralton Cave, though already home to the mythical Cobalion, is a dark cave close by to the bountiful rivers to Route 6. It’s no lake, but it’s a good enough place for the pixie trio to reside.
+<sub><sup>_Mistralton Cave, though already home to the mythical Cobalion, is a dark cave close by to the bountiful rivers to Route 6. It’s no lake, but it’s a good enough place for the pixie trio to reside._</sub></sup>
 
-LEGENDARY ENCOUNTER
+</code></pre>
 
+##### Legendary Encounter
+
+```
 Cobalion, Level 56
 Guidance Chamber
-==================================================================
-Twist Mountain
+```
 
-1F - All Seasons
-Cave, Normal: Phanpy (20%), Teddiursa (20%), Cubchoo (10%), Sneasel (10%), Delibird (10%), Swinub (10%), Graveler (5%), Boldore (5%), Cryogonal (5%), Gurdurr (5%)
-Cave, Special: Excadrill (50%), Dugtrio (50%)
+---
 
+#### Twist Mountain
+
+<pre><code>1F - All Seasons
+<b>Cave, Normal:</b>
+1. Phanpy (20%)
+2. Teddiursa (20%)
+3. Cubchoo (10%)
+4. Sneasel (10%)
+5. Delibird (10%)
+6. Swinub (10%)
+7. Graveler (5%)
+8. Boldore (5%)
+9. Cryogonal (5%)
+10. Gurdurr (5%)
+
+<b>Cave, Special:</b>
+1. Excadrill (50%)
+2. Dugtrio (50%)
 Not 1F - All Seasons
-Cave, Normal: Donphan (20%), Ursaring (20%), Beartic (10%), Sneasel (10%), Delibird (10%), Piloswine (10%), Mawile (5%), Sableye (5%), Cryogonal (5%), Durant (5%)
-Cave, Special: Excadrill (50%), Dugtrio (50%)
 
-LEGENDARY ENCOUNTER
+<b>Cave, Normal:</b>
+1. Donphan (20%)
+2. Ursaring (20%)
+3. Beartic (10%)
+4. Sneasel (10%)
+5. Delibird (10%)
+6. Piloswine (10%)
+7. Mawile (5%)
+8. Sableye (5%)
+9. Cryogonal (5%)
+10. Durant (5%)
 
+<b>Cave, Special:</b>
+1. Excadrill (50%)
+2. Dugtrio (50%)
+</code></pre>
+
+##### Legendary Encounter
+
+```
 Regice, Level 50
 Twist Mountain, Ice Rock Room, Winter
 Cave, Normal, 1%
+```
 
-- # Unlike its brothers, Regice prefers only the very coldest of climates. Try your luck in a harsh Winter at the depths of the area, and you might just have a chance at finding it.
-  Icirrus City, Route 8
+<sub><sup>_Unlike its brothers, Regice prefers only the very coldest of climates. Try your luck in a harsh Winter at the depths of the area, and you might just have a chance at finding it._</sub></sup>
 
-Puddle, Normal: Palpitoad (20%), Stunfisk (20%), Croagunk (10%), Gulpin (10%), Koffing (10%), Grimer (10%), Gastrodon-E (5%), Quagsire (5%), Toxicroak (4%), Swalot (4%), Weezing (1%), Muk (1%)
-Surf, Normal: Stunfisk (60%), Barboach (40%)
-Surf, Special: Whiscash (60%), Seismitoad (40%)
-Fish, Normal: Barboach (70%), Stunfisk (30%)
-Fish, Special: Barboach (60%), Stunfisk (30%), Whiscash (10%)
-==================================================================
-Moor of Icirrus
+---
 
-Puddle, Normal: Quagsire (20%), Stunfisk (20%), Gastrodon-E (10%), Toxicroak (10%), Swalot (10%), Weezing (10%), Muk (10%), Palpitoad (10%)
-Surf, Normal: Stunfisk (60%), Barboach (40%)
-Surf, Special: Whiscash (60%), Seismitoad (40%)
-Fish, Normal: Barboach (70%), Stunfisk (30%)
-Fish, Special: Barboach (60%), Stunfisk (30%), Whiscash (10%)
+#### Icirrus City, Route 8
 
-LEGENDARY ENCOUNTER
+<pre><code><b>Puddle, Normal:</b>
+1. Palpitoad (20%)
+2. Stunfisk (20%)
+3. Croagunk (10%)
+4. Gulpin (10%)
+5. Koffing (10%)
+6. Grimer (10%)
+7. Gastrodon-E (5%)
+8. Quagsire (5%)
+9. Toxicroak (4%)
+10. Swalot (4%)
+11. Weezing (1%)
+12. Muk (1%)
 
+<b>Surf, Normal:</b>
+1. Stunfisk (60%)
+2. Barboach (40%)
+
+<b>Surf, Special:</b>
+1. Whiscash (60%)
+2. Seismitoad (40%)
+
+<b>Fish, Normal:</b>
+1. Barboach (70%)
+2. Stunfisk (30%)
+
+<b>Fish, Special:</b>
+1. Barboach (60%)
+2. Stunfisk (30%)
+3. Whiscash (10%)
+</code></pre>
+
+---
+
+#### Moor of Icirrus
+
+<pre><code><b>Puddle, Normal:</b>
+1. Quagsire (20%)
+2. Stunfisk (20%)
+3. Gastrodon-E (10%)
+4. Toxicroak (10%)
+5. Swalot (10%)
+6. Weezing (10%)
+7. Muk (10%)
+8. Palpitoad (10%)
+
+<b>Surf, Normal:</b>
+1. Stunfisk (60%)
+2. Barboach (40%)
+
+<b>Surf, Special:</b>
+1. Whiscash (60%)
+2. Seismitoad (40%)
+
+<b>Fish, Normal:</b>
+1. Barboach (70%)
+2. Stunfisk (30%)
+
+<b>Fish, Special:</b>
+1. Barboach (60%)
+2. Stunfisk (30%)
+3. Whiscash (10%)
+</code></pre>
+
+##### Legendary Encounter
+
+```
 Keldeo, Level 56
 Moor of Iccirus, Autumn
 Puddle, Normal, 1%.
+```
 
-- # The Moor of Icirrus is a special place for Keldeo, and in the Autumn you may see this unicorn galloping past. If you can catch it, you’ll have a chance at adding him to your team.
-  Dragonspiral Tower
+<sub><sup>_The Moor of Icirrus is a special place for Keldeo, and in the Autumn you may see this unicorn galloping past. If you can catch it, you’ll have a chance at adding him to your team._</sub></sup>
 
-Outside (Both Areas) – Spring, Summer, Autumn
-Grass, Normal: Mienfoo (20%), Deerling (20%), Druddigon (20%), Swablu (20%), Kadabra (20%)
-Grass, Doubles: Mienshao (20%), Sawsbuck (20%), Druddigon (20%), Altaria (20%), Kadabra (20%)
-Grass, Shaking: Audino (90%), Alakazam (10%)
-Surf, Normal: Horsea (60%), Dratini (40%)
-Surf, Special: Seadra (60%), Dragonair (40%)
-Fish, Normal: Horsea (60%), Basculin (30%), Dratini (10%)
-Fish, Special: Seadra (60%), Dragonair (30%), Kingdra (9%), Dragonite (1%)
+---
 
+#### Dragonspiral Tower
+
+<pre><code>Outside (Both Areas) – Spring, Summer, Autumn
+<b>Grass, Normal:</b>
+1. Mienfoo (20%)
+2. Deerling (20%)
+3. Druddigon (20%)
+4. Swablu (20%)
+5. Kadabra (20%)
+
+<b>Grass, Doubles:</b>
+1. Mienshao (20%)
+2. Sawsbuck (20%)
+3. Druddigon (20%)
+4. Altaria (20%)
+5. Kadabra (20%)
+
+<b>Grass, Shaking:</b>
+1. Audino (90%)
+2. Alakazam (10%)
+
+<b>Surf, Normal:</b>
+1. Horsea (60%)
+2. Dratini (40%)
+
+<b>Surf, Special:</b>
+1. Seadra (60%)
+2. Dragonair (40%)
+
+<b>Fish, Normal:</b>
+1. Horsea (60%)
+2. Basculin (30%)
+3. Dratini (10%)
+
+<b>Fish, Special:</b>
+1. Seadra (60%)
+2. Dragonair (30%)
+3. Kingdra (9%)
+4. Dragonite (1%)
 Outside (Both Areas) – Winter
-Grass, Normal: Mienfoo (20%), Snover (20%), Cubchoo (20%), Vanillite (20%), Kadabra (20%)
-Grass, Doubles: Mienshao (20%), Abomasnow (20%), Beartic (20%), Vanillish (20%), Kadabra (20%)
-Grass, Shaking: Audino (90%), Alakazam (10%)
-Surf, Normal: Horsea (60%), Dratini (40%)
-Surf, Special: Seadra (60%), Dragonair (40%)
-Fish, Normal: Horsea (60%), Basculin (30%), Dratini (10%)
-Fish, Special: Seadra (60%), Dragonair (30%), Kingdra (9%), Dragonite (1%)
 
+<b>Grass, Normal:</b>
+1. Mienfoo (20%)
+2. Snover (20%)
+3. Cubchoo (20%)
+4. Vanillite (20%)
+5. Kadabra (20%)
+
+<b>Grass, Doubles:</b>
+1. Mienshao (20%)
+2. Abomasnow (20%)
+3. Beartic (20%)
+4. Vanillish (20%)
+5. Kadabra (20%)
+
+<b>Grass, Shaking:</b>
+1. Audino (90%)
+2. Alakazam (10%)
+
+<b>Surf, Normal:</b>
+1. Horsea (60%)
+2. Dratini (40%)
+
+<b>Surf, Special:</b>
+1. Seadra (60%)
+2. Dragonair (40%)
+
+<b>Fish, Normal:</b>
+1. Horsea (60%)
+2. Basculin (30%)
+3. Dratini (10%)
+
+<b>Fish, Special:</b>
+1. Seadra (60%)
+2. Dragonair (30%)
+3. Kingdra (9%)
+4. Dragonite (1%)
 Inside – Room One
-Tower, Normal: Druddigon (40%), Baltoy (30%), Golett (30%)
 
+<b>Tower, Normal:</b>
+1. Druddigon (40%)
+2. Baltoy (30%)
+3. Golett (30%)
 Inside – Room Two
-Tower, Normal: Claydol (50%), Golurk (50%)
 
-LEGENDARY ENCOUNTER
+<b>Tower, Normal:</b>
+1. Claydol (50%)
+2. Golurk (50%)
+</code></pre>
 
+##### Legendary Encounter
+
+```
 Articuno, Level 50
 Dragonspiral Tower, Outside, Winter
 Doubles Grass, 1%.
+```
 
-- Only in the doubles grass right outside the tower! Articuno enjoys a rest in the snowy north of the Unova region, but you might be welcome to disturb it.
+<sub><sup>_Only in the doubles grass right outside the tower! Articuno enjoys a rest in the snowy north of the Unova region, but you might be welcome to disturb it._</sub></sup>
 
-LEGENDARY ENCOUNTER
+</code></pre>
 
+##### Legendary Encounter
+
+```
 Suicune, Level 50
 Dragonspiral Tower, Outside, Spring, Summer & Autumn
 Surf, Special, 1%.
+```
 
-- # Suicune loves bouncing around the seas, not just the Johto region. Three times a year, this journey ends up leading it to the small lake in front of the ancient tower.
-  Route 9
+<sub><sup>_Suicune loves bouncing around the seas, not just the Johto region. Three times a year, this journey ends up leading it to the small lake in front of the ancient tower._</sub></sup>
 
-Grass, Normal: Gothorita (20%), Duosion (20%), Kirlia (10%), Minccino (10%), Pawniard (10%), Skitty (10%), Liepard (10%), Persian (10%)
-Grass, Doubles: Flaaffy (20%), Luxio (20%), Hypno (10%), Cinccino (10%), Bisharp (10%), Garbodor (10%), Houndoom (10%), Granbull (10%)
-Grass, Special: Audino (90%), Gothitelle (5%), Reuniclus (5%)
+---
 
-LEGENDARY ENCOUNTER
+#### Route 9
 
+<pre><code><b>Grass, Normal:</b>
+1. Gothorita (20%)
+2. Duosion (20%)
+3. Kirlia (10%)
+4. Minccino (10%)
+5. Pawniard (10%)
+6. Skitty (10%)
+7. Liepard (10%)
+8. Persian (10%)
+
+<b>Grass, Doubles:</b>
+1. Flaaffy (20%)
+2. Luxio (20%)
+3. Hypno (10%)
+4. Cinccino (10%)
+5. Bisharp (10%)
+6. Garbodor (10%)
+7. Houndoom (10%)
+8. Granbull (10%)
+
+<b>Grass, Special:</b>
+1. Audino (90%)
+2. Gothitelle (5%)
+3. Reuniclus (5%)
+</code></pre>
+
+##### Legendary Encounter
+
+```
 Raikou, Level 50
 Route 9
 Grass, Special, 1%.
+```
 
-- You’ll have to sift through loads of Audino for this beast. Raikou is naturally attracted to electricity, and the Department Store in the route has plenty of that.
+<sub><sup>_You’ll have to sift through loads of Audino for this beast. Raikou is naturally attracted to electricity, and the Department Store in the route has plenty of that._</sub></sup>
 
-LEGENDARY ENCOUNTER
+</code></pre>
 
+##### Legendary Encounter
+
+```
 Entei, Level 50
 Route 9
 Grass, Special, 1%.
+```
 
-- # Entei and Raikou are like best friends and brothers; they will always stay together, and Entei will follow Raikou to whatever attracts him.
-  Route 10
+<sub><sup>_Entei and Raikou are like best friends and brothers; they will always stay together, and Entei will follow Raikou to whatever attracts him._</sub></sup>
 
-Main Route
-Grass, Normal: Herdier (20%), Pidgeotto (20%), Rufflet (10%), Vullaby (10%), Machoke (10%), Primeape (10%), Amoonguss (10%), Tranquill (10%)
-Grass, Doubles: Mandibuzz (20%), Braviary (20%), Bouffalant (10%), Grumpig (10%), Drapion (10%), Scrafty (10%), Heracross (10%), Manectric (10%)
-Grass, Special: Audino (100%)
+---
 
-LEGENDARY ENCOUNTER
+#### Route 10
+
+<pre><code>Main Route
+<b>Grass, Normal:</b>
+1. Herdier (20%)
+2. Pidgeotto (20%)
+3. Rufflet (10%)
+4. Vullaby (10%)
+5. Machoke (10%)
+6. Primeape (10%)
+7. Amoonguss (10%)
+8. Tranquill (10%)
+
+<b>Grass, Doubles:</b>
+1. Mandibuzz (20%)
+2. Braviary (20%)
+3. Bouffalant (10%)
+4. Grumpig (10%)
+5. Drapion (10%)
+6. Scrafty (10%)
+7. Heracross (10%)
+8. Manectric (10%)
+
+<b>Grass, Special:</b>
+1. Audino (100%)
+</code></pre>
+
+##### Legendary Encounter
+
+```
 /
 Tornadus, Level 40 (Volt White) / Thundurus, Level 40 (Blaze Black)
 Route 10, Main Route
 Grass, Shaking, 1%
+```
 
-- While one wreaks havoc with the weather along Unova, the other will await you patiently in Route 10… if you can find it. Luckily, this one won’t run. Don’t let its low level fool you; it can still be quite difficult to capture.
+<sub><sup>_While one wreaks havoc with the weather along Unova, the other will await you patiently in Route 10… if you can find it. Luckily, this one won’t run. Don’t let its low level fool you; it can still be quite difficult to capture._</sub></sup>
 
 League Path
+
 Grass, Normal: Linoone (20%), Bibarel (20%), Skiploom (10%), Arbok (10%), Sandslash (10%), Dodrio (10%), Zangoose (10%), Seviper (10%)
+
 Grass, Doubles: Scyther (20%), Pinsir (20%), Cherrim (10%), Fearow (10%), Herdier (10%), Rapidash (10%), Tropius (10%), Girafarig (10%)
+
 Grass, Special: Chansey (90%), Blissey (10%)
 
-LEGENDARY ENCOUNTER
+</code></pre>
 
+##### Legendary Encounter
+
+```
 Latias, Level 60
 Route 10, League Path
 Grass, Doubles, 1%
+```
 
-- The Lati twins have always loved challenging destined League champions, and in Unova this is no exception. They even wait on the actual path to the League, just to be sure. Of course, they also like to test people by remaining hidden.
+<sub><sup>_The Lati twins have always loved challenging destined League champions, and in Unova this is no exception. They even wait on the actual path to the League, just to be sure. Of course, they also like to test people by remaining hidden._</sub></sup>
 
-LEGENDARY ENCOUNTER
+</code></pre>
 
+##### Legendary Encounter
+
+```
 Latios, Level 60
 Route 10, League Path
 Grass, Doubles, 1%
+```
 
-- # Anywhere where Latias goes, Latios does too.
-  Victory Road
+<sub><sup>_Anywhere where Latias goes, Latios does too._</sub></sup>
 
-Outside
-Rocky Grass: Heatmor (20%), Torkoal (20%), Mandibuzz (10%), Braviary (10%), Skarmory (10%), Gliscor (10%), Pupitar (10%), Fraxure (9%)
+---
 
+#### Victory Road
+
+<pre><code>Outside
+<b>Rocky Grass:</b>
+1. Heatmor (20%)
+2. Torkoal (20%)
+3. Mandibuzz (10%)
+4. Braviary (10%)
+5. Skarmory (10%)
+6. Gliscor (10%)
+7. Pupitar (10%)
+8. Fraxure (9%)
 Inside – Rooms with Water
-Cave, Normal: Donphan (20%), Ursaring (20%), Zweilous (10%), Woobat (10%), Hariyama (10%), Medicham (10%), Lairon (10%), Azumarill (10%)
-Cave, Special: Excadrill (25%), Dugtrio (25%), Steelix (25%), Sandslash (25%)
-Surf, Normal: Dewgong (60%), Lapras (40%)
-Surf, Special: Lapras (60%), Dewgong (40%)
-Fish, Normal: Basculin (60%), Gyarados (30%), Whiscash (10%)
-Fish, Special: Basculin (60%), Gyarados (30%), Whiscash (10%)
 
+<b>Cave, Normal:</b>
+1. Donphan (20%)
+2. Ursaring (20%)
+3. Zweilous (10%)
+4. Woobat (10%)
+5. Hariyama (10%)
+6. Medicham (10%)
+7. Lairon (10%)
+8. Azumarill (10%)
+
+<b>Cave, Special:</b>
+1. Excadrill (25%)
+2. Dugtrio (25%)
+3. Steelix (25%)
+4. Sandslash (25%)
+
+<b>Surf, Normal:</b>
+1. Dewgong (60%)
+2. Lapras (40%)
+
+<b>Surf, Special:</b>
+1. Lapras (60%)
+2. Dewgong (40%)
+
+<b>Fish, Normal:</b>
+1. Basculin (60%)
+2. Gyarados (30%)
+3. Whiscash (10%)
+
+<b>Fish, Special:</b>
+1. Basculin (60%)
+2. Gyarados (30%)
+3. Whiscash (10%)
 Inside – Rooms without Water
-Cave, Normal: Loudred (20%), Durant (20%), Woobat (10%), Golbat (10%), Klang (10%), Rhydon (10%), Boldore (10%), Gurdurr (10%)
-Cave, Special: Excadrill (25%), Dugtrio (25%), Steelix (25%), Sandslash (25%)
 
-LEGENDARY ENCOUNTER
+<b>Cave, Normal:</b>
+1. Loudred (20%)
+2. Durant (20%)
+3. Woobat (10%)
+4. Golbat (10%)
+5. Klang (10%)
+6. Rhydon (10%)
+7. Boldore (10%)
+8. Gurdurr (10%)
 
+<b>Cave, Special:</b>
+1. Excadrill (25%)
+2. Dugtrio (25%)
+3. Steelix (25%)
+4. Sandslash (25%)
+</code></pre>
+
+##### Legendary Encounter
+
+```
 Terrakion, Level 56
 Victory Road, Trial Chamber
+```
 
-LEGENDARY ENCOUNTER
+</code></pre>
 
+##### Legendary Encounter
+
+```
 Moltres, Level 50
 Victory Road, Outside
 Rocky Grass, 1%.
+```
 
-- Good luck using Repel with this bird! Moltres loves a rocky field, and after being shifted around by game desingers twice, it needed a rest. The peaks of Victory Road make for a great perch.
+<sub><sup>_Good luck using Repel with this bird! Moltres loves a rocky field, and after being shifted around by game desingers twice, it needed a rest. The peaks of Victory Road make for a great perch._</sub></sup>
 
-LEGENDARY ENCOUNTER
+</code></pre>
 
+##### Legendary Encounter
+
+```
 Heatran. Level 60
 Victory Road, Trial Chamber
 Cave, Normal, 1%
+```
 
-- # Heatran also enjoys the mountainous area, and has appeared to visit his old friend Terrakion. You might run into him if you storm the same room.
-  N’s Castle
+<sub><sup>_Heatran also enjoys the mountainous area, and has appeared to visit his old friend Terrakion. You might run into him if you storm the same room._</sub></sup>
 
-LEGENDARY ENCOUNTER
-/
+---
+
+#### N’s Castle
+
+<pre><code></code></pre>
+
+##### Legendary Encounter
+
+```
 Reshiram (Blaze Black) | Zekrom (Volt White)
 Level 70
 N’s Castle
-==================================================================
-Route 11
+```
 
-Grass, Normal: Golduck (20%), Bisharp (20%), Mandibuzz (10%), Braviary (10%), Gligar (10%),
+---
+
+#### Route 11
+
+<pre><code><b>Grass, Normal:</b>
+1. Golduck (20%)
+2. Bisharp (20%)
+3. Mandibuzz (10%)
+4. Braviary (10%)
+5. Gligar (10%),
 Marowak (10%), Purugly (10%), Skuntank (10%)
-Grass, Doubles: Loudred (20%), Staravia (20%), Vigoroth (10%), Electabuzz (10%), Magmar (10%), Flygon (10%), Rhydon (10%), Boldore (10%)
-Grass, Special: Audino (70%), Emolga (10%), Electivire (5%), Magmortar (5%), Gliscor (5%), Staraptor (5%)
-Surf, Normal: Buizel (60%), Floatzel (40%)
-Surf, Special: Dratini (60%), Dragonair (35%), Dragonite (5%)
-Fish, Normal: Goldeen (70%), Basculin (30%)
-Fish, Special: Goldeen (60%), Basculin (30%), Seaking (10%)
-==================================================================
-Village Bridge
 
-Grass, Normal: Exeggcute (20%), Bibarel (20%), Zangoose (10%), Seviper (10%), Volbeat (10%), Illumise (10%), Farfetch'd (10%), Chatot (10%)
-Grass, Doubles: Flaaffy (20%), Kadabra (20%), Lombre (20%), Nuzleaf (20%), Roselia (10%),
+<b>Grass, Doubles:</b>
+1. Loudred (20%)
+2. Staravia (20%)
+3. Vigoroth (10%)
+4. Electabuzz (10%)
+5. Magmar (10%)
+6. Flygon (10%)
+7. Rhydon (10%)
+8. Boldore (10%)
+
+<b>Grass, Special:</b>
+1. Audino (70%)
+2. Emolga (10%)
+3. Electivire (5%)
+4. Magmortar (5%)
+5. Gliscor (5%)
+6. Staraptor (5%)
+
+<b>Surf, Normal:</b>
+1. Buizel (60%)
+2. Floatzel (40%)
+
+<b>Surf, Special:</b>
+1. Dratini (60%)
+2. Dragonair (35%)
+3. Dragonite (5%)
+
+<b>Fish, Normal:</b>
+1. Goldeen (70%)
+2. Basculin (30%)
+
+<b>Fish, Special:</b>
+1. Goldeen (60%)
+2. Basculin (30%)
+3. Seaking (10%)
+</code></pre>
+
+---
+
+#### Village Bridge
+
+<pre><code><b>Grass, Normal:</b>
+1. Exeggcute (20%)
+2. Bibarel (20%)
+3. Zangoose (10%)
+4. Seviper (10%)
+5. Volbeat (10%)
+6. Illumise (10%)
+7. Farfetch'd (10%)
+8. Chatot (10%)
+
+<b>Grass, Doubles:</b>
+1. Flaaffy (20%)
+2. Kadabra (20%)
+3. Lombre (20%)
+4. Nuzleaf (20%)
+5. Roselia (10%),
 Togepi (10%)
-Grass, Special: Chansey (75%), Emolga (10%), Togetic (5%), Exeggutor (5%), Roserade (5%)
-Surf, Normal: Tentacruel (60%), Sharpedo (40%)
-Surf, Special: Sharpedo (60%), Jellicent (40%)
-Fish, Normal: Carvanha (70%), Basculin (30%)
-Fish, Special: Carvanha (60%), Basculin (30%), Sharpedo (10%)
 
-LEGENDARY ENCOUNTER
+<b>Grass, Special:</b>
+1. Chansey (75%)
+2. Emolga (10%)
+3. Togetic (5%)
+4. Exeggutor (5%)
+5. Roserade (5%)
 
+<b>Surf, Normal:</b>
+1. Tentacruel (60%)
+2. Sharpedo (40%)
+
+<b>Surf, Special:</b>
+1. Sharpedo (60%)
+2. Jellicent (40%)
+
+<b>Fish, Normal:</b>
+1. Carvanha (70%)
+2. Basculin (30%)
+
+<b>Fish, Special:</b>
+1. Carvanha (60%)
+2. Basculin (30%)
+3. Sharpedo (10%)
+</code></pre>
+
+##### Legendary Encounter
+
+```
 Shaymin, Level 50
 Village Bridge
 Grass, Doubles, 1%
+```
 
-- This little hedgehog loves the peaceful river and vegetation of the Village Bridge, and can be found dancing among the flowers to the music. A run in with this small legendary is unlikely, but not impossible.
+<sub><sup>_This little hedgehog loves the peaceful river and vegetation of the Village Bridge, and can be found dancing among the flowers to the music. A run in with this small legendary is unlikely, but not impossible._</sub></sup>
 
-LEGENDARY ENCOUNTER
+</code></pre>
 
+##### Legendary Encounter
+
+```
 Meloetta, Level 50
 Village Bridge
 Grass, Doubles, 1%
+```
 
-- # Meloetta, the Queen of Song, also highly enjoys the area, joining in with the vocal peformances given by the residents. Her sound lends her location, but it’ll be a tricky place to find.
-  Route 12
+<sub><sup>_Meloetta, the Queen of Song, also highly enjoys the area, joining in with the vocal peformances given by the residents. Her sound lends her location, but it’ll be a tricky place to find._</sub></sup>
 
-Grass, Normal: Cherrim (20%), Combee (20%), Sunkern (10%), Pinsir (10%), Heracross (10%),
+---
+
+#### Route 12
+
+<pre><code><b>Grass, Normal:</b>
+1. Cherrim (20%)
+2. Combee (20%)
+3. Sunkern (10%)
+4. Pinsir (10%)
+5. Heracross (10%),
 Scyther (10%), Rapidash (10%), Zebstrika (10%)
-Grass, Doubles: Tranquill (40%), Butterfree (10%), Beedrill (10%), Beautifly (10%), Dustox (10%), Swadloon (10%), Whirlipede (10%)
-Grass, Special: Emolga (95%), Sunflora (5%), Vespiquen (5%)
-==================================================================
-Route 13
 
-Grass, Normal: Absol (20%), Drifblim (20%), Swellow (10%), Lunatone (10%), Solrock (10%), Wormadam (10%), Mothim (10%), Pelipper (10%)
-Grass, Doubles: Golbat (20%), Tangela (20%), Nidorino (10%), Nidorina (10%), Yanma (10%), Gloom (10%), Weepinbell (10%), Skiploom (10%)
-Grass, Special: Audino (80%), Tangrowth (5%), Crobat (5%), Nidoking (5%), Nidoqueen (5%)
-Surf, Normal: Pelipper (60%), Corsola (40%)
-Surf, Special: Tentacruel (60%), Starmie (30%), Kingdra (10%)
-Fish, Normal: Shellder (65%), Krabby (30%), Luvdisc (5%)
-Fish, Special: Shellder (60%), Luvdisc (30%), Kingler (5%), Cloyster (5%)
+<b>Grass, Doubles:</b>
+1. Tranquill (40%)
+2. Butterfree (10%)
+3. Beedrill (10%)
+4. Beautifly (10%)
+5. Dustox (10%)
+6. Swadloon (10%)
+7. Whirlipede (10%)
 
-LEGENDARY ENCOUNTER
+<b>Grass, Special:</b>
+1. Emolga (95%)
+2. Sunflora (5%)
+3. Vespiquen (5%)
+</code></pre>
 
+---
+
+#### Route 13
+
+<pre><code><b>Grass, Normal:</b>
+1. Absol (20%)
+2. Drifblim (20%)
+3. Swellow (10%)
+4. Lunatone (10%)
+5. Solrock (10%)
+6. Wormadam (10%)
+7. Mothim (10%)
+8. Pelipper (10%)
+
+<b>Grass, Doubles:</b>
+1. Golbat (20%)
+2. Tangela (20%)
+3. Nidorino (10%)
+4. Nidorina (10%)
+5. Yanma (10%)
+6. Gloom (10%)
+7. Weepinbell (10%)
+8. Skiploom (10%)
+
+<b>Grass, Special:</b>
+1. Audino (80%)
+2. Tangrowth (5%)
+3. Crobat (5%)
+4. Nidoking (5%)
+5. Nidoqueen (5%)
+
+<b>Surf, Normal:</b>
+1. Pelipper (60%)
+2. Corsola (40%)
+
+<b>Surf, Special:</b>
+1. Tentacruel (60%)
+2. Starmie (30%)
+3. Kingdra (10%)
+
+<b>Fish, Normal:</b>
+1. Shellder (65%)
+2. Krabby (30%)
+3. Luvdisc (5%)
+
+<b>Fish, Special:</b>
+1. Shellder (60%)
+2. Luvdisc (30%)
+3. Kingler (5%)
+4. Cloyster (5%)
+</code></pre>
+
+##### Legendary Encounter
+
+```
 Lugia, Level 70
 Route 13
 Surf, Special, 1%
+```
 
-- # The sea is vast, and allows Lugia to spy on the humans it so dearly tries to protect. Of course, it’ll not hesitate to fight if a gifted trainer comes along, looking for a challenge…
-  Giant Chasm – Outside Area
+<sub><sup>_The sea is vast, and allows Lugia to spy on the humans it so dearly tries to protect. Of course, it’ll not hesitate to fight if a gifted trainer comes along, looking for a challenge…_</sub></sup>
 
-Grass, Normal: Absol (20%), Drifblim (20%), Swellow (10%), Lunatone (10%), Solrock (10%), Wormadam (10%), Mothim (10%), Pelipper (10%)
-Grass, Doubles: Golbat (20%), Tangela (20%), Nidorino (10%), Nidorina (10%), Yanma (10%), Gloom (10%), Weepinbell (10%), Skiploom (10%)
-Grass, Special: Audino (80%), Tangrowth (5%), Crobat (5%), Nidoking (5%), Nidoqueen (5%)
+---
 
-LEGENDARY ENCOUNTER
+#### Giant Chasm – Outside Area
 
+<pre><code><b>Grass, Normal:</b>
+1. Absol (20%)
+2. Drifblim (20%)
+3. Swellow (10%)
+4. Lunatone (10%)
+5. Solrock (10%)
+6. Wormadam (10%)
+7. Mothim (10%)
+8. Pelipper (10%)
+
+<b>Grass, Doubles:</b>
+1. Golbat (20%)
+2. Tangela (20%)
+3. Nidorino (10%)
+4. Nidorina (10%)
+5. Yanma (10%)
+6. Gloom (10%)
+7. Weepinbell (10%)
+8. Skiploom (10%)
+
+<b>Grass, Special:</b>
+1. Audino (80%)
+2. Tangrowth (5%)
+3. Crobat (5%)
+4. Nidoking (5%)
+5. Nidoqueen (5%)
+</code></pre>
+
+##### Legendary Encounter
+
+```
 Deoxys, Level 70
 Giant Chasm, Outside Area
 Doubles Grass, 1%.
+```
 
-- With stories of the Giant Chasm formed from a meteor, it’s not unlikely to imagine that Deoxys has made a settlement somewhere near. Perhaps you might encounter it while it searches for meteorite.
+<sub><sup>_With stories of the Giant Chasm formed from a meteor, it’s not unlikely to imagine that Deoxys has made a settlement somewhere near. Perhaps you might encounter it while it searches for meteorite._</sub></sup>
 
 Giant Chasm – Inside Cave
 
 Cave, Normal: Woobat (20%), Jynx (20%), Glalie (10%), Beartic (10%), Slowbro (10%), Piloswine (10%), Graveler (10%), Boldore (10%)
+
 Cave, Special: Excadrill (100%)
+
 Surf, Normal: Seel (60%), Dewgong (40%)
+
 Surf, Special: Walrein (100%)
+
 Fish, Normal: Poliwag (65%), Basculin (30%), Poliwhirl (5%)
+
 Fish, Special: Poliwhirl (65%), Baculin (30%), Poliwrath (5%)
 
-LEGENDARY ENCOUNTER
+</code></pre>
 
+##### Legendary Encounter
+
+```
 Dialga, Level 70
 Giant Chasm, Inside Cave (not Kyurem bit)
 Cave, Normal, 1%
+```
 
-- The Giant Chasm, ruled by Kyurem, is sometimes rumoured to also be related to the powers of time. Dialga’s visits to this place mean you might just find it, or perhaps its counterpart, Palkia.
+<sub><sup>_The Giant Chasm, ruled by Kyurem, is sometimes rumoured to also be related to the powers of time. Dialga’s visits to this place mean you might just find it, or perhaps its counterpart, Palkia._</sub></sup>
 
-LEGENDARY ENCOUNTER
+</code></pre>
 
+##### Legendary Encounter
+
+```
 Palkia, Level 70
 Giant Chasm, Inside Cave (not Kyurem bit)
 Cave, Normal, 1%
+```
 
-- Equally, the distortions in space mean Palkia has taken residence in this unknown area of the world.
+<sub><sup>_Equally, the distortions in space mean Palkia has taken residence in this unknown area of the world._</sub></sup>
 
 Giant Chasm – Inside Plains
 
 Grass, Normal: Clefairy (20%), Jigglypuff (20%), Skitty (10%), Sneasel (10%), Metang (10%), Vanillish (10%), Golbat (10%), Porygon (10%)
+
 Grass, Doubles: Piloswine (20%), Abomasnow (20%), Bouffalant (10%), Solrock (10%), Lunatone (10%), Skiploom (10%), Metang (10%), Ditto (10%)
+
 Grass, Special: Audino (80%), Clefable (5%), Wigglytuff (5%), Mamoswine (5%), Metagross (5%)
 
-LEGENDARY ENCOUNTER
+</code></pre>
 
+##### Legendary Encounter
+
+```
 Giratina, Level 70
 Giant Chasm, Inside Plains
 Grass, Doubles, 1%
+```
 
-- Giratina, the third dragon of Sinnoh, also makes an appearance. Though he intends to see the Celestial Tower, the Giant Chasm is an ideal place for rest.
+<sub><sup>_Giratina, the third dragon of Sinnoh, also makes an appearance. Though he intends to see the Celestial Tower, the Giant Chasm is an ideal place for rest._</sub></sup>
 
-LEGENDARY ENCOUNTER
-/
+</code></pre>
+
+##### Legendary Encounter
+
+```
 Reshiram, Level 70 (Volt White) / Zekrom, Level 70 (Blaze Black)
 Giant Chasm, Inside Plains
 Grass, Doubles, 1%
+```
 
-- The remaining Tao dragon also appears, having split off from N and returning to greet the third member of its trio. You might be able to find it, if you’re lucky…
+<sub><sup>_The remaining Tao dragon also appears, having split off from N and returning to greet the third member of its trio. You might be able to find it, if you’re lucky…_</sub></sup>
 
-LEGENDARY ENCOUNTER
+</code></pre>
 
+##### Legendary Encounter
+
+```
 Kyurem, Level 75
 Giant Chasm, Rear Cave
-==================================================================
-Undella Town
+```
 
-Surf, Normal: Luvdisc (60%), Corsola (40%)
-Surf, Special: Alomomola (100%)
-Fish, Normal: Remoraid (65%), Shellder (30%), Luvdisc (5%)
-Fish, Special: Shellder (60%), Luvdisc (30%), Octillery (5%), Cloyster (5%)
-==================================================================
-Undella Bay
+---
 
-All Seasons
-Surf, Normal: Mantyke (60%), Wailmer (40%)
-Surf, Special: Mantine (60%), Wailord (40%)
-Fish, Normal: Remoraid (65%), Shellder (30%), Luvdisc (5%)
-Fish, Special: Shellder (60%), Luvdisc (30%), Octillery (5%), Cloyster (5%)
+#### Undella Town
 
-LEGENDARY ENCOUNTER
+<pre><code><b>Surf, Normal:</b>
+1. Luvdisc (60%)
+2. Corsola (40%)
 
+<b>Surf, Special:</b>
+1. Alomomola (100%)
+
+<b>Fish, Normal:</b>
+1. Remoraid (65%)
+2. Shellder (30%)
+3. Luvdisc (5%)
+
+<b>Fish, Special:</b>
+1. Shellder (60%)
+2. Luvdisc (30%)
+3. Octillery (5%)
+4. Cloyster (5%)
+</code></pre>
+
+---
+
+#### Undella Bay
+
+<pre><code>All Seasons
+<b>Surf, Normal:</b>
+1. Mantyke (60%)
+2. Wailmer (40%)
+
+<b>Surf, Special:</b>
+1. Mantine (60%)
+2. Wailord (40%)
+
+<b>Fish, Normal:</b>
+1. Remoraid (65%)
+2. Shellder (30%)
+3. Luvdisc (5%)
+
+<b>Fish, Special:</b>
+1. Shellder (60%)
+2. Luvdisc (30%)
+3. Octillery (5%)
+4. Cloyster (5%)
+</code></pre>
+
+##### Legendary Encounter
+
+```
 Kyogre, Level 70
 Undella Bay, Summer
 Surf, Special, 1%
+```
 
-- # The vast waters of the Undella Bay are perfect for Kyogre, who awakens only once in the four-season period. The hot temperatures of Summer might lead a lucky – or doomed – trainer to find this beast.
-  Route 14
+<sub><sup>_The vast waters of the Undella Bay are perfect for Kyogre, who awakens only once in the four-season period. The hot temperatures of Summer might lead a lucky – or doomed – trainer to find this beast._</sub></sup>
 
-Grass, Normal: Gothorita (20%), Duosion (20%), Kirlia (10%), Lombre (10%), Shuckle (10%), Luxio (10%), Carnivine (10%), Skiploom (10%)
-Grass, Doubles: Altaria (20%), Mienshao (20%), Beheeyem (10%), Grumpig (10%), Drifblim (10%), Breloom (10%), Tropius (10%), Galvantula (10%)
-Grass, Special: Chansey (75%), Blissey (25%)
-Surf, Normal: Seaking (60%), Lumineon (40%)
-Surf, Special: Politoed (60%), Milotic (40%)
-Fish, Normal: Goldeen (70%), Basculin (30%)
-Fish, Special: Goldeen (60%), Basculin (30%), Seaking (10%)
-==================================================================
-Abundant Shrine
+---
 
-Grass, Normal: Chimecho (20%), Vulpix (20%), Growlithe (10%), Cottonee (10%), Petilil (10%), Bronzor (10%), Murkrow (10%), Misdreavus (10%)
-Grass, Doubles: Eevee (20%), Bronzong (20%), Girafarig (10%), Stantler (10%), Hypno (10%), Mightyena (10%), Mr. Mime (10%), Sudowoodo (10%)
-Grass, Special: Audino (70%), Emolga (10%), Arcanine (5%), Ninetales (5%), Whimsicott (5%), Lilligant (5%)
-Surf, Normal: Slowpoke (100%)
-Surf, Special: Slowking (60%), Slowbro (40%)
-Fish, Normal: Goldeen (70%), Basculin (30%)
-Fish, Special: Goldeen (60%), Basculin (30%), Seaking (10%)
+#### Route 14
 
-LEGENDARY ENCOUNTER
+<pre><code><b>Grass, Normal:</b>
+1. Gothorita (20%)
+2. Duosion (20%)
+3. Kirlia (10%)
+4. Lombre (10%)
+5. Shuckle (10%)
+6. Luxio (10%)
+7. Carnivine (10%)
+8. Skiploom (10%)
 
+<b>Grass, Doubles:</b>
+1. Altaria (20%)
+2. Mienshao (20%)
+3. Beheeyem (10%)
+4. Grumpig (10%)
+5. Drifblim (10%)
+6. Breloom (10%)
+7. Tropius (10%)
+8. Galvantula (10%)
+
+<b>Grass, Special:</b>
+1. Chansey (75%)
+2. Blissey (25%)
+
+<b>Surf, Normal:</b>
+1. Seaking (60%)
+2. Lumineon (40%)
+
+<b>Surf, Special:</b>
+1. Politoed (60%)
+2. Milotic (40%)
+
+<b>Fish, Normal:</b>
+1. Goldeen (70%)
+2. Basculin (30%)
+
+<b>Fish, Special:</b>
+1. Goldeen (60%)
+2. Basculin (30%)
+3. Seaking (10%)
+</code></pre>
+
+---
+
+#### Abundant Shrine
+
+<pre><code><b>Grass, Normal:</b>
+1. Chimecho (20%)
+2. Vulpix (20%)
+3. Growlithe (10%)
+4. Cottonee (10%)
+5. Petilil (10%)
+6. Bronzor (10%)
+7. Murkrow (10%)
+8. Misdreavus (10%)
+
+<b>Grass, Doubles:</b>
+1. Eevee (20%)
+2. Bronzong (20%)
+3. Girafarig (10%)
+4. Stantler (10%)
+5. Hypno (10%)
+6. Mightyena (10%)
+7. Mr. Mime (10%)
+8. Sudowoodo (10%)
+
+<b>Grass, Special:</b>
+1. Audino (70%)
+2. Emolga (10%)
+3. Arcanine (5%)
+4. Ninetales (5%)
+5. Whimsicott (5%)
+6. Lilligant (5%)
+
+<b>Surf, Normal:</b>
+1. Slowpoke (100%)
+
+<b>Surf, Special:</b>
+1. Slowking (60%)
+2. Slowbro (40%)
+
+<b>Fish, Normal:</b>
+1. Goldeen (70%)
+2. Basculin (30%)
+
+<b>Fish, Special:</b>
+1. Goldeen (60%)
+2. Basculin (30%)
+3. Seaking (10%)
+</code></pre>
+
+##### Legendary Encounter
+
+```
 Ho-oh, Level 70
 Abundant Shrine
 Grass, Special, 1%
+```
 
-- Ho-oh sometimes visits the shrine as a peace offering from Johto. Legendaries have culture too, you know! If you’re lucky, you might catch a glimpse of it.
+<sub><sup>_Ho-oh sometimes visits the shrine as a peace offering from Johto. Legendaries have culture too, you know! If you’re lucky, you might catch a glimpse of it._</sub></sup>
 
-LEGENDARY ENCOUNTER
+</code></pre>
 
+##### Legendary Encounter
+
+```
 Landorus, Level 75
 Abundant Shrine
-==================================================================
-Black City / White Forest
+```
 
-# Trainers in Black City have edited rosters. White Forest has no changes to Wild Pokemon whatsoever.
+---
 
-Route 15
+#### Black City / White Forest
 
-Grass, Normal: Throh (20%), Sawk (20%), Tyrogue (10%), Graveler (10%), Gabite (10%), Pupitar (10%), Kangaskhan (10%), Marowak (10%)
-Grass, Doubles: Machoke (20%), Gurdurr (20%), Pupitar (10%), Gligar (10%), Kangaskhan (10%), Donphan (10%), Ursaring (10%), Marowak (10%)
-Grass, Special: Audino (70%), Emolga (10%), Tyranitar (5%), Gliscor (5%), Machamp (5%), Conkeldurr (5%)
+<pre><code>Trainers in Black City have edited rosters. White Forest has no changes to Wild Pokemon whatsoever.
+</code></pre>
 
-LEGENDARY ENCOUNTER
+---
 
+#### Route 15
+
+<pre><code><b>Grass, Normal:</b>
+1. Throh (20%)
+2. Sawk (20%)
+3. Tyrogue (10%)
+4. Graveler (10%)
+5. Gabite (10%)
+6. Pupitar (10%)
+7. Kangaskhan (10%)
+8. Marowak (10%)
+
+<b>Grass, Doubles:</b>
+1. Machoke (20%)
+2. Gurdurr (20%)
+3. Pupitar (10%)
+4. Gligar (10%)
+5. Kangaskhan (10%)
+6. Donphan (10%)
+7. Ursaring (10%)
+8. Marowak (10%)
+
+<b>Grass, Special:</b>
+1. Audino (70%)
+2. Emolga (10%)
+3. Tyranitar (5%)
+4. Gliscor (5%)
+5. Machamp (5%)
+6. Conkeldurr (5%)
+</code></pre>
+
+##### Legendary Encounter
+
+```
 Groudon, Level 70
 Route 15
 Grass, Doubles, 1%
+```
 
-- # With the lack of volcanoes in Unova there isn’t much for Groudon to enjoy, but the mountainous terrain of Route 15 gives it at least some solace. Perhaps you’ll find it after shifting you a sea of various Rock, Ground, Normal and Fighting Pokémon. If you’re lucky.
-  Marvelous Bridge
+<sub><sup>_With the lack of volcanoes in Unova there isn’t much for Groudon to enjoy, but the mountainous terrain of Route 15 gives it at least some solace. Perhaps you’ll find it after shifting you a sea of various Rock, Ground, Normal and Fighting Pokémon. If you’re lucky._</sub></sup>
 
-Bridge, Special: Swanna (20%), Pelipper (20%), Altaria (20%), Fearow (20%), Skiploom (20%)
+---
 
-LEGENDARY ENCOUNTER
+#### Marvelous Bridge
 
+<pre><code><b>Bridge, Special:</b>
+1. Swanna (20%)
+2. Pelipper (20%)
+3. Altaria (20%)
+4. Fearow (20%)
+5. Skiploom (20%)
+</code></pre>
+
+##### Legendary Encounter
+
+```
 Rayquaza, Level 70
 Marvelous Bridge
 Bridge, Special, 1%
+```
 
-- # At the altitude of the Wonder Bridge, it isn’t all that uncommon to see Rayquaza flying by. Well, it is, but regardless it needs to keep an eye on Kyogre and Groudon. Perhaps if a trainer looks straight up at the sky, they may just be lucky enough to see it…
-  Challenger’s Cave – All Floors
+<sub><sup>_At the altitude of the Wonder Bridge, it isn’t all that uncommon to see Rayquaza flying by. Well, it is, but regardless it needs to keep an eye on Kyogre and Groudon. Perhaps if a trainer looks straight up at the sky, they may just be lucky enough to see it…_</sub></sup>
 
-1F
-Cave, Normal: Mawile (20%), Sableye (20%), Lickitung (10%), Graveler (10%), Woobat (10%), Boldore (10%), Marowak (10%), Hariyama (10%)
-Cave, Special: Excadrill (50%), Dugtrio (50%)
+---
 
-LEGENDARY ENCOUNTER
+#### Challenger’s Cave – 1F
 
+<pre><code><b>Cave, Normal:</b>
+1. Mawile (20%)
+2. Sableye (20%)
+3. Lickitung (10%)
+4. Graveler (10%)
+5. Woobat (10%)
+6. Boldore (10%)
+7. Marowak (10%)
+8. Hariyama (10%)
+
+<b>Cave, Special:</b>
+1. Excadrill (50%)
+2. Dugtrio (50%)
+</code></pre>
+
+##### Legendary Encounter
+
+```
 Genesect, Level 75
 Challenger’s Cave, 1F
 Cave, Normal, 1%.
+```
 
-- Though previously seen in the hands of Ghetsis, the artificial Genesect now appears in the top floors of the looming Challenger’s Cave. The threats below keep it from descending, but this insect might just drop on your head. It won’t be pretty.
+<sub><sup>_Though previously seen in the hands of Ghetsis, the artificial Genesect now appears in the top floors of the looming Challenger’s Cave. The threats below keep it from descending, but this insect might just drop on your head. It won’t be pretty._</sub></sup>
 
-B1F
-Cave, Normal: Mawile (20%), Sableye (20%), Magneton (10%), Golbat (10%), Wobbuffet (10%), Parasect (10%), Marowak (10%), Electrode (10%)
-Cave, Special: Excadrill (50%), Dugtrio (50%)
+---
 
-LEGENDARY ENCOUNTER
+#### Challenger’s Cave – B1F
 
+<pre><code><b>Cave, Normal:</b>
+1. Mawile (20%)
+2. Sableye (20%)
+3. Magneton (10%)
+4. Golbat (10%)
+5. Wobbuffet (10%)
+6. Parasect (10%)
+7. Marowak (10%)
+8. Electrode (10%)
+
+<b>Cave, Special:</b>
+1. Excadrill (50%)
+2. Dugtrio (50%)
+</code></pre>
+
+##### Legendary Encounter
+
+```
 Mewtwo, Level 75
 Challenger’s Cave, B1F
 Cave, Normal, 1%.
+```
 
-- Mewtwo returns in a post League cave once more. Challenger’s Cave is a lot like Cerulean’s Cave, but a certain Pokémon God stopped him getting into the real bottom floor. Still, the dark and damp is enough to make it feel like home.
+<sub><sup>_Mewtwo returns in a post League cave once more. Challenger’s Cave is a lot like Cerulean’s Cave, but a certain Pokémon God stopped him getting into the real bottom floor. Still, the dark and damp is enough to make it feel like home._</sub></sup>
 
-LEGENDARY ENCOUNTER
+</code></pre>
 
+##### Legendary Encounter
+
+```
 Darkrai, Level 70
 Challenger’s Cave, B1F
 Cave, Normal, 1%.
+```
 
-- The dark, mid-depths of the Challenger’s Cave are also of intrigue to Darkrai, who loves the darkness and occasionally likes to taunt the people of Icirrus City and Opelucid City with nightmares. But you don’t need to hear about that.
+<sub><sup>_The dark, mid-depths of the Challenger’s Cave are also of intrigue to Darkrai, who loves the darkness and occasionally likes to taunt the people of Icirrus City and Opelucid City with nightmares. But you don’t need to hear about that._</sub></sup>
 
-B2F
-Cave, Normal: Mawile (20%), Sableye (20%), Kadabra (10%), Golbat (10%), Zweilous (10%), Medicham (10%), Ursaring (10%), Donphan (10%)
-Cave, Special: Excadrill (50%), Dugtrio (50%)
-Surf, Normal: Psyduck (90%), Tentacool (10%)
-Surf, Special: Tentacruel (60%), Golduck (30%), Starmie (10%)
-Fish, Normal: Goldeen (90%), Poliwhirl (10%)
-Fish, Special: Seaking (60%), Gyarados (30%), Poliwrath (5%), Politoed (5%)
+---
 
-LEGENDARY ENCOUNTER
+#### Challenger’s Cave – B2F
 
+<pre><code><b>Cave, Normal:</b>
+1. Mawile (20%)
+2. Sableye (20%)
+3. Kadabra (10%)
+4. Golbat (10%)
+5. Zweilous (10%)
+6. Medicham (10%)
+7. Ursaring (10%)
+8. Donphan (10%)
+
+<b>Cave, Special:</b>
+1. Excadrill (50%)
+2. Dugtrio (50%)
+
+<b>Surf, Normal:</b>
+1. Psyduck (90%)
+2. Tentacool (10%)
+
+<b>Surf, Special:</b>
+1. Tentacruel (60%)
+2. Golduck (30%)
+3. Starmie (10%)
+
+<b>Fish, Normal:</b>
+1. Goldeen (90%)
+2. Poliwhirl (10%)
+
+<b>Fish, Special:</b>
+1. Seaking (60%)
+2. Gyarados (30%)
+3. Poliwrath (5%)
+4. Politoed (5%)
+</code></pre>
+
+##### Legendary Encounter
+
+```
 Arceus, Level 80
 Challenger’s Cave, B2F
 Cave, Normal, 1%.
+```
 
-- Only those who reach the very bottom of the most challenging cave in Unova are able to have a chance of seeing the god of all Pokemon. Should you be lucky to come in contact with it, don’t underestimate its power.
+<sub><sup>_Only those who reach the very bottom of the most challenging cave in Unova are able to have a chance of seeing the god of all Pokemon. Should you be lucky to come in contact with it, don’t underestimate its power._</sub></sup>
