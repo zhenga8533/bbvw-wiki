@@ -4,6 +4,8 @@ Please note that the Game IDs for Blaze Black and Volt White are not the same as
 
 These action replay codes are designed to make things easier, but not in the sense that you get free Rare Candies or anything. It’s easier in terms of less hassle to do things, or having to wait less time for things to pass. Covenience, basically.
 
+---
+
 ## Pokémon Blaze Black
 
 ```

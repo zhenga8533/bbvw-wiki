@@ -32,16 +32,16 @@ markdown_extensions:
 nav:
   - Getting Started:
       - Home: index.md
-      - Download Links: download_links.md
-      - Patching Guide: patching_guide.md
+      - Download Links: getting_started/download_links.md
+      - Patching Guide: getting_started/patching_guide.md
   - Mechanics:
-      - Action Replay Codes: action_replay_codes.md
-      - Important Trainer Rosters: important_trainer_rosters.md
-      - Item & Trade Changes: item_&_trade_changes.md
-      - Level Up Move Changes: level_up_move_changes.md
-      - Pokémon Changes: pokemon_changes.md
-      - Trainer Rosters: trainer_rosters.md
-      - Wild Pokémon: wild_pokemon.md
+      - Action Replay Codes: mechanics/action_replay_codes.md
+      - Important Trainer Rosters: mechanics/important_trainer_rosters.md
+      - Item & Trade Changes: mechanics/item_&_trade_changes.md
+      - Level Up Move Changes: mechanics/level_up_move_changes.md
+      - Pokémon Changes: mechanics/pokemon_changes.md
+      - Trainer Rosters: mechanics/trainer_rosters.md
+      - Wild Pokémon: mechanics/wild_pokemon.md
   - Pokémon:
       - Placeholder: placeholder.md
   - Routes:
