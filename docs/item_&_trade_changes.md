@@ -2,7 +2,7 @@
 ## Item Changes
 ---
 
-#### The Following Items Have Been Edited Into "use" Items:
+#### New "Use" Items
 
 ```
 1. Dragon Scale

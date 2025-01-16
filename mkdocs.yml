@@ -1,4 +1,4 @@
-site_name: BB/VW Wiki
+site_name: Blaze Black/Volt White Wiki
 site_url: https://zhenga8533.github.io/bbvw-wiki/
 site_description: A fanmade wiki for the Blaze Black and Volt White ROM hacks.
 site_author: Volcaronitee
@@ -6,14 +6,43 @@ repo_url: https://github.com/zhenga8533/bbvw-wiki
 
 theme:
   name: material
+  favicon: assets/logo.png
+  features:
+    - navigation.footer
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tabs
+    - navigation.sections
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
 markdown_extensions:
   - admonition
 nav:
-  - Home: index.md
-  - Action Replay Codes: action_replay_codes.md
-  - Important Trainer Rosters: important_trainer_rosters.md
-  - Item & Trade Changes: item_&_trade_changes.md
-  - Level Up Move Changes: level_up_move_changes.md
-  - Pokemon Changes: pokemon_changes.md
-  - Trainer Rosters: trainer_rosters.md
-  - Wild Pokemon: wild_pokemon.md
+  - Getting Started:
+      - Home: index.md
+      - Download Links: download_links.md
+      - Patching Guide: patching_guide.md
+  - Mechanics:
+      - Action Replay Codes: action_replay_codes.md
+      - Important Trainer Rosters: important_trainer_rosters.md
+      - Item & Trade Changes: item_&_trade_changes.md
+      - Level Up Move Changes: level_up_move_changes.md
+      - Pokémon Changes: pokemon_changes.md
+      - Trainer Rosters: trainer_rosters.md
+      - Wild Pokémon: wild_pokemon.md
+  - Pokémon:
+      - Placeholder: placeholder.md
+  - Routes:
+      - Placeholder: placeholder.md
