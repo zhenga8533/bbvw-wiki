@@ -51,28 +51,28 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. Eevee
-2. Eevee-Starter
-3. Eevee-Gmax
+1. [Eevee](/bbvw-wiki/pokemon/eevee/)
+2. [Eevee-Starter](/bbvw-wiki/pokemon/eevee-starter/)
+3. [Eevee-Gmax](/bbvw-wiki/pokemon/eevee-gmax/)
 
 ### Evolution Line
 
 1. [Eevee](/bbvw-wiki/pokemon/eevee/)
-    1. [Vaporeon](/bbvw-wiki/pokemon/vaporeon/)
-    2. [Jolteon](/bbvw-wiki/pokemon/jolteon/)
-    3. [Flareon](/bbvw-wiki/pokemon/flareon/)
-    4. [Espeon](/bbvw-wiki/pokemon/espeon/)
-    5. [Umbreon](/bbvw-wiki/pokemon/umbreon/)
-    6. [Leafeon](/bbvw-wiki/pokemon/leafeon/)
-    7. [Glaceon](/bbvw-wiki/pokemon/glaceon/)
-    8. [Sylveon](/bbvw-wiki/pokemon/sylveon/)
+    1. Use Item: [Vaporeon](/bbvw-wiki/pokemon/vaporeon/)
+    2. Use Item: [Jolteon](/bbvw-wiki/pokemon/jolteon/)
+    3. Use Item: [Flareon](/bbvw-wiki/pokemon/flareon/)
+    4. Level Up: [Espeon](/bbvw-wiki/pokemon/espeon/)
+    5. Level Up: [Umbreon](/bbvw-wiki/pokemon/umbreon/)
+    6. Use Item: [Leafeon](/bbvw-wiki/pokemon/leafeon/)
+    7. Use Item: [Glaceon](/bbvw-wiki/pokemon/glaceon/)
+    8. Level Up: [Sylveon](/bbvw-wiki/pokemon/sylveon/)
 
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate |
 |----------|------------|-----------------|-----------|-------------|
-| 1 special-defense | 45 | 50 | 65 | Medium |
+| 1 Special Defense | 45 | 50 | 65 | Medium |
 
 ## Breeding
 

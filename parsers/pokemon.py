@@ -4,7 +4,12 @@ import requests
 
 
 def parse_evolution_line(evolution, level=1, index=1):
-    md = f"{'    ' * (level - 1)}{index}. [{evolution['name'].title()}](/bbvw-wiki/pokemon/{evolution['name'].lower()}/)\n"
+    md = f"{'    ' * (level - 1)}{index}. "
+    evolution_details = evolution["evolution_details"]
+    if len(evolution_details) > 0:
+        md += f"{evolution_details[-1]["trigger"]["name"].replace("-", " ").title()}: "
+    md += f"[{evolution['name'].title()}](/bbvw-wiki/pokemon/{evolution['name']}/)\n"
+
     if evolution["evolutions"]:
         for i, sub_evolution in enumerate(evolution["evolutions"], 1):
             md += parse_evolution_line(sub_evolution, level + 1, i)
@@ -112,7 +117,7 @@ def to_md(pokemon: dict) -> str:
         md += f"{pokemon_name} has no alternate forms.\n\n"
     else:
         for i, form in enumerate(forms):
-            md += f"{i + 1}. {form.title()}\n"
+            md += f"{i + 1}. [{form.title()}](/bbvw-wiki/pokemon/{form}/)\n"
         md += "\n"
 
     # Evolutions
@@ -128,7 +133,7 @@ def to_md(pokemon: dict) -> str:
     md += f"| EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate |\n"
     md += f"|----------|------------|-----------------|-----------|-------------|\n"
     ev_yield = pokemon["ev_yield"]
-    md += f"| {"<br>".join([f"{ev_yield[stat]} {stat}" for stat in ev_yield if ev_yield[stat] > 0])} "
+    md += f"| {"<br>".join([f"{ev_yield[stat]} {stat.replace("-", " ").title()}" for stat in ev_yield if ev_yield[stat] > 0])} "
     md += f"| {pokemon["capture_rate"]} "
     md += f"| {pokemon["base_happiness"]} "
     md += f"| {pokemon["base_experience"]} "
