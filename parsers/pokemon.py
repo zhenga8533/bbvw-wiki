@@ -3,6 +3,14 @@ import json
 import requests
 
 
+def parse_evolution_line(evolution, level=1, index=1):
+    md = f"{'    ' * (level - 1)}{index}. [{evolution['name'].title()}](/bbvw-wiki/pokemon/{evolution['name'].lower()}/)\n"
+    if evolution["evolutions"]:
+        for i, sub_evolution in enumerate(evolution["evolutions"], 1):
+            md += parse_evolution_line(sub_evolution, level + 1, i)
+    return md
+
+
 def calculate_hp(base: int, iv: int, ev: int, level: int) -> int:
     return int(((2 * base + iv + ev // 4) * level) // 100 + level + 10)
 
@@ -13,7 +21,7 @@ def calculate_stat(base: int, iv: int, ev: int, level: int, nature: float) -> in
 
 def to_md(pokemon: dict) -> str:
     # Basic information
-    pokemon_name = pokemon["name"].capitalize()
+    pokemon_name = pokemon["name"].title()
     md = f"# #{pokemon["id"]:03} {pokemon_name} - {pokemon["genus"]}\n\n"
     md += "| Official Artwork | Shiny Artwork |\n"
     md += "|------------------|---------------|\n"
@@ -61,7 +69,9 @@ def to_md(pokemon: dict) -> str:
     md += f"| {" ".join([f"![{t}](../assets/types/{t}.png){{: width='48'}}" for t in pokemon["types"]])} "
     md += f"| {pokemon["height"]} m "
     md += f"| {pokemon["weight"]} kg "
-    md += f"| {"<br>".join([f"{i + 1}. {ability["name"].capitalize()}" for i, ability in enumerate(pokemon["abilities"])])} "
+    md += (
+        f"| {"<br>".join([f"{i + 1}. {ability["name"].title()}" for i, ability in enumerate(pokemon["abilities"])])} "
+    )
     md += f"| #{pokemon["pokedex_numbers"].get("original-unova", "N/A")} |\n\n"
 
     # Stats
@@ -91,58 +101,50 @@ def to_md(pokemon: dict) -> str:
 
     # Forms
     md += "## Forms & Evolutions\n\n"
+    md += '!!! warning "WARNING"\n\n'
+    md += "    Some forms may not be available in Blaze Black/Volt White."
+    md += " Also information on evolutions may not be 100% accurate;"
+    md += " it is currently quite complex to track generational evolution data.\n\n"
+
     md += "### Forms\n\n"
     forms = pokemon["forms"]
     if len(forms) == 1:
         md += f"{pokemon_name} has no alternate forms.\n\n"
     else:
         for i, form in enumerate(forms):
-            md += f"{i + 1}. {form.capitalize()}\n"
+            md += f"{i + 1}. {form.title()}\n"
         md += "\n"
 
     # Evolutions
-    md += "### Evolutions\n\n"
+    md += "### Evolution Line\n\n"
     evolutions = pokemon["evolutions"]
     if len(evolutions) == 0:
         md += f"{pokemon_name} does not evolve.\n\n"
     else:
-        for i, evolution in enumerate(evolutions):
-            evolution_species = evolution["species"]
-            md += f"{i + 1}. {evolution_species.capitalize()}\n"
-
-            # Add evolution's evolution
-            try:
-                with open(f"data/{evolution_species}.json", "r") as file:
-                    evolution_data = json.load(file)
-                evolution_evolutions = evolution_data["evolutions"]
-                if len(evolution_evolutions) > 0:
-                    for j, evo in enumerate(evolution_evolutions):
-                        md += f"\t{j + 1}. {evo['species'].capitalize()}\n"
-            except FileNotFoundError:
-                pass
+        md += f"{parse_evolution_line(evolutions[0])}\n\n"
 
     # Training
     md += "## Training\n\n"
     md += f"| EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate |\n"
     md += f"|----------|------------|-----------------|-----------|-------------|\n"
     ev_yield = pokemon["ev_yield"]
-    md += f"| {"<br>".join([f"{ev_yield[stat]} {stat.capitalize()}" for stat in ev_yield if ev_yield[stat] > 0])} "
+    md += f"| {"<br>".join([f"{ev_yield[stat]} {stat}" for stat in ev_yield if ev_yield[stat] > 0])} "
     md += f"| {pokemon["capture_rate"]} "
     md += f"| {pokemon["base_happiness"]} "
     md += f"| {pokemon["base_experience"]} "
-    md += f"| {pokemon["growth_rate"].capitalize()} |\n\n"
+    md += f"| {pokemon["growth_rate"].title()} |\n\n"
 
     # Breeding
     md += "## Breeding\n\n"
     md += f"| Egg Groups | Egg Cycles | Gender | Dimorphic | Color | Shape |\n"
     md += f"|------------|------------|--------|-----------|-------|-------|\n"
-    md += f"| {"<br>".join([f"{i + 1}. {group.capitalize()}" for i, group in enumerate(pokemon["egg_groups"])])} "
+    md += f"| {"<br>".join([f"{i + 1}. {group.title()}" for i, group in enumerate(pokemon["egg_groups"])])} "
     md += f"| {pokemon["hatch_counter"]} "
     female_rate = pokemon["female_rate"]
     md += f"| {"Genderless" if female_rate == -1 else f"{(8 - female_rate) / 8 * 100}% Male<br>{female_rate / 8 * 100}% Female"} "
     md += f"| {pokemon["has_gender_differences"]} "
-    md += f"| {pokemon["color"].capitalize()} "
-    md += f"| {pokemon["shape"].capitalize()} |\n\n"
+    md += f"| {pokemon["color"].title()} "
+    md += f"| {pokemon["shape"].title()} |\n\n"
 
     # Black/White Moves
     level_up_moves = []
@@ -172,9 +174,9 @@ def to_md(pokemon: dict) -> str:
             with open(f"moves/{move["name"]}.json", "r") as file:
                 move_data = json.load(file)
             md += f"| {move["level_learned_at"]} "
-            md += f"| {move["name"].replace("-", " ").capitalize()} "
+            md += f"| {move["name"].replace("-", " ").title()} "
             md += f"| ![{move_data["type"]}](../assets/types/{move_data["type"]}.png){{: width='48'}} "
-            md += f"| {move_data["damage_class"].capitalize()} "
+            md += f"| {move_data["damage_class"].title()} "
             md += f"| {move_data["power"] or "—"} "
             md += f"| {move_data["accuracy"] or "—"} "
             md += f"| {move_data["pp"]} |\n"
@@ -185,18 +187,23 @@ def to_md(pokemon: dict) -> str:
     if len(tm_moves) == 0:
         md += f"{pokemon_name} cannot learn any TM moves.\n"
     else:
-        md += "| TM | Move | Type | Cat. | Power | Acc. | PP |\n"
-        md += "|----|------|------|------|-------|------|----|\n"
+        tm_moves_data = []
         for move in tm_moves:
             with open(f"moves/{move["name"]}.json", "r") as file:
                 move_data = json.load(file)
-            md += f"| {move_data["machines"]["black-white"]} "
-            md += f"| {move["name"].replace("-", " ").capitalize()} "
-            md += f"| ![{move_data["type"]}](../assets/types/{move_data["type"]}.png){{: width='48'}} "
-            md += f"| {move_data["damage_class"].capitalize()} "
-            md += f"| {move_data["power"] or "—"} "
-            md += f"| {move_data["accuracy"] or "—"} "
-            md += f"| {move_data["pp"]} |\n"
+            tm_moves_data.append(move_data)
+        tm_moves_data.sort(key=lambda x: x["machines"]["black-white"])
+
+        md += "| TM | Move | Type | Cat. | Power | Acc. | PP |\n"
+        md += "|----|------|------|------|-------|------|----|\n"
+        for move in tm_moves_data:
+            md += f"| {move["machines"]["black-white"].upper()} "
+            md += f"| {move["name"].replace("-", " ").title()} "
+            md += f"| ![{move["type"]}](../assets/types/{move["type"]}.png){{: width='48'}} "
+            md += f"| {move["damage_class"].title()} "
+            md += f"| {move["power"] or "—"} "
+            md += f"| {move["accuracy"] or "—"} "
+            md += f"| {move["pp"]} |\n"
     md += "\n"
 
     # Egg Moves
@@ -209,9 +216,9 @@ def to_md(pokemon: dict) -> str:
         for move in egg_moves:
             with open(f"moves/{move["name"]}.json", "r") as file:
                 move_data = json.load(file)
-            md += f"| {move["name"].replace("-", " ").capitalize()} "
+            md += f"| {move["name"].replace("-", " ").title()} "
             md += f"| ![{move_data["type"]}](../assets/types/{move_data["type"]}.png){{: width='48'}} "
-            md += f"| {move_data["damage_class"].capitalize()} "
+            md += f"| {move_data["damage_class"].title()} "
             md += f"| {move_data["power"] or "—"} "
             md += f"| {move_data["accuracy"] or "—"} "
             md += f"| {move_data["pp"]} |\n"
@@ -227,9 +234,9 @@ def to_md(pokemon: dict) -> str:
         for move in tutor_moves:
             with open(f"moves/{move["name"]}.json", "r") as file:
                 move_data = json.load(file)
-            md += f"| {move["name"].replace("-", " ").capitalize()} "
+            md += f"| {move["name"].replace("-", " ").title()} "
             md += f"| ![{move_data["type"]}](../assets/types/{move_data["type"]}.png){{: width='48'}} "
-            md += f"| {move_data["damage_class"].capitalize()} "
+            md += f"| {move_data["damage_class"].title()} "
             md += f"| {move_data["power"] or "—"} "
             md += f"| {move_data["accuracy"] or "—"} "
             md += f"| {move_data["pp"]} |\n"
