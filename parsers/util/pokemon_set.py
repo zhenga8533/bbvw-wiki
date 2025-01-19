@@ -11,11 +11,13 @@ class PokemonSet:
         self.move_4 = "-"
 
     def to_string(self):
-        s = f"<b>{self.species}</b> @ {self.item if self.item != "-" else "No Item"}\n"
-        s += f"<b>Ability:</b> {self.ability_reg if self.ability_reg != "-" else "?"}\n"
-        s += f"<b>Level:</b> {self.level}\n"
+        id = "".join(c for c in self.species if c.isalpha() or c.isspace()).replace(" ", "-").lower()
+        s = f'<a href="/bbvw-wiki/pokemon/{id}/">{self.species}</a>'
+        s += f"@ {self.item if self.item != "-" else "No Item"}\n"
+        s += f"Ability: {self.ability_reg if self.ability_reg != "-" else "?"}\n"
+        s += f"Level: {self.level}\n"
         if self.move_1 != "-" or self.move_2 != "-" or self.move_3 != "-" or self.move_4 != "-":
-            s += f"<b>Moves:</b>\n"
+            s += f"Moves:\n"
             s += f"1. {self.move_1}\n"
             s += f"2. {self.move_2}\n"
             s += f"3. {self.move_3}\n"
