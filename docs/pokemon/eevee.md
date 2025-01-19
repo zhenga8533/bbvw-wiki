@@ -86,59 +86,59 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 |-----|------|------|------|-------|------|----|
-| 1 | Helping Hand | ![normal](../assets/types/normal.png){: width='48'} | Status | — | — | 20 |
-| 1 | Tackle | ![normal](../assets/types/normal.png){: width='48'} | Physical | 40 | 100 | 35 |
-| 1 | Tail Whip | ![normal](../assets/types/normal.png){: width='48'} | Status | — | 100 | 30 |
-| 8 | Sand Attack | ![ground](../assets/types/ground.png){: width='48'} | Status | — | 100 | 15 |
-| 15 | Growl | ![normal](../assets/types/normal.png){: width='48'} | Status | — | 100 | 40 |
-| 22 | Quick Attack | ![normal](../assets/types/normal.png){: width='48'} | Physical | 40 | 100 | 30 |
-| 29 | Bite | ![dark](../assets/types/dark.png){: width='48'} | Physical | 60 | 100 | 25 |
-| 36 | Baton Pass | ![normal](../assets/types/normal.png){: width='48'} | Status | — | — | 40 |
-| 43 | Take Down | ![normal](../assets/types/normal.png){: width='48'} | Physical | 90 | 85 | 20 |
-| 50 | Last Resort | ![normal](../assets/types/normal.png){: width='48'} | Physical | 140 | 100 | 5 |
-| 57 | Trump Card | ![normal](../assets/types/normal.png){: width='48'} | Special | — | — | 5 |
+| 1 | Helping Hand | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
+| 1 | Tackle | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 35 |
+| 1 | Tail Whip | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 30 |
+| 8 | Sand Attack | ![ground](../assets/types/ground.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 15 |
+| 15 | Growl | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 40 |
+| 22 | Quick Attack | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 30 |
+| 29 | Bite | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 25 |
+| 36 | Baton Pass | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 40 |
+| 43 | Take Down | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 90 | 85 | 20 |
+| 50 | Last Resort | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 140 | 100 | 5 |
+| 57 | Trump Card | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | — | 5 |
 
 ### TM Moves
 
 | TM | Move | Type | Cat. | Power | Acc. | PP |
 |----|------|------|------|-------|------|----|
-| TM06 | Toxic | ![poison](../assets/types/poison.png){: width='48'} | Status | — | 90 | 10 |
-| TM10 | Hidden Power | ![normal](../assets/types/normal.png){: width='48'} | Special | 60 | 100 | 15 |
-| TM11 | Sunny Day | ![fire](../assets/types/fire.png){: width='48'} | Status | — | — | 5 |
-| TM17 | Protect | ![normal](../assets/types/normal.png){: width='48'} | Status | — | — | 10 |
-| TM18 | Rain Dance | ![water](../assets/types/water.png){: width='48'} | Status | — | — | 5 |
-| TM21 | Frustration | ![normal](../assets/types/normal.png){: width='48'} | Physical | — | 100 | 20 |
-| TM27 | Return | ![normal](../assets/types/normal.png){: width='48'} | Physical | — | 100 | 20 |
-| TM28 | Dig | ![ground](../assets/types/ground.png){: width='48'} | Physical | 80 | 100 | 10 |
-| TM30 | Shadow Ball | ![ghost](../assets/types/ghost.png){: width='48'} | Special | 80 | 100 | 15 |
-| TM32 | Double Team | ![normal](../assets/types/normal.png){: width='48'} | Status | — | — | 15 |
-| TM42 | Facade | ![normal](../assets/types/normal.png){: width='48'} | Physical | 70 | 100 | 20 |
-| TM44 | Rest | ![psychic](../assets/types/psychic.png){: width='48'} | Status | — | — | 5 |
-| TM45 | Attract | ![normal](../assets/types/normal.png){: width='48'} | Status | — | 100 | 15 |
-| TM48 | Round | ![normal](../assets/types/normal.png){: width='48'} | Special | 60 | 100 | 15 |
-| TM49 | Echoed Voice | ![normal](../assets/types/normal.png){: width='48'} | Special | 40 | 100 | 15 |
-| TM67 | Retaliate | ![normal](../assets/types/normal.png){: width='48'} | Physical | 70 | 100 | 5 |
-| TM83 | Work Up | ![normal](../assets/types/normal.png){: width='48'} | Status | — | — | 30 |
-| TM87 | Swagger | ![normal](../assets/types/normal.png){: width='48'} | Status | — | 85 | 15 |
-| TM90 | Substitute | ![normal](../assets/types/normal.png){: width='48'} | Status | — | — | 10 |
+| TM06 | Toxic | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 10 |
+| TM10 | Hidden Power | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/status.png){: width='36'} | 60 | 100 | 15 |
+| TM11 | Sunny Day | ![fire](../assets/types/fire.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
+| TM17 | Protect | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
+| TM18 | Rain Dance | ![water](../assets/types/water.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
+| TM21 | Frustration | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/status.png){: width='36'} | — | 100 | 20 |
+| TM27 | Return | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/status.png){: width='36'} | — | 100 | 20 |
+| TM28 | Dig | ![ground](../assets/types/ground.png){: width='48'} | ![physical](../assets/move_category/status.png){: width='36'} | 80 | 100 | 10 |
+| TM30 | Shadow Ball | ![ghost](../assets/types/ghost.png){: width='48'} | ![special](../assets/move_category/status.png){: width='36'} | 80 | 100 | 15 |
+| TM32 | Double Team | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
+| TM42 | Facade | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/status.png){: width='36'} | 70 | 100 | 20 |
+| TM44 | Rest | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
+| TM45 | Attract | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 15 |
+| TM48 | Round | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/status.png){: width='36'} | 60 | 100 | 15 |
+| TM49 | Echoed Voice | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/status.png){: width='36'} | 40 | 100 | 15 |
+| TM67 | Retaliate | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/status.png){: width='36'} | 70 | 100 | 5 |
+| TM83 | Work Up | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 30 |
+| TM87 | Swagger | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 15 |
+| TM90 | Substitute | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
 
 ### Egg Moves
 
 | Move | Type | Cat. | Power | Acc. | PP |
 |------|------|------|-------|------|----|
-| Curse | ![ghost](../assets/types/ghost.png){: width='48'} | Status | — | — | 10 |
-| Flail | ![normal](../assets/types/normal.png){: width='48'} | Physical | — | 100 | 15 |
-| Detect | ![fighting](../assets/types/fighting.png){: width='48'} | Status | — | — | 5 |
-| Endure | ![normal](../assets/types/normal.png){: width='48'} | Status | — | — | 10 |
-| Charm | ![fairy](../assets/types/fairy.png){: width='48'} | Status | — | 100 | 20 |
-| Wish | ![normal](../assets/types/normal.png){: width='48'} | Status | — | — | 10 |
-| Yawn | ![normal](../assets/types/normal.png){: width='48'} | Status | — | — | 10 |
-| Fake Tears | ![dark](../assets/types/dark.png){: width='48'} | Status | — | 100 | 20 |
-| Tickle | ![normal](../assets/types/normal.png){: width='48'} | Status | — | 100 | 20 |
-| Covet | ![normal](../assets/types/normal.png){: width='48'} | Physical | 60 | 100 | 25 |
-| Natural Gift | ![normal](../assets/types/normal.png){: width='48'} | Physical | — | 100 | 15 |
-| Synchronoise | ![psychic](../assets/types/psychic.png){: width='48'} | Special | 120 | 100 | 10 |
-| Stored Power | ![psychic](../assets/types/psychic.png){: width='48'} | Special | 20 | 100 | 10 |
+| Curse | ![ghost](../assets/types/ghost.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
+| Flail | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 15 |
+| Detect | ![fighting](../assets/types/fighting.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
+| Endure | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
+| Charm | ![fairy](../assets/types/fairy.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 20 |
+| Wish | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
+| Yawn | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
+| Fake Tears | ![dark](../assets/types/dark.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 20 |
+| Tickle | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 20 |
+| Covet | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 25 |
+| Natural Gift | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 15 |
+| Synchronoise | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 120 | 100 | 10 |
+| Stored Power | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 20 | 100 | 10 |
 
 ### Tutor Moves
 
