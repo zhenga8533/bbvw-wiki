@@ -1,22 +1,16 @@
 **The following items have been edited into "Use" items:**
 
+```
 1. Dragon Scale
-
 2. Dubious Disc
-
 3. Electirizer
-
 4. Magmarizer
-
 5. Prism Scale
-
 6. Protector
-
 7. Reaper Cloth
-
 8. Up-Grade
-
 9. Oval Stone
+```
 
 ---
 

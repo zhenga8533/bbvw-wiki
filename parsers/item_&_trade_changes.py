@@ -44,7 +44,7 @@ def main():
             trade = sections[1].split(" -> ")
             md += f"| {category} | {trade[0]} | {trade[1]} |\n"
         else:
-            md += line + "\n\n"
+            md += line + "\n"
 
     save("output/trade_changes.md", md)
 

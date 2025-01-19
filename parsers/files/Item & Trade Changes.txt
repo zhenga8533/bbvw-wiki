@@ -1,4 +1,5 @@
 The following items have been edited into "Use" items:
+```
 1. Dragon Scale
 2. Dubious Disc
 3. Electirizer
@@ -8,6 +9,7 @@ The following items have been edited into "Use" items:
 7. Reaper Cloth
 8. Up-Grade
 9. Oval Stone
+```
 
 Nuvema Town
 ---
