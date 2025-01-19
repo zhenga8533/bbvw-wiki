@@ -1,5 +1,7 @@
 output/
+parsers/data/
 parsers/pokemon/
+parsers/moves/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

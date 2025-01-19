@@ -18,7 +18,7 @@ def save(file_path: str, content: str) -> None:
     try:
         with open(file_path, "w", encoding="utf-8") as file:
             file.write(content)
-            print("The file was saved successfully.")
+            print(f"The content was saved to {file_path}.")
     except Exception as e:
         print(f"An error occurred: {e}")
         exit(1)
