@@ -1,6 +1,4 @@
 from util.file import load, save
-import re
-import string
 
 
 def main():
@@ -8,46 +6,47 @@ def main():
 
     lines = content.split("\n")
     n = len(lines)
-    md = "## Item Changes\n\n"
-    listing = 0
-    trading = False
+    md = ""
+
+    parse_locations = False
 
     for i in range(n):
-        next_line = lines[i + 1] if i + 1 < n else ""
-        line = re.sub(r"-+>", "→", lines[i])
+        line = lines[i].strip()
         line = line.replace("* ", "x")
         line = line.replace("�", "e")
         line = line.replace("Poke Ball", "Poké Ball")
+        next_line = lines[i + 1].strip() if i + 1 < n else ""
 
-        if line == "---":  # Skip this line
+        if line == "---" or line == "":
             continue
-        elif line.startswith("TRADE"):  # Header
-            if not trading:
-                md += "## Trade Changes\n\n"
-                trading = True
-            md += f"---\n\n#### {string.capwords(line)}\n\n```\n"
-            listing = 1
+        elif line == "-------------":
+            save("output/item_changes.md", md)
+            md = ""
+            parse_locations = False
+        elif line.endswith(":"):
+            md += f"**{line}**\n\n"
         elif next_line == "---":
-            md += f"---\n\n#### {string.capwords(line)}\n\n```\n"
-            listing = 1
-        elif line == "":  # End of section
-            if listing:  # Close the code block
-                md += "```\n\n"
-                listing = 0
-            else:  # Add a new line
-                md += f"{line}\n"
-        else:  # Normal line
-            if listing:  # Add a listing number
-                md += f"{listing}. {line}\n"
-                listing += 1
-            else:  # Add a normal line
-                md += f"{line}\n"
+            parse_locations = True
 
-    if listing:
-        md += "```"
-    md += "\n"
+            md += f"\n---\n\n## {line}\n"
+            md += "| Old Item | New Item |\n"
+            md += "|----------|----------|\n"
+        elif parse_locations:
+            items = line.split(" -> ")
+            md += f"| {items[0]} | {items[1]} |\n"
+        elif line.startswith("TRADE #"):
+            md += f"\n---\n\n## {line.title()}\n\n"
+            md += f"|   | Give | Receive |\n"
+            md += f"|---|------|---------|\n"
+        elif line.startswith("Original") or line.startswith("New"):
+            sections = line.split(": ")
+            category = sections[0]
+            trade = sections[1].split(" -> ")
+            md += f"| {category} | {trade[0]} | {trade[1]} |\n"
+        else:
+            md += line + "\n\n"
 
-    save("output/item_&_trade_changes.md", md)
+    save("output/trade_changes.md", md)
 
 
 if __name__ == "__main__":

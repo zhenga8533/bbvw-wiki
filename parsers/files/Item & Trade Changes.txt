@@ -1,20 +1,19 @@
 The following items have been edited into "Use" items:
----
-Dragon Scale
-Dubious Disc
-Electirizer
-Magmarizer
-Prism Scale
-Protector
-Reaper Cloth
-Up-Grade
-Oval Stone
+1. Dragon Scale
+2. Dubious Disc
+3. Electirizer
+4. Magmarizer
+5. Prism Scale
+6. Protector
+7. Reaper Cloth
+8. Up-Grade
+9. Oval Stone
 
 Nuvema Town
 ---
 Xtransceiver -> Bicycle
 Super Rod -> Gracidea
-TM10 Hidden Power --> TM60 Quash 
+TM10 Hidden Power -> TM60 Quash 
 
 Route 2
 ---
@@ -234,21 +233,21 @@ Protein -> Master Ball
 -------------
 
 TRADE #1: NACRENE CITY
-Original: Cottonee/Petilil --> Cottonee/Petilil [Lv. 15] @ Cheri Berry
-New: Shroomish --> Ponyta [Lv. 20] @ Lum Berry
+Original: Cottonee/Petilil -> Cottonee/Petilil [Lv. 15] @ Cheri Berry
+New: Shroomish -> Ponyta [Lv. 20] @ Lum Berry
 
 TRADE #2: DRIFTVEIL CITY
-Original: Minccino --> Basculin [Lv. 25] @ Sitrus Berry
-New: Wailmer --> Snover [Lv. 30] @ Focus Sash
+Original: Minccino -> Basculin [Lv. 25] @ Sitrus Berry
+New: Wailmer -> Snover [Lv. 30] @ Focus Sash
 
 TRADE #3: ROUTE 7
-Original: Boldore --> Emolga [Lv. 30] @ Lum Berry
-New: Haunter --> Torkoal [Lv. 40] @ White Herb
+Original: Boldore -> Emolga [Lv. 30] @ Lum Berry
+New: Haunter -> Torkoal [Lv. 40] @ White Herb
 
 TRADE #4: ROUTE 15
-Original: Ditto --> Rotom [Lv. 60] @ Max Elixir
-New: Metagross --> Salamence [Lv. 70] @ Master Ball
+Original: Ditto -> Rotom [Lv. 60] @ Max Elixir
+New: Metagross -> Salamence [Lv. 70] @ Master Ball
 
 TRADE #5: UNDELLA TOWN
-Original: Cinccino --> Munchlax [Lv. 60] @ Leftovers
-New: Tyranitar --> Hydreigon [Lv. 70] @ Master Ball
+Original: Cinccino -> Munchlax [Lv. 60] @ Leftovers
+New: Tyranitar -> Hydreigon [Lv. 70] @ Master Ball
