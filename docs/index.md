@@ -203,7 +203,7 @@ Various Members of GBAtemp and GameFAQs: For ideas on additions/changes to make.
 
 - Emolga now learns HM02, Fly.
 
-- Aerial Ace, Faint Attack, Magical Leaf and Swift are now 60 power again.
+- Aerial Ace, Feint Attack, Magical Leaf and Swift are now 60 power again.
 
 ---
 

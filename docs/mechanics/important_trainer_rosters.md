@@ -440,7 +440,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 <b>Ability:</b> Speed Boost
 <b>Level:</b> 86
 <b>Moves:</b>
-1. Hi Jump Kick
+1. High Jump Kick
 2. Flare Blitz
 3. Stone Edge
 4. Thunder Punch
@@ -1653,7 +1653,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 <b>Ability:</b> Reckless
 <b>Level:</b> 61
 <b>Moves:</b>
-1. Hi Jump Kick
+1. High Jump Kick
 2. U-turn
 3. Stone Edge
 4. Poison Jab
@@ -2392,7 +2392,7 @@ Marshal’s First Team
 <b>Level:</b> 73
 <b>Moves:</b>
 1. Acrobatics
-2. Hi Jump Kick
+2. High Jump Kick
 3. U-turn
 4. Stone Edge
 
@@ -2416,7 +2416,7 @@ Marshal’s First Team
 <b>Ability:</b> Reckless
 <b>Level:</b> 91
 <b>Moves:</b>
-1. Hi Jump Kick
+1. High Jump Kick
 2. Stone Edge
 3. Grass Knot
 4. Hidden Power
@@ -2435,7 +2435,7 @@ Marshal’s First Team
 <b>Level:</b> 91
 <b>Moves:</b>
 1. Sucker Punch
-2. Hi Jump Kick
+2. High Jump Kick
 3. Light Screen
 4. Head Smash
 
@@ -2443,7 +2443,7 @@ Marshal’s First Team
 <b>Ability:</b> Justified
 <b>Level:</b> 91
 <b>Moves:</b>
-1. Hi Jump Kick
+1. High Jump Kick
 2. Dragon Pulse
 3. Ice Punch
 4. Bullet Punch
@@ -2454,7 +2454,7 @@ Marshal’s First Team
 <b>Moves:</b>
 1. Protect
 2. Blaze Kick
-3. Hi Jump Kick
+3. High Jump Kick
 4. Baton Pass
 
 <a href="/bbvw-wiki/pokemon/conkeldurr/"><b>Conkeldurr</b></a>@ No Item
@@ -2921,7 +2921,7 @@ Ghetsis’ Team
 <b>Ability:</b> Reckless
 <b>Level:</b> 88
 <b>Moves:</b>
-1. Hi Jump Kick
+1. High Jump Kick
 2. U-turn
 3. Stone Edge
 4. Acrobatics

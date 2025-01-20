@@ -181,7 +181,7 @@
 + Level 1 - Razor Wind
 + Level 9 - Pluck
 = Level 11 - Quick Attack
-+ Level 13 - Faint Attack
++ Level 13 - Feint Attack
 = Level 15 - Whirlwind
 + Level 17 - U-turn
 + Level 19 - Mud-Slap
@@ -194,7 +194,7 @@
 + Level 1 - Razor Wind
 - Level 9 - Pluck
 = Level 11 - Quick Attack
-+ Level 13 - Faint Attack
++ Level 13 - Feint Attack
 = Level 15 - Whirlwind
 + Level 17 - U-turn
 + Level 18 - Acrobatics
@@ -208,7 +208,7 @@
 + Level 1 - Razor Wind
 - Level 9 - Pluck
 = Level 11 - Quick Attack
-+ Level 13 - Faint Attack
++ Level 13 - Feint Attack
 = Level 15 - Whirlwind
 + Level 17 - U-turn
 + Level 18 - Acrobatics
@@ -245,7 +245,7 @@
 **#021 Spearow**
 
 ```
-+ Level 1 - SonicBoom
++ Level 1 - Sonic Boom
 = Level 1 - Pursuit
 + Level 13 - Steel Wing
 ```
@@ -802,7 +802,7 @@
 
 ```
 = Level 7 - Supersonic
-+ Level 10 - BubbleBeam
++ Level 10 - Bubble Beam
 ```
 
 **#091 Cloyster**
@@ -1045,7 +1045,7 @@
 + Level 1 - Fire Punch
 + Level 1 - Thunder Punch
 + Level 1 - Ice Punch
-+ Level 1 - Faint Attack
++ Level 1 - Feint Attack
 + Level 40 - Drain Punch
 + Level 61 - Double-Edge
 ```
@@ -1056,7 +1056,7 @@
 + Level 1 - Haze
 + Level 1 - Dragon Rage
 + Level 21 - Octazooka
-+ Level 32 - DragonBreath
++ Level 32 - Dragon Breath
 ```
 
 **#117 Seadra**
@@ -1064,7 +1064,7 @@
 ```
 + Level 1 - Dragon Rage
 + Level 21 - Octazooka
-+ Level 32 - DragonBreath
++ Level 32 - Dragon Breath
 ```
 
 **#230 Kingdra**
@@ -1072,7 +1072,7 @@
 ```
 + Level 1 - Dragon Rage
 + Level 21 - Octazooka
-+ Level 32 - DragonBreath
++ Level 32 - Dragon Breath
 + Level 65 - Outrage
 ```
 
@@ -1116,7 +1116,7 @@
 **#123 Scyther**
 
 ```
-+ Level 1 - SonicBoom
++ Level 1 - Sonic Boom
 + Level 1 - Night Slash
 + Level 65 - Bug Bite
 ```
@@ -1175,7 +1175,7 @@
 **#240 Magby**
 
 ```
-+ Level 30 - Faint Attack
++ Level 30 - Feint Attack
 + Level 36 - Cross Chop
 ```
 
@@ -1202,7 +1202,7 @@
 + Level 1 - Rock Throw
 + Level 57 - Close Combat
 + Level 62 - Megahorn
-+ Level 67 - Wood Horn
++ Level 67 - Horn Leech
 ```
 
 **#128 Tauros**
@@ -1344,7 +1344,7 @@
 = Level 18 - Quick Attack
 = Level 23 - Bite
 + Level 28 - Tickle
-= Level 33 - Faint Attack
+= Level 33 - Feint Attack
 = Level 38 - Assurance
 + Level 43 - Foul Play
 = Level 48 - Last Resort
@@ -1446,7 +1446,7 @@
 + Level 1 - Lovely Kiss
 + Level 62 - Slack Off
 + Level 67 - Double-Edge
-+ Level 72 - Selfdestruct
++ Level 72 - Self Destruct
 ```
 
 **#143 Snorlax**
@@ -1456,7 +1456,7 @@
 + Level 1 - Seed Bomb
 + Level 62 - Slack Off
 + Level 67 - Double-Edge
-+ Level 72 - Selfdestruct
++ Level 72 - Self Destruct
 ```
 
 **#147 Dratini**
@@ -1625,7 +1625,7 @@
 + Level 1 - Extrasensory
 + Level 15 - Tri Attack
 + Level 27 - Stored Power
-+ Level 31 - Softboiled
++ Level 31 - Soft Boiled
 ```
 
 **#176 Togetic**
@@ -1634,7 +1634,7 @@
 + Level 1 - Extrasensory
 + Level 15 - Tri Attack
 + Level 27 - Stored Power
-+ Level 31 - Softboiled
++ Level 31 - Soft Boiled
 ```
 
 **#468 Togekiss**
@@ -1719,7 +1719,7 @@
 + Level 1 - Fire Punch
 + Level 1 - Thunder Punch
 + Level 1 - Ice Punch
-+ Level 53 - Selfdestruct
++ Level 53 - Self Destruct
 ```
 
 **#187 Hoppip**
@@ -1932,7 +1932,7 @@
 
 ```
 + Level 3 - Bug Bite
-+ Level 61 - Wood Horn
++ Level 61 - Horn Leech
 + Level 67 - Horn Drill
 ```
 
@@ -2260,7 +2260,8 @@
 ```
 + Level 10 - Clear Smog
 + Level 10 - Struggle Bug
-+ Level 17 - Reflect, Light Screen
++ Level 17 - Reflect
++ Level 17 - Light Screen
 + Level 49 - Tailwind
 ```
 
@@ -3336,7 +3337,7 @@
 + Level 1 - Vacuum Wave
 + Level 22 - Crunch
 + Level 26 - Low Kick
-+ Level 33 - Hi Jump Kick
++ Level 33 - High Jump Kick
 ```
 
 **#448 Lucario**
@@ -3476,7 +3477,7 @@
 
 ```
 + Level 17 - Twister
-+ Level 36 - DragonBreath
++ Level 36 - Dragon Breath
 - Level 24 - Zen Headbutt
 - Level 44 - Iron Tail
 - Level 50 - Dragon Pulse
@@ -3542,7 +3543,7 @@
 **#509 Purrloin**
 
 ```
-+ Level 8 - Faint Attack
++ Level 8 - Feint Attack
 = Level 17 - Night Slash
 + Level 37 - Foul Play
 + Level 50 - Dark Pulse
@@ -3551,7 +3552,7 @@
 **#510 Liepard**
 
 ```
-+ Level 8 - Faint Attack
++ Level 8 - Feint Attack
 = Level 17 - Night Slash
 + Level 43 - Foul Play
 + Level 60 - Dark Pulse
@@ -3837,13 +3838,13 @@
 **#543 Venipede**
 
 ```
-+ Level 17 - Twinneedle
++ Level 17 - Twineedle
 ```
 
 **#544 Whirlipede**
 
 ```
-+ Level 17 - Twinneedle
++ Level 17 - Twineedle
 ```
 
 **#545 Scolipede**
@@ -3851,7 +3852,7 @@
 ```
 + Level 1 - Spikes
 + Level 1 - Toxic Spikes
-+ Level 17 - Twinneedle
++ Level 17 - Twineedle
 + Level 61 - Superpower
 ```
 
@@ -4008,7 +4009,7 @@
 + Level 21 - Curse
 + Level 27 - Rock Blast
 + Level 32 - Pain Split
-+ Level 49 - Selfdestruct
++ Level 49 - Self Destruct
 ```
 
 **#569 Garbodor**
@@ -4018,7 +4019,7 @@
 + Level 21 - Curse
 + Level 27 - Rock Blast
 + Level 32 - Pain Split
-+ Level 64 - Selfdestruct
++ Level 64 - Self Destruct
 ```
 
 **#571 Zoroark**
@@ -4171,7 +4172,7 @@
 
 ```
 + Level 22 - Stun Spore
-+ Level 22 - PoisonPowder
++ Level 22 - Poison Powder
 + Level 26 - Defense Curl
 + Level 26 - Rollout
 + Level 30 - Body Slam
@@ -4181,7 +4182,7 @@
 
 ```
 + Level 22 - Stun Spore
-+ Level 22 - PoisonPowder
++ Level 22 - Poison Powder
 + Level 26 - Defense Curl
 + Level 26 - Rollout
 + Level 30 - Body Slam

@@ -1,4 +1,5 @@
 from util.file import save
+import glob
 import json
 import requests
 
@@ -37,23 +38,28 @@ def to_md(pokemon: dict) -> str:
     md += f"![Official Artwork2]({official_artwork["front_shiny"]}) |\n\n"
 
     # Add flavor text
-    black_flavor_text = pokemon["flavor_text_entries"]["black"].replace("\n", " ")
-    white_flavor_text = pokemon["flavor_text_entries"]["white"].replace("\n", " ")
-    if black_flavor_text == white_flavor_text:
-        md += f"{black_flavor_text}\n\n"
+    flavor_text_entries = pokemon["flavor_text_entries"]
+    if "black" in flavor_text_entries and "white" in flavor_text_entries:
+        black_flavor_text = flavor_text_entries["black"].replace("\n", " ")
+        white_flavor_text = flavor_text_entries["white"].replace("\n", " ")
+        if black_flavor_text == white_flavor_text:
+            md += f"{black_flavor_text}\n\n"
+        else:
+            md += f"**Blaze Black:** {black_flavor_text}\n\n"
+            md += f"**Volt White:** {white_flavor_text}\n\n"
     else:
-        md += f"**Blaze Black:** {black_flavor_text}\n\n"
-        md += f"**Volt White:** {white_flavor_text}\n\n"
+        flavor_text_keys = list(flavor_text_entries.keys())
+        md += f"{flavor_text_entries[flavor_text_keys[-1]].replace('\n', ' ')}\n\n"
 
     # Add animated sprites
     sprites = pokemon["sprites"]["versions"]["generation-v"]["black-white"]
     animated = sprites["animated"]
-    md += "## Media\n\n"
+    md += "---\n\n## Media\n\n"
     md += "### Sprites\n\n"
     md += "| Front | Back | S. Front | S. Back |\n"
     md += "|-------|------|----------|---------|\n"
-    md += f"| ![Front]({animated["front_default"]}) | ![Back]({animated["back_default"]}) | "
-    md += f"![Shiny Front]({animated["front_shiny"]}) | ![Shiny Back]({animated["back_shiny"]}) |\n\n"
+    md += f"| ![Front]({animated["front_default"] or sprites["front_default"]}) | ![Back]({animated["back_default"] or sprites["back_default"]}) | "
+    md += f"![Shiny Front]({animated["front_shiny"] or sprites["front_shiny"]}) | ![Shiny Back]({animated["back_shiny"] or sprites["back_shiny"]}) |\n\n"
 
     # Cries
     md += "### Cries\n\n"
@@ -67,7 +73,7 @@ def to_md(pokemon: dict) -> str:
     md += "</audio></p>\n\n"
 
     # Pokédex data
-    md += "## Pokédex Data\n\n"
+    md += "---\n\n## Pokédex Data\n\n"
     md += f"| National № | Type(s) | Height | Weight | Abilities | Local № |\n"
     md += f"|------------|---------|--------|--------|-----------|---------|\n"
     md += f"| #{pokemon["id"]} "
@@ -80,9 +86,14 @@ def to_md(pokemon: dict) -> str:
     md += f"| #{pokemon["pokedex_numbers"].get("original-unova", "N/A")} |\n\n"
 
     # Stats
-    md += "## Base Stats\n"
+    md += "---\n\n## Base Stats\n"
     stats = pokemon["stats"]
-    hp, attack, defense, sp_attack, sp_defense, speed = stats.values()
+    hp = stats["hp"]
+    attack = stats["attack"]
+    defense = stats["defense"]
+    sp_attack = stats["special-attack"]
+    sp_defense = stats["special-defense"]
+    speed = stats["speed"]
     md += f"|   | HP | Attack | Defense | Sp. Atk | Sp. Def | Speed |\n"
     md += f"|---|----|--------|---------|---------|---------|-------|\n"
     md += f"| **Base** | {hp} | {attack} | {defense} | {sp_attack} | {sp_defense} | {speed} |\n"
@@ -105,7 +116,7 @@ def to_md(pokemon: dict) -> str:
     md += "minimum values are based on a hindering nature, 0 EVs, 0 IVs.\n\n"
 
     # Forms
-    md += "## Forms & Evolutions\n\n"
+    md += "---\n\n## Forms & Evolutions\n\n"
     md += '!!! warning "WARNING"\n\n'
     md += "    Some forms may not be available in Blaze Black/Volt White."
     md += " Also information on evolutions may not be 100% accurate;"
@@ -128,19 +139,36 @@ def to_md(pokemon: dict) -> str:
     else:
         md += f"{parse_evolution_line(evolutions[0])}\n\n"
 
+    if "evolution_changes" in pokemon:
+        md += f"```\n{pokemon['evolution_changes']}\n```\n\n"
+
     # Training
-    md += "## Training\n\n"
-    md += f"| EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate |\n"
-    md += f"|----------|------------|-----------------|-----------|-------------|\n"
+    md += "---\n\n## Training\n\n"
+    md += f"| EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |\n"
+    md += f"|----------|------------|-----------------|-----------|-------------|------------|\n"
     ev_yield = pokemon["ev_yield"]
     md += f"| {"<br>".join([f"{ev_yield[stat]} {stat.replace("-", " ").title()}" for stat in ev_yield if ev_yield[stat] > 0])} "
     md += f"| {pokemon["capture_rate"]} "
     md += f"| {pokemon["base_happiness"]} "
     md += f"| {pokemon["base_experience"]} "
-    md += f"| {pokemon["growth_rate"].title()} |\n\n"
+    md += f"| {pokemon["growth_rate"].title()} | "
+    held_items = [
+        {
+            "name": item["name"].replace("-", " ").title(),
+            "rarity": next(
+                (r["rarity"] for r in item["rarity"] if r["version"] in {"black", "white"}),
+                None,
+            ),
+        }
+        for item in pokemon["held_items"]
+    ]
+    if len(held_items) == 0:
+        md += f"N/A |\n\n"
+    else:
+        md += f"{"<br>".join([f"{item['name']} ({item['rarity']}%)" for item in held_items if item["rarity"]])} |\n\n"
 
     # Breeding
-    md += "## Breeding\n\n"
+    md += "---\n\n## Breeding\n\n"
     md += f"| Egg Groups | Egg Cycles | Gender | Dimorphic | Color | Shape |\n"
     md += f"|------------|------------|--------|-----------|-------|-------|\n"
     md += f"| {"<br>".join([f"{i + 1}. {group.title()}" for i, group in enumerate(pokemon["egg_groups"])])} "
@@ -156,7 +184,13 @@ def to_md(pokemon: dict) -> str:
     tm_moves = []
     egg_moves = []
     tutor_moves = []
-    for move in pokemon["moves"]["black-white"]:
+
+    moves = pokemon["moves"]
+    move_keys = list(moves.keys())
+    move_key = "black-white" if "black-white" in move_keys else move_keys[-1] if len(move_keys) > 0 else ""
+    moves = moves.get(move_key, [])
+
+    for move in moves:
         if move["learn_method"] == "level-up":
             level_up_moves.append(move)
         elif move["learn_method"] == "machine":
@@ -166,8 +200,13 @@ def to_md(pokemon: dict) -> str:
         elif move["learn_method"] == "tutor":
             tutor_moves.append(move)
 
+    # Moves
+    md += "---\n\n## Moves\n\n"
+    md += '!!! warning "WARNING"\n\n'
+    md += "    Specific move information may be incorrect. "
+    md += "However, the general movepool should be accurate (including changes to learnset).\n\n"
+
     # Level Up Moves
-    md += "## Moves\n\n"
     md += "### Level Up Moves\n\n"
     if len(level_up_moves) == 0:
         md += f"{pokemon_name} cannot learn any moves by leveling up.\n"
@@ -197,12 +236,12 @@ def to_md(pokemon: dict) -> str:
             with open(f"moves/{move["name"]}.json", "r") as file:
                 move_data = json.load(file)
             tm_moves_data.append(move_data)
-        tm_moves_data.sort(key=lambda x: x["machines"]["black-white"])
+        tm_moves_data.sort(key=lambda x: x["machines"][move_key])
 
         md += "| TM | Move | Type | Cat. | Power | Acc. | PP |\n"
         md += "|----|------|------|------|-------|------|----|\n"
         for move in tm_moves_data:
-            md += f"| {move["machines"]["black-white"].upper()} "
+            md += f"| {move["machines"][move_key].upper()} "
             md += f"| {move["name"].replace("-", " ").title()} "
             md += f"| ![{move["type"]}](../assets/types/{move["type"]}.png){{: width='48'}} "
             md += f"| ![{move["damage_class"]}](../assets/move_category/{move_data["damage_class"]}.png){{: width='36'}} "
@@ -251,16 +290,19 @@ def to_md(pokemon: dict) -> str:
 
 
 def main():
-    # pokedex = requests.get("https://pokeapi.co/api/v2/pokemon/?offset=0&limit=649").json()["results"]
-    pokedex = [{"name": "eevee"}]
+    pokedex = requests.get("https://pokeapi.co/api/v2/pokemon/?offset=0&limit=649").json()["results"]
 
     for pokemon in pokedex:
         name = pokemon["name"]
-        with open(f"data/{name}.json", "r") as file:
-            data = json.load(file)
+        file_pattern = f"data/{name.split("-")[0]}*.json"
+        files = glob.glob(file_pattern)
 
-        md = to_md(data)
-        save(f"pokemon/{name}.md", md)
+        for file_path in files:
+            with open(file_path, "r") as file:
+                data = json.load(file)
+
+            md = to_md(data)
+            save(f"pokemon/{data["name"]}.md", md)
 
 
 if __name__ == "__main__":

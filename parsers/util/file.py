@@ -20,7 +20,7 @@ def save(file_path: str, content: str) -> None:
             file.write(content)
             print(f"The content was saved to {file_path}.")
     except Exception as e:
-        print(f"An error occurred: {e}")
+        print(f"An error occurred while saving to {file_path}: {e}")
         exit(1)
 
 
@@ -35,11 +35,11 @@ def load(file_path: str) -> str:
     try:
         with open(file_path, "r", encoding="utf-8") as file:
             content = file.read()
-            print("The file was read successfully.")
+            print(f"The content was loaded from {file_path}.")
             return content
     except FileNotFoundError:
-        print("The file was not found.")
+        print(f"The file {file_path} was not found.")
         exit(1)
     except Exception as e:
-        print(f"An error occurred: {e}")
+        print(f"An error occurred while loading {file_path}: {e}")
         exit(1)

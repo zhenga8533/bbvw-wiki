@@ -134,7 +134,7 @@ Ability (Reg)	Overgrow	Overgrow	Overgrow	Overgrow	Overgrow	Gluttony
 Move #1	Tackle	Secret Power	Wring Out	GrassWhistle	Tackle	Work Up
 Move #2	Growth	Sleep Powder	Synthesis	Leech Seed	Tickle	Bite
 Move #3	Magical Leaf	Leech Seed	Razor Leaf	Absorb	Razor Leaf	Magical Leaf
-Move #4	Twister	Vine Whip	PoisonPowder	Quick Attack	Stealth Rock	Protect
+Move #4	Twister	Vine Whip	Poison Powder	Quick Attack	Stealth Rock	Protect
 
 
 
@@ -160,7 +160,7 @@ Item	-	-	-	-	-	Oran Berry
 Ability (Reg)	Torrent	Torrent	Torrent	Torrent	Torrent	Gluttony
 Move #1	Tackle	Tackle	Scratch	Tackle	Pound	Nasty Plot
 Move #2	Screech	Iron Defense	Dragon Dance	Ice Ball	Icy Wind	Bite
-Move #3	Brine	Aqua Jet	Aqua Jet	Mud Bomb	BubbleBeam	Water Gun
+Move #3	Brine	Aqua Jet	Aqua Jet	Mud Bomb	Bubble Beam	Water Gun
 Move #4	Air Slash	Fake Out	Bite	Water Gun	Pluck	Protect
 
  Cress’s Team – Route 11; replaces Backpacker Corin.
@@ -196,7 +196,7 @@ Level	86	86	86	86	86	88
 Item	Passho Berry	Charti Berry	Shuca Berry	Payapa Berry	Coba Berry	Petaya Berry
 Ability (Reg)	Adaptability	Solar Power	Flash Fire	Speed Boost	Iron Fist	Unburden
 Ability (Cln)	Blaze	Blaze	Blaze	Blaze	Blaze	Gluttony
-Move #1	Flare Blitz	Fire Blast	Eruption	Hi Jump Kick	Overheat	Fire Blast
+Move #1	Flare Blitz	Fire Blast	Eruption	High Jump Kick	Overheat	Fire Blast
 Move #2	Earthquake	Air Slash	Focus Blast	Flare Blitz	Close Combat	Focus Blast
 Move #3	Hammer Arm	Outrage	SolarBeam	Stone Edge	Grass Knot	Grass Knot
 Move #4	Scald	Earthquake	ThunderPunch	ThunderPunch	ThunderPunch	Will-O-Wisp
@@ -773,7 +773,7 @@ Blaze
 Move #1	
 Nasty Plot	
 Hypnosis	
-Hi Jump Kick
+High Jump Kick
 Flamethrower
 Petal Dance
 Surf	Work Up
@@ -1057,7 +1057,7 @@ Item	Flame Orb	Salac Berry	Focus Sash	Wacan Berry	Flying Gem	Chesto Berry
 Ability (Reg)	Guts	Sturdy	Technician	Water Absorb	Reckless	Iron Fist
 Ability (Cln)	Guts	Sturdy	Effect Spore	Water Absorb	Regenerator	Sheer Force
 Move #1	Superpower	Close Combat	Spore	Waterfall	Acrobatics	Mach Punch
-Move #2	Facade	Stone Edge	Bullet Seed	Brick Break	Hi Jump Kick	Drain Punch
+Move #2	Facade	Stone Edge	Bullet Seed	Brick Break	High Jump Kick	Drain Punch
 Move #3	Fling	Payback	Drain Punch	Icy Wind	U-turn	Stone Edge
 Move #4	Rock Slide	Return	Mach Punch	Vacuum Wave	Stone Edge	Rest
 
@@ -1071,9 +1071,9 @@ Item (Reg)	Life Orb	Toxic Orb	Sitrus Berry	Air Balloon	Liechi Berry	Sitrus Berry
 Item (Cln)	Life Orb	Toxic Orb	Sitrus Berry	Air Balloon	Salac Berry	Flame Orb
 Ability (Reg)	Reckless	Poison Heal	Moxie	Justified	Speed Boost	Iron Fist
 Ability (Cln)	Regenerator	Poison Heal	Moxie	Steadfast	Blaze	Guts
-Move #1	Hi Jump Kick	Protect	Sucker Punch	Hi Jump Kick	Protect	Mach Punch
-Move #2	Stone Edge	Leech Seed	Hi Jump Kick	Dragon Pulse	Blaze Kick	Stone Edge
-Move #3	Grass Knot	Drain Punch	Light Screen	Ice Punch	Hi Jump Kick	Payback
+Move #1	High Jump Kick	Protect	Sucker Punch	High Jump Kick	Protect	Mach Punch
+Move #2	Stone Edge	Leech Seed	High Jump Kick	Dragon Pulse	Blaze Kick	Stone Edge
+Move #3	Grass Knot	Drain Punch	Light Screen	Ice Punch	High Jump Kick	Payback
 Move #4	Hidden Power	Seed Bomb	Head Smash	Bullet Punch	Baton Pass	Drain Punch
 
 
@@ -1310,7 +1310,7 @@ Blaze
 Move #1	
 Nasty Plot	
 Hypnosis	
-Hi Jump Kick
+High Jump Kick
 Flamethrower
 Petal Dance
 Surf	Work Up

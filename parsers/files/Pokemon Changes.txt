@@ -12,7 +12,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 Kanto Pokémon
 
 
-#001 Bulbasaur - #002 Ivysaur
+#001 Bulbasaur, #002 Ivysaur
 Item: Miracle Seed (50%)
 Ability One: Overgrow
 Ability Two: Chlorophyll
@@ -25,13 +25,13 @@ Ability One: Overgrow
 Ability Two: Chlorophyll
 
  
-#004 Charmander - #006 Charizard
+#004 Charmander, #005 Charmeleon, #006 Charizard
 Item: Charcoal (50%)
 Ability One: Blaze
 Ability Two: Solar Power
 
 
-#007 Squirtle - #009 Blastoise
+#007 Squirtle, #008 Wartortle, #009 Blastoise
 Item: Mystic Water (50%)
 Ability One: Torrent
 Ability Two: Sturdy
@@ -167,7 +167,7 @@ Ability One: Static
 Ability Two: LightningRod
 
  
-#027 Sandshrew - #028 Sandslash
+#027 Sandshrew, #028 Sandslash
 Ability One: Sand Veil
 Ability Two: Sand Rush
 
@@ -339,7 +339,7 @@ Ability One: Limber
 Ability Two: Technician
 
  
-#054 Psyduck - #055 Golduck
+#054 Psyduck, #055 Golduck
 Ability One: Swift Swim
 Ability Two: Cloud Nine
 
@@ -436,7 +436,7 @@ Ability One: Chlorophyll
 Ability Two: Intimidate
 
 
-#072 Tentacool - #073 Tentacruel
+#072 Tentacool, #073 Tentacruel
 Ability One: Clear Body
 Ability Two: Liquid Ooze
 
@@ -459,7 +459,7 @@ Ability One: Rock Head
 Ability Two: Sturdy
 
 
-#077 Ponyta - #078 Rapidash
+#077 Ponyta, #078 Rapidash
 Ability One: Flame Body
 Ability Two: Flash Fire
 
@@ -476,7 +476,7 @@ Ability One: Regenerator
 Ability Two: Drizzle
 
 
-#081 Magnemite - #082 Magneton
+#081 Magnemite, #082 Magneton
 Ability One: Magnet Pull
 Ability Two: Analytic
 
@@ -518,7 +518,7 @@ Ability One: Thick Fat
 Ability Two: Hydration
 
 
-#088 Grimer - #089 Muk
+#088 Grimer, #089 Muk
 Item: Toxic Orb (50%)
 Ability One: Stench
 Ability Two: Poison Touch
@@ -560,18 +560,18 @@ Ability One: Weak Armor
 Ability Two: Sturdy
 
 
-#096 Drowzee - #097 Hypno
+#096 Drowzee, #097 Hypno
 Ability One: Insomnia
 Ability Two: Forewarn
 
 
-#098 Krabby - #099 Kingler
+#098 Krabby, #099 Kingler
 HM: Can now learn HM05, Waterfall.
 Ability One: Hyper Cutter
 Ability Two: Sheer Force
 
 
-#100 Voltorb - #101 Electrode
+#100 Voltorb, #101 Electrode
 Ability One: Aftermath
 Ability Two: Static
 
@@ -681,7 +681,7 @@ Ability One: Swift Swim
 Ability Two: LightningRod
 
 
-#120 Staryu - #121 Starmie
+#120 Staryu, #121 Starmie
 Ability One: Regenerator
 Ability Two: Natural Cure
 
@@ -868,19 +868,19 @@ Ability Two: Magic Guard
 Johto Pokémon
 
 
-#152 Chikorita - #154 Meganium
+#152 Chikorita, #153 Bayleef, #154 Meganium
 Item: Miracle Seed (50%)
 Ability One: Overgrow
 Ability Two: Natural Cure
 
 
-#155 Cyndaquil - #157 Typhlosion
+#155 Cyndaquil, #156 Quilava, #157 Typhlosion
 Item: Charcoal (50%)
 Ability One: Blaze
 Ability Two: Flash Fire
 
 
-#158 Totodile - #160 Feraligatr.
+#158 Totodile, #159 Croconaw, #160 Feraligatr.
 Item: Mystic Water (50%)
 Ability One: Torrent
 Ability Two: Sheer Force
@@ -970,7 +970,7 @@ Ability Two: Magic Guard
 
 
 #174 Igglypuff
-Base Happiness: 200.
+Base Happiness: 200
 Ability One: Cute Charm
 Ability Two: Friend Guard
 
@@ -998,7 +998,7 @@ Ability One: Synchronize
 Ability Two: Magic Bounce
 
 
-#179 Mareep - #180 Flaaffy
+#179 Mareep, #180 Flaaffy
 Ability One: Static
 Ability Two: Overcoat
 
@@ -1048,7 +1048,7 @@ Ability One: Water Absorb
 Ability Two: Drizzle
 
 
-#187 Hoppip - #189 Jumpluff
+#187 Hoppip, #188 Skiploom, #189 Jumpluff
 Ability One: Chlorophyll
 Ability Two: Prankster
 
@@ -1141,7 +1141,7 @@ Ability One: Sap Sipper
 Ability Two: Early Bird
 
 
-#204 Pineco - #205 Forretress
+#204 Pineco, #205 Forretress
 Ability One: Sturdy
 Ability Two: Overcoat
 
@@ -1205,7 +1205,7 @@ Ability One: Pickpocket
 Ability Two: Technician
 
 
-#216 Teddiursa - #217 Ursaring
+#216 Teddiursa, #217 Ursaring
 Ability One: Pickup (Teddiursa) / Guts (Ursaring)
 Ability Two: Honey Gather (Teddiursa) / Sheer Force (Ursaring)
 
@@ -1227,7 +1227,7 @@ Ability One: Solid Rock
 Ability Two: Flame Body
 
 
-#220 Swinub - #221 Piloswine
+#220 Swinub, #221 Piloswine
 Ability One: Thick Fat
 Ability Two: Snow Cloak
 
@@ -1242,7 +1242,7 @@ Ability One: Regenerator
 Ability Two: Natural Cure
 
 
-#223 Remoraid - #224 Octillery
+#223 Remoraid, #224 Octillery
 TM: Now learn TM79, Frost Breath.
 Ability One: Moody
 Ability Two: Sniper
@@ -1315,7 +1315,7 @@ Ability One: Moody
 Ability Two: Technician
 
 
-#236 Tyrogue - #237 Hitmontop
+#236 Tyrogue, #237 Hitmontop
 Ability One: Guts (Tyrogue) / Intimidate (Hitmontop)
 Ability Two: Vital Spirit (Tyrogue) / Technician (Hitmontop)
 
@@ -1400,19 +1400,19 @@ Ability Two: Magic Guard
 Hoenn Pokémon
 
 
-#252 Treecko - #254 Sceptile
+#252 Treecko, #253 Grovyle #254 Sceptile
 Item: Miracle Seed (50%)
 Ability One: Overgrow
 Ability Two: Adaptability
 
 
-#255 Torchic - #257 Blaziken
+#255 Torchic, #256 Combusken, #257 Blaziken
 Item: Charcoal (50%)
 Ability One: Blaze
 Ability Two: Speed Boost
 
 
-#258 Mudkip - #260 Swampert
+#258 Mudkip, #259 Marshtomp, #260 Swampert
 Item: Mystic Water (50%)
 Ability One: Torrent
 Ability Two: Mold Breaker
@@ -1618,12 +1618,12 @@ Ability One: Soundproof
 Ability Two: Rattled
 
 
-#294 Loudred - #295 Exploud
+#294 Loudred, #295 Exploud
 Ability One: Soundproof
 Ability Two: Scrappy
 
 
-#296 Makuhita - #297 Hariyama
+#296 Makuhita, #297 Hariyama
 Ability One: Thick Fat
 Ability Two: Sheer Force
 
@@ -1674,17 +1674,17 @@ Ability One: Sheer Force
 Ability Two: Intimidate
 
  
-#304 Aron - #306 Aggron
+#304 Aron, #305 Lairon, #306 Aggron
 Ability One: Sturdy
 Ability Two: Rock Head
 
 
-#307 Meditite - #308 Medicham
+#307 Meditite, #308 Medicham
 Ability One: Pure Power
 Ability Two: Telepathy
 
 
-#309 Electrike - #310 Manectric
+#309 Electrike, #310 Manectric
 Ability One: Static
 Ability Two: Lightningrod
 
@@ -1722,7 +1722,6 @@ Special Attack: 47  80
 Special Defense: 75  90
 Speed: 85  90
 Stat Total: 400  430
-Max EXP: 1,640,000  600,000
 Base EXP: 140  195
 Ability One: Prankster
 Ability Two: Tinted Lens
@@ -1745,12 +1744,12 @@ Ability One: Liquid Ooze
 Ability Two: Gluttony
 
 
-#318 Carvanha - #319 Sharpedo
+#318 Carvanha, #319 Sharpedo
 Ability One: Rough Skin
 Ability Two: Speed Boost
 
 
-#320 Wailmer - #321 Wailord
+#320 Wailmer, #321 Wailord
 Ability One: Thick Fat
 Ability Two: Drizzle
 
@@ -1773,7 +1772,7 @@ Ability One: White Smoke
 Ability Two: Sturdy
 
 
-#325 Spoink - #326 Grumpig
+#325 Spoink, #326 Grumpig
 Ability One: Thick Fat
 Ability Two: Own Tempo
 
@@ -1812,7 +1811,7 @@ Ability One: Levitate
 Ability Two: Levitate
 
 
-#331 Cacnea - #332 Cacturne
+#331 Cacnea, #332 Cacturne
 Ability One: Sand Veil
 Ability Two: Water Absorb
 
@@ -1833,7 +1832,6 @@ Ability Two: Cloud Nine
 
 
 #335 Zangoose
-Abilities: Immunity, Toxic Boost.
 Ability One: Immunity
 Ability Two: Toxic Boost
 
@@ -1869,7 +1867,7 @@ Ability One: Forewarn
 Ability Two: Simple
 
 
-#341 Corphish - #342 Crawdaunt
+#341 Corphish, #342 Crawdaunt
 Ability One: Hyper Cutter
 Ability Two: Adaptability
 
@@ -1886,12 +1884,12 @@ Ability One: Levitate
 Ability Two: Levitate
 
 
-#345 Lileep - #346 Cradily
+#345 Lileep, #346 Cradily
 Ability One: Suction Cups
 Ability Two: Storm Drain
 
 
-#347 Anorith - #348 Armaldo
+#347 Anorith, #348 Armaldo
 Ability One: Battle Armor
 Ability Two: Swift Swim
 
@@ -2004,14 +2002,14 @@ Ability One: Solid Rock
 Ability Two: Moody
 
 
-#363 Spheal - #365 Walrein
+#363 Spheal, #364 Sealeo, #365 Walrein
 Ability One: Thick Fat
 Ability Two: Ice Body
 
 
 #366 Clamperl
-Evolution (Huntail): Level Up at Night with a DeepSeaTooth equipped.
-Evolution (Gorebyss): Level Up at Night with a DeepSeaScale equipped.
+Evolution (Huntail): Level Up at Night with a Deep Sea Tooth equipped.
+Evolution (Gorebyss): Level Up at Night with a Deep Sea Scale equipped.
 Ability One: Shell Armor
 Ability Two: Rattled
 
@@ -2060,7 +2058,7 @@ Ability One: Intimidate
 Ability Two: Moxie
 
 
-#374 Beldum - #375 Metang
+#374 Beldum, #375 Metang
 Ability One: Levitate
 Ability Two: Levitate
 
@@ -2124,19 +2122,19 @@ Ability Two: Pressure
 Sinnoh Pokémon
 
 
-#387 Turtwig - #389 Torterra
+#387 Turtwig, #388 Grotle, #389 Torterra
 Item: Miracle Seed (50%)
 Ability One: Overgrow
 Ability Two: Sturdy
 
 
-#390 Chimchar - #392 Infernape
+#390 Chimchar, #391 Monferno, #392 Infernape
 Item: Charcoal (50%)
 Ability One: Blaze
 Ability Two: Iron Fist
 
 
-#393 Piplup - #395 Empoleon
+#393 Piplup, #394 Prinplup, #395 Empoleon
 Item: Mystic Water (50%)
 Ability One: Torrent
 Ability Two: Defiant
@@ -2211,7 +2209,7 @@ Ability Two: Intimidate
 
 
 #406 Budew
-Base Happiness: 200.
+Base Happiness: 200
 Ability One: Natural Cure
 Ability Two: Leaf Guard
 
@@ -2224,12 +2222,12 @@ Ability One: Natural Cure
 Ability Two: Technician
 
 
-#408 Cranidos - #409 Rampardos
+#408 Cranidos, #409 Rampardos
 Ability One: Mold Breaker
 Ability Two: Sheer Force
 
 
-#410 Shieldon - #411 Bastiodon
+#410 Shieldon, #411 Bastiodon
 Ability One: Sturdy
 Ability Two: Soundproof
 
@@ -2288,7 +2286,7 @@ Ability One: Volt Absorb
 Ability Two: Pickup
 
 
-#418 Buizel - #419 Floatzel
+#418 Buizel, #419 Floatzel
 Ability One: Swift Swim
 Ability Two: Technician 
 
@@ -2306,7 +2304,7 @@ Ability One: Flower Gift
 Ability Two: Flower Gift
 
 
-#422 Shellos - #423 Gastrodon
+#422 Shellos, #423 Gastrodon
 Ability One: Sticky Hold
 Ability Two: Storm Drain
 
@@ -2316,7 +2314,7 @@ Ability One: Technician
 Ability Two: Pickup
 
 
-#425 Drifloon - #426 Drifblim
+#425 Drifloon, #426 Drifblim
 Ability One: Flare Boost
 Ability Two: Unburden
 
@@ -2365,12 +2363,12 @@ Ability Two: Defiant
 
 
 #433 Chingling
-Base Happiness: 200.
+Base Happiness: 200
 Ability One: Levitate
 Ability Two: Levitate
 
 
-#434 Stunky - #435 Skuntank
+#434 Stunky, #435 Skuntank
 Ability One: Stench
 Ability Two: Aftermath
 
@@ -2419,7 +2417,7 @@ Ability One: Pressure
 Ability Two: Cursed Body
 
 
-#443 Gible - #444 Gabite 
+#443 Gible, #444 Gabite 
 Ability One: Sand Veil
 Ability Two: Rough Skin
 
@@ -2447,17 +2445,17 @@ Ability One: Steadfast
 Ability Two: Justified
 
 
-#449 Hippopotas - #450 Hippowdon
+#449 Hippopotas, #450 Hippowdon
 Ability One: Sand Stream
 Ability Two: Sand Force
 
 
-#451 Skorupi - #452 Drapion
+#451 Skorupi, #452 Drapion
 Ability One: Battle Armor
 Ability Two: Sniper
 
 
-#453 Croagunk - #454 Toxicroak
+#453 Croagunk, #454 Toxicroak
 Ability One: Poison Touch
 Ability Two: Dry Skin
 
@@ -2488,7 +2486,7 @@ Ability One: Swift Swim
 Ability Two: Water Absorb
 
 
-#459 Snover - #460 Abomasnow
+#459 Snover, #460 Abomasnow
 Ability One: Snow Warning
 Ability Two: Soundproof
 
@@ -2591,20 +2589,14 @@ Ability One: Levitate
 Ability Two: Levitate
 
 
-#479 Rotom (Regular)
+#479 Rotom
 Speed: 91  111
 Total: 440  460
 Ability One: Levitate
 Ability Two: Levitate
- 
 
 
-#479 Rotom (Oven, Mow, Fridge, Wash)
-Ability One: Levitate
-Ability Two: Levitate
-
-
-#479 Rotom (Fan)
+#479 Rotom Fan
 Ability One: Speed Boost
 Ability Two: Motor Drive
 
@@ -2702,14 +2694,14 @@ Ability Two: Victory Star
 #495 Snivy
 Item: Miracle Seed (50%)
 Base EXP: 28  50
-Base Happiness: 70  0
+Base Happiness: 0
 Ability One: Overgrow
 Ability Two: Contrary
 
 
 #496 Servine
 Item: Miracle Seed (50%)
-Base Happiness: 70  0
+Base Happiness: 0
 Ability One: Overgrow
 Ability Two: Contrary
 
@@ -2719,7 +2711,7 @@ TM: Can now learn TM26 Earthquake.
 Tutor: Can now learn Draco Meteor.
 Item: Miracle Seed (50%)
 Type: Grass / Dragon
-Base Happiness: 70  0
+Base Happiness: 0
 HP: 75  82
 Total: 528  535
 Ability One: Overgrow
@@ -2823,19 +2815,19 @@ Ability One: Limber
 Ability Two: Prankster
 
 
-#511 Pansage - #512 Simisage
+#511 Pansage, #512 Simisage
 Tutor: Can now learn Grass Pledge and Frenzy Plant.
 Ability One: Gluttony (Pansage) / Unburden (Simisage)
 Ability Two: Overgrow
 
 
-#513 Pansear - #514 Simisear
+#513 Pansear, #514 Simisear
 Tutor: Can now learn Fire Pledge and Blast Burn.
 Ability One: Gluttony (Pansear) / Unburden (Simisear)
 Ability Two: Blaze
 
 
-#515 Panpour - #516 Simipour
+#515 Panpour, #516 Simipour
 Tutor: Can now learn Water Pledge and Hydro Cannon.
 Ability One: Gluttony (Panpour) / Unburden (Simipour)
 Ability Two: Torrent
@@ -2925,7 +2917,7 @@ Ability One: Unaware
 Ability Two: Simple
 
 
-#529 Drilbur - #530 Excadrill
+#529 Drilbur, #530 Excadrill
 Ability One: Sand Rush
 Ability Two: Mold Breaker
 
@@ -2952,7 +2944,7 @@ Ability One: Guts
 Ability Two: Iron Fist
 
 
-#535 Tympole - #536 Palpitoad
+#535 Tympole, #536 Palpitoad
 TM: Can now learn TM13 Ice Beam and TM14 Blizzard.
 Ability One: Water Absorb
 Ability Two: Hydration
@@ -2981,18 +2973,18 @@ Ability One: Sturdy
 Ability Two: Mold Breaker
 
 
-#540 Sewaddle - #542 Leavanny
+#540 Sewaddle, #541 Swadloon, #542 Leavanny
 Base Happiness: 180
 Ability One: Swarm (Sewaddle) / Leaf Guard (Swadloon) / Swarm (Leavanny)
 Ability Two: Chlorophyll (Sewaddle) / Overcoat (Swadloon) / Chlorophyll (Leavanny)
 
 
-#543 Venipede - #545 Scolipede
+#543 Venipede, #544 Whirlipede, #545 Scolipede
 Ability One: Poison Point (Venipede) / Battle Armor (Whirlipede) / Poison Touch (Scolipede)
 Ability Two: Swarm
 
 
-#546 Cottonee - #547 Whimsicott
+#546 Cottonee, #547 Whimsicott
 Ability One: Prankster
 Ability Two: Infiltrator
 
@@ -3011,7 +3003,7 @@ Ability One: Reckless (Red) / Rock Head (Blue)
 Ability Two: Adaptability
 
 
-#551 Sandile - #553 Krookodile
+#551 Sandile, #552 Krokorok, #553 Krookodile
 Ability One: Anger Point (Sandile) / Anger Point (Krokorok) / Intimidate (Krookodile)
 Ability Two: Moxie
 
@@ -3035,12 +3027,12 @@ Ability One: Water Absorb
 Ability Two: Storm Drain
 
 
-#557 Dwebble - #558 Crustle
+#557 Dwebble, #558 Crustle
 Ability One: Sturdy
 Ability Two: Shell Armor
 
 
-#559 Scraggy - #560 Scrafty
+#559 Scraggy, #560 Scrafty
 Ability One: Shed Skin
 Ability Two: Moxie
 Evolution: Level 35 [Scraggy]
@@ -3067,12 +3059,12 @@ Ability One: Mummy
 Ability Two: Mummy
 
 
-#564 Tirtouga - #565 Carracosta
+#564 Tirtouga, #565 Carracosta
 Ability One: Solid Rock
 Ability Two: Sturdy
 
 
-#566 Archen - #567 Archeops
+#566 Archen, #567 Archeops
 Ability One: Defeatist
 Ability Two: Defeatist
 
@@ -3162,7 +3154,7 @@ Ability One: Hydration
 Ability Two: Big Pecks
 
 
-#582 Vanillite - #583 Vanillish
+#582 Vanillite, #583 Vanillish
 TM: Can now learn TM30, Shadow Ball, TM53, Energy Ball and TM86, Grass Knot.
 Ability One: Ice Body
 Ability Two: Weak Armor
@@ -3214,12 +3206,12 @@ Ability Two: No Guard
 TM: Can now learn TM74, Gyro Ball.
 
 
-#590 Foongus - #591 Amoonguss
+#590 Foongus, #591 Amoonguss
 Ability One: Effect Spore
 Ability Two: Regenerator
 
 
-#592 Frillish - #593 Jellicent
+#592 Frillish, #593 Jellicent
 Ability One: Water Absorb
 Ability Two: Cursed Body
 
@@ -3244,12 +3236,12 @@ Ability One: Compoundeyes
 Ability Two: Swarm
 
 
-#597 Ferroseed - #598 Ferrothorn
+#597 Ferroseed, #598 Ferrothorn
 Ability One: Iron Barbs
 Ability Two: Iron Barbs
 
 
-#599 Klink - #600 Klang
+#599 Klink, #600 Klang
 TM: Can now learn TM80 Rock Slide, TM93, Wild Charge.
 Ability One: Motor Drive
 Ability Two: Clear Body
@@ -3263,7 +3255,7 @@ Ability One: Motor Drive
 Ability Two: Clear Body
 
 
-#602 Tynamo - #604 Eelektross
+#602 Tynamo, #603 Eelektrik, #604 Eelektross
 Ability One: Levitate
 Ability Two: Levitate
 
@@ -3287,12 +3279,12 @@ Ability One: Flash Fire
 Ability Two: Flame Body
 
 
-#608 Lampent - #609 Chandelure
+#608 Lampent, #609 Chandelure
 Ability One: Levitate
 Ability Two: Levitate
 
 
-#610 Axew - #612 Haxorus
+#610 Axew, #611 Fraxure, #612 Haxorus
 Ability One: Rivalry
 Ability Two: Mold Breaker
 
@@ -3341,7 +3333,7 @@ Ability One: Static
 Ability Two: Limber
 
 
-#619 Mienfoo - #620 Mienshao
+#619 Mienfoo, #620 Mienshao
 Evolution: Level 39
 Ability One: Reckless
 Ability Two: Regenerator
@@ -3397,7 +3389,7 @@ Ability One: Defiant
 Ability Two: Sheer Force
 
 
-#629 Vullaby - #630 Mandibuzz
+#629 Vullaby, #630 Mandibuzz
 Evolution: Level 39 [Vullaby]
 Ability One: Big Pecks
 Ability Two: Overcoat
