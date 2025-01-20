@@ -20,8 +20,9 @@ def parse_evolution_line(evolution, pokemon_set, level=1, index=1):
     if len(names) == 0:
         return ""
 
+    md = ""
     for name in names:
-        md = f"{'    ' * (level - 1)}{index}. "
+        md += f"{'    ' * (level - 1)}{index}. "
         evolution_details = evolution["evolution_details"]
         if len(evolution_details) > 0:
             md += f"{evolution_details[-1]["trigger"]["name"].replace("-", " ").title()}: "
@@ -30,8 +31,9 @@ def parse_evolution_line(evolution, pokemon_set, level=1, index=1):
         if evolution["evolutions"]:
             for i, sub_evolution in enumerate(evolution["evolutions"], 1):
                 md += parse_evolution_line(sub_evolution, pokemon_set, level + 1, i)
+        md += "\n"
 
-    return md
+    return md.strip()
 
 
 def calculate_hp(base: int, iv: int, ev: int, level: int) -> int:
@@ -321,15 +323,41 @@ def main():
         print("Failed to fetch Pokémon data from PokéAPI.")
 
     pokemon_set = set()
+    species = []
+    forms = []
     for pokemon in pokedex:
         name = pokemon["name"]
         file_pattern = f"data/{name.split("-")[0]}*.json"
         files = glob.glob(file_pattern)
 
         for file_path in files:
-            name = file_path.split("\\")[-1].split(".")[0]
-            pokemon_set.add(name)
+            new_name = file_path.split("\\")[-1].split(".")[0]
+            pokemon_set.add(new_name)
 
+            if new_name == name:
+                species.append(new_name)
+            else:
+                forms.append(new_name)
+
+    # Generate nav for mkdocs.yml
+    generations = ["Kanto", "Johto", "Hoenn", "Sinnoh", "Unova"]
+    pokedex_start = [0, 151, 251, 386, 493]
+    nav = ""
+
+    for i, name in enumerate(species):
+        if i in pokedex_start:
+            nav += f"      - {generations[pokedex_start.index(i)]}:\n"
+
+        clean_name = name.replace("-", " ").title()
+        nav += f'          - "#{f"{i + 1:03}"} {clean_name}": pokemon/{name}.md\n'
+    nav += f"      - Pokémon Forms:\n"
+    for name in forms:
+        clean_name = name.replace("-", " ").title()
+        nav += f'          - {clean_name}": pokemon/{name}.md\n'
+
+    save("output/pokemon_nav.md", nav)
+
+    # Generate markdown files for each Pokémon
     for pokemon in pokedex:
         name = pokemon["name"]
         file_pattern = f"data/{name.split("-")[0]}*.json"

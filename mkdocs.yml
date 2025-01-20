@@ -75,10 +75,10 @@ nav:
           - "#026 Raichu": pokemon/raichu.md
           - "#027 Sandshrew": pokemon/sandshrew.md
           - "#028 Sandslash": pokemon/sandslash.md
-          - "#029 Nidoran-f": pokemon/nidoran-f.md
+          - "#029 Nidoran F": pokemon/nidoran-f.md
           - "#030 Nidorina": pokemon/nidorina.md
           - "#031 Nidoqueen": pokemon/nidoqueen.md
-          - "#032 Nidoran-m": pokemon/nidoran-m.md
+          - "#032 Nidoran M": pokemon/nidoran-m.md
           - "#033 Nidorino": pokemon/nidorino.md
           - "#034 Nidoking": pokemon/nidoking.md
           - "#035 Clefairy": pokemon/clefairy.md
@@ -168,7 +168,7 @@ nav:
           - "#119 Seaking": pokemon/seaking.md
           - "#120 Staryu": pokemon/staryu.md
           - "#121 Starmie": pokemon/starmie.md
-          - "#122 Mr-mime": pokemon/mr-mime.md
+          - "#122 Mr Mime": pokemon/mr-mime.md
           - "#123 Scyther": pokemon/scyther.md
           - "#124 Jynx": pokemon/jynx.md
           - "#125 Electabuzz": pokemon/electabuzz.md
@@ -297,7 +297,7 @@ nav:
           - "#247 Pupitar": pokemon/pupitar.md
           - "#248 Tyranitar": pokemon/tyranitar.md
           - "#249 Lugia": pokemon/lugia.md
-          - "#250 Ho-oh": pokemon/ho-oh.md
+          - "#250 Ho Oh": pokemon/ho-oh.md
           - "#251 Celebi": pokemon/celebi.md
       - Hoenn:
           - "#252 Treecko": pokemon/treecko.md
@@ -434,7 +434,7 @@ nav:
           - "#383 Groudon": pokemon/groudon.md
           - "#384 Rayquaza": pokemon/rayquaza.md
           - "#385 Jirachi": pokemon/jirachi.md
-          - "#386 Deoxys-normal": pokemon/deoxys-normal.md
+          - "#386 Deoxys Normal": pokemon/deoxys-normal.md
       - Sinnoh:
           - "#387 Turtwig": pokemon/turtwig.md
           - "#388 Grotle": pokemon/grotle.md
@@ -462,7 +462,7 @@ nav:
           - "#410 Shieldon": pokemon/shieldon.md
           - "#411 Bastiodon": pokemon/bastiodon.md
           - "#412 Burmy": pokemon/burmy.md
-          - "#413 Wormadam-plant": pokemon/wormadam-plant.md
+          - "#413 Wormadam Plant": pokemon/wormadam-plant.md
           - "#414 Mothim": pokemon/mothim.md
           - "#415 Combee": pokemon/combee.md
           - "#416 Vespiquen": pokemon/vespiquen.md
@@ -488,7 +488,7 @@ nav:
           - "#436 Bronzor": pokemon/bronzor.md
           - "#437 Bronzong": pokemon/bronzong.md
           - "#438 Bonsly": pokemon/bonsly.md
-          - "#439 Mime-jr": pokemon/mime-jr.md
+          - "#439 Mime Jr": pokemon/mime-jr.md
           - "#440 Happiny": pokemon/happiny.md
           - "#441 Chatot": pokemon/chatot.md
           - "#442 Spiritomb": pokemon/spiritomb.md
@@ -523,7 +523,7 @@ nav:
           - "#471 Glaceon": pokemon/glaceon.md
           - "#472 Gliscor": pokemon/gliscor.md
           - "#473 Mamoswine": pokemon/mamoswine.md
-          - "#474 Porygon-z": pokemon/porygon-z.md
+          - "#474 Porygon Z": pokemon/porygon-z.md
           - "#475 Gallade": pokemon/gallade.md
           - "#476 Probopass": pokemon/probopass.md
           - "#477 Dusknoir": pokemon/dusknoir.md
@@ -536,12 +536,12 @@ nav:
           - "#484 Palkia": pokemon/palkia.md
           - "#485 Heatran": pokemon/heatran.md
           - "#486 Regigigas": pokemon/regigigas.md
-          - "#487 Giratina-altered": pokemon/giratina-altered.md
+          - "#487 Giratina Altered": pokemon/giratina-altered.md
           - "#488 Cresselia": pokemon/cresselia.md
           - "#489 Phione": pokemon/phione.md
           - "#490 Manaphy": pokemon/manaphy.md
           - "#491 Darkrai": pokemon/darkrai.md
-          - "#492 Shaymin-land": pokemon/shaymin-land.md
+          - "#492 Shaymin Land": pokemon/shaymin-land.md
           - "#493 Arceus": pokemon/arceus.md
       - Unova:
           - "#494 Victini": pokemon/victini.md
@@ -600,12 +600,12 @@ nav:
           - "#547 Whimsicott": pokemon/whimsicott.md
           - "#548 Petilil": pokemon/petilil.md
           - "#549 Lilligant": pokemon/lilligant.md
-          - "#550 Basculin-red-striped": pokemon/basculin-red-striped.md
+          - "#550 Basculin Red Striped": pokemon/basculin-red-striped.md
           - "#551 Sandile": pokemon/sandile.md
           - "#552 Krokorok": pokemon/krokorok.md
           - "#553 Krookodile": pokemon/krookodile.md
           - "#554 Darumaka": pokemon/darumaka.md
-          - "#555 Darmanitan-standard": pokemon/darmanitan-standard.md
+          - "#555 Darmanitan Standard": pokemon/darmanitan-standard.md
           - "#556 Maractus": pokemon/maractus.md
           - "#557 Dwebble": pokemon/dwebble.md
           - "#558 Crustle": pokemon/crustle.md
@@ -691,14 +691,201 @@ nav:
           - "#638 Cobalion": pokemon/cobalion.md
           - "#639 Terrakion": pokemon/terrakion.md
           - "#640 Virizion": pokemon/virizion.md
-          - "#641 Tornadus-incarnate": pokemon/tornadus-incarnate.md
-          - "#642 Thundurus-incarnate": pokemon/thundurus-incarnate.md
+          - "#641 Tornadus Incarnate": pokemon/tornadus-incarnate.md
+          - "#642 Thundurus Incarnate": pokemon/thundurus-incarnate.md
           - "#643 Reshiram": pokemon/reshiram.md
           - "#644 Zekrom": pokemon/zekrom.md
-          - "#645 Landorus-incarnate": pokemon/landorus-incarnate.md
+          - "#645 Landorus Incarnate": pokemon/landorus-incarnate.md
           - "#646 Kyurem": pokemon/kyurem.md
-          - "#647 Keldeo-ordinary": pokemon/keldeo-ordinary.md
-          - "#648 Meloetta-aria": pokemon/meloetta-aria.md
+          - "#647 Keldeo Ordinary": pokemon/keldeo-ordinary.md
+          - "#648 Meloetta Aria": pokemon/meloetta-aria.md
           - "#649 Genesect": pokemon/genesect.md
+      - Pokémon Forms:
+          - Venusaur Gmax": pokemon/venusaur-gmax.md
+          - Venusaur Mega": pokemon/venusaur-mega.md
+          - Charizard Gmax": pokemon/charizard-gmax.md
+          - Charizard Mega X": pokemon/charizard-mega-x.md
+          - Charizard Mega Y": pokemon/charizard-mega-y.md
+          - Blastoise Gmax": pokemon/blastoise-gmax.md
+          - Blastoise Mega": pokemon/blastoise-mega.md
+          - Butterfree Gmax": pokemon/butterfree-gmax.md
+          - Beedrill Mega": pokemon/beedrill-mega.md
+          - Pidgeot Mega": pokemon/pidgeot-mega.md
+          - Pidgeotto": pokemon/pidgeotto.md
+          - Rattata Alola": pokemon/rattata-alola.md
+          - Raticate Alola": pokemon/raticate-alola.md
+          - Raticate Totem Alola": pokemon/raticate-totem-alola.md
+          - Pikachu Alola Cap": pokemon/pikachu-alola-cap.md
+          - Pikachu Belle": pokemon/pikachu-belle.md
+          - Pikachu Cosplay": pokemon/pikachu-cosplay.md
+          - Pikachu Gmax": pokemon/pikachu-gmax.md
+          - Pikachu Hoenn Cap": pokemon/pikachu-hoenn-cap.md
+          - Pikachu Kalos Cap": pokemon/pikachu-kalos-cap.md
+          - Pikachu Libre": pokemon/pikachu-libre.md
+          - Pikachu Original Cap": pokemon/pikachu-original-cap.md
+          - Pikachu Partner Cap": pokemon/pikachu-partner-cap.md
+          - Pikachu Phd": pokemon/pikachu-phd.md
+          - Pikachu Pop Star": pokemon/pikachu-pop-star.md
+          - Pikachu Rock Star": pokemon/pikachu-rock-star.md
+          - Pikachu Sinnoh Cap": pokemon/pikachu-sinnoh-cap.md
+          - Pikachu Starter": pokemon/pikachu-starter.md
+          - Pikachu Unova Cap": pokemon/pikachu-unova-cap.md
+          - Pikachu World Cap": pokemon/pikachu-world-cap.md
+          - Raichu Alola": pokemon/raichu-alola.md
+          - Sandshrew Alola": pokemon/sandshrew-alola.md
+          - Sandslash Alola": pokemon/sandslash-alola.md
+          - Nidoran M": pokemon/nidoran-m.md
+          - Nidoran F": pokemon/nidoran-f.md
+          - Vulpix Alola": pokemon/vulpix-alola.md
+          - Ninetales Alola": pokemon/ninetales-alola.md
+          - Parasect": pokemon/parasect.md
+          - Diglett Alola": pokemon/diglett-alola.md
+          - Dugtrio Alola": pokemon/dugtrio-alola.md
+          - Meowth Alola": pokemon/meowth-alola.md
+          - Meowth Galar": pokemon/meowth-galar.md
+          - Meowth Gmax": pokemon/meowth-gmax.md
+          - Persian Alola": pokemon/persian-alola.md
+          - Growlithe Hisui": pokemon/growlithe-hisui.md
+          - Arcanine Hisui": pokemon/arcanine-hisui.md
+          - Alakazam Mega": pokemon/alakazam-mega.md
+          - Machamp Gmax": pokemon/machamp-gmax.md
+          - Geodude Alola": pokemon/geodude-alola.md
+          - Graveler Alola": pokemon/graveler-alola.md
+          - Golem Alola": pokemon/golem-alola.md
+          - Ponyta Galar": pokemon/ponyta-galar.md
+          - Rapidash Galar": pokemon/rapidash-galar.md
+          - Slowpoke Galar": pokemon/slowpoke-galar.md
+          - Slowbro Galar": pokemon/slowbro-galar.md
+          - Slowbro Mega": pokemon/slowbro-mega.md
+          - Farfetchd Galar": pokemon/farfetchd-galar.md
+          - Grimer Alola": pokemon/grimer-alola.md
+          - Muk Alola": pokemon/muk-alola.md
+          - Gengar Gmax": pokemon/gengar-gmax.md
+          - Gengar Mega": pokemon/gengar-mega.md
+          - Kingler Gmax": pokemon/kingler-gmax.md
+          - Voltorb Hisui": pokemon/voltorb-hisui.md
+          - Electrode Hisui": pokemon/electrode-hisui.md
+          - Exeggutor Alola": pokemon/exeggutor-alola.md
+          - Marowak Alola": pokemon/marowak-alola.md
+          - Marowak Totem": pokemon/marowak-totem.md
+          - Weezing Galar": pokemon/weezing-galar.md
+          - Kangaskhan Mega": pokemon/kangaskhan-mega.md
+          - Mr Mime Galar": pokemon/mr-mime-galar.md
+          - Mr Rime": pokemon/mr-rime.md
+          - Pinsir Mega": pokemon/pinsir-mega.md
+          - Tauros Paldea Aqua Breed": pokemon/tauros-paldea-aqua-breed.md
+          - Tauros Paldea Blaze Breed": pokemon/tauros-paldea-blaze-breed.md
+          - Tauros Paldea Combat Breed": pokemon/tauros-paldea-combat-breed.md
+          - Gyarados Mega": pokemon/gyarados-mega.md
+          - Lapras Gmax": pokemon/lapras-gmax.md
+          - Eevee Gmax": pokemon/eevee-gmax.md
+          - Eevee Starter": pokemon/eevee-starter.md
+          - Porygon Z": pokemon/porygon-z.md
+          - Porygon2": pokemon/porygon2.md
+          - Kabutops": pokemon/kabutops.md
+          - Aerodactyl Mega": pokemon/aerodactyl-mega.md
+          - Snorlax Gmax": pokemon/snorlax-gmax.md
+          - Articuno Galar": pokemon/articuno-galar.md
+          - Zapdos Galar": pokemon/zapdos-galar.md
+          - Moltres Galar": pokemon/moltres-galar.md
+          - Mewtwo Mega X": pokemon/mewtwo-mega-x.md
+          - Mewtwo Mega Y": pokemon/mewtwo-mega-y.md
+          - Mewtwo Mega X": pokemon/mewtwo-mega-x.md
+          - Mewtwo Mega Y": pokemon/mewtwo-mega-y.md
+          - Mewtwo": pokemon/mewtwo.md
+          - Typhlosion Hisui": pokemon/typhlosion-hisui.md
+          - Ampharos Mega": pokemon/ampharos-mega.md
+          - Wooper Paldea": pokemon/wooper-paldea.md
+          - Slowking Galar": pokemon/slowking-galar.md
+          - Steelix Mega": pokemon/steelix-mega.md
+          - Qwilfish Hisui": pokemon/qwilfish-hisui.md
+          - Scizor Mega": pokemon/scizor-mega.md
+          - Heracross Mega": pokemon/heracross-mega.md
+          - Sneasel Hisui": pokemon/sneasel-hisui.md
+          - Corsola Galar": pokemon/corsola-galar.md
+          - Houndoom Mega": pokemon/houndoom-mega.md
+          - Tyranitar Mega": pokemon/tyranitar-mega.md
+          - Honchkrow": pokemon/honchkrow.md
+          - Honedge": pokemon/honedge.md
+          - Hoopa Unbound": pokemon/hoopa-unbound.md
+          - Hoopa": pokemon/hoopa.md
+          - Hoothoot": pokemon/hoothoot.md
+          - Hoppip": pokemon/hoppip.md
+          - Horsea": pokemon/horsea.md
+          - Houndoom Mega": pokemon/houndoom-mega.md
+          - Houndoom": pokemon/houndoom.md
+          - Houndour": pokemon/houndour.md
+          - Houndstone": pokemon/houndstone.md
+          - Sceptile Mega": pokemon/sceptile-mega.md
+          - Blaziken Mega": pokemon/blaziken-mega.md
+          - Swampert Mega": pokemon/swampert-mega.md
+          - Zigzagoon Galar": pokemon/zigzagoon-galar.md
+          - Linoone Galar": pokemon/linoone-galar.md
+          - Gardevoir Mega": pokemon/gardevoir-mega.md
+          - Sableye Mega": pokemon/sableye-mega.md
+          - Mawile Mega": pokemon/mawile-mega.md
+          - Aggron Mega": pokemon/aggron-mega.md
+          - Medicham Mega": pokemon/medicham-mega.md
+          - Manectric Mega": pokemon/manectric-mega.md
+          - Sharpedo Mega": pokemon/sharpedo-mega.md
+          - Camerupt Mega": pokemon/camerupt-mega.md
+          - Altaria Mega": pokemon/altaria-mega.md
+          - Castform Rainy": pokemon/castform-rainy.md
+          - Castform Snowy": pokemon/castform-snowy.md
+          - Castform Sunny": pokemon/castform-sunny.md
+          - Banette Mega": pokemon/banette-mega.md
+          - Absol Mega": pokemon/absol-mega.md
+          - Glalie Mega": pokemon/glalie-mega.md
+          - Salamence Mega": pokemon/salamence-mega.md
+          - Metagross Mega": pokemon/metagross-mega.md
+          - Latias Mega": pokemon/latias-mega.md
+          - Latios Mega": pokemon/latios-mega.md
+          - Kyogre Primal": pokemon/kyogre-primal.md
+          - Groudon Primal": pokemon/groudon-primal.md
+          - Rayquaza Mega": pokemon/rayquaza-mega.md
+          - Deoxys Attack": pokemon/deoxys-attack.md
+          - Deoxys Defense": pokemon/deoxys-defense.md
+          - Deoxys Speed": pokemon/deoxys-speed.md
+          - Wormadam Sandy": pokemon/wormadam-sandy.md
+          - Wormadam Trash": pokemon/wormadam-trash.md
+          - Lopunny Mega": pokemon/lopunny-mega.md
+          - Garchomp Mega": pokemon/garchomp-mega.md
+          - Lucario Mega": pokemon/lucario-mega.md
+          - Abomasnow Mega": pokemon/abomasnow-mega.md
+          - Porygon": pokemon/porygon.md
+          - Porygon2": pokemon/porygon2.md
+          - Gallade Mega": pokemon/gallade-mega.md
+          - Rotom Fan": pokemon/rotom-fan.md
+          - Rotom Frost": pokemon/rotom-frost.md
+          - Rotom Heat": pokemon/rotom-heat.md
+          - Rotom Mow": pokemon/rotom-mow.md
+          - Rotom Wash": pokemon/rotom-wash.md
+          - Dialga Origin": pokemon/dialga-origin.md
+          - Palkia Origin": pokemon/palkia-origin.md
+          - Giratina Origin": pokemon/giratina-origin.md
+          - Shaymin Sky": pokemon/shaymin-sky.md
+          - Samurott Hisui": pokemon/samurott-hisui.md
+          - Audino Mega": pokemon/audino-mega.md
+          - Lilligant Hisui": pokemon/lilligant-hisui.md
+          - Basculin Blue Striped": pokemon/basculin-blue-striped.md
+          - Basculin White Striped": pokemon/basculin-white-striped.md
+          - Darumaka Galar": pokemon/darumaka-galar.md
+          - Darmanitan Galar Standard": pokemon/darmanitan-galar-standard.md
+          - Darmanitan Galar Zen": pokemon/darmanitan-galar-zen.md
+          - Darmanitan Zen": pokemon/darmanitan-zen.md
+          - Yamask Galar": pokemon/yamask-galar.md
+          - Garbodor Gmax": pokemon/garbodor-gmax.md
+          - Zorua Hisui": pokemon/zorua-hisui.md
+          - Zoroark Hisui": pokemon/zoroark-hisui.md
+          - Klinklang": pokemon/klinklang.md
+          - Stunfisk Galar": pokemon/stunfisk-galar.md
+          - Braviary Hisui": pokemon/braviary-hisui.md
+          - Tornadus Therian": pokemon/tornadus-therian.md
+          - Thundurus Therian": pokemon/thundurus-therian.md
+          - Landorus Therian": pokemon/landorus-therian.md
+          - Kyurem Black": pokemon/kyurem-black.md
+          - Kyurem White": pokemon/kyurem-white.md
+          - Keldeo Resolute": pokemon/keldeo-resolute.md
+          - Meloetta Pirouette": pokemon/meloetta-pirouette.md
   - Routes:
       - Placeholder: pokemon/victini.md
