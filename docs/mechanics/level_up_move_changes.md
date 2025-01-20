@@ -28,7 +28,7 @@
 • Sky Drop is now 80 power.
 • Steamroller is now 80 power.
 • Fire Punch is now 80 power.
-• ThunderPunch is now 80 power.
+• Thunder Punch is now 80 power.
 • Ice Punch is now 80 power.
 • Strength is now Rock-type with 85 power and 100% accuracy.
 • Waterfall is now 85 power.
@@ -49,6 +49,8 @@
 • Ice Burn is now 180 power.
 ```
 
+---
+
 ## Key
 
 ```
@@ -57,9 +59,9 @@
 = means it's not a new move, but the level has been shifted.
 ```
 
-## Kanto Pokémon
-
 ---
+
+## Kanto Pokémon
 
 **#001 Bulbasaur**
 
@@ -67,8 +69,6 @@
 + Level 29 - Nature Power
 + Level 41 - Power Whip
 ```
-
----
 
 **#002 Ivysaur**
 
@@ -78,34 +78,26 @@
 + Level 53 - Leaf Storm
 ```
 
----
-
 **#003 Venusaur**
 
 ```
-+ Level 1 - AncientPower
++ Level 1 - Ancient Power
 + Level 36 - Nature Power
 + Level 57 - Power Whip
 + Level 63 - Leaf Storm
 ```
 
----
-
 **#004 Charmander**
 
 ```
-+ Belly Drum - Level 50
++ Level 50 - Belly Drum
 ```
-
----
 
 **#005 Charmeleon**
 
 ```
-+ Belly Drum - Level 61
++ Level 61 - Belly Drum
 ```
-
----
 
 **#006 Charizard**
 
@@ -118,8 +110,6 @@
 + Level 83 - Belly Drum
 ```
 
----
-
 **#007 Squirtle**
 
 ```
@@ -127,8 +117,6 @@
 + Level 43 - Water Spout
 + Level 46 - Shell Smash
 ```
-
----
 
 **#008 Wartortle**
 
@@ -138,8 +126,6 @@
 + Level 52 - Water Spout
 + Level 56 - Shell Smash
 ```
-
----
 
 **#009 Blastoise**
 
@@ -151,8 +137,6 @@
 + Level 74 - Shell Smash
 ```
 
----
-
 **#010 Caterpie**
 
 ```
@@ -160,8 +144,6 @@
 + Level 1 - Snore
 + Level 6 - Struggle Bug
 ```
-
----
 
 **#012 Butterfree**
 
@@ -174,16 +156,12 @@
 + Level 50 - Baton Pass
 ```
 
----
-
 **#013 Weedle**
 
 ```
 = Level 1 - Bug Bite
 + Level 6 - Poison Tail
 ```
-
----
 
 **#015 Beedrill**
 
@@ -195,8 +173,6 @@
 + Level 43 - Megahorn
 + Level 46 - Baton Pass
 ```
-
----
 
 **#016 Pidgey**
 
@@ -212,8 +188,6 @@
 + Level 57 - Brave Bird
 ```
 
----
-
 **#017 Pidgeotto**
 
 ```
@@ -227,8 +201,6 @@
 + Level 20 - Steel Wing
 + Level 67 - Brave Bird
 ```
-
----
 
 **#018 Pidgeot**
 
@@ -244,37 +216,31 @@
 + Level 74 - Brave Bird
 ```
 
----
-
 **#019 Rattata**
 
 ```
-= Bite - Level 1
-+ Flame Wheel - Level 10
-+ Reversal - Level 34
-= Endeavor - Level 37
-+ Me First - Level 40
-+ Final Gambit - Level 43
+= Level 1 - Bite
++ Level 10 - Flame Wheel
++ Level 34 - Reversal
+= Level 37 - Endeavor
++ Level 40 - Me First
++ Level 43 - Final Gambit
 ```
-
----
 
 **#020 Raticate**
 
 ```
-= Bite - Level 1
-+ Flame Wheel - Level 10
-= Swords Dance - Level 20
-+ Fire Fang - Level 20
-+ Thunder Fang - Level 20
-+ Ice Fang - Level 20
-+ Reversal - Level 44
-= Endeavor - Level 49
-+ Me First - Level 54
-+ Final Gambit - Level 59
+= Level 1 - Bite
++ Level 10 - Flame Wheel
+= Level 20 - Swords Dance
++ Level 20 - Fire Fang
++ Level 20 - Thunder Fang
++ Level 20 - Ice Fang
++ Level 44 - Reversal
+= Level 49 - Endeavor
++ Level 54 - Me First
++ Level 59 - Final Gambit
 ```
-
----
 
 **#021 Spearow**
 
@@ -284,8 +250,6 @@
 + Level 13 - Steel Wing
 ```
 
----
-
 **#022 Fearow**
 
 ```
@@ -293,15 +257,11 @@
 + Level 13 - Steel Wing
 ```
 
----
-
 **#023 Ekans**
 
 ```
 + Level 22 - Poison Tail
 ```
-
----
 
 **#024 Arbok**
 
@@ -309,20 +269,27 @@
 + Level 23 - Poison Tail
 ```
 
----
-
-**#172 Pichu, #025 Pikachu, #026 Raichu**
+**#172 Pichu**
 
 ```
-+ Level 23 - Wish (Pichu only)
-+ Level 28 - Sing (Pichu only)
-+ Level 33 - Petal Dance (Pichu)
-+ Level 38 - Dizzy Punch (Pichu)
-+ Level 32 - Charge (Pikachu only)
-+ Level 54 - Volt Tackle (Pikachu and Raichu only)
++ Level 23 - Wish
++ Level 28 - Sing
++ Level 33 - Petal Dance
++ Level 38 - Dizzy Punch
 ```
 
----
+**#025 Pikachu**
+
+```
++ Level 32 - Charge
++ Level 54 - Volt Tackle
+```
+
+**#026 Raichu**
+
+```
++ Level 54 - Volt Tackle
+```
 
 **#027 Sandshrew**
 
@@ -332,8 +299,6 @@
 + Level 29 - Super Fang
 ```
 
----
-
 **#028 Sandslash**
 
 ```
@@ -341,8 +306,6 @@
 + Level 25 - Metal Claw
 + Level 37 - Super Fang
 ```
-
----
 
 **#029 Nidoran-F**
 
@@ -353,15 +316,11 @@
 + Level 28 - Super Fang
 ```
 
----
-
 **#030 Nidorina**
 
 ```
 + Level 31 - Super Fang
 ```
-
----
 
 **#032 Nidoran-M**
 
@@ -372,32 +331,37 @@
 + Level 28 - Super Fang
 ```
 
----
-
 **#033 Nidorino**
 
 ```
 + Level 31 - Super Fang
 ```
 
----
-
-**#173 Cleffa, #035 Clefairy, #036 Clefable**
+**#173 Cleffa**
 
 ```
-+/= Level 1 - Metronome (Cleffa, Clefairy)
-+ Level 19 - Stored Power (Cleffa only)
-+ Level 22 - Swift (Cleffa)
-+ Level 25 - Petal Dance (Cleffa)
-+ Level 34 - Aromatherapy (Clefairy only)
-+ Level 23 - Fire Punch (Clefable only)
-+ Level 23 - ThunderPunch (Clefable only)
-+ Level 23 - Ice Punch (Clefable only)
-+ Level 35 - Belly Drum (Clefable only)
-+ Level 47 - Wish (Clefable only)
++ Level 1 - Metronome
++ Level 19 - Stored Power
++ Level 22 - Swift
++ Level 25 - Petal Dance
 ```
 
----
+**#035 Clefairy**
+
+```
+= Level 1 - Metronome
++ Level 34 - Aromatherapy
+```
+
+**#036 Clefable**
+
+```
++ Level 23 - Fire Punch
++ Level 23 - Thunder Punch
++ Level 23 - Ice Punch
++ Level 35 - Belly Drum
++ Level 47 - Wish
+```
 
 **#037 Vulpix**
 
@@ -407,8 +371,6 @@
 + Level 24 - Hex
 - Level 34 - Dark Pulse
 ```
-
----
 
 **#038 Ninetales**
 
@@ -420,53 +382,94 @@
 + Level 51 - Morning Sun
 ```
 
----
-
-**#174 Igglybuff, #039 Jigglypuff, #040 Wigglytuff**
+**#174 Igglybuff**
 
 ```
-+ Level 1 - Metronome (Igglybuff, Jigglypuff)
-+ Level 19 - Perish Song (Jigglypuff only)
-+ Level 21 - Fake Tears (Igglybuff only)
-+ Level 25 - Mimic (Igglybuff)
-+ Level 29 - Petal Dance (Igglybuff)
-+ Level 23 - Wish (Jigglypuff only)
-+ Level 23 - Gravity (Wigglytuff only)
-+ Level 35 - Magic Coat (Wigglytuff only)
-+ Level 47 - Heal Bell (Wigglytuff only)
++ Level 1 - Metronome
++ Level 21 - Fake Tears
++ Level 25 - Mimic
++ Level 29 - Petal Dance
 ```
 
----
-
-**#041 Zubat, #042 Golbat, #169 Crobat**
+**#039 Jigglypuff**
 
 ```
-+ Level 1 - Flail (Zubat)
-+ Level 1 - Heat Wave (Crobat)
++ Level 1 - Metronome
++ Level 19 - Perish Song
++ Level 23 - Wish
+```
+
+**#040 Wigglytuff**
+
+```
++ Level 23 - Gravity
++ Level 35 - Magic Coat
++ Level 47 - Heal Bell
+```
+
+**#041 Zubat**
+
+```
++ Level 1 - Flail
 = Level 16 - Wing Attack
 + Level 18 - Hypnosis
-+ Level 22 - Roost (Golbat, Crobat)
-+ Level 49 / 63 / 63 - Nasty Plot
-+ Level 53 / 69 / 69 - Brave Bird
++ Level 22 - Roost
++ Level 49 - Nasty Plot
++ Level 53 - Brave Bird
 ```
 
----
-
-**#043 Oddish, #044 Gloom, #045 Vileplume, #182 Bellossom**
+**#042 Golbat**
 
 ```
-+ Level 1 - Leech Seed (Oddish)
-+ Level 1 - Petal Dance (Bellossom only)
-+ Level 11 - Razor Leaf (Oddish and Gloom only)
-+ Level 19 - Nature Power (Oddish and Gloom only)
-+ Level 21 - Drain Punch (Gloom only)
-+ Level 23 / 26 - Teeter Dance (Oddish and Gloom only)
-+ Level 38 - Earth Power (Vileplume only)
-+ Level 38 - Quiver Dance (Bellossom only)
-+ Level 65 - Earth Power (Bellossom)
+= Level 16 - Wing Attack
++ Level 18 - Hypnosis
++ Level 22 - Roost
++ Level 63 - Nasty Plot
++ Level 69 - Brave Bird
 ```
 
----
+**#169 Crobat**
+
+```
++ Level 1 - Heat Wave
+= Level 16 - Wing Attack
++ Level 18 - Hypnosis
++ Level 22 - Roost
++ Level 63 - Nasty Plot
++ Level 69 - Brave Bird
+```
+
+**#043 Oddish**
+
+```
++ Level 1 - Leech Seed
++ Level 11 - Razor Leaf
++ Level 19 - Nature Power
++ Level 23 - Teeter Dance
+```
+
+**#044 Gloom**
+
+```
++ Level 11 - Razor Leaf
++ Level 19 - Nature Power
++ Level 21 - Drain Punch
++ Level 26 - Teeter Dance
+```
+
+**#045 Vileplume**
+
+```
++ Level 38 - Earth Power
+```
+
+**#182 Bellossom**
+
+```
++ Level 1 - Petal Dance
++ Level 38 - Quiver Dance
++ Level 65 - Earth Power
+```
 
 **#046 Paras**
 
@@ -478,8 +481,6 @@
 + Level 27 - Cross Poison
 ```
 
----
-
 **#047 Parasect**
 
 ```
@@ -489,58 +490,68 @@
 = Level 29 - Cross Poison
 ```
 
----
-
-**#048 Venonat, #049 Venomoth**
+**#048 Venonat**
 
 ```
 = Level 1 - Leech Life
 + Level 17 - Signal Beam
 ```
 
----
-
-**#052 Meowth, #053 Persian**
+**#049 Venomoth**
 
 ```
-+ Level 1 - Icy Wind (Persian)
-+ Level 1 - Water Pulse (Persian)
+= Level 1 - Leech Life
++ Level 17 - Signal Beam
+```
+
+**#052 Meowth,**
+
+```
 + Level 12 - Hypnosis
 + Level 20 - Secret Power
 + Level 28 - Foul Play
 ```
 
----
-
-**#054 Psyduck, #055 Golduck**
+**#052 #053 Persian**
 
 ```
-+ Level 1 - Petal Dance (Psyduck)
-+ Level 1 - Tri Attack (Psyduck)
++ Level 1 - Icy Wind
++ Level 1 - Water Pulse
++ Level 12 - Hypnosis
++ Level 20 - Secret Power
++ Level 28 - Foul Play
+```
+
+**#054 Psyduck**
+
+```
++ Level 1 - Petal Dance
++ Level 1 - Tri Attack
 + Level 12 - Hypnosis
 + Level 25 - Psybeam
-+ Level 33 - Cross Chop (Golduck only)
 ```
 
----
+**#055 Golduck**
+
+```
++ Level 12 - Hypnosis
++ Level 25 - Psybeam
++ Level 33 - Cross Chop
+```
 
 **#057 Primeape**
 
 ```
 + Level 28 - Fire Punch
-+ Level 28 - ThunderPunch
++ Level 28 - Thunder Punch
 + Level 28 - Ice Punch
 ```
-
----
 
 **#058 Growlithe**
 
 ```
 + Level 11 - Double Kick
 ```
-
----
 
 **#059 Arcanine**
 
@@ -552,19 +563,21 @@
 + Level 56 - Flare Blitz
 ```
 
----
-
-**#060 Poliwag, #061 Poliwhirl**
+**#060 Poliwag**
 
 ```
-+ Level 1 - Growth (Poliwag)
-+ Level 1 - Sweet Kiss (Poliwag)
-+ Level 1 - Lovely Kiss (Poliwag)
++ Level 1 - Growth
++ Level 1 - Sweet Kiss
++ Level 1 - Lovely Kiss
 + Level 13 - Mud Shot
-+ Level 25 - Metronome (Poliwhirl)
 ```
 
----
+**#061 Poliwhirl**
+
+```
++ Level 13 - Mud Shot
++ Level 25 - Metronome
+```
 
 **#062 Poliwrath**
 
@@ -575,56 +588,74 @@
 + Level 60 - Close Combat
 ```
 
----
-
-**#063 Abra, #064 Kadabra, #065 Alakazam**
+**#063 Abra**
 
 ```
-+ Level 1 - Foresight (Abra)
-+ Level 1 - Metronome (Abra)
-+ Level 1 - Gravity (Alakazam)
-+ Level 20 - Shock Wave (Kadabra, Alakazam)
-+ Level 32 - Gravity (Kadabra, Alakazam)
-+ Level 56 - Aura Sphere (Alakazam only)
++ Level 1 - Foresight
++ Level 1 - Metronome
 ```
 
----
-
-**#066 Machop, #067 Machoke**
+**#064 Kadabra**
 
 ```
-+ Level 1 - Thrash (Machop)
++ Level 20 - Shock Wave
++ Level 32 - Gravity
+```
+
+**#065 Alakazam**
+
+```
++ Level 1 - Gravity
++ Level 20 - Shock Wave
++ Level 32 - Gravity
++ Level 56 - Aura Sphere
+```
+
+**#066 Machop**
+
+```
++ Level 1 - Thrash
 + Level 16 - Metronome
-+ Level 52 / 59 - Close Combat
++ Level 52 - Close Combat
 ```
 
----
+**#067 Machoke**
+
+```
++ Level 16 - Metronome
++ Level 59 - Close Combat
+```
 
 **#068 Machamp**
 
 ```
 + Level 1 - Fire Punch
-+ Level 1 - ThunderPunch
++ Level 1 - Thunder Punch
 + Level 1 - Ice Punch
 + Level 1 - Bullet Punch
 + Level 16 - Metronome
 + Level 59 - Close Combat
 ```
 
----
-
-**#069 Bellsprout, #070 Weepinbell**
+**#069 Bellsprout**
 
 ```
-+ Level 3 - Sweet Kiss (Bellsprout)
-+ Level 5 - Lovely Kiss (Bellsprout)
++ Level 3 - Sweet Kiss
++ Level 5 - Lovely Kiss
 + Level 9 - Leech Life
 + Level 19 - Razor Leaf
 + Level 21 - Clear Smog
 + Level 51 - Power Whip
 ```
 
----
+**#070 Weepinbell**
+
+```
++ Level 9 - Leech Life
++ Level 19 - Razor Leaf
++ Level 21 - Clear Smog
++ Level 51 - Power Whip
+```
 
 **#071 Victreebel**
 
@@ -634,61 +665,100 @@
 + Level 37 - Crunch
 ```
 
----
-
-**#072 Tentacool, #073 Tentacruel**
+**#072 Tentacool**
 
 ```
-+ Level 1 - Confuse Ray (Tentacool)
-+ Level 59 / 66 - Acupressure
++ Level 1 - Confuse Ray
++ Level 59 - Acupressure
 ```
 
----
-
-**#074 Geodude, #075 Graveler, #076 Golem**
+**#073 Tentacruel**
 
 ```
-+ Level 1 - Rapid Spin (Geodude)
-+ Level 1 - Fire Punch (Golem only)
-+ Level 1 - ThunderPunch (Golem only)
-= Level 18 - Bulldoze (Golem)
-= Level 36 - Steamroller (Golem only)
-+ Level 53 / 70 / 70 - Hammer Arm
++ Level 66 - Acupressure
 ```
 
----
+**#074 Geodude**
 
-**#077 Ponyta, #078 Rapidash**
+```
++ Level 1 - Rapid Spin
+```
+
+**#075 Graveler**
+
+```
++ Level 1 - Rapid Spin
+```
+
+**#076 Golem**
+
+```
++ Level 1 - Rapid Spin
++ Level 1 - Fire Punch
++ Level 1 - Thunder Punch
+= Level 18 - Bulldoze
+= Level 36 - Steamroller
++ Level 70 - Hammer Arm
+```
+
+**#077 Ponyta**
 
 ```
 + Level 1 - Baton Pass
-+ Level 1 - Morning Sun (Rapidash only)
 + Level 23 - Double Kick
 + Level 27 - Low Kick
 + Level 35 - Hypnosis
-+ Level 53 - Horn Drill (Rapidash only)
 ```
 
----
+**#078 Rapidash**
 
-**#079 Slowpoke, #080 Slowbro, #199 Slowking**
+```
++ Level 1 - Baton Pass
++ Level 1 - Morning Sun
++ Level 23 - Double Kick
++ Level 27 - Low Kick
++ Level 35 - Hypnosis
++ Level 53 - Horn Drill
+```
+
+**#079 Slowpoke**
 
 ```
 + Level 21 - Brine
-+ Level 62 - Aura Sphere (Slowking only)
 ```
 
----
-
-**#081 Magnemite, #082 Magneton, #462 Magnezone**
+**#080 Slowbro**
 
 ```
-+ Level 1 - Agility (Magnemite)
++ Level 21 - Brine
+```
+
+**#199 Slowking**
+
+```
++ Level 21 - Brine
++ Level 62 - Aura Sphere
+```
+
+**#081 Magnemite**
+
+```
++ Level 1 - Agility
 + Level 25 - Signal Beam
-= Level 30 - Tri Attack (Magneton only)
 ```
 
----
+**#082 Magneton**
+
+```
++ Level 25 - Signal Beam
+= Level 30 - Tri Attack
+```
+
+**#462 Magnezone**
+
+```
++ Level 25 - Signal Beam
+```
 
 **#083 Farfetch'd**
 
@@ -699,27 +769,34 @@
 + Level 52 - Close Combat
 ```
 
----
-
-**#084 Doduo, #085 Dodrio**
+**#084 Doduo**
 
 ```
-+ Level 1 - Low Kick (Doduo)
-+ Level 31 - Drill Run (Dodrio only)
-+ Level 54 / 66 - Brave Bird
++ Level 1 - Low Kick
++ Level 54 - Brave Bird
 ```
 
----
-
-**#088 Grimer, #089 Muk**
+**#085 Dodrio**
 
 ```
-+ Level 1 - Curse (Muk only)
++ Level 31 - Drill Run
++ Level 66 - Brave Bird
+```
+
+**#088 Grimer**
+
+```
 + Level 15 - Shadow Sneak
 + Level 25 - Shadow Punch
 ```
 
----
+**#089 Muk**
+
+```
++ Level 1 - Curse
++ Level 15 - Shadow Sneak
++ Level 25 - Shadow Punch
+```
 
 **#090 Shellder**
 
@@ -727,8 +804,6 @@
 = Level 7 - Supersonic
 + Level 10 - BubbleBeam
 ```
-
----
 
 **#091 Cloyster**
 
@@ -738,55 +813,85 @@
 + Level 71 - Hydro Pump
 ```
 
----
-
-**#092 Gastly, #093 Haunter, #094 Gengar**
+**#092 Gastly**
 
 ```
-+ Level 1 - Metronome (Gengar)
 + Level 17 - Ominous Wind
 + Level 24 - Clear Smog
-+ Level 31 / 36 / 36 - Icy Wind
-+ Level 68 - Aura Sphere (Gengar only)
++ Level 31 - Icy Wind
 ```
 
----
+**#093 Haunter**
 
-**#095 Onix, #208 Steelix**
+```
++ Level 17 - Ominous Wind
++ Level 24 - Clear Smog
++ Level 36 - Icy Wind
+```
+
+**#094 Gengar**
+
+```
++ Level 1 - Metronome
++ Level 17 - Ominous Wind
++ Level 24 - Clear Smog
++ Level 36 - Icy Wind
++ Level 68 - Aura Sphere
+```
+
+**#095 Onix**
 
 ```
 + Level 3 - Coil
 ```
 
----
-
-**#096 Drowzee, #097 Hypno**
+**#208 Steelix**
 
 ```
-+ Level 1 - Amnesia (Drowzee)
++ Level 3 - Coil
+```
+
+**#096 Drowzee**
+
+```
++ Level 1 - Amnesia
 = Level 13 - Dream Eater
 + Level 19 - Drain Punch
 + Level 41 - Psycho Cut
 ```
 
----
-
-**#098 Krabby, #099 Kingler**
+**#097 Hypno**
 
 ```
-+ Level 49 / 70 - Superpower
+= Level 13 - Dream Eater
++ Level 19 - Drain Punch
++ Level 41 - Psycho Cut
 ```
 
----
-
-**#100 Voltorb, #101 Electrode**
+**#098 Krabby**
 
 ```
-+ Level 1 - Agility (Voltorb)
++ Level 49 - Superpower
+```
+
+**#099 Kingler**
+
+```
++ Level 70 - Superpower
+```
+
+**#100 Voltorb**
+
+```
++ Level 1 - Agility
 + Level 24 - Signal Beam
 ```
 
----
+**#101 Electrode**
+
+```
++ Level 24 - Signal Beam
+```
 
 **#102 Exeggcute**
 
@@ -797,8 +902,6 @@
 + Level 27 - Giga Drain
 ```
 
----
-
 **#103 Exeggutor**
 
 ```
@@ -806,19 +909,22 @@
 + Level 1 - Low Kick
 ```
 
----
-
-**#104 Cubone, #105 Marowak**
+**#104 Cubone**
 
 ```
-+ Level 1 - Sing (Marowak only)
-+ Level 1 - Fire Punch (Marowak only)
-+ Level 1 - ThunderPunch (Marowak only)
-+ Level 51 / 64 - Belly Drum
-+ Level 55 / 70 - Perish Song
++ Level 51 - Belly Drum
++ Level 55 - Perish Song
 ```
 
----
+**#105 Marowak**
+
+```
++ Level 1 - Sing
++ Level 1 - Fire Punch
++ Level 1 - Thunder Punch
++ Level 64 - Belly Drum
++ Level 70 - Perish Song
+```
 
 **#106 Hitmonlee**
 
@@ -826,117 +932,171 @@
 + Level 65 - Bounce
 ```
 
----
-
 **#107 Hitmonchan**
 
 ```
 + Level 36 - Drain Punch
 ```
 
----
-
-**#108 Lickitung, #463 Lickilicky**
+**#108 Lickitung**
 
 ```
-+ Level 61 / 65 - Belly Drum
-+ Level 65 / 69 - Hammer Arm
++ Level 61 - Belly Drum
++ Level 65 - Hammer Arm
 ```
 
----
-
-**#109 Koffing, #110 Weezing**
+**#463 Lickilicky**
 
 ```
-+ Level 59 / 71 - Pain Split
-+ Level 63 / 77 - Destiny Bond
-+ Level 67 / 83 - Gunk Shot
++ Level 65 - Belly Drum
++ Level 69 - Hammer Arm
 ```
 
----
-
-**#111 Rhyhorn, #112 Rhydon, #464 Rhyperior**
+**#109 Koffing**
 
 ```
-+ Level 1 - Fire Fang (Rhyperior only)
-+ Level 1 - Thunder Fang (Rhyperior only)
-+ Level 1 - Ice Fang (Rhyperior only)
-+ Level 1 - Superpower (Rhydon and Rhyperior only)
++ Level 59 - Pain Split
++ Level 63 - Destiny Bond
++ Level 67 - Gunk Shot
+```
+
+**#110 Weezing**
+
+```
++ Level 71 - Pain Split
++ Level 77 - Destiny Bond
++ Level 83 - Gunk Shot
+```
+
+**#111 Rhyhorn**
+
+```
 + Level 27 - Crunch
-+ Level 49 / 52 / 52 - Dragon Rush
-+ Level 73 / 85 / 85 – Double-Edge
++ Level 49 - Dragon Rush
++ Level 73 - Double-Edge
 ```
 
----
-
-**#440 Happiny, #113 Chansey, #242 Blissey**
+**#112 Rhydon**
 
 ```
-+ Level 1 - Sweet Scent (Chansey)
-+ Level 1 - Wish (Happiny)
-+ Level 1 - Seismic Toss (Happiny)
-+ Level 16 - Last Resort (Happiny only)
-+ Level 25 - Counter (Chansey and Blissey only)
-+ Level 29 - Aromatherapy (Chansey and Blissey only)
-+ Level 58 - Gravity (Chansey and Blissey only)
++ Level 1 - Superpower
++ Level 27 - Crunch
++ Level 52 - Dragon Rush
++ Level 85 - Double-Edge
 ```
 
----
-
-**#114 Tangela, #465 Tangrowth**
+**#464 Rhyperior**
 
 ```
-+ Level 1 - Synthesis (Tangela)
++ Level 1 - Fire Fang
++ Level 1 - Thunder Fang
++ Level 1 - Ice Fang
++ Level 1 - Superpower
++ Level 27 - Crunch
++ Level 52 - Dragon Rush
++ Level 85 - Double-Edge
+```
+
+**#440 Happiny**
+
+```
++ Level 1 - Wish
++ Level 1 - Seismic Toss
++ Level 16 - Last Resort
+```
+
+**#113 Chansey**
+
+```
++ Level 1 - Sweet Scent
++ Level 25 - Counter
++ Level 29 - Aromatherapy
++ Level 58 - Gravity
+```
+
+**#242 Blissey**
+
+```
++ Level 25 - Counter
++ Level 29 - Aromatherapy
++ Level 58 - Gravity
+```
+
+**#114 Tangela**
+
+```
++ Level 1 - Synthesis
 + Level 17 - Nature Power
 + Level 31 - Giga Drain
-+ Level 60 - Leaf Storm (Tangrowth only)
 ```
 
----
+**#465 Tangrowth**
+
+```
++ Level 1 - Synthesis
++ Level 17 - Nature Power
++ Level 31 - Giga Drain
++ Level 60 - Leaf Storm
+```
 
 **#115 Kangaskhan**
 
 ```
 + Level 1 - Fire Punch
-+ Level 1 - ThunderPunch
++ Level 1 - Thunder Punch
 + Level 1 - Ice Punch
 + Level 1 - Faint Attack
 + Level 40 - Drain Punch
 + Level 61 - Double-Edge
 ```
 
----
-
-**#116 Horsea, #117 Seadra, #230 Kingdra**
+**#116 Horsea**
 
 ```
-+ Level 1 - Haze (Horsea)
++ Level 1 - Haze
 + Level 1 - Dragon Rage
 + Level 21 - Octazooka
 + Level 32 - DragonBreath
-+ Level 65 - Outrage (Kingdra only)
 ```
 
----
-
-**#118 Goldeen, #119 Seaking**
+**#117 Seadra**
 
 ```
-+ Level 1 - Swords Dance (Goldeen)
-+ Level 1 - Aqua Tail (Seaking only)
-+ Level 33 - Body Slam (Seaking only)
-+ Level 64 / 81 - Bounce
++ Level 1 - Dragon Rage
++ Level 21 - Octazooka
++ Level 32 - DragonBreath
 ```
 
----
+**#230 Kingdra**
+
+```
++ Level 1 - Dragon Rage
++ Level 21 - Octazooka
++ Level 32 - DragonBreath
++ Level 65 - Outrage
+```
+
+**#118 Goldeen**
+
+```
++ Level 1 - Swords Dance
++ Level 64 - Bounce
+```
+
+**#119 Seaking**
+
+```
++ Level 1 - Aqua Tail
++ Level 1 - Swords Dance
++ Level 33 - Body Slam
++ Level 81 - Bounce
+```
 
 **#120 Staryu**
 
 ```
 + Level 22 - Signal Beam
 ```
-
----
 
 **#121 Starmie**
 
@@ -946,69 +1106,95 @@
 + Level 64 - Aura Sphere
 ```
 
----
-
-**#439 Mime Jr., #122 Mr. Mime**
+**#439 Mime Jr.**
 
 ```
-+ Level 13 - Hypnosis (Mime Jr. only)
-+ Level 27 - Nasty Plot (Mime Jr. only)
++ Level 13 - Hypnosis
++ Level 27 - Nasty Plot
 ```
 
----
-
-**#123 Scyther, #212 Scizor**
+**#123 Scyther**
 
 ```
-+ Level 1 - Crabhammer (Scizor)
-+ Level 1 - SonicBoom (Scyther)
++ Level 1 - SonicBoom
 + Level 1 - Night Slash
 + Level 65 - Bug Bite
 ```
 
----
+**#212 Scizor**
 
-**#238 Smoochum, #124 Jynx**
+```
++ Level 1 - Crabhammer
++ Level 1 - Night Slash
++ Level 65 - Bug Bite
+```
+
+**#238 Smoochum**
 
 ```
 + Level 1 - Petal Dance
-+ Level 1 - Wish (Jynx only)
-+ Level 1 - Water Pulse (Jynx only)
-+ Level 30 - Metronome (Smoochum)
-+ Level 51 / 65 - Nasty Plot
-+ Level 71 - Psycho Boost (Jynx only)
++ Level 30 - Metronome
++ Level 51 - Nasty Plot
 ```
 
----
-
-**#239 Elekid, #125 Electabuzz, #466 Electivire**
+**#124 Jynx**
 
 ```
-+ Level 1 - Dizzy Punch (Elekid)
-+ Level 1 - Ice Punch (Electivire only)
-+ Level 30 - Pursuit (Elekid)
-+ Level 30 – Zap Cannon (Electabuzz)
-- Level 32 - Circle Throw (Electivire only)
-+ Level 38 / 41 / 41 - Cross Chop
-- Level 50 - Close Combat (Electivire only)
-- Level 62 - Volt Tackle (Electivire only)
++ Level 1 - Petal Dance
++ Level 1 - Wish
++ Level 1 - Water Pulse
++ Level 65 - Nasty Plot
++ Level 71 - Psycho Boost
 ```
 
----
-
-**#240 Magby, #126 Magmar, #467 Magmortar**
+**#239 Elekid**
 
 ```
-+ Level 1 - Nasty Plot (Magmortar only)
-+ Level 30 - Faint Attack (Magby)
-+ Level 30 – Heat Wave (Magmar)
-- Level 32 - Flare Blitz (Magmortar only)
-+ Level 36 / 41 / 41 - Cross Chop
-- Level 50 - Aura Sphere (Magmortar only)
-- Level 62 - Magma Storm (Magmortar only)
++ Level 1 - Dizzy Punch
++ Level 30 - Pursuit
++ Level 38 - Cross Chop
 ```
 
----
+**#125 Electabuzz**
+
+```
++ Level 30 - Zap Cannon
++ Level 41 - Cross Chop
+```
+
+**#466 Electivire**
+
+```
++ Level 1 - Ice Punch
+- Level 32 - Circle Throw
++ Level 41 - Cross Chop
+- Level 50 - Close Combat
+- Level 62 - Volt Tackle
+```
+
+**#240 Magby**
+
+```
++ Level 30 - Faint Attack
++ Level 36 - Cross Chop
+```
+
+**#126 Magmar**
+
+```
++ Level 30 - Heat Wave
++ Level 41 - Cross Chop
+```
+
+**#467 Magmortar**
+
+```
++ Level 1 - Nasty Plot
+- Level 32 - Flare Blitz
++ Level 41 - Cross Chop
+- Level 50 - Aura Sphere
+- Level 62 - Magma Storm
+```
 
 **#127 Pinsir**
 
@@ -1019,8 +1205,6 @@
 + Level 67 - Wood Horn
 ```
 
----
-
 **#128 Tauros**
 
 ```
@@ -1030,19 +1214,20 @@
 = Level 81 - Giga Impact
 ```
 
----
-
-**#129 Magikarp, #130 Gyarados**
+**#129 Magikarp**
 
 ```
-+ Level 1 - Bubble (Magikarp)
-+ Level 1 - Bounce (Magikarp only)
-+ Level 1 - Reversal (Magikarp)
-+ Level 50 - Crunch (Gyarados)
-+ Level 53 - Outrage (Gyarados only)
++ Level 1 - Bubble
++ Level 1 - Bounce
++ Level 1 - Reversal
 ```
 
----
+**#130 Gyarados**
+
+```
++ Level 50 - Crunch
++ Level 53 - Outrage
+```
 
 **#131 Lapras**
 
@@ -1056,54 +1241,195 @@
 + Level 69 - Shell Smash
 ```
 
----
-
-**#133 Eevee, #134 Vaporeon, #135 Jolteon, #136 Flareon, #196 Espeon, #197 Umbreon, #470 Leafeon, #471 Glaceon**
+**#133 Eevee**
 
 ```
-The level structure of Eevee and its evolutions has been completely redone. The levels are listed below, and moves are in the order as the evolutions are listed above.
-Level 1 - Tail Whip (Same for all eight.)
-Level 1 - Tackle (Same for all eight.)
-Level 1 - Helping Hand (Same for all eight.)
-+ Level 1 - Growth (Same for all eight.)
-Level 8 - Sand-Attack (Same for all eight.)
-Level 13 - Growl / Water Gun / Thundershock / Ember / Confusion / Pursuit / Razor Leaf / Icy Wind
-Level 18 - Quick Attack (Same for all eight.)
-Level 23 - Bite / Bite / Double Kick / Bite / Swift / Confuse Ray / Synthesis / Bite
-+ Level 28 - Yawn / Water Pulse / Shock Wave / Flame Wheel / Power Gem / Tickle / Aromatherapy / Aurora Beam
-Level 33 - Baton Pass / Aurora Beam / Pin Missile / Fire Spin / Psybeam / Faint Attack / Magical Leaf / Ice Shard
-Level 38 - Take Down / Aqua Ring / Thunder Fang / Fire Fang / Future Sight / Assurance / Giga Drain / Ice Fang
-+ Level 43 - Wish / Scald / Electro Ball / Superpower / Fake Tears / Foul Play /  Dragon Rush / Earth Power
-Level 48 - Last Resort (Same for all eight.)
-Level 53 - Trump Card / Haze / Thunder Wave / Smog / Psych Up / Mean Look / Grasswhistle / Mirror Coat
-Level 58 - Nothing / Acid Armor / Agility / Scary Face / Psychic / Screech / Sunny Day / Hail
-Level 63 - Nothing / Hydro Pump / Thunder / Fire Blast / Morning Sun / Moonlight / Leaf Blade / Blizzard
-Level 68 - Nothing / Muddy Water / Discharge / Lava Plume / Power Swap / Guard Swap / Swords Dance / Barrier
-+ Level 73 - Nothing / Heal Bell / Volt Tackle / Flare Blitz / Aura Sphere / Power Trick / Wood Hammer / Sheer Cold
++ Level 1 - Growth
+= Level 13 - Growl
+= Level 18 - Quick Attack
+= Level 23 - Bite
++ Level 28 - Yawn
+= Level 33 - Baton Pass
+= Level 38 - Take Down
++ Level 43 - Wish
+= Level 48 - Last Resort
+= Level 53 - Trump Card
+= Level 58 - Nothing
+= Level 63 - Nothing
+= Level 68 - Nothing
++ Level 73 - Nothing
 ```
 
----
+**#134 Vaporeon**
 
-**#137 Porygon, #233 Porygon2, #474 Porygon-Z**
+```
++ Level 1 - Growth
+= Level 13 - Water Gun
+= Level 18 - Quick Attack
+= Level 23 - Bite
++ Level 28 - Water Pulse
+= Level 33 - Aurora Beam
+= Level 38 - Aqua Ring
++ Level 43 - Scald
+= Level 48 - Last Resort
+= Level 53 - Haze
+= Level 58 - Acid Armor
+= Level 63 - Hydro Pump
+= Level 68 - Muddy Water
++ Level 73 - Heal Bell
+```
+
+**#135 Jolteon**
+
+```
++ Level 1 - Growth
+= Level 13 - Thundershock
+= Level 18 - Quick Attack
+= Level 23 - Bite
++ Level 28 - Shock Wave
+= Level 33 - Pin Missile
+= Level 38 - Thunder Fang
++ Level 43 - Electro Ball
+= Level 48 - Last Resort
+= Level 53 - Thunder Wave
+= Level 58 - Agility
+= Level 63 - Thunder
+= Level 68 - Discharge
++ Level 73 - Volt Tackle
+```
+
+**#136 Flareon**
+
+```
++ Level 1 - Growth
+= Level 13 - Ember
+= Level 18 - Quick Attack
+= Level 23 - Double Kick
++ Level 28 - Flame Wheel
+= Level 33 - Fire Spin
+= Level 38 - Fire Fang
++ Level 43 - Superpower
+= Level 48 - Last Resort
+= Level 53 - Smog
+= Level 58 - Scary Face
+= Level 63 - Fire Blast
+= Level 68 - Lava Plume
++ Level 73 - Flare Blitz
+```
+
+**#196 Espeon**
+
+```
++ Level 1 - Growth
+= Level 13 - Confusion
+= Level 18 - Quick Attack
+= Level 23 - Bite
++ Level 28 - Power Gem
+= Level 33 - Psybeam
+= Level 38 - Future Sight
++ Level 43 - Fake Tears
+= Level 48 - Last Resort
+= Level 53 - Psych Up
+= Level 58 - Psychic
+= Level 63 - Morning Sun
+= Level 68 - Power Swap
++ Level 73 - Aura Sphere
+```
+
+**#197 Umbreon**
+
+```
++ Level 1 - Growth
+= Level 13 - Pursuit
+= Level 18 - Quick Attack
+= Level 23 - Bite
++ Level 28 - Tickle
+= Level 33 - Faint Attack
+= Level 38 - Assurance
++ Level 43 - Foul Play
+= Level 48 - Last Resort
+= Level 53 - Mean Look
+= Level 58 - Screech
+= Level 63 - Moonlight
+= Level 68 - Guard Swap
++ Level 73 - Power Trick
+```
+
+**#470 Leafeon**
+
+```
++ Level 1 - Growth
+= Level 13 - Razor Leaf
+= Level 18 - Quick Attack
+= Level 23 - Synthesis
++ Level 28 - Aromatherapy
+= Level 33 - Magical Leaf
+= Level 38 - Giga Drain
++ Level 43 - Dragon Rush
+= Level 48 - Last Resort
+= Level 53 - Grass Whistle
+= Level 58 - Sunny Day
+= Level 63 - Leaf Blade
+= Level 68 - Swords Dance
++ Level 73 - Wood Hammer
+```
+
+**#471 Glaceon**
+
+```
++ Level 1 - Growth
+= Level 13 - Icy Wind
+= Level 18 - Quick Attack
+= Level 23 - Bite
++ Level 28 - Aurora Beam
+= Level 33 - Ice Shard
+= Level 38 - Ice Fang
++ Level 43 - Earth Power
+= Level 48 - Last Resort
+= Level 53 - Mirror Coat
+= Level 58 - Hail
+= Level 63 - Blizzard
+= Level 68 - Barrier
++ Level 73 - Sheer Cold
+```
+
+**#137 Porygon**
 
 ```
 + Level 1 - Transform
-+ Level 1 - Barrier (Porygon)
-+ Level 1 - Dark Pulse (Porygon-Z)
-+ Level 1 - Pain Split (Porygon-Z)
-+ Level 67 / 72 /72 - Gravity
++ Level 1 - Barrier
++ Level 67 - Gravity
 ```
 
----
+**#233 Porygon2**
 
-**#138 Omanyte, #139 Omastar**
+```
++ Level 1 - Transform
++ Level 72 - Gravity
+```
+
+**#474 Porygon-Z**
+
+```
++ Level 1 - Transform
++ Level 1 - Dark Pulse
++ Level 1 - Pain Split
++ Level 72 - Gravity
+```
+
+**#138 Omanyte**
 
 ```
 + Level 40 - Power Gem
-+ Level 58 / 83 - Earth Power
++ Level 58 - Earth Power
 ```
 
----
+**#139 Omastar**
+
+```
++ Level 40 - Power Gem
++ Level 83 - Earth Power
+```
 
 **#142 Aerodactyl**
 
@@ -1113,280 +1439,448 @@ Level 68 - Nothing / Muddy Water / Discharge / Lava Plume / Power Swap / Guard S
 = Level 97 - Giga Impact
 ```
 
----
-
-**#446 Munchlax, #143 Snorlax**
+**#446 Munchlax**
 
 ```
-+ Level 1 - Sweet Kiss (Munchlax)
-+ Level 1 - Lovely Kiss (Munchlax)
-+ Level 1 - Gunk Shot (Snorlax only)
-+ Level 1 - Seed Bomb (Snorlax only)
++ Level 1 - Sweet Kiss
++ Level 1 - Lovely Kiss
 + Level 62 - Slack Off
 + Level 67 - Double-Edge
 + Level 72 - Selfdestruct
 ```
 
+**#143 Snorlax**
+
+```
++ Level 1 - Gunk Shot
++ Level 1 - Seed Bomb
++ Level 62 - Slack Off
++ Level 67 - Double-Edge
++ Level 72 - Selfdestruct
+```
+
+**#147 Dratini**
+
+```
++ Level 1 - Hydro Pump
++ Level 61 - Dragon Pulse
+= Level 65 - Hyper Beam
+```
+
+**#148 Dragonair**
+
+```
++ Level 1 - Hydro Pump
++ Level 1 - Coil
++ Level 75 - Dragon Pulse
+= Level 81 - Hyper Beam
+```
+
+**#149 Dragonite**
+
+```
++ Level 1 - Hydro Pump
++ Level 1 - Extreme Speed
++ Level 75 - Dragon Pulse
+= Level 89 - Hyper Beam
+```
+
 ---
-
-**#147 Dratini, #148 Dragonair, #149 Dragonite**
-
-```
-+ Level 1 - Hydro Pump (Dratini)
-+ Level 1 - Coil (Dragonair only)
-+ Level 1 - ExtremeSpeed (Dragonite only)
-+ Level 61/75/75 - Dragon Pulse
-= Level 65/81/89 - Hyper Beam
-```
 
 ## Johto Pokémon
 
----
-
-**#152 Chikorita, #153 Bayleef, #154 Meganium**
+**#152 Chikorita**
 
 ```
-+ Level 1 - Grasswhistle (Meganium only)
 + Level 9 - Stun Spore
 + Level 9 - Sleep Powder
 + Level 15 - Nature Power
-+ Level 48 / 58 / 72 - Leaf Storm
++ Level 48 - Leaf Storm
 ```
 
----
-
-**#155 Cyndaquil, #156 Quilava, #157 Typhlosion**
+**#153 Bayleef**
 
 ```
-+ Level 1 - Earth Power (Typhlosion)
-+ Level 1 - ThunderPunch (Typhlosion)
++ Level 9 - Stun Spore
++ Level 9 - Sleep Powder
++ Level 15 - Nature Power
++ Level 58 - Leaf Storm
+```
+
+**#154 Meganium**
+
+```
++ Level 1 - Grass Whistle
++ Level 9 - Stun Spore
++ Level 9 - Sleep Powder
++ Level 15 - Nature Power
++ Level 72 - Leaf Storm
+```
+
+**#155 Cyndaquil**
+
+```
 + Level 16 - Extrasensory
-+ Level 52 / 61 / 65 - Nature Power
++ Level 52 - Nature Power
 ```
 
----
-
-**#158 Totodile, #159 Croconaw, #160 Feraligatr**
+**#156 Quilava**
 
 ```
-+ Level 1 - Submission (Feraligatr)
-+ Level 1 - Ice Punch (Feraligatr)
-+ Level 54 / 64 / 81 - Dragon Dance
++ Level 16 - Extrasensory
++ Level 61 - Nature Power
 ```
 
----
-
-**#161 Sentret, #162 Furret**
+**#157 Typhlosion**
 
 ```
-+ Level 1 - Dizzy Punch (Sentret)
-+ Level 22 / 25 - Super Fang
++ Level 1 - Earth Power
++ Level 1 - Thunder Punch
++ Level 16 - Extrasensory
++ Level 65 - Nature Power
 ```
 
----
-
-**#163 Hoothoot, #164 Noctowl**
+**#158 Totodile**
 
 ```
-+ Level 1 - Night Shade (Hoothoot)
-+ Level 1 - Ominous Wind (Noctowl only)
-+ Level 1 - Silver Wind (Noctowl only)
-+ Level 1 - Heat Wave (Noctowl only)
-+ Level 61 / 72 - Nasty Plot
++ Level 54 - Dragon Dance
 ```
 
----
-
-**#165 Ledyba, #166 Ledian**
+**#159 Croconaw**
 
 ```
-+ Level 18 – Fire Punch (Ledian)
-+ Level 18 – ThunderPunch (Ledian)
-+ Level 18 – Ice Punch (Ledian)
-+ Level 18 – Drain Punch (Ledian)
-+ Level 18 – Dizzy Punch (Ledian)
++ Level 64 - Dragon Dance
 ```
 
----
+**#160 Feraligatr**
 
-**#167 Spinarak, #168 Ariados**
+```
++ Level 1 - Submission
++ Level 1 - Ice Punch
++ Level 81 - Dragon Dance
+```
+
+**#161 Sentret**
+
+```
++ Level 1 - Dizzy Punch
++ Level 22 - Super Fang
+```
+
+**#162 Furret**
+
+```
++ Level 25 - Super Fang
+```
+
+**#163 Hoothoot**
+
+```
++ Level 1 - Night Shade
++ Level 61 - Nasty Plot
+```
+
+**#164 Noctowl**
+
+```
++ Level 1 - Ominous Wind
++ Level 1 - Silver Wind
++ Level 1 - Heat Wave
++ Level 72 - Nasty Plot
+```
+
+**#166 Ledian**
+
+```
++ Level 18 - Fire Punch
++ Level 18 - Thunder Punch
++ Level 18 - Ice Punch
++ Level 18 - Drain Punch
++ Level 18 - Dizzy Punch
+```
+
+**#167 Spinarak**
 
 ```
 + Level 12 - Bug Bite
 + Level 17 - Electroweb
 ```
 
----
-
-**#170 Chinchou, #171 Lanturn**
+**#168 Ariados**
 
 ```
-+ Level 1 - Light Screen (Chinchou)
++ Level 12 - Bug Bite
++ Level 17 - Electroweb
 ```
 
----
-
-**#175 Togepi, #176 Togetic, #468 Togekiss**
+**#170 Chinchou**
 
 ```
-+ Level 1 - Extrasensory (Togepi and Togetic only)
-+ Level 15 - Tri Attack (Togepi and Togetic only)
-+ Level 27 - Stored Power (Togepi and Togetic only)
-+ Level 31 - Softboiled (Togepi and Togetic only)
-+ Level 1 - Heat Wave (Togekiss only)
-+ Level 1 - Roost (Togekiss only)
-+ Level 50 – Nasty Plot (Togekiss only)
++ Level 1 - Light Screen
 ```
 
----
-
-**#177 Natu, #178 Xatu**
+**#175 Togepi**
 
 ```
-+ Level 1 - Safeguard (Natu)
++ Level 1 - Extrasensory
++ Level 15 - Tri Attack
++ Level 27 - Stored Power
++ Level 31 - Softboiled
+```
+
+**#176 Togetic**
+
+```
++ Level 1 - Extrasensory
++ Level 15 - Tri Attack
++ Level 27 - Stored Power
++ Level 31 - Softboiled
+```
+
+**#468 Togekiss**
+
+```
++ Level 1 - Heat Wave
++ Level 1 - Roost
++ Level 50 - Nasty Plot
+```
+
+**#177 Natu**
+
+```
++ Level 1 - Safeguard
 - Level 1 - Air Cutter
 + Level 14 - Confusion
-+ Level 30 / 33 - Psycho Cut
-+ Level 42 / 51 - Air Slash
++ Level 30 - Psycho Cut
++ Level 42 - Air Slash
 ```
 
----
-
-**#179 Mareep, #180 Flaaffy, #181 Ampharos**
+**#178 Xatu**
 
 ```
-+ Level 1 - Tail Glow (Ampharos only)
-+ Level 1 - Dragon Pulse (Ampharos)
+- Level 1 - Air Cutter
++ Level 14 - Confusion
++ Level 33 - Psycho Cut
++ Level 51 - Air Slash
+```
+
+**#179 Mareep**
+
+```
 + Level 1 - Charge
-+ Level 16 / 17 / 17 - Shock Wave
-+ Level 60 / 71 / 87 - Zap Cannon
++ Level 16 - Shock Wave
++ Level 60 - Zap Cannon
 ```
 
----
-
-**#298 Azurill, #183 Marill, #184 Azumarill**
+**#180 Flaaffy**
 
 ```
-+ Level 1 - Dizzy Punch (Marill)
-+ Level 21 - Sing (Azurill only)
-+ Level 21 / 24 - Aqua Jet (Marill and Azumarill only)
-+ Level 25 / 30 - Ice Punch (Marill and Azumarill only)
-+ Level 47 / 61 - Superpower (Marill and Azumarill only)
++ Level 1 - Charge
++ Level 17 - Shock Wave
++ Level 71 - Zap Cannon
 ```
 
----
+**#181 Ampharos**
+
+```
++ Level 1 - Tail Glow
++ Level 1 - Dragon Pulse
++ Level 1 - Charge
++ Level 17 - Shock Wave
++ Level 87 - Zap Cannon
+```
+
+**#298 Azurill**
+
+```
++ Level 21 - Sing
+```
+
+**#183 Marill**
+
+```
++ Level 1 - Dizzy Punch
++ Level 21 - Aqua Jet
++ Level 25 - Ice Punch
++ Level 47 - Superpower
+```
+
+**#184 Azumarill**
+
+```
++ Level 21 - Aqua Jet
++ Level 30 - Ice Punch
++ Level 61 - Superpower
+```
 
 **#185 Sudowoodo**
 
 ```
 + Level 1 - Fire Punch
-+ Level 1 - ThunderPunch
++ Level 1 - Thunder Punch
 + Level 1 - Ice Punch
 + Level 53 - Selfdestruct
 ```
 
----
-
-**#187 Hoppip, #188 Skiploom, #189 Jumpluff**
+**#187 Hoppip**
 
 ```
-+ Level 1 - Agility (Hoppip)
-+ Level 52 / 64 / 74 - Cotton Guard
-+ Level 79 - Aromatherapy (Jumpluff only)
++ Level 1 - Agility
++ Level 52 - Cotton Guard
 ```
 
----
-
-**#190 Aipom, #424 Ambipom**
+**#188 Skiploom**
 
 ```
-+ Level 1 - Fire Punch (Ambipom only)
-+ Level 1 - ThunderPunch (Ambipom only)
-+ Level 1 - Ice Punch (Ambipom only)
++ Level 64 - Cotton Guard
+```
+
+**#189 Jumpluff**
+
+```
++ Level 74 - Cotton Guard
++ Level 79 - Aromatherapy
+```
+
+**#190 Aipom**
+
+```
 + Level 47 - Fake Out
 ```
 
----
-
-**#191 Sunkern, #192 Sunflora**
+**#424 Ambipom**
 
 ```
-Now in a sequence of +3 rather than +4.
-+ Nature Power between Endeavor/Bullet Seed and Worry Seed, Level 20 (Sunkern, Sunflora)
-+ Earth Power between Synthesis/Petal Dance and Sunny Day, Level 32 (Sunkern, Sunflora)
-+ Morning Sun between Sunny Day and Giga Drain, Level 38 (Sunkern)
-+ Fiery Dance between Sunny Day and SolarBeam, Level 38 (Sunflora)
++ Level 1 - Fire Punch
++ Level 1 - Thunder Punch
++ Level 1 - Ice Punch
++ Level 47 - Fake Out
 ```
 
----
-
-**#193 Yanma, #469 Yanmega**
+**#191 Sunkern**
 
 ```
-+ Level 1 - Steel Wing (Yanma)
+= Level 4 - Mega Drain
+= Level 7 - Ingrain
+= Level 10 - Grass Whistle
+= Level 13 - Leech Seed
+= Level 16 - Endeavor
+= Level 19 - Worry Seed
++ Level 20 - Nature Power
+= Level 22 - Razor Leaf
+= Level 25 - Synthesis
+= Level 28 - Sunny Day
+= Level 31 - Giga Drain
++ Level 32 - Earth Power
+= Level 34 - Seed Bomb
++ Level 38 - Morning Sun
+```
+
+**#192 Sunflora**
+
+```
+= Level 4 - Mega Drain
+= Level 7 - Ingrain
+= Level 10 - Grass Whistle
+= Level 13 - Leech Seed
+= Level 16 - Bullet Seed
+= Level 19 - Worry Seed
++ Level 20 - Nature Power
+= Level 22 - Razor Leaf
+= Level 25 - Petal Dance
+= Level 28 - Sunny Day
+= Level 31 - Solar Beam
++ Level 32 - Earth Power
+= Level 34 - Leaf Storm
++ Level 38 - Fiery Dance
+```
+
+**#193 Yanma**
+
+```
++ Level 1 - Steel Wing
 + Level 20 - Air Cutter
 + Level 25 - Signal Beam
 + Level 36 - Giga Drain
 ```
 
----
-
-**#194 Wooper, #195 Quagsire**
+**#469 Yanmega**
 
 ```
-+ Level 1 - Belly Drum (Wooper)
-+ Level 1 - Body Slam (Quagsire only)
++ Level 20 - Air Cutter
++ Level 25 - Signal Beam
++ Level 36 - Giga Drain
+```
+
+**#194 Wooper**
+
+```
++ Level 1 - Belly Drum
 + Level 12 - Acid Spray
-+ Level 26 / 28 - Aqua Tail
-+ Level 51 / 58 - Recover
++ Level 26 - Aqua Tail
++ Level 51 - Recover
 ```
 
----
-
-**#198 Murkrow, #430 Honchkrow**
+**#195 Quagsire**
 
 ```
-+ Level 1 - Beat Up (Murkrow)
-+ Level 1 - Heat Wave (Honchkrow only)
++ Level 1 - Body Slam
++ Level 12 - Acid Spray
++ Level 28 - Aqua Tail
++ Level 58 - Recover
+```
+
+**#198 Murkrow**
+
+```
++ Level 1 - Beat Up
 + Level 35 - Drill Peck
-+ Level 71 / 85 - Brave Bird
++ Level 71 - Brave Bird
 ```
 
----
-
-**#200 Misdreavus, #429 Mismagius**
+**#430 Honchkrow**
 
 ```
-+ Level 1 - Inferno (Mismagius)
-+ Level 25 - Wonder Room (Mismagius)
-+ Level 35 - Icy Wind (Mismagius)
-+ Level 60 / 45 - Nasty Plot
-+ Level 64 / 55 - Hypnosis
-+ Level 69 / 65 - Destiny Bond
++ Level 1 - Heat Wave
++ Level 35 - Drill Peck
++ Level 85 - Brave Bird
 ```
 
----
+**#200 Misdreavus**
+
+```
++ Level 60 - Nasty Plot
++ Level 64 - Hypnosis
++ Level 69 - Destiny Bond
+```
+
+**#429 Mismagius**
+
+```
++ Level 1 - Inferno
++ Level 25 - Wonder Room
++ Level 35 - Icy Wind
++ Level 45 - Nasty Plot
++ Level 55 - Hypnosis
++ Level 65 - Destiny Bond
+```
 
 **#201 Unown**
 
 ```
 + Level 11 - Secret Power
 + Level 21 - Nature Power
-+ Level 31 - AncientPower
++ Level 31 - Ancient Power
 + Level 41 - Cosmic Power
 + Level 51 - Earth Power
 + Level 61 - Stored Power
 ```
 
----
-
-**#360 Wynaut, #202 Wobbuffet**
+**#202 Wobbuffet**
 
 ```
-+ Level 15 - Mimic (Wobbuffet)
++ Level 15 - Mimic
 ```
-
----
 
 **#203 Girafarig**
 
@@ -1394,15 +1888,17 @@ Now in a sequence of +3 rather than +4.
 + Level 51 - Nasty Plot
 ```
 
----
-
-**#204 Pineco, #205 Forretress**
+**#204 Pineco**
 
 ```
 + Level 26 - Counter
 ```
 
----
+**#205 Forretress**
+
+```
++ Level 26 - Counter
+```
 
 **#206 Dunsparce**
 
@@ -1410,17 +1906,20 @@ Now in a sequence of +3 rather than +4.
 + Level 1 - Horn Drill
 ```
 
----
-
-**#209 Snubbull, #210 Granbull**
+**#209 Snubbull**
 
 ```
-+ Level 1 - Lovely Kiss (Snubbull)
++ Level 1 - Lovely Kiss
 + Level 1 - Metronome
-+ Level 53 / 61 - Close Combat
++ Level 53 - Close Combat
 ```
 
----
+**#210 Granbull**
+
+```
++ Level 1 - Metronome
++ Level 61 - Close Combat
+```
 
 **#211 Qwilfish**
 
@@ -1428,8 +1927,6 @@ Now in a sequence of +3 rather than +4.
 + Level 1 - Double-Edge
 + Level 61 - Pain Split
 ```
-
----
 
 **#214 Heracross**
 
@@ -1439,64 +1936,87 @@ Now in a sequence of +3 rather than +4.
 + Level 67 - Horn Drill
 ```
 
----
-
-**#215 Sneasel, #461 Weavile**
+**#215 Sneasel**
 
 ```
-+ Level 1 - Moonlight (Sneasel)
-+ Level 1 - Fake Out (Weavile only)
++ Level 1 - Moonlight
 + Level 32 - Ice Punch
-+ Level 56 - Crunch (Sneasel only)
-+ Level 56 - Low Kick (Weavile only)
++ Level 56 - Crunch
 ```
 
----
-
-**#216 Teddiursa, #217 Ursaring**
+**#461 Weavile**
 
 ```
-+ Level 1 - Fire Punch (Ursaring only)
-+ Level 1 - ThunderPunch (Ursaring only)
-+ Level 1 - Ice Punch (Ursaring only)
-+ Level 1 – Drain Punch (Ursaring only)
-+ Level 1 - Crunch (Ursaring only)
-+ Level 30 - Close Combat (Ursaring only)
++ Level 1 - Fake Out
++ Level 32 - Ice Punch
++ Level 56 - Low Kick
 ```
 
----
-
-**#218 Slugma, #219 Magcargo**
+**#217 Ursaring**
 
 ```
-+ Level 60 / 74 - Power Gem
++ Level 1 - Fire Punch
++ Level 1 - Thunder Punch
++ Level 1 - Ice Punch
++ Level 1 - Drain Punch
++ Level 1 - Crunch
++ Level 30 - Close Combat
 ```
 
----
-
-**#220 Swinub, #221 Piloswine, #473 Mamoswine**
+**#218 Slugma**
 
 ```
-+ Level 1 - Superpower (Mamoswine only)
-+ Level 1 - Ice Shard (Mamoswine)
++ Level 60 - Power Gem
+```
+
+**#219 Magcargo**
+
+```
++ Level 74 - Power Gem
+```
+
+**#220 Swinub**
+
+```
 + Level 11 - Icicle Spear
 + Level 23 - Body Slam
 + Level 30 - Avalanche
-+ Level 42 / 52 / 52 - Icicle Crash
++ Level 42 - Icicle Crash
 ```
 
----
-
-**#223 Remoraid, #224 Octillery**
+**#221 Piloswine**
 
 ```
-+ Level 1 - Mist (Remoraid)
-+ Level 1 - Amnesia (Remoraid)
-+ Level 1 - Seed Bomb (Octillery only)
-+ Level 1 - Acid Spray (Octillery only)
++ Level 11 - Icicle Spear
++ Level 23 - Body Slam
++ Level 30 - Avalanche
++ Level 52 - Icicle Crash
 ```
 
----
+**#473 Mamoswine**
+
+```
++ Level 1 - Superpower
++ Level 1 - Ice Shard
++ Level 11 - Icicle Spear
++ Level 23 - Body Slam
++ Level 30 - Avalanche
++ Level 52 - Icicle Crash
+```
+
+**#223 Remoraid**
+
+```
++ Level 1 - Mist
++ Level 1 - Amnesia
+```
+
+**#224 Octillery**
+
+```
++ Level 1 - Seed Bomb
++ Level 1 - Acid Spray
+```
 
 **#225 Delibird**
 
@@ -1516,16 +2036,18 @@ Now in a sequence of +3 rather than +4.
 + Level 78 - Tailwind
 ```
 
----
-
-**#458 Mantyke, #226 Mantine**
+**#458 Mantyke**
 
 ```
-+ Level 1 - Gust (Mantine)
 + Level 53 - Mirror Coat
 ```
 
----
+**#226 Mantine**
+
+```
++ Level 1 - Gust
++ Level 53 - Mirror Coat
+```
 
 **#227 Skarmory**
 
@@ -1538,27 +2060,33 @@ Now in a sequence of +3 rather than +4.
 + Level 56 - Brave Bird
 ```
 
----
-
-**#228 Houndour, #229 Houndoom**
+**#228 Houndour**
 
 ```
 + Level 23 - Snarl
-+ Level 38 / 43 - Dark Pulse
++ Level 38 - Dark Pulse
 ```
 
----
-
-**#231 Phanpy, #232 Donphan**
+**#229 Houndoom**
 
 ```
-+ Level 1 - Counter (Donphan only)
-+ Level 21 – Seed Bomb (Phanpy only)
-+ Level 21 - Ice Shard (Donphan only)
-+ Level 63 - Head Smash (Donphan only)
++ Level 23 - Snarl
++ Level 43 - Dark Pulse
 ```
 
----
+**#231 Phanpy**
+
+```
++ Level 21 - Seed Bomb
+```
+
+**#232 Donphan**
+
+```
++ Level 1 - Counter
++ Level 21 - Ice Shard
++ Level 63 - Head Smash
+```
 
 **#234 Stantler**
 
@@ -1566,8 +2094,6 @@ Now in a sequence of +3 rather than +4.
 + Level 45 - Horn Leech
 + Level 58 - Megahorn
 ```
-
----
 
 **#241 Miltank**
 
@@ -1577,52 +2103,55 @@ Now in a sequence of +3 rather than +4.
 + Level 67 - Double-Edge
 ```
 
----
-
 **#243 Raikou**
 
 ```
 + Level 1 - Aura Sphere
-+ Level 1 - ExtremeSpeed
++ Level 1 - Extreme Speed
 + Level 1 - Weather Ball
 + Level 1 - Zap Cannon
 ```
-
----
 
 **#244 Entei**
 
 ```
 + Level 1 - Flare Blitz
-+ Level 1 - ExtremeSpeed
++ Level 1 - Extreme Speed
 + Level 1 - Howl
 + Level 1 - Crush Claw
 ```
-
----
 
 **#245 Suicune**
 
 ```
 + Level 1 - Air Slash
-+ Level 1 - ExtremeSpeed
++ Level 1 - Extreme Speed
 + Level 1 - Sheer Cold
 + Level 1 - Aqua Ring
 ```
 
----
-
-**#246 Larvitar, #247 Pupitar, #248 Tyranitar**
+**#246 Larvitar**
 
 ```
-+ Level 1 - Fire Punch (Tyranitar only)
-+ Level 1 – Stealth Rock (All)
-+ Level 25 - Iron Tail (Larvitar, Tyranitar)
-+ Level 25 - Iron Defense (Pupitar)
-+ Level 55 - Dragon Dance (Tyranitar only)
++ Level 1 - Stealth Rock
++ Level 25 - Iron Tail
 ```
 
----
+**#247 Pupitar**
+
+```
++ Level 1 - Stealth Rock
++ Level 25 - Iron Defense
+```
+
+**#248 Tyranitar**
+
+```
++ Level 1 - Fire Punch
++ Level 1 - Stealth Rock
++ Level 25 - Iron Tail
++ Level 55 - Dragon Dance
+```
 
 **#251 Celebi**
 
@@ -1630,254 +2159,362 @@ Now in a sequence of +3 rather than +4.
 + Level 1 - Nasty Plot
 ```
 
+---
+
 ## Hoenn Pokémon
 
----
-
-**#252 Treecko, #253 Grovyle, #254 Sceptile**
+**#253 Grovyle**
 
 ```
-+ Level 1 - ThunderPunch (Sceptile only)
-+ Level 1 - Low Kick (Sceptile only)
-+ Level 16 - Magical Leaf (Grovyle and Sceptile only)
-+ Level 36 - Dragon Pulse (Sceptile only)
++ Level 16 - Magical Leaf
 ```
 
----
-
-**#255 Torchic, #256 Combusken, #257 Blaziken**
+**#254 Sceptile**
 
 ```
-+ Level 1 - ThunderPunch (Blaziken only)
-+ Level 1 - Night Slash (Blaziken only)
-+ Level 22 - Baton Pass (Torchic only)
-+ Level 25 - Low Kick (Combusken and Blaziken only)
++ Level 1 - Thunder Punch
++ Level 1 - Low Kick
++ Level 16 - Magical Leaf
++ Level 36 - Dragon Pulse
 ```
 
----
+**#255 Torchic**
 
-**#258 Mudkip, #259 Marshtomp, #260 Swampert**
+```
++ Level 22 - Baton Pass
+```
+
+**#256 Combusken**
+
+```
++ Level 25 - Low Kick
+```
+
+**#257 Blaziken**
+
+```
++ Level 1 - Thunder Punch
++ Level 1 - Night Slash
++ Level 25 - Low Kick
+```
+
+**#258 Mudkip**
 
 ```
 + Level 1 - Yawn
-+ Level 1 - Counter (Swampert only)
-+ Level 1 - Mirror Coat (Swampert only)
-+ Level 21 - Ice Ball (Mudkip only)
-+ Level 57 / 77 - Superpower (Marshtomp and Swampert only)
++ Level 21 - Ice Ball
 ```
 
----
-
-**#261 Poochyena, #262 Mightyena**
+**#259 Marshtomp**
 
 ```
-+ Level 1 - Super Fang (Mightyena only)
-+ Level 20 - Crunch (Mightyena only)
-+ Level 20 - Fire Fang (Mightyena only)
-+ Level 20 - Thunder Fang (Mightyena only)
-+ Level 20 - Ice Fang (Mightyena only)
++ Level 1 - Yawn
++ Level 57 - Superpower
 ```
 
----
-
-**#263 Zigzagoon, #264 Linoone**
+**#260 Swampert**
 
 ```
-+ Level 1 - Super Fang (Linoone only)
-+ Level 1 - Rock Climb (Linoone only)
-+ Level 20 - ExtremeSpeed (Linoone only)
++ Level 1 - Yawn
++ Level 1 - Counter
++ Level 1 - Mirror Coat
++ Level 77 - Superpower
 ```
 
----
-
-**#265 Wurmple, #266 Silcoon, #267 Beautifly, #268 Cascoon, #269 Dustox**
+**#262 Mightyena**
 
 ```
-= Level 1 - Poison Sting (Wurmple)
-= Level 1 - Bug Bite (Wurmple)
-+ Level 10 - Air Cutter (Beautifly)
-+ Level 10 - Clear Smog (Dustox)
-+ Level 10 - Struggle Bug (Beautifly, Dustox)
-+ Level 17 - Sleep Powder (Beautifly)
-+ Level 17 - Reflect, Light Screen (Dustox)
-+ Level 49 - Air Slash (Beautifly)
-+ Level 49 - Tailwind (Dustox)
++ Level 1 - Super Fang
++ Level 20 - Crunch
++ Level 20 - Fire Fang
++ Level 20 - Thunder Fang
++ Level 20 - Ice Fang
 ```
 
----
-
-**#270 Lotad, #271 Lombre, #272 Ludicolo**
+**#264 Linoone**
 
 ```
-+ Level 1 - Rain Dance (Ludicolo)
-+ Level 1 - Teeter Dance (Ludicolo)
-+ Level 1 - Fire Punch (Ludicolo)
-+ Level 1 - Ice Punch (Ludicolo)
-+ Level 1 - ThunderPunch (Ludicolo)
-+ Level 1 - Drain Punch (Ludicolo)
-+ Level 1 - Counter (Ludicolo)
-+ Level 9 - Water Gun (Lotad, Lombre)
-+ Level 13 - Leech Seed (Lotad, Lombre)
-+ Level 17 - Synthesis (Lotad)
-+ Level 17 - Water Pulse (Lombre)
-+ Level 22 - Razor Leaf (Lotad, Lombre)
-+ Level 50 - Hydro Pump (Ludicolo)
++ Level 1 - Super Fang
++ Level 1 - Rock Climb
++ Level 20 - Extreme Speed
 ```
 
----
-
-**#273 Seedot, #274 Nuzleaf, #275 Shiftry**
+**#265 Wurmple**
 
 ```
-+ Level 1 - Hurricane (Shiftry)
-+ Level 1 - Silver Wind (Shiftry)
-+ Level 1 - Ominous Wind (Shiftry)
-+ Level 1 - Heat Wave (Shiftry)
-+ Level 1 - Icy Wind (Shiftry)
-+ Level 1 - Leaf Blade (Shiftry)
-+ Level 1 - Twister (Shiftry)
-+ Level 1 - Bullet Seed (Seedot)
-+ Level 1 - Quick Attack (Seedot, Nuzleaf)
-= Level 14 - Razor Leaf (Nuzleaf)
-+ Level 16 - Foul Play (Nuzleaf)
-+ Level 17 - Seed Bomb (Seedot)
-+ Level 22 - Low Kick (Nuzleaf)
-+ Level 26 - Leech Seed (Seedot)
-+ Level 28 - Beat Up (Nuzleaf)
-+ Level 34 - Dark Pulse (Nuzleaf, Shiftry)
+= Level 1 - Poison Sting
+= Level 1 - Bug Bite
 ```
 
----
-
-**#276 Taillow, #277 Swellow**
+**#267 Beautifly**
 
 ```
-+ Level 1 - Superpower (Swellow)
++ Level 10 - Air Cutter
++ Level 10 - Struggle Bug
++ Level 17 - Sleep Powder
++ Level 49 - Air Slash
+```
+
+**#269 Dustox**
+
+```
++ Level 10 - Clear Smog
++ Level 10 - Struggle Bug
++ Level 17 - Reflect, Light Screen
++ Level 49 - Tailwind
+```
+
+**#270 Lotad**
+
+```
++ Level 9 - Water Gun
++ Level 13 - Leech Seed
++ Level 17 - Synthesis
++ Level 22 - Razor Leaf
+```
+
+**#271 Lombre**
+
+```
++ Level 9 - Water Gun
++ Level 13 - Leech Seed
++ Level 17 - Water Pulse
++ Level 22 - Razor Leaf
+```
+
+**#272 Ludicolo**
+
+```
++ Level 1 - Rain Dance
++ Level 1 - Teeter Dance
++ Level 1 - Fire Punch
++ Level 1 - Ice Punch
++ Level 1 - Thunder Punch
++ Level 1 - Drain Punch
++ Level 1 - Counter
++ Level 50 - Hydro Pump
+```
+
+**#273 Seedot**
+
+```
++ Level 1 - Bullet Seed
++ Level 1 - Quick Attack
++ Level 17 - Seed Bomb
++ Level 26 - Leech Seed
+```
+
+**#274 Nuzleaf**
+
+```
++ Level 1 - Quick Attack
+= Level 14 - Razor Leaf
++ Level 16 - Foul Play
++ Level 22 - Low Kick
++ Level 28 - Beat Up
++ Level 34 - Dark Pulse
+```
+
+**#275 Shiftry**
+
+```
++ Level 1 - Hurricane
++ Level 1 - Silver Wind
++ Level 1 - Ominous Wind
++ Level 1 - Heat Wave
++ Level 1 - Icy Wind
++ Level 1 - Leaf Blade
++ Level 1 - Twister
++ Level 34 - Dark Pulse
+```
+
+**#276 Taillow**
+
+```
 + Level 16 - Mirror Move
 + Level 22 - Steel Wing
-+ Level 22 - ExtremeSpeed (Swellow)
-+ Level 59 / 69 - Brave Bird
++ Level 59 - Brave Bird
 ```
 
----
-
-**#278 Wingull, #279 Pelipper**
+**#277 Swellow**
 
 ```
-+ Level 1 - Shock Wave (Pelipper)
++ Level 1 - Superpower
++ Level 16 - Mirror Move
++ Level 22 - Extreme Speed
++ Level 69 - Brave Bird
 ```
 
----
-
-**#280 Ralts, #281 Kirlia, #282 Gardevoir, #475 Gallade**
+**#279 Pelipper**
 
 ```
-+ Level 1 - Sacred Sword (Gallade)
-+ Level 1 - Fire Punch (Gallade)
-+ Level 1 - Ice Punch (Gallade)
-+ Level 1 - ThunderPunch (Gallade)
-+ Level 15 - Psybeam (Ralts, Kirlia, Gardevoir)
-+ Level 19 - Shock Wave (Ralts, Kirlia, Gardevoir)
-+ Level 25 / 28 / 28 - Confuse Ray (Ralts, Kirlia, Gardevoir)
-+ Level 85 - Aura Sphere (Gardevoir)
++ Level 1 - Shock Wave
 ```
 
----
-
-**#283 Surskit, #284 Masquerain**
+**#280 Ralts**
 
 ```
-+ Level 28 - Psybeam (Surskit)
-+ Level 29 - Scald (Masquerain)
-+ Level 34 - Giga Drain (Surskit)
-+ Level 65 - Hydro Pump (Masquerain)
-+ Level 73 - Hurricane (Masquerain)
++ Level 15 - Psybeam
++ Level 19 - Shock Wave
++ Level 25 - Confuse Ray
 ```
 
----
-
-**#285 Shroomish, #286 Breloom**
+**#281 Kirlia**
 
 ```
-+ Level 1 - ThunderPunch (Breloom)
++ Level 15 - Psybeam
++ Level 19 - Shock Wave
++ Level 28 - Confuse Ray
+```
+
+**#282 Gardevoir**
+
+```
++ Level 15 - Psybeam
++ Level 19 - Shock Wave
++ Level 28 - Confuse Ray
++ Level 85 - Aura Sphere
+```
+
+**#475 Gallade**
+
+```
++ Level 1 - Sacred Sword
++ Level 1 - Fire Punch
++ Level 1 - Ice Punch
++ Level 1 - Thunder Punch
+```
+
+**#283 Surskit**
+
+```
++ Level 28 - Psybeam
++ Level 34 - Giga Drain
+```
+
+**#284 Masquerain**
+
+```
++ Level 29 - Scald
++ Level 65 - Hydro Pump
++ Level 73 - Hurricane
+```
+
+**#285 Shroomish**
+
+```
 + Level 13 - Bullet Seed
-+ Level 49 - Drain Punch (Breloom)
-+ Level 53 - Spore (Breloom)
-+ Level 57 - Focus Punch (Breloom)
 ```
 
----
-
-**#287 Slakoth, #288 Vigoroth, #289 Slaking**
+**#286 Breloom**
 
 ```
-+ Level 1 - Fire Punch (Slaking)
-+ Level 1 - Ice Punch (Slaking)
-+ Level 1 - ThunderPunch (Slaking)
-+ Level 18 - Night Slash (Vigoroth, Slaking)
-+ Level 36 - Crush Claw (Slaking)
++ Level 1 - Thunder Punch
++ Level 49 - Drain Punch
++ Level 53 - Spore
++ Level 57 - Focus Punch
 ```
 
----
-
-**#290 Nincada, #291 Ninjask, #292 Shedinja**
+**#288 Vigoroth**
 
 ```
-+ Level 1 - Bug Bite (Nincada)
-+ Level 20 - Night Slash (Ninjask)
-+ Level 20 - ExtremeSpeed (Ninjask)
++ Level 18 - Night Slash
 ```
 
----
-
-**#293 Whismur, #294 Loudred, #295 Exploud**
+**#289 Slaking**
 
 ```
-+ Level 1 - Fire Punch (Exploud)
-+ Level 1 - Ice Punch (Exploud)
-+ Level 1 - ThunderPunch (Exploud)
++ Level 1 - Fire Punch
++ Level 1 - Ice Punch
++ Level 1 - Thunder Punch
++ Level 18 - Night Slash
++ Level 36 - Crush Claw
+```
+
+**#290 Nincada**
+
+```
++ Level 1 - Bug Bite
+```
+
+**#291 Ninjask**
+
+```
++ Level 20 - Night Slash
++ Level 20 - Extreme Speed
+```
+
+**#293 Whismur**
+
+```
 + Level 1 - Fake Tears
-+ Level 50 - Circle Throw (Exploud)
-+ Level 67 - Hammer Arm (Exploud)
-* Exploud loses Fire Fang, Ice Fang and Thunder Fang from its movelist.
 ```
 
----
-
-**#296 Makuhita, #297 Hariyama**
+**#294 Loudred**
 
 ```
-+ Level 1 - Fire Punch (Hariyama)
-+ Level 1 - Ice Punch (Hariyama)
-+ Level 1 - ThunderPunch (Hariyama)
-+ Level 49 / 67 - Cross Chop
++ Level 1 - Fake Tears
 ```
 
----
+**#295 Exploud**
 
-**#299 Nosepass, #476 Probopass**
+```
+- Level 1 - Fire Punch
+- Level 1 - Ice Punch
+- Level 1 - Thunder Punch
++ Level 50 - Circle Throw
++ Level 67 - Hammer Arm
+```
+
+**#297 Makuhita**
+
+```
++ Level 49 - Cross Chop
+```
+
+**#297 Hariyama**
+
+```
++ Level 1 - Fire Punch
++ Level 1 - Ice Punch
++ Level 1 - Thunder Punch
++ Level 67 - Cross Chop
+```
+
+**#299 Nosepass**
 
 ```
 + Level 22 - Shock Wave
-+ Level 28 - AncientPower
++ Level 28 - Ancient Power
 = Level 37 - Earth Power
 = Level 79 - Sandstorm
 + Level 85 - Head Smash
 ```
 
----
+**#476 Probopass**
 
-**#300 Skitty, #301 Delcatty**
+```
++ Level 22 - Shock Wave
++ Level 28 - Ancient Power
+= Level 37 - Earth Power
+= Level 79 - Sandstorm
++ Level 85 - Head Smash
+```
+
+**#300 Skitty**
 
 ```
 + Level 1 - Pay Day
-+ Level 25 - Wish (Delcatty)
-+ Level 35 - Captivate (Delcatty)
-+ Level 45 - Sucker Punch (Delcatty)
-+ Level 55 - Double-Edge (Delcatty)
 ```
 
----
+**#301 Delcatty**
+
+```
++ Level 25 - Wish
++ Level 35 - Captivate
++ Level 45 - Sucker Punch
++ Level 55 - Double-Edge
+```
 
 **#302 Sableye**
 
@@ -1886,8 +2523,6 @@ Now in a sequence of +3 rather than +4.
 + Level 66 - Metal Burst
 ```
 
----
-
 **#303 Mawile**
 
 ```
@@ -1895,41 +2530,40 @@ Now in a sequence of +3 rather than +4.
 + Level 1 - Ice Fang
 + Level 1 - Thunder Fang
 + Level 1 - Metal Claw
-+ Level 21 - ThunderPunch
++ Level 21 - Thunder Punch
 + Level 21 - Ice Punch
 + Level 61 - Metal Burst
 ```
 
----
-
-**#304 Aron, #305 Lairon, #306 Aggron**
+**#306 Aggron**
 
 ```
-+ Level 1 - Head Smash (Aggron)
-+ Level 1 - Superpower (Aggron)
-+ Level 1 - Bullet Punch (Aggron)
++ Level 1 - Head Smash
++ Level 1 - Superpower
++ Level 1 - Bullet Punch
 ```
 
----
-
-**#307 Meditite, #308 Medicham**
+**#307 Meditite**
 
 ```
-+ Level 1 - Bullet Punch (Medicham)
 = Level 20 - Force Palm
 + Level 28 - Psycho Cut
-+ Level 37 - Drain Punch (Medicham)
 ```
 
----
-
-**#309 Electrike, #310 Manectric**
+**#308 Medicham**
 
 ```
-+ Level 26 - Flame Burst (Manectric)
+= Level 20 - Force Palm
++ Level 28 - Psycho Cut
++ Level 37 - Drain Punch
++ Level 1 - Bullet Punch
 ```
 
----
+**#310 Manectric**
+
+```
++ Level 26 - Flame Burst
+```
 
 **#313 Volbeat**
 
@@ -1941,8 +2575,6 @@ Now in a sequence of +3 rather than +4.
 + Level 49 - Baton Pass
 + Level 53 - Tailwind
 ```
-
----
 
 **#314 Illumise**
 
@@ -1956,58 +2588,69 @@ Now in a sequence of +3 rather than +4.
 + Level 53 - Tailwind
 ```
 
----
-
-**#406 Budew, #315 Roselia, #407 Roserade**
+**#406 Budew**
 
 ```
-+ Level 19 - Extrasensory (Budew)
-+ Level 22 - Sleep Powder (Budew)
-+ Level 25 - Giga Drain (Budew)
-+ Level 49 - Sleep Powder (Roselia)
-+ Level 52 - Leaf Storm (Roselia)
-+ Level 55 - Quiver Dance (Roselia)
-+ Level 55 - Petal Dance (Roserade)
++ Level 19 - Extrasensory
++ Level 22 - Sleep Powder
++ Level 25 - Giga Drain
 ```
 
----
-
-**#316 Gulpin, #317 Swalot**
+**#315 Roselia**
 
 ```
-+ Level 1 - Seed Bomb (Swalot)
-+ Level 1 - Pain Split (Swalot)
++ Level 49 - Sleep Powder
++ Level 52 - Leaf Storm
++ Level 55 - Quiver Dance
 ```
 
----
-
-**#318 Carvanha, #319 Sharpedo**
+**#407 Roserade**
 
 ```
-+ Level 1 - Super Fang (Sharpedo)
-+ Level 1 - Zen Headbutt (Sharpedo)
-+ Level 41 / 62 - Dark Pulse
-+ Level 45 / 68 - Hydro Pump
++ Level 55 - Petal Dance
 ```
 
----
-
-**#320 Wailmer, #321 Wailord**
+**#317 Swalot**
 
 ```
-+ Level 1 - Zen Headbutt (Wailord)
-+ Level 53 / 78 - Fissure
++ Level 1 - Seed Bomb
++ Level 1 - Pain Split
 ```
 
----
-
-**#322 Numel, #323 Camerupt**
+**#318 Carvanha**
 
 ```
-+ Level 1 - Heat Wave (Camerupt)
++ Level 41 - Dark Pulse
++ Level 45 - Hydro Pump
 ```
 
----
+**#319 Sharpedo**
+
+```
++ Level 1 - Super Fang
++ Level 1 - Zen Headbutt
++ Level 62 - Dark Pulse
++ Level 68 - Hydro Pump
+```
+
+**#320 Wailmer**
+
+```
++ Level 53 - Fissure
+```
+
+**#321 Wailord**
+
+```
++ Level 1 - Zen Headbutt
++ Level 78 - Fissure
+```
+
+**#323 Camerupt**
+
+```
++ Level 1 - Heat Wave
+```
 
 **#324 Torkoal**
 
@@ -2018,16 +2661,19 @@ Now in a sequence of +3 rather than +4.
 + Level 78 – Stealth Rock
 ```
 
----
-
-**#325 Spoink, #326 Grumpig**
+**#325 Spoink**
 
 ```
 + Level 27 - Extrasensory
 + Level 28 - Shock Wave
 ```
 
----
+**#326 Grumpig**
+
+```
++ Level 27 - Extrasensory
++ Level 28 - Shock Wave
+```
 
 **#327 Spinda**
 
@@ -2038,63 +2684,76 @@ Now in a sequence of +3 rather than +4.
 + Level 63 - Psycho Boost
 ```
 
----
-
-**#328 Trapinch, #329 Vibrava, #330 Flygon**
+**#328 Trapinch**
 
 ```
-+ Level 1 - Bug Bite (Trapinch)
-+ Level 1 - Heat Wave (Flygon)
-+ Level 1 - Giga Drain (Flygon)
-+ Level 1 - Bug Buzz (Flygon)
-+ Level 35 – Giga Drain (Trapinch)
-+ Level 35 - Dragon Dance (Vibrava, Flygon)
-+ Level 48 - Signal Beam (Flygon)
-+ Level 51 - Earth Power (Flygon)
-= Level 54 - Sandstorm (Flygon)
-+ Level 57 - Dragon Pulse (Flygon)
-= Level 61 - Dragon Tail (Flygon)
-+ Level 65 - Quiver Dance (Flygon)
-+ Level 69 - Outrage (Flygon)
-= Level 73 - Hyper Beam (Flygon)
++ Level 1 - Bug Bite
++ Level 35 - Giga Drain
 ```
 
----
-
-**#331 Cacnea, #332 Cacturne**
+**#329 Vibrava**
 
 ```
-+ Level 1 - Nasty Plot (Cacturne)
-+ Level 1 - ThunderPunch (Cacturne)
-+ Level 33 - Seed Bomb (Cacturne)
-+ Level 33 - Dark Pulse (Cacturne)
-+ Level 61 / 77 - Teeter Dance
++ Level 35 - Dragon Dance
 ```
 
----
+**#330 Flygon**
 
-**#333 Swablu, #334 Altaria**
+```
++ Level 1 - Heat Wave
++ Level 1 - Giga Drain
++ Level 1 - Bug Buzz
++ Level 35 - Dragon Dance
++ Level 48 - Signal Beam
++ Level 51 - Earth Power
+= Level 54 - Sandstorm
++ Level 57 - Dragon Pulse
+= Level 61 - Dragon Tail
++ Level 65 - Quiver Dance
++ Level 69 - Outrage
+= Level 73 - Hyper Beam
+```
+
+**#331 Cacnea**
+
+```
++ Level 61 - Teeter Dance
+```
+
+**#332 Cacturne**
+
+```
++ Level 1 - Nasty Plot
++ Level 1 - Thunder Punch
++ Level 33 - Seed Bomb
++ Level 33 - Dark Pulse
++ Level 77 - Teeter Dance
+```
+
+**#333 Swablu**
 
 ```
 + Level 1 - Roost
-+ Level 42 - Hyper Voice (Altaria)
-+ Level 50 - Outrage (Altaria)
 ```
 
----
+**#334 Altaria**
+
+```
++ Level 1 - Roost
++ Level 42 - Hyper Voice
++ Level 50 - Outrage
+```
 
 **#335 Zangoose**
 
 ```
 + Level 1 - Fire Punch
-+ Level 1 - ThunderPunch
++ Level 1 - Thunder Punch
 + Level 1 - Ice Punch
 + Level 1 - Night Slash
 + Level 57 - Final Gambit
-+ Level 62 - ExtremeSpeed
++ Level 62 - Extreme Speed
 ```
-
----
 
 **#336 Seviper**
 
@@ -2102,18 +2761,14 @@ Now in a sequence of +3 rather than +4.
 + Level 67 - Gunk Shot
 ```
 
----
-
 **#337 Lunatone**
 
 ```
 + Level 1 - Moonlight
-+ Level 28 - AncientPower
++ Level 28 - Ancient Power
 + Level 37 - Earth Power
 + Level 48 - Hydro Pump
 ```
-
----
 
 **#338 Solrock**
 
@@ -2124,67 +2779,78 @@ Now in a sequence of +3 rather than +4.
 + Level 48 - Flare Blitz
 ```
 
----
-
-**#339 Barboach, #340 Whiscash**
+**#339 Barboach**
 
 ```
-+ Level 1 - Spark (Whiscash)
-+ Level 51 / 63 - Dragon Dance
-+ Level 54 / 69 - Hydro Pump
++ Level 51 - Dragon Dance
++ Level 54 - Hydro Pump
 ```
 
----
-
-**#341 Corphish, #342 Crawdaunt**
+**#340 Whiscash**
 
 ```
-+ Level 1 - Avalanche (Crawdaunt)
-+ Level 50 / 61 - Dragon Dance
-+ Level 56 / 70 - Superpower
++ Level 1 - Spark
++ Level 63 - Dragon Dance
++ Level 69 - Hydro Pump
 ```
 
----
-
-**#343 Baltoy, #344 Claydol**
+**#341 Corphish**
 
 ```
-+ Level 1 - Gravity (Claydol)
++ Level 50 - Dragon Dance
++ Level 56 - Superpower
 ```
 
----
-
-**#345 Lileep, #346 Cradily**
+**#342 Crawdaunt**
 
 ```
-+ Level 1 - Seed Bomb (Cradily)
-+ Level 1 - Mirror Coat (Cradily)
-+ Level 40 - Recover (Cradily)
-+ Level 71 / 86 - Earth Power
++ Level 1 - Avalanche
++ Level 61 - Dragon Dance
++ Level 70 - Superpower
 ```
 
----
-
-**#347 Anorith, #348 Armaldo**
+**#344 Claydol**
 
 ```
-+ Level 1 - Aqua Tail (Armaldo)
-+ Level 1 - Superpower (Armaldo)
-+ Level 1 - Cross Poison (Armaldo)
++ Level 1 - Gravity
 ```
 
----
-
-**#349 Feebas, #350 Milotic**
+**#345 Lileep**
 
 ```
-+ Level 10 - Hypnosis (Feebas)
-+ Level 20 - Brine (Feebas)
-+ Level 25 - Dragon Pulse (Feebas)
-+ Level 53 - Mirror Coat (Milotic)
++ Level 71 - Earth Power
 ```
 
----
+**#346 Cradily**
+
+```
++ Level 1 - Seed Bomb
++ Level 1 - Mirror Coat
++ Level 40 - Recover
++ Level 86 - Earth Power
+```
+
+**#348 Armaldo**
+
+```
++ Level 1 - Aqua Tail
++ Level 1 - Superpower
++ Level 1 - Cross Poison
+```
+
+**#349 Feebas**
+
+```
++ Level 10 - Hypnosis
++ Level 20 - Brine
++ Level 25 - Dragon Pulse
+```
+
+**#350 Milotic**
+
+```
++ Level 53 - Mirror Coat
+```
 
 **#352 Kecleon**
 
@@ -2193,25 +2859,39 @@ Now in a sequence of +3 rather than +4.
 + Level 61 - Recover
 ```
 
----
-
-**#353 Shuppet, #354 Banette**
+**#353 Shuppet**
 
 ```
 + Level 1 - Shadow Sneak
 + Level 16 - Pain Split
-+ Level 58 / 81 - Gunk Shot
++ Level 58 - Gunk Shot
 ```
 
----
-
-**#355 Duskull, #356 Dusclops, #477 Dusknoir**
+**#354 Banette**
 
 ```
-+ Level 49 / 61 / 61 - Trick
++ Level 1 - Shadow Sneak
++ Level 16 - Pain Split
++ Level 81 - Gunk Shot
 ```
 
----
+**#355 Duskull**
+
+```
++ Level 49 - Trick
+```
+
+**#356 Dusclops**
+
+```
++ Level 61 - Trick
+```
+
+**#477 Dusknoir**
+
+```
++ Level 61 - Trick
+```
 
 **#357 Tropius**
 
@@ -2222,9 +2902,7 @@ Now in a sequence of +3 rather than +4.
 + Level 81 - Hurricane
 ```
 
----
-
-**#433 Chingling, #358 Chimecho**
+**#433 Chingling**
 
 ```
 + Level 1 - Hypnosis
@@ -2232,7 +2910,13 @@ Now in a sequence of +3 rather than +4.
 + Level 30 - Hyper Voice
 ```
 
----
+**#358 Chimecho**
+
+```
++ Level 1 - Hypnosis
++ Level 1 - Recover
++ Level 30 - Hyper Voice
+```
 
 **#359 Absol**
 
@@ -2243,39 +2927,36 @@ Now in a sequence of +3 rather than +4.
 + Level 77 – Superpower
 ```
 
----
-
-**#361 Snorunt, #362 Glalie, #478 Froslass**
+**#362 Glalie**
 
 ```
-- Level 37 - Avalanche (Glalie)
-- Level 37 - Ice Beam (Froslass)
-+ Level 42 – Rollout (Glalie)
-+ Level 65 – Head Smash (Glalie)
-+ Level 73 – Rock Wrecker (Glalie)
+- Level 37 - Avalanche
++ Level 42 - Rollout
++ Level 65 - Head Smash
++ Level 73 - Rock Wrecker
 ```
 
----
-
-**#363 Spheal, #364 Sealeo, #365 Walrein**
+**#478 Froslass**
 
 ```
-+ Level 1 - Curse (Walrein)
-+ Level 1 - Super Fang (Walrein)
-+ Level 1 - Aqua Tail (Walrein)
+- Level 37 - Ice Beam
 ```
 
----
-
-**#366 Clamperl, #367 Huntail, #368 Gorebyss**
+**#365 Walrein**
 
 ```
-+ Level 25 - Muddy Water (Clamperl)
-+ Level 30 - Barrier (Clamperl)
-= Level 35 - Shell Smash (Clamperl)
++ Level 1 - Curse
++ Level 1 - Super Fang
++ Level 1 - Aqua Tail
 ```
 
----
+**#366 Clamperl**
+
+```
++ Level 25 - Muddy Water
++ Level 30 - Barrier
+= Level 35 - Shell Smash
+```
 
 **#369 Relicanth**
 
@@ -2283,143 +2964,209 @@ Now in a sequence of +3 rather than +4.
 + Level 1 - Zen Headbutt
 ```
 
+**#371 Bagon**
+
+```
++ Level 61 - Dragon Dance
++ Level 65 - Outrage
+```
+
+**#372 Shelgon**
+
+```
++ Level 66 - Dragon Dance
++ Level 72 - Outrage
+```
+
+**#373 Salamence**
+
+```
++ Level 1 - Hydro Pump
++ Level 1 - Roost
++ Level 75 - Dragon Dance
++ Level 85 - Outrage
+```
+
+**#374 Beldum**
+
+```
++ Level 1 - Zen Headbutt
++ Level 1 - Iron Head
++ Level 1 - Headbutt
+```
+
+**#376 Metagross**
+
+```
++ Level 1 - Thunder Punch
++ Level 1 - Ice Punch
+```
+
 ---
-
-**#371 Bagon, #372 Shelgon, #373 Salamence**
-
-```
-+ Level 1 - Hydro Pump (Salamence)
-+ Level 1 - Roost (Salamence)
-+ Level 61 / 66 / 75 - Dragon Dance
-+ Level 65 / 72 / 85 - Outrage
-```
-
----
-
-**#374 Beldum, #375 Metang, #376 Metagross**
-
-```
-+ Level 1 - Zen Headbutt (Beldum)
-+ Level 1 - Iron Head (Beldum)
-+ Level 1 - Headbutt (Beldum)
-+ Level 1 - ThunderPunch (Metagross)
-+ Level 1 - Ice Punch (Metagross)
-```
 
 ## Sinnoh Pokémon
 
----
-
-**#387 Turtwig, #388 Grotle, #389 Torterra**
+**#387 Turtwig**
 
 ```
-+ Level 49 / 57 / 63 - Seed Bomb
-+ Level 69 - Shell Smash (Torterra)
++ Level 49 - Seed Bomb
 ```
 
----
-
-**#390 Chimchar, #391 Monferno, #392 Infernape**
+**#388 Grotle**
 
 ```
-+ Level 1 - Fire Punch (Infernape)
-+ Level 1 - ThunderPunch (Infernape)
-+ Level 1 - Fake Out (Infernape)
++ Level 57 - Seed Bomb
 ```
 
----
+**#389 Torterra**
 
-**#393 Piplup, #394 Prinplup, #395 Empoleon**
+```
++ Level 63 - Seed Bomb
++ Level 69 - Shell Smash
+```
+
+**#392 Infernape**
+
+```
++ Level 1 - Fire Punch
++ Level 1 - Thunder Punch
++ Level 1 - Fake Out
+```
+
+**#393 Piplup**
 
 ```
 + Level 13 - Brine
 ```
 
----
-
-**#396 Starly, #397 Staravia, #398 Staraptor**
+**#394 Prinplup**
 
 ```
-+ Level 1 - Roost (Staraptor)
-+ Level 45 / 53 / 65 - Double-Edge
++ Level 13 - Brine
 ```
 
----
-
-**#399 Bidoof, #400 Bibarel**
+**#395 Empoleon**
 
 ```
-- Level 15 - Aqua Tail (Bibarel)
-+ Level 49 / 58 - Double-Edge
++ Level 13 - Brine
 ```
 
----
-
-**#401 Kricketot, #402 Kricketune**
+**#396 Starly**
 
 ```
-= Level 1 - Struggle Bug (Kricketot)
-= Level 1 - Bug Bite (Kricketot)
++ Level 45 - Double-Edge
 ```
 
----
+**#397 Staravia**
 
-**#403 Shinx, #404 Luxio, #405 Luxray**
+```
++ Level 53 - Double-Edge
+```
+
+**#398 Staraptor**
+
+```
++ Level 1 - Roost
++ Level 65 - Double-Edge
+```
+
+**#399 Bidoof**
+
+```
++ Level 49 - Double-Edge
+```
+
+**#400 Bibarel**
+
+```
+- Level 15 - Aqua Tail
++ Level 58 - Double-Edge
+```
+
+**#401 Kricketot**
+
+```
+= Level 1 - Struggle Bug
+= Level 1 - Bug Bite
+```
+
+**#403 Shinx**
 
 ```
 = Level 1 - Bite
-+ Level 1 - Fire Fang (Luxray)
-+ Level 1 - Ice Fang (Luxray)
-+ Level 15 - Double Kick (Luxio, Luxray)
-+ Level 17 - Thunder Wave (Shinx)
-+ Level 18 / 18 - Night Slash (Luxio, Luxray)
-+ Level 30 - Dark Pulse (Luxray)
-+ Level 70 - Volt Tackle (Luxray)
++ Level 17 - Thunder Wave
 ```
 
----
-
-**#408 Cranidos, #409 Rampardos**
+**#404 Luxio**
 
 ```
-+ Level 1 - Fire Punch (Rampardos)
-+ Level 1 - ThunderPunch (Rampardos)
-+ Level 50 / 64 - Crunch
-+ Level 55 / 69 - Hammer Arm
+= Level 1 - Bite
++ Level 15 - Double Kick
++ Level 18 - Night Slash
 ```
 
----
-
-**#410 Shieldon, #411 Bastiodon**
+**#405 Luxray**
 
 ```
-+ Level 1 - Magnet Rise (Bastiodon)
+= Level 1 - Bite
++ Level 1 - Fire Fang
++ Level 1 - Ice Fang
++ Level 15 - Double Kick
++ Level 18 - Night Slash
++ Level 30 - Dark Pulse
++ Level 70 - Volt Tackle
 ```
 
----
-
-**#412 Burmy, #413 Wormadam, #414 Mothim**
+**#408 Cranidos**
 
 ```
-+ Level 1 - String Shot (Burmy)
-+ Level 1 – Snore (Burmy)
-+ Level 1 - Giga Drain (Mothim)
-+ Level 20 - Air Cutter (Mothim)
-+ Level 53 - Hurricane (Mothim)
++ Level 50 - Crunch
++ Level 55 - Hammer Arm
 ```
 
----
-
-**#415 Combee, #416 Vespiquen**
+**#409 Rampardos**
 
 ```
-+ Level 16 - Tailwind (Combee)
-+ Level 19 - Endeavor (Combee)
-+ Level 23 - Silver Wind (Vespiquen)
-+ Level 29 - Acrobatics (Vespiquen)
++ Level 1 - Fire Punch
++ Level 1 - Thunder Punch
++ Level 64 - Crunch
++ Level 69 - Hammer Arm
 ```
 
----
+**#411 Bastiodon**
+
+```
++ Level 1 - Magnet Rise
+```
+
+**#412 Burmy**
+
+```
++ Level 1 - String Shot
++ Level 1 - Snore
+```
+
+**#414 Mothim**
+
+```
++ Level 1 - Giga Drain
++ Level 20 - Air Cutter
++ Level 53 - Hurricane
+```
+
+**#415 Combee**
+
+```
++ Level 16 - Tailwind
++ Level 19 - Endeavor
+```
+
+**#416 Vespiquen**
+
+```
++ Level 23 - Silver Wind
++ Level 29 - Acrobatics
+```
 
 **#417 Pachirisu**
 
@@ -2428,51 +3175,64 @@ Now in a sequence of +3 rather than +4.
 + Level 57 - Uproar
 ```
 
----
-
-**#418 Buizel, #419 Floatzel**
+**#418 Buizel**
 
 ```
-+ Level 1 - Low Kick (Floatzel)
-+ Level 32 / 34 - Ice Punch
-+ Level 40 / 45 - Tail Slap
++ Level 32 - Ice Punch
++ Level 40 - Tail Slap
 ```
 
----
-
-**#420 Cherubi, #421 Cherrim**
+**#419 Floatzel**
 
 ```
-+ Level 1 - Weather Ball (Cherrim)
++ Level 1 - Low Kick
++ Level 34 - Ice Punch
++ Level 45 - Tail Slap
 ```
 
----
-
-**#422 Shellos, #423 Gastrodon**
+**#421 Cherrim**
 
 ```
-+ Level 1 - Counter (Gastrodon)
-+ Level 1 - Mirror Coat (Gastrodon)
++ Level 1 - Weather Ball
+```
+
+**#422 Shellos**
+
+```
 + Level 19 - Brine
-+ Level 41 / 47 - Earth Power
++ Level 41 - Earth Power
 ```
 
----
-
-**#425 Drifloon, #426 Drifblim**
+**#423 Gastrodon**
 
 ```
-+ Level 1 - Shock Wave (Drifblim)
-+ Level 28 - Air Cutter (Drifblim)
-+ Level 49 / 61 - Hypnosis
-+ Level 52 / 66 - Destiny Bond
-+ Level 55 / 71 - Tailwind
-+ Level 58 / 76 - Hurricane
++ Level 1 - Counter
++ Level 1 - Mirror Coat
++ Level 19 - Brine
++ Level 47 - Earth Power
 ```
 
----
+**#425 Drifloon**
 
-**#427 Buneary, #428 Lopunny**
+```
++ Level 49 - Hypnosis
++ Level 52 - Destiny Bond
++ Level 55 - Tailwind
++ Level 58 - Hurricane
+```
+
+**#426 Drifblim**
+
+```
++ Level 1 - Shock Wave
++ Level 28 - Air Cutter
++ Level 61 - Hypnosis
++ Level 66 - Destiny Bond
++ Level 71 - Tailwind
++ Level 76 - Hurricane
+```
+
+**#427 Buneary**
 
 ```
 + Level 19 - Fake Out
@@ -2480,37 +3240,59 @@ Now in a sequence of +3 rather than +4.
 + Level 39 - Heal Bell
 ```
 
----
+**#428 Lopunny**
 
-**#431 Glameow, #432 Purugly**
+```
++ Level 19 - Fake Out
++ Level 29 - Sky Uppercut
++ Level 39 - Heal Bell
+```
+
+**#431 Glameow**
 
 ```
 + Level 11 - Bite
-+ Level 52 / 68 - Super Fang
++ Level 52 - Super Fang
 ```
 
----
+**#432 Purugly**
 
-**#434 Stunky, #435 Skuntank**
+```
++ Level 11 - Bite
++ Level 68 - Super Fang
+```
+
+**#434 Stunky**
 
 ```
 + Level 18 - Sucker Punch
 + Level 25 - Flame Burst
-+ Level 55 / 71 - Foul Play
++ Level 55 - Foul Play
 ```
 
----
-
-**#436 Bronzor, #437 Bronzong**
+**#435 Skuntank**
 
 ```
-+ Level 1 - Trick (Bronzong)
-+ Level 1 - Gravity (Bronzong)
++ Level 18 - Sucker Punch
++ Level 25 - Flame Burst
++ Level 71 - Foul Play
+```
+
+**#436 Bronzor**
+
+```
 + Level 16 - Rollout
 + Level 23 - Curse
 ```
 
----
+**#437 Bronzong**
+
+```
++ Level 1 - Trick
++ Level 1 - Gravity
++ Level 16 - Rollout
++ Level 23 - Curse
+```
 
 **#441 Chatot**
 
@@ -2520,8 +3302,6 @@ Now in a sequence of +3 rather than +4.
 + Level 65 - Heat Wave
 ```
 
----
-
 **#442 Spiritomb**
 
 ```
@@ -2530,62 +3310,82 @@ Now in a sequence of +3 rather than +4.
 + Level 61 - Pain Split
 ```
 
----
-
-**#443 Gible, #444 Gabite, #445 Garchomp**
+**#443 Gible**
 
 ```
-+ Level 1 - Aqua Tail (Garchomp)
-+ Level 44 / 58 / 63 - Outrage
-+ Level 69 - ExtremeSpeed (Garchomp)
++ Level 44 - Outrage
 ```
 
----
-
-**#447 Riolu, #448 Lucario**
+**#444 Gabite**
 
 ```
-+ Level 1 - Blaze Kick (Lucario)
-+ Level 1 - ThunderPunch (Lucario)
-+ Level 1 - Ice Punch (Lucario)
-+ Level 1 - Vacuum Wave (Riolu)
-+ Level 22 - Crunch (Riolu)
-+ Level 26 - Low Kick (Riolu)
-+ Level 33 - Hi Jump Kick (Riolu)
++ Level 58 - Outrage
 ```
 
----
-
-**#449 Hippopotas, #450 Hippowdon**
+**#445 Garchomp**
 
 ```
-+ Level 56 / 70 - Slack Off
-+ Level 63 / 80 - Superpower
++ Level 1 - Aqua Tail
++ Level 63 - Outrage
++ Level 69 - Extreme Speed
 ```
 
----
-
-**#451 Skorupi, #452 Drapion**
+**#447 Riolu**
 
 ```
-+ Level 1 - Aqua Tail (Drapion)
-+ Level 40 - Night Slash (Drapion)
-+ Level 40 - Storm Throw (Drapion)
++ Level 1 - Vacuum Wave
++ Level 22 - Crunch
++ Level 26 - Low Kick
++ Level 33 - Hi Jump Kick
 ```
 
----
-
-**#453 Croagunk, #454 Toxicroak**
+**#448 Lucario**
 
 ```
-+ Level 1 - ThunderPunch (Toxicroak)
-+ Level 1 - Ice Punch (Toxicroak)
++ Level 1 - Blaze Kick
++ Level 1 - Thunder Punch
++ Level 1 - Ice Punch
+```
+
+**#449 Hippopotas**
+
+```
++ Level 56 - Slack Off
++ Level 63 - Superpower
+```
+
+**#450 Hippowdon**
+
+```
++ Level 70 - Slack Off
++ Level 80 - Superpower
+```
+
+**#452 Drapion**
+
+```
++ Level 1 - Aqua Tail
++ Level 40 - Night Slash
++ Level 40 - Storm Throw
+```
+
+**#453 Croagunk**
+
+```
 + Level 26 - Drain Punch
 + Level 33 - Cross Chop
-+ Level 55 / 70 - Gunk Shot
++ Level 55 - Gunk Shot
 ```
 
----
+**#454 Toxicroak**
+
+```
++ Level 1 - Thunder Punch
++ Level 1 - Ice Punch
++ Level 26 - Drain Punch
++ Level 33 - Cross Chop
++ Level 70 - Gunk Shot
+```
 
 **#455 Carnivine**
 
@@ -2597,40 +3397,65 @@ Now in a sequence of +3 rather than +4.
 + Level 54 - Leaf Storm
 ```
 
----
-
-**#456 Finneon, #457 Lumineon**
+**#457 Lumineon**
 
 ```
-+ Level 1 - Ominous Wind (Lumineon)
-+ Level 1 - Psybeam (Lumineon)
-+ Level 31 - Quiver Dance (Lumineon)
++ Level 1 - Ominous Wind
++ Level 1 - Psybeam
++ Level 31 - Quiver Dance
 ```
 
----
-
-**#459 Snover, #460 Abomasnow**
+**#459 Snover**
 
 ```
-+ Level 51 / 69 - Seed Bomb
++ Level 51 - Seed Bomb
 ```
 
----
+**#460 Abomasnow**
+
+```
++ Level 69 - Seed Bomb
+```
 
 **#479 Rotom**
 
 ```
-+ Level 1 - Signal Beam (Regular Rotom only)
-+ Level 1 - Hurricane (Fan Rotom only)
-+ Level 1 - Glaciate (Frost Rotom only)
-+ Level 1 - Lava Plume (Oven Rotom only)
-+ Level 1 - Scald (Wash Rotom only)
-+ Level 1 - Energy Ball (Mow Rotom only)
++ Level 1 - Signal Beam
 ```
 
-## Unova Pokémon
+**#479 Rotom Fan**
+
+```
++ Level 1 - Hurricane
+```
+
+**#479 Rotom Frost**
+
+```
++ Level 1 - Glaciate
+```
+
+**#479 Rotom Oven**
+
+```
++ Level 1 - Lava Plume
+```
+
+**#479 Rotom Wash**
+
+```
++ Level 1 - Scald
+```
+
+**#479 Rotom Mow**
+
+```
++ Level 1 - Energy Ball
+```
 
 ---
+
+## Unova Pokémon
 
 **#494 Victini**
 
@@ -2640,168 +3465,289 @@ Now in a sequence of +3 rather than +4.
 + Level 1 - V-Create
 ```
 
----
-
-**#495 Snivy, #496 Servine, #497 Serperior**
+**#496 Servine**
 
 ```
-+ Level 17 - Twister (Servine, Serperior)
-- Level 24 - Zen Headbutt (Servine, Serperior)
-+ Level 36 - DragonBreath (Serperior)
-- Level 44 - Iron Tail (Serperior)
-- Level 50 - Dragon Pulse (Serperior)
-- Level 56 - Power Whip (Serperior)
-+ Level 62 - Outrage (Serperior)
-+ Level 68 - Mirror Coat (Serperior)
-= Level 74 - Leaf Storm (Serperior)
++ Level 17 - Twister
+- Level 24 - Zen Headbutt
 ```
 
----
-
-**#498 Tepig, #499 Pignite, #500 Emboar**
+**#497 Serperior**
 
 ```
-+ Level 1 - Superpower (Emboar)
-+ Level 1 - Fire Punch (Emboar)
-+ Level 1 - ThunderPunch (Emboar)
-+ Level 1 - Focus Punch (Emboar)
-- Level 17 - Magnitude (Pignite, Emboar)
-- Level 20 - Arm Thrust (Pignite, Emboar)
-- Level 28 - Sucker Punch (Pignite, Emboar)
-+ Level 34 - Bulldoze (Pignite, Emboar)
-+ Level 42 / 47 – Earthquake (Pignite, Emboar)
++ Level 17 - Twister
++ Level 36 - DragonBreath
+- Level 24 - Zen Headbutt
+- Level 44 - Iron Tail
+- Level 50 - Dragon Pulse
+- Level 56 - Power Whip
++ Level 62 - Outrage
++ Level 68 - Mirror Coat
+= Level 74 - Leaf Storm
 ```
 
----
-
-**#501 Oshawott, #502 Dewott, #503 Samurott**
+**#499 Pignite**
 
 ```
-+ Level 1 - Secret Sword (Samurott)
-+ Level 17 - Karate Chop (Dewott, Samurott)
-+ Level 36 - Sacred Sword (Samurott)
-+ Level 55 / 69 - Close Combat (Dewott, Samurott)
-+ Level 76 - Shell Smash (Samurott)
+- Level 17 - Magnitude
+- Level 20 - Arm Thrust
+- Level 28 - Sucker Punch
++ Level 34 - Bulldoze
++ Level 42 - Earthquake
 ```
 
----
-
-**#504 Patrat, #505 Watchog**
+**#500 Emboar**
 
 ```
-+ Level 39 / 46 - Zen Headbutt
++ Level 1 - Superpower
++ Level 1 - Fire Punch
++ Level 1 - Thunder Punch
++ Level 1 - Focus Punch
+- Level 17 - Magnitude
+- Level 20 - Arm Thrust
+- Level 28 - Sucker Punch
++ Level 34 - Bulldoze
++ Level 47 - Earthquake
 ```
 
----
+**#502 Dewott**
 
-**#509 Purrloin, #510 Liepard**
+```
++ Level 17 - Karate Chop
++ Level 55 - Close Combat
+```
+
+**#503 Samurott**
+
+```
++ Level 1 - Secret Sword
++ Level 17 - Karate Chop
++ Level 36 - Sacred Sword
++ Level 69 - Close Combat
++ Level 76 - Shell Smash
+```
+
+**#504 Patrat**
+
+```
++ Level 39 - Zen Headbutt
+```
+
+**#505 Watchog**
+
+```
++ Level 46 - Zen Headbutt
+```
+
+**#509 Purrloin**
 
 ```
 + Level 8 - Faint Attack
 = Level 17 - Night Slash
-+ Level 37 / 43 - Foul Play
-+ Level 50 / 60 - Dark Pulse
++ Level 37 - Foul Play
++ Level 50 - Dark Pulse
 ```
 
----
-
-**#511 Pansage, #512 Simisage, #513 Pansear, #514 Simisear, #515 Panpour, #516 Simipour**
+**#510 Liepard**
 
 ```
-The first forms have had a restructure, similar to the Eeveelutions;
-Level 1 - Scratch / Scratch / Scratch
-Level 6 - Leer / Leer / Leer
-Level 8 - Vine Whip / Incinerate / Water Gun
-Level 10 - Hone Claws / Hone Claws / Hone Claws
-Level 12 - Acrobatics / Acrobatics / Acrobatics
-Level 14 - Magical Leaf / Flame Burst / Water Pulse
-Level 16 - Lick / Lick / Lick
-Level 18 - Leech Seed / Yawn / Tickle
-Level 20 - Seed Bomb / Lava Plume / Scald
-Level 22 - Torment / Torment / Torment
-Level 24 - Crunch / Crunch / Crunch
-Level 26 - Fling / Fling / Fling
-Level 28 - Natural Gift / Natural Gift / Natural Gift
-Level 30 - Grass Pledge / Fire Pledge / Water Pledge
-Level 32 - Low Kick / Low Kick / Low Kick
-Level 34 - Nasty Plot / Nasty Plot / Nasty Plot
-Level 36 - Grasswhistle / Sleep Talk / Role Play
-Level 38 - Power Whip / Fire Blast / Hydro Pump
-Level 40 - Leaf Storm / Overheat / Water Spout
-Level 42 - Frenzy Plant / Blast Burn / Hydro Cannon
-Level 46 - Baton Pass / Baton Pass / Baton Pass
++ Level 8 - Faint Attack
+= Level 17 - Night Slash
++ Level 43 - Foul Play
++ Level 60 - Dark Pulse
 ```
 
-As for the second evolutions...
-
-- Level 1 - Nasty Plot / Nasty Plot / Nasty Plot
-
-- Level 1 - Low Kick / Low Kick / Low Kick
-
-- Level 49 - Leaf Storm / Overheat / Water Spout
-
----
-
-**#517 Munna, #518 Musharna**
+**#511 Pansage**
 
 ```
-+ Level 21 - Baton Pass (Munna)
-+ Level 27 - Psyshock (Munna)
-+ Level 39 - Psychic (Musharna)
+= Level 6 - Leer
+= Level 8 - Vine Whip
++ Level 10 - Hone Claws
+= Level 12 - Acrobatics
++ Level 14 - Magical Leaf
+= Level 16 - Lick
+= Level 18 - Leech Seed
+= Level 20 - Seed Bomb
+= Level 22 - Torment
+= Level 24 - Crunch
+= Level 26 - Fling
+= Level 28 - Natural Gift
++ Level 30 - Grass Pledge
++ Level 32 - Low Kick
++ Level 34 - Nasty Plot
++ Level 36 - Grass Whistle
++ Level 38 - Power Whip
++ Level 40 - Leaf Storm
++ Level 42 - Frenzy Plant
++ Level 46 - Baton Pass
 ```
 
----
-
-**#519 Pidove, #520 Tranquill, #521 Unfezant**
+**#512 Simisage**
 
 ```
-+ Level 1 - Heat Wave (Unfezant)
-+ Level 1 - Silver Wind (Unfezant)
-+ Level 1 - Ominous Wind (Unfezant)
-+ Level 1 - Hypnosis (Unfezant)
-+ Level 1 - Morning Sun (Unfezant)
++ Level 1 - Nasty Plot
++ Level 1 - Low Kick
++ Level 49 - Leaf Storm
+```
+
+**#513 Pansear**
+
+```
+= Level 6 - Leer
+= Level 8 - Incinerate
++ Level 10 - Hone Claws
+= Level 12 - Acrobatics
++ Level 14 - Flame Burst
+= Level 16 - Lick
+= Level 18 - Yawn
+= Level 20 - Lava Plume
+= Level 22 - Torment
+= Level 24 - Crunch
+= Level 26 - Fling
+= Level 28 - Natural Gift
++ Level 30 - Fire Pledge
++ Level 32 - Low Kick
++ Level 34 - Nasty Plot
++ Level 36 - Sleep Talk
++ Level 38 - Fire Blast
++ Level 40 - Overheat
++ Level 42 - Blast Burn
++ Level 46 - Baton Pass
+```
+
+**#514 Simisear**
+
+```
++ Level 1 - Nasty Plot
++ Level 1 - Low Kick
++ Level 49 - Overheat
+```
+
+**#515 Panpour**
+
+```
+= Level 6 - Leer
+= Level 8 - Water Gun
++ Level 10 - Hone Claws
+= Level 12 - Acrobatics
++ Level 14 - Water Pulse
+= Level 16 - Lick
+= Level 18 - Tickle
+= Level 20 - Scald
+= Level 22 - Torment
+= Level 24 - Crunch
+= Level 26 - Fling
+= Level 28 - Natural Gift
++ Level 30 - Water Pledge
++ Level 32 - Low Kick
++ Level 34 - Nasty Plot
++ Level 36 - Role Play
++ Level 38 - Hydro Pump
++ Level 40 - Water Spout
++ Level 42 - Hydro Cannon
++ Level 46 - Baton Pass
+```
+
+**#516 Simipour**
+
+```
++ Level 1 - Nasty Plot
++ Level 1 - Low Kick
++ Level 49 - Water Spout
+```
+
+**#517 Munna**
+
+```
++ Level 21 - Baton Pass
++ Level 27 - Psyshock
+```
+
+**#518 Musharna**
+
+```
++ Level 39 - Psychic
+```
+
+**#519 Pidove**
+
+```
 - Level 11 - Swift
-- Level 32 / 36 / 38 - Hyper Voice
-- Level 50 / 59 / 66 - Hurricane
 ```
 
----
+**#520 Tranquill**
 
-**#522 Blitzle, #523 Zebstrika**
+```
+- Level 11 - Swift
+- Level 36 - Hyper Voice
+- Level 59 - Hurricane
+```
+
+**#521 Unfezant**
+
+```
++ Level 1 - Heat Wave
++ Level 1 - Silver Wind
++ Level 1 - Ominous Wind
++ Level 1 - Hypnosis
++ Level 1 - Morning Sun
+- Level 11 - Swift
+- Level 38 - Hyper Voice
+- Level 66 - Hurricane
+```
+
+**#522 Blitzle**
 
 ```
 + Level 13 - Double Kick
-+ Level 47 / 58 - Volt Tackle
++ Level 47 - Volt Tackle
 ```
 
----
-
-**#524 Roggenrola, #525 Boldore, #526 Gigalith**
+**#523 Zebstrika**
 
 ```
-+ Level 1 - Gravity (Gigalith)
-+ Level 1 - Heavy Slam (Gigalith)
++ Level 13 - Double Kick
++ Level 58 - Volt Tackle
+```
+
+**#524 Roggenrola**
+
+```
 + Level 12 - Magnitude
 ```
 
----
-
-**#527 Woobat, #528 Swoobat**
+**#525 Boldore**
 
 ```
-+ Level 1 - Roost (Swoobat)
++ Level 12 - Magnitude
+```
+
+**#526 Gigalith**
+
+```
++ Level 1 - Gravity
++ Level 1 - Heavy Slam
++ Level 12 - Magnitude
+```
+
+**#527 Woobat**
+
+```
 + Level 52 - Stored Power
 ```
 
----
-
-**#529 Drilbur, #530 Excadrill**
+**#528 Swoobat**
 
 ```
-+ Level 1 - Iron Head (Excadrill)
++ Level 1 - Roost
++ Level 52 - Stored Power
 ```
 
----
+**#530 Excadrill**
+
+```
++ Level 1 - Iron Head
+```
 
 **#531 Audino**
 
@@ -2814,96 +3760,124 @@ As for the second evolutions...
 + Level 70 - Gravity
 ```
 
----
-
-**#532 Timburr, #533 Gurdurr, #534 Conkeldurr**
+**#532 Timburr**
 
 ```
-+ Level 1 - Fire Punch (Conkeldurr)
-+ Level 1 - ThunderPunch (Conkeldurr)
-+ Level 1 - Ice Punch (Conkeldurr)
-+ Level 1 - Mach Punch (Conkeldurr)
-+ Level 53 / 61 / 61 - Drain Punch
++ Level 53 - Drain Punch
 ```
 
----
-
-**#535 Tympole, #536 Palpitoad, #537 Seismitoad**
+**#533 Gurdurr**
 
 ```
-+ Level 1 - Gunk Shot (Seismitoad)
-+ Level 1 - Ice Punch (Seismitoad)
-+ Level 48 / 55 / 64 - Earth Power
++ Level 61 - Drain Punch
 ```
 
----
+**#534 Conkeldurr**
+
+```
++ Level 1 - Fire Punch
++ Level 1 - Thunder Punch
++ Level 1 - Ice Punch
++ Level 1 - Mach Punch
++ Level 61 - Drain Punch
+```
+
+**#535 Tympole**
+
+```
++ Level 48 - Earth Power
+```
+
+**#536 Palpitoad**
+
+```
++ Level 55 - Earth Power
+```
+
+**#537 Seismitoad**
+
+```
++ Level 1 - Gunk Shot
++ Level 1 - Ice Punch
++ Level 64 - Earth Power
+```
 
 **#538 Throh**
 
 ```
 + Level 1 - Fire Punch
-+ Level 1 - ThunderPunch
++ Level 1 - Thunder Punch
 + Level 1 - Ice Punch
 + Level 57 - Counter
 ```
-
----
 
 **#539 Sawk**
 
 ```
 + Level 1 - Fire Punch
-+ Level 1 - ThunderPunch
++ Level 1 - Thunder Punch
 + Level 1 - Ice Punch
 + Level 57 - Low Kick
 ```
 
----
-
-**#540 Sewaddle, #541 Swadloon, #542 Leavanny**
+**#541 Swadloon**
 
 ```
-+ Level 20 - Synthesis (Swadloon)
-+ Level 25 - Screech (Leavanny)
-+ Level 54 - Me First (Leavanny)
-+ Level 58 - Agility (Leavanny)
++ Level 20 - Synthesis
 ```
 
----
-
-**#543 Venipede, #544 Whirlipede, #545 Scolipede**
+**#542 Leavanny**
 
 ```
-+ Level 1 - Spikes (Scolipede)
-+ Level 1 - Toxic Spikes (Scolipede)
++ Level 25 - Screech
++ Level 54 - Me First
++ Level 58 - Agility
+```
+
+**#543 Venipede**
+
+```
 + Level 17 - Twinneedle
-+ Level 61 - Superpower (Scolipede)
 ```
 
----
-
-**#546 Cottonee, #547 Whimsicott**
+**#544 Whirlipede**
 
 ```
-+ Level 1 - Encore (Whimsicott)
-+ Level 1 - Switcheroo (Whimsicott)
-+ Level 1 - Tickle (Whimsicott)
-+ Level 64 - GrassWhistle (Whimsicott)
++ Level 17 - Twinneedle
 ```
 
----
-
-**#548 Petilil, #549 Lilligant**
+**#545 Scolipede**
 
 ```
-+ Level 1 - Charm (Lilligant)
-+ Level 1 - Sweet Scent (Lilligant)
-+ Level 1 - Ingrain (Lilligant)
-+ Level 15 - Extrasensory (Petilil)
-+ Level 64 - Earth Power (Lilligant)
++ Level 1 - Spikes
++ Level 1 - Toxic Spikes
++ Level 17 - Twinneedle
++ Level 61 - Superpower
 ```
 
----
+**#547 Whimsicott**
+
+```
++ Level 1 - Encore
++ Level 1 - Switcheroo
++ Level 1 - Tickle
++ Level 64 - Grass Whistle
+```
+
+**#548 Petilil**
+
+```
++ Level 15 - Extrasensory
+```
+
+**#549 Lilligant**
+
+```
++ Level 1 - Charm
++ Level 1 - Sweet Scent
++ Level 1 - Ingrain
++ Level 64 - Earth Power
+```
 
 **#550 Basculin**
 
@@ -2912,60 +3886,79 @@ As for the second evolutions...
 + Level 61 - Super Fang
 ```
 
----
-
-**#551 Sandile, #552 Krokorok, #553 Krookodile**
+**#551 Sandile**
 
 ```
-+ Level 1 - Fire Fang (Krookodile)
-+ Level 1 - Thunder Fang (Krookodile)
-+ Level 49 / 56 / 66 - Sucker Punch
++ Level 49 - Sucker Punch
 ```
 
----
+**#552 Krokorok**
 
-**#554 Darumaka, #555 Darmanitan**
+```
++ Level 56 - Sucker Punch
+```
+
+**#553 Krookodile**
+
+```
++ Level 1 - Fire Fang
++ Level 1 - Thunder Fang
++ Level 66 - Sucker Punch
+```
+
+**#554 Darumaka**
 
 ```
 + Level 1 - Yawn
-+ Level 61 - Focus Punch (Darmanitan)
 ```
 
----
+**#555 Darmanitan**
+
+```
++ Level 1 - Yawn
++ Level 61 - Focus Punch
+```
 
 **#556 Maractus**
 
 ```
 + Level 24 - Spikes
-+ Level 35 - Grasswhistle
++ Level 35 - Grass Whistle
 + Level 47 - Bounce
 + Level 53 - Wood Hammer
 ```
 
----
-
-**#557 Dwebble, #558 Crustle**
+**#557 Dwebble**
 
 ```
 + Level 33 - Night Slash
 ```
 
----
-
-**#559 Scraggy, #560 Scrafty**
+**#558 Crustle**
 
 ```
-+ Level 1 - Fire Punch (Scrafty)
-+ Level 1 - ThunderPunch (Scrafty)
-+ Level 1 - Ice Punch (Scrafty)
-+ Level 1 - Drain Punch (Scrafty)
++ Level 33 - Night Slash
+```
+
+**#559 Scraggy**
+
+```
 + Level 25 - Zen Headbutt
-= Level 39 – Crunch (Scrafty)
-- Level 51 - Sucker Punch (Scrafty)
-+ Level 57 / 72 - Dragon Dance
++ Level 57 - Dragon Dance
 ```
 
----
+**#560 Scrafty**
+
+```
++ Level 1 - Fire Punch
++ Level 1 - Thunder Punch
++ Level 1 - Ice Punch
++ Level 1 - Drain Punch
++ Level 25 - Zen Headbutt
+= Level 39 - Crunch
+- Level 51 - Sucker Punch
++ Level 72 - Dragon Dance
+```
 
 **#561 Sigilyph**
 
@@ -2976,118 +3969,175 @@ As for the second evolutions...
 + Level 57 - Hurricane
 ```
 
----
-
-**#562 Yamask, #563 Cofagrigus**
+**#562 Yamask**
 
 ```
-+ Level 1 - Gravity (Cofagrigus)
-+ Level 1 - Disable (Cofagrigus)
 + Level 23 - Pain Split
 + Level 27 - Nasty Plot
-+ Level 63 - Metal Burst (Cofagrigus)
 ```
 
----
-
-**#566 Archen, #567 Archeops**
+**#563 Cofagrigus**
 
 ```
-+ Level 37 - Dragon Pulse (Archeops)
-+ Level 54 / 66 - Earth Power
-+ Level 57 / 71 - Head Smash
++ Level 1 - Gravity
++ Level 1 - Disable
++ Level 23 - Pain Split
++ Level 27 - Nasty Plot
++ Level 63 - Metal Burst
 ```
 
----
+**#566 Archen**
 
-**#568 Trubbish, #569 Garbodor**
+```
++ Level 54 - Earth Power
++ Level 57 - Head Smash
+```
+
+**#567 Archeops**
+
+```
++ Level 37 - Dragon Pulse
++ Level 66 - Earth Power
++ Level 71 - Head Smash
+```
+
+**#568 Trubbish**
 
 ```
 + Level 16 - Rollout
 + Level 21 - Curse
 + Level 27 - Rock Blast
 + Level 32 - Pain Split
-+ Level 49 / 64 - Selfdestruct
++ Level 49 - Selfdestruct
 ```
 
----
-
-**#570 Zorua, #571 Zoroark**
+**#569 Garbodor**
 
 ```
-+ Level 1 - Extrasensory (Zoroark)
-+ Level 1 - Counter (Zoroark)
-+ Level 1 - Low Kick (Zoroark)
-+ Level 30 - Dark Pulse (Zoroark)
++ Level 16 - Rollout
++ Level 21 - Curse
++ Level 27 - Rock Blast
++ Level 32 - Pain Split
++ Level 64 - Selfdestruct
 ```
 
----
-
-**#572 Minccino, #573 Cinccino**
+**#571 Zoroark**
 
 ```
-+ Level 1 - Icicle Spear (Cinccino)
-+ Level 23 - Iron Tail (Minccino)
-+ Level 29 - Aqua Tail (Minccino)
-+ Level 29 - Magic Coat (Cinccino)
-+ Level 46 - Endeavor (Cinccino)
++ Level 1 - Extrasensory
++ Level 1 - Counter
++ Level 1 - Low Kick
++ Level 30 - Dark Pulse
 ```
 
----
-
-**#574 Gothita, #575 Gothorita, #576 Gothitelle**
+**#572 Minccino**
 
 ```
-+ Level 1 - Gravity (Gothitelle)
-+ Level 1 - Metronome (Gothitelle)
++ Level 23 - Iron Tail
++ Level 29 - Aqua Tail
+```
+
+**#573 Cinccino**
+
+```
++ Level 1 - Icicle Spear
++ Level 29 - Magic Coat
++ Level 46 - Endeavor
+```
+
+**#574 Gothita**
+
+```
 + Level 23 - Recover
 + Level 32 - Dark Pulse
-+ Level 35 / 37 / 37 - Foul Play
-+ Level 43 / 47 / 50 - Mirror Coat
++ Level 35 - Foul Play
++ Level 43 - Mirror Coat
 ```
 
----
-
-**#577 Solosis, #578 Duosion, #579 Reuniclus**
+**#575 Gothorita**
 
 ```
-+ Level 1 - Gravity (Reuniclus)
-+ Level 1 - Trick (Reuniclus)
++ Level 23 - Recover
++ Level 32 - Dark Pulse
++ Level 37 - Foul Play
++ Level 47 - Mirror Coat
+```
+
+**#576 Gothitelle**
+
+```
++ Level 1 - Gravity
++ Level 1 - Metronome
++ Level 23 - Recover
++ Level 32 - Dark Pulse
++ Level 37 - Foul Play
++ Level 50 - Mirror Coat
+```
+
+**#577 Solosis**
+
+```
 + Level 23 - Shock Wave
 + Level 32 - Confuse Ray
-+ Level 43 / 47 / 50 - Magic Coat
++ Level 43 - Magic Coat
 ```
 
----
-
-**#580 Ducklett, #581 Swanna**
+**#578 Duosion**
 
 ```
-+ Level 1 - Heat Wave (Swanna)
-+ Level 35 - Acrobatics (Swanna)
++ Level 23 - Shock Wave
++ Level 32 - Confuse Ray
++ Level 47 - Magic Coat
 ```
 
----
-
-**#582 Vanillite, #583 Vanillish, #584 Vanilluxe**
+**#579 Reuniclus**
 
 ```
-+ Level 1 - Magnet Rise (Vanilluxe)
-+ Level 1 - Autotomize (Vanilluxe)
++ Level 1 - Gravity
++ Level 1 - Trick
++ Level 23 - Shock Wave
++ Level 32 - Confuse Ray
++ Level 50 - Magic Coat
+```
+
+**#581 Swanna**
+
+```
++ Level 1 - Heat Wave
++ Level 35 - Acrobatics
+```
+
+**#582 Vanillite**
+
+```
 + Level 24 - Water Pulse
 + Level 29 - Ice Shard
 + Level 33 - Extrasensory
 ```
 
----
-
-**#585 Deerling, #586 Sawsbuck**
+**#583 Vanillish**
 
 ```
-+ Level 1 - Wood Hammer (Sawsbuck)
++ Level 24 - Water Pulse
++ Level 29 - Ice Shard
++ Level 33 - Extrasensory
 ```
 
----
+**#584 Vanilluxe**
+
+```
++ Level 1 - Magnet Rise
++ Level 1 - Autotomize
++ Level 24 - Water Pulse
++ Level 29 - Ice Shard
++ Level 33 - Extrasensory
+```
+
+**#586 Sawsbuck**
+
+```
++ Level 1 - Wood Hammer
+```
 
 **#587 Emolga**
 
@@ -3101,21 +4151,23 @@ As for the second evolutions...
 + Level 44 - Baton Pass
 ```
 
----
-
-**#588 Karrablast, #589 Escavalier**
+**#588 Karrablast**
 
 ```
-+ Level 1 - Needle Arm (Escavalier)
-+ Level 1 - Drill Peck (Escavalier)
-+ Level 1 - Counter (Escavalier)
-+ Level 1 - Drill Run (Escavalier)
 + Level 60 - Megahorn
 ```
 
----
+**#589 Escavalier**
 
-**#590 Foongus, #591 Amoonguss**
+```
++ Level 1 - Needle Arm
++ Level 1 - Drill Peck
++ Level 1 - Counter
++ Level 1 - Drill Run
++ Level 60 - Megahorn
+```
+
+**#590 Foongus**
 
 ```
 + Level 22 - Stun Spore
@@ -3123,19 +4175,32 @@ As for the second evolutions...
 + Level 26 - Defense Curl
 + Level 26 - Rollout
 + Level 30 - Body Slam
-+ Level 40 - Seed Bomb (Amoonguss)
 ```
 
----
+**#591 Amoonguss**
 
-**#592 Frillish, #593 Jellicent**
+```
++ Level 22 - Stun Spore
++ Level 22 - PoisonPowder
++ Level 26 - Defense Curl
++ Level 26 - Rollout
++ Level 30 - Body Slam
++ Level 40 - Seed Bomb
+```
+
+**#592 Frillish**
 
 ```
 + Level 1 - Confuse Ray
 + Level 1 - Pain Split
 ```
 
----
+**#593 Jellicent**
+
+```
++ Level 1 - Confuse Ray
++ Level 1 - Pain Split
+```
 
 **#594 Alomomola**
 
@@ -3144,91 +4209,110 @@ As for the second evolutions...
 + Level 1 - Mirror Coat
 ```
 
----
-
-**#597 Ferroseed, #598 Ferrothorn**
+**#597 Ferroseed**
 
 ```
-+ Level 1 - Stealth Rock (Ferrothorn)
 + Level 1 - Rapid Spin
 + Level 23 - Bullet Seed
-+ Level 28 - Leech Seed (Ferroseed)
-+ Level 28 - Spikes (Ferrothorn)
++ Level 28 - Leech Seed
 + Level 32 - Seed Bomb
 ```
 
----
-
-**#599 Klink, #600 Klang, #601 Klinklang**
+**#598 Ferrothorn**
 
 ```
-+ Level 1 - Gravity (Klinklang)
++ Level 1 - Stealth Rock
++ Level 1 - Rapid Spin
++ Level 23 - Bullet Seed
++ Level 28 - Spikes
++ Level 32 - Seed Bomb
+```
+
+**#599 Klink**
+
+```
 + Level 33 - Spark
 ```
 
----
-
-**#602 Tynamo, #603 Eelektrik, #604 Eelektross**
+**#600 Klang**
 
 ```
-+ Level 54 - Coil (Eelektross)
-+ Level 64 - Super Fang (Eelektross)
++ Level 33 - Spark
 ```
 
----
-
-**#605 Elgyem, #606 Beheeyem**
+**#601 Klinklang**
 
 ```
-+ Level 1 - Power Swap (Beheeyem)
-+ Level 1 - Guard Swap (Beheeyem)
-= Level 37 – Psych Up (Beheeyem)
-= Level 42 – Psychic (Beheeyem)
-+ Level 59 / 73 - Nasty Plot
++ Level 1 - Gravity
++ Level 33 - Spark
 ```
 
----
-
-**#607 Litwick, #608 Lampent, #609 Chandelure**
+**#604 Eelektross**
 
 ```
-+ Level 34 - Heat Wave (Lampent)
-= Level 39 – Inferno (Lampent)
++ Level 54 - Coil
++ Level 64 - Super Fang
 ```
 
----
-
-**#610 Axew, #611 Fraxure, #612 Haxorus**
+**#605 Elgyem**
 
 ```
-+ Level 1 - Fire Punch (Haxorus)
-+ Level 1 - ThunderPunch (Haxorus)
-+ Level 1 - Aqua Tail (Haxorus)
-+ Level 1 - Iron Tail (Haxorus)
++ Level 59 - Nasty Plot
 ```
 
----
+**#606 Beheeyem**
 
-**#613 Cubchoo, #614 Beartic**
+```
++ Level 1 - Power Swap
++ Level 1 - Guard Swap
+= Level 37 – Psych Up
+= Level 42 – Psychic
++ Level 73 - Nasty Plot
+```
+
+**#608 Lampent**
+
+```
++ Level 34 - Heat Wave
+= Level 39 – Inferno
+```
+
+**#612 Haxorus**
+
+```
++ Level 1 - Fire Punch
++ Level 1 - Thunder Punch
++ Level 1 - Aqua Tail
++ Level 1 - Iron Tail
+```
+
+**#613 Cubchoo**
 
 ```
 + Level 1 - Yawn
-- Level 41 - Storm Throw (Beartic)
-- Level 53 - Close Combat (Beartic)
 ```
 
----
-
-**#616 Shelmet, #617 Accelgor**
+**#614 Beartic**
 
 ```
-+ Level 1 - Extremespeed (Accelgor)
-+ Level 1 - Gunk Shot (Accelgor)
-- Level 56 - Shell Smash (Shelmet)
-+ Level 60 - Aura Sphere (Accelgor)
++ Level 1 - Yawn
+- Level 41 - Storm Throw
+- Level 53 - Close Combat
 ```
 
----
+**#616 Shelmet**
+
+```
+- Level 56 - Shell Smash
+```
+
+**#617 Accelgor**
+
+```
++ Level 1 - Extreme Speed
++ Level 1 - Gunk Shot
++ Level 60 - Aura Sphere
+```
 
 **#618 Stunfisk**
 
@@ -3237,18 +4321,14 @@ As for the second evolutions...
 + Level 58 - Pain Split
 ```
 
----
-
-**#619 Mienfoo, #620 Mienshao**
+**#620 Mienshao**
 
 ```
-+ Level 1 - Vacuum Wave (Mienshao)
-= Level 43 – U-turn (Mienshao)
-= Level 47 – Wide Guard (Mineshao)
-= Level 51 – Bounce (Mienshao)
++ Level 1 - Vacuum Wave
+= Level 43 – U-turn
+= Level 47 – Wide Guard
+= Level 51 – Bounce
 ```
-
----
 
 **#621 Druddigon**
 
@@ -3259,18 +4339,14 @@ As for the second evolutions...
 + Level 37 - Sucker Punch
 ```
 
----
-
-**#622 Golett, #623 Golurk**
+**#623 Golurk**
 
 ```
-+ Level 1 - Fire Punch (Golurk)
-+ Level 1 - ThunderPunch (Golurk)
-+ Level 1 - Ice Punch (Golurk)
-= Level 36 – Heavy Slam (Golurk)
++ Level 1 - Fire Punch
++ Level 1 - Thunder Punch
++ Level 1 - Ice Punch
+= Level 36 – Heavy Slam
 ```
-
----
 
 **#624 Pawniard**
 
@@ -3278,8 +4354,6 @@ As for the second evolutions...
 + Level 43 - Psycho Cut
 + Level 52 - Sucker Punch
 ```
-
----
 
 **#625 Bisharp**
 
@@ -3294,8 +4368,6 @@ As for the second evolutions...
 + Level 54 – Sucker Punch
 ```
 
----
-
 **#626 Bouffalant**
 
 ```
@@ -3303,34 +4375,28 @@ As for the second evolutions...
 + Level 1 - Zen Headbutt
 ```
 
----
-
-**#627 Rufflet, #628 Braviary**
+**#628 Braviary**
 
 ```
-+ Level 1 - Roost (Braviary)
-+ Level 39 - Close Combat (Braviary)
-= Level 44 – Air Slash [Braviary]
-= Level 48 – Crush Claw [Braviary]
-= Level 52 – Sky Drop [Braviary]
-= Level 55 – Superpower [Braviary]
-+ Level 75 - ExtremeSpeed (Braviary)
++ Level 1 - Roost
++ Level 39 - Close Combat
+= Level 44 – Air Slash
+= Level 48 – Crush Claw
+= Level 52 – Sky Drop
+= Level 55 – Superpower
++ Level 75 - Extreme Speed
 ```
 
----
-
-**#629 Vullaby, #630 Mandibuzz**
+**#630 Mandibuzz**
 
 ```
-+ Level 1 - Heat Wave (Mandibuzz)
-+ Level 1 - Roost (Mandibuzz)
-= Level 44 – Air Slash [Mandibuzz]
-= Level 48 – Dark Pulse [Mandibuzz]
-= Level 52 – Embargo [Mandibuzz]
-= Level 55 – Bone Rush [Mandibuzz]
++ Level 1 - Heat Wave
++ Level 1 - Roost
+= Level 44 – Air Slash
+= Level 48 – Dark Pulse
+= Level 52 – Embargo
+= Level 55 – Bone Rush
 ```
-
----
 
 **#631 Heatmor**
 
@@ -3338,15 +4404,11 @@ As for the second evolutions...
 + Level 66 - Heat Wave
 ```
 
----
-
 **#632 Durant**
 
 ```
 + Level 1 - Thunder Fang
 ```
-
----
 
 **#633 Deino**
 
@@ -3355,9 +4417,7 @@ As for the second evolutions...
 + Level 45 - Earth Power
 ```
 
----
-
-**#634 Zweilous, #635 Hydreigon**
+**#634 Zweilous**
 
 ```
 + Level 30 - Fire Fang
@@ -3369,19 +4429,29 @@ As for the second evolutions...
 = Level 44 – Dragon Rush
 + Level 47 – Earth Power
 = Level 51 – Body Slam
-- Level 55 - Head Smash (Zweilous)
+- Level 55 - Head Smash
 ```
 
----
-
-**#636 Larvesta, #637 Volcarona**
+**#635 Hydreigon**
 
 ```
-+ Level 1 - Morning Sun (Volcarona)
-= Level 45 – Quiver Dance (Volcarona)
++ Level 30 - Fire Fang
++ Level 30 - Ice Fang
++ Level 30 - Thunder Fang
+= Level 33 – Dragon Pulse
++ Level 36 – Dark Pulse
+= Level 40 - Work Up
+= Level 44 – Dragon Rush
++ Level 47 – Earth Power
+= Level 51 – Body Slam
 ```
 
----
+**#637 Volcarona**
+
+```
++ Level 1 - Morning Sun
+= Level 45 – Quiver Dance
+```
 
 **#638 Cobalion**
 
@@ -3389,15 +4459,11 @@ As for the second evolutions...
 + Level 79 - Secret Sword
 ```
 
----
-
 **#639 Terrakion**
 
 ```
 + Level 79 - Secret Sword
 ```
-
----
 
 **#640 Virizion**
 
@@ -3405,45 +4471,34 @@ As for the second evolutions...
 + Level 79 - Secret Sword
 ```
 
----
-
 **#643 Reshiram**
 
 ```
-* Fire Blast replaces the Imprison at Level 64.
+- Level 64 - Fire Blast
 = Level 71 - Blue Flare
-* All remaining moves have their level at 78, 85, 92.
 ```
-
----
 
 **#644 Zekrom**
 
 ```
-* Thunder replaces the Imprison at Level 64.
+- Level 64 - Thunder
 = Level 71 - Bolt Strike
-* All remaining moves have their level at 78, 85, 92.
 ```
-
----
 
 **#646 Kyurem**
 
 ```
-* Endeavor replaces the Imprison at Level 64. Blizzard moves into the Level 71 slot.
+- Level 64 - Endeavor
+= Level 71 - Blizzard
 + Level 78 - Ice Burn
 + Level 78 - Freeze Shock
 ```
-
----
 
 **#647 Keldeo**
 
 ```
 + Level 1 - Secret Sword
 ```
-
----
 
 **#648 Meloetta**
 

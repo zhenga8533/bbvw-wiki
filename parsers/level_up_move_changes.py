@@ -7,6 +7,7 @@ def main():
     lines = content.split("\n")
     n = len(lines)
     md = ""
+
     listing = False
 
     for i in range(n):
@@ -18,12 +19,12 @@ def main():
                 listing = False
             continue
         elif line.startswith("#"):
-            md += f"---\n\n**{line}**\n\n```\n"
+            md += f"**{line}**\n\n```\n"
             listing = True
         elif line.endswith("Pokémon"):
-            md += f"## {line}\n\n"
+            md += f"---\n\n## {line}\n\n"
         elif line == "Key" or line == "General Attack Changes":
-            md += f"## {line}\n\n```\n"
+            md += f"---\n\n## {line}\n\n```\n"
             listing = True
         else:
             md += f"{line}\n"
