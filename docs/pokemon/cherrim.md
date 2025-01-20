@@ -64,8 +64,7 @@ Cherrim has no alternate forms.
 ### Evolution Line
 
 1. [Cherubi](cherubi.md/)
-    1. Level Up: [Cherrim](cherrim.md/)
-
+1. Level Up: [Cherrim](cherrim.md/)
 
 ---
 

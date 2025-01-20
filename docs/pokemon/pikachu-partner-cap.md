@@ -1,4 +1,4 @@
-# #10148 Pikachu-Partner-Cap (Mouse Pokémon)
+# #10148 Pikachu Partner Cap (Mouse Pokémon)
 
 | Official Artwork |
 | --- |
@@ -80,9 +80,8 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Pichu](pichu.md/)
-    1. Level Up: [Pikachu](pikachu.md/)
-        1. Use Item: [Raichu](raichu.md/)
-
+1. Level Up: [Pikachu](pikachu.md/)
+1. Use Item: [Raichu](raichu.md/)
 
 ---
 
@@ -164,7 +163,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Pikachu-Partner-Cap cannot learn any moves by breeding.
+Pikachu Partner Cap cannot learn any moves by breeding.
 
 ### Tutor Moves
 

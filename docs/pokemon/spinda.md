@@ -65,7 +65,6 @@ Spinda has no alternate forms.
 
 1. [Spinda](spinda.md/)
 
-
 ---
 
 ## Training

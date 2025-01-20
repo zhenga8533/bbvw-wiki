@@ -66,9 +66,8 @@ Leavanny has no alternate forms.
 ### Evolution Line
 
 1. [Sewaddle](sewaddle.md/)
-    1. Level Up: [Swadloon](swadloon.md/)
-        1. Level Up: [Leavanny](leavanny.md/)
-
+1. Level Up: [Swadloon](swadloon.md/)
+1. Level Up: [Leavanny](leavanny.md/)
 
 ---
 

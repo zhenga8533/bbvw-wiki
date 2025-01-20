@@ -66,8 +66,7 @@ Ducklett has no alternate forms.
 ### Evolution Line
 
 1. [Ducklett](ducklett.md/)
-    1. Level Up: [Swanna](swanna.md/)
-
+1. Level Up: [Swanna](swanna.md/)
 
 ---
 

@@ -1,4 +1,4 @@
-# #10199 Pikachu-Gmax (Mouse Pokémon)
+# #10199 Pikachu Gmax (Mouse Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -80,9 +80,8 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Pichu](pichu.md/)
-    1. Level Up: [Pikachu](pikachu.md/)
-        1. Use Item: [Raichu](raichu.md/)
-
+1. Level Up: [Pikachu](pikachu.md/)
+1. Use Item: [Raichu](raichu.md/)
 
 ---
 
@@ -110,17 +109,17 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Level Up Moves
 
-Pikachu-Gmax cannot learn any moves by leveling up.
+Pikachu Gmax cannot learn any moves by leveling up.
 
 ### TM Moves
 
-Pikachu-Gmax cannot learn any TM moves.
+Pikachu Gmax cannot learn any TM moves.
 
 ### Egg Moves
 
-Pikachu-Gmax cannot learn any moves by breeding.
+Pikachu Gmax cannot learn any moves by breeding.
 
 ### Tutor Moves
 
-Pikachu-Gmax cannot learn any moves from tutors.
+Pikachu Gmax cannot learn any moves from tutors.
 

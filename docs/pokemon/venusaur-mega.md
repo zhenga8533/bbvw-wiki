@@ -1,4 +1,4 @@
-# #10033 Venusaur-Mega (Seed Pokémon)
+# #10033 Venusaur Mega (Seed Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -66,9 +66,8 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Bulbasaur](bulbasaur.md/)
-    1. Level Up: [Ivysaur](ivysaur.md/)
-        1. Level Up: [Venusaur](venusaur.md/)
-
+1. Level Up: [Ivysaur](ivysaur.md/)
+1. Level Up: [Venusaur](venusaur.md/)
 
 ---
 
@@ -157,7 +156,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Venusaur-Mega cannot learn any moves by breeding.
+Venusaur Mega cannot learn any moves by breeding.
 
 ### Tutor Moves
 

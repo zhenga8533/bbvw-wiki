@@ -64,8 +64,7 @@ Sudowoodo has no alternate forms.
 ### Evolution Line
 
 1. [Bonsly](bonsly.md/)
-    1. Level Up: [Sudowoodo](sudowoodo.md/)
-
+1. Level Up: [Sudowoodo](sudowoodo.md/)
 
 ---
 

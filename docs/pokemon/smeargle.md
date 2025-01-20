@@ -65,7 +65,6 @@ Smeargle has no alternate forms.
 
 1. [Smeargle](smeargle.md/)
 
-
 ---
 
 ## Training

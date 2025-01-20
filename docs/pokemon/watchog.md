@@ -66,8 +66,7 @@ Watchog has no alternate forms.
 ### Evolution Line
 
 1. [Patrat](patrat.md/)
-    1. Level Up: [Watchog](watchog.md/)
-
+1. Level Up: [Watchog](watchog.md/)
 
 ---
 

@@ -67,7 +67,6 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 1. [Mew](mew.md/)
 
-
 ---
 
 ## Training

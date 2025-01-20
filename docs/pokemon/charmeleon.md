@@ -64,9 +64,8 @@ Charmeleon has no alternate forms.
 ### Evolution Line
 
 1. [Charmander](charmander.md/)
-    1. Level Up: [Charmeleon](charmeleon.md/)
-        1. Level Up: [Charizard](charizard.md/)
-
+1. Level Up: [Charmeleon](charmeleon.md/)
+1. Level Up: [Charizard](charizard.md/)
 
 ---
 

@@ -66,8 +66,7 @@ Rufflet has no alternate forms.
 ### Evolution Line
 
 1. [Rufflet](rufflet.md/)
-    1. Level Up: [Braviary](braviary.md/)
-
+1. Level Up: [Braviary](braviary.md/)
 
 ```
 Level 39 [Rufflet]

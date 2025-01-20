@@ -65,7 +65,6 @@ Stantler has no alternate forms.
 
 1. [Stantler](stantler.md/)
 
-
 ---
 
 ## Training

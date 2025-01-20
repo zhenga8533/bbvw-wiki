@@ -64,8 +64,7 @@ Buneary has no alternate forms.
 ### Evolution Line
 
 1. [Buneary](buneary.md/)
-    1. Level Up: [Lopunny](lopunny.md/)
-
+1. Level Up: [Lopunny](lopunny.md/)
 
 ---
 

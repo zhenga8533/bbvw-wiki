@@ -66,8 +66,7 @@ Pansear has no alternate forms.
 ### Evolution Line
 
 1. [Pansear](pansear.md/)
-    1. Use Item: [Simisear](simisear.md/)
-
+1. Use Item: [Simisear](simisear.md/)
 
 ---
 

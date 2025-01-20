@@ -1,4 +1,4 @@
-# #10045 Ampharos-Mega (Light Pokémon)
+# #10045 Ampharos Mega (Light Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -65,9 +65,8 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Mareep](mareep.md/)
-    1. Level Up: [Flaaffy](flaaffy.md/)
-        1. Level Up: [Ampharos](ampharos.md/)
-
+1. Level Up: [Flaaffy](flaaffy.md/)
+1. Level Up: [Ampharos](ampharos.md/)
 
 ---
 
@@ -161,7 +160,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Ampharos-Mega cannot learn any moves by breeding.
+Ampharos Mega cannot learn any moves by breeding.
 
 ### Tutor Moves
 

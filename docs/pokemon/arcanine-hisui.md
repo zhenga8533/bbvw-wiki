@@ -1,4 +1,4 @@
-# #10230 Arcanine-Hisui (Legendary Pokémon)
+# #10230 Arcanine Hisui (Legendary Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -12,7 +12,7 @@ Its proud and regal appearance has captured the hearts of people since long ago.
 
 ### Sprites
 
-Arcanine-Hisui has no sprites available in Blaze Black/Volt White.
+Arcanine Hisui has no sprites available in Blaze Black/Volt White.
 
 ### Cries
 
@@ -63,8 +63,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Growlithe](growlithe.md/)
-    1. Use Item: [Arcanine](arcanine.md/)
-
+1. Use Item: [Arcanine](arcanine.md/)
 
 ---
 
@@ -106,11 +105,11 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### TM Moves
 
-Arcanine-Hisui cannot learn any TM moves.
+Arcanine Hisui cannot learn any TM moves.
 
 ### Egg Moves
 
-Arcanine-Hisui cannot learn any moves by breeding.
+Arcanine Hisui cannot learn any moves by breeding.
 
 ### Tutor Moves
 

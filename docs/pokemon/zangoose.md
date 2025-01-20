@@ -65,7 +65,6 @@ Zangoose has no alternate forms.
 
 1. [Zangoose](zangoose.md/)
 
-
 ---
 
 ## Training

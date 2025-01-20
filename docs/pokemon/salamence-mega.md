@@ -1,4 +1,4 @@
-# #10089 Salamence-Mega (Dragon Pokémon)
+# #10089 Salamence Mega (Dragon Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -65,9 +65,8 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Bagon](bagon.md/)
-    1. Level Up: [Shelgon](shelgon.md/)
-        1. Level Up: [Salamence](salamence.md/)
-
+1. Level Up: [Shelgon](shelgon.md/)
+1. Level Up: [Salamence](salamence.md/)
 
 ---
 
@@ -162,7 +161,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Salamence-Mega cannot learn any moves by breeding.
+Salamence Mega cannot learn any moves by breeding.
 
 ### Tutor Moves
 

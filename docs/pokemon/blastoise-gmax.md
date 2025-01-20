@@ -1,4 +1,4 @@
-# #10197 Blastoise-Gmax (Shellfish Pokémon)
+# #10197 Blastoise Gmax (Shellfish Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -66,9 +66,8 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Squirtle](squirtle.md/)
-    1. Level Up: [Wartortle](wartortle.md/)
-        1. Level Up: [Blastoise](blastoise.md/)
-
+1. Level Up: [Wartortle](wartortle.md/)
+1. Level Up: [Blastoise](blastoise.md/)
 
 ---
 
@@ -96,17 +95,17 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Level Up Moves
 
-Blastoise-Gmax cannot learn any moves by leveling up.
+Blastoise Gmax cannot learn any moves by leveling up.
 
 ### TM Moves
 
-Blastoise-Gmax cannot learn any TM moves.
+Blastoise Gmax cannot learn any TM moves.
 
 ### Egg Moves
 
-Blastoise-Gmax cannot learn any moves by breeding.
+Blastoise Gmax cannot learn any moves by breeding.
 
 ### Tutor Moves
 
-Blastoise-Gmax cannot learn any moves from tutors.
+Blastoise Gmax cannot learn any moves from tutors.
 

@@ -66,8 +66,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Rattata](rattata.md/)
-    1. Level Up: [Raticate](raticate.md/)
-
+1. Level Up: [Raticate](raticate.md/)
 
 ---
 

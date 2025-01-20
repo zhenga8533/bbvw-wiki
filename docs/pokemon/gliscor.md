@@ -64,8 +64,7 @@ Gliscor has no alternate forms.
 ### Evolution Line
 
 1. [Gligar](gligar.md/)
-    1. Level Up: [Gliscor](gliscor.md/)
-
+1. Level Up: [Gliscor](gliscor.md/)
 
 ---
 

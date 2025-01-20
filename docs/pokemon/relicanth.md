@@ -65,7 +65,6 @@ Relicanth has no alternate forms.
 
 1. [Relicanth](relicanth.md/)
 
-
 ---
 
 ## Training

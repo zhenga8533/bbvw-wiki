@@ -64,10 +64,8 @@ Kirlia has no alternate forms.
 ### Evolution Line
 
 1. [Ralts](ralts.md/)
-    1. Level Up: [Kirlia](kirlia.md/)
-        1. Level Up: [Gardevoir](gardevoir.md/)
-        2. Use Item: [Gallade](gallade.md/)
-
+1. Level Up: [Kirlia](kirlia.md/)
+1. Level Up: [Gardevoir](gardevoir.md/)2. Use Item: [Gallade](gallade.md/)
 
 ---
 

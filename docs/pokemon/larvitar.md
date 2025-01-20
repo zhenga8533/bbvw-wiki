@@ -64,9 +64,8 @@ Larvitar has no alternate forms.
 ### Evolution Line
 
 1. [Larvitar](larvitar.md/)
-    1. Level Up: [Pupitar](pupitar.md/)
-        1. Level Up: [Tyranitar](tyranitar.md/)
-
+1. Level Up: [Pupitar](pupitar.md/)
+1. Level Up: [Tyranitar](tyranitar.md/)
 
 ---
 

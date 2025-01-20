@@ -66,8 +66,7 @@ Accelgor has no alternate forms.
 ### Evolution Line
 
 1. [Shelmet](shelmet.md/)
-    1. Trade: [Accelgor](accelgor.md/)
-
+1. Trade: [Accelgor](accelgor.md/)
 
 ---
 

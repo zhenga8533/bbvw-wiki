@@ -1,4 +1,4 @@
-# #10067 Altaria-Mega (Humming Pokémon)
+# #10067 Altaria Mega (Humming Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -65,8 +65,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Swablu](swablu.md/)
-    1. Level Up: [Altaria](altaria.md/)
-
+1. Level Up: [Altaria](altaria.md/)
 
 ---
 
@@ -164,7 +163,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Altaria-Mega cannot learn any moves by breeding.
+Altaria Mega cannot learn any moves by breeding.
 
 ### Tutor Moves
 

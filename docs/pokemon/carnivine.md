@@ -65,7 +65,6 @@ Carnivine has no alternate forms.
 
 1. [Carnivine](carnivine.md/)
 
-
 ---
 
 ## Training

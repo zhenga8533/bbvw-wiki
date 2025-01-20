@@ -66,9 +66,8 @@ Herdier has no alternate forms.
 ### Evolution Line
 
 1. [Lillipup](lillipup.md/)
-    1. Level Up: [Herdier](herdier.md/)
-        1. Level Up: [Stoutland](stoutland.md/)
-
+1. Level Up: [Herdier](herdier.md/)
+1. Level Up: [Stoutland](stoutland.md/)
 
 ---
 

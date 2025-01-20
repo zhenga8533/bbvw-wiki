@@ -1,4 +1,4 @@
-# #550 Basculin-Red-Striped (Hostile Pokémon)
+# #550 Basculin Red Striped (Hostile Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -67,8 +67,11 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Evolution Line
 
-1. [Basculin-White-Striped](basculin-white-striped.md/)
+1. [Basculin-Blue-Striped](basculin-blue-striped.md/)
 
+1. [Basculin-Red-Striped](basculin-red-striped.md/)
+
+1. [Basculin-White-Striped](basculin-white-striped.md/)
 
 ---
 
@@ -158,5 +161,5 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Tutor Moves
 
-Basculin-Red-Striped cannot learn any moves from tutors.
+Basculin Red Striped cannot learn any moves from tutors.
 

@@ -66,8 +66,7 @@ Volcarona has no alternate forms.
 ### Evolution Line
 
 1. [Larvesta](larvesta.md/)
-    1. Level Up: [Volcarona](volcarona.md/)
-
+1. Level Up: [Volcarona](volcarona.md/)
 
 ---
 

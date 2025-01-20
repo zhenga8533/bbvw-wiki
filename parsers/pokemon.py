@@ -46,7 +46,7 @@ def calculate_stat(base: int, iv: int, ev: int, level: int, nature: float) -> in
 
 def to_md(pokemon: dict, pokemon_set: dict) -> str:
     # Basic information
-    pokemon_name = pokemon["name"].title()
+    pokemon_name = pokemon["name"].replace("-", " ").title()
     md = f"# #{pokemon["id"]:03} {pokemon_name} ({pokemon["genus"]})\n\n"
 
     # Add official artwork
@@ -353,7 +353,7 @@ def main():
     nav += f"      - Pokémon Forms:\n"
     for name in forms:
         clean_name = name.replace("-", " ").title()
-        nav += f'          - {clean_name}": pokemon/{name}.md\n'
+        nav += f"          - {clean_name}: pokemon/{name}.md\n"
 
     save("output/pokemon_nav.md", nav)
 

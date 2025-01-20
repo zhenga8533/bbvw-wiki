@@ -1,4 +1,4 @@
-# #10113 Muk-Alola (Sludge Pokémon)
+# #10113 Muk Alola (Sludge Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -65,8 +65,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Grimer](grimer.md/)
-    1. Level Up: [Muk](muk.md/)
-
+1. Level Up: [Muk](muk.md/)
 
 ---
 
@@ -167,7 +166,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Muk-Alola cannot learn any moves by breeding.
+Muk Alola cannot learn any moves by breeding.
 
 ### Tutor Moves
 

@@ -65,9 +65,8 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Bagon](bagon.md/)
-    1. Level Up: [Shelgon](shelgon.md/)
-        1. Level Up: [Salamence](salamence.md/)
-
+1. Level Up: [Shelgon](shelgon.md/)
+1. Level Up: [Salamence](salamence.md/)
 
 ---
 

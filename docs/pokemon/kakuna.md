@@ -64,9 +64,8 @@ Kakuna has no alternate forms.
 ### Evolution Line
 
 1. [Weedle](weedle.md/)
-    1. Level Up: [Kakuna](kakuna.md/)
-        1. Level Up: [Beedrill](beedrill.md/)
-
+1. Level Up: [Kakuna](kakuna.md/)
+1. Level Up: [Beedrill](beedrill.md/)
 
 ---
 

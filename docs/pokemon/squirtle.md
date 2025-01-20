@@ -64,9 +64,8 @@ Squirtle has no alternate forms.
 ### Evolution Line
 
 1. [Squirtle](squirtle.md/)
-    1. Level Up: [Wartortle](wartortle.md/)
-        1. Level Up: [Blastoise](blastoise.md/)
-
+1. Level Up: [Wartortle](wartortle.md/)
+1. Level Up: [Blastoise](blastoise.md/)
 
 ---
 

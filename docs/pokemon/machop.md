@@ -64,9 +64,8 @@ Machop has no alternate forms.
 ### Evolution Line
 
 1. [Machop](machop.md/)
-    1. Level Up: [Machoke](machoke.md/)
-        1. Trade: [Machamp](machamp.md/)
-
+1. Level Up: [Machoke](machoke.md/)
+1. Trade: [Machamp](machamp.md/)
 
 ---
 

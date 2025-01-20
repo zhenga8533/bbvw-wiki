@@ -1,4 +1,4 @@
-# #10165 Slowbro-Galar (Hermit Crab Pokémon)
+# #10165 Slowbro Galar (Hermit Crab Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -66,9 +66,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Slowpoke](slowpoke.md/)
-    1. Use Item: [Slowbro](slowbro.md/)
-    2. Use Item: [Slowking](slowking.md/)
-
+1. Use Item: [Slowbro](slowbro.md/)2. Use Item: [Slowking](slowking.md/)
 
 ---
 
@@ -198,7 +196,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Slowbro-Galar cannot learn any moves by breeding.
+Slowbro Galar cannot learn any moves by breeding.
 
 ### Tutor Moves
 

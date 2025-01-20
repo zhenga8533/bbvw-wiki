@@ -1,4 +1,4 @@
-# #10038 Gengar-Mega (Shadow Pokémon)
+# #10038 Gengar Mega (Shadow Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -66,9 +66,8 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Gastly](gastly.md/)
-    1. Level Up: [Haunter](haunter.md/)
-        1. Trade: [Gengar](gengar.md/)
-
+1. Level Up: [Haunter](haunter.md/)
+1. Trade: [Gengar](gengar.md/)
 
 ---
 
@@ -167,7 +166,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Gengar-Mega cannot learn any moves by breeding.
+Gengar Mega cannot learn any moves by breeding.
 
 ### Tutor Moves
 

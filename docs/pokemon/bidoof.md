@@ -64,8 +64,7 @@ Bidoof has no alternate forms.
 ### Evolution Line
 
 1. [Bidoof](bidoof.md/)
-    1. Level Up: [Bibarel](bibarel.md/)
-
+1. Level Up: [Bibarel](bibarel.md/)
 
 ---
 

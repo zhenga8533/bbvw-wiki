@@ -64,8 +64,7 @@ Primeape has no alternate forms.
 ### Evolution Line
 
 1. [Mankey](mankey.md/)
-    1. Level Up: [Primeape](primeape.md/)
-
+1. Level Up: [Primeape](primeape.md/)
 
 ---
 

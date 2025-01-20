@@ -1,4 +1,4 @@
-# #10086 Hoopa-Unbound (Mischief Pokémon)
+# #10086 Hoopa Unbound (Mischief Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -65,7 +65,6 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Hoopa](hoopa.md/)
-
 
 ---
 
@@ -162,7 +161,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Hoopa-Unbound cannot learn any moves by breeding.
+Hoopa Unbound cannot learn any moves by breeding.
 
 ### Tutor Moves
 

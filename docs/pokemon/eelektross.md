@@ -66,9 +66,8 @@ Eelektross has no alternate forms.
 ### Evolution Line
 
 1. [Tynamo](tynamo.md/)
-    1. Level Up: [Eelektrik](eelektrik.md/)
-        1. Use Item: [Eelektross](eelektross.md/)
-
+1. Level Up: [Eelektrik](eelektrik.md/)
+1. Use Item: [Eelektross](eelektross.md/)
 
 ---
 

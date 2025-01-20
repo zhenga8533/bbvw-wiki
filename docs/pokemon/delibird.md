@@ -65,7 +65,6 @@ Delibird has no alternate forms.
 
 1. [Delibird](delibird.md/)
 
-
 ---
 
 ## Training

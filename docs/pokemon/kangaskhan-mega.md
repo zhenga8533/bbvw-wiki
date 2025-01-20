@@ -1,4 +1,4 @@
-# #10039 Kangaskhan-Mega (Parent Pokémon)
+# #10039 Kangaskhan Mega (Parent Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -65,7 +65,6 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Kangaskhan](kangaskhan.md/)
-
 
 ---
 

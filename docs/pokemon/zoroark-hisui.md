@@ -1,4 +1,4 @@
-# #10239 Zoroark-Hisui (Illusion Fox Pokémon)
+# #10239 Zoroark Hisui (Illusion Fox Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -14,7 +14,7 @@
 
 ### Sprites
 
-Zoroark-Hisui has no sprites available in Blaze Black/Volt White.
+Zoroark Hisui has no sprites available in Blaze Black/Volt White.
 
 ### Cries
 
@@ -65,8 +65,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Zorua](zorua.md/)
-    1. Level Up: [Zoroark](zoroark.md/)
-
+1. Level Up: [Zoroark](zoroark.md/)
 
 ---
 
@@ -108,11 +107,11 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### TM Moves
 
-Zoroark-Hisui cannot learn any TM moves.
+Zoroark Hisui cannot learn any TM moves.
 
 ### Egg Moves
 
-Zoroark-Hisui cannot learn any moves by breeding.
+Zoroark Hisui cannot learn any moves by breeding.
 
 ### Tutor Moves
 

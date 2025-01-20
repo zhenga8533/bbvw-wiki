@@ -64,8 +64,7 @@ Koffing has no alternate forms.
 ### Evolution Line
 
 1. [Koffing](koffing.md/)
-    1. Level Up: [Weezing](weezing.md/)
-
+1. Level Up: [Weezing](weezing.md/)
 
 ---
 

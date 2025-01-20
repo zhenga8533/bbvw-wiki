@@ -64,8 +64,7 @@ Shroomish has no alternate forms.
 ### Evolution Line
 
 1. [Shroomish](shroomish.md/)
-    1. Level Up: [Breloom](breloom.md/)
-
+1. Level Up: [Breloom](breloom.md/)
 
 ---
 

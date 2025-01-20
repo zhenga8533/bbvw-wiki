@@ -64,8 +64,7 @@ Quagsire has no alternate forms.
 ### Evolution Line
 
 1. [Wooper](wooper.md/)
-    1. Level Up: [Quagsire](quagsire.md/)
-
+1. Level Up: [Quagsire](quagsire.md/)
 
 ---
 

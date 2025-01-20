@@ -64,9 +64,8 @@ Clefable has no alternate forms.
 ### Evolution Line
 
 1. [Cleffa](cleffa.md/)
-    1. Level Up: [Clefairy](clefairy.md/)
-        1. Use Item: [Clefable](clefable.md/)
-
+1. Level Up: [Clefairy](clefairy.md/)
+1. Use Item: [Clefable](clefable.md/)
 
 ---
 

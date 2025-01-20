@@ -1,4 +1,4 @@
-# #10179 Yamask-Galar (Spirit Pokémon)
+# #10179 Yamask Galar (Spirit Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -67,8 +67,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Yamask](yamask.md/)
-    1. Level Up: [Cofagrigus](cofagrigus.md/)
-
+1. Level Up: [Cofagrigus](cofagrigus.md/)
 
 ---
 

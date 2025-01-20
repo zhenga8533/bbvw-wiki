@@ -64,8 +64,7 @@ Surskit has no alternate forms.
 ### Evolution Line
 
 1. [Surskit](surskit.md/)
-    1. Level Up: [Masquerain](masquerain.md/)
-
+1. Level Up: [Masquerain](masquerain.md/)
 
 ---
 

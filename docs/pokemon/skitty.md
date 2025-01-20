@@ -64,8 +64,7 @@ Skitty has no alternate forms.
 ### Evolution Line
 
 1. [Skitty](skitty.md/)
-    1. Use Item: [Delcatty](delcatty.md/)
-
+1. Use Item: [Delcatty](delcatty.md/)
 
 ---
 

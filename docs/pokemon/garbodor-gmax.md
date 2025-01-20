@@ -1,4 +1,4 @@
-# #10207 Garbodor-Gmax (Trash Heap Pokémon)
+# #10207 Garbodor Gmax (Trash Heap Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -67,8 +67,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Trubbish](trubbish.md/)
-    1. Level Up: [Garbodor](garbodor.md/)
-
+1. Level Up: [Garbodor](garbodor.md/)
 
 ---
 
@@ -96,17 +95,17 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Level Up Moves
 
-Garbodor-Gmax cannot learn any moves by leveling up.
+Garbodor Gmax cannot learn any moves by leveling up.
 
 ### TM Moves
 
-Garbodor-Gmax cannot learn any TM moves.
+Garbodor Gmax cannot learn any TM moves.
 
 ### Egg Moves
 
-Garbodor-Gmax cannot learn any moves by breeding.
+Garbodor Gmax cannot learn any moves by breeding.
 
 ### Tutor Moves
 
-Garbodor-Gmax cannot learn any moves from tutors.
+Garbodor Gmax cannot learn any moves from tutors.
 

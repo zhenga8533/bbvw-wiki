@@ -66,9 +66,8 @@ Deino has no alternate forms.
 ### Evolution Line
 
 1. [Deino](deino.md/)
-    1. Level Up: [Zweilous](zweilous.md/)
-        1. Level Up: [Hydreigon](hydreigon.md/)
-
+1. Level Up: [Zweilous](zweilous.md/)
+1. Level Up: [Hydreigon](hydreigon.md/)
 
 ```
 Level 30

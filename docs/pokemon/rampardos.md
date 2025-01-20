@@ -64,8 +64,7 @@ Rampardos has no alternate forms.
 ### Evolution Line
 
 1. [Cranidos](cranidos.md/)
-    1. Level Up: [Rampardos](rampardos.md/)
-
+1. Level Up: [Rampardos](rampardos.md/)
 
 ---
 

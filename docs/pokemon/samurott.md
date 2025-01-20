@@ -67,9 +67,8 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Oshawott](oshawott.md/)
-    1. Level Up: [Dewott](dewott.md/)
-        1. Level Up: [Samurott](samurott.md/)
-
+1. Level Up: [Dewott](dewott.md/)
+1. Level Up: [Samurott](samurott.md/)
 
 ---
 

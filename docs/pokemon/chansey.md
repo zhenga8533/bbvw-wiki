@@ -64,9 +64,8 @@ Chansey has no alternate forms.
 ### Evolution Line
 
 1. [Happiny](happiny.md/)
-    1. Level Up: [Chansey](chansey.md/)
-        1. Level Up: [Blissey](blissey.md/)
-
+1. Level Up: [Chansey](chansey.md/)
+1. Level Up: [Blissey](blissey.md/)
 
 ---
 

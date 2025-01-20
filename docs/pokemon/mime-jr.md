@@ -1,4 +1,4 @@
-# #439 Mime-Jr (Mime Pokémon)
+# #439 Mime Jr (Mime Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -59,14 +59,13 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-Mime-Jr has no alternate forms.
+Mime Jr has no alternate forms.
 
 ### Evolution Line
 
 1. [Mime-Jr](mime-jr.md/)
-    1. Level Up: [Mr-Mime](mr-mime.md/)
-        1. Level Up: [Mr-Rime](mr-rime.md/)
-
+1. Level Up: [Mr-Mime](mr-mime.md/)
+1. Level Up: [Mr-Rime](mr-rime.md/)
 
 ---
 
@@ -178,5 +177,5 @@ Mime-Jr has no alternate forms.
 
 ### Tutor Moves
 
-Mime-Jr cannot learn any moves from tutors.
+Mime Jr cannot learn any moves from tutors.
 

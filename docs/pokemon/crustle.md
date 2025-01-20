@@ -66,8 +66,7 @@ Crustle has no alternate forms.
 ### Evolution Line
 
 1. [Dwebble](dwebble.md/)
-    1. Level Up: [Crustle](crustle.md/)
-
+1. Level Up: [Crustle](crustle.md/)
 
 ---
 

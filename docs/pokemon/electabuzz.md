@@ -64,9 +64,8 @@ Electabuzz has no alternate forms.
 ### Evolution Line
 
 1. [Elekid](elekid.md/)
-    1. Level Up: [Electabuzz](electabuzz.md/)
-        1. Trade: [Electivire](electivire.md/)
-
+1. Level Up: [Electabuzz](electabuzz.md/)
+1. Trade: [Electivire](electivire.md/)
 
 ```
 Use the Electirizer.

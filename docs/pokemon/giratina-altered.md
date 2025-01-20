@@ -1,4 +1,4 @@
-# #487 Giratina-Altered (Renegade Pokémon)
+# #487 Giratina Altered (Renegade Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -64,8 +64,9 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Evolution Line
 
-1. [Giratina-Origin](giratina-origin.md/)
+1. [Giratina-Altered](giratina-altered.md/)
 
+1. [Giratina-Origin](giratina-origin.md/)
 
 ---
 
@@ -159,7 +160,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Giratina-Altered cannot learn any moves by breeding.
+Giratina Altered cannot learn any moves by breeding.
 
 ### Tutor Moves
 

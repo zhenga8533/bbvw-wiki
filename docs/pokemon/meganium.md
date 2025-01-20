@@ -64,9 +64,8 @@ Meganium has no alternate forms.
 ### Evolution Line
 
 1. [Chikorita](chikorita.md/)
-    1. Level Up: [Bayleef](bayleef.md/)
-        1. Level Up: [Meganium](meganium.md/)
-
+1. Level Up: [Bayleef](bayleef.md/)
+1. Level Up: [Meganium](meganium.md/)
 
 ---
 

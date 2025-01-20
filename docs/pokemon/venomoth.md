@@ -64,8 +64,7 @@ Venomoth has no alternate forms.
 ### Evolution Line
 
 1. [Venonat](venonat.md/)
-    1. Level Up: [Venomoth](venomoth.md/)
-
+1. Level Up: [Venomoth](venomoth.md/)
 
 ---
 

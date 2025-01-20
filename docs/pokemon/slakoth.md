@@ -64,9 +64,8 @@ Slakoth has no alternate forms.
 ### Evolution Line
 
 1. [Slakoth](slakoth.md/)
-    1. Level Up: [Vigoroth](vigoroth.md/)
-        1. Level Up: [Slaking](slaking.md/)
-
+1. Level Up: [Vigoroth](vigoroth.md/)
+1. Level Up: [Slaking](slaking.md/)
 
 ---
 

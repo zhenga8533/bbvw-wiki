@@ -1,4 +1,4 @@
-# #10046 Scizor-Mega (Pincer Pokémon)
+# #10046 Scizor Mega (Pincer Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -65,8 +65,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Scyther](scyther.md/)
-    1. Trade: [Scizor](scizor.md/)
-
+1. Trade: [Scizor](scizor.md/)
 
 ---
 
@@ -158,7 +157,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Scizor-Mega cannot learn any moves by breeding.
+Scizor Mega cannot learn any moves by breeding.
 
 ### Tutor Moves
 

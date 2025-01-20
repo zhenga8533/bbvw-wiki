@@ -64,8 +64,7 @@ Armaldo has no alternate forms.
 ### Evolution Line
 
 1. [Anorith](anorith.md/)
-    1. Level Up: [Armaldo](armaldo.md/)
-
+1. Level Up: [Armaldo](armaldo.md/)
 
 ---
 

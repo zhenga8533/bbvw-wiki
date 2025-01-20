@@ -64,8 +64,7 @@ Barboach has no alternate forms.
 ### Evolution Line
 
 1. [Barboach](barboach.md/)
-    1. Level Up: [Whiscash](whiscash.md/)
-
+1. Level Up: [Whiscash](whiscash.md/)
 
 ---
 

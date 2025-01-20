@@ -67,7 +67,6 @@ Throh has no alternate forms.
 
 1. [Throh](throh.md/)
 
-
 ---
 
 ## Training

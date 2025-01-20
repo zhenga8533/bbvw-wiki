@@ -66,9 +66,8 @@ Klang has no alternate forms.
 ### Evolution Line
 
 1. [Klink](klink.md/)
-    1. Level Up: [Klang](klang.md/)
-        1. Level Up: [Klinklang](klinklang.md/)
-
+1. Level Up: [Klang](klang.md/)
+1. Level Up: [Klinklang](klinklang.md/)
 
 ---
 

@@ -1,4 +1,4 @@
-# #10047 Heracross-Mega (Single Horn Pokémon)
+# #10047 Heracross Mega (Single Horn Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -65,7 +65,6 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Heracross](heracross.md/)
-
 
 ---
 

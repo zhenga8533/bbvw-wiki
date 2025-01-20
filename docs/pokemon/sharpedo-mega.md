@@ -1,4 +1,4 @@
-# #10070 Sharpedo-Mega (Brutal Pokémon)
+# #10070 Sharpedo Mega (Brutal Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -65,8 +65,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Carvanha](carvanha.md/)
-    1. Level Up: [Sharpedo](sharpedo.md/)
-
+1. Level Up: [Sharpedo](sharpedo.md/)
 
 ---
 
@@ -160,7 +159,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Sharpedo-Mega cannot learn any moves by breeding.
+Sharpedo Mega cannot learn any moves by breeding.
 
 ### Tutor Moves
 

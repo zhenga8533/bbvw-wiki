@@ -64,8 +64,7 @@ Wailmer has no alternate forms.
 ### Evolution Line
 
 1. [Wailmer](wailmer.md/)
-    1. Level Up: [Wailord](wailord.md/)
-
+1. Level Up: [Wailord](wailord.md/)
 
 ---
 

@@ -64,9 +64,8 @@ Togepi has no alternate forms.
 ### Evolution Line
 
 1. [Togepi](togepi.md/)
-    1. Level Up: [Togetic](togetic.md/)
-        1. Use Item: [Togekiss](togekiss.md/)
-
+1. Level Up: [Togetic](togetic.md/)
+1. Use Item: [Togekiss](togekiss.md/)
 
 ---
 

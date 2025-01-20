@@ -65,9 +65,8 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Caterpie](caterpie.md/)
-    1. Level Up: [Metapod](metapod.md/)
-        1. Level Up: [Butterfree](butterfree.md/)
-
+1. Level Up: [Metapod](metapod.md/)
+1. Level Up: [Butterfree](butterfree.md/)
 
 ---
 

@@ -64,8 +64,7 @@ Wynaut has no alternate forms.
 ### Evolution Line
 
 1. [Wynaut](wynaut.md/)
-    1. Level Up: [Wobbuffet](wobbuffet.md/)
-
+1. Level Up: [Wobbuffet](wobbuffet.md/)
 
 ---
 

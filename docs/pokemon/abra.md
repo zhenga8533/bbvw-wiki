@@ -64,9 +64,8 @@ Abra has no alternate forms.
 ### Evolution Line
 
 1. [Abra](abra.md/)
-    1. Level Up: [Kadabra](kadabra.md/)
-        1. Trade: [Alakazam](alakazam.md/)
-
+1. Level Up: [Kadabra](kadabra.md/)
+1. Trade: [Alakazam](alakazam.md/)
 
 ---
 

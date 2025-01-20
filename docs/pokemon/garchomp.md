@@ -65,9 +65,8 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Gible](gible.md/)
-    1. Level Up: [Gabite](gabite.md/)
-        1. Level Up: [Garchomp](garchomp.md/)
-
+1. Level Up: [Gabite](gabite.md/)
+1. Level Up: [Garchomp](garchomp.md/)
 
 ---
 

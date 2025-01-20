@@ -1,4 +1,4 @@
-# #555 Darmanitan-Standard (Blazing Pokémon)
+# #555 Darmanitan Standard (Blazing Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -69,8 +69,13 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Darumaka](darumaka.md/)
-    1. Use Item: [Darmanitan-Zen](darmanitan-zen.md/)
+1. Use Item: [Darmanitan-Galar-Standard](darmanitan-galar-standard.md/)
 
+    1. Use Item: [Darmanitan-Galar-Zen](darmanitan-galar-zen.md/)
+
+    1. Use Item: [Darmanitan-Standard](darmanitan-standard.md/)
+
+    1. Use Item: [Darmanitan-Zen](darmanitan-zen.md/)
 
 ---
 
@@ -175,9 +180,9 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Darmanitan-Standard cannot learn any moves by breeding.
+Darmanitan Standard cannot learn any moves by breeding.
 
 ### Tutor Moves
 
-Darmanitan-Standard cannot learn any moves from tutors.
+Darmanitan Standard cannot learn any moves from tutors.
 

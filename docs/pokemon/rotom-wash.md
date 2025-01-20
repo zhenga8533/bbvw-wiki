@@ -1,4 +1,4 @@
-# #10009 Rotom-Wash (Plasma Pokémon)
+# #10009 Rotom Wash (Plasma Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -69,7 +69,6 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Rotom](rotom.md/)
-
 
 ---
 
@@ -154,9 +153,9 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Rotom-Wash cannot learn any moves by breeding.
+Rotom Wash cannot learn any moves by breeding.
 
 ### Tutor Moves
 
-Rotom-Wash cannot learn any moves from tutors.
+Rotom Wash cannot learn any moves from tutors.
 

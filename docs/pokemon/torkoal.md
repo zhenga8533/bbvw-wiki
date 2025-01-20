@@ -65,7 +65,6 @@ Torkoal has no alternate forms.
 
 1. [Torkoal](torkoal.md/)
 
-
 ---
 
 ## Training

@@ -80,9 +80,8 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Pichu](pichu.md/)
-    1. Level Up: [Pikachu](pikachu.md/)
-        1. Use Item: [Raichu](raichu.md/)
-
+1. Level Up: [Pikachu](pikachu.md/)
+1. Use Item: [Raichu](raichu.md/)
 
 ---
 

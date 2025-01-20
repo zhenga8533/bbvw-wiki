@@ -66,8 +66,7 @@ Frillish has no alternate forms.
 ### Evolution Line
 
 1. [Frillish](frillish.md/)
-    1. Level Up: [Jellicent](jellicent.md/)
-
+1. Level Up: [Jellicent](jellicent.md/)
 
 ---
 

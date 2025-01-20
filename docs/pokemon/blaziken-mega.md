@@ -1,4 +1,4 @@
-# #10050 Blaziken-Mega (Blaze Pokémon)
+# #10050 Blaziken Mega (Blaze Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -65,9 +65,8 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Torchic](torchic.md/)
-    1. Level Up: [Combusken](combusken.md/)
-        1. Level Up: [Blaziken](blaziken.md/)
-
+1. Level Up: [Combusken](combusken.md/)
+1. Level Up: [Blaziken](blaziken.md/)
 
 ---
 
@@ -167,7 +166,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Blaziken-Mega cannot learn any moves by breeding.
+Blaziken Mega cannot learn any moves by breeding.
 
 ### Tutor Moves
 

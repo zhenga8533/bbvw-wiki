@@ -65,8 +65,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Magikarp](magikarp.md/)
-    1. Level Up: [Gyarados](gyarados.md/)
-
+1. Level Up: [Gyarados](gyarados.md/)
 
 ---
 

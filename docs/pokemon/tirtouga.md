@@ -66,8 +66,7 @@ Tirtouga has no alternate forms.
 ### Evolution Line
 
 1. [Tirtouga](tirtouga.md/)
-    1. Level Up: [Carracosta](carracosta.md/)
-
+1. Level Up: [Carracosta](carracosta.md/)
 
 ---
 

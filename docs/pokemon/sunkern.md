@@ -64,8 +64,7 @@ Sunkern has no alternate forms.
 ### Evolution Line
 
 1. [Sunkern](sunkern.md/)
-    1. Use Item: [Sunflora](sunflora.md/)
-
+1. Use Item: [Sunflora](sunflora.md/)
 
 ---
 

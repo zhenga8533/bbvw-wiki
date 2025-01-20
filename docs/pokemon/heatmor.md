@@ -67,7 +67,6 @@ Heatmor has no alternate forms.
 
 1. [Heatmor](heatmor.md/)
 
-
 ---
 
 ## Training

@@ -67,7 +67,6 @@ Genesect has no alternate forms.
 
 1. [Genesect](genesect.md/)
 
-
 ---
 
 ## Training

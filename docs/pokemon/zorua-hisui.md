@@ -1,4 +1,4 @@
-# #10238 Zorua-Hisui (Tricky Fox Pokémon)
+# #10238 Zorua Hisui (Tricky Fox Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -14,7 +14,7 @@
 
 ### Sprites
 
-Zorua-Hisui has no sprites available in Blaze Black/Volt White.
+Zorua Hisui has no sprites available in Blaze Black/Volt White.
 
 ### Cries
 
@@ -65,8 +65,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Zorua](zorua.md/)
-    1. Level Up: [Zoroark](zoroark.md/)
-
+1. Level Up: [Zoroark](zoroark.md/)
 
 ---
 
@@ -106,11 +105,11 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### TM Moves
 
-Zorua-Hisui cannot learn any TM moves.
+Zorua Hisui cannot learn any TM moves.
 
 ### Egg Moves
 
-Zorua-Hisui cannot learn any moves by breeding.
+Zorua Hisui cannot learn any moves by breeding.
 
 ### Tutor Moves
 

@@ -1,4 +1,4 @@
-# #10072 Steelix-Mega (Iron Snake Pokémon)
+# #10072 Steelix Mega (Iron Snake Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -65,8 +65,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Onix](onix.md/)
-    1. Trade: [Steelix](steelix.md/)
-
+1. Trade: [Steelix](steelix.md/)
 
 ---
 
@@ -166,7 +165,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Steelix-Mega cannot learn any moves by breeding.
+Steelix Mega cannot learn any moves by breeding.
 
 ### Tutor Moves
 

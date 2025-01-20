@@ -1,4 +1,4 @@
-# #10055 Manectric-Mega (Discharge Pokémon)
+# #10055 Manectric Mega (Discharge Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -65,8 +65,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Electrike](electrike.md/)
-    1. Level Up: [Manectric](manectric.md/)
-
+1. Level Up: [Manectric](manectric.md/)
 
 ---
 
@@ -152,7 +151,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Manectric-Mega cannot learn any moves by breeding.
+Manectric Mega cannot learn any moves by breeding.
 
 ### Tutor Moves
 

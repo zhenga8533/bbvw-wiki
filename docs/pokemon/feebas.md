@@ -64,8 +64,7 @@ Feebas has no alternate forms.
 ### Evolution Line
 
 1. [Feebas](feebas.md/)
-    1. Level Up: [Milotic](milotic.md/)
-
+1. Level Up: [Milotic](milotic.md/)
 
 ```
 Use the Prism Scale.

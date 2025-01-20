@@ -65,7 +65,6 @@ Dunsparce has no alternate forms.
 
 1. [Dunsparce](dunsparce.md/)
 
-
 ---
 
 ## Training

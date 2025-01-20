@@ -64,8 +64,7 @@ Arbok has no alternate forms.
 ### Evolution Line
 
 1. [Ekans](ekans.md/)
-    1. Level Up: [Arbok](arbok.md/)
-
+1. Level Up: [Arbok](arbok.md/)
 
 ---
 

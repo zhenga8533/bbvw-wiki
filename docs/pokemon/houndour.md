@@ -64,8 +64,7 @@ Houndour has no alternate forms.
 ### Evolution Line
 
 1. [Houndour](houndour.md/)
-    1. Level Up: [Houndoom](houndoom.md/)
-
+1. Level Up: [Houndoom](houndoom.md/)
 
 ---
 

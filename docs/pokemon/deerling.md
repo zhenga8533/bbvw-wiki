@@ -66,8 +66,7 @@ Deerling has no alternate forms.
 ### Evolution Line
 
 1. [Deerling](deerling.md/)
-    1. Level Up: [Sawsbuck](sawsbuck.md/)
-
+1. Level Up: [Sawsbuck](sawsbuck.md/)
 
 ---
 

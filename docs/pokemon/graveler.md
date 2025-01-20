@@ -65,9 +65,8 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Geodude](geodude.md/)
-    1. Level Up: [Graveler](graveler.md/)
-        1. Trade: [Golem](golem.md/)
-
+1. Level Up: [Graveler](graveler.md/)
+1. Trade: [Golem](golem.md/)
 
 ```
 Level 36.

@@ -1,4 +1,4 @@
-# #032 Nidoran-M (Poison Pin Pokémon)
+# #032 Nidoran M (Poison Pin Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -59,14 +59,13 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-Nidoran-M has no alternate forms.
+Nidoran M has no alternate forms.
 
 ### Evolution Line
 
 1. [Nidoran-M](nidoran-m.md/)
-    1. Level Up: [Nidorino](nidorino.md/)
-        1. Use Item: [Nidoking](nidoking.md/)
-
+1. Level Up: [Nidorino](nidorino.md/)
+1. Use Item: [Nidoking](nidoking.md/)
 
 ---
 
@@ -168,5 +167,5 @@ Nidoran-M has no alternate forms.
 
 ### Tutor Moves
 
-Nidoran-M cannot learn any moves from tutors.
+Nidoran M cannot learn any moves from tutors.
 

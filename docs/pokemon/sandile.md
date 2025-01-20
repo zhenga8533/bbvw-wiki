@@ -66,9 +66,8 @@ Sandile has no alternate forms.
 ### Evolution Line
 
 1. [Sandile](sandile.md/)
-    1. Level Up: [Krokorok](krokorok.md/)
-        1. Level Up: [Krookodile](krookodile.md/)
-
+1. Level Up: [Krokorok](krokorok.md/)
+1. Level Up: [Krookodile](krookodile.md/)
 
 ---
 

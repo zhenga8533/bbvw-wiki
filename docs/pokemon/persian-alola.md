@@ -1,4 +1,4 @@
-# #10108 Persian-Alola (Classy Cat Pokémon)
+# #10108 Persian Alola (Classy Cat Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -65,8 +65,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Meowth](meowth.md/)
-    1. Level Up: [Persian](persian.md/)
-
+1. Level Up: [Persian](persian.md/)
 
 ---
 
@@ -164,7 +163,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Persian-Alola cannot learn any moves by breeding.
+Persian Alola cannot learn any moves by breeding.
 
 ### Tutor Moves
 

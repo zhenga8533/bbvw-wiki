@@ -65,7 +65,6 @@ Volbeat has no alternate forms.
 
 1. [Volbeat](volbeat.md/)
 
-
 ---
 
 ## Training

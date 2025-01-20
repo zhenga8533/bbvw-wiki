@@ -65,9 +65,8 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Pidgey](pidgey.md/)
-    1. Level Up: [Pidgeotto](pidgeotto.md/)
-        1. Level Up: [Pidgeot](pidgeot.md/)
-
+1. Level Up: [Pidgeotto](pidgeotto.md/)
+1. Level Up: [Pidgeot](pidgeot.md/)
 
 ---
 

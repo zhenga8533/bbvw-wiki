@@ -1,4 +1,4 @@
-# #10253 Wooper-Paldea (Water Fish Pokémon)
+# #10253 Wooper Paldea (Water Fish Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -12,7 +12,7 @@ When walking on land, it covers its body with a poisonous film that keeps its sk
 
 ### Sprites
 
-Wooper-Paldea has no sprites available in Blaze Black/Volt White.
+Wooper Paldea has no sprites available in Blaze Black/Volt White.
 
 ### Cries
 
@@ -63,8 +63,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Wooper](wooper.md/)
-    1. Level Up: [Quagsire](quagsire.md/)
-
+1. Level Up: [Quagsire](quagsire.md/)
 
 ---
 
@@ -177,5 +176,5 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Tutor Moves
 
-Wooper-Paldea cannot learn any moves from tutors.
+Wooper Paldea cannot learn any moves from tutors.
 

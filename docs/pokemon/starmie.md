@@ -64,8 +64,7 @@ Starmie has no alternate forms.
 ### Evolution Line
 
 1. [Staryu](staryu.md/)
-    1. Use Item: [Starmie](starmie.md/)
-
+1. Use Item: [Starmie](starmie.md/)
 
 ---
 

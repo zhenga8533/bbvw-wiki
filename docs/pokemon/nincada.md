@@ -64,9 +64,7 @@ Nincada has no alternate forms.
 ### Evolution Line
 
 1. [Nincada](nincada.md/)
-    1. Level Up: [Ninjask](ninjask.md/)
-    2. Shed: [Shedinja](shedinja.md/)
-
+1. Level Up: [Ninjask](ninjask.md/)2. Shed: [Shedinja](shedinja.md/)
 
 ---
 

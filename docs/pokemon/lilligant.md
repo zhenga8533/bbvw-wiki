@@ -67,8 +67,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Petilil](petilil.md/)
-    1. Use Item: [Lilligant](lilligant.md/)
-
+1. Use Item: [Lilligant](lilligant.md/)
 
 ---
 

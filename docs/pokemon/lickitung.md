@@ -64,8 +64,7 @@ Lickitung has no alternate forms.
 ### Evolution Line
 
 1. [Lickitung](lickitung.md/)
-    1. Level Up: [Lickilicky](lickilicky.md/)
-
+1. Level Up: [Lickilicky](lickilicky.md/)
 
 ---
 

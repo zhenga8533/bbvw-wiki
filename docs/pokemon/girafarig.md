@@ -65,7 +65,6 @@ Girafarig has no alternate forms.
 
 1. [Girafarig](girafarig.md/)
 
-
 ---
 
 ## Training

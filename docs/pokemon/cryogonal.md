@@ -67,7 +67,6 @@ Cryogonal has no alternate forms.
 
 1. [Cryogonal](cryogonal.md/)
 
-
 ---
 
 ## Training

@@ -66,8 +66,7 @@ Purrloin has no alternate forms.
 ### Evolution Line
 
 1. [Purrloin](purrloin.md/)
-    1. Level Up: [Liepard](liepard.md/)
-
+1. Level Up: [Liepard](liepard.md/)
 
 ---
 

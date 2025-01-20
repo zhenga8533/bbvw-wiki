@@ -1,4 +1,4 @@
-# #10041 Gyarados-Mega (Atrocious Pokémon)
+# #10041 Gyarados Mega (Atrocious Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -65,8 +65,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Magikarp](magikarp.md/)
-    1. Level Up: [Gyarados](gyarados.md/)
-
+1. Level Up: [Gyarados](gyarados.md/)
 
 ---
 
@@ -158,7 +157,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Gyarados-Mega cannot learn any moves by breeding.
+Gyarados Mega cannot learn any moves by breeding.
 
 ### Tutor Moves
 

@@ -1,4 +1,4 @@
-# #10048 Houndoom-Mega (Dark Pokémon)
+# #10048 Houndoom Mega (Dark Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -65,8 +65,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Houndour](houndour.md/)
-    1. Level Up: [Houndoom](houndoom.md/)
-
+1. Level Up: [Houndoom](houndoom.md/)
 
 ---
 
@@ -159,7 +158,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Houndoom-Mega cannot learn any moves by breeding.
+Houndoom Mega cannot learn any moves by breeding.
 
 ### Tutor Moves
 

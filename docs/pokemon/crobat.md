@@ -64,9 +64,8 @@ Crobat has no alternate forms.
 ### Evolution Line
 
 1. [Zubat](zubat.md/)
-    1. Level Up: [Golbat](golbat.md/)
-        1. Level Up: [Crobat](crobat.md/)
-
+1. Level Up: [Golbat](golbat.md/)
+1. Level Up: [Crobat](crobat.md/)
 
 ---
 

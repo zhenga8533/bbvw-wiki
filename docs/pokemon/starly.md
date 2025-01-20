@@ -64,9 +64,8 @@ Starly has no alternate forms.
 ### Evolution Line
 
 1. [Starly](starly.md/)
-    1. Level Up: [Staravia](staravia.md/)
-        1. Level Up: [Staraptor](staraptor.md/)
-
+1. Level Up: [Staravia](staravia.md/)
+1. Level Up: [Staraptor](staraptor.md/)
 
 ---
 

@@ -1,4 +1,4 @@
-# #10023 Kyurem-White (Boundary Pokémon)
+# #10023 Kyurem White (Boundary Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -68,7 +68,6 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Kyurem](kyurem.md/)
-
 
 ---
 
@@ -161,7 +160,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Kyurem-White cannot learn any moves by breeding.
+Kyurem White cannot learn any moves by breeding.
 
 ### Tutor Moves
 

@@ -1,4 +1,4 @@
-# #10065 Sceptile-Mega (Forest Pokémon)
+# #10065 Sceptile Mega (Forest Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -65,9 +65,8 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Treecko](treecko.md/)
-    1. Level Up: [Grovyle](grovyle.md/)
-        1. Level Up: [Sceptile](sceptile.md/)
-
+1. Level Up: [Grovyle](grovyle.md/)
+1. Level Up: [Sceptile](sceptile.md/)
 
 ---
 
@@ -166,7 +165,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Sceptile-Mega cannot learn any moves by breeding.
+Sceptile Mega cannot learn any moves by breeding.
 
 ### Tutor Moves
 

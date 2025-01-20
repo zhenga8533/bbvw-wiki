@@ -66,8 +66,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Cubone](cubone.md/)
-    1. Level Up: [Marowak](marowak.md/)
-
+1. Level Up: [Marowak](marowak.md/)
 
 ---
 

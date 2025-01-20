@@ -64,8 +64,7 @@ Jynx has no alternate forms.
 ### Evolution Line
 
 1. [Smoochum](smoochum.md/)
-    1. Level Up: [Jynx](jynx.md/)
-
+1. Level Up: [Jynx](jynx.md/)
 
 ---
 

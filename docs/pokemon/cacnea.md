@@ -64,8 +64,7 @@ Cacnea has no alternate forms.
 ### Evolution Line
 
 1. [Cacnea](cacnea.md/)
-    1. Level Up: [Cacturne](cacturne.md/)
-
+1. Level Up: [Cacturne](cacturne.md/)
 
 ---
 

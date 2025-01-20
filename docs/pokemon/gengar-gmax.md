@@ -1,4 +1,4 @@
-# #10202 Gengar-Gmax (Shadow Pokémon)
+# #10202 Gengar Gmax (Shadow Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -66,9 +66,8 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Gastly](gastly.md/)
-    1. Level Up: [Haunter](haunter.md/)
-        1. Trade: [Gengar](gengar.md/)
-
+1. Level Up: [Haunter](haunter.md/)
+1. Trade: [Gengar](gengar.md/)
 
 ---
 
@@ -96,17 +95,17 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Level Up Moves
 
-Gengar-Gmax cannot learn any moves by leveling up.
+Gengar Gmax cannot learn any moves by leveling up.
 
 ### TM Moves
 
-Gengar-Gmax cannot learn any TM moves.
+Gengar Gmax cannot learn any TM moves.
 
 ### Egg Moves
 
-Gengar-Gmax cannot learn any moves by breeding.
+Gengar Gmax cannot learn any moves by breeding.
 
 ### Tutor Moves
 
-Gengar-Gmax cannot learn any moves from tutors.
+Gengar Gmax cannot learn any moves from tutors.
 

@@ -64,9 +64,8 @@ Magnezone has no alternate forms.
 ### Evolution Line
 
 1. [Magnemite](magnemite.md/)
-    1. Level Up: [Magneton](magneton.md/)
-        1. Use Item: [Magnezone](magnezone.md/)
-
+1. Level Up: [Magneton](magneton.md/)
+1. Use Item: [Magnezone](magnezone.md/)
 
 ---
 

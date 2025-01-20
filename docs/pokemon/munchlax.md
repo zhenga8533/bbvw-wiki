@@ -64,8 +64,7 @@ Munchlax has no alternate forms.
 ### Evolution Line
 
 1. [Munchlax](munchlax.md/)
-    1. Level Up: [Snorlax](snorlax.md/)
-
+1. Level Up: [Snorlax](snorlax.md/)
 
 ---
 

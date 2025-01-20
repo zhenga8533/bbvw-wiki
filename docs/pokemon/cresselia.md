@@ -65,7 +65,6 @@ Cresselia has no alternate forms.
 
 1. [Cresselia](cresselia.md/)
 
-
 ---
 
 ## Training

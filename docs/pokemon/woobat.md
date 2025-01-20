@@ -66,8 +66,7 @@ Woobat has no alternate forms.
 ### Evolution Line
 
 1. [Woobat](woobat.md/)
-    1. Level Up: [Swoobat](swoobat.md/)
-
+1. Level Up: [Swoobat](swoobat.md/)
 
 ---
 

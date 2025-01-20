@@ -66,8 +66,7 @@ Blitzle has no alternate forms.
 ### Evolution Line
 
 1. [Blitzle](blitzle.md/)
-    1. Level Up: [Zebstrika](zebstrika.md/)
-
+1. Level Up: [Zebstrika](zebstrika.md/)
 
 ---
 

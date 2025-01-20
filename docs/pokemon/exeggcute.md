@@ -64,8 +64,7 @@ Exeggcute has no alternate forms.
 ### Evolution Line
 
 1. [Exeggcute](exeggcute.md/)
-    1. Use Item: [Exeggutor](exeggutor.md/)
-
+1. Use Item: [Exeggutor](exeggutor.md/)
 
 ---
 

@@ -64,8 +64,7 @@ Vespiquen has no alternate forms.
 ### Evolution Line
 
 1. [Combee](combee.md/)
-    1. Level Up: [Vespiquen](vespiquen.md/)
-
+1. Level Up: [Vespiquen](vespiquen.md/)
 
 ---
 

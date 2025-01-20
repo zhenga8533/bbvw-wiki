@@ -65,9 +65,8 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Larvitar](larvitar.md/)
-    1. Level Up: [Pupitar](pupitar.md/)
-        1. Level Up: [Tyranitar](tyranitar.md/)
-
+1. Level Up: [Pupitar](pupitar.md/)
+1. Level Up: [Tyranitar](tyranitar.md/)
 
 ---
 

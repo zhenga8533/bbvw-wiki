@@ -65,7 +65,6 @@ Darkrai has no alternate forms.
 
 1. [Darkrai](darkrai.md/)
 
-
 ---
 
 ## Training

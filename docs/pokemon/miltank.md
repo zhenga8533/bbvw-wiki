@@ -65,7 +65,6 @@ Miltank has no alternate forms.
 
 1. [Miltank](miltank.md/)
 
-
 ---
 
 ## Training

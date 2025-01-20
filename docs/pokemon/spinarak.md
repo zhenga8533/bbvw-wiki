@@ -64,8 +64,7 @@ Spinarak has no alternate forms.
 ### Evolution Line
 
 1. [Spinarak](spinarak.md/)
-    1. Level Up: [Ariados](ariados.md/)
-
+1. Level Up: [Ariados](ariados.md/)
 
 ---
 

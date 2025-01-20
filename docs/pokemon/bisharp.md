@@ -66,8 +66,7 @@ Bisharp has no alternate forms.
 ### Evolution Line
 
 1. [Pawniard](pawniard.md/)
-    1. Level Up: [Bisharp](bisharp.md/)
-
+1. Level Up: [Bisharp](bisharp.md/)
 
 ---
 

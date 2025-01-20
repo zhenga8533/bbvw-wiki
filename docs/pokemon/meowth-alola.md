@@ -1,4 +1,4 @@
-# #10107 Meowth-Alola (Scratch Cat Pokémon)
+# #10107 Meowth Alola (Scratch Cat Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -67,8 +67,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Meowth](meowth.md/)
-    1. Level Up: [Persian](persian.md/)
-
+1. Level Up: [Persian](persian.md/)
 
 ---
 

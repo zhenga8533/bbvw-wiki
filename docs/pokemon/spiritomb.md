@@ -65,7 +65,6 @@ Spiritomb has no alternate forms.
 
 1. [Spiritomb](spiritomb.md/)
 
-
 ---
 
 ## Training

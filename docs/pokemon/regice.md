@@ -65,7 +65,6 @@ Regice has no alternate forms.
 
 1. [Regice](regice.md/)
 
-
 ---
 
 ## Training

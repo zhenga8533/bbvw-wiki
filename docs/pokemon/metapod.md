@@ -64,9 +64,8 @@ Metapod has no alternate forms.
 ### Evolution Line
 
 1. [Caterpie](caterpie.md/)
-    1. Level Up: [Metapod](metapod.md/)
-        1. Level Up: [Butterfree](butterfree.md/)
-
+1. Level Up: [Metapod](metapod.md/)
+1. Level Up: [Butterfree](butterfree.md/)
 
 ---
 

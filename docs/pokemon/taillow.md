@@ -64,8 +64,7 @@ Taillow has no alternate forms.
 ### Evolution Line
 
 1. [Taillow](taillow.md/)
-    1. Level Up: [Swellow](swellow.md/)
-
+1. Level Up: [Swellow](swellow.md/)
 
 ---
 

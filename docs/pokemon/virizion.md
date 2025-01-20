@@ -67,7 +67,6 @@ Virizion has no alternate forms.
 
 1. [Virizion](virizion.md/)
 
-
 ---
 
 ## Training

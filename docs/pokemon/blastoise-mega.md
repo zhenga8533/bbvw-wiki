@@ -1,4 +1,4 @@
-# #10036 Blastoise-Mega (Shellfish Pokémon)
+# #10036 Blastoise Mega (Shellfish Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -66,9 +66,8 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Squirtle](squirtle.md/)
-    1. Level Up: [Wartortle](wartortle.md/)
-        1. Level Up: [Blastoise](blastoise.md/)
-
+1. Level Up: [Wartortle](wartortle.md/)
+1. Level Up: [Blastoise](blastoise.md/)
 
 ---
 
@@ -161,7 +160,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Blastoise-Mega cannot learn any moves by breeding.
+Blastoise Mega cannot learn any moves by breeding.
 
 ### Tutor Moves
 

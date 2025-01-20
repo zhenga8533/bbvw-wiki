@@ -66,9 +66,8 @@ Gurdurr has no alternate forms.
 ### Evolution Line
 
 1. [Timburr](timburr.md/)
-    1. Level Up: [Gurdurr](gurdurr.md/)
-        1. Trade: [Conkeldurr](conkeldurr.md/)
-
+1. Level Up: [Gurdurr](gurdurr.md/)
+1. Trade: [Conkeldurr](conkeldurr.md/)
 
 ```
 Level 36.

@@ -64,8 +64,7 @@ Scyther has no alternate forms.
 ### Evolution Line
 
 1. [Scyther](scyther.md/)
-    1. Trade: [Scizor](scizor.md/)
-
+1. Trade: [Scizor](scizor.md/)
 
 ```
 Level Up at Day with a Metal Coat equipped.

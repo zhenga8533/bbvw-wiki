@@ -1,4 +1,4 @@
-# #10053 Aggron-Mega (Iron Armor Pokémon)
+# #10053 Aggron Mega (Iron Armor Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -65,9 +65,8 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Aron](aron.md/)
-    1. Level Up: [Lairon](lairon.md/)
-        1. Level Up: [Aggron](aggron.md/)
-
+1. Level Up: [Lairon](lairon.md/)
+1. Level Up: [Aggron](aggron.md/)
 
 ---
 
@@ -174,7 +173,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Aggron-Mega cannot learn any moves by breeding.
+Aggron Mega cannot learn any moves by breeding.
 
 ### Tutor Moves
 

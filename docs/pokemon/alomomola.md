@@ -67,7 +67,6 @@ Alomomola has no alternate forms.
 
 1. [Alomomola](alomomola.md/)
 
-
 ---
 
 ## Training

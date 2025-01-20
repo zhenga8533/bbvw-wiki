@@ -1,4 +1,4 @@
-# #10245 Dialga-Origin (Temporal Pokémon)
+# #10245 Dialga Origin (Temporal Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -12,7 +12,7 @@ A legendary Pokémon of Sinnoh. It is said that time flows when Dialga’s heart
 
 ### Sprites
 
-Dialga-Origin has no sprites available in Blaze Black/Volt White.
+Dialga Origin has no sprites available in Blaze Black/Volt White.
 
 ### Cries
 
@@ -63,7 +63,6 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Dialga](dialga.md/)
-
 
 ---
 
@@ -167,9 +166,9 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Dialga-Origin cannot learn any moves by breeding.
+Dialga Origin cannot learn any moves by breeding.
 
 ### Tutor Moves
 
-Dialga-Origin cannot learn any moves from tutors.
+Dialga Origin cannot learn any moves from tutors.
 

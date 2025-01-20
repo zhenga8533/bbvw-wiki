@@ -1,4 +1,4 @@
-# #10163 Rapidash-Galar (Fire Horse Pokémon)
+# #10163 Rapidash Galar (Fire Horse Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -65,8 +65,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Ponyta](ponyta.md/)
-    1. Level Up: [Rapidash](rapidash.md/)
-
+1. Level Up: [Rapidash](rapidash.md/)
 
 ---
 
@@ -164,7 +163,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Rapidash-Galar cannot learn any moves by breeding.
+Rapidash Galar cannot learn any moves by breeding.
 
 ### Tutor Moves
 

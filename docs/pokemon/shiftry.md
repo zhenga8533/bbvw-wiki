@@ -64,9 +64,8 @@ Shiftry has no alternate forms.
 ### Evolution Line
 
 1. [Seedot](seedot.md/)
-    1. Level Up: [Nuzleaf](nuzleaf.md/)
-        1. Use Item: [Shiftry](shiftry.md/)
-
+1. Level Up: [Nuzleaf](nuzleaf.md/)
+1. Use Item: [Shiftry](shiftry.md/)
 
 ---
 

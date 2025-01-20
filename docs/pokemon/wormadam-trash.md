@@ -1,4 +1,4 @@
-# #10005 Wormadam-Trash (Bagworm Pokémon)
+# #10005 Wormadam Trash (Bagworm Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -66,9 +66,11 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Burmy](burmy.md/)
-    1. Level Up: [Wormadam-Trash](wormadam-trash.md/)
-    2. Level Up: [Mothim](mothim.md/)
+1. Level Up: [Wormadam-Plant](wormadam-plant.md/)
 
+    1. Level Up: [Wormadam-Sandy](wormadam-sandy.md/)
+
+    1. Level Up: [Wormadam-Trash](wormadam-trash.md/)2. Level Up: [Mothim](mothim.md/)
 
 ---
 
@@ -146,9 +148,9 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Wormadam-Trash cannot learn any moves by breeding.
+Wormadam Trash cannot learn any moves by breeding.
 
 ### Tutor Moves
 
-Wormadam-Trash cannot learn any moves from tutors.
+Wormadam Trash cannot learn any moves from tutors.
 

@@ -64,9 +64,7 @@ Froslass has no alternate forms.
 ### Evolution Line
 
 1. [Snorunt](snorunt.md/)
-    1. Level Up: [Glalie](glalie.md/)
-    2. Use Item: [Froslass](froslass.md/)
-
+1. Level Up: [Glalie](glalie.md/)2. Use Item: [Froslass](froslass.md/)
 
 ---
 

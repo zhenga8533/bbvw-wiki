@@ -1,4 +1,4 @@
-# #10101 Sandshrew-Alola (Mouse Pokémon)
+# #10101 Sandshrew Alola (Mouse Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -65,8 +65,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Sandshrew](sandshrew.md/)
-    1. Use Item: [Sandslash](sandslash.md/)
-
+1. Use Item: [Sandslash](sandslash.md/)
 
 ---
 

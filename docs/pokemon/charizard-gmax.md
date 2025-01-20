@@ -1,4 +1,4 @@
-# #10196 Charizard-Gmax (Flame Pokémon)
+# #10196 Charizard Gmax (Flame Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -67,9 +67,8 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Charmander](charmander.md/)
-    1. Level Up: [Charmeleon](charmeleon.md/)
-        1. Level Up: [Charizard](charizard.md/)
-
+1. Level Up: [Charmeleon](charmeleon.md/)
+1. Level Up: [Charizard](charizard.md/)
 
 ---
 
@@ -97,17 +96,17 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Level Up Moves
 
-Charizard-Gmax cannot learn any moves by leveling up.
+Charizard Gmax cannot learn any moves by leveling up.
 
 ### TM Moves
 
-Charizard-Gmax cannot learn any TM moves.
+Charizard Gmax cannot learn any TM moves.
 
 ### Egg Moves
 
-Charizard-Gmax cannot learn any moves by breeding.
+Charizard Gmax cannot learn any moves by breeding.
 
 ### Tutor Moves
 
-Charizard-Gmax cannot learn any moves from tutors.
+Charizard Gmax cannot learn any moves from tutors.
 

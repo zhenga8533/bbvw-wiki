@@ -64,8 +64,7 @@ Gulpin has no alternate forms.
 ### Evolution Line
 
 1. [Gulpin](gulpin.md/)
-    1. Level Up: [Swalot](swalot.md/)
-
+1. Level Up: [Swalot](swalot.md/)
 
 ---
 

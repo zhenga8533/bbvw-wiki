@@ -1,4 +1,4 @@
-# #10110 Graveler-Alola (Rock Pokémon)
+# #10110 Graveler Alola (Rock Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -65,9 +65,8 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Geodude](geodude.md/)
-    1. Level Up: [Graveler](graveler.md/)
-        1. Trade: [Golem](golem.md/)
-
+1. Level Up: [Graveler](graveler.md/)
+1. Trade: [Golem](golem.md/)
 
 ---
 
@@ -158,7 +157,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Graveler-Alola cannot learn any moves by breeding.
+Graveler Alola cannot learn any moves by breeding.
 
 ### Tutor Moves
 

@@ -1,4 +1,4 @@
-# #10169 Articuno-Galar (Freeze Pokémon)
+# #10169 Articuno Galar (Freeze Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -65,7 +65,6 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Articuno](articuno.md/)
-
 
 ---
 
@@ -154,7 +153,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Articuno-Galar cannot learn any moves by breeding.
+Articuno Galar cannot learn any moves by breeding.
 
 ### Tutor Moves
 

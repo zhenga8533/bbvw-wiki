@@ -66,8 +66,7 @@ Cofagrigus has no alternate forms.
 ### Evolution Line
 
 1. [Yamask](yamask.md/)
-    1. Level Up: [Cofagrigus](cofagrigus.md/)
-
+1. Level Up: [Cofagrigus](cofagrigus.md/)
 
 ---
 

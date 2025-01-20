@@ -1,4 +1,4 @@
-# #10079 Rayquaza-Mega (Sky High Pokémon)
+# #10079 Rayquaza Mega (Sky High Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -65,7 +65,6 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Rayquaza](rayquaza.md/)
-
 
 ---
 
@@ -167,7 +166,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Rayquaza-Mega cannot learn any moves by breeding.
+Rayquaza Mega cannot learn any moves by breeding.
 
 ### Tutor Moves
 

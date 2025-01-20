@@ -1,4 +1,4 @@
-# #10018 Meloetta-Pirouette (Melody Pokémon)
+# #10018 Meloetta Pirouette (Melody Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -66,8 +66,9 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Evolution Line
 
-1. [Meloetta-Pirouette](meloetta-pirouette.md/)
+1. [Meloetta-Aria](meloetta-aria.md/)
 
+1. [Meloetta-Pirouette](meloetta-pirouette.md/)
 
 ---
 
@@ -169,9 +170,9 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Meloetta-Pirouette cannot learn any moves by breeding.
+Meloetta Pirouette cannot learn any moves by breeding.
 
 ### Tutor Moves
 
-Meloetta-Pirouette cannot learn any moves from tutors.
+Meloetta Pirouette cannot learn any moves from tutors.
 

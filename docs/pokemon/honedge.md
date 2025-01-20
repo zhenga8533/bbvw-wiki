@@ -65,7 +65,6 @@ Honedge has no alternate forms.
 
 1. [Honedge](honedge.md/)
 
-
 ---
 
 ## Training

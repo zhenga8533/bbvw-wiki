@@ -65,7 +65,6 @@ Mesprit has no alternate forms.
 
 1. [Mesprit](mesprit.md/)
 
-
 ---
 
 ## Training

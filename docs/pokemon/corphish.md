@@ -64,8 +64,7 @@ Corphish has no alternate forms.
 ### Evolution Line
 
 1. [Corphish](corphish.md/)
-    1. Level Up: [Crawdaunt](crawdaunt.md/)
-
+1. Level Up: [Crawdaunt](crawdaunt.md/)
 
 ---
 

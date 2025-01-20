@@ -64,8 +64,7 @@ Noctowl has no alternate forms.
 ### Evolution Line
 
 1. [Hoothoot](hoothoot.md/)
-    1. Level Up: [Noctowl](noctowl.md/)
-
+1. Level Up: [Noctowl](noctowl.md/)
 
 ---
 

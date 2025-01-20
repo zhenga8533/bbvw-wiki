@@ -1,4 +1,4 @@
-# #10001 Deoxys-Attack (DNA Pokémon)
+# #10001 Deoxys Attack (DNA Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -66,8 +66,13 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Evolution Line
 
-1. [Deoxys-Speed](deoxys-speed.md/)
+1. [Deoxys-Attack](deoxys-attack.md/)
 
+1. [Deoxys-Defense](deoxys-defense.md/)
+
+1. [Deoxys-Normal](deoxys-normal.md/)
+
+1. [Deoxys-Speed](deoxys-speed.md/)
 
 ---
 
@@ -169,9 +174,9 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Deoxys-Attack cannot learn any moves by breeding.
+Deoxys Attack cannot learn any moves by breeding.
 
 ### Tutor Moves
 
-Deoxys-Attack cannot learn any moves from tutors.
+Deoxys Attack cannot learn any moves from tutors.
 

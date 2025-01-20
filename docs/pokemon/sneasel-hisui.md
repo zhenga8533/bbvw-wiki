@@ -1,4 +1,4 @@
-# #10235 Sneasel-Hisui (Sharp Claw Pokémon)
+# #10235 Sneasel Hisui (Sharp Claw Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -12,7 +12,7 @@ A smart and sneaky Pokémon. A pair may work together to steal eggs by having on
 
 ### Sprites
 
-Sneasel-Hisui has no sprites available in Blaze Black/Volt White.
+Sneasel Hisui has no sprites available in Blaze Black/Volt White.
 
 ### Cries
 
@@ -63,8 +63,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Sneasel](sneasel.md/)
-    1. Level Up: [Weavile](weavile.md/)
-
+1. Level Up: [Weavile](weavile.md/)
 
 ---
 
@@ -104,11 +103,11 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### TM Moves
 
-Sneasel-Hisui cannot learn any TM moves.
+Sneasel Hisui cannot learn any TM moves.
 
 ### Egg Moves
 
-Sneasel-Hisui cannot learn any moves by breeding.
+Sneasel Hisui cannot learn any moves by breeding.
 
 ### Tutor Moves
 

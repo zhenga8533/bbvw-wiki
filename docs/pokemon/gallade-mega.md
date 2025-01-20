@@ -1,4 +1,4 @@
-# #10068 Gallade-Mega (Blade Pokémon)
+# #10068 Gallade Mega (Blade Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -65,10 +65,8 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Ralts](ralts.md/)
-    1. Level Up: [Kirlia](kirlia.md/)
-        1. Level Up: [Gardevoir](gardevoir.md/)
-        2. Use Item: [Gallade](gallade.md/)
-
+1. Level Up: [Kirlia](kirlia.md/)
+1. Level Up: [Gardevoir](gardevoir.md/)2. Use Item: [Gallade](gallade.md/)
 
 ---
 
@@ -186,7 +184,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Gallade-Mega cannot learn any moves by breeding.
+Gallade Mega cannot learn any moves by breeding.
 
 ### Tutor Moves
 

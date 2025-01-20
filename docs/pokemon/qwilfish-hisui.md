@@ -1,4 +1,4 @@
-# #10234 Qwilfish-Hisui (Balloon Pokémon)
+# #10234 Qwilfish Hisui (Balloon Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -12,7 +12,7 @@ It shoots the poison spines on its body in all directions. Its round form makes 
 
 ### Sprites
 
-Qwilfish-Hisui has no sprites available in Blaze Black/Volt White.
+Qwilfish Hisui has no sprites available in Blaze Black/Volt White.
 
 ### Cries
 
@@ -64,7 +64,6 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 1. [Qwilfish](qwilfish.md/)
 
-
 ---
 
 ## Training
@@ -106,11 +105,11 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### TM Moves
 
-Qwilfish-Hisui cannot learn any TM moves.
+Qwilfish Hisui cannot learn any TM moves.
 
 ### Egg Moves
 
-Qwilfish-Hisui cannot learn any moves by breeding.
+Qwilfish Hisui cannot learn any moves by breeding.
 
 ### Tutor Moves
 

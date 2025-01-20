@@ -66,9 +66,8 @@ Gothita has no alternate forms.
 ### Evolution Line
 
 1. [Gothita](gothita.md/)
-    1. Level Up: [Gothorita](gothorita.md/)
-        1. Level Up: [Gothitelle](gothitelle.md/)
-
+1. Level Up: [Gothorita](gothorita.md/)
+1. Level Up: [Gothitelle](gothitelle.md/)
 
 ---
 

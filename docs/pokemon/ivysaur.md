@@ -64,9 +64,8 @@ Ivysaur has no alternate forms.
 ### Evolution Line
 
 1. [Bulbasaur](bulbasaur.md/)
-    1. Level Up: [Ivysaur](ivysaur.md/)
-        1. Level Up: [Venusaur](venusaur.md/)
-
+1. Level Up: [Ivysaur](ivysaur.md/)
+1. Level Up: [Venusaur](venusaur.md/)
 
 ---
 

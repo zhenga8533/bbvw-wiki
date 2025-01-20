@@ -66,9 +66,8 @@ Reuniclus has no alternate forms.
 ### Evolution Line
 
 1. [Solosis](solosis.md/)
-    1. Level Up: [Duosion](duosion.md/)
-        1. Level Up: [Reuniclus](reuniclus.md/)
-
+1. Level Up: [Duosion](duosion.md/)
+1. Level Up: [Reuniclus](reuniclus.md/)
 
 ---
 

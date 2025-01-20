@@ -65,8 +65,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Ponyta](ponyta.md/)
-    1. Level Up: [Rapidash](rapidash.md/)
-
+1. Level Up: [Rapidash](rapidash.md/)
 
 ---
 

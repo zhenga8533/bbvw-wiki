@@ -64,9 +64,8 @@ Dragonite has no alternate forms.
 ### Evolution Line
 
 1. [Dratini](dratini.md/)
-    1. Level Up: [Dragonair](dragonair.md/)
-        1. Level Up: [Dragonite](dragonite.md/)
-
+1. Level Up: [Dragonair](dragonair.md/)
+1. Level Up: [Dragonite](dragonite.md/)
 
 ---
 

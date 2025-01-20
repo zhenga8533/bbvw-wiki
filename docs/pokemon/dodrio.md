@@ -64,8 +64,7 @@ Dodrio has no alternate forms.
 ### Evolution Line
 
 1. [Doduo](doduo.md/)
-    1. Level Up: [Dodrio](dodrio.md/)
-
+1. Level Up: [Dodrio](dodrio.md/)
 
 ---
 

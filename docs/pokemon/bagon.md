@@ -64,9 +64,8 @@ Bagon has no alternate forms.
 ### Evolution Line
 
 1. [Bagon](bagon.md/)
-    1. Level Up: [Shelgon](shelgon.md/)
-        1. Level Up: [Salamence](salamence.md/)
-
+1. Level Up: [Shelgon](shelgon.md/)
+1. Level Up: [Salamence](salamence.md/)
 
 ---
 

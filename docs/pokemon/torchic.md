@@ -64,9 +64,8 @@ Torchic has no alternate forms.
 ### Evolution Line
 
 1. [Torchic](torchic.md/)
-    1. Level Up: [Combusken](combusken.md/)
-        1. Level Up: [Blaziken](blaziken.md/)
-
+1. Level Up: [Combusken](combusken.md/)
+1. Level Up: [Blaziken](blaziken.md/)
 
 ---
 

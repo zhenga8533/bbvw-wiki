@@ -64,8 +64,7 @@ Weavile has no alternate forms.
 ### Evolution Line
 
 1. [Sneasel](sneasel.md/)
-    1. Level Up: [Weavile](weavile.md/)
-
+1. Level Up: [Weavile](weavile.md/)
 
 ---
 

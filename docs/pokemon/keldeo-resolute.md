@@ -1,4 +1,4 @@
-# #10024 Keldeo-Resolute (Colt Pokémon)
+# #10024 Keldeo Resolute (Colt Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -66,8 +66,9 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Evolution Line
 
-1. [Keldeo-Resolute](keldeo-resolute.md/)
+1. [Keldeo-Ordinary](keldeo-ordinary.md/)
 
+1. [Keldeo-Resolute](keldeo-resolute.md/)
 
 ---
 
@@ -154,7 +155,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Keldeo-Resolute cannot learn any moves by breeding.
+Keldeo Resolute cannot learn any moves by breeding.
 
 ### Tutor Moves
 

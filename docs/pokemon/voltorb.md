@@ -65,8 +65,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Voltorb](voltorb.md/)
-    1. Level Up: [Electrode](electrode.md/)
-
+1. Level Up: [Electrode](electrode.md/)
 
 ---
 

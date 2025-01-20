@@ -64,8 +64,7 @@ Riolu has no alternate forms.
 ### Evolution Line
 
 1. [Riolu](riolu.md/)
-    1. Level Up: [Lucario](lucario.md/)
-
+1. Level Up: [Lucario](lucario.md/)
 
 ---
 

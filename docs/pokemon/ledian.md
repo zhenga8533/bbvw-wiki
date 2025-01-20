@@ -64,8 +64,7 @@ Ledian has no alternate forms.
 ### Evolution Line
 
 1. [Ledyba](ledyba.md/)
-    1. Level Up: [Ledian](ledian.md/)
-
+1. Level Up: [Ledian](ledian.md/)
 
 ---
 

@@ -1,4 +1,4 @@
-# #10007 Giratina-Origin (Renegade Pokémon)
+# #10007 Giratina Origin (Renegade Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -64,8 +64,9 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Evolution Line
 
-1. [Giratina-Origin](giratina-origin.md/)
+1. [Giratina-Altered](giratina-altered.md/)
 
+1. [Giratina-Origin](giratina-origin.md/)
 
 ---
 
@@ -159,7 +160,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Giratina-Origin cannot learn any moves by breeding.
+Giratina Origin cannot learn any moves by breeding.
 
 ### Tutor Moves
 

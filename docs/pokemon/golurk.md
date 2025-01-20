@@ -66,8 +66,7 @@ Golurk has no alternate forms.
 ### Evolution Line
 
 1. [Golett](golett.md/)
-    1. Level Up: [Golurk](golurk.md/)
-
+1. Level Up: [Golurk](golurk.md/)
 
 ---
 

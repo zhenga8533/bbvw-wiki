@@ -64,9 +64,11 @@ Mothim has no alternate forms.
 ### Evolution Line
 
 1. [Burmy](burmy.md/)
-    1. Level Up: [Wormadam-Trash](wormadam-trash.md/)
-    2. Level Up: [Mothim](mothim.md/)
+1. Level Up: [Wormadam-Plant](wormadam-plant.md/)
 
+    1. Level Up: [Wormadam-Sandy](wormadam-sandy.md/)
+
+    1. Level Up: [Wormadam-Trash](wormadam-trash.md/)2. Level Up: [Mothim](mothim.md/)
 
 ---
 

@@ -1,4 +1,4 @@
-# #10167 Weezing-Galar (Poison Gas Pokémon)
+# #10167 Weezing Galar (Poison Gas Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -65,8 +65,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Koffing](koffing.md/)
-    1. Level Up: [Weezing](weezing.md/)
-
+1. Level Up: [Weezing](weezing.md/)
 
 ---
 
@@ -168,7 +167,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Weezing-Galar cannot learn any moves by breeding.
+Weezing Galar cannot learn any moves by breeding.
 
 ### Tutor Moves
 

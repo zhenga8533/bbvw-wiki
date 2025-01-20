@@ -1,4 +1,4 @@
-# #10246 Palkia-Origin (Spatial Pokémon)
+# #10246 Palkia Origin (Spatial Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -12,7 +12,7 @@ A legendary Pokémon of Sinnoh. It is said that space becomes more stable with P
 
 ### Sprites
 
-Palkia-Origin has no sprites available in Blaze Black/Volt White.
+Palkia Origin has no sprites available in Blaze Black/Volt White.
 
 ### Cries
 
@@ -63,7 +63,6 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Palkia](palkia.md/)
-
 
 ---
 
@@ -170,9 +169,9 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Palkia-Origin cannot learn any moves by breeding.
+Palkia Origin cannot learn any moves by breeding.
 
 ### Tutor Moves
 
-Palkia-Origin cannot learn any moves from tutors.
+Palkia Origin cannot learn any moves from tutors.
 

@@ -66,8 +66,7 @@ Mandibuzz has no alternate forms.
 ### Evolution Line
 
 1. [Vullaby](vullaby.md/)
-    1. Level Up: [Mandibuzz](mandibuzz.md/)
-
+1. Level Up: [Mandibuzz](mandibuzz.md/)
 
 ```
 Level 39 [Vullaby]

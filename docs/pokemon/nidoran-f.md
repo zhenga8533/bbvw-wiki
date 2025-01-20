@@ -1,4 +1,4 @@
-# #029 Nidoran-F (Poison Pin Pokémon)
+# #029 Nidoran F (Poison Pin Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -59,14 +59,13 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-Nidoran-F has no alternate forms.
+Nidoran F has no alternate forms.
 
 ### Evolution Line
 
 1. [Nidoran-F](nidoran-f.md/)
-    1. Level Up: [Nidorina](nidorina.md/)
-        1. Use Item: [Nidoqueen](nidoqueen.md/)
-
+1. Level Up: [Nidorina](nidorina.md/)
+1. Use Item: [Nidoqueen](nidoqueen.md/)
 
 ---
 
@@ -168,5 +167,5 @@ Nidoran-F has no alternate forms.
 
 ### Tutor Moves
 
-Nidoran-F cannot learn any moves from tutors.
+Nidoran F cannot learn any moves from tutors.
 

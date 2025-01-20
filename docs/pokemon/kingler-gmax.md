@@ -1,4 +1,4 @@
-# #10203 Kingler-Gmax (Pincer Pokémon)
+# #10203 Kingler Gmax (Pincer Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -65,8 +65,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Krabby](krabby.md/)
-    1. Level Up: [Kingler](kingler.md/)
-
+1. Level Up: [Kingler](kingler.md/)
 
 ---
 
@@ -94,17 +93,17 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Level Up Moves
 
-Kingler-Gmax cannot learn any moves by leveling up.
+Kingler Gmax cannot learn any moves by leveling up.
 
 ### TM Moves
 
-Kingler-Gmax cannot learn any TM moves.
+Kingler Gmax cannot learn any TM moves.
 
 ### Egg Moves
 
-Kingler-Gmax cannot learn any moves by breeding.
+Kingler Gmax cannot learn any moves by breeding.
 
 ### Tutor Moves
 
-Kingler-Gmax cannot learn any moves from tutors.
+Kingler Gmax cannot learn any moves from tutors.
 

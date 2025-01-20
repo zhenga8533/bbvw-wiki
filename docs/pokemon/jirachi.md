@@ -65,7 +65,6 @@ Jirachi has no alternate forms.
 
 1. [Jirachi](jirachi.md/)
 
-
 ---
 
 ## Training

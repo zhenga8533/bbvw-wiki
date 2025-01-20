@@ -64,8 +64,7 @@ Mantine has no alternate forms.
 ### Evolution Line
 
 1. [Mantyke](mantyke.md/)
-    1. Level Up: [Mantine](mantine.md/)
-
+1. Level Up: [Mantine](mantine.md/)
 
 ---
 

@@ -64,9 +64,8 @@ Nidoqueen has no alternate forms.
 ### Evolution Line
 
 1. [Nidoran-F](nidoran-f.md/)
-    1. Level Up: [Nidorina](nidorina.md/)
-        1. Use Item: [Nidoqueen](nidoqueen.md/)
-
+1. Level Up: [Nidorina](nidorina.md/)
+1. Use Item: [Nidoqueen](nidoqueen.md/)
 
 ---
 

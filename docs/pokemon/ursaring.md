@@ -64,8 +64,7 @@ Ursaring has no alternate forms.
 ### Evolution Line
 
 1. [Teddiursa](teddiursa.md/)
-    1. Level Up: [Ursaring](ursaring.md/)
-
+1. Level Up: [Ursaring](ursaring.md/)
 
 ---
 

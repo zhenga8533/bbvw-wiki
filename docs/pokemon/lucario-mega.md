@@ -1,4 +1,4 @@
-# #10059 Lucario-Mega (Aura Pokémon)
+# #10059 Lucario Mega (Aura Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -65,8 +65,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Riolu](riolu.md/)
-    1. Level Up: [Lucario](lucario.md/)
-
+1. Level Up: [Lucario](lucario.md/)
 
 ---
 
@@ -164,7 +163,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Lucario-Mega cannot learn any moves by breeding.
+Lucario Mega cannot learn any moves by breeding.
 
 ### Tutor Moves
 

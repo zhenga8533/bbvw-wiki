@@ -64,9 +64,8 @@ Chimchar has no alternate forms.
 ### Evolution Line
 
 1. [Chimchar](chimchar.md/)
-    1. Level Up: [Monferno](monferno.md/)
-        1. Level Up: [Infernape](infernape.md/)
-
+1. Level Up: [Monferno](monferno.md/)
+1. Level Up: [Infernape](infernape.md/)
 
 ---
 

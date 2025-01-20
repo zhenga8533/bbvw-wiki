@@ -64,8 +64,7 @@ Shellder has no alternate forms.
 ### Evolution Line
 
 1. [Shellder](shellder.md/)
-    1. Use Item: [Cloyster](cloyster.md/)
-
+1. Use Item: [Cloyster](cloyster.md/)
 
 ---
 

@@ -1,4 +1,4 @@
-# #10010 Rotom-Frost (Plasma Pokémon)
+# #10010 Rotom Frost (Plasma Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -69,7 +69,6 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Rotom](rotom.md/)
-
 
 ---
 
@@ -154,9 +153,9 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Rotom-Frost cannot learn any moves by breeding.
+Rotom Frost cannot learn any moves by breeding.
 
 ### Tutor Moves
 
-Rotom-Frost cannot learn any moves from tutors.
+Rotom Frost cannot learn any moves from tutors.
 

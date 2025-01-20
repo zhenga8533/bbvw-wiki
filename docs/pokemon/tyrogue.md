@@ -64,10 +64,7 @@ Tyrogue has no alternate forms.
 ### Evolution Line
 
 1. [Tyrogue](tyrogue.md/)
-    1. Level Up: [Hitmonlee](hitmonlee.md/)
-    2. Level Up: [Hitmonchan](hitmonchan.md/)
-    3. Level Up: [Hitmontop](hitmontop.md/)
-
+1. Level Up: [Hitmonlee](hitmonlee.md/)2. Level Up: [Hitmonchan](hitmonchan.md/)3. Level Up: [Hitmontop](hitmontop.md/)
 
 ---
 

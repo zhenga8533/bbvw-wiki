@@ -65,7 +65,6 @@ Pachirisu has no alternate forms.
 
 1. [Pachirisu](pachirisu.md/)
 
-
 ---
 
 ## Training

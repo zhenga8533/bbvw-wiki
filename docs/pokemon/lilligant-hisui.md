@@ -1,4 +1,4 @@
-# #10237 Lilligant-Hisui (Flowering Pokémon)
+# #10237 Lilligant Hisui (Flowering Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -14,7 +14,7 @@
 
 ### Sprites
 
-Lilligant-Hisui has no sprites available in Blaze Black/Volt White.
+Lilligant Hisui has no sprites available in Blaze Black/Volt White.
 
 ### Cries
 
@@ -65,8 +65,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Petilil](petilil.md/)
-    1. Use Item: [Lilligant](lilligant.md/)
-
+1. Use Item: [Lilligant](lilligant.md/)
 
 ---
 
@@ -113,11 +112,11 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### TM Moves
 
-Lilligant-Hisui cannot learn any TM moves.
+Lilligant Hisui cannot learn any TM moves.
 
 ### Egg Moves
 
-Lilligant-Hisui cannot learn any moves by breeding.
+Lilligant Hisui cannot learn any moves by breeding.
 
 ### Tutor Moves
 

@@ -64,8 +64,7 @@ Psyduck has no alternate forms.
 ### Evolution Line
 
 1. [Psyduck](psyduck.md/)
-    1. Level Up: [Golduck](golduck.md/)
-
+1. Level Up: [Golduck](golduck.md/)
 
 ---
 

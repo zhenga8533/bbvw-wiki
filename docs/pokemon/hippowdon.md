@@ -64,8 +64,7 @@ Hippowdon has no alternate forms.
 ### Evolution Line
 
 1. [Hippopotas](hippopotas.md/)
-    1. Level Up: [Hippowdon](hippowdon.md/)
-
+1. Level Up: [Hippowdon](hippowdon.md/)
 
 ---
 

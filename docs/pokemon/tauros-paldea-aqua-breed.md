@@ -1,4 +1,4 @@
-# #10252 Tauros-Paldea-Aqua-Breed (Wild Bull Pokémon)
+# #10252 Tauros Paldea Aqua Breed (Wild Bull Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -12,7 +12,7 @@ Once it takes aim at its foe, it makes a headlong charge. It is famous for its v
 
 ### Sprites
 
-Tauros-Paldea-Aqua-Breed has no sprites available in Blaze Black/Volt White.
+Tauros Paldea Aqua Breed has no sprites available in Blaze Black/Volt White.
 
 ### Cries
 
@@ -65,7 +65,6 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Tauros](tauros.md/)
-
 
 ---
 
@@ -168,5 +167,5 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Tutor Moves
 
-Tauros-Paldea-Aqua-Breed cannot learn any moves from tutors.
+Tauros Paldea Aqua Breed cannot learn any moves from tutors.
 

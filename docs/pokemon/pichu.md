@@ -64,9 +64,8 @@ Pichu has no alternate forms.
 ### Evolution Line
 
 1. [Pichu](pichu.md/)
-    1. Level Up: [Pikachu](pikachu.md/)
-        1. Use Item: [Raichu](raichu.md/)
-
+1. Level Up: [Pikachu](pikachu.md/)
+1. Use Item: [Raichu](raichu.md/)
 
 ---
 

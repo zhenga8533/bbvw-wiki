@@ -64,8 +64,7 @@ Shieldon has no alternate forms.
 ### Evolution Line
 
 1. [Shieldon](shieldon.md/)
-    1. Level Up: [Bastiodon](bastiodon.md/)
-
+1. Level Up: [Bastiodon](bastiodon.md/)
 
 ---
 

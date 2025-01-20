@@ -64,8 +64,7 @@ Skorupi has no alternate forms.
 ### Evolution Line
 
 1. [Skorupi](skorupi.md/)
-    1. Level Up: [Drapion](drapion.md/)
-
+1. Level Up: [Drapion](drapion.md/)
 
 ---
 

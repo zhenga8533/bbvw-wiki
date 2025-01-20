@@ -1,4 +1,4 @@
-# #10233 Typhlosion-Hisui (Volcano Pokémon)
+# #10233 Typhlosion Hisui (Volcano Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -12,7 +12,7 @@ It attacks using blasts of fire. It creates heat shimmers with intense fire to h
 
 ### Sprites
 
-Typhlosion-Hisui has no sprites available in Blaze Black/Volt White.
+Typhlosion Hisui has no sprites available in Blaze Black/Volt White.
 
 ### Cries
 
@@ -63,9 +63,8 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Cyndaquil](cyndaquil.md/)
-    1. Level Up: [Quilava](quilava.md/)
-        1. Level Up: [Typhlosion](typhlosion.md/)
-
+1. Level Up: [Quilava](quilava.md/)
+1. Level Up: [Typhlosion](typhlosion.md/)
 
 ---
 
@@ -108,11 +107,11 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### TM Moves
 
-Typhlosion-Hisui cannot learn any TM moves.
+Typhlosion Hisui cannot learn any TM moves.
 
 ### Egg Moves
 
-Typhlosion-Hisui cannot learn any moves by breeding.
+Typhlosion Hisui cannot learn any moves by breeding.
 
 ### Tutor Moves
 

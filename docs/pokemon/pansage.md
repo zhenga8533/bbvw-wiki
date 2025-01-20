@@ -66,8 +66,7 @@ Pansage has no alternate forms.
 ### Evolution Line
 
 1. [Pansage](pansage.md/)
-    1. Use Item: [Simisage](simisage.md/)
-
+1. Use Item: [Simisage](simisage.md/)
 
 ---
 

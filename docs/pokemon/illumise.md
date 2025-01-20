@@ -65,7 +65,6 @@ Illumise has no alternate forms.
 
 1. [Illumise](illumise.md/)
 
-
 ---
 
 ## Training

@@ -66,8 +66,7 @@ Ferroseed has no alternate forms.
 ### Evolution Line
 
 1. [Ferroseed](ferroseed.md/)
-    1. Level Up: [Ferrothorn](ferrothorn.md/)
-
+1. Level Up: [Ferrothorn](ferrothorn.md/)
 
 ---
 

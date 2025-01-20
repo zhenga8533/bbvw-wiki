@@ -1,4 +1,4 @@
-# #10040 Pinsir-Mega (Stag Beetle Pokémon)
+# #10040 Pinsir Mega (Stag Beetle Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -65,7 +65,6 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Pinsir](pinsir.md/)
-
 
 ---
 

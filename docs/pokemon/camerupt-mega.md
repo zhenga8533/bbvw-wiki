@@ -1,4 +1,4 @@
-# #10087 Camerupt-Mega (Eruption Pokémon)
+# #10087 Camerupt Mega (Eruption Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -65,8 +65,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Numel](numel.md/)
-    1. Level Up: [Camerupt](camerupt.md/)
-
+1. Level Up: [Camerupt](camerupt.md/)
 
 ---
 
@@ -160,7 +159,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Camerupt-Mega cannot learn any moves by breeding.
+Camerupt Mega cannot learn any moves by breeding.
 
 ### Tutor Moves
 

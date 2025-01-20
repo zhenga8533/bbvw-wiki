@@ -1,4 +1,4 @@
-# #492 Shaymin-Land (Gratitude Pokémon)
+# #492 Shaymin Land (Gratitude Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -64,8 +64,9 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Evolution Line
 
-1. [Shaymin-Sky](shaymin-sky.md/)
+1. [Shaymin-Land](shaymin-land.md/)
 
+1. [Shaymin-Sky](shaymin-sky.md/)
 
 ---
 
@@ -137,9 +138,9 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Shaymin-Land cannot learn any moves by breeding.
+Shaymin Land cannot learn any moves by breeding.
 
 ### Tutor Moves
 
-Shaymin-Land cannot learn any moves from tutors.
+Shaymin Land cannot learn any moves from tutors.
 

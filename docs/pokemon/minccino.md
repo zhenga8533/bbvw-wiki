@@ -66,8 +66,7 @@ Minccino has no alternate forms.
 ### Evolution Line
 
 1. [Minccino](minccino.md/)
-    1. Use Item: [Cinccino](cinccino.md/)
-
+1. Use Item: [Cinccino](cinccino.md/)
 
 ---
 

@@ -64,9 +64,8 @@ Flygon has no alternate forms.
 ### Evolution Line
 
 1. [Trapinch](trapinch.md/)
-    1. Level Up: [Vibrava](vibrava.md/)
-        1. Level Up: [Flygon](flygon.md/)
-
+1. Level Up: [Vibrava](vibrava.md/)
+1. Level Up: [Flygon](flygon.md/)
 
 ---
 

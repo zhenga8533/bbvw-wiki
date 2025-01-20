@@ -66,9 +66,8 @@ Venipede has no alternate forms.
 ### Evolution Line
 
 1. [Venipede](venipede.md/)
-    1. Level Up: [Whirlipede](whirlipede.md/)
-        1. Level Up: [Scolipede](scolipede.md/)
-
+1. Level Up: [Whirlipede](whirlipede.md/)
+1. Level Up: [Scolipede](scolipede.md/)
 
 ---
 

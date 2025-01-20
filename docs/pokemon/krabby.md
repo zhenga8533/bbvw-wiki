@@ -64,8 +64,7 @@ Krabby has no alternate forms.
 ### Evolution Line
 
 1. [Krabby](krabby.md/)
-    1. Level Up: [Kingler](kingler.md/)
-
+1. Level Up: [Kingler](kingler.md/)
 
 ---
 

@@ -64,9 +64,8 @@ Hoppip has no alternate forms.
 ### Evolution Line
 
 1. [Hoppip](hoppip.md/)
-    1. Level Up: [Skiploom](skiploom.md/)
-        1. Level Up: [Jumpluff](jumpluff.md/)
-
+1. Level Up: [Skiploom](skiploom.md/)
+1. Level Up: [Jumpluff](jumpluff.md/)
 
 ---
 

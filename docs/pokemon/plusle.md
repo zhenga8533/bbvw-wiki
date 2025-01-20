@@ -65,7 +65,6 @@ Plusle has no alternate forms.
 
 1. [Plusle](plusle.md/)
 
-
 ---
 
 ## Training

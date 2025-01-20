@@ -66,8 +66,7 @@ Galvantula has no alternate forms.
 ### Evolution Line
 
 1. [Joltik](joltik.md/)
-    1. Level Up: [Galvantula](galvantula.md/)
-
+1. Level Up: [Galvantula](galvantula.md/)
 
 ---
 

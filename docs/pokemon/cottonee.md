@@ -66,8 +66,7 @@ Cottonee has no alternate forms.
 ### Evolution Line
 
 1. [Cottonee](cottonee.md/)
-    1. Use Item: [Whimsicott](whimsicott.md/)
-
+1. Use Item: [Whimsicott](whimsicott.md/)
 
 ---
 

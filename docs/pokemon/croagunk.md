@@ -64,8 +64,7 @@ Croagunk has no alternate forms.
 ### Evolution Line
 
 1. [Croagunk](croagunk.md/)
-    1. Level Up: [Toxicroak](toxicroak.md/)
-
+1. Level Up: [Toxicroak](toxicroak.md/)
 
 ---
 

@@ -64,8 +64,7 @@ Electrike has no alternate forms.
 ### Evolution Line
 
 1. [Electrike](electrike.md/)
-    1. Level Up: [Manectric](manectric.md/)
-
+1. Level Up: [Manectric](manectric.md/)
 
 ---
 

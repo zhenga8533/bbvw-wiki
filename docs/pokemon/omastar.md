@@ -64,8 +64,7 @@ Omastar has no alternate forms.
 ### Evolution Line
 
 1. [Omanyte](omanyte.md/)
-    1. Level Up: [Omastar](omastar.md/)
-
+1. Level Up: [Omastar](omastar.md/)
 
 ---
 

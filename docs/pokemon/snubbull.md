@@ -64,8 +64,7 @@ Snubbull has no alternate forms.
 ### Evolution Line
 
 1. [Snubbull](snubbull.md/)
-    1. Level Up: [Granbull](granbull.md/)
-
+1. Level Up: [Granbull](granbull.md/)
 
 ---
 

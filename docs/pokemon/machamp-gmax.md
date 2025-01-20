@@ -1,4 +1,4 @@
-# #10201 Machamp-Gmax (Superpower Pokémon)
+# #10201 Machamp Gmax (Superpower Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -65,9 +65,8 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Machop](machop.md/)
-    1. Level Up: [Machoke](machoke.md/)
-        1. Trade: [Machamp](machamp.md/)
-
+1. Level Up: [Machoke](machoke.md/)
+1. Trade: [Machamp](machamp.md/)
 
 ---
 
@@ -95,17 +94,17 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Level Up Moves
 
-Machamp-Gmax cannot learn any moves by leveling up.
+Machamp Gmax cannot learn any moves by leveling up.
 
 ### TM Moves
 
-Machamp-Gmax cannot learn any TM moves.
+Machamp Gmax cannot learn any TM moves.
 
 ### Egg Moves
 
-Machamp-Gmax cannot learn any moves by breeding.
+Machamp Gmax cannot learn any moves by breeding.
 
 ### Tutor Moves
 
-Machamp-Gmax cannot learn any moves from tutors.
+Machamp Gmax cannot learn any moves from tutors.
 

@@ -66,9 +66,8 @@ Servine has no alternate forms.
 ### Evolution Line
 
 1. [Snivy](snivy.md/)
-    1. Level Up: [Servine](servine.md/)
-        1. Level Up: [Serperior](serperior.md/)
-
+1. Level Up: [Servine](servine.md/)
+1. Level Up: [Serperior](serperior.md/)
 
 ---
 

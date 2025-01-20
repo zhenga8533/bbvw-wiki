@@ -64,9 +64,8 @@ Grovyle has no alternate forms.
 ### Evolution Line
 
 1. [Treecko](treecko.md/)
-    1. Level Up: [Grovyle](grovyle.md/)
-        1. Level Up: [Sceptile](sceptile.md/)
-
+1. Level Up: [Grovyle](grovyle.md/)
+1. Level Up: [Sceptile](sceptile.md/)
 
 ---
 

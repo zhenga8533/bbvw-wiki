@@ -65,9 +65,8 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Beldum](beldum.md/)
-    1. Level Up: [Metang](metang.md/)
-        1. Level Up: [Metagross](metagross.md/)
-
+1. Level Up: [Metang](metang.md/)
+1. Level Up: [Metagross](metagross.md/)
 
 ---
 

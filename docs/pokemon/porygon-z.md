@@ -1,4 +1,4 @@
-# #474 Porygon-Z (Virtual Pokémon)
+# #474 Porygon Z (Virtual Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -59,14 +59,13 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-Porygon-Z has no alternate forms.
+Porygon Z has no alternate forms.
 
 ### Evolution Line
 
 1. [Porygon](porygon.md/)
-    1. Trade: [Porygon2](porygon2.md/)
-        1. Trade: [Porygon-Z](porygon-z.md/)
-
+1. Trade: [Porygon2](porygon2.md/)
+1. Trade: [Porygon-Z](porygon-z.md/)
 
 ```
 Use the Up-Grade.
@@ -162,9 +161,9 @@ Use the Up-Grade.
 
 ### Egg Moves
 
-Porygon-Z cannot learn any moves by breeding.
+Porygon Z cannot learn any moves by breeding.
 
 ### Tutor Moves
 
-Porygon-Z cannot learn any moves from tutors.
+Porygon Z cannot learn any moves from tutors.
 

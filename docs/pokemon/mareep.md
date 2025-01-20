@@ -64,9 +64,8 @@ Mareep has no alternate forms.
 ### Evolution Line
 
 1. [Mareep](mareep.md/)
-    1. Level Up: [Flaaffy](flaaffy.md/)
-        1. Level Up: [Ampharos](ampharos.md/)
-
+1. Level Up: [Flaaffy](flaaffy.md/)
+1. Level Up: [Ampharos](ampharos.md/)
 
 ---
 

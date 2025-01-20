@@ -64,8 +64,7 @@ Makuhita has no alternate forms.
 ### Evolution Line
 
 1. [Makuhita](makuhita.md/)
-    1. Level Up: [Hariyama](hariyama.md/)
-
+1. Level Up: [Hariyama](hariyama.md/)
 
 ---
 

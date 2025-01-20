@@ -64,9 +64,8 @@ Quilava has no alternate forms.
 ### Evolution Line
 
 1. [Cyndaquil](cyndaquil.md/)
-    1. Level Up: [Quilava](quilava.md/)
-        1. Level Up: [Typhlosion](typhlosion.md/)
-
+1. Level Up: [Quilava](quilava.md/)
+1. Level Up: [Typhlosion](typhlosion.md/)
 
 ---
 

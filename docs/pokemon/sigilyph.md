@@ -67,7 +67,6 @@ Sigilyph has no alternate forms.
 
 1. [Sigilyph](sigilyph.md/)
 
-
 ---
 
 ## Training

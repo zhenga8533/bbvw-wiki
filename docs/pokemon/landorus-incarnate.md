@@ -1,4 +1,4 @@
-# #645 Landorus-Incarnate (Abundance Pokémon)
+# #645 Landorus Incarnate (Abundance Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -66,8 +66,9 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Evolution Line
 
-1. [Landorus-Therian](landorus-therian.md/)
+1. [Landorus-Incarnate](landorus-incarnate.md/)
 
+1. [Landorus-Therian](landorus-therian.md/)
 
 ---
 
@@ -161,9 +162,9 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Landorus-Incarnate cannot learn any moves by breeding.
+Landorus Incarnate cannot learn any moves by breeding.
 
 ### Tutor Moves
 
-Landorus-Incarnate cannot learn any moves from tutors.
+Landorus Incarnate cannot learn any moves from tutors.
 

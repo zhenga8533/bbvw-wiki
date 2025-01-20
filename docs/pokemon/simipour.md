@@ -66,8 +66,7 @@ Simipour has no alternate forms.
 ### Evolution Line
 
 1. [Panpour](panpour.md/)
-    1. Use Item: [Simipour](simipour.md/)
-
+1. Use Item: [Simipour](simipour.md/)
 
 ---
 

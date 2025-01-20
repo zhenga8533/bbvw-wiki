@@ -64,8 +64,7 @@ Claydol has no alternate forms.
 ### Evolution Line
 
 1. [Baltoy](baltoy.md/)
-    1. Level Up: [Claydol](claydol.md/)
-
+1. Level Up: [Claydol](claydol.md/)
 
 ---
 

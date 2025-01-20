@@ -64,8 +64,7 @@ Snover has no alternate forms.
 ### Evolution Line
 
 1. [Snover](snover.md/)
-    1. Level Up: [Abomasnow](abomasnow.md/)
-
+1. Level Up: [Abomasnow](abomasnow.md/)
 
 ---
 

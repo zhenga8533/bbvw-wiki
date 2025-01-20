@@ -64,8 +64,7 @@ Spoink has no alternate forms.
 ### Evolution Line
 
 1. [Spoink](spoink.md/)
-    1. Level Up: [Grumpig](grumpig.md/)
-
+1. Level Up: [Grumpig](grumpig.md/)
 
 ---
 

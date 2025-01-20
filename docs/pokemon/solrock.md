@@ -65,7 +65,6 @@ Solrock has no alternate forms.
 
 1. [Solrock](solrock.md/)
 
-
 ---
 
 ## Training

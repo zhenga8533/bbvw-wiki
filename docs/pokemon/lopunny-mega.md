@@ -1,4 +1,4 @@
-# #10088 Lopunny-Mega (Rabbit Pokémon)
+# #10088 Lopunny Mega (Rabbit Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -65,8 +65,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Buneary](buneary.md/)
-    1. Level Up: [Lopunny](lopunny.md/)
-
+1. Level Up: [Lopunny](lopunny.md/)
 
 ---
 
@@ -160,7 +159,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Lopunny-Mega cannot learn any moves by breeding.
+Lopunny Mega cannot learn any moves by breeding.
 
 ### Tutor Moves
 

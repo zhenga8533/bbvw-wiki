@@ -67,7 +67,6 @@ Zekrom has no alternate forms.
 
 1. [Zekrom](zekrom.md/)
 
-
 ---
 
 ## Training

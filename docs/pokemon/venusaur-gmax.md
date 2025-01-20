@@ -1,4 +1,4 @@
-# #10195 Venusaur-Gmax (Seed Pokémon)
+# #10195 Venusaur Gmax (Seed Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -66,9 +66,8 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Bulbasaur](bulbasaur.md/)
-    1. Level Up: [Ivysaur](ivysaur.md/)
-        1. Level Up: [Venusaur](venusaur.md/)
-
+1. Level Up: [Ivysaur](ivysaur.md/)
+1. Level Up: [Venusaur](venusaur.md/)
 
 ---
 
@@ -96,17 +95,17 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Level Up Moves
 
-Venusaur-Gmax cannot learn any moves by leveling up.
+Venusaur Gmax cannot learn any moves by leveling up.
 
 ### TM Moves
 
-Venusaur-Gmax cannot learn any TM moves.
+Venusaur Gmax cannot learn any TM moves.
 
 ### Egg Moves
 
-Venusaur-Gmax cannot learn any moves by breeding.
+Venusaur Gmax cannot learn any moves by breeding.
 
 ### Tutor Moves
 
-Venusaur-Gmax cannot learn any moves from tutors.
+Venusaur Gmax cannot learn any moves from tutors.
 

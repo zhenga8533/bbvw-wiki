@@ -65,7 +65,6 @@ Luvdisc has no alternate forms.
 
 1. [Luvdisc](luvdisc.md/)
 
-
 ---
 
 ## Training

@@ -66,9 +66,8 @@ Haxorus has no alternate forms.
 ### Evolution Line
 
 1. [Axew](axew.md/)
-    1. Level Up: [Fraxure](fraxure.md/)
-        1. Level Up: [Haxorus](haxorus.md/)
-
+1. Level Up: [Fraxure](fraxure.md/)
+1. Level Up: [Haxorus](haxorus.md/)
 
 ---
 

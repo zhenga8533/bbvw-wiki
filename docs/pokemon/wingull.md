@@ -64,8 +64,7 @@ Wingull has no alternate forms.
 ### Evolution Line
 
 1. [Wingull](wingull.md/)
-    1. Level Up: [Pelipper](pelipper.md/)
-
+1. Level Up: [Pelipper](pelipper.md/)
 
 ---
 

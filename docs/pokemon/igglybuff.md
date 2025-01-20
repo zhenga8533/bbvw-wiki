@@ -64,9 +64,8 @@ Igglybuff has no alternate forms.
 ### Evolution Line
 
 1. [Igglybuff](igglybuff.md/)
-    1. Level Up: [Jigglypuff](jigglypuff.md/)
-        1. Use Item: [Wigglytuff](wigglytuff.md/)
-
+1. Level Up: [Jigglypuff](jigglypuff.md/)
+1. Use Item: [Wigglytuff](wigglytuff.md/)
 
 ---
 

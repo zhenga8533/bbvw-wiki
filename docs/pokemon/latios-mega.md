@@ -1,4 +1,4 @@
-# #10063 Latios-Mega (Eon Pokémon)
+# #10063 Latios Mega (Eon Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -65,7 +65,6 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Latios](latios.md/)
-
 
 ---
 
@@ -170,7 +169,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Latios-Mega cannot learn any moves by breeding.
+Latios Mega cannot learn any moves by breeding.
 
 ### Tutor Moves
 

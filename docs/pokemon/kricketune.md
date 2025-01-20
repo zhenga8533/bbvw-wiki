@@ -64,8 +64,7 @@ Kricketune has no alternate forms.
 ### Evolution Line
 
 1. [Kricketot](kricketot.md/)
-    1. Level Up: [Kricketune](kricketune.md/)
-
+1. Level Up: [Kricketune](kricketune.md/)
 
 ---
 

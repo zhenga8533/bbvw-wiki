@@ -65,7 +65,6 @@ Regigigas has no alternate forms.
 
 1. [Regigigas](regigigas.md/)
 
-
 ---
 
 ## Training

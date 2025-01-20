@@ -64,9 +64,8 @@ Spheal has no alternate forms.
 ### Evolution Line
 
 1. [Spheal](spheal.md/)
-    1. Level Up: [Sealeo](sealeo.md/)
-        1. Level Up: [Walrein](walrein.md/)
-
+1. Level Up: [Sealeo](sealeo.md/)
+1. Level Up: [Walrein](walrein.md/)
 
 ---
 

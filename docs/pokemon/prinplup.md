@@ -64,9 +64,8 @@ Prinplup has no alternate forms.
 ### Evolution Line
 
 1. [Piplup](piplup.md/)
-    1. Level Up: [Prinplup](prinplup.md/)
-        1. Level Up: [Empoleon](empoleon.md/)
-
+1. Level Up: [Prinplup](prinplup.md/)
+1. Level Up: [Empoleon](empoleon.md/)
 
 ---
 

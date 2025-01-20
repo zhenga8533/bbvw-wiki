@@ -66,9 +66,8 @@ Seismitoad has no alternate forms.
 ### Evolution Line
 
 1. [Tympole](tympole.md/)
-    1. Level Up: [Palpitoad](palpitoad.md/)
-        1. Level Up: [Seismitoad](seismitoad.md/)
-
+1. Level Up: [Palpitoad](palpitoad.md/)
+1. Level Up: [Seismitoad](seismitoad.md/)
 
 ---
 

@@ -64,8 +64,7 @@ Gastrodon has no alternate forms.
 ### Evolution Line
 
 1. [Shellos](shellos.md/)
-    1. Level Up: [Gastrodon](gastrodon.md/)
-
+1. Level Up: [Gastrodon](gastrodon.md/)
 
 ---
 

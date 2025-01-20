@@ -64,8 +64,7 @@ Skuntank has no alternate forms.
 ### Evolution Line
 
 1. [Stunky](stunky.md/)
-    1. Level Up: [Skuntank](skuntank.md/)
-
+1. Level Up: [Skuntank](skuntank.md/)
 
 ---
 

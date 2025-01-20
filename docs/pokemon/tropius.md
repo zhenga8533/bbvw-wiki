@@ -65,7 +65,6 @@ Tropius has no alternate forms.
 
 1. [Tropius](tropius.md/)
 
-
 ---
 
 ## Training

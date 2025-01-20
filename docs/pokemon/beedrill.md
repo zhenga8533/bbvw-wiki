@@ -65,9 +65,8 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Weedle](weedle.md/)
-    1. Level Up: [Kakuna](kakuna.md/)
-        1. Level Up: [Beedrill](beedrill.md/)
-
+1. Level Up: [Kakuna](kakuna.md/)
+1. Level Up: [Beedrill](beedrill.md/)
 
 ---
 

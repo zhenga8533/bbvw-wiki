@@ -66,9 +66,8 @@ Vanillish has no alternate forms.
 ### Evolution Line
 
 1. [Vanillite](vanillite.md/)
-    1. Level Up: [Vanillish](vanillish.md/)
-        1. Level Up: [Vanilluxe](vanilluxe.md/)
-
+1. Level Up: [Vanillish](vanillish.md/)
+1. Level Up: [Vanilluxe](vanilluxe.md/)
 
 ---
 

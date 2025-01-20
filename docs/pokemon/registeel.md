@@ -65,7 +65,6 @@ Registeel has no alternate forms.
 
 1. [Registeel](registeel.md/)
 
-
 ---
 
 ## Training

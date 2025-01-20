@@ -64,9 +64,8 @@ Azurill has no alternate forms.
 ### Evolution Line
 
 1. [Azurill](azurill.md/)
-    1. Level Up: [Marill](marill.md/)
-        1. Level Up: [Azumarill](azumarill.md/)
-
+1. Level Up: [Marill](marill.md/)
+1. Level Up: [Azumarill](azumarill.md/)
 
 ---
 

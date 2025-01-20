@@ -64,9 +64,8 @@ Roselia has no alternate forms.
 ### Evolution Line
 
 1. [Budew](budew.md/)
-    1. Level Up: [Roselia](roselia.md/)
-        1. Use Item: [Roserade](roserade.md/)
-
+1. Level Up: [Roselia](roselia.md/)
+1. Use Item: [Roserade](roserade.md/)
 
 ---
 

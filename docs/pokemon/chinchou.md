@@ -64,8 +64,7 @@ Chinchou has no alternate forms.
 ### Evolution Line
 
 1. [Chinchou](chinchou.md/)
-    1. Level Up: [Lanturn](lanturn.md/)
-
+1. Level Up: [Lanturn](lanturn.md/)
 
 ---
 

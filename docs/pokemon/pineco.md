@@ -64,8 +64,7 @@ Pineco has no alternate forms.
 ### Evolution Line
 
 1. [Pineco](pineco.md/)
-    1. Level Up: [Forretress](forretress.md/)
-
+1. Level Up: [Forretress](forretress.md/)
 
 ---
 

@@ -65,7 +65,6 @@ Minun has no alternate forms.
 
 1. [Minun](minun.md/)
 
-
 ---
 
 ## Training

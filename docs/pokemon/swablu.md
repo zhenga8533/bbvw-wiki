@@ -64,8 +64,7 @@ Swablu has no alternate forms.
 ### Evolution Line
 
 1. [Swablu](swablu.md/)
-    1. Level Up: [Altaria](altaria.md/)
-
+1. Level Up: [Altaria](altaria.md/)
 
 ---
 

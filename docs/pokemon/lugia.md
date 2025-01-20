@@ -65,7 +65,6 @@ Lugia has no alternate forms.
 
 1. [Lugia](lugia.md/)
 
-
 ---
 
 ## Training

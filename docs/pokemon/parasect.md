@@ -64,8 +64,7 @@ Parasect has no alternate forms.
 ### Evolution Line
 
 1. [Paras](paras.md/)
-    1. Level Up: [Parasect](parasect.md/)
-
+1. Level Up: [Parasect](parasect.md/)
 
 ---
 

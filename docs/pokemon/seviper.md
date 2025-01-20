@@ -65,7 +65,6 @@ Seviper has no alternate forms.
 
 1. [Seviper](seviper.md/)
 
-
 ---
 
 ## Training

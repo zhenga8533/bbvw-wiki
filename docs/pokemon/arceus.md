@@ -65,7 +65,6 @@ Arceus has no alternate forms.
 
 1. [Arceus](arceus.md/)
 
-
 ---
 
 ## Training

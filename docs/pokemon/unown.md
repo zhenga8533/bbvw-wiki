@@ -65,7 +65,6 @@ Unown has no alternate forms.
 
 1. [Unown](unown.md/)
 
-
 ---
 
 ## Training

@@ -64,9 +64,8 @@ Porygon has no alternate forms.
 ### Evolution Line
 
 1. [Porygon](porygon.md/)
-    1. Trade: [Porygon2](porygon2.md/)
-        1. Trade: [Porygon-Z](porygon-z.md/)
-
+1. Trade: [Porygon2](porygon2.md/)
+1. Trade: [Porygon-Z](porygon-z.md/)
 
 ```
 Use the Up-Grade.

@@ -67,7 +67,6 @@ Bouffalant has no alternate forms.
 
 1. [Bouffalant](bouffalant.md/)
 
-
 ---
 
 ## Training

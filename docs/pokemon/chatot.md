@@ -65,7 +65,6 @@ Chatot has no alternate forms.
 
 1. [Chatot](chatot.md/)
 
-
 ---
 
 ## Training

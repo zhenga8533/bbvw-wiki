@@ -65,8 +65,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Scyther](scyther.md/)
-    1. Trade: [Scizor](scizor.md/)
-
+1. Trade: [Scizor](scizor.md/)
 
 ---
 

@@ -64,9 +64,8 @@ Metang has no alternate forms.
 ### Evolution Line
 
 1. [Beldum](beldum.md/)
-    1. Level Up: [Metang](metang.md/)
-        1. Level Up: [Metagross](metagross.md/)
-
+1. Level Up: [Metang](metang.md/)
+1. Level Up: [Metagross](metagross.md/)
 
 ---
 

@@ -1,4 +1,4 @@
-# #10021 Landorus-Therian (Abundance Pokémon)
+# #10021 Landorus Therian (Abundance Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -66,8 +66,9 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Evolution Line
 
-1. [Landorus-Therian](landorus-therian.md/)
+1. [Landorus-Incarnate](landorus-incarnate.md/)
 
+1. [Landorus-Therian](landorus-therian.md/)
 
 ---
 
@@ -164,7 +165,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Landorus-Therian cannot learn any moves by breeding.
+Landorus Therian cannot learn any moves by breeding.
 
 ### Tutor Moves
 

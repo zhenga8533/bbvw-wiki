@@ -1,4 +1,4 @@
-# #10232 Electrode-Hisui (Ball Pokémon)
+# #10232 Electrode Hisui (Ball Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -12,7 +12,7 @@ It is known to drift on winds if it is bloated to bursting with stored electrici
 
 ### Sprites
 
-Electrode-Hisui has no sprites available in Blaze Black/Volt White.
+Electrode Hisui has no sprites available in Blaze Black/Volt White.
 
 ### Cries
 
@@ -63,8 +63,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Voltorb](voltorb.md/)
-    1. Level Up: [Electrode](electrode.md/)
-
+1. Level Up: [Electrode](electrode.md/)
 
 ---
 
@@ -106,11 +105,11 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### TM Moves
 
-Electrode-Hisui cannot learn any TM moves.
+Electrode Hisui cannot learn any TM moves.
 
 ### Egg Moves
 
-Electrode-Hisui cannot learn any moves by breeding.
+Electrode Hisui cannot learn any moves by breeding.
 
 ### Tutor Moves
 

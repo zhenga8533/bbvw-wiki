@@ -64,8 +64,7 @@ Mightyena has no alternate forms.
 ### Evolution Line
 
 1. [Poochyena](poochyena.md/)
-    1. Level Up: [Mightyena](mightyena.md/)
-
+1. Level Up: [Mightyena](mightyena.md/)
 
 ---
 

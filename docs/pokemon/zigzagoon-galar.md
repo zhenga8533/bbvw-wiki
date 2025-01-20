@@ -1,4 +1,4 @@
-# #10174 Zigzagoon-Galar (Tiny Raccoon Pokémon)
+# #10174 Zigzagoon Galar (Tiny Raccoon Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -65,8 +65,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Zigzagoon](zigzagoon.md/)
-    1. Level Up: [Linoone](linoone.md/)
-
+1. Level Up: [Linoone](linoone.md/)
 
 ---
 

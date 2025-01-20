@@ -1,4 +1,4 @@
-# #10052 Mawile-Mega (Deceiver Pokémon)
+# #10052 Mawile Mega (Deceiver Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -65,7 +65,6 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Mawile](mawile.md/)
-
 
 ---
 

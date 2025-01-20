@@ -64,8 +64,7 @@ Carvanha has no alternate forms.
 ### Evolution Line
 
 1. [Carvanha](carvanha.md/)
-    1. Level Up: [Sharpedo](sharpedo.md/)
-
+1. Level Up: [Sharpedo](sharpedo.md/)
 
 ---
 

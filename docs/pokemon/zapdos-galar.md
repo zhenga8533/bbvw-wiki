@@ -1,4 +1,4 @@
-# #10170 Zapdos-Galar (Electric Pokémon)
+# #10170 Zapdos Galar (Electric Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -65,7 +65,6 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Zapdos](zapdos.md/)
-
 
 ---
 
@@ -158,7 +157,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Zapdos-Galar cannot learn any moves by breeding.
+Zapdos Galar cannot learn any moves by breeding.
 
 ### Tutor Moves
 

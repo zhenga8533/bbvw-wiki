@@ -64,8 +64,7 @@ Natu has no alternate forms.
 ### Evolution Line
 
 1. [Natu](natu.md/)
-    1. Level Up: [Xatu](xatu.md/)
-
+1. Level Up: [Xatu](xatu.md/)
 
 ---
 

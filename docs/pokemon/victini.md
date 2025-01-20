@@ -67,7 +67,6 @@ Victini has no alternate forms.
 
 1. [Victini](victini.md/)
 
-
 ---
 
 ## Training

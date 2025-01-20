@@ -67,7 +67,6 @@ Maractus has no alternate forms.
 
 1. [Maractus](maractus.md/)
 
-
 ---
 
 ## Training

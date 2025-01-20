@@ -1,4 +1,4 @@
-# #10092 Raticate-Alola (Mouse Pokémon)
+# #10092 Raticate Alola (Mouse Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -66,8 +66,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Rattata](rattata.md/)
-    1. Level Up: [Raticate](raticate.md/)
-
+1. Level Up: [Raticate](raticate.md/)
 
 ---
 
@@ -160,7 +159,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Raticate-Alola cannot learn any moves by breeding.
+Raticate Alola cannot learn any moves by breeding.
 
 ### Tutor Moves
 

@@ -66,9 +66,8 @@ Pidove has no alternate forms.
 ### Evolution Line
 
 1. [Pidove](pidove.md/)
-    1. Level Up: [Tranquill](tranquill.md/)
-        1. Level Up: [Unfezant](unfezant.md/)
-
+1. Level Up: [Tranquill](tranquill.md/)
+1. Level Up: [Unfezant](unfezant.md/)
 
 ---
 

@@ -64,8 +64,7 @@ Bronzong has no alternate forms.
 ### Evolution Line
 
 1. [Bronzor](bronzor.md/)
-    1. Level Up: [Bronzong](bronzong.md/)
-
+1. Level Up: [Bronzong](bronzong.md/)
 
 ---
 

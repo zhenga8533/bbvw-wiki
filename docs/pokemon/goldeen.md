@@ -64,8 +64,7 @@ Goldeen has no alternate forms.
 ### Evolution Line
 
 1. [Goldeen](goldeen.md/)
-    1. Level Up: [Seaking](seaking.md/)
-
+1. Level Up: [Seaking](seaking.md/)
 
 ---
 

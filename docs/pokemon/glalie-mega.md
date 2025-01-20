@@ -1,4 +1,4 @@
-# #10074 Glalie-Mega (Face Pokémon)
+# #10074 Glalie Mega (Face Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -65,9 +65,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Snorunt](snorunt.md/)
-    1. Level Up: [Glalie](glalie.md/)
-    2. Use Item: [Froslass](froslass.md/)
-
+1. Level Up: [Glalie](glalie.md/)2. Use Item: [Froslass](froslass.md/)
 
 ---
 
@@ -156,7 +154,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Glalie-Mega cannot learn any moves by breeding.
+Glalie Mega cannot learn any moves by breeding.
 
 ### Tutor Moves
 

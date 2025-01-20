@@ -64,9 +64,8 @@ Seadra has no alternate forms.
 ### Evolution Line
 
 1. [Horsea](horsea.md/)
-    1. Level Up: [Seadra](seadra.md/)
-        1. Trade: [Kingdra](kingdra.md/)
-
+1. Level Up: [Seadra](seadra.md/)
+1. Trade: [Kingdra](kingdra.md/)
 
 ```
 Use the Dragon Scale.

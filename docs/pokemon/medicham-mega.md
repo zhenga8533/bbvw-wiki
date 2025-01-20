@@ -1,4 +1,4 @@
-# #10054 Medicham-Mega (Meditate Pokémon)
+# #10054 Medicham Mega (Meditate Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -65,8 +65,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Meditite](meditite.md/)
-    1. Level Up: [Medicham](medicham.md/)
-
+1. Level Up: [Medicham](medicham.md/)
 
 ---
 
@@ -165,7 +164,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Medicham-Mega cannot learn any moves by breeding.
+Medicham Mega cannot learn any moves by breeding.
 
 ### Tutor Moves
 

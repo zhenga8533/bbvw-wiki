@@ -64,8 +64,7 @@ Cubone has no alternate forms.
 ### Evolution Line
 
 1. [Cubone](cubone.md/)
-    1. Level Up: [Marowak](marowak.md/)
-
+1. Level Up: [Marowak](marowak.md/)
 
 ---
 

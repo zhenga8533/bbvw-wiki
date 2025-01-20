@@ -67,7 +67,6 @@ Druddigon has no alternate forms.
 
 1. [Druddigon](druddigon.md/)
 
-
 ---
 
 ## Training

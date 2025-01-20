@@ -64,9 +64,8 @@ Magmar has no alternate forms.
 ### Evolution Line
 
 1. [Magby](magby.md/)
-    1. Level Up: [Magmar](magmar.md/)
-        1. Trade: [Magmortar](magmortar.md/)
-
+1. Level Up: [Magmar](magmar.md/)
+1. Trade: [Magmortar](magmortar.md/)
 
 ```
 Use the Magmarizer.

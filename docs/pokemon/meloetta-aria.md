@@ -1,4 +1,4 @@
-# #648 Meloetta-Aria (Melody Pokémon)
+# #648 Meloetta Aria (Melody Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -66,8 +66,9 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Evolution Line
 
-1. [Meloetta-Pirouette](meloetta-pirouette.md/)
+1. [Meloetta-Aria](meloetta-aria.md/)
 
+1. [Meloetta-Pirouette](meloetta-pirouette.md/)
 
 ---
 
@@ -169,9 +170,9 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Meloetta-Aria cannot learn any moves by breeding.
+Meloetta Aria cannot learn any moves by breeding.
 
 ### Tutor Moves
 
-Meloetta-Aria cannot learn any moves from tutors.
+Meloetta Aria cannot learn any moves from tutors.
 

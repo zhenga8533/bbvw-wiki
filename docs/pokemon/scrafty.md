@@ -66,8 +66,7 @@ Scrafty has no alternate forms.
 ### Evolution Line
 
 1. [Scraggy](scraggy.md/)
-    1. Level Up: [Scrafty](scrafty.md/)
-
+1. Level Up: [Scrafty](scrafty.md/)
 
 ```
 Level 35 [Scraggy]

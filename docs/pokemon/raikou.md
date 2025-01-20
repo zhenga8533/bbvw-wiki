@@ -65,7 +65,6 @@ Raikou has no alternate forms.
 
 1. [Raikou](raikou.md/)
 
-
 ---
 
 ## Training

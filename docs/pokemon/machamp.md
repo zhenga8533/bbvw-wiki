@@ -65,9 +65,8 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Machop](machop.md/)
-    1. Level Up: [Machoke](machoke.md/)
-        1. Trade: [Machamp](machamp.md/)
-
+1. Level Up: [Machoke](machoke.md/)
+1. Trade: [Machamp](machamp.md/)
 
 ---
 

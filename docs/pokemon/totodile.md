@@ -64,9 +64,8 @@ Totodile has no alternate forms.
 ### Evolution Line
 
 1. [Totodile](totodile.md/)
-    1. Level Up: [Croconaw](croconaw.md/)
-        1. Level Up: [Feraligatr](feraligatr.md/)
-
+1. Level Up: [Croconaw](croconaw.md/)
+1. Level Up: [Feraligatr](feraligatr.md/)
 
 ---
 

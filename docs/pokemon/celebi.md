@@ -65,7 +65,6 @@ Celebi has no alternate forms.
 
 1. [Celebi](celebi.md/)
 
-
 ---
 
 ## Training

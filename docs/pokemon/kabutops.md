@@ -64,8 +64,7 @@ Kabutops has no alternate forms.
 ### Evolution Line
 
 1. [Kabuto](kabuto.md/)
-    1. Level Up: [Kabutops](kabutops.md/)
-
+1. Level Up: [Kabutops](kabutops.md/)
 
 ---
 

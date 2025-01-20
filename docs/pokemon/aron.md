@@ -64,9 +64,8 @@ Aron has no alternate forms.
 ### Evolution Line
 
 1. [Aron](aron.md/)
-    1. Level Up: [Lairon](lairon.md/)
-        1. Level Up: [Aggron](aggron.md/)
-
+1. Level Up: [Lairon](lairon.md/)
+1. Level Up: [Aggron](aggron.md/)
 
 ---
 

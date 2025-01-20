@@ -65,7 +65,6 @@ Suicune has no alternate forms.
 
 1. [Suicune](suicune.md/)
 
-
 ---
 
 ## Training

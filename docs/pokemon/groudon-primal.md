@@ -1,4 +1,4 @@
-# #10078 Groudon-Primal (Continent Pokémon)
+# #10078 Groudon Primal (Continent Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -65,7 +65,6 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Groudon](groudon.md/)
-
 
 ---
 
@@ -161,7 +160,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Groudon-Primal cannot learn any moves by breeding.
+Groudon Primal cannot learn any moves by breeding.
 
 ### Tutor Moves
 

@@ -66,8 +66,7 @@ Escavalier has no alternate forms.
 ### Evolution Line
 
 1. [Karrablast](karrablast.md/)
-    1. Trade: [Escavalier](escavalier.md/)
-
+1. Trade: [Escavalier](escavalier.md/)
 
 ---
 

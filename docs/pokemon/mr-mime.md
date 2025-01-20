@@ -1,4 +1,4 @@
-# #122 Mr-Mime (Barrier Pokémon)
+# #122 Mr Mime (Barrier Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -65,9 +65,8 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Mime-Jr](mime-jr.md/)
-    1. Level Up: [Mr-Mime](mr-mime.md/)
-        1. Level Up: [Mr-Rime](mr-rime.md/)
-
+1. Level Up: [Mr-Mime](mr-mime.md/)
+1. Level Up: [Mr-Rime](mr-rime.md/)
 
 ---
 
@@ -187,5 +186,5 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Tutor Moves
 
-Mr-Mime cannot learn any moves from tutors.
+Mr Mime cannot learn any moves from tutors.
 

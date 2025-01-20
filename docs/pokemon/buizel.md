@@ -64,8 +64,7 @@ Buizel has no alternate forms.
 ### Evolution Line
 
 1. [Buizel](buizel.md/)
-    1. Level Up: [Floatzel](floatzel.md/)
-
+1. Level Up: [Floatzel](floatzel.md/)
 
 ---
 

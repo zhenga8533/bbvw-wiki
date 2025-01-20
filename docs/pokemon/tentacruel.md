@@ -64,8 +64,7 @@ Tentacruel has no alternate forms.
 ### Evolution Line
 
 1. [Tentacool](tentacool.md/)
-    1. Level Up: [Tentacruel](tentacruel.md/)
-
+1. Level Up: [Tentacruel](tentacruel.md/)
 
 ---
 

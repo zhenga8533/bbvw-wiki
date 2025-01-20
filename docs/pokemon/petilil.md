@@ -66,8 +66,7 @@ Petilil has no alternate forms.
 ### Evolution Line
 
 1. [Petilil](petilil.md/)
-    1. Use Item: [Lilligant](lilligant.md/)
-
+1. Use Item: [Lilligant](lilligant.md/)
 
 ---
 

@@ -64,9 +64,8 @@ Dusknoir has no alternate forms.
 ### Evolution Line
 
 1. [Duskull](duskull.md/)
-    1. Level Up: [Dusclops](dusclops.md/)
-        1. Trade: [Dusknoir](dusknoir.md/)
-
+1. Level Up: [Dusclops](dusclops.md/)
+1. Trade: [Dusknoir](dusknoir.md/)
 
 ---
 

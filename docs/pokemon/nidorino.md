@@ -64,9 +64,8 @@ Nidorino has no alternate forms.
 ### Evolution Line
 
 1. [Nidoran-M](nidoran-m.md/)
-    1. Level Up: [Nidorino](nidorino.md/)
-        1. Use Item: [Nidoking](nidoking.md/)
-
+1. Level Up: [Nidorino](nidorino.md/)
+1. Use Item: [Nidoking](nidoking.md/)
 
 ---
 

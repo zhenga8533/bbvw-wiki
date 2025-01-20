@@ -64,8 +64,7 @@ Drowzee has no alternate forms.
 ### Evolution Line
 
 1. [Drowzee](drowzee.md/)
-    1. Level Up: [Hypno](hypno.md/)
-
+1. Level Up: [Hypno](hypno.md/)
 
 ---
 

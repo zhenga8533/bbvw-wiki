@@ -64,8 +64,7 @@ Honchkrow has no alternate forms.
 ### Evolution Line
 
 1. [Murkrow](murkrow.md/)
-    1. Use Item: [Honchkrow](honchkrow.md/)
-
+1. Use Item: [Honchkrow](honchkrow.md/)
 
 ---
 

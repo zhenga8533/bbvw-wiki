@@ -64,9 +64,8 @@ Turtwig has no alternate forms.
 ### Evolution Line
 
 1. [Turtwig](turtwig.md/)
-    1. Level Up: [Grotle](grotle.md/)
-        1. Level Up: [Torterra](torterra.md/)
-
+1. Level Up: [Grotle](grotle.md/)
+1. Level Up: [Torterra](torterra.md/)
 
 ---
 

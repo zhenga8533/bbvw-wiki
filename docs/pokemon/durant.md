@@ -67,7 +67,6 @@ Durant has no alternate forms.
 
 1. [Durant](durant.md/)
 
-
 ---
 
 ## Training

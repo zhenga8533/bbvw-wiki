@@ -1,4 +1,4 @@
-# #10077 Kyogre-Primal (Sea Basin Pokémon)
+# #10077 Kyogre Primal (Sea Basin Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -65,7 +65,6 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Kyogre](kyogre.md/)
-
 
 ---
 
@@ -151,7 +150,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Kyogre-Primal cannot learn any moves by breeding.
+Kyogre Primal cannot learn any moves by breeding.
 
 ### Tutor Moves
 

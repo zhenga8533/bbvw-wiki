@@ -1,4 +1,4 @@
-# #10060 Abomasnow-Mega (Frost Tree Pokémon)
+# #10060 Abomasnow Mega (Frost Tree Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -65,8 +65,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Snover](snover.md/)
-    1. Level Up: [Abomasnow](abomasnow.md/)
-
+1. Level Up: [Abomasnow](abomasnow.md/)
 
 ---
 
@@ -154,7 +153,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Abomasnow-Mega cannot learn any moves by breeding.
+Abomasnow Mega cannot learn any moves by breeding.
 
 ### Tutor Moves
 

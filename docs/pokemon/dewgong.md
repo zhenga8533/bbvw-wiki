@@ -64,8 +64,7 @@ Dewgong has no alternate forms.
 ### Evolution Line
 
 1. [Seel](seel.md/)
-    1. Level Up: [Dewgong](dewgong.md/)
-
+1. Level Up: [Dewgong](dewgong.md/)
 
 ---
 

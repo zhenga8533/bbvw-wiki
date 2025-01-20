@@ -64,9 +64,8 @@ Exploud has no alternate forms.
 ### Evolution Line
 
 1. [Whismur](whismur.md/)
-    1. Level Up: [Loudred](loudred.md/)
-        1. Level Up: [Exploud](exploud.md/)
-
+1. Level Up: [Loudred](loudred.md/)
+1. Level Up: [Exploud](exploud.md/)
 
 ---
 

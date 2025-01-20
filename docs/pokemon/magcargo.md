@@ -64,8 +64,7 @@ Magcargo has no alternate forms.
 ### Evolution Line
 
 1. [Slugma](slugma.md/)
-    1. Level Up: [Magcargo](magcargo.md/)
-
+1. Level Up: [Magcargo](magcargo.md/)
 
 ---
 

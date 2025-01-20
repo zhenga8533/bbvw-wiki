@@ -64,9 +64,8 @@ Lombre has no alternate forms.
 ### Evolution Line
 
 1. [Lotad](lotad.md/)
-    1. Level Up: [Lombre](lombre.md/)
-        1. Use Item: [Ludicolo](ludicolo.md/)
-
+1. Level Up: [Lombre](lombre.md/)
+1. Use Item: [Ludicolo](ludicolo.md/)
 
 ---
 

@@ -64,14 +64,7 @@ Flareon has no alternate forms.
 ### Evolution Line
 
 1. [Eevee](eevee.md/)
-    1. Use Item: [Vaporeon](vaporeon.md/)
-    2. Use Item: [Jolteon](jolteon.md/)
-    3. Use Item: [Flareon](flareon.md/)
-    4. Level Up: [Espeon](espeon.md/)
-    5. Level Up: [Umbreon](umbreon.md/)
-    6. Use Item: [Leafeon](leafeon.md/)
-    7. Use Item: [Glaceon](glaceon.md/)
-
+1. Use Item: [Vaporeon](vaporeon.md/)2. Use Item: [Jolteon](jolteon.md/)3. Use Item: [Flareon](flareon.md/)4. Level Up: [Espeon](espeon.md/)5. Level Up: [Umbreon](umbreon.md/)6. Use Item: [Leafeon](leafeon.md/)7. Use Item: [Glaceon](glaceon.md/)
 
 ---
 

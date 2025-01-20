@@ -65,8 +65,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Carvanha](carvanha.md/)
-    1. Level Up: [Sharpedo](sharpedo.md/)
-
+1. Level Up: [Sharpedo](sharpedo.md/)
 
 ---
 

@@ -65,9 +65,8 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Abra](abra.md/)
-    1. Level Up: [Kadabra](kadabra.md/)
-        1. Trade: [Alakazam](alakazam.md/)
-
+1. Level Up: [Kadabra](kadabra.md/)
+1. Trade: [Alakazam](alakazam.md/)
 
 ---
 

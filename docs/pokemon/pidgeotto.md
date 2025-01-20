@@ -64,9 +64,8 @@ Pidgeotto has no alternate forms.
 ### Evolution Line
 
 1. [Pidgey](pidgey.md/)
-    1. Level Up: [Pidgeotto](pidgeotto.md/)
-        1. Level Up: [Pidgeot](pidgeot.md/)
-
+1. Level Up: [Pidgeotto](pidgeotto.md/)
+1. Level Up: [Pidgeot](pidgeot.md/)
 
 ---
 

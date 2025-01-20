@@ -64,9 +64,8 @@ Piloswine has no alternate forms.
 ### Evolution Line
 
 1. [Swinub](swinub.md/)
-    1. Level Up: [Piloswine](piloswine.md/)
-        1. Level Up: [Mamoswine](mamoswine.md/)
-
+1. Level Up: [Piloswine](piloswine.md/)
+1. Level Up: [Mamoswine](mamoswine.md/)
 
 ---
 

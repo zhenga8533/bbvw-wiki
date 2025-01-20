@@ -1,4 +1,4 @@
-# #10003 Deoxys-Speed (DNA Pokémon)
+# #10003 Deoxys Speed (DNA Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -66,8 +66,13 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Evolution Line
 
-1. [Deoxys-Speed](deoxys-speed.md/)
+1. [Deoxys-Attack](deoxys-attack.md/)
 
+1. [Deoxys-Defense](deoxys-defense.md/)
+
+1. [Deoxys-Normal](deoxys-normal.md/)
+
+1. [Deoxys-Speed](deoxys-speed.md/)
 
 ---
 
@@ -169,9 +174,9 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Deoxys-Speed cannot learn any moves by breeding.
+Deoxys Speed cannot learn any moves by breeding.
 
 ### Tutor Moves
 
-Deoxys-Speed cannot learn any moves from tutors.
+Deoxys Speed cannot learn any moves from tutors.
 

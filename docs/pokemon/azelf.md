@@ -65,7 +65,6 @@ Azelf has no alternate forms.
 
 1. [Azelf](azelf.md/)
 
-
 ---
 
 ## Training

@@ -1,4 +1,4 @@
-# #10073 Pidgeot-Mega (Bird Pokémon)
+# #10073 Pidgeot Mega (Bird Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -65,9 +65,8 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Pidgey](pidgey.md/)
-    1. Level Up: [Pidgeotto](pidgeotto.md/)
-        1. Level Up: [Pidgeot](pidgeot.md/)
-
+1. Level Up: [Pidgeotto](pidgeotto.md/)
+1. Level Up: [Pidgeot](pidgeot.md/)
 
 ---
 
@@ -148,7 +147,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Pidgeot-Mega cannot learn any moves by breeding.
+Pidgeot Mega cannot learn any moves by breeding.
 
 ### Tutor Moves
 

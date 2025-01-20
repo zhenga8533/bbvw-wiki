@@ -65,8 +65,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Munchlax](munchlax.md/)
-    1. Level Up: [Snorlax](snorlax.md/)
-
+1. Level Up: [Snorlax](snorlax.md/)
 
 ---
 

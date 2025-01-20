@@ -1,4 +1,4 @@
-# #10058 Garchomp-Mega (Mach Pokémon)
+# #10058 Garchomp Mega (Mach Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -65,9 +65,8 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Gible](gible.md/)
-    1. Level Up: [Gabite](gabite.md/)
-        1. Level Up: [Garchomp](garchomp.md/)
-
+1. Level Up: [Gabite](gabite.md/)
+1. Level Up: [Garchomp](garchomp.md/)
 
 ---
 
@@ -160,7 +159,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Garchomp-Mega cannot learn any moves by breeding.
+Garchomp Mega cannot learn any moves by breeding.
 
 ### Tutor Moves
 

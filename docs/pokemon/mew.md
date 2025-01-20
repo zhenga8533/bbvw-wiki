@@ -65,7 +65,6 @@ Mew has no alternate forms.
 
 1. [Mew](mew.md/)
 
-
 ---
 
 ## Training

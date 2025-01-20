@@ -67,7 +67,6 @@ Cobalion has no alternate forms.
 
 1. [Cobalion](cobalion.md/)
 
-
 ---
 
 ## Training

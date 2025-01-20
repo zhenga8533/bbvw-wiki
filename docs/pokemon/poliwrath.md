@@ -64,10 +64,8 @@ Poliwrath has no alternate forms.
 ### Evolution Line
 
 1. [Poliwag](poliwag.md/)
-    1. Level Up: [Poliwhirl](poliwhirl.md/)
-        1. Use Item: [Poliwrath](poliwrath.md/)
-        2. Trade: [Politoed](politoed.md/)
-
+1. Level Up: [Poliwhirl](poliwhirl.md/)
+1. Use Item: [Poliwrath](poliwrath.md/)2. Trade: [Politoed](politoed.md/)
 
 ---
 

@@ -65,7 +65,6 @@ Lunatone has no alternate forms.
 
 1. [Lunatone](lunatone.md/)
 
-
 ---
 
 ## Training

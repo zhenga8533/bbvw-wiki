@@ -66,8 +66,7 @@ Beartic has no alternate forms.
 ### Evolution Line
 
 1. [Cubchoo](cubchoo.md/)
-    1. Level Up: [Beartic](beartic.md/)
-
+1. Level Up: [Beartic](beartic.md/)
 
 ---
 

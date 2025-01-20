@@ -1,4 +1,4 @@
-# #10013 Castform-Sunny (Weather Pokémon)
+# #10013 Castform Sunny (Weather Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -67,7 +67,6 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Castform](castform.md/)
-
 
 ---
 
@@ -162,5 +161,5 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Tutor Moves
 
-Castform-Sunny cannot learn any moves from tutors.
+Castform Sunny cannot learn any moves from tutors.
 

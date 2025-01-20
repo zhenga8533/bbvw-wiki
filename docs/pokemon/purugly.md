@@ -64,8 +64,7 @@ Purugly has no alternate forms.
 ### Evolution Line
 
 1. [Glameow](glameow.md/)
-    1. Level Up: [Purugly](purugly.md/)
-
+1. Level Up: [Purugly](purugly.md/)
 
 ---
 

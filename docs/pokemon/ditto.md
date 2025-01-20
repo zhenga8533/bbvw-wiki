@@ -65,7 +65,6 @@ Ditto has no alternate forms.
 
 1. [Ditto](ditto.md/)
 
-
 ---
 
 ## Training

@@ -1,4 +1,4 @@
-# #10200 Meowth-Gmax (Scratch Cat Pokémon)
+# #10200 Meowth Gmax (Scratch Cat Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -67,8 +67,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Meowth](meowth.md/)
-    1. Level Up: [Persian](persian.md/)
-
+1. Level Up: [Persian](persian.md/)
 
 ---
 
@@ -96,17 +95,17 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Level Up Moves
 
-Meowth-Gmax cannot learn any moves by leveling up.
+Meowth Gmax cannot learn any moves by leveling up.
 
 ### TM Moves
 
-Meowth-Gmax cannot learn any TM moves.
+Meowth Gmax cannot learn any TM moves.
 
 ### Egg Moves
 
-Meowth-Gmax cannot learn any moves by breeding.
+Meowth Gmax cannot learn any moves by breeding.
 
 ### Tutor Moves
 
-Meowth-Gmax cannot learn any moves from tutors.
+Meowth Gmax cannot learn any moves from tutors.
 

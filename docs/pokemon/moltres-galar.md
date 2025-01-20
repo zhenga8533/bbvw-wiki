@@ -1,4 +1,4 @@
-# #10171 Moltres-Galar (Flame Pokémon)
+# #10171 Moltres Galar (Flame Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -65,7 +65,6 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Moltres](moltres.md/)
-
 
 ---
 
@@ -150,7 +149,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Moltres-Galar cannot learn any moves by breeding.
+Moltres Galar cannot learn any moves by breeding.
 
 ### Tutor Moves
 

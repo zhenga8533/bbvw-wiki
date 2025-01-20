@@ -64,8 +64,7 @@ Numel has no alternate forms.
 ### Evolution Line
 
 1. [Numel](numel.md/)
-    1. Level Up: [Camerupt](camerupt.md/)
-
+1. Level Up: [Camerupt](camerupt.md/)
 
 ---
 

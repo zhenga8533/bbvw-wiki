@@ -64,8 +64,7 @@ Misdreavus has no alternate forms.
 ### Evolution Line
 
 1. [Misdreavus](misdreavus.md/)
-    1. Use Item: [Mismagius](mismagius.md/)
-
+1. Use Item: [Mismagius](mismagius.md/)
 
 ---
 

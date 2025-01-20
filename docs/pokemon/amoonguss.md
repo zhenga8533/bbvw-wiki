@@ -66,8 +66,7 @@ Amoonguss has no alternate forms.
 ### Evolution Line
 
 1. [Foongus](foongus.md/)
-    1. Level Up: [Amoonguss](amoonguss.md/)
-
+1. Level Up: [Amoonguss](amoonguss.md/)
 
 ---
 

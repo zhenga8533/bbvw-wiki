@@ -1,4 +1,4 @@
-# #10034 Charizard-Mega-X (Flame Pokémon)
+# #10034 Charizard Mega X (Flame Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -67,9 +67,8 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Charmander](charmander.md/)
-    1. Level Up: [Charmeleon](charmeleon.md/)
-        1. Level Up: [Charizard](charizard.md/)
-
+1. Level Up: [Charmeleon](charmeleon.md/)
+1. Level Up: [Charizard](charizard.md/)
 
 ---
 
@@ -172,7 +171,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Charizard-Mega-X cannot learn any moves by breeding.
+Charizard Mega X cannot learn any moves by breeding.
 
 ### Tutor Moves
 

@@ -65,8 +65,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Exeggcute](exeggcute.md/)
-    1. Use Item: [Exeggutor](exeggutor.md/)
-
+1. Use Item: [Exeggutor](exeggutor.md/)
 
 ---
 

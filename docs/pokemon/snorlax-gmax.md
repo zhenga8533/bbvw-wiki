@@ -1,4 +1,4 @@
-# #10206 Snorlax-Gmax (Sleeping Pokémon)
+# #10206 Snorlax Gmax (Sleeping Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -65,8 +65,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Munchlax](munchlax.md/)
-    1. Level Up: [Snorlax](snorlax.md/)
-
+1. Level Up: [Snorlax](snorlax.md/)
 
 ---
 
@@ -94,17 +93,17 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Level Up Moves
 
-Snorlax-Gmax cannot learn any moves by leveling up.
+Snorlax Gmax cannot learn any moves by leveling up.
 
 ### TM Moves
 
-Snorlax-Gmax cannot learn any TM moves.
+Snorlax Gmax cannot learn any TM moves.
 
 ### Egg Moves
 
-Snorlax-Gmax cannot learn any moves by breeding.
+Snorlax Gmax cannot learn any moves by breeding.
 
 ### Tutor Moves
 
-Snorlax-Gmax cannot learn any moves from tutors.
+Snorlax Gmax cannot learn any moves from tutors.
 

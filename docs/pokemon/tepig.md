@@ -66,9 +66,8 @@ Tepig has no alternate forms.
 ### Evolution Line
 
 1. [Tepig](tepig.md/)
-    1. Level Up: [Pignite](pignite.md/)
-        1. Level Up: [Emboar](emboar.md/)
-
+1. Level Up: [Pignite](pignite.md/)
+1. Level Up: [Emboar](emboar.md/)
 
 ---
 

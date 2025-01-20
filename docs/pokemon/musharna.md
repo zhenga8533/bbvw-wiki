@@ -66,8 +66,7 @@ Musharna has no alternate forms.
 ### Evolution Line
 
 1. [Munna](munna.md/)
-    1. Use Item: [Musharna](musharna.md/)
-
+1. Use Item: [Musharna](musharna.md/)
 
 ---
 

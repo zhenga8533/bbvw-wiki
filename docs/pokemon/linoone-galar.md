@@ -1,4 +1,4 @@
-# #10175 Linoone-Galar (Rushing Pokémon)
+# #10175 Linoone Galar (Rushing Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -65,8 +65,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Zigzagoon](zigzagoon.md/)
-    1. Level Up: [Linoone](linoone.md/)
-
+1. Level Up: [Linoone](linoone.md/)
 
 ---
 
@@ -172,7 +171,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Linoone-Galar cannot learn any moves by breeding.
+Linoone Galar cannot learn any moves by breeding.
 
 ### Tutor Moves
 

@@ -64,9 +64,8 @@ Marshtomp has no alternate forms.
 ### Evolution Line
 
 1. [Mudkip](mudkip.md/)
-    1. Level Up: [Marshtomp](marshtomp.md/)
-        1. Level Up: [Swampert](swampert.md/)
-
+1. Level Up: [Marshtomp](marshtomp.md/)
+1. Level Up: [Swampert](swampert.md/)
 
 ---
 

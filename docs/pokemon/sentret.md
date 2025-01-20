@@ -64,8 +64,7 @@ Sentret has no alternate forms.
 ### Evolution Line
 
 1. [Sentret](sentret.md/)
-    1. Level Up: [Furret](furret.md/)
-
+1. Level Up: [Furret](furret.md/)
 
 ---
 

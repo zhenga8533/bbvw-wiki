@@ -64,9 +64,8 @@ Shinx has no alternate forms.
 ### Evolution Line
 
 1. [Shinx](shinx.md/)
-    1. Level Up: [Luxio](luxio.md/)
-        1. Level Up: [Luxray](luxray.md/)
-
+1. Level Up: [Luxio](luxio.md/)
+1. Level Up: [Luxray](luxray.md/)
 
 ---
 

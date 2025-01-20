@@ -65,7 +65,6 @@ Regirock has no alternate forms.
 
 1. [Regirock](regirock.md/)
 
-
 ---
 
 ## Training

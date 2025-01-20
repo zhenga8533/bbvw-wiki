@@ -66,8 +66,7 @@ Beheeyem has no alternate forms.
 ### Evolution Line
 
 1. [Elgyem](elgyem.md/)
-    1. Level Up: [Beheeyem](beheeyem.md/)
-
+1. Level Up: [Beheeyem](beheeyem.md/)
 
 ---
 

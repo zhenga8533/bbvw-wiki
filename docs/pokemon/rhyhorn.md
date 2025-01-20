@@ -64,9 +64,8 @@ Rhyhorn has no alternate forms.
 ### Evolution Line
 
 1. [Rhyhorn](rhyhorn.md/)
-    1. Level Up: [Rhydon](rhydon.md/)
-        1. Trade: [Rhyperior](rhyperior.md/)
-
+1. Level Up: [Rhydon](rhydon.md/)
+1. Trade: [Rhyperior](rhyperior.md/)
 
 ---
 

@@ -64,8 +64,7 @@ Shuppet has no alternate forms.
 ### Evolution Line
 
 1. [Shuppet](shuppet.md/)
-    1. Level Up: [Banette](banette.md/)
-
+1. Level Up: [Banette](banette.md/)
 
 ---
 

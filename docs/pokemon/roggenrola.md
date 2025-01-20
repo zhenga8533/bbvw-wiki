@@ -66,9 +66,8 @@ Roggenrola has no alternate forms.
 ### Evolution Line
 
 1. [Roggenrola](roggenrola.md/)
-    1. Level Up: [Boldore](boldore.md/)
-        1. Trade: [Gigalith](gigalith.md/)
-
+1. Level Up: [Boldore](boldore.md/)
+1. Trade: [Gigalith](gigalith.md/)
 
 ---
 

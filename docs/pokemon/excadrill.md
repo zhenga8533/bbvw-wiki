@@ -66,8 +66,7 @@ Excadrill has no alternate forms.
 ### Evolution Line
 
 1. [Drilbur](drilbur.md/)
-    1. Level Up: [Excadrill](excadrill.md/)
-
+1. Level Up: [Excadrill](excadrill.md/)
 
 ---
 

@@ -64,8 +64,7 @@ Tangrowth has no alternate forms.
 ### Evolution Line
 
 1. [Tangela](tangela.md/)
-    1. Level Up: [Tangrowth](tangrowth.md/)
-
+1. Level Up: [Tangrowth](tangrowth.md/)
 
 ---
 

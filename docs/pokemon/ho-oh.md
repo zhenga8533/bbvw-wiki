@@ -1,4 +1,4 @@
-# #250 Ho-Oh (Rainbow Pokémon)
+# #250 Ho Oh (Rainbow Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -59,12 +59,11 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-Ho-Oh has no alternate forms.
+Ho Oh has no alternate forms.
 
 ### Evolution Line
 
 1. [Ho-Oh](ho-oh.md/)
-
 
 ---
 
@@ -164,9 +163,9 @@ Ho-Oh has no alternate forms.
 
 ### Egg Moves
 
-Ho-Oh cannot learn any moves by breeding.
+Ho Oh cannot learn any moves by breeding.
 
 ### Tutor Moves
 
-Ho-Oh cannot learn any moves from tutors.
+Ho Oh cannot learn any moves from tutors.
 

@@ -64,8 +64,7 @@ Octillery has no alternate forms.
 ### Evolution Line
 
 1. [Remoraid](remoraid.md/)
-    1. Level Up: [Octillery](octillery.md/)
-
+1. Level Up: [Octillery](octillery.md/)
 
 ---
 

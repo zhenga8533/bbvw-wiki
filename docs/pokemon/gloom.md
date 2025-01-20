@@ -64,10 +64,8 @@ Gloom has no alternate forms.
 ### Evolution Line
 
 1. [Oddish](oddish.md/)
-    1. Level Up: [Gloom](gloom.md/)
-        1. Use Item: [Vileplume](vileplume.md/)
-        2. Use Item: [Bellossom](bellossom.md/)
-
+1. Level Up: [Gloom](gloom.md/)
+1. Use Item: [Vileplume](vileplume.md/)2. Use Item: [Bellossom](bellossom.md/)
 
 ---
 

@@ -64,8 +64,7 @@ Lumineon has no alternate forms.
 ### Evolution Line
 
 1. [Finneon](finneon.md/)
-    1. Level Up: [Lumineon](lumineon.md/)
-
+1. Level Up: [Lumineon](lumineon.md/)
 
 ---
 

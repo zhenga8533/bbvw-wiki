@@ -64,9 +64,8 @@ Victreebel has no alternate forms.
 ### Evolution Line
 
 1. [Bellsprout](bellsprout.md/)
-    1. Level Up: [Weepinbell](weepinbell.md/)
-        1. Use Item: [Victreebel](victreebel.md/)
-
+1. Level Up: [Weepinbell](weepinbell.md/)
+1. Use Item: [Victreebel](victreebel.md/)
 
 ---
 

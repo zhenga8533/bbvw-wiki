@@ -65,9 +65,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Snorunt](snorunt.md/)
-    1. Level Up: [Glalie](glalie.md/)
-    2. Use Item: [Froslass](froslass.md/)
-
+1. Level Up: [Glalie](glalie.md/)2. Use Item: [Froslass](froslass.md/)
 
 ---
 

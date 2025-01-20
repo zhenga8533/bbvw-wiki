@@ -64,8 +64,7 @@ Yanmega has no alternate forms.
 ### Evolution Line
 
 1. [Yanma](yanma.md/)
-    1. Level Up: [Yanmega](yanmega.md/)
-
+1. Level Up: [Yanmega](yanmega.md/)
 
 ---
 

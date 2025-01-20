@@ -1,4 +1,4 @@
-# #10236 Samurott-Hisui (Formidable Pokémon)
+# #10236 Samurott Hisui (Formidable Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -14,7 +14,7 @@
 
 ### Sprites
 
-Samurott-Hisui has no sprites available in Blaze Black/Volt White.
+Samurott Hisui has no sprites available in Blaze Black/Volt White.
 
 ### Cries
 
@@ -65,9 +65,8 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Oshawott](oshawott.md/)
-    1. Level Up: [Dewott](dewott.md/)
-        1. Level Up: [Samurott](samurott.md/)
-
+1. Level Up: [Dewott](dewott.md/)
+1. Level Up: [Samurott](samurott.md/)
 
 ---
 
@@ -110,13 +109,13 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### TM Moves
 
-Samurott-Hisui cannot learn any TM moves.
+Samurott Hisui cannot learn any TM moves.
 
 ### Egg Moves
 
-Samurott-Hisui cannot learn any moves by breeding.
+Samurott Hisui cannot learn any moves by breeding.
 
 ### Tutor Moves
 
-Samurott-Hisui cannot learn any moves from tutors.
+Samurott Hisui cannot learn any moves from tutors.
 

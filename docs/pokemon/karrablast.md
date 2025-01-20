@@ -66,8 +66,7 @@ Karrablast has no alternate forms.
 ### Evolution Line
 
 1. [Karrablast](karrablast.md/)
-    1. Trade: [Escavalier](escavalier.md/)
-
+1. Trade: [Escavalier](escavalier.md/)
 
 ```
 Level Up with Shelmet in the party.

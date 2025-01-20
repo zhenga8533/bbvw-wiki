@@ -65,7 +65,6 @@ Uxie has no alternate forms.
 
 1. [Uxie](uxie.md/)
 
-
 ---
 
 ## Training

@@ -64,8 +64,7 @@ Meditite has no alternate forms.
 ### Evolution Line
 
 1. [Meditite](meditite.md/)
-    1. Level Up: [Medicham](medicham.md/)
-
+1. Level Up: [Medicham](medicham.md/)
 
 ---
 

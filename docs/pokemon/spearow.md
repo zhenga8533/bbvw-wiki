@@ -64,8 +64,7 @@ Spearow has no alternate forms.
 ### Evolution Line
 
 1. [Spearow](spearow.md/)
-    1. Level Up: [Fearow](fearow.md/)
-
+1. Level Up: [Fearow](fearow.md/)
 
 ---
 

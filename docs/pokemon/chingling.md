@@ -64,8 +64,7 @@ Chingling has no alternate forms.
 ### Evolution Line
 
 1. [Chingling](chingling.md/)
-    1. Level Up: [Chimecho](chimecho.md/)
-
+1. Level Up: [Chimecho](chimecho.md/)
 
 ---
 

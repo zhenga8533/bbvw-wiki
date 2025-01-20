@@ -1,4 +1,4 @@
-# #10103 Vulpix-Alola (Fox Pokémon)
+# #10103 Vulpix Alola (Fox Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -65,8 +65,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Vulpix](vulpix.md/)
-    1. Use Item: [Ninetales](ninetales.md/)
-
+1. Use Item: [Ninetales](ninetales.md/)
 
 ---
 

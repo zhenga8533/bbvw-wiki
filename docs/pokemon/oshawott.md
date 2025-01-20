@@ -66,9 +66,8 @@ Oshawott has no alternate forms.
 ### Evolution Line
 
 1. [Oshawott](oshawott.md/)
-    1. Level Up: [Dewott](dewott.md/)
-        1. Level Up: [Samurott](samurott.md/)
-
+1. Level Up: [Dewott](dewott.md/)
+1. Level Up: [Samurott](samurott.md/)
 
 ---
 

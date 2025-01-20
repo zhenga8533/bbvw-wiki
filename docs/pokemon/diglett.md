@@ -65,8 +65,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Diglett](diglett.md/)
-    1. Level Up: [Dugtrio](dugtrio.md/)
-
+1. Level Up: [Dugtrio](dugtrio.md/)
 
 ---
 

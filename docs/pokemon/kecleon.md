@@ -65,7 +65,6 @@ Kecleon has no alternate forms.
 
 1. [Kecleon](kecleon.md/)
 
-
 ---
 
 ## Training

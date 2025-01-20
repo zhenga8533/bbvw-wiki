@@ -66,9 +66,8 @@ Litwick has no alternate forms.
 ### Evolution Line
 
 1. [Litwick](litwick.md/)
-    1. Level Up: [Lampent](lampent.md/)
-        1. Use Item: [Chandelure](chandelure.md/)
-
+1. Level Up: [Lampent](lampent.md/)
+1. Use Item: [Chandelure](chandelure.md/)
 
 ```
 Level 34

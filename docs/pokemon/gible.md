@@ -64,9 +64,8 @@ Gible has no alternate forms.
 ### Evolution Line
 
 1. [Gible](gible.md/)
-    1. Level Up: [Gabite](gabite.md/)
-        1. Level Up: [Garchomp](garchomp.md/)
-
+1. Level Up: [Gabite](gabite.md/)
+1. Level Up: [Garchomp](garchomp.md/)
 
 ---
 

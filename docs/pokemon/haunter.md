@@ -64,9 +64,8 @@ Haunter has no alternate forms.
 ### Evolution Line
 
 1. [Gastly](gastly.md/)
-    1. Level Up: [Haunter](haunter.md/)
-        1. Trade: [Gengar](gengar.md/)
-
+1. Level Up: [Haunter](haunter.md/)
+1. Trade: [Gengar](gengar.md/)
 
 ```
 Level 36.

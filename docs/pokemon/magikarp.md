@@ -64,8 +64,7 @@ Magikarp has no alternate forms.
 ### Evolution Line
 
 1. [Magikarp](magikarp.md/)
-    1. Level Up: [Gyarados](gyarados.md/)
-
+1. Level Up: [Gyarados](gyarados.md/)
 
 ---
 

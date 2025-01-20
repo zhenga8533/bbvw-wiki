@@ -66,8 +66,7 @@ Archeops has no alternate forms.
 ### Evolution Line
 
 1. [Archen](archen.md/)
-    1. Level Up: [Archeops](archeops.md/)
-
+1. Level Up: [Archeops](archeops.md/)
 
 ---
 

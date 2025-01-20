@@ -66,8 +66,7 @@ Mienfoo has no alternate forms.
 ### Evolution Line
 
 1. [Mienfoo](mienfoo.md/)
-    1. Level Up: [Mienshao](mienshao.md/)
-
+1. Level Up: [Mienshao](mienshao.md/)
 
 ```
 Level 39

@@ -64,8 +64,7 @@ Nosepass has no alternate forms.
 ### Evolution Line
 
 1. [Nosepass](nosepass.md/)
-    1. Level Up: [Probopass](probopass.md/)
-
+1. Level Up: [Probopass](probopass.md/)
 
 ---
 

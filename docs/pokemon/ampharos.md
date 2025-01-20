@@ -65,9 +65,8 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Mareep](mareep.md/)
-    1. Level Up: [Flaaffy](flaaffy.md/)
-        1. Level Up: [Ampharos](ampharos.md/)
-
+1. Level Up: [Flaaffy](flaaffy.md/)
+1. Level Up: [Ampharos](ampharos.md/)
 
 ---
 

@@ -64,8 +64,7 @@ Phione has no alternate forms.
 ### Evolution Line
 
 1. [Phione](phione.md/)
-    1. [Manaphy](manaphy.md/)
-
+1. [Manaphy](manaphy.md/)
 
 ---
 

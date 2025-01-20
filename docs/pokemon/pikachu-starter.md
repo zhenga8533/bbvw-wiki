@@ -1,4 +1,4 @@
-# #10158 Pikachu-Starter (Mouse Pokémon)
+# #10158 Pikachu Starter (Mouse Pokémon)
 
 | Official Artwork |
 | --- |
@@ -12,7 +12,7 @@ It occasionally uses an electric shock to recharge a fellow Pikachu that is in a
 
 ### Sprites
 
-Pikachu-Starter has no sprites available in Blaze Black/Volt White.
+Pikachu Starter has no sprites available in Blaze Black/Volt White.
 
 ### Cries
 
@@ -78,9 +78,8 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Pichu](pichu.md/)
-    1. Level Up: [Pikachu](pikachu.md/)
-        1. Use Item: [Raichu](raichu.md/)
-
+1. Level Up: [Pikachu](pikachu.md/)
+1. Use Item: [Raichu](raichu.md/)
 
 ---
 
@@ -149,7 +148,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Pikachu-Starter cannot learn any moves by breeding.
+Pikachu Starter cannot learn any moves by breeding.
 
 ### Tutor Moves
 

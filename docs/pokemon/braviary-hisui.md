@@ -1,4 +1,4 @@
-# #10240 Braviary-Hisui (Valiant Pokémon)
+# #10240 Braviary Hisui (Valiant Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -14,7 +14,7 @@
 
 ### Sprites
 
-Braviary-Hisui has no sprites available in Blaze Black/Volt White.
+Braviary Hisui has no sprites available in Blaze Black/Volt White.
 
 ### Cries
 
@@ -65,8 +65,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Rufflet](rufflet.md/)
-    1. Level Up: [Braviary](braviary.md/)
-
+1. Level Up: [Braviary](braviary.md/)
 
 ---
 
@@ -109,11 +108,11 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### TM Moves
 
-Braviary-Hisui cannot learn any TM moves.
+Braviary Hisui cannot learn any TM moves.
 
 ### Egg Moves
 
-Braviary-Hisui cannot learn any moves by breeding.
+Braviary Hisui cannot learn any moves by breeding.
 
 ### Tutor Moves
 

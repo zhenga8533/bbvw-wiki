@@ -65,7 +65,6 @@ Shuckle has no alternate forms.
 
 1. [Shuckle](shuckle.md/)
 
-
 ---
 
 ## Training

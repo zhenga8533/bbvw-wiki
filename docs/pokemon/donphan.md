@@ -64,8 +64,7 @@ Donphan has no alternate forms.
 ### Evolution Line
 
 1. [Phanpy](phanpy.md/)
-    1. Level Up: [Donphan](donphan.md/)
-
+1. Level Up: [Donphan](donphan.md/)
 
 ---
 

@@ -1,4 +1,4 @@
-# #642 Thundurus-Incarnate (Bolt Strike Pokémon)
+# #642 Thundurus Incarnate (Bolt Strike Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -66,8 +66,9 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Evolution Line
 
-1. [Thundurus-Therian](thundurus-therian.md/)
+1. [Thundurus-Incarnate](thundurus-incarnate.md/)
 
+1. [Thundurus-Therian](thundurus-therian.md/)
 
 ---
 
@@ -164,9 +165,9 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Egg Moves
 
-Thundurus-Incarnate cannot learn any moves by breeding.
+Thundurus Incarnate cannot learn any moves by breeding.
 
 ### Tutor Moves
 
-Thundurus-Incarnate cannot learn any moves from tutors.
+Thundurus Incarnate cannot learn any moves from tutors.
 

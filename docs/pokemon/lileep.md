@@ -64,8 +64,7 @@ Lileep has no alternate forms.
 ### Evolution Line
 
 1. [Lileep](lileep.md/)
-    1. Level Up: [Cradily](cradily.md/)
-
+1. Level Up: [Cradily](cradily.md/)
 
 ---
 

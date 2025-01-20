@@ -66,8 +66,7 @@ Trubbish has no alternate forms.
 ### Evolution Line
 
 1. [Trubbish](trubbish.md/)
-    1. Level Up: [Garbodor](garbodor.md/)
-
+1. Level Up: [Garbodor](garbodor.md/)
 
 ---
 

@@ -64,8 +64,7 @@ Drifloon has no alternate forms.
 ### Evolution Line
 
 1. [Drifloon](drifloon.md/)
-    1. Level Up: [Drifblim](drifblim.md/)
-
+1. Level Up: [Drifblim](drifblim.md/)
 
 ---
 

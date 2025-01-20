@@ -1,4 +1,4 @@
-# #10229 Growlithe-Hisui (Puppy Pokémon)
+# #10229 Growlithe Hisui (Puppy Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -12,7 +12,7 @@ A Pokémon with a loyal nature. It will remain motionless until it is given an o
 
 ### Sprites
 
-Growlithe-Hisui has no sprites available in Blaze Black/Volt White.
+Growlithe Hisui has no sprites available in Blaze Black/Volt White.
 
 ### Cries
 
@@ -63,8 +63,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 ### Evolution Line
 
 1. [Growlithe](growlithe.md/)
-    1. Use Item: [Arcanine](arcanine.md/)
-
+1. Use Item: [Arcanine](arcanine.md/)
 
 ---
 
@@ -105,11 +104,11 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### TM Moves
 
-Growlithe-Hisui cannot learn any TM moves.
+Growlithe Hisui cannot learn any TM moves.
 
 ### Egg Moves
 
-Growlithe-Hisui cannot learn any moves by breeding.
+Growlithe Hisui cannot learn any moves by breeding.
 
 ### Tutor Moves
 

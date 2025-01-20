@@ -1,4 +1,4 @@
-# #10204 Lapras-Gmax (Transport Pokémon)
+# #10204 Lapras Gmax (Transport Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -66,7 +66,6 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 1. [Lapras](lapras.md/)
 
-
 ---
 
 ## Training
@@ -93,17 +92,17 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Level Up Moves
 
-Lapras-Gmax cannot learn any moves by leveling up.
+Lapras Gmax cannot learn any moves by leveling up.
 
 ### TM Moves
 
-Lapras-Gmax cannot learn any TM moves.
+Lapras Gmax cannot learn any TM moves.
 
 ### Egg Moves
 
-Lapras-Gmax cannot learn any moves by breeding.
+Lapras Gmax cannot learn any moves by breeding.
 
 ### Tutor Moves
 
-Lapras-Gmax cannot learn any moves from tutors.
+Lapras Gmax cannot learn any moves from tutors.
 

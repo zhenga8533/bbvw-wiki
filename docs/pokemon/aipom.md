@@ -64,8 +64,7 @@ Aipom has no alternate forms.
 ### Evolution Line
 
 1. [Aipom](aipom.md/)
-    1. Level Up: [Ambipom](ambipom.md/)
-
+1. Level Up: [Ambipom](ambipom.md/)
 
 ---
 

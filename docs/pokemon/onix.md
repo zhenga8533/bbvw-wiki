@@ -64,8 +64,7 @@ Onix has no alternate forms.
 ### Evolution Line
 
 1. [Onix](onix.md/)
-    1. Trade: [Steelix](steelix.md/)
-
+1. Trade: [Steelix](steelix.md/)
 
 ```
 Level Up at Night with Metal Coat equipped.

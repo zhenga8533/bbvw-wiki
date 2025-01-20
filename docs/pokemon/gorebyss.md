@@ -64,9 +64,7 @@ Gorebyss has no alternate forms.
 ### Evolution Line
 
 1. [Clamperl](clamperl.md/)
-    1. Trade: [Huntail](huntail.md/)
-    2. Trade: [Gorebyss](gorebyss.md/)
-
+1. Trade: [Huntail](huntail.md/)2. Trade: [Gorebyss](gorebyss.md/)
 
 ---
 

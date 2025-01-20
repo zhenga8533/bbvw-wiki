@@ -64,11 +64,9 @@ Cascoon has no alternate forms.
 ### Evolution Line
 
 1. [Wurmple](wurmple.md/)
-    1. Level Up: [Silcoon](silcoon.md/)
-        1. Level Up: [Beautifly](beautifly.md/)
-    2. Level Up: [Cascoon](cascoon.md/)
-        1. Level Up: [Dustox](dustox.md/)
-
+1. Level Up: [Silcoon](silcoon.md/)
+1. Level Up: [Beautifly](beautifly.md/)2. Level Up: [Cascoon](cascoon.md/)
+1. Level Up: [Dustox](dustox.md/)
 
 ---
 

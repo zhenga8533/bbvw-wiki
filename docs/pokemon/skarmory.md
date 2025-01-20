@@ -65,7 +65,6 @@ Skarmory has no alternate forms.
 
 1. [Skarmory](skarmory.md/)
 
-
 ---
 
 ## Training
