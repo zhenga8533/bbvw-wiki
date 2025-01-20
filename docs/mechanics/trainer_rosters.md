@@ -1,5 +1,5 @@
 ---
-#### Nuvema Town
+## Nuvema Town
 
 <pre><code>1. <b><u>Bianca</u></b>
 2. <b><u>Cheren</u></b>
@@ -7,7 +7,7 @@
 </code></pre>
 ---
 
-#### Route 1
+## Route 1
 
 <pre><code>1. <b>PKMN Ranger Brenda:</b>
    - Vaporeon L52
@@ -23,14 +23,14 @@
 
 ---
 
-#### Accumula Town
+## Accumula Town
 
 <pre><code>1. <b><u>PKMN Trainer N</u></b>
 </code></pre>
 
 ---
 
-#### Route 2
+## Route 2
 
 <pre><code>1. <b>Youngster Jimmy:</b>
    - Hoothoot L7
@@ -51,7 +51,7 @@
 
 ---
 
-#### Striation City
+## Striation City
 
 <pre><code>1. <b><u>Cheren</u></b>
 2. <b>Waiter Maxwell:</b>
@@ -69,7 +69,7 @@
 
 ---
 
-#### Dreamyard
+## Dreamyard
 
 <pre><code>1. <b>Lass Eri:</b>
    - Sentret L10
@@ -90,7 +90,7 @@
 
 ---
 
-#### Route 3
+## Route 3
 
 <pre><code>1. <b>Kumi & Amy D:</b>
    - NidoranM L14
@@ -145,7 +145,7 @@
 
 ---
 
-#### Wellspring Cave
+## Wellspring Cave
 
 <pre><code>1. <b>Plasma Grunt:</b>
    - Zubat L15
@@ -163,7 +163,7 @@
 
 ---
 
-#### Nacrene City
+## Nacrene City
 
 <pre><code>1. <b><u>PKMN Trainer N</u></b>
 2. <b>Lass Dye:</b>
@@ -188,7 +188,7 @@
 
 ---
 
-#### Pinwheel Forest
+## Pinwheel Forest
 
 <pre><code>1. <b>Nurse Shery:</b>
    - Happiny L18
@@ -278,7 +278,7 @@
 
 ---
 
-#### Castelia City
+## Castelia City
 
 <pre><code>1. <b>Clerk Ingrid:</b>
    - Poliwag L23
@@ -368,7 +368,7 @@
 
 ---
 
-#### Route 4
+## Route 4
 
 <pre><code>1. <b><u>Bianca</u></b>
 2. <b><u>Cheren</u></b>
@@ -435,7 +435,7 @@
 
 ---
 
-#### Desert Resort
+## Desert Resort
 
 <pre><code>1. <b>Doctor Jerry:</b>
    - Chansey L30
@@ -476,7 +476,7 @@
 
 ---
 
-#### Relic Castle
+## Relic Castle
 
 <pre><code>1. <b>Psychic Perry:</b>
    - Gothorita L32
@@ -512,7 +512,7 @@
 
 ---
 
-#### Nimbasa City
+## Nimbasa City
 
 <pre><code>1. Dome trainers are not listed here, as they are not essential to completing the seen portion of the PokéDex.
 2. <b>Plasma Grunt:</b>
@@ -546,7 +546,7 @@
 
 ---
 
-#### Route 16
+## Route 16
 
 <pre><code>1. <b>Cycling Hector:</b>
    - Staravia L30
@@ -570,7 +570,7 @@
 
 ---
 
-#### Route 5
+## Route 5
 
 <pre><code>1. <b><u>Cheren</u></b>
 2. <b>Preschooler Sarah:</b>
@@ -600,7 +600,7 @@
 
 ---
 
-#### Cold Storage
+## Cold Storage
 
 <pre><code>1. <b>Youngster Kenneth:</b>
    - Persian L35
@@ -647,7 +647,7 @@
 
 ---
 
-#### Driftveil City
+## Driftveil City
 
 <pre><code>1. <b>Motorcyclist Charles:</b>
    - Poliwrath L35
@@ -686,7 +686,7 @@
 
 ---
 
-#### Route 6
+## Route 6
 
 <pre><code>1. <b>Scientist William:</b>
    - Sawsbuck L36
@@ -717,7 +717,7 @@
 
 ---
 
-#### Chargestone Cave
+## Chargestone Cave
 
 <pre><code>1. <b>Ace Trainer Jared:</b>
    - Axew L40
@@ -777,7 +777,7 @@
 
 ---
 
-#### Route 7
+## Route 7
 
 <pre><code>1. <b>Youngster Mikey:</b>
    - Tauros L44
@@ -816,7 +816,7 @@
 
 ---
 
-#### Celestial Tower
+## Celestial Tower
 
 <pre><code>1. <b>Psychic Doreen:</b>
    - Misdreavus L47
@@ -866,7 +866,7 @@
 
 ---
 
-#### Mistralton City
+## Mistralton City
 
 <pre><code>1. <b>Worker Cliff:</b>
    - Mantine L50
@@ -903,7 +903,7 @@
 
 ---
 
-#### Route 17
+## Route 17
 
 <pre><code>1. <b>Fisherman Lydon:</b>
    - Basculin L52
@@ -927,7 +927,7 @@
 
 ---
 
-#### Route 18
+## Route 18
 
 <pre><code>1. <b>Hiker Jeremiah:</b>
    - Golem L52
@@ -952,7 +952,7 @@
 
 ---
 
-#### Mistralton Cave
+## Mistralton Cave
 
 <pre><code>1. <b>Hiker Hugh:</b>
    - Mamoswine L52
@@ -965,7 +965,7 @@
 
 ---
 
-#### Twist Mountain
+## Twist Mountain
 
 <pre><code>1. <b><u>Cheren</u></b>
 2. <b>Hiker Terrell:</b>
@@ -1017,7 +1017,7 @@
 
 ---
 
-#### Icirrus City
+## Icirrus City
 
 <pre><code>1. <b>Black Belt Grant:</b>
    - Swinub L56
@@ -1052,7 +1052,7 @@
 
 ---
 
-#### Route 8
+## Route 8
 
 <pre><code>1. <b>PKMN Ranger Lewis:</b>
    - Maractus L57
@@ -1078,7 +1078,7 @@
 
 ---
 
-#### Moor Of Icirrus
+## Moor Of Icirrus
 
 <pre><code>1. <b>PKMN Ranger Harry:</b>
    - Seismitoad L58
@@ -1100,7 +1100,7 @@
 
 ---
 
-#### Dragonspiral Tower
+## Dragonspiral Tower
 
 <pre><code>1. <b>Ace Trainer Jesse:</b>
    - Onix L53
@@ -1142,7 +1142,7 @@
 
 ---
 
-#### Tubeline Bridge
+## Tubeline Bridge
 
 <pre><code>1. <b>Biker Morgann:</b>
    - Tauros L60
@@ -1152,7 +1152,7 @@
 
 ---
 
-#### Route 9
+## Route 9
 
 <pre><code>1. <b>Roughneck Reese:</b>
    - Scrafty L61
@@ -1187,7 +1187,7 @@
 
 ---
 
-#### Opelucid City
+## Opelucid City
 
 <pre><code>1. <b>Ace Trainer Eileen:</b>
    - Vaporeon L63
@@ -1236,7 +1236,7 @@
 
 ---
 
-#### Route 10
+## Route 10
 
 <pre><code>1. <b>Battle Girl Amy:</b>
    - Machamp L60
@@ -1278,7 +1278,7 @@
 
 ---
 
-#### Victory Road
+## Victory Road
 
 <pre><code>1. <b>Ace Trainer Shanta:</b>
    - Slowking L66

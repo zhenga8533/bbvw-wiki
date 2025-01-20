@@ -22,7 +22,7 @@ def main():
             if listing:
                 md += "</code></pre>\n\n"
 
-            md += f"---\n\n#### {string.capwords(line)}\n\n<pre><code>"
+            md += f"---\n\n## {string.capwords(line)}\n\n<pre><code>"
             listing = 1
         elif line.startswith("At this point"):
             md += f"</code></pre>\n\n**{line}**\n"

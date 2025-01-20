@@ -4,7 +4,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 
 ---
 
-#### Rival Bianca – 1
+## Rival Bianca – 1
 
 <pre><code><b>Battle Type:</b> Single Battle
 <b>Location:</b> Nuvema Town
@@ -26,7 +26,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 
 ---
 
-#### Rival Cheren – 1
+## Rival Cheren – 1
 
 <pre><code><b>Battle Type:</b> Single Battle
 <b>Location:</b> Nuvema Town
@@ -48,7 +48,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 
 ---
 
-#### PKMN Trainer N – 1
+## PKMN Trainer N – 1
 
 <pre><code><b>Battle Type:</b> Single Battle
 <b>Location:</b> Accumula Town
@@ -70,7 +70,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 
 ---
 
-#### Rival Bianca – 2
+## Rival Bianca – 2
 
 <pre><code><b>Battle Type:</b> Single Battle
 <b>Location:</b> Route 2
@@ -96,7 +96,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 
 ---
 
-#### Rival Cheren – 2
+## Rival Cheren – 2
 
 <pre><code><b>Battle Type:</b> Single Battle
 <b>Location:</b> Striaton City
@@ -122,7 +122,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 
 ---
 
-#### Gym Leader Cilan, Gym Leader Cress, Gym Leader Chili
+## Gym Leader Cilan, Gym Leader Cress, Gym Leader Chili
 
 <pre><code><b>Battle Type:</b> Rotation Battle (First Fight) / Triple Battle (Rematch)
 <b>Reward:</b> TM83 Work Up
@@ -466,7 +466,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 
 ---
 
-#### Rival Cheren – 3
+## Rival Cheren – 3
 
 <pre><code><b>Battle Type:</b> Single Battle
 <b>Location:</b> Route 3
@@ -508,7 +508,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 
 ---
 
-#### PKMN Trainer N – 2
+## PKMN Trainer N – 2
 
 <pre><code><b>Battle Type:</b> Double Battle
 <b>Location:</b> Nacrene City
@@ -538,7 +538,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 
 ---
 
-#### Gym Leader Lenora
+## Gym Leader Lenora
 
 <pre><code><b>Battle Type:</b> Double Battle (Initial) / Single Battle (Rematch)
 <b>Reward:</b> TM67 Retaliate
@@ -658,7 +658,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 
 ---
 
-#### Gym Leader Burgh
+## Gym Leader Burgh
 
 <pre><code><b>Battle Type:</b> Double Battle (Initial) / Single Battle (Rematch)
 <b>Reward:</b> TM89 U-turn
@@ -778,7 +778,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 
 ---
 
-#### Rival Bianca – 3
+## Rival Bianca – 3
 
 <pre><code><b>Battle Type:</b> Double Battle
 <b>Location:</b> Castelia City-Route 4 Gatehouse
@@ -820,7 +820,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 
 ---
 
-#### Rival Cheren – 4
+## Rival Cheren – 4
 
 <pre><code><b>Battle Type:</b> Rotation Battle
 <b>Location:</b> Route 4
@@ -866,7 +866,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 
 ---
 
-#### PKMN Trainer N – 3
+## PKMN Trainer N – 3
 
 <pre><code><b>Battle Type:</b> Double Battle
 <b>Location:</b> Nimbasa City
@@ -900,7 +900,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 
 ---
 
-#### Gym Leader Elesa
+## Gym Leader Elesa
 
 <pre><code><b>Battle Type:</b> Single Battle
 <b>Reward:</b> TM93 Wild Charge
@@ -1020,7 +1020,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 
 ---
 
-#### Rival Cheren – 5
+## Rival Cheren – 5
 
 <pre><code><b>Battle Type:</b> Single Battle
 <b>Location:</b> Route 5
@@ -1066,7 +1066,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 
 ---
 
-#### Gym Leader Clay
+## Gym Leader Clay
 
 <pre><code><b>Battle Type:</b> Single Battle
 <b>Reward:</b> TM78 Bulldoze
@@ -1186,7 +1186,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 
 ---
 
-#### Rival Bianca – 4
+## Rival Bianca – 4
 
 <pre><code><b>Battle Type:</b> Single Battle
 <b>Location:</b> Driftveil City
@@ -1232,7 +1232,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 
 ---
 
-#### PKMN Trainer N – 4
+## PKMN Trainer N – 4
 
 <pre><code><b>Battle Type:</b> Single Battle
 <b>Location:</b> Chargestone Cave
@@ -1266,7 +1266,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 
 ---
 
-#### Gym Leader Skyla
+## Gym Leader Skyla
 
 <pre><code><b>Battle Type:</b> Triple Battle
 <b>Reward:</b> TM62 Acrobatics
@@ -1386,7 +1386,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 
 ---
 
-#### Rival Cheren – 6
+## Rival Cheren – 6
 
 <pre><code><b>Battle Type:</b> Rotation Battle
 <b>Location:</b> Twist Mountain
@@ -1504,7 +1504,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 
 ---
 
-#### Gym Leader Brycen
+## Gym Leader Brycen
 
 <pre><code><b>Battle Type:</b> Double Battle (Initial) / Triple Battle (Rematch)
 <b>Reward:</b> TM13 Ice Beam
@@ -1624,7 +1624,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 
 ---
 
-#### Rival Bianca – 5
+## Rival Bianca – 5
 
 <pre><code><b>Battle Type:</b> Triple Battle
 <b>Location:</b> Route 8
@@ -1742,7 +1742,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 
 ---
 
-#### Gym Leader Drayden
+## Gym Leader Drayden
 
 <pre><code><b>Battle Type:</b> Rotation Battle
 <b>Reward:</b> TM82 Dragon Tail
@@ -1862,7 +1862,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 
 ---
 
-#### Gym Leader Iris
+## Gym Leader Iris
 
 <pre><code><b>Battle Type:</b> Triple Battle
 <b>Reward:</b> TM82 Dragon Tail
@@ -1982,7 +1982,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 
 ---
 
-#### Rival Cheren – 7
+## Rival Cheren – 7
 
 <pre><code><b>Battle Type:</b> Single Battle
 <b>Location:</b> Route 10
@@ -2100,7 +2100,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 
 ---
 
-#### Elite Four Shauntal
+## Elite Four Shauntal
 
 <pre><code><b>Battle Type:</b> Double Battle
 Shauntal’s First Team
@@ -2162,7 +2162,7 @@ Shauntal’s First Team
 
 ---
 
-#### Shauntal’s Second Team
+## Shauntal’s Second Team
 
 <pre><code><b>Battle Type:</b> Single Battle
 
@@ -2223,7 +2223,7 @@ Shauntal’s First Team
 
 ---
 
-#### Elite Four Grimsley
+## Elite Four Grimsley
 
 <pre><code><b>Battle Type:</b> Double Battle
 Grimsley’s First Team
@@ -2285,7 +2285,7 @@ Grimsley’s First Team
 
 ---
 
-#### Grimsley’s Second Team
+## Grimsley’s Second Team
 
 <pre><code><b>Battle Type:</b> Single Battle
 
@@ -2346,7 +2346,7 @@ Grimsley’s First Team
 
 ---
 
-#### Elite Four Marshal
+## Elite Four Marshal
 
 <pre><code><b>Battle Type:</b> Double Battle
 Marshal’s First Team
@@ -2408,7 +2408,7 @@ Marshal’s First Team
 
 ---
 
-#### Marshal’s Second Team
+## Marshal’s Second Team
 
 <pre><code><b>Battle Type:</b> Single Battle
 
@@ -2469,7 +2469,7 @@ Marshal’s First Team
 
 ---
 
-#### Elite Four Caitlin
+## Elite Four Caitlin
 
 <pre><code><b>Battle Type:</b> Double Battle
 Caitlin’s First Team
@@ -2531,7 +2531,7 @@ Caitlin’s First Team
 
 ---
 
-#### Caitlin’s Second Team
+## Caitlin’s Second Team
 
 <pre><code><b>Battle Type:</b> Single Battle
 
@@ -2592,7 +2592,7 @@ Caitlin’s First Team
 
 ---
 
-#### PKMN Trainer N – Final
+## PKMN Trainer N – Final
 
 <pre><code><b>Battle Type:</b> Single Battle
 
@@ -2711,7 +2711,7 @@ Caitlin’s First Team
 
 ---
 
-#### Team Plasma Ghetsis
+## Team Plasma Ghetsis
 
 <pre><code><b>Battle Type:</b> Single Battle
 <b>Reward:</b> N/A
@@ -2774,7 +2774,7 @@ Ghetsis’ Team
 
 ---
 
-#### Rival Cheren – Final
+## Rival Cheren – Final
 
 <pre><code><b>Battle Type:</b> Triple Battle
 <b>Location:</b> Victory Road
@@ -2892,7 +2892,7 @@ Ghetsis’ Team
 
 ---
 
-#### Rival Bianca – Final
+## Rival Bianca – Final
 
 <pre><code><b>Battle Type:</b> Rotation Battle
 <b>Location:</b> Nuvema Town
@@ -3010,7 +3010,7 @@ Ghetsis’ Team
 
 ---
 
-#### PKMN Trainer Cynthia
+## PKMN Trainer Cynthia
 
 <pre><code><b>Battle Type:</b> Single Battle
 <b>Reward:</b> N/A
@@ -3074,7 +3074,7 @@ Ghetsis’ Team
 
 ---
 
-#### Champion Alder
+## Champion Alder
 
 <pre><code><b>Battle Type:</b> Single Battle
 <b>Reward:</b> N/A
@@ -3138,7 +3138,7 @@ Ghetsis’ Team
 
 ---
 
-#### GAME Freak Morimoto
+## GAME Freak Morimoto
 
 <pre><code><b>Battle Type:</b> Triple Battle
 <b>Reward:</b> N/A

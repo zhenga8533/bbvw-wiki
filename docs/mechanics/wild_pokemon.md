@@ -14,7 +14,7 @@ There are a couple of differences between Blaze Black and Volt White. Namely, Bl
 
 ---
 
-#### Route 1
+## Route 1
 
 <pre><code><b>Grass, Normal:</b>
 1. Lillipup (20%)
@@ -67,7 +67,7 @@ There are a couple of differences between Blaze Black and Volt White. Namely, Bl
 
 ---
 
-#### Route 2
+## Route 2
 
 <pre><code><b>Grass, Normal:</b>
 1. Purrloin (20%)
@@ -93,7 +93,7 @@ There are a couple of differences between Blaze Black and Volt White. Namely, Bl
 
 ---
 
-#### Striaton City
+## Striaton City
 
 <pre><code><b>Surf, Normal:</b>
 1. Marill (100%)
@@ -113,7 +113,7 @@ There are a couple of differences between Blaze Black and Volt White. Namely, Bl
 
 ---
 
-#### Dreamyard
+## Dreamyard
 
 <pre><code><b>Grass, Normal:</b>
 1. Munna (20%)
@@ -147,7 +147,7 @@ There are a couple of differences between Blaze Black and Volt White. Namely, Bl
 7. Solrock (5%)
 </code></pre>
 
-##### Legendary Encounter
+**Legendary Encounter**
 
 ```
 Jirachi, Level 30
@@ -159,7 +159,7 @@ Grass, Special, 1%
 
 </code></pre>
 
-##### Special Encounter
+**Special Encounter**
 
 ```
 Musharna, Level 70
@@ -168,7 +168,7 @@ Dreamyard Basement
 
 ---
 
-#### Route 3
+## Route 3
 
 <pre><code><b>Grass, Normal:</b>
 1. Mareep (20%)
@@ -228,7 +228,7 @@ Dreamyard Basement
 
 ---
 
-#### Wellspring Cave 1F
+## Wellspring Cave 1F
 
 <pre><code>1F
 <b>Cave, Normal:</b>
@@ -296,7 +296,7 @@ B1F
 
 ---
 
-#### Pinwheel Forest
+## Pinwheel Forest
 
 <pre><code>Outside
 <b>Grass, Normal:</b>
@@ -382,7 +382,7 @@ Inside
 2. Politoed (5%)
 </code></pre>
 
-##### Legendary Encounter
+**Legendary Encounter**
 
 ```
 Virizion. Level 56
@@ -391,11 +391,11 @@ Rumination Field
 
 ---
 
-#### Liberty Garden
+## Liberty Garden
 
 <pre><code></code></pre>
 
-##### Legendary Encounter
+**Legendary Encounter**
 
 ```
 Victini, Level 20
@@ -417,7 +417,7 @@ Don’t let the length of the words fool you; it’s simple!
 
 ---
 
-#### Route 4
+## Route 4
 
 <pre><code><b>Sand:</b>
 1. Sandile (20%)
@@ -454,7 +454,7 @@ Don’t let the length of the words fool you; it’s simple!
 
 ---
 
-#### Desert Resort
+## Desert Resort
 
 <pre><code>Entrance
 <b>Sand:</b>
@@ -481,7 +481,7 @@ Main
 10. Mandibuzz (5%)
 </code></pre>
 
-##### Special Encounter
+**Special Encounter**
 
 ```
 Darmanitan, Level 35
@@ -492,7 +492,7 @@ Desert Resort
 
 ---
 
-#### Relic Castle
+## Relic Castle
 
 <pre><code>1F
 <b>Sand:</b>
@@ -549,7 +549,7 @@ Pot Rooms
 1. Unown (100%)
 </code></pre>
 
-##### Legendary Encounter
+**Legendary Encounter**
 
 ```
 Regirock, Level 50
@@ -561,7 +561,7 @@ Sand, 1%
 
 </code></pre>
 
-##### Legendary Encounter
+**Legendary Encounter**
 
 ```
 Registeel, Level 50
@@ -573,7 +573,7 @@ Sand, 1%
 
 </code></pre>
 
-##### Legendary Encounter
+**Legendary Encounter**
 
 ```
 Regigigas. Level 70
@@ -585,7 +585,7 @@ Floor, 1%
 
 </code></pre>
 
-##### Special Encounter
+**Special Encounter**
 
 ```
 Volcarona, Level 75
@@ -594,7 +594,7 @@ Relic Castle, Volcarona Room
 
 ---
 
-#### Route 5
+## Route 5
 
 <pre><code><b>Grass, Normal:</b>
 1. Solosis (20%)
@@ -631,7 +631,7 @@ Relic Castle, Volcarona Room
 
 ---
 
-#### Route 16
+## Route 16
 
 <pre><code><b>Grass, Normal:</b>
 1. Ekans (20%)
@@ -665,7 +665,7 @@ Relic Castle, Volcarona Room
 
 ---
 
-#### Lostlorn Forest
+## Lostlorn Forest
 
 <pre><code><b>Grass, Normal:</b>
 1. Karrablast (20%)
@@ -719,7 +719,7 @@ Relic Castle, Volcarona Room
 3. Gyarados (10%)
 </code></pre>
 
-##### Legendary Encounter
+**Legendary Encounter**
 
 ```
 Mew, Level 30
@@ -731,7 +731,7 @@ Doubles Grass, 1%.
 
 </code></pre>
 
-##### Legendary Encounter
+**Legendary Encounter**
 
 ```
 Celebi, Level 30
@@ -743,7 +743,7 @@ Doubles Grass, 1%.
 
 ---
 
-#### Driftveil Drawbidge
+## Driftveil Drawbidge
 
 <pre><code><b>Bridge, Special:</b>
 1. Ducklett (20%)
@@ -755,7 +755,7 @@ Doubles Grass, 1%.
 
 ---
 
-#### Driftveil City
+## Driftveil City
 
 <pre><code><b>Surf, Normal:</b>
 1. Frillish (60%)
@@ -780,7 +780,7 @@ Doubles Grass, 1%.
 
 ---
 
-#### Cold Storage
+## Cold Storage
 
 <pre><code><b>Grass, Normal:</b>
 1. Vanillite (20%)
@@ -809,7 +809,7 @@ Doubles Grass, 1%.
 
 ---
 
-#### Route 6 – Spring / Summer / Autumn
+## Route 6 – Spring / Summer / Autumn
 
 <pre><code><b>Grass, Normal:</b>
 1. Cherubi (20%)
@@ -862,7 +862,7 @@ Doubles Grass, 1%.
 
 ---
 
-#### Route 6 – Winter
+## Route 6 – Winter
 
 <pre><code><b>Grass, Normal:</b>
 1. Snover (20%)
@@ -917,7 +917,7 @@ Doubles Grass, 1%.
 
 ---
 
-#### Chargestone Cave
+## Chargestone Cave
 
 <pre><code>1F
 <b>Cave, Normal:</b>
@@ -967,7 +967,7 @@ B2F
 2. Dugtrio (50%)
 </code></pre>
 
-##### Legendary Encounter
+**Legendary Encounter**
 
 ```
 Zapdos, Level 50
@@ -979,7 +979,7 @@ Cave, Normal, 1%.
 
 ---
 
-#### Route 7 – All Seasons
+## Route 7 – All Seasons
 
 <pre><code><b>Grass, Normal:</b>
 1. Ponyta (20%)
@@ -1013,7 +1013,7 @@ Cave, Normal, 1%.
 
 ---
 
-#### Celestial Tower
+## Celestial Tower
 
 <pre><code>2F, 3F
 <b>Tower, Normal:</b>
@@ -1047,7 +1047,7 @@ Cave, Normal, 1%.
 6. Spiritomb (10%)
 </code></pre>
 
-##### Legendary Encounter
+**Legendary Encounter**
 
 ```
 Cresselia, Level 50
@@ -1059,7 +1059,7 @@ Tower, Normal, 1%
 
 ---
 
-#### Route 17
+## Route 17
 
 <pre><code><b>Surf, Normal:</b>
 1. Wailmer (60%)
@@ -1079,7 +1079,7 @@ Tower, Normal, 1%
 2. Corsola (40%)
 </code></pre>
 
-##### Legendary Encounter
+**Legendary Encounter**
 
 ```
 Manaphy, Level 30
@@ -1107,7 +1107,7 @@ Fish, Special: Qwilfish (60%), Seadra (30%), Tentacruel (10%)
 
 </code></pre>
 
-##### Special Encounter
+**Special Encounter**
 
 ```
 Phione, Level 30
@@ -1119,7 +1119,7 @@ Surf, Special, 1%
 
 ---
 
-#### P2 Laboratory
+## P2 Laboratory
 
 <pre><code><b>Grass, Normal:</b>
 1. Porygon (20%)
@@ -1154,7 +1154,7 @@ Surf, Special, 1%
 
 ---
 
-#### Mistralton Cave 1F – 2F
+## Mistralton Cave 1F – 2F
 
 <pre><code><b>Cave, Normal:</b>
 1. Onix (20%)
@@ -1186,7 +1186,7 @@ Mistralton Cave 3F (Guidance Chamber)
 2. Dugtrio (50%)
 </code></pre>
 
-##### Legendary Encounter
+**Legendary Encounter**
 
 ```
 Uxie, Level 50
@@ -1198,7 +1198,7 @@ Cave, Normal, 1%
 
 </code></pre>
 
-##### Legendary Encounter
+**Legendary Encounter**
 
 ```
 Mesprit, Level 50
@@ -1210,7 +1210,7 @@ Cave, Normal, 1%
 
 </code></pre>
 
-##### Legendary Encounter
+**Legendary Encounter**
 
 ```
 Azelf, Level 50
@@ -1222,7 +1222,7 @@ Cave, Normal, 1%
 
 </code></pre>
 
-##### Legendary Encounter
+**Legendary Encounter**
 
 ```
 Cobalion, Level 56
@@ -1231,7 +1231,7 @@ Guidance Chamber
 
 ---
 
-#### Twist Mountain
+## Twist Mountain
 
 <pre><code>1F - All Seasons
 <b>Cave, Normal:</b>
@@ -1268,7 +1268,7 @@ Not 1F - All Seasons
 2. Dugtrio (50%)
 </code></pre>
 
-##### Legendary Encounter
+**Legendary Encounter**
 
 ```
 Regice, Level 50
@@ -1280,7 +1280,7 @@ Cave, Normal, 1%
 
 ---
 
-#### Icirrus City, Route 8
+## Icirrus City, Route 8
 
 <pre><code><b>Puddle, Normal:</b>
 1. Palpitoad (20%)
@@ -1316,7 +1316,7 @@ Cave, Normal, 1%
 
 ---
 
-#### Moor of Icirrus
+## Moor of Icirrus
 
 <pre><code><b>Puddle, Normal:</b>
 1. Quagsire (20%)
@@ -1346,7 +1346,7 @@ Cave, Normal, 1%
 3. Whiscash (10%)
 </code></pre>
 
-##### Legendary Encounter
+**Legendary Encounter**
 
 ```
 Keldeo, Level 56
@@ -1358,7 +1358,7 @@ Puddle, Normal, 1%.
 
 ---
 
-#### Dragonspiral Tower
+## Dragonspiral Tower
 
 <pre><code>Outside (Both Areas) – Spring, Summer, Autumn
 <b>Grass, Normal:</b>
@@ -1448,7 +1448,7 @@ Inside – Room Two
 2. Golurk (50%)
 </code></pre>
 
-##### Legendary Encounter
+**Legendary Encounter**
 
 ```
 Articuno, Level 50
@@ -1460,7 +1460,7 @@ Doubles Grass, 1%.
 
 </code></pre>
 
-##### Legendary Encounter
+**Legendary Encounter**
 
 ```
 Suicune, Level 50
@@ -1472,7 +1472,7 @@ Surf, Special, 1%.
 
 ---
 
-#### Route 9
+## Route 9
 
 <pre><code><b>Grass, Normal:</b>
 1. Gothorita (20%)
@@ -1500,7 +1500,7 @@ Surf, Special, 1%.
 3. Reuniclus (5%)
 </code></pre>
 
-##### Legendary Encounter
+**Legendary Encounter**
 
 ```
 Raikou, Level 50
@@ -1512,7 +1512,7 @@ Grass, Special, 1%.
 
 </code></pre>
 
-##### Legendary Encounter
+**Legendary Encounter**
 
 ```
 Entei, Level 50
@@ -1524,7 +1524,7 @@ Grass, Special, 1%.
 
 ---
 
-#### Route 10
+## Route 10
 
 <pre><code>Main Route
 <b>Grass, Normal:</b>
@@ -1551,7 +1551,7 @@ Grass, Special, 1%.
 1. Audino (100%)
 </code></pre>
 
-##### Legendary Encounter
+**Legendary Encounter**
 
 ```
 /
@@ -1572,7 +1572,7 @@ Grass, Special: Chansey (90%), Blissey (10%)
 
 </code></pre>
 
-##### Legendary Encounter
+**Legendary Encounter**
 
 ```
 Latias, Level 60
@@ -1584,7 +1584,7 @@ Grass, Doubles, 1%
 
 </code></pre>
 
-##### Legendary Encounter
+**Legendary Encounter**
 
 ```
 Latios, Level 60
@@ -1596,7 +1596,7 @@ Grass, Doubles, 1%
 
 ---
 
-#### Victory Road
+## Victory Road
 
 <pre><code>Outside
 <b>Rocky Grass:</b>
@@ -1662,7 +1662,7 @@ Inside – Rooms without Water
 4. Sandslash (25%)
 </code></pre>
 
-##### Legendary Encounter
+**Legendary Encounter**
 
 ```
 Terrakion, Level 56
@@ -1671,7 +1671,7 @@ Victory Road, Trial Chamber
 
 </code></pre>
 
-##### Legendary Encounter
+**Legendary Encounter**
 
 ```
 Moltres, Level 50
@@ -1683,7 +1683,7 @@ Rocky Grass, 1%.
 
 </code></pre>
 
-##### Legendary Encounter
+**Legendary Encounter**
 
 ```
 Heatran. Level 60
@@ -1695,11 +1695,11 @@ Cave, Normal, 1%
 
 ---
 
-#### N’s Castle
+## N’s Castle
 
 <pre><code></code></pre>
 
-##### Legendary Encounter
+**Legendary Encounter**
 
 ```
 Reshiram (Blaze Black) | Zekrom (Volt White)
@@ -1709,7 +1709,7 @@ N’s Castle
 
 ---
 
-#### Route 11
+## Route 11
 
 <pre><code><b>Grass, Normal:</b>
 1. Golduck (20%)
@@ -1758,7 +1758,7 @@ Marowak (10%), Purugly (10%), Skuntank (10%)
 
 ---
 
-#### Village Bridge
+## Village Bridge
 
 <pre><code><b>Grass, Normal:</b>
 1. Exeggcute (20%)
@@ -1803,7 +1803,7 @@ Togepi (10%)
 3. Sharpedo (10%)
 </code></pre>
 
-##### Legendary Encounter
+**Legendary Encounter**
 
 ```
 Shaymin, Level 50
@@ -1815,7 +1815,7 @@ Grass, Doubles, 1%
 
 </code></pre>
 
-##### Legendary Encounter
+**Legendary Encounter**
 
 ```
 Meloetta, Level 50
@@ -1827,7 +1827,7 @@ Grass, Doubles, 1%
 
 ---
 
-#### Route 12
+## Route 12
 
 <pre><code><b>Grass, Normal:</b>
 1. Cherrim (20%)
@@ -1854,7 +1854,7 @@ Scyther (10%), Rapidash (10%), Zebstrika (10%)
 
 ---
 
-#### Route 13
+## Route 13
 
 <pre><code><b>Grass, Normal:</b>
 1. Absol (20%)
@@ -1904,7 +1904,7 @@ Scyther (10%), Rapidash (10%), Zebstrika (10%)
 4. Cloyster (5%)
 </code></pre>
 
-##### Legendary Encounter
+**Legendary Encounter**
 
 ```
 Lugia, Level 70
@@ -1916,7 +1916,7 @@ Surf, Special, 1%
 
 ---
 
-#### Giant Chasm – Outside Area
+## Giant Chasm – Outside Area
 
 <pre><code><b>Grass, Normal:</b>
 1. Absol (20%)
@@ -1946,7 +1946,7 @@ Surf, Special, 1%
 5. Nidoqueen (5%)
 </code></pre>
 
-##### Legendary Encounter
+**Legendary Encounter**
 
 ```
 Deoxys, Level 70
@@ -1972,7 +1972,7 @@ Fish, Special: Poliwhirl (65%), Baculin (30%), Poliwrath (5%)
 
 </code></pre>
 
-##### Legendary Encounter
+**Legendary Encounter**
 
 ```
 Dialga, Level 70
@@ -1984,7 +1984,7 @@ Cave, Normal, 1%
 
 </code></pre>
 
-##### Legendary Encounter
+**Legendary Encounter**
 
 ```
 Palkia, Level 70
@@ -2004,7 +2004,7 @@ Grass, Special: Audino (80%), Clefable (5%), Wigglytuff (5%), Mamoswine (5%), Me
 
 </code></pre>
 
-##### Legendary Encounter
+**Legendary Encounter**
 
 ```
 Giratina, Level 70
@@ -2016,7 +2016,7 @@ Grass, Doubles, 1%
 
 </code></pre>
 
-##### Legendary Encounter
+**Legendary Encounter**
 
 ```
 Reshiram, Level 70 (Volt White) / Zekrom, Level 70 (Blaze Black)
@@ -2028,7 +2028,7 @@ Grass, Doubles, 1%
 
 </code></pre>
 
-##### Legendary Encounter
+**Legendary Encounter**
 
 ```
 Kyurem, Level 75
@@ -2037,7 +2037,7 @@ Giant Chasm, Rear Cave
 
 ---
 
-#### Undella Town
+## Undella Town
 
 <pre><code><b>Surf, Normal:</b>
 1. Luvdisc (60%)
@@ -2060,7 +2060,7 @@ Giant Chasm, Rear Cave
 
 ---
 
-#### Undella Bay
+## Undella Bay
 
 <pre><code>All Seasons
 <b>Surf, Normal:</b>
@@ -2083,7 +2083,7 @@ Giant Chasm, Rear Cave
 4. Cloyster (5%)
 </code></pre>
 
-##### Legendary Encounter
+**Legendary Encounter**
 
 ```
 Kyogre, Level 70
@@ -2095,7 +2095,7 @@ Surf, Special, 1%
 
 ---
 
-#### Route 14
+## Route 14
 
 <pre><code><b>Grass, Normal:</b>
 1. Gothorita (20%)
@@ -2141,7 +2141,7 @@ Surf, Special, 1%
 
 ---
 
-#### Abundant Shrine
+## Abundant Shrine
 
 <pre><code><b>Grass, Normal:</b>
 1. Chimecho (20%)
@@ -2188,7 +2188,7 @@ Surf, Special, 1%
 3. Seaking (10%)
 </code></pre>
 
-##### Legendary Encounter
+**Legendary Encounter**
 
 ```
 Ho-oh, Level 70
@@ -2200,7 +2200,7 @@ Grass, Special, 1%
 
 </code></pre>
 
-##### Legendary Encounter
+**Legendary Encounter**
 
 ```
 Landorus, Level 75
@@ -2209,14 +2209,14 @@ Abundant Shrine
 
 ---
 
-#### Black City / White Forest
+## Black City / White Forest
 
 <pre><code>Trainers in Black City have edited rosters. White Forest has no changes to Wild Pokemon whatsoever.
 </code></pre>
 
 ---
 
-#### Route 15
+## Route 15
 
 <pre><code><b>Grass, Normal:</b>
 1. Throh (20%)
@@ -2247,7 +2247,7 @@ Abundant Shrine
 6. Conkeldurr (5%)
 </code></pre>
 
-##### Legendary Encounter
+**Legendary Encounter**
 
 ```
 Groudon, Level 70
@@ -2259,7 +2259,7 @@ Grass, Doubles, 1%
 
 ---
 
-#### Marvelous Bridge
+## Marvelous Bridge
 
 <pre><code><b>Bridge, Special:</b>
 1. Swanna (20%)
@@ -2269,7 +2269,7 @@ Grass, Doubles, 1%
 5. Skiploom (20%)
 </code></pre>
 
-##### Legendary Encounter
+**Legendary Encounter**
 
 ```
 Rayquaza, Level 70
@@ -2281,7 +2281,7 @@ Bridge, Special, 1%
 
 ---
 
-#### Challenger’s Cave – 1F
+## Challenger’s Cave – 1F
 
 <pre><code><b>Cave, Normal:</b>
 1. Mawile (20%)
@@ -2298,7 +2298,7 @@ Bridge, Special, 1%
 2. Dugtrio (50%)
 </code></pre>
 
-##### Legendary Encounter
+**Legendary Encounter**
 
 ```
 Genesect, Level 75
@@ -2310,7 +2310,7 @@ Cave, Normal, 1%.
 
 ---
 
-#### Challenger’s Cave – B1F
+## Challenger’s Cave – B1F
 
 <pre><code><b>Cave, Normal:</b>
 1. Mawile (20%)
@@ -2327,7 +2327,7 @@ Cave, Normal, 1%.
 2. Dugtrio (50%)
 </code></pre>
 
-##### Legendary Encounter
+**Legendary Encounter**
 
 ```
 Mewtwo, Level 75
@@ -2339,7 +2339,7 @@ Cave, Normal, 1%.
 
 </code></pre>
 
-##### Legendary Encounter
+**Legendary Encounter**
 
 ```
 Darkrai, Level 70
@@ -2351,7 +2351,7 @@ Cave, Normal, 1%.
 
 ---
 
-#### Challenger’s Cave – B2F
+## Challenger’s Cave – B2F
 
 <pre><code><b>Cave, Normal:</b>
 1. Mawile (20%)
@@ -2387,7 +2387,7 @@ Cave, Normal, 1%.
 4. Politoed (5%)
 </code></pre>
 
-##### Legendary Encounter
+**Legendary Encounter**
 
 ```
 Arceus, Level 80

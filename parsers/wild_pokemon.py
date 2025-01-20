@@ -21,7 +21,7 @@ def main():
             if special:
                 md += "```\n\n"
 
-            md += f"\n---\n\n#### {line}\n\n<pre><code>"
+            md += f"\n---\n\n## {line}\n\n<pre><code>"
             encounter = True
             encountered = False
             special = False
@@ -32,7 +32,7 @@ def main():
                 md += "```\n\n"
 
             md += "</code></pre>\n\n"
-            md += f"##### {line}\n```\n"
+            md += f"**{line}**\n```\n"
 
             special = True
             encounter = False
