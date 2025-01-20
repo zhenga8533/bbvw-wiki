@@ -1,0 +1,116 @@
+# #129 Magikarp - Fish Pokémon
+
+| Official Artwork | Shiny Artwork |
+|------------------|---------------|
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/129.png) |
+
+A Magikarp living for many years can leap a mountain using Splash. The move remains useless, though.
+
+---
+
+## Media
+
+### Sprites
+
+| Front | Back | S. Front | S. Back |
+|-------|------|----------|---------|
+| ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/129.gif) | ![Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/129.gif) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/shiny/129.gif) | ![Shiny Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/shiny/129.gif) |
+
+### Cries
+
+Latest:
+<p><audio controls>
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/129.ogg" type="audio/ogg">
+  Your browser does not support the audio element.
+</audio></p>
+
+Legacy (Black/White):
+<p><audio controls>
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/129.ogg" type="audio/ogg">
+  Your browser does not support the audio element.
+</audio></p>
+
+---
+
+## Pokédex Data
+
+| National № | Type(s) | Height | Weight | Abilities | Local № |
+|------------|---------|--------|--------|-----------|---------|
+| #129 | ![water](../assets/types/water.png){: width='48'} | 0.9 m | 10.0 kg | 1. Swift-Swim<br>2. Rattled | #N/A |
+
+---
+
+## Base Stats
+|   | HP | Attack | Defense | Sp. Atk | Sp. Def | Speed |
+|---|----|--------|---------|---------|---------|-------|
+| **Base** | 20 | 10 | 55 | 15 | 20 | 80 |
+| **Min** | 150 | 22 | 103 | 31 | 40 | 148 |
+| **Max** | 244 | 130 | 229 | 141 | 152 | 284 |
+
+The ranges shown above are for a level 100 Pokémon. Maximum values are based on a beneficial nature, 252 EVs, 31 IVs; minimum values are based on a hindering nature, 0 EVs, 0 IVs.
+
+---
+
+## Forms & Evolutions
+
+!!! warning "WARNING"
+
+    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+
+### Forms
+
+Magikarp has no alternate forms.
+
+### Evolution Line
+
+1. [Magikarp](/bbvw-wiki/pokemon/magikarp/)
+    1. Level Up: [Gyarados](/bbvw-wiki/pokemon/gyarados/)
+
+
+---
+
+## Training
+
+| EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
+|----------|------------|-----------------|-----------|-------------|------------|
+| 1 Speed | 255 | 50 | 40 | Slow | N/A |
+
+---
+
+## Breeding
+
+| Egg Groups | Egg Cycles | Gender | Dimorphic | Color | Shape |
+|------------|------------|--------|-----------|-------|-------|
+| 1. Water2<br>2. Dragon | 5 | 50.0% Male<br>50.0% Female | True | Red | Fish |
+
+---
+
+## Moves
+
+!!! warning "WARNING"
+
+    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+
+### Level Up Moves
+
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+|-----|------|------|------|-------|------|----|
+| 1 | Bounce | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 85 | 5 |
+| 1 | Bubble | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 40 | 100 | 30 |
+| 1 | Reversal | ![fighting](../assets/types/fighting.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 15 |
+| 1 | Splash | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 40 |
+| 15 | Tackle | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 35 |
+| 30 | Flail | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 15 |
+
+### TM Moves
+
+Magikarp cannot learn any TM moves.
+
+### Egg Moves
+
+Magikarp cannot learn any moves by breeding.
+
+### Tutor Moves
+
+Magikarp cannot learn any moves from tutors.
+

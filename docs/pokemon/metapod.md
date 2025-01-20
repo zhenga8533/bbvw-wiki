@@ -1,0 +1,113 @@
+# #011 Metapod - Cocoon Pokémon
+
+| Official Artwork | Shiny Artwork |
+|------------------|---------------|
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/11.png) |
+
+A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.
+
+---
+
+## Media
+
+### Sprites
+
+| Front | Back | S. Front | S. Back |
+|-------|------|----------|---------|
+| ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/11.gif) | ![Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/11.gif) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/shiny/11.gif) | ![Shiny Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/shiny/11.gif) |
+
+### Cries
+
+Latest:
+<p><audio controls>
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/11.ogg" type="audio/ogg">
+  Your browser does not support the audio element.
+</audio></p>
+
+Legacy (Black/White):
+<p><audio controls>
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/11.ogg" type="audio/ogg">
+  Your browser does not support the audio element.
+</audio></p>
+
+---
+
+## Pokédex Data
+
+| National № | Type(s) | Height | Weight | Abilities | Local № |
+|------------|---------|--------|--------|-----------|---------|
+| #11 | ![bug](../assets/types/bug.png){: width='48'} | 0.7 m | 9.9 kg | 1. Shed-Skin<br>2. Battle-Armor | #N/A |
+
+---
+
+## Base Stats
+|   | HP | Attack | Defense | Sp. Atk | Sp. Def | Speed |
+|---|----|--------|---------|---------|---------|-------|
+| **Base** | 50 | 20 | 55 | 25 | 25 | 30 |
+| **Min** | 210 | 40 | 103 | 49 | 49 | 58 |
+| **Max** | 304 | 152 | 229 | 163 | 163 | 174 |
+
+The ranges shown above are for a level 100 Pokémon. Maximum values are based on a beneficial nature, 252 EVs, 31 IVs; minimum values are based on a hindering nature, 0 EVs, 0 IVs.
+
+---
+
+## Forms & Evolutions
+
+!!! warning "WARNING"
+
+    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+
+### Forms
+
+Metapod has no alternate forms.
+
+### Evolution Line
+
+1. [Caterpie](/bbvw-wiki/pokemon/caterpie/)
+    1. Level Up: [Metapod](/bbvw-wiki/pokemon/metapod/)
+        1. Level Up: [Butterfree](/bbvw-wiki/pokemon/butterfree/)
+
+
+---
+
+## Training
+
+| EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
+|----------|------------|-----------------|-----------|-------------|------------|
+| 2 Defense | 120 | 50 | 72 | Medium | N/A |
+
+---
+
+## Breeding
+
+| Egg Groups | Egg Cycles | Gender | Dimorphic | Color | Shape |
+|------------|------------|--------|-----------|-------|-------|
+| 1. Bug | 15 | 50.0% Male<br>50.0% Female | False | Green | Squiggle |
+
+---
+
+## Moves
+
+!!! warning "WARNING"
+
+    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+
+### Level Up Moves
+
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+|-----|------|------|------|-------|------|----|
+| 1 | Harden | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 30 |
+| 7 | Harden | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 30 |
+
+### TM Moves
+
+Metapod cannot learn any TM moves.
+
+### Egg Moves
+
+Metapod cannot learn any moves by breeding.
+
+### Tutor Moves
+
+Metapod cannot learn any moves from tutors.
+

@@ -1,0 +1,184 @@
+# #10045 Ampharos-Mega - Light Pokémon
+
+| Official Artwork | Shiny Artwork |
+|------------------|---------------|
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10045.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10045.png) |
+
+The tip of its tail shines brightly. In the olden days, people sent signals using the tail’s light.
+
+---
+
+## Media
+
+### Sprites
+
+| Front | Back | S. Front | S. Back |
+|-------|------|----------|---------|
+| ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/10045.png) | ![Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/back/10045.png) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/10045.png) | ![Shiny Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/back/shiny/10045.png) |
+
+### Cries
+
+Latest:
+<p><audio controls>
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10045.ogg" type="audio/ogg">
+  Your browser does not support the audio element.
+</audio></p>
+
+Legacy (Black/White):
+<p><audio controls>
+  <source src="None" type="audio/ogg">
+  Your browser does not support the audio element.
+</audio></p>
+
+---
+
+## Pokédex Data
+
+| National № | Type(s) | Height | Weight | Abilities | Local № |
+|------------|---------|--------|--------|-----------|---------|
+| #10045 | ![electric](../assets/types/electric.png){: width='48'} ![dragon](../assets/types/dragon.png){: width='48'} | 1.4 m | 61.5 kg | 1. Mold-Breaker | #N/A |
+
+---
+
+## Base Stats
+|   | HP | Attack | Defense | Sp. Atk | Sp. Def | Speed |
+|---|----|--------|---------|---------|---------|-------|
+| **Base** | 90 | 95 | 105 | 165 | 110 | 45 |
+| **Min** | 290 | 175 | 193 | 301 | 202 | 85 |
+| **Max** | 384 | 317 | 339 | 471 | 350 | 207 |
+
+The ranges shown above are for a level 100 Pokémon. Maximum values are based on a beneficial nature, 252 EVs, 31 IVs; minimum values are based on a hindering nature, 0 EVs, 0 IVs.
+
+---
+
+## Forms & Evolutions
+
+!!! warning "WARNING"
+
+    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+
+### Forms
+
+1. [Ampharos](/bbvw-wiki/pokemon/ampharos/)
+2. [Ampharos-Mega](/bbvw-wiki/pokemon/ampharos-mega/)
+
+### Evolution Line
+
+1. [Mareep](/bbvw-wiki/pokemon/mareep/)
+    1. Level Up: [Flaaffy](/bbvw-wiki/pokemon/flaaffy/)
+        1. Level Up: [Ampharos](/bbvw-wiki/pokemon/ampharos/)
+
+
+---
+
+## Training
+
+| EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
+|----------|------------|-----------------|-----------|-------------|------------|
+| 3 Special Attack | 45 | 70 | 275 | Medium-Slow | N/A |
+
+---
+
+## Breeding
+
+| Egg Groups | Egg Cycles | Gender | Dimorphic | Color | Shape |
+|------------|------------|--------|-----------|-------|-------|
+| 1. Monster<br>2. Ground | 20 | 50.0% Male<br>50.0% Female | False | Yellow | Upright |
+
+---
+
+## Moves
+
+!!! warning "WARNING"
+
+    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+
+### Level Up Moves
+
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+|-----|------|------|------|-------|------|----|
+| 0 | Thunder Punch | ![electric](../assets/types/electric.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 100 | 15 |
+| 1 | Dragon Pulse | ![dragon](../assets/types/dragon.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 85 | 100 | 10 |
+| 1 | Fire Punch | ![fire](../assets/types/fire.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 100 | 15 |
+| 1 | Growl | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 40 |
+| 1 | Ion Deluge | ![electric](../assets/types/electric.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 25 |
+| 1 | Magnetic Flux | ![electric](../assets/types/electric.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
+| 1 | Tackle | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 35 |
+| 1 | Thunder Punch | ![electric](../assets/types/electric.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 100 | 15 |
+| 1 | Thunder Shock | ![electric](../assets/types/electric.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 40 | 100 | 30 |
+| 1 | Thunder Wave | ![electric](../assets/types/electric.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 20 |
+| 1 | Zap Cannon | ![electric](../assets/types/electric.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 120 | 50 | 5 |
+| 4 | Thunder Wave | ![electric](../assets/types/electric.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 20 |
+| 8 | Thunder Shock | ![electric](../assets/types/electric.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 40 | 100 | 30 |
+| 11 | Cotton Spore | ![grass](../assets/types/grass.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 40 |
+| 16 | Charge | ![electric](../assets/types/electric.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
+| 20 | Take Down | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 90 | 85 | 20 |
+| 25 | Electro Ball | ![electric](../assets/types/electric.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | 100 | 10 |
+| 29 | Confuse Ray | ![ghost](../assets/types/ghost.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 10 |
+| 35 | Power Gem | ![rock](../assets/types/rock.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 20 |
+| 40 | Discharge | ![electric](../assets/types/electric.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 80 | 100 | 15 |
+| 46 | Cotton Guard | ![grass](../assets/types/grass.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
+| 51 | Signal Beam | ![bug](../assets/types/bug.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 75 | 100 | 15 |
+| 57 | Light Screen | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 30 |
+| 62 | Thunder | ![electric](../assets/types/electric.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 110 | 70 | 10 |
+| 65 | Dragon Pulse | ![dragon](../assets/types/dragon.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 85 | 100 | 10 |
+
+### TM Moves
+
+| TM | Move | Type | Cat. | Power | Acc. | PP |
+|----|------|------|------|-------|------|----|
+| TM06 | Toxic | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/physical.png){: width='36'} | — | 90 | 10 |
+| TM10 | Hidden Power | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 15 |
+| TM100 | Confide | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/physical.png){: width='36'} | — | — | 20 |
+| TM15 | Hyper Beam | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/physical.png){: width='36'} | 150 | 90 | 5 |
+| TM16 | Light Screen | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/physical.png){: width='36'} | — | — | 30 |
+| TM17 | Protect | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/physical.png){: width='36'} | — | — | 10 |
+| TM18 | Rain Dance | ![water](../assets/types/water.png){: width='48'} | ![status](../assets/move_category/physical.png){: width='36'} | — | — | 5 |
+| TM20 | Safeguard | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/physical.png){: width='36'} | — | — | 25 |
+| TM21 | Frustration | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 20 |
+| TM24 | Thunderbolt | ![electric](../assets/types/electric.png){: width='48'} | ![special](../assets/move_category/physical.png){: width='36'} | 90 | 100 | 15 |
+| TM25 | Thunder | ![electric](../assets/types/electric.png){: width='48'} | ![special](../assets/move_category/physical.png){: width='36'} | 110 | 70 | 10 |
+| TM27 | Return | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 20 |
+| TM31 | Brick Break | ![fighting](../assets/types/fighting.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 75 | 100 | 15 |
+| TM32 | Double Team | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/physical.png){: width='36'} | — | — | 15 |
+| TM42 | Facade | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 70 | 100 | 20 |
+| TM44 | Rest | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/physical.png){: width='36'} | — | — | 5 |
+| TM45 | Attract | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/physical.png){: width='36'} | — | 100 | 15 |
+| TM48 | Round | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 15 |
+| TM49 | Echoed Voice | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 15 |
+| TM52 | Focus Blast | ![fighting](../assets/types/fighting.png){: width='48'} | ![special](../assets/move_category/physical.png){: width='36'} | 120 | 70 | 5 |
+| TM56 | Fling | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 10 |
+| TM57 | Charge Beam | ![electric](../assets/types/electric.png){: width='48'} | ![special](../assets/move_category/physical.png){: width='36'} | 50 | 90 | 10 |
+| TM59 | Brutal Swing | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 20 |
+| TM68 | Giga Impact | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 150 | 90 | 5 |
+| TM72 | Volt Switch | ![electric](../assets/types/electric.png){: width='48'} | ![special](../assets/move_category/physical.png){: width='36'} | 70 | 100 | 20 |
+| TM73 | Thunder Wave | ![electric](../assets/types/electric.png){: width='48'} | ![status](../assets/move_category/physical.png){: width='36'} | — | 90 | 20 |
+| TM78 | Bulldoze | ![ground](../assets/types/ground.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 100 | 20 |
+| TM87 | Swagger | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/physical.png){: width='36'} | — | 85 | 15 |
+| TM88 | Sleep Talk | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/physical.png){: width='36'} | — | — | 10 |
+| TM90 | Substitute | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/physical.png){: width='36'} | — | — | 10 |
+| TM93 | Wild Charge | ![electric](../assets/types/electric.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 90 | 100 | 15 |
+
+### Egg Moves
+
+Ampharos-Mega cannot learn any moves by breeding.
+
+### Tutor Moves
+
+| Move | Type | Cat. | Power | Acc. | PP |
+|------|------|------|-------|------|----|
+| Fire Punch | ![fire](../assets/types/fire.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 100 | 15 |
+| Thunder Punch | ![electric](../assets/types/electric.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 100 | 15 |
+| Snore | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 50 | 100 | 15 |
+| Outrage | ![dragon](../assets/types/dragon.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 120 | 100 | 10 |
+| Heal Bell | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
+| Iron Tail | ![steel](../assets/types/steel.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 75 | 15 |
+| Focus Punch | ![fighting](../assets/types/fighting.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 150 | 100 | 20 |
+| Signal Beam | ![bug](../assets/types/bug.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 75 | 100 | 15 |
+| Shock Wave | ![electric](../assets/types/electric.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 70 | — | 20 |
+| Magnet Rise | ![electric](../assets/types/electric.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
+| Dragon Pulse | ![dragon](../assets/types/dragon.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 85 | 100 | 10 |
+| After You | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
+| Electroweb | ![electric](../assets/types/electric.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 55 | 95 | 15 |
+| Laser Focus | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 30 |
+
