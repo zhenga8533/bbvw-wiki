@@ -1,8 +1,8 @@
-# #187 Hoppip - Cottonweed Pokémon
+# #187 Hoppip (Cottonweed Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/187.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/187.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/187.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/187.png) |
 
 It drifts on winds. It is said that when Hoppip gather in fields and mountains, spring is on the way.
 
@@ -12,21 +12,21 @@ It drifts on winds. It is said that when Hoppip gather in fields and mountains, 
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
+| Front | Back | Shiny Front | Shiny Back |
+| --- | --- | --- | --- |
 | ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/187.gif) | ![Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/187.gif) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/shiny/187.gif) | ![Shiny Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/shiny/187.gif) |
 
 ### Cries
 
-Latest:
+Legacy (Blaze Black/Volt White):
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/187.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/187.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
-Legacy (Black/White):
+Latest:
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/187.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/187.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -63,9 +63,9 @@ Hoppip has no alternate forms.
 
 ### Evolution Line
 
-1. [Hoppip](/bbvw-wiki/pokemon/hoppip/)
-    1. Level Up: [Skiploom](/bbvw-wiki/pokemon/skiploom/)
-        1. Level Up: [Jumpluff](/bbvw-wiki/pokemon/jumpluff/)
+1. [Hoppip](hoppip.md/)
+    1. Level Up: [Skiploom](skiploom.md/)
+        1. Level Up: [Jumpluff](jumpluff.md/)
 
 
 ---

@@ -1,8 +1,8 @@
-# #027 Sandshrew - Mouse Pokémon
+# #027 Sandshrew (Mouse Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/27.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/27.png) |
 
 To protect itself from attackers, it curls up into a ball. It lives in arid regions with minimal rainfall.
 
@@ -12,21 +12,21 @@ To protect itself from attackers, it curls up into a ball. It lives in arid regi
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
+| Front | Back | Shiny Front | Shiny Back |
+| --- | --- | --- | --- |
 | ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/27.gif) | ![Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/27.gif) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/shiny/27.gif) | ![Shiny Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/shiny/27.gif) |
 
 ### Cries
 
-Latest:
+Legacy (Blaze Black/Volt White):
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/27.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/27.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
-Legacy (Black/White):
+Latest:
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/27.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/27.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -59,13 +59,13 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Sandshrew](/bbvw-wiki/pokemon/sandshrew/)
-2. [Sandshrew-Alola](/bbvw-wiki/pokemon/sandshrew-alola/)
+1. [Sandshrew](sandshrew.md/)
+2. [Sandshrew-Alola](sandshrew-alola.md/)
 
 ### Evolution Line
 
-1. [Sandshrew](/bbvw-wiki/pokemon/sandshrew/)
-    1. Use Item: [Sandslash](/bbvw-wiki/pokemon/sandslash/)
+1. [Sandshrew](sandshrew.md/)
+    1. Use Item: [Sandslash](sandslash.md/)
 
 
 ---

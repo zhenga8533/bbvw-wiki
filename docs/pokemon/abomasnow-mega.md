@@ -1,8 +1,8 @@
-# #10060 Abomasnow-Mega - Frost Tree Pokémon
+# #10060 Abomasnow-Mega (Frost Tree Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10060.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10060.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10060.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10060.png) |
 
 They appear when the snow flowers bloom. When the petals fall, they retreat to places unknown again.
 
@@ -12,21 +12,21 @@ They appear when the snow flowers bloom. When the petals fall, they retreat to p
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
-| ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/10060.png) | ![Back](None) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/10060.png) | ![Shiny Back](None) |
+| Front | Shiny Front |
+| --- | --- |
+| ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/10060.png) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/10060.png) |
 
 ### Cries
+
+Legacy (Blaze Black/Volt White):
+<p><audio controls>
+  <source src="None" type="audio/ogg">
+  Your browser does not support the audio element.
+</audio></p>
 
 Latest:
 <p><audio controls>
   <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10060.ogg" type="audio/ogg">
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy (Black/White):
-<p><audio controls>
-  <source src="None" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -59,13 +59,13 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Abomasnow](/bbvw-wiki/pokemon/abomasnow/)
-2. [Abomasnow-Mega](/bbvw-wiki/pokemon/abomasnow-mega/)
+1. [Abomasnow](abomasnow.md/)
+2. [Abomasnow-Mega](abomasnow-mega.md/)
 
 ### Evolution Line
 
-1. [Snover](/bbvw-wiki/pokemon/snover/)
-    1. Level Up: [Abomasnow](/bbvw-wiki/pokemon/abomasnow/)
+1. [Snover](snover.md/)
+    1. Level Up: [Abomasnow](abomasnow.md/)
 
 
 ---

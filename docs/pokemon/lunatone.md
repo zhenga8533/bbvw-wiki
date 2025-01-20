@@ -1,8 +1,8 @@
-# #337 Lunatone - Meteorite Pokémon
+# #337 Lunatone (Meteorite Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/337.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/337.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/337.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/337.png) |
 
 Because it turns active on nights of the full moon, it is said to have some link to the lunar phases.
 
@@ -12,21 +12,21 @@ Because it turns active on nights of the full moon, it is said to have some link
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
+| Front | Back | Shiny Front | Shiny Back |
+| --- | --- | --- | --- |
 | ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/337.gif) | ![Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/337.gif) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/shiny/337.gif) | ![Shiny Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/shiny/337.gif) |
 
 ### Cries
 
-Latest:
+Legacy (Blaze Black/Volt White):
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/337.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/337.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
-Legacy (Black/White):
+Latest:
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/337.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/337.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -63,7 +63,7 @@ Lunatone has no alternate forms.
 
 ### Evolution Line
 
-1. [Lunatone](/bbvw-wiki/pokemon/lunatone/)
+1. [Lunatone](lunatone.md/)
 
 
 ---

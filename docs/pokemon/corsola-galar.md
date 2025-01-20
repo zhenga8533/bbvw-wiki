@@ -1,8 +1,8 @@
-# #10173 Corsola-Galar - Coral Pokémon
+# #10173 Corsola-Galar (Coral Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10173.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10173.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10173.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10173.png) |
 
 Many live in the clean seas of the south. They apparently can’t live in polluted waters.
 
@@ -12,21 +12,21 @@ Many live in the clean seas of the south. They apparently can’t live in pollut
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
+| Front | Back | Shiny Front | Shiny Back |
+| --- | --- | --- | --- |
 | ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/10173.png) | ![Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/back/10173.png) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/10173.png) | ![Shiny Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/back/shiny/10173.png) |
 
 ### Cries
 
-Latest:
+Legacy (Blaze Black/Volt White):
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10173.ogg" type="audio/ogg">
+  <source src="None" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
-Legacy (Black/White):
+Latest:
 <p><audio controls>
-  <source src="None" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10173.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -59,13 +59,12 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Corsola](/bbvw-wiki/pokemon/corsola/)
-2. [Corsola-Galar](/bbvw-wiki/pokemon/corsola-galar/)
+1. [Corsola](corsola.md/)
+2. [Corsola-Galar](corsola-galar.md/)
 
 ### Evolution Line
 
-1. [Corsola](/bbvw-wiki/pokemon/corsola/)
-    1. Level Up: [Cursola](/bbvw-wiki/pokemon/cursola/)
+1. [Corsola](corsola.md/)
 
 
 ---

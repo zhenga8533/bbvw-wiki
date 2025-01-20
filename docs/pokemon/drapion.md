@@ -1,8 +1,8 @@
-# #452 Drapion - Ogre Scorpion Pokémon
+# #452 Drapion (Ogre Scorpion Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/452.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/452.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/452.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/452.png) |
 
 Possessing a sturdy build, it takes pride in its strength, taking down foes without using toxins.
 
@@ -12,21 +12,21 @@ Possessing a sturdy build, it takes pride in its strength, taking down foes with
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
+| Front | Back | Shiny Front | Shiny Back |
+| --- | --- | --- | --- |
 | ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/452.gif) | ![Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/452.gif) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/shiny/452.gif) | ![Shiny Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/shiny/452.gif) |
 
 ### Cries
 
-Latest:
+Legacy (Blaze Black/Volt White):
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/452.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/452.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
-Legacy (Black/White):
+Latest:
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/452.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/452.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -63,8 +63,8 @@ Drapion has no alternate forms.
 
 ### Evolution Line
 
-1. [Skorupi](/bbvw-wiki/pokemon/skorupi/)
-    1. Level Up: [Drapion](/bbvw-wiki/pokemon/drapion/)
+1. [Skorupi](skorupi.md/)
+    1. Level Up: [Drapion](drapion.md/)
 
 
 ---

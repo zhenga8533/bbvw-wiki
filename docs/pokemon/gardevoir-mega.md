@@ -1,8 +1,8 @@
-# #10051 Gardevoir-Mega - Embrace Pokémon
+# #10051 Gardevoir-Mega (Embrace Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10051.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10051.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10051.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10051.png) |
 
 To protect its Trainer, it will expend all its psychic power to create a small black hole.
 
@@ -12,21 +12,21 @@ To protect its Trainer, it will expend all its psychic power to create a small b
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
-| ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/10051.png) | ![Back](None) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/10051.png) | ![Shiny Back](None) |
+| Front | Shiny Front |
+| --- | --- |
+| ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/10051.png) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/10051.png) |
 
 ### Cries
+
+Legacy (Blaze Black/Volt White):
+<p><audio controls>
+  <source src="None" type="audio/ogg">
+  Your browser does not support the audio element.
+</audio></p>
 
 Latest:
 <p><audio controls>
   <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10051.ogg" type="audio/ogg">
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy (Black/White):
-<p><audio controls>
-  <source src="None" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -59,15 +59,15 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Gardevoir](/bbvw-wiki/pokemon/gardevoir/)
-2. [Gardevoir-Mega](/bbvw-wiki/pokemon/gardevoir-mega/)
+1. [Gardevoir](gardevoir.md/)
+2. [Gardevoir-Mega](gardevoir-mega.md/)
 
 ### Evolution Line
 
-1. [Ralts](/bbvw-wiki/pokemon/ralts/)
-    1. Level Up: [Kirlia](/bbvw-wiki/pokemon/kirlia/)
-        1. Level Up: [Gardevoir](/bbvw-wiki/pokemon/gardevoir/)
-        2. Use Item: [Gallade](/bbvw-wiki/pokemon/gallade/)
+1. [Ralts](ralts.md/)
+    1. Level Up: [Kirlia](kirlia.md/)
+        1. Level Up: [Gardevoir](gardevoir.md/)
+        2. Use Item: [Gallade](gallade.md/)
 
 
 ---

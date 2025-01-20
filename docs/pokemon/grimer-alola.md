@@ -1,8 +1,8 @@
-# #10112 Grimer-Alola - Sludge Pokémon
+# #10112 Grimer-Alola (Sludge Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10112.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10112.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10112.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10112.png) |
 
 It was born when sludge in a dirty stream was exposed to the moon’s X-rays. It appears among filth.
 
@@ -12,21 +12,21 @@ It was born when sludge in a dirty stream was exposed to the moon’s X-rays. It
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
+| Front | Back | Shiny Front | Shiny Back |
+| --- | --- | --- | --- |
 | ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/10112.png) | ![Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/back/10112.png) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/10112.png) | ![Shiny Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/back/shiny/10112.png) |
 
 ### Cries
 
-Latest:
+Legacy (Blaze Black/Volt White):
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10112.ogg" type="audio/ogg">
+  <source src="None" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
-Legacy (Black/White):
+Latest:
 <p><audio controls>
-  <source src="None" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10112.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -59,13 +59,13 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Grimer](/bbvw-wiki/pokemon/grimer/)
-2. [Grimer-Alola](/bbvw-wiki/pokemon/grimer-alola/)
+1. [Grimer](grimer.md/)
+2. [Grimer-Alola](grimer-alola.md/)
 
 ### Evolution Line
 
-1. [Grimer](/bbvw-wiki/pokemon/grimer/)
-    1. Level Up: [Muk](/bbvw-wiki/pokemon/muk/)
+1. [Grimer](grimer.md/)
+    1. Level Up: [Muk](muk.md/)
 
 
 ---

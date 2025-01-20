@@ -1,8 +1,8 @@
-# #315 Roselia - Thorn Pokémon
+# #315 Roselia (Thorn Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/315.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/315.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/315.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/315.png) |
 
 The more healthy the Roselia, the more pleasant its flowers’ aroma. Its scent deeply relaxes people.
 
@@ -12,21 +12,21 @@ The more healthy the Roselia, the more pleasant its flowers’ aroma. Its scent 
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
+| Front | Back | Shiny Front | Shiny Back |
+| --- | --- | --- | --- |
 | ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/315.gif) | ![Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/315.gif) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/shiny/315.gif) | ![Shiny Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/shiny/315.gif) |
 
 ### Cries
 
-Latest:
+Legacy (Blaze Black/Volt White):
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/315.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/315.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
-Legacy (Black/White):
+Latest:
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/315.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/315.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -63,9 +63,9 @@ Roselia has no alternate forms.
 
 ### Evolution Line
 
-1. [Budew](/bbvw-wiki/pokemon/budew/)
-    1. Level Up: [Roselia](/bbvw-wiki/pokemon/roselia/)
-        1. Use Item: [Roserade](/bbvw-wiki/pokemon/roserade/)
+1. [Budew](budew.md/)
+    1. Level Up: [Roselia](roselia.md/)
+        1. Use Item: [Roserade](roserade.md/)
 
 
 ---

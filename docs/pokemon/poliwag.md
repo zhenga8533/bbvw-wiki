@@ -1,8 +1,8 @@
-# #060 Poliwag - Tadpole Pokémon
+# #060 Poliwag (Tadpole Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/60.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/60.png) |
 
 Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.
 
@@ -12,21 +12,21 @@ Its skin is so thin, its internal organs are visible. It has trouble walking on 
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
+| Front | Back | Shiny Front | Shiny Back |
+| --- | --- | --- | --- |
 | ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/60.gif) | ![Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/60.gif) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/shiny/60.gif) | ![Shiny Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/shiny/60.gif) |
 
 ### Cries
 
-Latest:
+Legacy (Blaze Black/Volt White):
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/60.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/60.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
-Legacy (Black/White):
+Latest:
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/60.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/60.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -63,10 +63,10 @@ Poliwag has no alternate forms.
 
 ### Evolution Line
 
-1. [Poliwag](/bbvw-wiki/pokemon/poliwag/)
-    1. Level Up: [Poliwhirl](/bbvw-wiki/pokemon/poliwhirl/)
-        1. Use Item: [Poliwrath](/bbvw-wiki/pokemon/poliwrath/)
-        2. Trade: [Politoed](/bbvw-wiki/pokemon/politoed/)
+1. [Poliwag](poliwag.md/)
+    1. Level Up: [Poliwhirl](poliwhirl.md/)
+        1. Use Item: [Poliwrath](poliwrath.md/)
+        2. Trade: [Politoed](politoed.md/)
 
 
 ---

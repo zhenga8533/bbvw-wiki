@@ -1,8 +1,8 @@
-# #533 Gurdurr - Muscular Pokémon
+# #533 Gurdurr (Muscular Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/533.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/533.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/533.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/533.png) |
 
 **Blaze Black:** This Pokémon is so muscular and strongly built that even a group of wrestlers could not make it budge an inch.
 
@@ -14,21 +14,21 @@
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
+| Front | Back | Shiny Front | Shiny Back |
+| --- | --- | --- | --- |
 | ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/533.gif) | ![Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/533.gif) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/shiny/533.gif) | ![Shiny Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/shiny/533.gif) |
 
 ### Cries
 
-Latest:
+Legacy (Blaze Black/Volt White):
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/533.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/533.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
-Legacy (Black/White):
+Latest:
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/533.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/533.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -65,9 +65,9 @@ Gurdurr has no alternate forms.
 
 ### Evolution Line
 
-1. [Timburr](/bbvw-wiki/pokemon/timburr/)
-    1. Level Up: [Gurdurr](/bbvw-wiki/pokemon/gurdurr/)
-        1. Trade: [Conkeldurr](/bbvw-wiki/pokemon/conkeldurr/)
+1. [Timburr](timburr.md/)
+    1. Level Up: [Gurdurr](gurdurr.md/)
+        1. Trade: [Conkeldurr](conkeldurr.md/)
 
 
 ```

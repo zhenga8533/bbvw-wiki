@@ -1,8 +1,8 @@
-# #065 Alakazam - Psi Pokémon
+# #065 Alakazam (Psi Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/65.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/65.png) |
 
 The spoons clutched in its hands are said to have been created by its psychic powers.
 
@@ -12,21 +12,21 @@ The spoons clutched in its hands are said to have been created by its psychic po
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
+| Front | Back | Shiny Front | Shiny Back |
+| --- | --- | --- | --- |
 | ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/65.gif) | ![Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/65.gif) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/shiny/65.gif) | ![Shiny Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/shiny/65.gif) |
 
 ### Cries
 
-Latest:
+Legacy (Blaze Black/Volt White):
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/65.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/65.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
-Legacy (Black/White):
+Latest:
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/65.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/65.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -59,14 +59,14 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Alakazam](/bbvw-wiki/pokemon/alakazam/)
-2. [Alakazam-Mega](/bbvw-wiki/pokemon/alakazam-mega/)
+1. [Alakazam](alakazam.md/)
+2. [Alakazam-Mega](alakazam-mega.md/)
 
 ### Evolution Line
 
-1. [Abra](/bbvw-wiki/pokemon/abra/)
-    1. Level Up: [Kadabra](/bbvw-wiki/pokemon/kadabra/)
-        1. Trade: [Alakazam](/bbvw-wiki/pokemon/alakazam/)
+1. [Abra](abra.md/)
+    1. Level Up: [Kadabra](kadabra.md/)
+        1. Trade: [Alakazam](alakazam.md/)
 
 
 ---

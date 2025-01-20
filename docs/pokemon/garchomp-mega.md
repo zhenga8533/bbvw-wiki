@@ -1,8 +1,8 @@
-# #10058 Garchomp-Mega - Mach Pokémon
+# #10058 Garchomp-Mega (Mach Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10058.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10058.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10058.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10058.png) |
 
 It is said that when one runs at high speed, its wings create blades of wind that can fell nearby trees.
 
@@ -12,21 +12,21 @@ It is said that when one runs at high speed, its wings create blades of wind tha
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
-| ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/10058.png) | ![Back](None) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/10058.png) | ![Shiny Back](None) |
+| Front | Shiny Front |
+| --- | --- |
+| ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/10058.png) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/10058.png) |
 
 ### Cries
+
+Legacy (Blaze Black/Volt White):
+<p><audio controls>
+  <source src="None" type="audio/ogg">
+  Your browser does not support the audio element.
+</audio></p>
 
 Latest:
 <p><audio controls>
   <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10058.ogg" type="audio/ogg">
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy (Black/White):
-<p><audio controls>
-  <source src="None" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -59,14 +59,14 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Garchomp](/bbvw-wiki/pokemon/garchomp/)
-2. [Garchomp-Mega](/bbvw-wiki/pokemon/garchomp-mega/)
+1. [Garchomp](garchomp.md/)
+2. [Garchomp-Mega](garchomp-mega.md/)
 
 ### Evolution Line
 
-1. [Gible](/bbvw-wiki/pokemon/gible/)
-    1. Level Up: [Gabite](/bbvw-wiki/pokemon/gabite/)
-        1. Level Up: [Garchomp](/bbvw-wiki/pokemon/garchomp/)
+1. [Gible](gible.md/)
+    1. Level Up: [Gabite](gabite.md/)
+        1. Level Up: [Garchomp](garchomp.md/)
 
 
 ---

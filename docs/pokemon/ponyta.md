@@ -1,8 +1,8 @@
-# #077 Ponyta - Fire Horse Pokémon
+# #077 Ponyta (Fire Horse Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/77.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/77.png) |
 
 As a newborn, it can barely stand. However, through galloping, its legs are made tougher and faster.
 
@@ -12,21 +12,21 @@ As a newborn, it can barely stand. However, through galloping, its legs are made
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
+| Front | Back | Shiny Front | Shiny Back |
+| --- | --- | --- | --- |
 | ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/77.gif) | ![Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/77.gif) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/shiny/77.gif) | ![Shiny Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/shiny/77.gif) |
 
 ### Cries
 
-Latest:
+Legacy (Blaze Black/Volt White):
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/77.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/77.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
-Legacy (Black/White):
+Latest:
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/77.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/77.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -59,13 +59,13 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Ponyta](/bbvw-wiki/pokemon/ponyta/)
-2. [Ponyta-Galar](/bbvw-wiki/pokemon/ponyta-galar/)
+1. [Ponyta](ponyta.md/)
+2. [Ponyta-Galar](ponyta-galar.md/)
 
 ### Evolution Line
 
-1. [Ponyta](/bbvw-wiki/pokemon/ponyta/)
-    1. Level Up: [Rapidash](/bbvw-wiki/pokemon/rapidash/)
+1. [Ponyta](ponyta.md/)
+    1. Level Up: [Rapidash](rapidash.md/)
 
 
 ---

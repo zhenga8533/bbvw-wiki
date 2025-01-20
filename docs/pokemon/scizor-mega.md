@@ -1,8 +1,8 @@
-# #10046 Scizor-Mega - Pincer Pokémon
+# #10046 Scizor-Mega (Pincer Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10046.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10046.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10046.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10046.png) |
 
 It raises its pincers with eyelike markings for intimidation. It also swings them down dangerously.
 
@@ -12,21 +12,21 @@ It raises its pincers with eyelike markings for intimidation. It also swings the
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
-| ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/10046.png) | ![Back](None) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/10046.png) | ![Shiny Back](None) |
+| Front | Shiny Front |
+| --- | --- |
+| ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/10046.png) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/10046.png) |
 
 ### Cries
+
+Legacy (Blaze Black/Volt White):
+<p><audio controls>
+  <source src="None" type="audio/ogg">
+  Your browser does not support the audio element.
+</audio></p>
 
 Latest:
 <p><audio controls>
   <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10046.ogg" type="audio/ogg">
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy (Black/White):
-<p><audio controls>
-  <source src="None" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -59,14 +59,13 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Scizor](/bbvw-wiki/pokemon/scizor/)
-2. [Scizor-Mega](/bbvw-wiki/pokemon/scizor-mega/)
+1. [Scizor](scizor.md/)
+2. [Scizor-Mega](scizor-mega.md/)
 
 ### Evolution Line
 
-1. [Scyther](/bbvw-wiki/pokemon/scyther/)
-    1. Trade: [Scizor](/bbvw-wiki/pokemon/scizor/)
-    2. Use Item: [Kleavor](/bbvw-wiki/pokemon/kleavor/)
+1. [Scyther](scyther.md/)
+    1. Trade: [Scizor](scizor.md/)
 
 
 ---

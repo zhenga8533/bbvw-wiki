@@ -1,8 +1,8 @@
-# #582 Vanillite - Fresh Snow Pokémon
+# #582 Vanillite (Fresh Snow Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/582.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/582.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/582.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/582.png) |
 
 **Blaze Black:** The temperature of their breath is -58° F. They create snow crystals and make snow fall in the areas around them.
 
@@ -14,21 +14,21 @@
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
+| Front | Back | Shiny Front | Shiny Back |
+| --- | --- | --- | --- |
 | ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/582.gif) | ![Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/582.gif) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/shiny/582.gif) | ![Shiny Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/shiny/582.gif) |
 
 ### Cries
 
-Latest:
+Legacy (Blaze Black/Volt White):
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/582.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/582.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
-Legacy (Black/White):
+Latest:
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/582.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/582.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -65,9 +65,9 @@ Vanillite has no alternate forms.
 
 ### Evolution Line
 
-1. [Vanillite](/bbvw-wiki/pokemon/vanillite/)
-    1. Level Up: [Vanillish](/bbvw-wiki/pokemon/vanillish/)
-        1. Level Up: [Vanilluxe](/bbvw-wiki/pokemon/vanilluxe/)
+1. [Vanillite](vanillite.md/)
+    1. Level Up: [Vanillish](vanillish.md/)
+        1. Level Up: [Vanilluxe](vanilluxe.md/)
 
 
 ---

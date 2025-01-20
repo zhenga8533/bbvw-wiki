@@ -1,8 +1,8 @@
-# #10057 Absol-Mega - Disaster Pokémon
+# #10057 Absol-Mega (Disaster Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10057.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10057.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10057.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10057.png) |
 
 Rumored to sense disasters with its horn, it became a target. It fled deep into the mountains.
 
@@ -12,21 +12,21 @@ Rumored to sense disasters with its horn, it became a target. It fled deep into 
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
-| ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/10057.png) | ![Back](None) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/10057.png) | ![Shiny Back](None) |
+| Front | Shiny Front |
+| --- | --- |
+| ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/10057.png) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/10057.png) |
 
 ### Cries
+
+Legacy (Blaze Black/Volt White):
+<p><audio controls>
+  <source src="None" type="audio/ogg">
+  Your browser does not support the audio element.
+</audio></p>
 
 Latest:
 <p><audio controls>
   <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10057.ogg" type="audio/ogg">
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy (Black/White):
-<p><audio controls>
-  <source src="None" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -59,12 +59,12 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Absol](/bbvw-wiki/pokemon/absol/)
-2. [Absol-Mega](/bbvw-wiki/pokemon/absol-mega/)
+1. [Absol](absol.md/)
+2. [Absol-Mega](absol-mega.md/)
 
 ### Evolution Line
 
-1. [Absol](/bbvw-wiki/pokemon/absol/)
+1. [Absol](absol.md/)
 
 
 ---

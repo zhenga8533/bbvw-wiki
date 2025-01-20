@@ -1,8 +1,8 @@
-# #10109 Geodude-Alola - Rock Pokémon
+# #10109 Geodude-Alola (Rock Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10109.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10109.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10109.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10109.png) |
 
 At rest, it looks just like a rock. Carelessly stepping on it will make it swing its fists angrily.
 
@@ -12,21 +12,21 @@ At rest, it looks just like a rock. Carelessly stepping on it will make it swing
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
+| Front | Back | Shiny Front | Shiny Back |
+| --- | --- | --- | --- |
 | ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/10109.png) | ![Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/back/10109.png) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/10109.png) | ![Shiny Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/back/shiny/10109.png) |
 
 ### Cries
 
-Latest:
+Legacy (Blaze Black/Volt White):
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10109.ogg" type="audio/ogg">
+  <source src="None" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
-Legacy (Black/White):
+Latest:
 <p><audio controls>
-  <source src="None" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10109.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -59,14 +59,14 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Geodude](/bbvw-wiki/pokemon/geodude/)
-2. [Geodude-Alola](/bbvw-wiki/pokemon/geodude-alola/)
+1. [Geodude](geodude.md/)
+2. [Geodude-Alola](geodude-alola.md/)
 
 ### Evolution Line
 
-1. [Geodude](/bbvw-wiki/pokemon/geodude/)
-    1. Level Up: [Graveler](/bbvw-wiki/pokemon/graveler/)
-        1. Trade: [Golem](/bbvw-wiki/pokemon/golem/)
+1. [Geodude](geodude.md/)
+    1. Level Up: [Graveler](graveler.md/)
+        1. Trade: [Golem](golem.md/)
 
 
 ---

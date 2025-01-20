@@ -1,8 +1,8 @@
-# #10201 Machamp-Gmax - Superpower Pokémon
+# #10201 Machamp-Gmax (Superpower Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10201.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10201.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10201.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10201.png) |
 
 Its four muscled arms slam foes with powerful punches and chops at blinding speed.
 
@@ -12,21 +12,21 @@ Its four muscled arms slam foes with powerful punches and chops at blinding spee
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
+| Front | Back | Shiny Front | Shiny Back |
+| --- | --- | --- | --- |
 | ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/10201.png) | ![Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/back/10201.png) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/10201.png) | ![Shiny Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/back/shiny/10201.png) |
 
 ### Cries
 
-Latest:
+Legacy (Blaze Black/Volt White):
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10201.ogg" type="audio/ogg">
+  <source src="None" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
-Legacy (Black/White):
+Latest:
 <p><audio controls>
-  <source src="None" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10201.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -59,14 +59,14 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Machamp](/bbvw-wiki/pokemon/machamp/)
-2. [Machamp-Gmax](/bbvw-wiki/pokemon/machamp-gmax/)
+1. [Machamp](machamp.md/)
+2. [Machamp-Gmax](machamp-gmax.md/)
 
 ### Evolution Line
 
-1. [Machop](/bbvw-wiki/pokemon/machop/)
-    1. Level Up: [Machoke](/bbvw-wiki/pokemon/machoke/)
-        1. Trade: [Machamp](/bbvw-wiki/pokemon/machamp/)
+1. [Machop](machop.md/)
+    1. Level Up: [Machoke](machoke.md/)
+        1. Trade: [Machamp](machamp.md/)
 
 
 ---

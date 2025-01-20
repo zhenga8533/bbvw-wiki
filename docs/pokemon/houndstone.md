@@ -1,8 +1,8 @@
-# #972 Houndstone - Ghost Dog Pokémon
+# #972 Houndstone (Ghost Dog Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/972.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/972.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/972.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/972.png) |
 
 A lovingly mourned Pokémon was reborn as Houndstone. It doesn’t like anyone touching the protuberance atop its head.
 
@@ -12,21 +12,19 @@ A lovingly mourned Pokémon was reborn as Houndstone. It doesn’t like anyone t
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
-| ![Front](None) | ![Back](None) | ![Shiny Front](None) | ![Shiny Back](None) |
+Houndstone has no sprites available in Blaze Black/Volt White.
 
 ### Cries
+
+Legacy (Blaze Black/Volt White):
+<p><audio controls>
+  <source src="None" type="audio/ogg">
+  Your browser does not support the audio element.
+</audio></p>
 
 Latest:
 <p><audio controls>
   <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/972.ogg" type="audio/ogg">
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy (Black/White):
-<p><audio controls>
-  <source src="None" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -63,8 +61,6 @@ Houndstone has no alternate forms.
 
 ### Evolution Line
 
-1. [Greavard](/bbvw-wiki/pokemon/greavard/)
-    1. Level Up: [Houndstone](/bbvw-wiki/pokemon/houndstone/)
 
 
 ---

@@ -1,8 +1,8 @@
-# #062 Poliwrath - Tadpole Pokémon
+# #062 Poliwrath (Tadpole Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/62.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/62.png) |
 
 With its extremely tough muscles, it can keep swimming in the Pacific Ocean without resting.
 
@@ -12,21 +12,21 @@ With its extremely tough muscles, it can keep swimming in the Pacific Ocean with
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
+| Front | Back | Shiny Front | Shiny Back |
+| --- | --- | --- | --- |
 | ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/62.gif) | ![Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/62.gif) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/shiny/62.gif) | ![Shiny Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/shiny/62.gif) |
 
 ### Cries
 
-Latest:
+Legacy (Blaze Black/Volt White):
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/62.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/62.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
-Legacy (Black/White):
+Latest:
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/62.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/62.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -63,10 +63,10 @@ Poliwrath has no alternate forms.
 
 ### Evolution Line
 
-1. [Poliwag](/bbvw-wiki/pokemon/poliwag/)
-    1. Level Up: [Poliwhirl](/bbvw-wiki/pokemon/poliwhirl/)
-        1. Use Item: [Poliwrath](/bbvw-wiki/pokemon/poliwrath/)
-        2. Trade: [Politoed](/bbvw-wiki/pokemon/politoed/)
+1. [Poliwag](poliwag.md/)
+    1. Level Up: [Poliwhirl](poliwhirl.md/)
+        1. Use Item: [Poliwrath](poliwrath.md/)
+        2. Trade: [Politoed](politoed.md/)
 
 
 ---

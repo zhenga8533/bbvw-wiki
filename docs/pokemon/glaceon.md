@@ -1,8 +1,8 @@
-# #471 Glaceon - Fresh Snow Pokémon
+# #471 Glaceon (Fresh Snow Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/471.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/471.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/471.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/471.png) |
 
 By controlling its body heat, it can freeze the atmosphere around it to make a diamond-dust flurry.
 
@@ -12,21 +12,21 @@ By controlling its body heat, it can freeze the atmosphere around it to make a d
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
+| Front | Back | Shiny Front | Shiny Back |
+| --- | --- | --- | --- |
 | ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/471.gif) | ![Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/471.gif) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/shiny/471.gif) | ![Shiny Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/shiny/471.gif) |
 
 ### Cries
 
-Latest:
+Legacy (Blaze Black/Volt White):
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/471.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/471.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
-Legacy (Black/White):
+Latest:
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/471.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/471.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -63,15 +63,14 @@ Glaceon has no alternate forms.
 
 ### Evolution Line
 
-1. [Eevee](/bbvw-wiki/pokemon/eevee/)
-    1. Use Item: [Vaporeon](/bbvw-wiki/pokemon/vaporeon/)
-    2. Use Item: [Jolteon](/bbvw-wiki/pokemon/jolteon/)
-    3. Use Item: [Flareon](/bbvw-wiki/pokemon/flareon/)
-    4. Level Up: [Espeon](/bbvw-wiki/pokemon/espeon/)
-    5. Level Up: [Umbreon](/bbvw-wiki/pokemon/umbreon/)
-    6. Use Item: [Leafeon](/bbvw-wiki/pokemon/leafeon/)
-    7. Use Item: [Glaceon](/bbvw-wiki/pokemon/glaceon/)
-    8. Level Up: [Sylveon](/bbvw-wiki/pokemon/sylveon/)
+1. [Eevee](eevee.md/)
+    1. Use Item: [Vaporeon](vaporeon.md/)
+    2. Use Item: [Jolteon](jolteon.md/)
+    3. Use Item: [Flareon](flareon.md/)
+    4. Level Up: [Espeon](espeon.md/)
+    5. Level Up: [Umbreon](umbreon.md/)
+    6. Use Item: [Leafeon](leafeon.md/)
+    7. Use Item: [Glaceon](glaceon.md/)
 
 
 ---

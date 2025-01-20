@@ -1,8 +1,8 @@
-# #265 Wurmple - Worm Pokémon
+# #265 Wurmple (Worm Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/265.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/265.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/265.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/265.png) |
 
 Often targeted by bird Pokémon, it desperately resists by releasing poison from its tail spikes.
 
@@ -12,21 +12,21 @@ Often targeted by bird Pokémon, it desperately resists by releasing poison from
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
+| Front | Back | Shiny Front | Shiny Back |
+| --- | --- | --- | --- |
 | ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/265.gif) | ![Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/265.gif) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/shiny/265.gif) | ![Shiny Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/shiny/265.gif) |
 
 ### Cries
 
-Latest:
+Legacy (Blaze Black/Volt White):
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/265.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/265.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
-Legacy (Black/White):
+Latest:
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/265.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/265.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -63,11 +63,11 @@ Wurmple has no alternate forms.
 
 ### Evolution Line
 
-1. [Wurmple](/bbvw-wiki/pokemon/wurmple/)
-    1. Level Up: [Silcoon](/bbvw-wiki/pokemon/silcoon/)
-        1. Level Up: [Beautifly](/bbvw-wiki/pokemon/beautifly/)
-    2. Level Up: [Cascoon](/bbvw-wiki/pokemon/cascoon/)
-        1. Level Up: [Dustox](/bbvw-wiki/pokemon/dustox/)
+1. [Wurmple](wurmple.md/)
+    1. Level Up: [Silcoon](silcoon.md/)
+        1. Level Up: [Beautifly](beautifly.md/)
+    2. Level Up: [Cascoon](cascoon.md/)
+        1. Level Up: [Dustox](dustox.md/)
 
 
 ---

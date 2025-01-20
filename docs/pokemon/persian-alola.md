@@ -1,8 +1,8 @@
-# #10108 Persian-Alola - Classy Cat Pokémon
+# #10108 Persian-Alola (Classy Cat Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10108.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10108.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10108.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10108.png) |
 
 A very haughty Pokémon. Among fans, the size of the jewel in its forehead is a topic of much talk.
 
@@ -12,21 +12,21 @@ A very haughty Pokémon. Among fans, the size of the jewel in its forehead is a 
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
+| Front | Back | Shiny Front | Shiny Back |
+| --- | --- | --- | --- |
 | ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/10108.png) | ![Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/back/10108.png) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/10108.png) | ![Shiny Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/back/shiny/10108.png) |
 
 ### Cries
 
-Latest:
+Legacy (Blaze Black/Volt White):
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10108.ogg" type="audio/ogg">
+  <source src="None" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
-Legacy (Black/White):
+Latest:
 <p><audio controls>
-  <source src="None" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10108.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -59,14 +59,13 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Persian](/bbvw-wiki/pokemon/persian/)
-2. [Persian-Alola](/bbvw-wiki/pokemon/persian-alola/)
+1. [Persian](persian.md/)
+2. [Persian-Alola](persian-alola.md/)
 
 ### Evolution Line
 
-1. [Meowth](/bbvw-wiki/pokemon/meowth/)
-    1. Level Up: [Persian](/bbvw-wiki/pokemon/persian/)
-    2. Level Up: [Perrserker](/bbvw-wiki/pokemon/perrserker/)
+1. [Meowth](meowth.md/)
+    1. Level Up: [Persian](persian.md/)
 
 
 ---

@@ -1,8 +1,8 @@
-# #10074 Glalie-Mega - Face Pokémon
+# #10074 Glalie-Mega (Face Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10074.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10074.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10074.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10074.png) |
 
 It prevents prey from escaping by instantaneously freezing moisture in the air.
 
@@ -12,21 +12,21 @@ It prevents prey from escaping by instantaneously freezing moisture in the air.
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
+| Front | Back | Shiny Front | Shiny Back |
+| --- | --- | --- | --- |
 | ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/10074.png) | ![Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/back/10074.png) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/10074.png) | ![Shiny Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/back/shiny/10074.png) |
 
 ### Cries
 
-Latest:
+Legacy (Blaze Black/Volt White):
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10074.ogg" type="audio/ogg">
+  <source src="None" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
-Legacy (Black/White):
+Latest:
 <p><audio controls>
-  <source src="None" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10074.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -59,14 +59,14 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Glalie](/bbvw-wiki/pokemon/glalie/)
-2. [Glalie-Mega](/bbvw-wiki/pokemon/glalie-mega/)
+1. [Glalie](glalie.md/)
+2. [Glalie-Mega](glalie-mega.md/)
 
 ### Evolution Line
 
-1. [Snorunt](/bbvw-wiki/pokemon/snorunt/)
-    1. Level Up: [Glalie](/bbvw-wiki/pokemon/glalie/)
-    2. Use Item: [Froslass](/bbvw-wiki/pokemon/froslass/)
+1. [Snorunt](snorunt.md/)
+    1. Level Up: [Glalie](glalie.md/)
+    2. Use Item: [Froslass](froslass.md/)
 
 
 ---

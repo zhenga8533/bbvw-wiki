@@ -1,8 +1,8 @@
-# #135 Jolteon - Lightning Pokémon
+# #135 Jolteon (Lightning Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/135.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/135.png) |
 
 If agitated, it uses electricity to straighten out its fur and launch it in small bunches.
 
@@ -12,21 +12,21 @@ If agitated, it uses electricity to straighten out its fur and launch it in smal
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
+| Front | Back | Shiny Front | Shiny Back |
+| --- | --- | --- | --- |
 | ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/135.gif) | ![Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/135.gif) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/shiny/135.gif) | ![Shiny Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/shiny/135.gif) |
 
 ### Cries
 
-Latest:
+Legacy (Blaze Black/Volt White):
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/135.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/135.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
-Legacy (Black/White):
+Latest:
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/135.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/135.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -63,15 +63,14 @@ Jolteon has no alternate forms.
 
 ### Evolution Line
 
-1. [Eevee](/bbvw-wiki/pokemon/eevee/)
-    1. Use Item: [Vaporeon](/bbvw-wiki/pokemon/vaporeon/)
-    2. Use Item: [Jolteon](/bbvw-wiki/pokemon/jolteon/)
-    3. Use Item: [Flareon](/bbvw-wiki/pokemon/flareon/)
-    4. Level Up: [Espeon](/bbvw-wiki/pokemon/espeon/)
-    5. Level Up: [Umbreon](/bbvw-wiki/pokemon/umbreon/)
-    6. Use Item: [Leafeon](/bbvw-wiki/pokemon/leafeon/)
-    7. Use Item: [Glaceon](/bbvw-wiki/pokemon/glaceon/)
-    8. Level Up: [Sylveon](/bbvw-wiki/pokemon/sylveon/)
+1. [Eevee](eevee.md/)
+    1. Use Item: [Vaporeon](vaporeon.md/)
+    2. Use Item: [Jolteon](jolteon.md/)
+    3. Use Item: [Flareon](flareon.md/)
+    4. Level Up: [Espeon](espeon.md/)
+    5. Level Up: [Umbreon](umbreon.md/)
+    6. Use Item: [Leafeon](leafeon.md/)
+    7. Use Item: [Glaceon](glaceon.md/)
 
 
 ---

@@ -1,8 +1,8 @@
-# #10206 Snorlax-Gmax - Sleeping Pokémon
+# #10206 Snorlax-Gmax (Sleeping Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10206.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10206.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10206.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10206.png) |
 
 When its belly is full, it becomes too lethargic to even lift a finger, so it is safe to bounce on its belly.
 
@@ -12,21 +12,21 @@ When its belly is full, it becomes too lethargic to even lift a finger, so it is
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
+| Front | Back | Shiny Front | Shiny Back |
+| --- | --- | --- | --- |
 | ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/10206.png) | ![Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/back/10206.png) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/10206.png) | ![Shiny Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/back/shiny/10206.png) |
 
 ### Cries
 
-Latest:
+Legacy (Blaze Black/Volt White):
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10206.ogg" type="audio/ogg">
+  <source src="None" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
-Legacy (Black/White):
+Latest:
 <p><audio controls>
-  <source src="None" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10206.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -59,13 +59,13 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Snorlax](/bbvw-wiki/pokemon/snorlax/)
-2. [Snorlax-Gmax](/bbvw-wiki/pokemon/snorlax-gmax/)
+1. [Snorlax](snorlax.md/)
+2. [Snorlax-Gmax](snorlax-gmax.md/)
 
 ### Evolution Line
 
-1. [Munchlax](/bbvw-wiki/pokemon/munchlax/)
-    1. Level Up: [Snorlax](/bbvw-wiki/pokemon/snorlax/)
+1. [Munchlax](munchlax.md/)
+    1. Level Up: [Snorlax](snorlax.md/)
 
 
 ---

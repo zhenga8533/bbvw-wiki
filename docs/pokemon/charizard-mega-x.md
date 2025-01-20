@@ -1,8 +1,8 @@
-# #10034 Charizard-Mega-X - Flame Pokémon
+# #10034 Charizard-Mega-X (Flame Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10034.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10034.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10034.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10034.png) |
 
 It is said that Charizard’s fire burns hotter if it has experienced harsh battles.
 
@@ -12,21 +12,21 @@ It is said that Charizard’s fire burns hotter if it has experienced harsh batt
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
-| ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/10034.png) | ![Back](None) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/10034.png) | ![Shiny Back](None) |
+| Front | Shiny Front |
+| --- | --- |
+| ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/10034.png) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/10034.png) |
 
 ### Cries
+
+Legacy (Blaze Black/Volt White):
+<p><audio controls>
+  <source src="None" type="audio/ogg">
+  Your browser does not support the audio element.
+</audio></p>
 
 Latest:
 <p><audio controls>
   <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10034.ogg" type="audio/ogg">
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy (Black/White):
-<p><audio controls>
-  <source src="None" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -59,16 +59,16 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Charizard](/bbvw-wiki/pokemon/charizard/)
-2. [Charizard-Mega-X](/bbvw-wiki/pokemon/charizard-mega-x/)
-3. [Charizard-Mega-Y](/bbvw-wiki/pokemon/charizard-mega-y/)
-4. [Charizard-Gmax](/bbvw-wiki/pokemon/charizard-gmax/)
+1. [Charizard](charizard.md/)
+2. [Charizard-Mega-X](charizard-mega-x.md/)
+3. [Charizard-Mega-Y](charizard-mega-y.md/)
+4. [Charizard-Gmax](charizard-gmax.md/)
 
 ### Evolution Line
 
-1. [Charmander](/bbvw-wiki/pokemon/charmander/)
-    1. Level Up: [Charmeleon](/bbvw-wiki/pokemon/charmeleon/)
-        1. Level Up: [Charizard](/bbvw-wiki/pokemon/charizard/)
+1. [Charmander](charmander.md/)
+    1. Level Up: [Charmeleon](charmeleon.md/)
+        1. Level Up: [Charizard](charizard.md/)
 
 
 ---

@@ -1,8 +1,8 @@
-# #10232 Electrode-Hisui - Ball Pokémon
+# #10232 Electrode-Hisui (Ball Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10232.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10232.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10232.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10232.png) |
 
 It is known to drift on winds if it is bloated to bursting with stored electricity.
 
@@ -12,21 +12,19 @@ It is known to drift on winds if it is bloated to bursting with stored electrici
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
-| ![Front](None) | ![Back](None) | ![Shiny Front](None) | ![Shiny Back](None) |
+Electrode-Hisui has no sprites available in Blaze Black/Volt White.
 
 ### Cries
+
+Legacy (Blaze Black/Volt White):
+<p><audio controls>
+  <source src="None" type="audio/ogg">
+  Your browser does not support the audio element.
+</audio></p>
 
 Latest:
 <p><audio controls>
   <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10232.ogg" type="audio/ogg">
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy (Black/White):
-<p><audio controls>
-  <source src="None" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -59,13 +57,13 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Electrode](/bbvw-wiki/pokemon/electrode/)
-2. [Electrode-Hisui](/bbvw-wiki/pokemon/electrode-hisui/)
+1. [Electrode](electrode.md/)
+2. [Electrode-Hisui](electrode-hisui.md/)
 
 ### Evolution Line
 
-1. [Voltorb](/bbvw-wiki/pokemon/voltorb/)
-    1. Level Up: [Electrode](/bbvw-wiki/pokemon/electrode/)
+1. [Voltorb](voltorb.md/)
+    1. Level Up: [Electrode](electrode.md/)
 
 
 ---

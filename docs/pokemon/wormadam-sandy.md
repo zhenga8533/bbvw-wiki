@@ -1,8 +1,8 @@
-# #10004 Wormadam-Sandy - Bagworm Pokémon
+# #10004 Wormadam-Sandy (Bagworm Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10004.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10004.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10004.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10004.png) |
 
 When evolving, its body takes in surrounding materials. As a result, there are many body variations.
 
@@ -12,21 +12,21 @@ When evolving, its body takes in surrounding materials. As a result, there are m
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
+| Front | Back | Shiny Front | Shiny Back |
+| --- | --- | --- | --- |
 | ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/10004.gif) | ![Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/10004.gif) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/shiny/10004.gif) | ![Shiny Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/shiny/10004.gif) |
 
 ### Cries
 
-Latest:
+Legacy (Blaze Black/Volt White):
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10004.ogg" type="audio/ogg">
+  <source src="None" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
-Legacy (Black/White):
+Latest:
 <p><audio controls>
-  <source src="None" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10004.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -59,15 +59,15 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Wormadam-Plant](/bbvw-wiki/pokemon/wormadam-plant/)
-2. [Wormadam-Sandy](/bbvw-wiki/pokemon/wormadam-sandy/)
-3. [Wormadam-Trash](/bbvw-wiki/pokemon/wormadam-trash/)
+1. [Wormadam-Plant](wormadam-plant.md/)
+2. [Wormadam-Sandy](wormadam-sandy.md/)
+3. [Wormadam-Trash](wormadam-trash.md/)
 
 ### Evolution Line
 
-1. [Burmy](/bbvw-wiki/pokemon/burmy/)
-    1. Level Up: [Wormadam](/bbvw-wiki/pokemon/wormadam/)
-    2. Level Up: [Mothim](/bbvw-wiki/pokemon/mothim/)
+1. [Burmy](burmy.md/)
+    1. Level Up: [Wormadam-Trash](wormadam-trash.md/)
+    2. Level Up: [Mothim](mothim.md/)
 
 
 ---

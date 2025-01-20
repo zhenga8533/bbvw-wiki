@@ -1,8 +1,8 @@
-# #10049 Tyranitar-Mega - Armor Pokémon
+# #10049 Tyranitar-Mega (Armor Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10049.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10049.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10049.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10049.png) |
 
 If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.
 
@@ -12,21 +12,21 @@ If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
-| ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/10049.png) | ![Back](None) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/10049.png) | ![Shiny Back](None) |
+| Front | Shiny Front |
+| --- | --- |
+| ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/10049.png) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/10049.png) |
 
 ### Cries
+
+Legacy (Blaze Black/Volt White):
+<p><audio controls>
+  <source src="None" type="audio/ogg">
+  Your browser does not support the audio element.
+</audio></p>
 
 Latest:
 <p><audio controls>
   <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10049.ogg" type="audio/ogg">
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy (Black/White):
-<p><audio controls>
-  <source src="None" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -59,14 +59,14 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Tyranitar](/bbvw-wiki/pokemon/tyranitar/)
-2. [Tyranitar-Mega](/bbvw-wiki/pokemon/tyranitar-mega/)
+1. [Tyranitar](tyranitar.md/)
+2. [Tyranitar-Mega](tyranitar-mega.md/)
 
 ### Evolution Line
 
-1. [Larvitar](/bbvw-wiki/pokemon/larvitar/)
-    1. Level Up: [Pupitar](/bbvw-wiki/pokemon/pupitar/)
-        1. Level Up: [Tyranitar](/bbvw-wiki/pokemon/tyranitar/)
+1. [Larvitar](larvitar.md/)
+    1. Level Up: [Pupitar](pupitar.md/)
+        1. Level Up: [Tyranitar](tyranitar.md/)
 
 
 ---

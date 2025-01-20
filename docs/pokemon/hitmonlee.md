@@ -1,8 +1,8 @@
-# #106 Hitmonlee - Kicking Pokémon
+# #106 Hitmonlee (Kicking Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/106.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/106.png) |
 
 Its legs can stretch double. First-time foes are startled by its extensible reach.
 
@@ -12,21 +12,21 @@ Its legs can stretch double. First-time foes are startled by its extensible reac
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
+| Front | Back | Shiny Front | Shiny Back |
+| --- | --- | --- | --- |
 | ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/106.gif) | ![Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/106.gif) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/shiny/106.gif) | ![Shiny Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/shiny/106.gif) |
 
 ### Cries
 
-Latest:
+Legacy (Blaze Black/Volt White):
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/106.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/106.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
-Legacy (Black/White):
+Latest:
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/106.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/106.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -63,10 +63,10 @@ Hitmonlee has no alternate forms.
 
 ### Evolution Line
 
-1. [Tyrogue](/bbvw-wiki/pokemon/tyrogue/)
-    1. Level Up: [Hitmonlee](/bbvw-wiki/pokemon/hitmonlee/)
-    2. Level Up: [Hitmonchan](/bbvw-wiki/pokemon/hitmonchan/)
-    3. Level Up: [Hitmontop](/bbvw-wiki/pokemon/hitmontop/)
+1. [Tyrogue](tyrogue.md/)
+    1. Level Up: [Hitmonlee](hitmonlee.md/)
+    2. Level Up: [Hitmonchan](hitmonchan.md/)
+    3. Level Up: [Hitmontop](hitmontop.md/)
 
 
 ---

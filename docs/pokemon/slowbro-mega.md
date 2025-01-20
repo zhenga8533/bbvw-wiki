@@ -1,8 +1,8 @@
-# #10071 Slowbro-Mega - Hermit Crab Pokémon
+# #10071 Slowbro-Mega (Hermit Crab Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10071.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10071.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10071.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10071.png) |
 
 Though usually dim witted, it seems to become inspired if the Shellder on its tail bites down.
 
@@ -12,21 +12,21 @@ Though usually dim witted, it seems to become inspired if the Shellder on its ta
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
-| ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/10071.png) | ![Back](None) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/10071.png) | ![Shiny Back](None) |
+| Front | Shiny Front |
+| --- | --- |
+| ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/10071.png) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/10071.png) |
 
 ### Cries
+
+Legacy (Blaze Black/Volt White):
+<p><audio controls>
+  <source src="None" type="audio/ogg">
+  Your browser does not support the audio element.
+</audio></p>
 
 Latest:
 <p><audio controls>
   <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10071.ogg" type="audio/ogg">
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy (Black/White):
-<p><audio controls>
-  <source src="None" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -59,15 +59,15 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Slowbro](/bbvw-wiki/pokemon/slowbro/)
-2. [Slowbro-Mega](/bbvw-wiki/pokemon/slowbro-mega/)
-3. [Slowbro-Galar](/bbvw-wiki/pokemon/slowbro-galar/)
+1. [Slowbro](slowbro.md/)
+2. [Slowbro-Mega](slowbro-mega.md/)
+3. [Slowbro-Galar](slowbro-galar.md/)
 
 ### Evolution Line
 
-1. [Slowpoke](/bbvw-wiki/pokemon/slowpoke/)
-    1. Use Item: [Slowbro](/bbvw-wiki/pokemon/slowbro/)
-    2. Use Item: [Slowking](/bbvw-wiki/pokemon/slowking/)
+1. [Slowpoke](slowpoke.md/)
+    1. Use Item: [Slowbro](slowbro.md/)
+    2. Use Item: [Slowking](slowking.md/)
 
 
 ---

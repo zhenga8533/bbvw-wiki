@@ -1,8 +1,8 @@
-# #266 Silcoon - Cocoon Pokémon
+# #266 Silcoon (Cocoon Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/266.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/266.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/266.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/266.png) |
 
 It wraps silk around the branches of a tree. It drinks rainwater on its silk while awaiting evolution.
 
@@ -12,21 +12,21 @@ It wraps silk around the branches of a tree. It drinks rainwater on its silk whi
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
+| Front | Back | Shiny Front | Shiny Back |
+| --- | --- | --- | --- |
 | ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/266.gif) | ![Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/266.gif) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/shiny/266.gif) | ![Shiny Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/shiny/266.gif) |
 
 ### Cries
 
-Latest:
+Legacy (Blaze Black/Volt White):
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/266.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/266.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
-Legacy (Black/White):
+Latest:
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/266.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/266.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -63,11 +63,11 @@ Silcoon has no alternate forms.
 
 ### Evolution Line
 
-1. [Wurmple](/bbvw-wiki/pokemon/wurmple/)
-    1. Level Up: [Silcoon](/bbvw-wiki/pokemon/silcoon/)
-        1. Level Up: [Beautifly](/bbvw-wiki/pokemon/beautifly/)
-    2. Level Up: [Cascoon](/bbvw-wiki/pokemon/cascoon/)
-        1. Level Up: [Dustox](/bbvw-wiki/pokemon/dustox/)
+1. [Wurmple](wurmple.md/)
+    1. Level Up: [Silcoon](silcoon.md/)
+        1. Level Up: [Beautifly](beautifly.md/)
+    2. Level Up: [Cascoon](cascoon.md/)
+        1. Level Up: [Dustox](dustox.md/)
 
 
 ---

@@ -1,8 +1,8 @@
-# #079 Slowpoke - Dopey Pokémon
+# #079 Slowpoke (Dopey Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/79.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/79.png) |
 
 Although slow, it is skilled at fishing with its tail. It does not feel pain if its tail is bitten.
 
@@ -12,21 +12,21 @@ Although slow, it is skilled at fishing with its tail. It does not feel pain if 
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
+| Front | Back | Shiny Front | Shiny Back |
+| --- | --- | --- | --- |
 | ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/79.gif) | ![Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/79.gif) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/shiny/79.gif) | ![Shiny Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/shiny/79.gif) |
 
 ### Cries
 
-Latest:
+Legacy (Blaze Black/Volt White):
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/79.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/79.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
-Legacy (Black/White):
+Latest:
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/79.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/79.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -59,14 +59,14 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Slowpoke](/bbvw-wiki/pokemon/slowpoke/)
-2. [Slowpoke-Galar](/bbvw-wiki/pokemon/slowpoke-galar/)
+1. [Slowpoke](slowpoke.md/)
+2. [Slowpoke-Galar](slowpoke-galar.md/)
 
 ### Evolution Line
 
-1. [Slowpoke](/bbvw-wiki/pokemon/slowpoke/)
-    1. Use Item: [Slowbro](/bbvw-wiki/pokemon/slowbro/)
-    2. Use Item: [Slowking](/bbvw-wiki/pokemon/slowking/)
+1. [Slowpoke](slowpoke.md/)
+    1. Use Item: [Slowbro](slowbro.md/)
+    2. Use Item: [Slowking](slowking.md/)
 
 
 ```

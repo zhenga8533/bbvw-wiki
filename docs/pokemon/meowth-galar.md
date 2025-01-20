@@ -1,8 +1,8 @@
-# #10161 Meowth-Galar - Scratch Cat Pokémon
+# #10161 Meowth-Galar (Scratch Cat Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10161.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10161.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10161.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10161.png) |
 
 It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly.
 
@@ -12,21 +12,21 @@ It is nocturnal in nature. If it spots something shiny, its eyes glitter brightl
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
+| Front | Back | Shiny Front | Shiny Back |
+| --- | --- | --- | --- |
 | ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/10161.png) | ![Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/back/10161.png) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/10161.png) | ![Shiny Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/back/shiny/10161.png) |
 
 ### Cries
 
-Latest:
+Legacy (Blaze Black/Volt White):
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10161.ogg" type="audio/ogg">
+  <source src="None" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
-Legacy (Black/White):
+Latest:
 <p><audio controls>
-  <source src="None" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10161.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -59,16 +59,15 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Meowth](/bbvw-wiki/pokemon/meowth/)
-2. [Meowth-Alola](/bbvw-wiki/pokemon/meowth-alola/)
-3. [Meowth-Galar](/bbvw-wiki/pokemon/meowth-galar/)
-4. [Meowth-Gmax](/bbvw-wiki/pokemon/meowth-gmax/)
+1. [Meowth](meowth.md/)
+2. [Meowth-Alola](meowth-alola.md/)
+3. [Meowth-Galar](meowth-galar.md/)
+4. [Meowth-Gmax](meowth-gmax.md/)
 
 ### Evolution Line
 
-1. [Meowth](/bbvw-wiki/pokemon/meowth/)
-    1. Level Up: [Persian](/bbvw-wiki/pokemon/persian/)
-    2. Level Up: [Perrserker](/bbvw-wiki/pokemon/perrserker/)
+1. [Meowth](meowth.md/)
+    1. Level Up: [Persian](persian.md/)
 
 
 ---

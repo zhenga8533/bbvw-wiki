@@ -1,8 +1,8 @@
-# #10045 Ampharos-Mega - Light Pokémon
+# #10045 Ampharos-Mega (Light Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10045.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10045.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10045.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10045.png) |
 
 The tip of its tail shines brightly. In the olden days, people sent signals using the tail’s light.
 
@@ -12,21 +12,21 @@ The tip of its tail shines brightly. In the olden days, people sent signals usin
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
+| Front | Back | Shiny Front | Shiny Back |
+| --- | --- | --- | --- |
 | ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/10045.png) | ![Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/back/10045.png) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/10045.png) | ![Shiny Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/back/shiny/10045.png) |
 
 ### Cries
 
-Latest:
+Legacy (Blaze Black/Volt White):
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10045.ogg" type="audio/ogg">
+  <source src="None" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
-Legacy (Black/White):
+Latest:
 <p><audio controls>
-  <source src="None" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10045.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -59,14 +59,14 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Ampharos](/bbvw-wiki/pokemon/ampharos/)
-2. [Ampharos-Mega](/bbvw-wiki/pokemon/ampharos-mega/)
+1. [Ampharos](ampharos.md/)
+2. [Ampharos-Mega](ampharos-mega.md/)
 
 ### Evolution Line
 
-1. [Mareep](/bbvw-wiki/pokemon/mareep/)
-    1. Level Up: [Flaaffy](/bbvw-wiki/pokemon/flaaffy/)
-        1. Level Up: [Ampharos](/bbvw-wiki/pokemon/ampharos/)
+1. [Mareep](mareep.md/)
+    1. Level Up: [Flaaffy](flaaffy.md/)
+        1. Level Up: [Ampharos](ampharos.md/)
 
 
 ---

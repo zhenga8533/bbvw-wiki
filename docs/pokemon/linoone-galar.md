@@ -1,8 +1,8 @@
-# #10175 Linoone-Galar - Rushing Pokémon
+# #10175 Linoone-Galar (Rushing Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10175.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10175.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10175.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10175.png) |
 
 It charges prey at speeds over 60 mph. However, because it can only run straight, it often fails.
 
@@ -12,21 +12,21 @@ It charges prey at speeds over 60 mph. However, because it can only run straight
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
+| Front | Back | Shiny Front | Shiny Back |
+| --- | --- | --- | --- |
 | ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/10175.png) | ![Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/back/10175.png) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/10175.png) | ![Shiny Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/back/shiny/10175.png) |
 
 ### Cries
 
-Latest:
+Legacy (Blaze Black/Volt White):
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10175.ogg" type="audio/ogg">
+  <source src="None" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
-Legacy (Black/White):
+Latest:
 <p><audio controls>
-  <source src="None" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10175.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -59,14 +59,13 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Linoone](/bbvw-wiki/pokemon/linoone/)
-2. [Linoone-Galar](/bbvw-wiki/pokemon/linoone-galar/)
+1. [Linoone](linoone.md/)
+2. [Linoone-Galar](linoone-galar.md/)
 
 ### Evolution Line
 
-1. [Zigzagoon](/bbvw-wiki/pokemon/zigzagoon/)
-    1. Level Up: [Linoone](/bbvw-wiki/pokemon/linoone/)
-        1. Level Up: [Obstagoon](/bbvw-wiki/pokemon/obstagoon/)
+1. [Zigzagoon](zigzagoon.md/)
+    1. Level Up: [Linoone](linoone.md/)
 
 
 ---

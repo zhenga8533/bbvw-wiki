@@ -1,8 +1,8 @@
-# #10230 Arcanine-Hisui - Legendary Pokémon
+# #10230 Arcanine-Hisui (Legendary Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10230.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10230.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10230.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10230.png) |
 
 Its proud and regal appearance has captured the hearts of people since long ago.
 
@@ -12,21 +12,19 @@ Its proud and regal appearance has captured the hearts of people since long ago.
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
-| ![Front](None) | ![Back](None) | ![Shiny Front](None) | ![Shiny Back](None) |
+Arcanine-Hisui has no sprites available in Blaze Black/Volt White.
 
 ### Cries
+
+Legacy (Blaze Black/Volt White):
+<p><audio controls>
+  <source src="None" type="audio/ogg">
+  Your browser does not support the audio element.
+</audio></p>
 
 Latest:
 <p><audio controls>
   <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10230.ogg" type="audio/ogg">
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy (Black/White):
-<p><audio controls>
-  <source src="None" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -59,13 +57,13 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Arcanine](/bbvw-wiki/pokemon/arcanine/)
-2. [Arcanine-Hisui](/bbvw-wiki/pokemon/arcanine-hisui/)
+1. [Arcanine](arcanine.md/)
+2. [Arcanine-Hisui](arcanine-hisui.md/)
 
 ### Evolution Line
 
-1. [Growlithe](/bbvw-wiki/pokemon/growlithe/)
-    1. Use Item: [Arcanine](/bbvw-wiki/pokemon/arcanine/)
+1. [Growlithe](growlithe.md/)
+    1. Use Item: [Arcanine](arcanine.md/)
 
 
 ---

@@ -1,8 +1,8 @@
-# #10110 Graveler-Alola - Rock Pokémon
+# #10110 Graveler-Alola (Rock Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10110.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10110.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10110.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10110.png) |
 
 It rolls on mountain paths to move. Once it builds momentum, no Pokémon can stop it without difficulty.
 
@@ -12,21 +12,21 @@ It rolls on mountain paths to move. Once it builds momentum, no Pokémon can sto
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
+| Front | Back | Shiny Front | Shiny Back |
+| --- | --- | --- | --- |
 | ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/10110.png) | ![Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/back/10110.png) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/10110.png) | ![Shiny Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/back/shiny/10110.png) |
 
 ### Cries
 
-Latest:
+Legacy (Blaze Black/Volt White):
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10110.ogg" type="audio/ogg">
+  <source src="None" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
-Legacy (Black/White):
+Latest:
 <p><audio controls>
-  <source src="None" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10110.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -59,14 +59,14 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Graveler](/bbvw-wiki/pokemon/graveler/)
-2. [Graveler-Alola](/bbvw-wiki/pokemon/graveler-alola/)
+1. [Graveler](graveler.md/)
+2. [Graveler-Alola](graveler-alola.md/)
 
 ### Evolution Line
 
-1. [Geodude](/bbvw-wiki/pokemon/geodude/)
-    1. Level Up: [Graveler](/bbvw-wiki/pokemon/graveler/)
-        1. Trade: [Golem](/bbvw-wiki/pokemon/golem/)
+1. [Geodude](geodude.md/)
+    1. Level Up: [Graveler](graveler.md/)
+        1. Trade: [Golem](golem.md/)
 
 
 ---

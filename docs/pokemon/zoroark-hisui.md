@@ -1,8 +1,8 @@
-# #10239 Zoroark-Hisui - Illusion Fox Pokémon
+# #10239 Zoroark-Hisui (Illusion Fox Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10239.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10239.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10239.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10239.png) |
 
 **Blaze Black:** Bonds between these Pokémon are very strong. It protects the safety of its pack by tricking its opponents.
 
@@ -14,21 +14,19 @@
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
-| ![Front](None) | ![Back](None) | ![Shiny Front](None) | ![Shiny Back](None) |
+Zoroark-Hisui has no sprites available in Blaze Black/Volt White.
 
 ### Cries
+
+Legacy (Blaze Black/Volt White):
+<p><audio controls>
+  <source src="None" type="audio/ogg">
+  Your browser does not support the audio element.
+</audio></p>
 
 Latest:
 <p><audio controls>
   <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10239.ogg" type="audio/ogg">
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy (Black/White):
-<p><audio controls>
-  <source src="None" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -61,13 +59,13 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Zoroark](/bbvw-wiki/pokemon/zoroark/)
-2. [Zoroark-Hisui](/bbvw-wiki/pokemon/zoroark-hisui/)
+1. [Zoroark](zoroark.md/)
+2. [Zoroark-Hisui](zoroark-hisui.md/)
 
 ### Evolution Line
 
-1. [Zorua](/bbvw-wiki/pokemon/zorua/)
-    1. Level Up: [Zoroark](/bbvw-wiki/pokemon/zoroark/)
+1. [Zorua](zorua.md/)
+    1. Level Up: [Zoroark](zoroark.md/)
 
 
 ---

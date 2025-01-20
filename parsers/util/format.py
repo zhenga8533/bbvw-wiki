@@ -15,6 +15,22 @@ def clean_variable_name(s):
     return valid_chars
 
 
+def create_image_table(headings, images):
+    table_header = "|"
+    table_divider = "|"
+    table_body = "|"
+
+    for i in range(len(images)):
+        if images[i] is None:
+            continue
+
+        table_header += f" {headings[i]} |"
+        table_divider += " --- |"
+        table_body += f" ![{headings[i]}]({images[i]}) |"
+
+    return f"{table_header}\n{table_divider}\n{table_body}\n\n"
+
+
 def parse_camel_case(s: str) -> str:
     """
     Parse a camel case string into a space separated string.

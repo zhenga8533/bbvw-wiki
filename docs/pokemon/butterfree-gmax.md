@@ -1,8 +1,8 @@
-# #10198 Butterfree-Gmax - Butterfly Pokémon
+# #10198 Butterfree-Gmax (Butterfly Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10198.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10198.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10198.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10198.png) |
 
 It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.
 
@@ -12,21 +12,21 @@ It loves the honey of flowers and can locate flower patches that have even tiny 
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
+| Front | Back | Shiny Front | Shiny Back |
+| --- | --- | --- | --- |
 | ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/10198.png) | ![Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/back/10198.png) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/10198.png) | ![Shiny Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/back/shiny/10198.png) |
 
 ### Cries
 
-Latest:
+Legacy (Blaze Black/Volt White):
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10198.ogg" type="audio/ogg">
+  <source src="None" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
-Legacy (Black/White):
+Latest:
 <p><audio controls>
-  <source src="None" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10198.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -59,14 +59,14 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Butterfree](/bbvw-wiki/pokemon/butterfree/)
-2. [Butterfree-Gmax](/bbvw-wiki/pokemon/butterfree-gmax/)
+1. [Butterfree](butterfree.md/)
+2. [Butterfree-Gmax](butterfree-gmax.md/)
 
 ### Evolution Line
 
-1. [Caterpie](/bbvw-wiki/pokemon/caterpie/)
-    1. Level Up: [Metapod](/bbvw-wiki/pokemon/metapod/)
-        1. Level Up: [Butterfree](/bbvw-wiki/pokemon/butterfree/)
+1. [Caterpie](caterpie.md/)
+    1. Level Up: [Metapod](metapod.md/)
+        1. Level Up: [Butterfree](butterfree.md/)
 
 
 ---

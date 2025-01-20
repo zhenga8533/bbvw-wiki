@@ -1,8 +1,8 @@
-# #386 Deoxys-Normal - DNA Pokémon
+# #386 Deoxys-Normal (DNA Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/386.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/386.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/386.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/386.png) |
 
 An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon.
 
@@ -12,21 +12,21 @@ An alien virus that fell to earth on a meteor underwent a DNA mutation to become
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
+| Front | Back | Shiny Front | Shiny Back |
+| --- | --- | --- | --- |
 | ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/386.gif) | ![Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/386.gif) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/shiny/386.gif) | ![Shiny Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/shiny/386.gif) |
 
 ### Cries
 
-Latest:
+Legacy (Blaze Black/Volt White):
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/386.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/386.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
-Legacy (Black/White):
+Latest:
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/386.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/386.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -59,14 +59,14 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Deoxys-Normal](/bbvw-wiki/pokemon/deoxys-normal/)
-2. [Deoxys-Attack](/bbvw-wiki/pokemon/deoxys-attack/)
-3. [Deoxys-Defense](/bbvw-wiki/pokemon/deoxys-defense/)
-4. [Deoxys-Speed](/bbvw-wiki/pokemon/deoxys-speed/)
+1. [Deoxys-Normal](deoxys-normal.md/)
+2. [Deoxys-Attack](deoxys-attack.md/)
+3. [Deoxys-Defense](deoxys-defense.md/)
+4. [Deoxys-Speed](deoxys-speed.md/)
 
 ### Evolution Line
 
-1. [Deoxys](/bbvw-wiki/pokemon/deoxys/)
+1. [Deoxys-Speed](deoxys-speed.md/)
 
 
 ---

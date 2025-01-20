@@ -1,8 +1,8 @@
-# #10234 Qwilfish-Hisui - Balloon Pokémon
+# #10234 Qwilfish-Hisui (Balloon Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10234.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10234.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10234.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10234.png) |
 
 It shoots the poison spines on its body in all directions. Its round form makes it a poor swimmer.
 
@@ -12,21 +12,19 @@ It shoots the poison spines on its body in all directions. Its round form makes 
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
-| ![Front](None) | ![Back](None) | ![Shiny Front](None) | ![Shiny Back](None) |
+Qwilfish-Hisui has no sprites available in Blaze Black/Volt White.
 
 ### Cries
+
+Legacy (Blaze Black/Volt White):
+<p><audio controls>
+  <source src="None" type="audio/ogg">
+  Your browser does not support the audio element.
+</audio></p>
 
 Latest:
 <p><audio controls>
   <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10234.ogg" type="audio/ogg">
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy (Black/White):
-<p><audio controls>
-  <source src="None" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -59,13 +57,12 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Qwilfish](/bbvw-wiki/pokemon/qwilfish/)
-2. [Qwilfish-Hisui](/bbvw-wiki/pokemon/qwilfish-hisui/)
+1. [Qwilfish](qwilfish.md/)
+2. [Qwilfish-Hisui](qwilfish-hisui.md/)
 
 ### Evolution Line
 
-1. [Qwilfish](/bbvw-wiki/pokemon/qwilfish/)
-    1. Strong Style Move: [Overqwil](/bbvw-wiki/pokemon/overqwil/)
+1. [Qwilfish](qwilfish.md/)
 
 
 ---

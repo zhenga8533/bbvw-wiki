@@ -1,8 +1,8 @@
-# #128 Tauros - Wild Bull Pokémon
+# #128 Tauros (Wild Bull Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/128.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/128.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/128.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/128.png) |
 
 Once it takes aim at its foe, it makes a headlong charge. It is famous for its violent nature.
 
@@ -12,21 +12,21 @@ Once it takes aim at its foe, it makes a headlong charge. It is famous for its v
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
+| Front | Back | Shiny Front | Shiny Back |
+| --- | --- | --- | --- |
 | ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/128.gif) | ![Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/128.gif) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/shiny/128.gif) | ![Shiny Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/shiny/128.gif) |
 
 ### Cries
 
-Latest:
+Legacy (Blaze Black/Volt White):
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/128.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/128.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
-Legacy (Black/White):
+Latest:
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/128.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/128.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -59,14 +59,14 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Tauros](/bbvw-wiki/pokemon/tauros/)
-2. [Tauros-Paldea-Combat-Breed](/bbvw-wiki/pokemon/tauros-paldea-combat-breed/)
-3. [Tauros-Paldea-Blaze-Breed](/bbvw-wiki/pokemon/tauros-paldea-blaze-breed/)
-4. [Tauros-Paldea-Aqua-Breed](/bbvw-wiki/pokemon/tauros-paldea-aqua-breed/)
+1. [Tauros](tauros.md/)
+2. [Tauros-Paldea-Combat-Breed](tauros-paldea-combat-breed.md/)
+3. [Tauros-Paldea-Blaze-Breed](tauros-paldea-blaze-breed.md/)
+4. [Tauros-Paldea-Aqua-Breed](tauros-paldea-aqua-breed.md/)
 
 ### Evolution Line
 
-1. [Tauros](/bbvw-wiki/pokemon/tauros/)
+1. [Tauros](tauros.md/)
 
 
 ---

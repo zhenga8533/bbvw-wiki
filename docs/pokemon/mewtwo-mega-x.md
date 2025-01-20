@@ -1,8 +1,8 @@
-# #10043 Mewtwo-Mega-X - Genetic Pokémon
+# #10043 Mewtwo-Mega-X (Genetic Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10043.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10043.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10043.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10043.png) |
 
 A Pokémon created by recombining Mew’s genes. It’s said to have the most savage heart among Pokémon.
 
@@ -12,21 +12,21 @@ A Pokémon created by recombining Mew’s genes. It’s said to have the most sa
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
-| ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/10043.png) | ![Back](None) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/150-mega-x.png) | ![Shiny Back](None) |
+| Front | Shiny Front |
+| --- | --- |
+| ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/10043.png) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/150-mega-x.png) |
 
 ### Cries
+
+Legacy (Blaze Black/Volt White):
+<p><audio controls>
+  <source src="None" type="audio/ogg">
+  Your browser does not support the audio element.
+</audio></p>
 
 Latest:
 <p><audio controls>
   <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10043.ogg" type="audio/ogg">
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy (Black/White):
-<p><audio controls>
-  <source src="None" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -59,13 +59,13 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Mewtwo](/bbvw-wiki/pokemon/mewtwo/)
-2. [Mewtwo-Mega-X](/bbvw-wiki/pokemon/mewtwo-mega-x/)
-3. [Mewtwo-Mega-Y](/bbvw-wiki/pokemon/mewtwo-mega-y/)
+1. [Mewtwo](mewtwo.md/)
+2. [Mewtwo-Mega-X](mewtwo-mega-x.md/)
+3. [Mewtwo-Mega-Y](mewtwo-mega-y.md/)
 
 ### Evolution Line
 
-1. [Mew](/bbvw-wiki/pokemon/mew/)
+1. [Mew](mew.md/)
 
 
 ---

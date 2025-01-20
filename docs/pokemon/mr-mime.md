@@ -1,8 +1,8 @@
-# #122 Mr-Mime - Barrier Pokémon
+# #122 Mr-Mime (Barrier Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/122.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/122.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/122.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/122.png) |
 
 It shapes an invisible wall in midair by minutely vibrating its fingertips to stop molecules in the air.
 
@@ -12,21 +12,21 @@ It shapes an invisible wall in midair by minutely vibrating its fingertips to st
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
+| Front | Back | Shiny Front | Shiny Back |
+| --- | --- | --- | --- |
 | ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/122.gif) | ![Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/122.gif) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/shiny/122.gif) | ![Shiny Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/shiny/122.gif) |
 
 ### Cries
 
-Latest:
+Legacy (Blaze Black/Volt White):
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/122.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/122.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
-Legacy (Black/White):
+Latest:
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/122.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/122.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -59,14 +59,14 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Mr-Mime](/bbvw-wiki/pokemon/mr-mime/)
-2. [Mr-Mime-Galar](/bbvw-wiki/pokemon/mr-mime-galar/)
+1. [Mr-Mime](mr-mime.md/)
+2. [Mr-Mime-Galar](mr-mime-galar.md/)
 
 ### Evolution Line
 
-1. [Mime-Jr](/bbvw-wiki/pokemon/mime-jr/)
-    1. Level Up: [Mr-Mime](/bbvw-wiki/pokemon/mr-mime/)
-        1. Level Up: [Mr-Rime](/bbvw-wiki/pokemon/mr-rime/)
+1. [Mime-Jr](mime-jr.md/)
+    1. Level Up: [Mr-Mime](mr-mime.md/)
+        1. Level Up: [Mr-Rime](mr-rime.md/)
 
 
 ---

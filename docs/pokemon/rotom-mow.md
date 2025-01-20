@@ -1,8 +1,8 @@
-# #10012 Rotom-Mow - Plasma Pokémon
+# #10012 Rotom-Mow (Plasma Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10012.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10012.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10012.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10012.png) |
 
 Its electric-like body can enter some kinds of machines and take control in order to make mischief.
 
@@ -12,21 +12,21 @@ Its electric-like body can enter some kinds of machines and take control in orde
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
+| Front | Back | Shiny Front | Shiny Back |
+| --- | --- | --- | --- |
 | ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/10012.gif) | ![Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/10012.gif) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/shiny/10012.gif) | ![Shiny Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/shiny/10012.gif) |
 
 ### Cries
 
-Latest:
+Legacy (Blaze Black/Volt White):
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10012.ogg" type="audio/ogg">
+  <source src="None" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
-Legacy (Black/White):
+Latest:
 <p><audio controls>
-  <source src="None" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10012.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -59,16 +59,16 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Rotom](/bbvw-wiki/pokemon/rotom/)
-2. [Rotom-Heat](/bbvw-wiki/pokemon/rotom-heat/)
-3. [Rotom-Wash](/bbvw-wiki/pokemon/rotom-wash/)
-4. [Rotom-Frost](/bbvw-wiki/pokemon/rotom-frost/)
-5. [Rotom-Fan](/bbvw-wiki/pokemon/rotom-fan/)
-6. [Rotom-Mow](/bbvw-wiki/pokemon/rotom-mow/)
+1. [Rotom](rotom.md/)
+2. [Rotom-Heat](rotom-heat.md/)
+3. [Rotom-Wash](rotom-wash.md/)
+4. [Rotom-Frost](rotom-frost.md/)
+5. [Rotom-Fan](rotom-fan.md/)
+6. [Rotom-Mow](rotom-mow.md/)
 
 ### Evolution Line
 
-1. [Rotom](/bbvw-wiki/pokemon/rotom/)
+1. [Rotom](rotom.md/)
 
 
 ---

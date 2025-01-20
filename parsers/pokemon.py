@@ -1,19 +1,36 @@
 from util.file import save
+from util.format import create_image_table
 import glob
 import json
 import requests
 
 
-def parse_evolution_line(evolution, level=1, index=1):
-    md = f"{'    ' * (level - 1)}{index}. "
-    evolution_details = evolution["evolution_details"]
-    if len(evolution_details) > 0:
-        md += f"{evolution_details[-1]["trigger"]["name"].replace("-", " ").title()}: "
-    md += f"[{evolution['name'].title()}](/bbvw-wiki/pokemon/{evolution['name']}/)\n"
+def parse_evolution_line(evolution, pokemon_set, level=1, index=1):
+    names = [evolution["name"]]
+    for name in names[:]:
+        if name not in pokemon_set:
+            names.remove(name)
+            file_pattern = f"data/{name}*.json"
+            files = glob.glob(file_pattern)
 
-    if evolution["evolutions"]:
-        for i, sub_evolution in enumerate(evolution["evolutions"], 1):
-            md += parse_evolution_line(sub_evolution, level + 1, i)
+            for file_path in files:
+                new_name = file_path.split("\\")[-1].split(".")[0]
+                if new_name != name and new_name in pokemon_set and new_name not in names:
+                    names.append(new_name)
+    if len(names) == 0:
+        return ""
+
+    for name in names:
+        md = f"{'    ' * (level - 1)}{index}. "
+        evolution_details = evolution["evolution_details"]
+        if len(evolution_details) > 0:
+            md += f"{evolution_details[-1]["trigger"]["name"].replace("-", " ").title()}: "
+        md += f"[{name.title()}]({name}.md/)\n"
+
+        if evolution["evolutions"]:
+            for i, sub_evolution in enumerate(evolution["evolutions"], 1):
+                md += parse_evolution_line(sub_evolution, pokemon_set, level + 1, i)
+
     return md
 
 
@@ -25,17 +42,16 @@ def calculate_stat(base: int, iv: int, ev: int, level: int, nature: float) -> in
     return int((((2 * base + iv + ev // 4) * level) // 100 + 5) * nature)
 
 
-def to_md(pokemon: dict) -> str:
+def to_md(pokemon: dict, pokemon_set: dict) -> str:
     # Basic information
     pokemon_name = pokemon["name"].title()
-    md = f"# #{pokemon["id"]:03} {pokemon_name} - {pokemon["genus"]}\n\n"
-    md += "| Official Artwork | Shiny Artwork |\n"
-    md += "|------------------|---------------|\n"
+    md = f"# #{pokemon["id"]:03} {pokemon_name} ({pokemon["genus"]})\n\n"
 
     # Add official artwork
     official_artwork = pokemon["sprites"]["other"]["official-artwork"]
-    md += f"| ![Official Artwork]({official_artwork["front_default"]}) | "
-    md += f"![Official Artwork2]({official_artwork["front_shiny"]}) |\n\n"
+    md += create_image_table(
+        ["Official Artwork", "Shiny Artwork"], [official_artwork["front_default"], official_artwork["front_shiny"]]
+    )
 
     # Add flavor text
     flavor_text_entries = pokemon["flavor_text_entries"]
@@ -54,21 +70,30 @@ def to_md(pokemon: dict) -> str:
     # Add animated sprites
     sprites = pokemon["sprites"]["versions"]["generation-v"]["black-white"]
     animated = sprites["animated"]
+    front_sprite = animated["front_default"] or sprites["front_default"]
+    back_sprite = animated["back_default"] or sprites["back_default"]
+    shiny_front_sprite = animated["front_shiny"] or sprites["front_shiny"]
+    shiny_back_sprite = animated["back_shiny"] or sprites["back_shiny"]
+    sprite_exists = front_sprite or back_sprite or shiny_front_sprite or shiny_back_sprite
+
     md += "---\n\n## Media\n\n"
     md += "### Sprites\n\n"
-    md += "| Front | Back | S. Front | S. Back |\n"
-    md += "|-------|------|----------|---------|\n"
-    md += f"| ![Front]({animated["front_default"] or sprites["front_default"]}) | ![Back]({animated["back_default"] or sprites["back_default"]}) | "
-    md += f"![Shiny Front]({animated["front_shiny"] or sprites["front_shiny"]}) | ![Shiny Back]({animated["back_shiny"] or sprites["back_shiny"]}) |\n\n"
+    if not sprite_exists:
+        md += f"{pokemon_name} has no sprites available in Blaze Black/Volt White.\n\n"
+    else:
+        md += create_image_table(
+            ["Front", "Back", "Shiny Front", "Shiny Back"],
+            [front_sprite, back_sprite, shiny_front_sprite, shiny_back_sprite],
+        )
 
     # Cries
     md += "### Cries\n\n"
-    md += "Latest:\n<p><audio controls>\n"
-    md += f"  <source src=\"{pokemon['cry_latest']}\" type=\"audio/ogg\">\n"
+    md += "Legacy (Blaze Black/Volt White):\n<p><audio controls>\n"
+    md += f"  <source src=\"{pokemon['cry_legacy']}\" type=\"audio/ogg\">\n"
     md += "  Your browser does not support the audio element.\n"
     md += "</audio></p>\n\n"
-    md += "Legacy (Black/White):\n<p><audio controls>\n"
-    md += f"  <source src=\"{pokemon['cry_legacy']}\" type=\"audio/ogg\">\n"
+    md += "Latest:\n<p><audio controls>\n"
+    md += f"  <source src=\"{pokemon['cry_latest']}\" type=\"audio/ogg\">\n"
     md += "  Your browser does not support the audio element.\n"
     md += "</audio></p>\n\n"
 
@@ -128,7 +153,7 @@ def to_md(pokemon: dict) -> str:
         md += f"{pokemon_name} has no alternate forms.\n\n"
     else:
         for i, form in enumerate(forms):
-            md += f"{i + 1}. [{form.title()}](/bbvw-wiki/pokemon/{form}/)\n"
+            md += f"{i + 1}. [{form.title()}]({form}.md/)\n"
         md += "\n"
 
     # Evolutions
@@ -137,7 +162,7 @@ def to_md(pokemon: dict) -> str:
     if len(evolutions) == 0:
         md += f"{pokemon_name} does not evolve.\n\n"
     else:
-        md += f"{parse_evolution_line(evolutions[0])}\n\n"
+        md += f"{parse_evolution_line(evolutions[0], pokemon_set)}\n\n"
 
     if "evolution_changes" in pokemon:
         md += f"```\n{pokemon['evolution_changes']}\n```\n\n"
@@ -290,7 +315,20 @@ def to_md(pokemon: dict) -> str:
 
 
 def main():
-    pokedex = requests.get("https://pokeapi.co/api/v2/pokemon/?offset=0&limit=649").json()["results"]
+    try:
+        pokedex = requests.get("https://pokeapi.co/api/v2/pokemon/?offset=0&limit=649", timeout=5).json()["results"]
+    except requests.exceptions.RequestException:
+        print("Failed to fetch Pokémon data from PokéAPI.")
+
+    pokemon_set = set()
+    for pokemon in pokedex:
+        name = pokemon["name"]
+        file_pattern = f"data/{name.split("-")[0]}*.json"
+        files = glob.glob(file_pattern)
+
+        for file_path in files:
+            name = file_path.split("\\")[-1].split(".")[0]
+            pokemon_set.add(name)
 
     for pokemon in pokedex:
         name = pokemon["name"]
@@ -301,7 +339,7 @@ def main():
             with open(file_path, "r") as file:
                 data = json.load(file)
 
-            md = to_md(data)
+            md = to_md(data, pokemon_set)
             save(f"pokemon/{data["name"]}.md", md)
 
 

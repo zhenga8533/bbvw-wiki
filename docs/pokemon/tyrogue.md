@@ -1,8 +1,8 @@
-# #236 Tyrogue - Scuffle Pokémon
+# #236 Tyrogue (Scuffle Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/236.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/236.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/236.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/236.png) |
 
 It is famous for its eagerness to fight and always nurses injuries from challenging larger foes.
 
@@ -12,21 +12,21 @@ It is famous for its eagerness to fight and always nurses injuries from challeng
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
+| Front | Back | Shiny Front | Shiny Back |
+| --- | --- | --- | --- |
 | ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/236.gif) | ![Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/236.gif) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/shiny/236.gif) | ![Shiny Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/shiny/236.gif) |
 
 ### Cries
 
-Latest:
+Legacy (Blaze Black/Volt White):
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/236.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/236.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
-Legacy (Black/White):
+Latest:
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/236.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/236.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -63,10 +63,10 @@ Tyrogue has no alternate forms.
 
 ### Evolution Line
 
-1. [Tyrogue](/bbvw-wiki/pokemon/tyrogue/)
-    1. Level Up: [Hitmonlee](/bbvw-wiki/pokemon/hitmonlee/)
-    2. Level Up: [Hitmonchan](/bbvw-wiki/pokemon/hitmonchan/)
-    3. Level Up: [Hitmontop](/bbvw-wiki/pokemon/hitmontop/)
+1. [Tyrogue](tyrogue.md/)
+    1. Level Up: [Hitmonlee](hitmonlee.md/)
+    2. Level Up: [Hitmonchan](hitmonchan.md/)
+    3. Level Up: [Hitmontop](hitmontop.md/)
 
 
 ---

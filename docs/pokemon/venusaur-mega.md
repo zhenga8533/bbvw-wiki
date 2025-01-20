@@ -1,8 +1,8 @@
-# #10033 Venusaur-Mega - Seed Pokémon
+# #10033 Venusaur-Mega (Seed Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10033.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10033.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10033.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10033.png) |
 
 After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.
 
@@ -12,21 +12,21 @@ After a rainy day, the flower on its back smells stronger. The scent attracts ot
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
+| Front | Back | Shiny Front | Shiny Back |
+| --- | --- | --- | --- |
 | ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/10033.png) | ![Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/back/10033.png) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/10033.png) | ![Shiny Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/back/shiny/10033.png) |
 
 ### Cries
 
-Latest:
+Legacy (Blaze Black/Volt White):
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10033.ogg" type="audio/ogg">
+  <source src="None" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
-Legacy (Black/White):
+Latest:
 <p><audio controls>
-  <source src="None" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10033.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -59,15 +59,15 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Venusaur](/bbvw-wiki/pokemon/venusaur/)
-2. [Venusaur-Mega](/bbvw-wiki/pokemon/venusaur-mega/)
-3. [Venusaur-Gmax](/bbvw-wiki/pokemon/venusaur-gmax/)
+1. [Venusaur](venusaur.md/)
+2. [Venusaur-Mega](venusaur-mega.md/)
+3. [Venusaur-Gmax](venusaur-gmax.md/)
 
 ### Evolution Line
 
-1. [Bulbasaur](/bbvw-wiki/pokemon/bulbasaur/)
-    1. Level Up: [Ivysaur](/bbvw-wiki/pokemon/ivysaur/)
-        1. Level Up: [Venusaur](/bbvw-wiki/pokemon/venusaur/)
+1. [Bulbasaur](bulbasaur.md/)
+    1. Level Up: [Ivysaur](ivysaur.md/)
+        1. Level Up: [Venusaur](venusaur.md/)
 
 
 ---

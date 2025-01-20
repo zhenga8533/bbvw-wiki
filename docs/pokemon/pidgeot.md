@@ -1,8 +1,8 @@
-# #018 Pidgeot - Bird Pokémon
+# #018 Pidgeot (Bird Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/18.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/18.png) |
 
 By flapping its wings with all its might, Pidgeot can make a gust of wind capable of bending tall trees.
 
@@ -12,21 +12,21 @@ By flapping its wings with all its might, Pidgeot can make a gust of wind capabl
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
+| Front | Back | Shiny Front | Shiny Back |
+| --- | --- | --- | --- |
 | ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/18.gif) | ![Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/18.gif) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/shiny/18.gif) | ![Shiny Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/shiny/18.gif) |
 
 ### Cries
 
-Latest:
+Legacy (Blaze Black/Volt White):
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/18.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/18.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
-Legacy (Black/White):
+Latest:
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/18.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/18.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -59,14 +59,14 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Pidgeot](/bbvw-wiki/pokemon/pidgeot/)
-2. [Pidgeot-Mega](/bbvw-wiki/pokemon/pidgeot-mega/)
+1. [Pidgeot](pidgeot.md/)
+2. [Pidgeot-Mega](pidgeot-mega.md/)
 
 ### Evolution Line
 
-1. [Pidgey](/bbvw-wiki/pokemon/pidgey/)
-    1. Level Up: [Pidgeotto](/bbvw-wiki/pokemon/pidgeotto/)
-        1. Level Up: [Pidgeot](/bbvw-wiki/pokemon/pidgeot/)
+1. [Pidgey](pidgey.md/)
+    1. Level Up: [Pidgeotto](pidgeotto.md/)
+        1. Level Up: [Pidgeot](pidgeot.md/)
 
 
 ---

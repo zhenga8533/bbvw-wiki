@@ -1,8 +1,8 @@
-# #10233 Typhlosion-Hisui - Volcano Pokémon
+# #10233 Typhlosion-Hisui (Volcano Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10233.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10233.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10233.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10233.png) |
 
 It attacks using blasts of fire. It creates heat shimmers with intense fire to hide itself.
 
@@ -12,21 +12,19 @@ It attacks using blasts of fire. It creates heat shimmers with intense fire to h
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
-| ![Front](None) | ![Back](None) | ![Shiny Front](None) | ![Shiny Back](None) |
+Typhlosion-Hisui has no sprites available in Blaze Black/Volt White.
 
 ### Cries
+
+Legacy (Blaze Black/Volt White):
+<p><audio controls>
+  <source src="None" type="audio/ogg">
+  Your browser does not support the audio element.
+</audio></p>
 
 Latest:
 <p><audio controls>
   <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10233.ogg" type="audio/ogg">
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy (Black/White):
-<p><audio controls>
-  <source src="None" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -59,14 +57,14 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Typhlosion](/bbvw-wiki/pokemon/typhlosion/)
-2. [Typhlosion-Hisui](/bbvw-wiki/pokemon/typhlosion-hisui/)
+1. [Typhlosion](typhlosion.md/)
+2. [Typhlosion-Hisui](typhlosion-hisui.md/)
 
 ### Evolution Line
 
-1. [Cyndaquil](/bbvw-wiki/pokemon/cyndaquil/)
-    1. Level Up: [Quilava](/bbvw-wiki/pokemon/quilava/)
-        1. Level Up: [Typhlosion](/bbvw-wiki/pokemon/typhlosion/)
+1. [Cyndaquil](cyndaquil.md/)
+    1. Level Up: [Quilava](quilava.md/)
+        1. Level Up: [Typhlosion](typhlosion.md/)
 
 
 ---

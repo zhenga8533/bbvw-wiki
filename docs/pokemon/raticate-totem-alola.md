@@ -1,8 +1,8 @@
-# #10093 Raticate-Totem-Alola - Mouse Pokémon
+# #10093 Raticate-Totem-Alola (Mouse Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10093.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10093.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10093.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10093.png) |
 
 It whittles its constantly growing fangs by gnawing on hard things. It can chew apart cinder walls.
 
@@ -12,21 +12,21 @@ It whittles its constantly growing fangs by gnawing on hard things. It can chew 
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
-| ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/10093.png) | ![Back](None) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/20-totem-alola.png) | ![Shiny Back](None) |
+| Front | Shiny Front |
+| --- | --- |
+| ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/10093.png) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/20-totem-alola.png) |
 
 ### Cries
+
+Legacy (Blaze Black/Volt White):
+<p><audio controls>
+  <source src="None" type="audio/ogg">
+  Your browser does not support the audio element.
+</audio></p>
 
 Latest:
 <p><audio controls>
   <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10093.ogg" type="audio/ogg">
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy (Black/White):
-<p><audio controls>
-  <source src="None" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -59,14 +59,14 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Raticate](/bbvw-wiki/pokemon/raticate/)
-2. [Raticate-Alola](/bbvw-wiki/pokemon/raticate-alola/)
-3. [Raticate-Totem-Alola](/bbvw-wiki/pokemon/raticate-totem-alola/)
+1. [Raticate](raticate.md/)
+2. [Raticate-Alola](raticate-alola.md/)
+3. [Raticate-Totem-Alola](raticate-totem-alola.md/)
 
 ### Evolution Line
 
-1. [Rattata](/bbvw-wiki/pokemon/rattata/)
-    1. Level Up: [Raticate](/bbvw-wiki/pokemon/raticate/)
+1. [Rattata](rattata.md/)
+    1. Level Up: [Raticate](raticate.md/)
 
 
 ---

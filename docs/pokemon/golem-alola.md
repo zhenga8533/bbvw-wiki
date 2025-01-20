@@ -1,8 +1,8 @@
-# #10111 Golem-Alola - Megaton Pokémon
+# #10111 Golem-Alola (Megaton Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10111.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10111.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10111.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10111.png) |
 
 Even dynamite can’t harm its hard, boulderlike body. It sheds its hide just once a year.
 
@@ -12,21 +12,21 @@ Even dynamite can’t harm its hard, boulderlike body. It sheds its hide just on
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
+| Front | Back | Shiny Front | Shiny Back |
+| --- | --- | --- | --- |
 | ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/10111.png) | ![Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/back/10111.png) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/10111.png) | ![Shiny Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/back/shiny/10111.png) |
 
 ### Cries
 
-Latest:
+Legacy (Blaze Black/Volt White):
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10111.ogg" type="audio/ogg">
+  <source src="None" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
-Legacy (Black/White):
+Latest:
 <p><audio controls>
-  <source src="None" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10111.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -59,14 +59,14 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Golem](/bbvw-wiki/pokemon/golem/)
-2. [Golem-Alola](/bbvw-wiki/pokemon/golem-alola/)
+1. [Golem](golem.md/)
+2. [Golem-Alola](golem-alola.md/)
 
 ### Evolution Line
 
-1. [Geodude](/bbvw-wiki/pokemon/geodude/)
-    1. Level Up: [Graveler](/bbvw-wiki/pokemon/graveler/)
-        1. Trade: [Golem](/bbvw-wiki/pokemon/golem/)
+1. [Geodude](geodude.md/)
+    1. Level Up: [Graveler](graveler.md/)
+        1. Trade: [Golem](golem.md/)
 
 
 ---

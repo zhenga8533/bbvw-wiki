@@ -1,8 +1,8 @@
-# #10236 Samurott-Hisui - Formidable Pokémon
+# #10236 Samurott-Hisui (Formidable Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10236.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10236.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10236.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10236.png) |
 
 **Blaze Black:** One swing of the sword incorporated in its armor can fell an opponent. A simple glare from one of them quiets everybody.
 
@@ -14,21 +14,19 @@
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
-| ![Front](None) | ![Back](None) | ![Shiny Front](None) | ![Shiny Back](None) |
+Samurott-Hisui has no sprites available in Blaze Black/Volt White.
 
 ### Cries
+
+Legacy (Blaze Black/Volt White):
+<p><audio controls>
+  <source src="None" type="audio/ogg">
+  Your browser does not support the audio element.
+</audio></p>
 
 Latest:
 <p><audio controls>
   <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10236.ogg" type="audio/ogg">
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy (Black/White):
-<p><audio controls>
-  <source src="None" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -61,14 +59,14 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Samurott](/bbvw-wiki/pokemon/samurott/)
-2. [Samurott-Hisui](/bbvw-wiki/pokemon/samurott-hisui/)
+1. [Samurott](samurott.md/)
+2. [Samurott-Hisui](samurott-hisui.md/)
 
 ### Evolution Line
 
-1. [Oshawott](/bbvw-wiki/pokemon/oshawott/)
-    1. Level Up: [Dewott](/bbvw-wiki/pokemon/dewott/)
-        1. Level Up: [Samurott](/bbvw-wiki/pokemon/samurott/)
+1. [Oshawott](oshawott.md/)
+    1. Level Up: [Dewott](dewott.md/)
+        1. Level Up: [Samurott](samurott.md/)
 
 
 ---

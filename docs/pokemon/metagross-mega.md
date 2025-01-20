@@ -1,8 +1,8 @@
-# #10076 Metagross-Mega - Iron Leg Pokémon
+# #10076 Metagross-Mega (Iron Leg Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10076.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10076.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10076.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10076.png) |
 
 Metang combined to form it. With four brains, it has the intelligence of a supercomputer.
 
@@ -12,21 +12,21 @@ Metang combined to form it. With four brains, it has the intelligence of a super
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
-| ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/10076.png) | ![Back](None) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/10076.png) | ![Shiny Back](None) |
+| Front | Shiny Front |
+| --- | --- |
+| ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/10076.png) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/10076.png) |
 
 ### Cries
+
+Legacy (Blaze Black/Volt White):
+<p><audio controls>
+  <source src="None" type="audio/ogg">
+  Your browser does not support the audio element.
+</audio></p>
 
 Latest:
 <p><audio controls>
   <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10076.ogg" type="audio/ogg">
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy (Black/White):
-<p><audio controls>
-  <source src="None" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -59,14 +59,14 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Metagross](/bbvw-wiki/pokemon/metagross/)
-2. [Metagross-Mega](/bbvw-wiki/pokemon/metagross-mega/)
+1. [Metagross](metagross.md/)
+2. [Metagross-Mega](metagross-mega.md/)
 
 ### Evolution Line
 
-1. [Beldum](/bbvw-wiki/pokemon/beldum/)
-    1. Level Up: [Metang](/bbvw-wiki/pokemon/metang/)
-        1. Level Up: [Metagross](/bbvw-wiki/pokemon/metagross/)
+1. [Beldum](beldum.md/)
+    1. Level Up: [Metang](metang.md/)
+        1. Level Up: [Metagross](metagross.md/)
 
 
 ---

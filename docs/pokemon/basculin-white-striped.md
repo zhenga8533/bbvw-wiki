@@ -1,8 +1,8 @@
-# #10247 Basculin-White-Striped - Hostile Pokémon
+# #10247 Basculin-White-Striped (Hostile Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10247.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10247.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10247.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10247.png) |
 
 **Blaze Black:** Red and blue Basculin get along so poorly, they’ll start fighting instantly. These Pokémon are very hostile.
 
@@ -14,21 +14,19 @@
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
-| ![Front](None) | ![Back](None) | ![Shiny Front](None) | ![Shiny Back](None) |
+Basculin-White-Striped has no sprites available in Blaze Black/Volt White.
 
 ### Cries
+
+Legacy (Blaze Black/Volt White):
+<p><audio controls>
+  <source src="None" type="audio/ogg">
+  Your browser does not support the audio element.
+</audio></p>
 
 Latest:
 <p><audio controls>
   <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10247.ogg" type="audio/ogg">
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy (Black/White):
-<p><audio controls>
-  <source src="None" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -61,14 +59,13 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Basculin-Red-Striped](/bbvw-wiki/pokemon/basculin-red-striped/)
-2. [Basculin-Blue-Striped](/bbvw-wiki/pokemon/basculin-blue-striped/)
-3. [Basculin-White-Striped](/bbvw-wiki/pokemon/basculin-white-striped/)
+1. [Basculin-Red-Striped](basculin-red-striped.md/)
+2. [Basculin-Blue-Striped](basculin-blue-striped.md/)
+3. [Basculin-White-Striped](basculin-white-striped.md/)
 
 ### Evolution Line
 
-1. [Basculin](/bbvw-wiki/pokemon/basculin/)
-    1. Recoil Damage: [Basculegion](/bbvw-wiki/pokemon/basculegion/)
+1. [Basculin-White-Striped](basculin-white-striped.md/)
 
 
 ---

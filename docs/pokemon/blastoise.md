@@ -1,8 +1,8 @@
-# #009 Blastoise - Shellfish Pokémon
+# #009 Blastoise (Shellfish Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/9.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/9.png) |
 
 The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.
 
@@ -12,21 +12,21 @@ The jets of water it spouts from the rocket cannons on its shell can punch throu
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
+| Front | Back | Shiny Front | Shiny Back |
+| --- | --- | --- | --- |
 | ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/9.gif) | ![Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/9.gif) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/shiny/9.gif) | ![Shiny Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/shiny/9.gif) |
 
 ### Cries
 
-Latest:
+Legacy (Blaze Black/Volt White):
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/9.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/9.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
-Legacy (Black/White):
+Latest:
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/9.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/9.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -59,15 +59,15 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Blastoise](/bbvw-wiki/pokemon/blastoise/)
-2. [Blastoise-Mega](/bbvw-wiki/pokemon/blastoise-mega/)
-3. [Blastoise-Gmax](/bbvw-wiki/pokemon/blastoise-gmax/)
+1. [Blastoise](blastoise.md/)
+2. [Blastoise-Mega](blastoise-mega.md/)
+3. [Blastoise-Gmax](blastoise-gmax.md/)
 
 ### Evolution Line
 
-1. [Squirtle](/bbvw-wiki/pokemon/squirtle/)
-    1. Level Up: [Wartortle](/bbvw-wiki/pokemon/wartortle/)
-        1. Level Up: [Blastoise](/bbvw-wiki/pokemon/blastoise/)
+1. [Squirtle](squirtle.md/)
+    1. Level Up: [Wartortle](wartortle.md/)
+        1. Level Up: [Blastoise](blastoise.md/)
 
 
 ---

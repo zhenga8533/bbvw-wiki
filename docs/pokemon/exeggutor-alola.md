@@ -1,8 +1,8 @@
-# #10114 Exeggutor-Alola - Coconut Pokémon
+# #10114 Exeggutor-Alola (Coconut Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10114.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10114.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10114.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10114.png) |
 
 It is called “The Walking Jungle.” If a head grows too big, it falls off and becomes an Exeggcute.
 
@@ -12,21 +12,21 @@ It is called “The Walking Jungle.” If a head grows too big, it falls off and
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
+| Front | Back | Shiny Front | Shiny Back |
+| --- | --- | --- | --- |
 | ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/10114.png) | ![Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/back/10114.png) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/10114.png) | ![Shiny Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/back/shiny/10114.png) |
 
 ### Cries
 
-Latest:
+Legacy (Blaze Black/Volt White):
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10114.ogg" type="audio/ogg">
+  <source src="None" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
-Legacy (Black/White):
+Latest:
 <p><audio controls>
-  <source src="None" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10114.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -59,13 +59,13 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Exeggutor](/bbvw-wiki/pokemon/exeggutor/)
-2. [Exeggutor-Alola](/bbvw-wiki/pokemon/exeggutor-alola/)
+1. [Exeggutor](exeggutor.md/)
+2. [Exeggutor-Alola](exeggutor-alola.md/)
 
 ### Evolution Line
 
-1. [Exeggcute](/bbvw-wiki/pokemon/exeggcute/)
-    1. Use Item: [Exeggutor](/bbvw-wiki/pokemon/exeggutor/)
+1. [Exeggcute](exeggcute.md/)
+    1. Use Item: [Exeggutor](exeggutor.md/)
 
 
 ---

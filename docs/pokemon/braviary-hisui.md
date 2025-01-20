@@ -1,8 +1,8 @@
-# #10240 Braviary-Hisui - Valiant Pokémon
+# #10240 Braviary-Hisui (Valiant Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10240.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10240.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10240.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10240.png) |
 
 **Blaze Black:** They fight for their friends without any thought about danger to themselves. One can carry a car while flying.
 
@@ -14,21 +14,19 @@
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
-| ![Front](None) | ![Back](None) | ![Shiny Front](None) | ![Shiny Back](None) |
+Braviary-Hisui has no sprites available in Blaze Black/Volt White.
 
 ### Cries
+
+Legacy (Blaze Black/Volt White):
+<p><audio controls>
+  <source src="None" type="audio/ogg">
+  Your browser does not support the audio element.
+</audio></p>
 
 Latest:
 <p><audio controls>
   <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10240.ogg" type="audio/ogg">
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy (Black/White):
-<p><audio controls>
-  <source src="None" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -61,13 +59,13 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Braviary](/bbvw-wiki/pokemon/braviary/)
-2. [Braviary-Hisui](/bbvw-wiki/pokemon/braviary-hisui/)
+1. [Braviary](braviary.md/)
+2. [Braviary-Hisui](braviary-hisui.md/)
 
 ### Evolution Line
 
-1. [Rufflet](/bbvw-wiki/pokemon/rufflet/)
-    1. Level Up: [Braviary](/bbvw-wiki/pokemon/braviary/)
+1. [Rufflet](rufflet.md/)
+    1. Level Up: [Braviary](braviary.md/)
 
 
 ---

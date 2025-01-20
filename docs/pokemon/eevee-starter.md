@@ -1,8 +1,8 @@
-# #10159 Eevee-Starter - Evolution Pokémon
+# #10159 Eevee-Starter (Evolution Pokémon)
 
-| Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10159.png) | ![Official Artwork2](None) |
+| Official Artwork |
+| --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10159.png) |
 
 Because its genetic makeup is irregular, it quickly changes its form due to a variety of causes.
 
@@ -12,21 +12,19 @@ Because its genetic makeup is irregular, it quickly changes its form due to a va
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
-| ![Front](None) | ![Back](None) | ![Shiny Front](None) | ![Shiny Back](None) |
+Eevee-Starter has no sprites available in Blaze Black/Volt White.
 
 ### Cries
+
+Legacy (Blaze Black/Volt White):
+<p><audio controls>
+  <source src="None" type="audio/ogg">
+  Your browser does not support the audio element.
+</audio></p>
 
 Latest:
 <p><audio controls>
   <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10159.ogg" type="audio/ogg">
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy (Black/White):
-<p><audio controls>
-  <source src="None" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -59,21 +57,20 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Eevee](/bbvw-wiki/pokemon/eevee/)
-2. [Eevee-Starter](/bbvw-wiki/pokemon/eevee-starter/)
-3. [Eevee-Gmax](/bbvw-wiki/pokemon/eevee-gmax/)
+1. [Eevee](eevee.md/)
+2. [Eevee-Starter](eevee-starter.md/)
+3. [Eevee-Gmax](eevee-gmax.md/)
 
 ### Evolution Line
 
-1. [Eevee](/bbvw-wiki/pokemon/eevee/)
-    1. Use Item: [Vaporeon](/bbvw-wiki/pokemon/vaporeon/)
-    2. Use Item: [Jolteon](/bbvw-wiki/pokemon/jolteon/)
-    3. Use Item: [Flareon](/bbvw-wiki/pokemon/flareon/)
-    4. Level Up: [Espeon](/bbvw-wiki/pokemon/espeon/)
-    5. Level Up: [Umbreon](/bbvw-wiki/pokemon/umbreon/)
-    6. Use Item: [Leafeon](/bbvw-wiki/pokemon/leafeon/)
-    7. Use Item: [Glaceon](/bbvw-wiki/pokemon/glaceon/)
-    8. Level Up: [Sylveon](/bbvw-wiki/pokemon/sylveon/)
+1. [Eevee](eevee.md/)
+    1. Use Item: [Vaporeon](vaporeon.md/)
+    2. Use Item: [Jolteon](jolteon.md/)
+    3. Use Item: [Flareon](flareon.md/)
+    4. Level Up: [Espeon](espeon.md/)
+    5. Level Up: [Umbreon](umbreon.md/)
+    6. Use Item: [Leafeon](leafeon.md/)
+    7. Use Item: [Glaceon](glaceon.md/)
 
 
 ---

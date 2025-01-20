@@ -1,8 +1,8 @@
-# #10038 Gengar-Mega - Shadow Pokémon
+# #10038 Gengar-Mega (Shadow Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10038.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10038.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10038.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10038.png) |
 
 The leer that floats in darkness belongs to a Gengar delighting in casting curses on people.
 
@@ -12,21 +12,21 @@ The leer that floats in darkness belongs to a Gengar delighting in casting curse
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
-| ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/10038.png) | ![Back](None) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/10038.png) | ![Shiny Back](None) |
+| Front | Shiny Front |
+| --- | --- |
+| ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/10038.png) | ![Shiny Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/10038.png) |
 
 ### Cries
+
+Legacy (Blaze Black/Volt White):
+<p><audio controls>
+  <source src="None" type="audio/ogg">
+  Your browser does not support the audio element.
+</audio></p>
 
 Latest:
 <p><audio controls>
   <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10038.ogg" type="audio/ogg">
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy (Black/White):
-<p><audio controls>
-  <source src="None" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -59,15 +59,15 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Gengar](/bbvw-wiki/pokemon/gengar/)
-2. [Gengar-Mega](/bbvw-wiki/pokemon/gengar-mega/)
-3. [Gengar-Gmax](/bbvw-wiki/pokemon/gengar-gmax/)
+1. [Gengar](gengar.md/)
+2. [Gengar-Mega](gengar-mega.md/)
+3. [Gengar-Gmax](gengar-gmax.md/)
 
 ### Evolution Line
 
-1. [Gastly](/bbvw-wiki/pokemon/gastly/)
-    1. Level Up: [Haunter](/bbvw-wiki/pokemon/haunter/)
-        1. Trade: [Gengar](/bbvw-wiki/pokemon/gengar/)
+1. [Gastly](gastly.md/)
+    1. Level Up: [Haunter](haunter.md/)
+        1. Trade: [Gengar](gengar.md/)
 
 
 ---

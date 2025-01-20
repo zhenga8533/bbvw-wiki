@@ -1,8 +1,8 @@
-# #10231 Voltorb-Hisui - Ball Pokémon
+# #10231 Voltorb-Hisui (Ball Pokémon)
 
 | Official Artwork | Shiny Artwork |
-|------------------|---------------|
-| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10231.png) | ![Official Artwork2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10231.png) |
+| --- | --- |
+| ![Official Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10231.png) | ![Shiny Artwork](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/10231.png) |
 
 It looks just like a Poké Ball. It is dangerous because it may electrocute or explode on touch.
 
@@ -12,21 +12,19 @@ It looks just like a Poké Ball. It is dangerous because it may electrocute or e
 
 ### Sprites
 
-| Front | Back | S. Front | S. Back |
-|-------|------|----------|---------|
-| ![Front](None) | ![Back](None) | ![Shiny Front](None) | ![Shiny Back](None) |
+Voltorb-Hisui has no sprites available in Blaze Black/Volt White.
 
 ### Cries
+
+Legacy (Blaze Black/Volt White):
+<p><audio controls>
+  <source src="None" type="audio/ogg">
+  Your browser does not support the audio element.
+</audio></p>
 
 Latest:
 <p><audio controls>
   <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10231.ogg" type="audio/ogg">
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy (Black/White):
-<p><audio controls>
-  <source src="None" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
@@ -59,13 +57,13 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Voltorb](/bbvw-wiki/pokemon/voltorb/)
-2. [Voltorb-Hisui](/bbvw-wiki/pokemon/voltorb-hisui/)
+1. [Voltorb](voltorb.md/)
+2. [Voltorb-Hisui](voltorb-hisui.md/)
 
 ### Evolution Line
 
-1. [Voltorb](/bbvw-wiki/pokemon/voltorb/)
-    1. Level Up: [Electrode](/bbvw-wiki/pokemon/electrode/)
+1. [Voltorb](voltorb.md/)
+    1. Level Up: [Electrode](electrode.md/)
 
 
 ---
