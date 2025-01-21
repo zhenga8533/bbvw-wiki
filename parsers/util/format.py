@@ -31,17 +31,6 @@ def create_image_table(headings, images):
     return f"{table_header}\n{table_divider}\n{table_body}\n\n"
 
 
-def parse_camel_case(s: str) -> str:
-    """
-    Parse a camel case string into a space separated string.
-
-    :param s: The camel case string to parse.
-    :return: The space separated string.
-    """
-
-    return re.sub("([a-z])([A-Z])", r"\1 \2", s)
-
-
 def remove_special_characters(s: str) -> str:
     """
     Remove special characters from a string.

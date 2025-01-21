@@ -1,5 +1,5 @@
 from util.file import load, save
-from util.format import clean_variable_name, parse_camel_case
+from util.format import clean_variable_name
 from util.pokemon_set import PokemonSet
 
 
@@ -59,7 +59,7 @@ def main():
             for s in strs[1:]:
                 if listing > len(pokemon_sets):
                     pokemon_sets.append(PokemonSet())
-                pokemon_sets[listing - 1].__dict__[listing_type] = parse_camel_case(s)
+                pokemon_sets[listing - 1].__dict__[listing_type] = s
                 listing += 1
         else:
             if listing:
@@ -68,7 +68,7 @@ def main():
                 for s in strs:
                     if listing > len(pokemon_sets):
                         pokemon_sets.append(PokemonSet())
-                    pokemon_sets[listing - 1].__dict__[listing_type] = parse_camel_case(s)
+                    pokemon_sets[listing - 1].__dict__[listing_type] = s
                     listing += 1
             else:
                 md += f"{line}\n"
