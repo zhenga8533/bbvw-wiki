@@ -3,6 +3,44 @@ from util.format import remove_special_characters
 import json
 
 
+def fetch_pokemon_sprite(pokemon_id):
+    pokemon_data = json.loads(load(f"data/{pokemon_id}.json") or "{}")
+    pokemon_sprite = (
+        pokemon_data["sprites"]["versions"]["generation-v"]["black-white"]["animated"]["front_default"]
+        if pokemon_data != {}
+        else ""
+    )
+
+    return f"![{pokemon_id}]({pokemon_sprite})"
+
+
+def parse_special_encounter(data):
+    lines = data.strip().split("\n")
+    pokemon, level = lines[0].split(", ")
+    location = ",<br>".join(lines[1].split(", "))
+    encounter_id = "Set"
+    chance = "–"
+    if len(lines) > 2:
+        encounter_data = lines[2].split(", ")
+        encounter_id = "_".join(encounter_data[0:-1]).replace(" ", "_").lower()
+        chance = encounter_data[-1]
+    pokemon_id = remove_special_characters(pokemon).replace(" ", "-").lower()
+
+    md = "| Sprite | Pokémon | Level | Encounter Type | Location | Chance |\n| :---: | --- | --- | :---: | --- | --- |\n"
+    md += f"| {fetch_pokemon_sprite(pokemon_id)} "
+    md += f"| {pokemon} "
+    md += f"| {level} "
+    if encounter_id == "Set":
+        md += f"| {encounter_id} "
+    else:
+        md += f"| ![{encounter_id}](../assets/encounter_types/{encounter_id}.png){{: style='max-width: 24px;' }} "
+    md += f"| {location} "
+    md += f"| {chance} "
+    md += "|\n"
+
+    return md
+
+
 def main():
     content = load("files/Wild Pokemon.txt")
 
@@ -11,6 +49,8 @@ def main():
     md = ""
 
     locations = []
+    encounter_header = ""
+    encounter_data = ""
     special_encounter = False
 
     curr_location = None
@@ -24,6 +64,10 @@ def main():
         if line == "" or line.startswith("="):
             if special_encounter and not last_line.endswith("Encounter"):
                 md += "```\n\n"
+
+                # Parse special encounter data
+                location_md += encounter_header
+                location_md += parse_special_encounter(encounter_data)
                 special_encounter = False
         elif last_line.startswith("="):
             md += f"---\n\n## {line}\n\n"
@@ -39,7 +83,7 @@ def main():
 
             md += f"{encounter_type}\n\n"
             md += f"```\n"
-            location_md = location_md.rstrip(location_header) + f"\n\n### {encounter_type}\n\n"
+            location_md = location_md.rstrip(location_header) + f"\n\n### {encounter_type}\n"
 
             if not location_md.endswith(location_header):
                 location_md += f"\n{location_header}"
@@ -53,15 +97,9 @@ def main():
 
                 # Add data to wild encounter md
                 pokemon_id = remove_special_characters(pokemon).replace(" ", "-").lower()
-                pokemon_data = json.loads(load(f"data/{pokemon_id}.json") or "{}")
-                pokemon_sprite = (
-                    pokemon_data["sprites"]["versions"]["generation-v"]["black-white"]["animated"]["front_default"]
-                    if pokemon_data != {}
-                    else ""
-                )
                 encounter_id = remove_special_characters(encounter_type).replace(" ", "_").lower()
 
-                location_md += f"| ![{pokemon}]({pokemon_sprite}) "
+                location_md += f"| {fetch_pokemon_sprite(pokemon_id)} "
                 location_md += f"| [{pokemon}](../pokemon/{pokemon_id}.md/) "
                 location_md += f"| ![{encounter_type}](../assets/encounter_types/{encounter_id}.png){{: style='max-width: 24px;' }} "
                 location_md += f"| {chance} |\n"
@@ -69,13 +107,22 @@ def main():
             md += "```\n\n"
         elif line.endswith("Encounter"):
             md += line + "\n\n```\n"
+            encounter_header = f"\n---\n\n## {line}\n\n"
+            encounter_data = ""
             special_encounter = True
         elif line.startswith("* "):
             md += "```\n\n"
-            special_encounter = False
             md += f"<sub><sup>_{line[2:]}_</sup></sub>\n\n"
+
+            if special_encounter:
+                special_encounter = False
+                location_md += encounter_header
+                location_md += parse_special_encounter(encounter_data)
+                encounter_data = ""
         elif special_encounter:
-            md += f"{line.rstrip(".")}\n"
+            line = line.rstrip(".") + "\n"
+            encounter_data += line
+            md += line
         elif " – " in line:
             md += f"#### <u>{line}</u>\n\n"
 

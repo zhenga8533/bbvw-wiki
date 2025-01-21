@@ -111,7 +111,7 @@ Fish, Special: Poliwhirl (95%), Politoed (5%)
 
 Legendary Encounter
 
-Virizion. Level 56
+Virizion, Level 56
 Rumination Field
 ==================================================================
 Liberty Garden
@@ -186,21 +186,21 @@ Legendary Encounter
 
 Regirock, Level 50
 Relic Castle, B5F
-Sand, 1%
+Deep Sand, 1%
 * The Relic Castle is a place with many ancient secrets sleeping beneath its depths. The arrival of Team Plasma has made two particular members of a trio wake up… but you’ll be lucky to bump into them. 
 
 Legendary Encounter
 
 Registeel, Level 50
 Relic Castle, B5F
-Sand, 1%
+Deep Sand, 1%
 * The ancient, sandy area is also enjoyed by the tough Registeel, but despite its size, it’s still rare to make contact with it. Why? Who knows; blame it on their legendary powers.
 
 Legendary Encounter
 
 Regigigas, Level 70
 Relic Castle, Volcarona Room
-Floor, 1%
+Deep Sand, 1%
 * It’s of little surprise that the king would appear in the same area as the majority of his subjects. The deepest, most valuable room in the castle houses this beast.
 
 Special Encounter
@@ -548,8 +548,15 @@ Grass, Special: Audino (100%)
 
 Legendary Encounter
 
-Tornadus, Level 40 (Volt White) / Thundurus, Level 40 (Blaze Black)
-Route 10, Main Route
+Thundurus, Level 40
+Route 10, Main Route, Blaze Black
+Grass, Shaking, 1%
+* While one wreaks havoc with the weather along Unova, the other will await you patiently in Route 10… if you can find it. Luckily, this one won’t run. Don’t let its low level fool you; it can still be quite difficult to capture.
+
+Legendary Encounter
+
+Tornadus, Level 40
+Route 10, Main Route, Volt White
 Grass, Shaking, 1%
 * While one wreaks havoc with the weather along Unova, the other will await you patiently in Route 10… if you can find it. Luckily, this one won’t run. Don’t let its low level fool you; it can still be quite difficult to capture.
 
@@ -605,7 +612,7 @@ Rocky Grass, 1%.
 
 Legendary Encounter
 
-Heatran. Level 60
+Heatran, Level 60
 Victory Road, Trial Chamber
 Cave, Normal, 1%
 * Heatran also enjoys the mountainous area, and has appeared to visit his old friend Terrakion. You might run into him if you storm the same room.
@@ -615,9 +622,14 @@ N’s Castle
 
 
 Legendary Encounter
-Reshiram (Blaze Black) / Zekrom (Volt White)
-Level 70
-N’s Castle
+
+Reshiram, Level 70
+N’s Castle, Blaze Black
+
+Legendary Encounter
+
+Zekrom, Level 70
+N’s Castle, Volt White
 ==================================================================
 Route 11
 
@@ -742,8 +754,16 @@ Grass, Doubles, 1%
 * Giratina, the third dragon of Sinnoh, also makes an appearance. Though he intends to see the Celestial Tower, the Giant Chasm is an ideal place for rest.
 
 Legendary Encounter
-Reshiram, Level 70 (Volt White) / Zekrom, Level 70 (Blaze Black)
-Giant Chasm, Inside Plains
+
+Zekrom, Level 70
+Giant Chasm, Inside Plains, Blaze Black
+Grass, Doubles, 1%
+* The remaining Tao dragon also appears, having split off from N and returning to greet the third member of its trio. You might be able to find it, if you’re lucky…
+
+Legendary Encounter
+
+Reshiram, Level 70
+Giant Chasm, Inside Plains, Volt White
 Grass, Doubles, 1%
 * The remaining Tao dragon also appears, having split off from N and returning to greet the third member of its trio. You might be able to find it, if you’re lucky…
 

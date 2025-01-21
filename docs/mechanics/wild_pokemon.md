@@ -108,7 +108,7 @@ Grass, Special
 
 ```
 1. Audino (60%)
-2.  Skitty (10%)
+2. Skitty (10%)
 3. Nincada (10%)
 4. Butterfree (5%)
 5. Beedrill (5%)
@@ -162,8 +162,8 @@ Grass, Normal
 6. Ralts (10%)
 7. Clefairy (5%)
 8. Jigglypuff (5%)
-9. Nidoran♂ (5%)
-10. Nidoran♀ (5%)
+9. Nidoran M (5%)
+10. Nidoran F (5%)
 ```
 
 Grass, Doubles
@@ -515,7 +515,7 @@ Fish, Special
 Legendary Encounter
 
 ```
-Virizion. Level 56
+Virizion, Level 56
 Rumination Field
 ```
 
@@ -1688,7 +1688,7 @@ Puddle, Normal
 4. Gulpin (10%)
 5. Koffing (10%)
 6. Grimer (10%)
-7. Gastrodon-E (5%)
+7. Gastrodon (5%)
 8. Quagsire (5%)
 9. Toxicroak (4%)
 10. Swalot (4%)
@@ -1734,7 +1734,7 @@ Puddle, Normal
 ```
 1. Quagsire (20%)
 2. Stunfisk (20%)
-3. Gastrodon-E (10%)
+3. Gastrodon (10%)
 4. Toxicroak (10%)
 5. Swalot (10%)
 6. Weezing (10%)
@@ -2222,7 +2222,7 @@ Rocky Grass, 1%
 Legendary Encounter
 
 ```
-Heatran. Level 60
+Heatran, Level 60
 Victory Road, Trial Chamber
 Cave, Normal, 1%
 ```
@@ -2252,7 +2252,7 @@ Grass, Normal
 2. Bisharp (20%)
 3. Mandibuzz (10%)
 4. Braviary (10%)
-5. Gligar (10%%)
+5. Gligar (10%),)
 ```
 
 Marowak (10%), Purugly (10%), Skuntank (10%)
@@ -2409,7 +2409,7 @@ Grass, Normal
 2. Combee (20%)
 3. Sunkern (10%)
 4. Pinsir (10%)
-5. Heracross (10%%)
+5. Heracross (10%),)
 ```
 
 Scyther (10%), Rapidash (10%), Zebstrika (10%)
@@ -3157,3 +3157,4 @@ Cave, Normal, 1%
 ```
 
 <sub><sup>_Only those who reach the very bottom of the most challenging cave in Unova are able to have a chance of seeing the god of all Pokemon. Should you be lucky to come in contact with it, don’t underestimate its power._</sup></sub>
+
