@@ -32,6 +32,7 @@ markdown_extensions:
 nav:
   - Getting Started:
       - Home: index.md
+      - Changelog: getting_started/changelog.md
       - Download Links: getting_started/download_links.md
       - Patching Guide: getting_started/patching_guide.md
   - Mechanics:
@@ -868,8 +869,7 @@ nav:
           - Kyurem White: pokemon/kyurem-white.md
           - Keldeo Resolute: pokemon/keldeo-resolute.md
           - Meloetta Pirouette: pokemon/meloetta-pirouette.md
-  - Wild Pokémon:
-      - Placeholder: index.md
+  - Wild Encounters:
       - Route 1: wild_pokemon/route_1.md
       - Route 2: wild_pokemon/route_2.md
       - Striaton City: wild_pokemon/striaton_city.md
