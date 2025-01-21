@@ -49,6 +49,13 @@ def main():
         else:
             md += line + "\n\n"
 
+    # Generate nav for mkdocs.yml
+    nav = ""
+
+    for location in locations:
+        nav += f"      - {location}: wild_pokemon/{location.lower().replace(' ', '_')}.md\n"
+
+    save("output/wild_pokemon_nav.md", nav.rstrip())
     save("output/wild_pokemon.md", md)
 
 
