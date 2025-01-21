@@ -1,4 +1,5 @@
 from util.file import load, save
+from util.format import format_animated_sprite, format_id
 import glob
 import json
 import re
@@ -23,8 +24,11 @@ def main():
                 md += "```\n\n"
                 listing = False
         elif line.startswith("#"):
-            md += f"**{line}**\n\n```\n"
-            curr_pokemon = line.split(" ")[1].replace(" ", "-").lower()
+            md += f"**{line}**\n\n"
+            num = line.split(" ")[0][1:].lstrip("0")
+            md += format_animated_sprite(num) + "\n\n```\n"
+
+            curr_pokemon = format_id(line, 1)
             listing = True
         elif line.endswith("Pokémon"):
             md += f"---\n\n## {line}\n\n"
@@ -45,10 +49,13 @@ def main():
                 match = re.match(r"• (.+) is now (\d+) power\.", line)
                 if match:
                     move_name, power = match.groups()
-                    move_name = move_name.replace(" ", "-").lower()
-                    move_data = json.loads(load(f"moves/{move_name}.json"))
-                    move_data["power"] = int(power)
-                    save(f"moves/{move_name}.json", json.dumps(move_data, indent=4))
+                    move_name = format_id(move_name)
+                    try:
+                        move_data = json.loads(load(f"moves/{move_name}.json"))
+                        move_data["power"] = int(power)
+                        save(f"moves/{move_name}.json", json.dumps(move_data, indent=4))
+                    except:
+                        continue
 
     # Adjust current moveset
     for key in move_changes:

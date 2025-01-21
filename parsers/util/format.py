@@ -37,7 +37,7 @@ def format_animated_sprite(pokemon_num: str) -> str:
     return gif_link
 
 
-def format_pokemon_id(pokemon_name: str, start_index: int = 0) -> str:
+def format_id(pokemon_name: str, start_index: int = 0) -> str:
     """
     Format a Pokémon name to a valid identifier.
 

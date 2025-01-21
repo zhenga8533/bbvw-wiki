@@ -1,5 +1,5 @@
 from util.file import load, save
-from util.format import format_animated_sprite, format_pokemon_id
+from util.format import format_animated_sprite, format_id
 import glob
 import json
 
@@ -61,7 +61,7 @@ def main():
 
     # Update pokemon data
     for key in pokemon_changes:
-        pokemon = [format_pokemon_id(p) for p in key.split(", ")]
+        pokemon = [format_id(p, 1) for p in key.split(", ")]
         lines = pokemon_changes[key]
 
         # Parse new items

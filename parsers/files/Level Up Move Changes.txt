@@ -380,12 +380,12 @@ Kanto Pokémon
 + Level 17 - Signal Beam
 
 
-#052 Meowth, 
+#052 Meowth
 + Level 12 - Hypnosis
 + Level 20 - Secret Power
 + Level 28 - Foul Play
 
-#052 #053 Persian
+#053 Persian
 + Level 1 - Icy Wind
 + Level 1 - Water Pulse
 + Level 12 - Hypnosis

@@ -65,12 +65,16 @@
 
 **#001 Bulbasaur**
 
+![1](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif)&nbsp;
+
 ```
 + Level 29 - Nature Power
 + Level 41 - Power Whip
 ```
 
 **#002 Ivysaur**
+
+![2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/2.gif)&nbsp;
 
 ```
 + Level 33 - Nature Power
@@ -79,6 +83,8 @@
 ```
 
 **#003 Venusaur**
+
+![3](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/3.gif)&nbsp;
 
 ```
 + Level 1 - Ancient Power
@@ -89,17 +95,23 @@
 
 **#004 Charmander**
 
+![4](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/4.gif)&nbsp;
+
 ```
 + Level 50 - Belly Drum
 ```
 
 **#005 Charmeleon**
 
+![5](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/5.gif)&nbsp;
+
 ```
 + Level 61 - Belly Drum
 ```
 
 **#006 Charizard**
+
+![6](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif)&nbsp;
 
 ```
 + Level 1 - Crunch
@@ -112,6 +124,8 @@
 
 **#007 Squirtle**
 
+![7](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/7.gif)&nbsp;
+
 ```
 + Level 31 - Zen Headbutt
 + Level 43 - Water Spout
@@ -119,6 +133,8 @@
 ```
 
 **#008 Wartortle**
+
+![8](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/8.gif)&nbsp;
 
 ```
 + Level 16 - Aqua Jet
@@ -128,6 +144,8 @@
 ```
 
 **#009 Blastoise**
+
+![9](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/9.gif)&nbsp;
 
 ```
 + Level 1 - Zap Cannon
@@ -139,6 +157,8 @@
 
 **#010 Caterpie**
 
+![10](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/10.gif)&nbsp;
+
 ```
 = Level 1 - Bug Bite
 + Level 1 - Snore
@@ -146,6 +166,8 @@
 ```
 
 **#012 Butterfree**
+
+![12](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/12.gif)&nbsp;
 
 ```
 + Level 1 - Struggle Bug
@@ -158,12 +180,16 @@
 
 **#013 Weedle**
 
+![13](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/13.gif)&nbsp;
+
 ```
 = Level 1 - Bug Bite
 + Level 6 - Poison Tail
 ```
 
 **#015 Beedrill**
+
+![15](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/15.gif)&nbsp;
 
 ```
 + Level 1 - Bug Bite
@@ -175,6 +201,8 @@
 ```
 
 **#016 Pidgey**
+
+![16](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/16.gif)&nbsp;
 
 ```
 = Level 1 - Gust
@@ -190,6 +218,8 @@
 
 **#017 Pidgeotto**
 
+![17](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/17.gif)&nbsp;
+
 ```
 + Level 1 - Razor Wind
 - Level 9 - Pluck
@@ -203,6 +233,8 @@
 ```
 
 **#018 Pidgeot**
+
+![18](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/18.gif)&nbsp;
 
 ```
 + Level 1 - Razor Wind
@@ -218,6 +250,8 @@
 
 **#019 Rattata**
 
+![19](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/19.gif)&nbsp;
+
 ```
 = Level 1 - Bite
 + Level 10 - Flame Wheel
@@ -228,6 +262,8 @@
 ```
 
 **#020 Raticate**
+
+![20](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/20.gif)&nbsp;
 
 ```
 = Level 1 - Bite
@@ -244,6 +280,8 @@
 
 **#021 Spearow**
 
+![21](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/21.gif)&nbsp;
+
 ```
 + Level 1 - Sonic Boom
 = Level 1 - Pursuit
@@ -252,6 +290,8 @@
 
 **#022 Fearow**
 
+![22](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/22.gif)&nbsp;
+
 ```
 = Level 1 - Pursuit
 + Level 13 - Steel Wing
@@ -259,17 +299,23 @@
 
 **#023 Ekans**
 
+![23](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/23.gif)&nbsp;
+
 ```
 + Level 22 - Poison Tail
 ```
 
 **#024 Arbok**
 
+![24](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/24.gif)&nbsp;
+
 ```
 + Level 23 - Poison Tail
 ```
 
 **#172 Pichu**
+
+![172](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/172.gif)&nbsp;
 
 ```
 + Level 23 - Wish
@@ -280,6 +326,8 @@
 
 **#025 Pikachu**
 
+![25](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif)&nbsp;
+
 ```
 + Level 32 - Charge
 + Level 54 - Volt Tackle
@@ -287,11 +335,15 @@
 
 **#026 Raichu**
 
+![26](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/26.gif)&nbsp;
+
 ```
 + Level 54 - Volt Tackle
 ```
 
 **#027 Sandshrew**
+
+![27](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/27.gif)&nbsp;
 
 ```
 + Level 17 - Night Slash
@@ -301,6 +353,8 @@
 
 **#028 Sandslash**
 
+![28](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/28.gif)&nbsp;
+
 ```
 + Level 17 - Night Slash
 + Level 25 - Metal Claw
@@ -308,6 +362,8 @@
 ```
 
 **#029 Nidoran-F**
+
+![29](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/29.gif)&nbsp;
 
 ```
 + Level 1 - Moonlight
@@ -318,11 +374,15 @@
 
 **#030 Nidorina**
 
+![30](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/30.gif)&nbsp;
+
 ```
 + Level 31 - Super Fang
 ```
 
 **#032 Nidoran-M**
+
+![32](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/32.gif)&nbsp;
 
 ```
 + Level 1 - Morning Sun
@@ -333,11 +393,15 @@
 
 **#033 Nidorino**
 
+![33](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/33.gif)&nbsp;
+
 ```
 + Level 31 - Super Fang
 ```
 
 **#173 Cleffa**
+
+![173](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/173.gif)&nbsp;
 
 ```
 + Level 1 - Metronome
@@ -348,12 +412,16 @@
 
 **#035 Clefairy**
 
+![35](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/35.gif)&nbsp;
+
 ```
 = Level 1 - Metronome
 + Level 34 - Aromatherapy
 ```
 
 **#036 Clefable**
+
+![36](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/36.gif)&nbsp;
 
 ```
 + Level 23 - Fire Punch
@@ -365,6 +433,8 @@
 
 **#037 Vulpix**
 
+![37](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/37.gif)&nbsp;
+
 ```
 = Level 1 - Fire Spin
 = Level 14 - Flame Burst
@@ -373,6 +443,8 @@
 ```
 
 **#038 Ninetales**
+
+![38](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/38.gif)&nbsp;
 
 ```
 + Level 23 - Ominous Wind
@@ -384,6 +456,8 @@
 
 **#174 Igglybuff**
 
+![174](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/174.gif)&nbsp;
+
 ```
 + Level 1 - Metronome
 + Level 21 - Fake Tears
@@ -393,6 +467,8 @@
 
 **#039 Jigglypuff**
 
+![39](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/39.gif)&nbsp;
+
 ```
 + Level 1 - Metronome
 + Level 19 - Perish Song
@@ -401,6 +477,8 @@
 
 **#040 Wigglytuff**
 
+![40](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/40.gif)&nbsp;
+
 ```
 + Level 23 - Gravity
 + Level 35 - Magic Coat
@@ -408,6 +486,8 @@
 ```
 
 **#041 Zubat**
+
+![41](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/41.gif)&nbsp;
 
 ```
 + Level 1 - Flail
@@ -420,6 +500,8 @@
 
 **#042 Golbat**
 
+![42](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/42.gif)&nbsp;
+
 ```
 = Level 16 - Wing Attack
 + Level 18 - Hypnosis
@@ -429,6 +511,8 @@
 ```
 
 **#169 Crobat**
+
+![169](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/169.gif)&nbsp;
 
 ```
 + Level 1 - Heat Wave
@@ -441,6 +525,8 @@
 
 **#043 Oddish**
 
+![43](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/43.gif)&nbsp;
+
 ```
 + Level 1 - Leech Seed
 + Level 11 - Razor Leaf
@@ -449,6 +535,8 @@
 ```
 
 **#044 Gloom**
+
+![44](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/44.gif)&nbsp;
 
 ```
 + Level 11 - Razor Leaf
@@ -459,11 +547,15 @@
 
 **#045 Vileplume**
 
+![45](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/45.gif)&nbsp;
+
 ```
 + Level 38 - Earth Power
 ```
 
 **#182 Bellossom**
+
+![182](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/182.gif)&nbsp;
 
 ```
 + Level 1 - Petal Dance
@@ -472,6 +564,8 @@
 ```
 
 **#046 Paras**
+
+![46](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/46.gif)&nbsp;
 
 ```
 + Level 1 - Synthesis
@@ -483,6 +577,8 @@
 
 **#047 Parasect**
 
+![47](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/47.gif)&nbsp;
+
 ```
 = Level 1 - Fury Cutter
 + Level 17 - Bug Bite
@@ -492,6 +588,8 @@
 
 **#048 Venonat**
 
+![48](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/48.gif)&nbsp;
+
 ```
 = Level 1 - Leech Life
 + Level 17 - Signal Beam
@@ -499,12 +597,16 @@
 
 **#049 Venomoth**
 
+![49](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/49.gif)&nbsp;
+
 ```
 = Level 1 - Leech Life
 + Level 17 - Signal Beam
 ```
 
-**#052 Meowth,**
+**#052 Meowth**
+
+![52](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/52.gif)&nbsp;
 
 ```
 + Level 12 - Hypnosis
@@ -512,7 +614,9 @@
 + Level 28 - Foul Play
 ```
 
-**#052 #053 Persian**
+**#053 Persian**
+
+![53](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/53.gif)&nbsp;
 
 ```
 + Level 1 - Icy Wind
@@ -524,6 +628,8 @@
 
 **#054 Psyduck**
 
+![54](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/54.gif)&nbsp;
+
 ```
 + Level 1 - Petal Dance
 + Level 1 - Tri Attack
@@ -533,6 +639,8 @@
 
 **#055 Golduck**
 
+![55](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/55.gif)&nbsp;
+
 ```
 + Level 12 - Hypnosis
 + Level 25 - Psybeam
@@ -540,6 +648,8 @@
 ```
 
 **#057 Primeape**
+
+![57](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/57.gif)&nbsp;
 
 ```
 + Level 28 - Fire Punch
@@ -549,11 +659,15 @@
 
 **#058 Growlithe**
 
+![58](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/58.gif)&nbsp;
+
 ```
 + Level 11 - Double Kick
 ```
 
 **#059 Arcanine**
+
+![59](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/59.gif)&nbsp;
 
 ```
 + Level 1 - Dragon Pulse
@@ -565,6 +679,8 @@
 
 **#060 Poliwag**
 
+![60](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/60.gif)&nbsp;
+
 ```
 + Level 1 - Growth
 + Level 1 - Sweet Kiss
@@ -574,12 +690,16 @@
 
 **#061 Poliwhirl**
 
+![61](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/61.gif)&nbsp;
+
 ```
 + Level 13 - Mud Shot
 + Level 25 - Metronome
 ```
 
 **#062 Poliwrath**
+
+![62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/62.gif)&nbsp;
 
 ```
 + Level 1 - Vacuum Wave
@@ -590,6 +710,8 @@
 
 **#063 Abra**
 
+![63](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/63.gif)&nbsp;
+
 ```
 + Level 1 - Foresight
 + Level 1 - Metronome
@@ -597,12 +719,16 @@
 
 **#064 Kadabra**
 
+![64](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/64.gif)&nbsp;
+
 ```
 + Level 20 - Shock Wave
 + Level 32 - Gravity
 ```
 
 **#065 Alakazam**
+
+![65](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/65.gif)&nbsp;
 
 ```
 + Level 1 - Gravity
@@ -613,6 +739,8 @@
 
 **#066 Machop**
 
+![66](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/66.gif)&nbsp;
+
 ```
 + Level 1 - Thrash
 + Level 16 - Metronome
@@ -621,12 +749,16 @@
 
 **#067 Machoke**
 
+![67](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/67.gif)&nbsp;
+
 ```
 + Level 16 - Metronome
 + Level 59 - Close Combat
 ```
 
 **#068 Machamp**
+
+![68](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/68.gif)&nbsp;
 
 ```
 + Level 1 - Fire Punch
@@ -639,6 +771,8 @@
 
 **#069 Bellsprout**
 
+![69](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/69.gif)&nbsp;
+
 ```
 + Level 3 - Sweet Kiss
 + Level 5 - Lovely Kiss
@@ -650,6 +784,8 @@
 
 **#070 Weepinbell**
 
+![70](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/70.gif)&nbsp;
+
 ```
 + Level 9 - Leech Life
 + Level 19 - Razor Leaf
@@ -659,6 +795,8 @@
 
 **#071 Victreebel**
 
+![71](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/71.gif)&nbsp;
+
 ```
 + Level 1 - Weather Ball
 + Level 17 - Sucker Punch
@@ -667,6 +805,8 @@
 
 **#072 Tentacool**
 
+![72](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/72.gif)&nbsp;
+
 ```
 + Level 1 - Confuse Ray
 + Level 59 - Acupressure
@@ -674,11 +814,15 @@
 
 **#073 Tentacruel**
 
+![73](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/73.gif)&nbsp;
+
 ```
 + Level 66 - Acupressure
 ```
 
 **#074 Geodude**
+
+![74](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/74.gif)&nbsp;
 
 ```
 + Level 1 - Rapid Spin
@@ -686,11 +830,15 @@
 
 **#075 Graveler**
 
+![75](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/75.gif)&nbsp;
+
 ```
 + Level 1 - Rapid Spin
 ```
 
 **#076 Golem**
+
+![76](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/76.gif)&nbsp;
 
 ```
 + Level 1 - Rapid Spin
@@ -703,6 +851,8 @@
 
 **#077 Ponyta**
 
+![77](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/77.gif)&nbsp;
+
 ```
 + Level 1 - Baton Pass
 + Level 23 - Double Kick
@@ -711,6 +861,8 @@
 ```
 
 **#078 Rapidash**
+
+![78](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/78.gif)&nbsp;
 
 ```
 + Level 1 - Baton Pass
@@ -723,17 +875,23 @@
 
 **#079 Slowpoke**
 
+![79](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/79.gif)&nbsp;
+
 ```
 + Level 21 - Brine
 ```
 
 **#080 Slowbro**
 
+![80](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/80.gif)&nbsp;
+
 ```
 + Level 21 - Brine
 ```
 
 **#199 Slowking**
+
+![199](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/199.gif)&nbsp;
 
 ```
 + Level 21 - Brine
@@ -742,12 +900,16 @@
 
 **#081 Magnemite**
 
+![81](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/81.gif)&nbsp;
+
 ```
 + Level 1 - Agility
 + Level 25 - Signal Beam
 ```
 
 **#082 Magneton**
+
+![82](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/82.gif)&nbsp;
 
 ```
 + Level 25 - Signal Beam
@@ -756,11 +918,15 @@
 
 **#462 Magnezone**
 
+![462](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/462.gif)&nbsp;
+
 ```
 + Level 25 - Signal Beam
 ```
 
 **#083 Farfetch'd**
+
+![83](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/83.gif)&nbsp;
 
 ```
 + Level 16 - Revenge
@@ -771,12 +937,16 @@
 
 **#084 Doduo**
 
+![84](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/84.gif)&nbsp;
+
 ```
 + Level 1 - Low Kick
 + Level 54 - Brave Bird
 ```
 
 **#085 Dodrio**
+
+![85](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/85.gif)&nbsp;
 
 ```
 + Level 31 - Drill Run
@@ -785,12 +955,16 @@
 
 **#088 Grimer**
 
+![88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/88.gif)&nbsp;
+
 ```
 + Level 15 - Shadow Sneak
 + Level 25 - Shadow Punch
 ```
 
 **#089 Muk**
+
+![89](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/89.gif)&nbsp;
 
 ```
 + Level 1 - Curse
@@ -800,12 +974,16 @@
 
 **#090 Shellder**
 
+![90](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/90.gif)&nbsp;
+
 ```
 = Level 7 - Supersonic
 + Level 10 - Bubble Beam
 ```
 
 **#091 Cloyster**
+
+![91](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/91.gif)&nbsp;
 
 ```
 + Level 1 - Rock Blast
@@ -815,6 +993,8 @@
 
 **#092 Gastly**
 
+![92](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/92.gif)&nbsp;
+
 ```
 + Level 17 - Ominous Wind
 + Level 24 - Clear Smog
@@ -823,6 +1003,8 @@
 
 **#093 Haunter**
 
+![93](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/93.gif)&nbsp;
+
 ```
 + Level 17 - Ominous Wind
 + Level 24 - Clear Smog
@@ -830,6 +1012,8 @@
 ```
 
 **#094 Gengar**
+
+![94](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif)&nbsp;
 
 ```
 + Level 1 - Metronome
@@ -841,17 +1025,23 @@
 
 **#095 Onix**
 
+![95](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/95.gif)&nbsp;
+
 ```
 + Level 3 - Coil
 ```
 
 **#208 Steelix**
 
+![208](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/208.gif)&nbsp;
+
 ```
 + Level 3 - Coil
 ```
 
 **#096 Drowzee**
+
+![96](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/96.gif)&nbsp;
 
 ```
 + Level 1 - Amnesia
@@ -862,6 +1052,8 @@
 
 **#097 Hypno**
 
+![97](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/97.gif)&nbsp;
+
 ```
 = Level 13 - Dream Eater
 + Level 19 - Drain Punch
@@ -870,17 +1062,23 @@
 
 **#098 Krabby**
 
+![98](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/98.gif)&nbsp;
+
 ```
 + Level 49 - Superpower
 ```
 
 **#099 Kingler**
 
+![99](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/99.gif)&nbsp;
+
 ```
 + Level 70 - Superpower
 ```
 
 **#100 Voltorb**
+
+![100](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/100.gif)&nbsp;
 
 ```
 + Level 1 - Agility
@@ -889,11 +1087,15 @@
 
 **#101 Electrode**
 
+![101](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/101.gif)&nbsp;
+
 ```
 + Level 24 - Signal Beam
 ```
 
 **#102 Exeggcute**
+
+![102](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/102.gif)&nbsp;
 
 ```
 + Level 1 - Sweet Scent
@@ -904,6 +1106,8 @@
 
 **#103 Exeggutor**
 
+![103](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/103.gif)&nbsp;
+
 ```
 + Level 1 - Nature Power
 + Level 1 - Low Kick
@@ -911,12 +1115,16 @@
 
 **#104 Cubone**
 
+![104](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/104.gif)&nbsp;
+
 ```
 + Level 51 - Belly Drum
 + Level 55 - Perish Song
 ```
 
 **#105 Marowak**
+
+![105](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/105.gif)&nbsp;
 
 ```
 + Level 1 - Sing
@@ -928,17 +1136,23 @@
 
 **#106 Hitmonlee**
 
+![106](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/106.gif)&nbsp;
+
 ```
 + Level 65 - Bounce
 ```
 
 **#107 Hitmonchan**
 
+![107](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/107.gif)&nbsp;
+
 ```
 + Level 36 - Drain Punch
 ```
 
 **#108 Lickitung**
+
+![108](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/108.gif)&nbsp;
 
 ```
 + Level 61 - Belly Drum
@@ -947,12 +1161,16 @@
 
 **#463 Lickilicky**
 
+![463](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/463.gif)&nbsp;
+
 ```
 + Level 65 - Belly Drum
 + Level 69 - Hammer Arm
 ```
 
 **#109 Koffing**
+
+![109](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/109.gif)&nbsp;
 
 ```
 + Level 59 - Pain Split
@@ -962,6 +1180,8 @@
 
 **#110 Weezing**
 
+![110](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/110.gif)&nbsp;
+
 ```
 + Level 71 - Pain Split
 + Level 77 - Destiny Bond
@@ -969,6 +1189,8 @@
 ```
 
 **#111 Rhyhorn**
+
+![111](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/111.gif)&nbsp;
 
 ```
 + Level 27 - Crunch
@@ -978,6 +1200,8 @@
 
 **#112 Rhydon**
 
+![112](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/112.gif)&nbsp;
+
 ```
 + Level 1 - Superpower
 + Level 27 - Crunch
@@ -986,6 +1210,8 @@
 ```
 
 **#464 Rhyperior**
+
+![464](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/464.gif)&nbsp;
 
 ```
 + Level 1 - Fire Fang
@@ -999,6 +1225,8 @@
 
 **#440 Happiny**
 
+![440](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/440.gif)&nbsp;
+
 ```
 + Level 1 - Wish
 + Level 1 - Seismic Toss
@@ -1006,6 +1234,8 @@
 ```
 
 **#113 Chansey**
+
+![113](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/113.gif)&nbsp;
 
 ```
 + Level 1 - Sweet Scent
@@ -1016,6 +1246,8 @@
 
 **#242 Blissey**
 
+![242](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/242.gif)&nbsp;
+
 ```
 + Level 25 - Counter
 + Level 29 - Aromatherapy
@@ -1023,6 +1255,8 @@
 ```
 
 **#114 Tangela**
+
+![114](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/114.gif)&nbsp;
 
 ```
 + Level 1 - Synthesis
@@ -1032,6 +1266,8 @@
 
 **#465 Tangrowth**
 
+![465](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/465.gif)&nbsp;
+
 ```
 + Level 1 - Synthesis
 + Level 17 - Nature Power
@@ -1040,6 +1276,8 @@
 ```
 
 **#115 Kangaskhan**
+
+![115](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/115.gif)&nbsp;
 
 ```
 + Level 1 - Fire Punch
@@ -1052,6 +1290,8 @@
 
 **#116 Horsea**
 
+![116](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/116.gif)&nbsp;
+
 ```
 + Level 1 - Haze
 + Level 1 - Dragon Rage
@@ -1061,6 +1301,8 @@
 
 **#117 Seadra**
 
+![117](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/117.gif)&nbsp;
+
 ```
 + Level 1 - Dragon Rage
 + Level 21 - Octazooka
@@ -1068,6 +1310,8 @@
 ```
 
 **#230 Kingdra**
+
+![230](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/230.gif)&nbsp;
 
 ```
 + Level 1 - Dragon Rage
@@ -1078,12 +1322,16 @@
 
 **#118 Goldeen**
 
+![118](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/118.gif)&nbsp;
+
 ```
 + Level 1 - Swords Dance
 + Level 64 - Bounce
 ```
 
 **#119 Seaking**
+
+![119](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/119.gif)&nbsp;
 
 ```
 + Level 1 - Aqua Tail
@@ -1094,11 +1342,15 @@
 
 **#120 Staryu**
 
+![120](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/120.gif)&nbsp;
+
 ```
 + Level 22 - Signal Beam
 ```
 
 **#121 Starmie**
+
+![121](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/121.gif)&nbsp;
 
 ```
 + Level 1 - Twister
@@ -1108,12 +1360,16 @@
 
 **#439 Mime Jr.**
 
+![439](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/439.gif)&nbsp;
+
 ```
 + Level 13 - Hypnosis
 + Level 27 - Nasty Plot
 ```
 
 **#123 Scyther**
+
+![123](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/123.gif)&nbsp;
 
 ```
 + Level 1 - Sonic Boom
@@ -1123,6 +1379,8 @@
 
 **#212 Scizor**
 
+![212](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/212.gif)&nbsp;
+
 ```
 + Level 1 - Crabhammer
 + Level 1 - Night Slash
@@ -1131,6 +1389,8 @@
 
 **#238 Smoochum**
 
+![238](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/238.gif)&nbsp;
+
 ```
 + Level 1 - Petal Dance
 + Level 30 - Metronome
@@ -1138,6 +1398,8 @@
 ```
 
 **#124 Jynx**
+
+![124](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/124.gif)&nbsp;
 
 ```
 + Level 1 - Petal Dance
@@ -1149,6 +1411,8 @@
 
 **#239 Elekid**
 
+![239](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/239.gif)&nbsp;
+
 ```
 + Level 1 - Dizzy Punch
 + Level 30 - Pursuit
@@ -1157,12 +1421,16 @@
 
 **#125 Electabuzz**
 
+![125](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/125.gif)&nbsp;
+
 ```
 + Level 30 - Zap Cannon
 + Level 41 - Cross Chop
 ```
 
 **#466 Electivire**
+
+![466](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/466.gif)&nbsp;
 
 ```
 + Level 1 - Ice Punch
@@ -1174,6 +1442,8 @@
 
 **#240 Magby**
 
+![240](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/240.gif)&nbsp;
+
 ```
 + Level 30 - Feint Attack
 + Level 36 - Cross Chop
@@ -1181,12 +1451,16 @@
 
 **#126 Magmar**
 
+![126](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/126.gif)&nbsp;
+
 ```
 + Level 30 - Heat Wave
 + Level 41 - Cross Chop
 ```
 
 **#467 Magmortar**
+
+![467](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/467.gif)&nbsp;
 
 ```
 + Level 1 - Nasty Plot
@@ -1198,6 +1472,8 @@
 
 **#127 Pinsir**
 
+![127](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/127.gif)&nbsp;
+
 ```
 + Level 1 - Rock Throw
 + Level 57 - Close Combat
@@ -1206,6 +1482,8 @@
 ```
 
 **#128 Tauros**
+
+![128](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/128.gif)&nbsp;
 
 ```
 + Level 1 - Quick Attack
@@ -1216,6 +1494,8 @@
 
 **#129 Magikarp**
 
+![129](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/129.gif)&nbsp;
+
 ```
 + Level 1 - Bubble
 + Level 1 - Bounce
@@ -1224,12 +1504,16 @@
 
 **#130 Gyarados**
 
+![130](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/130.gif)&nbsp;
+
 ```
 + Level 50 - Crunch
 + Level 53 - Outrage
 ```
 
 **#131 Lapras**
+
+![131](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/131.gif)&nbsp;
 
 ```
 + Level 1 - Bite
@@ -1243,6 +1527,8 @@
 
 **#133 Eevee**
 
+![133](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/133.gif)&nbsp;
+
 ```
 + Level 1 - Growth
 = Level 13 - Growl
@@ -1254,13 +1540,11 @@
 + Level 43 - Wish
 = Level 48 - Last Resort
 = Level 53 - Trump Card
-= Level 58 - Nothing
-= Level 63 - Nothing
-= Level 68 - Nothing
-+ Level 73 - Nothing
 ```
 
 **#134 Vaporeon**
+
+![134](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/134.gif)&nbsp;
 
 ```
 + Level 1 - Growth
@@ -1281,11 +1565,13 @@
 
 **#135 Jolteon**
 
+![135](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/135.gif)&nbsp;
+
 ```
 + Level 1 - Growth
-= Level 13 - Thundershock
+= Level 13 - Thunder Shock
 = Level 18 - Quick Attack
-= Level 23 - Bite
++ Level 23 - Bite
 + Level 28 - Shock Wave
 = Level 33 - Pin Missile
 = Level 38 - Thunder Fang
@@ -1300,11 +1586,13 @@
 
 **#136 Flareon**
 
+![136](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/136.gif)&nbsp;
+
 ```
 + Level 1 - Growth
 = Level 13 - Ember
 = Level 18 - Quick Attack
-= Level 23 - Double Kick
++ Level 23 - Double Kick
 + Level 28 - Flame Wheel
 = Level 33 - Fire Spin
 = Level 38 - Fire Fang
@@ -1319,11 +1607,13 @@
 
 **#196 Espeon**
 
+![196](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/196.gif)&nbsp;
+
 ```
 + Level 1 - Growth
 = Level 13 - Confusion
 = Level 18 - Quick Attack
-= Level 23 - Bite
++ Level 23 - Bite
 + Level 28 - Power Gem
 = Level 33 - Psybeam
 = Level 38 - Future Sight
@@ -1338,11 +1628,13 @@
 
 **#197 Umbreon**
 
+![197](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/197.gif)&nbsp;
+
 ```
 + Level 1 - Growth
 = Level 13 - Pursuit
 = Level 18 - Quick Attack
-= Level 23 - Bite
++ Level 23 - Bite
 + Level 28 - Tickle
 = Level 33 - Feint Attack
 = Level 38 - Assurance
@@ -1356,6 +1648,8 @@
 ```
 
 **#470 Leafeon**
+
+![470](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/470.gif)&nbsp;
 
 ```
 + Level 1 - Growth
@@ -1376,6 +1670,8 @@
 
 **#471 Glaceon**
 
+![471](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/471.gif)&nbsp;
+
 ```
 + Level 1 - Growth
 = Level 13 - Icy Wind
@@ -1395,6 +1691,8 @@
 
 **#137 Porygon**
 
+![137](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/137.gif)&nbsp;
+
 ```
 + Level 1 - Transform
 + Level 1 - Barrier
@@ -1403,12 +1701,16 @@
 
 **#233 Porygon2**
 
+![233](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/233.gif)&nbsp;
+
 ```
 + Level 1 - Transform
 + Level 72 - Gravity
 ```
 
 **#474 Porygon-Z**
+
+![474](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/474.gif)&nbsp;
 
 ```
 + Level 1 - Transform
@@ -1419,12 +1721,16 @@
 
 **#138 Omanyte**
 
+![138](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/138.gif)&nbsp;
+
 ```
 + Level 40 - Power Gem
 + Level 58 - Earth Power
 ```
 
 **#139 Omastar**
+
+![139](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/139.gif)&nbsp;
 
 ```
 + Level 40 - Power Gem
@@ -1433,6 +1739,8 @@
 
 **#142 Aerodactyl**
 
+![142](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/142.gif)&nbsp;
+
 ```
 + Level 81 - Dragon Dance
 + Level 89 - Head Smash
@@ -1440,6 +1748,8 @@
 ```
 
 **#446 Munchlax**
+
+![446](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/446.gif)&nbsp;
 
 ```
 + Level 1 - Sweet Kiss
@@ -1451,6 +1761,8 @@
 
 **#143 Snorlax**
 
+![143](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif)&nbsp;
+
 ```
 + Level 1 - Gunk Shot
 + Level 1 - Seed Bomb
@@ -1461,6 +1773,8 @@
 
 **#147 Dratini**
 
+![147](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/147.gif)&nbsp;
+
 ```
 + Level 1 - Hydro Pump
 + Level 61 - Dragon Pulse
@@ -1468,6 +1782,8 @@
 ```
 
 **#148 Dragonair**
+
+![148](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/148.gif)&nbsp;
 
 ```
 + Level 1 - Hydro Pump
@@ -1477,6 +1793,8 @@
 ```
 
 **#149 Dragonite**
+
+![149](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/149.gif)&nbsp;
 
 ```
 + Level 1 - Hydro Pump
@@ -1491,6 +1809,8 @@
 
 **#152 Chikorita**
 
+![152](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/152.gif)&nbsp;
+
 ```
 + Level 9 - Stun Spore
 + Level 9 - Sleep Powder
@@ -1500,6 +1820,8 @@
 
 **#153 Bayleef**
 
+![153](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/153.gif)&nbsp;
+
 ```
 + Level 9 - Stun Spore
 + Level 9 - Sleep Powder
@@ -1508,6 +1830,8 @@
 ```
 
 **#154 Meganium**
+
+![154](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/154.gif)&nbsp;
 
 ```
 + Level 1 - Grass Whistle
@@ -1519,6 +1843,8 @@
 
 **#155 Cyndaquil**
 
+![155](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/155.gif)&nbsp;
+
 ```
 + Level 16 - Extrasensory
 + Level 52 - Nature Power
@@ -1526,12 +1852,16 @@
 
 **#156 Quilava**
 
+![156](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/156.gif)&nbsp;
+
 ```
 + Level 16 - Extrasensory
 + Level 61 - Nature Power
 ```
 
 **#157 Typhlosion**
+
+![157](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/157.gif)&nbsp;
 
 ```
 + Level 1 - Earth Power
@@ -1542,17 +1872,23 @@
 
 **#158 Totodile**
 
+![158](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/158.gif)&nbsp;
+
 ```
 + Level 54 - Dragon Dance
 ```
 
 **#159 Croconaw**
 
+![159](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/159.gif)&nbsp;
+
 ```
 + Level 64 - Dragon Dance
 ```
 
 **#160 Feraligatr**
+
+![160](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/160.gif)&nbsp;
 
 ```
 + Level 1 - Submission
@@ -1562,6 +1898,8 @@
 
 **#161 Sentret**
 
+![161](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/161.gif)&nbsp;
+
 ```
 + Level 1 - Dizzy Punch
 + Level 22 - Super Fang
@@ -1569,11 +1907,15 @@
 
 **#162 Furret**
 
+![162](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/162.gif)&nbsp;
+
 ```
 + Level 25 - Super Fang
 ```
 
 **#163 Hoothoot**
+
+![163](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/163.gif)&nbsp;
 
 ```
 + Level 1 - Night Shade
@@ -1581,6 +1923,8 @@
 ```
 
 **#164 Noctowl**
+
+![164](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/164.gif)&nbsp;
 
 ```
 + Level 1 - Ominous Wind
@@ -1590,6 +1934,8 @@
 ```
 
 **#166 Ledian**
+
+![166](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/166.gif)&nbsp;
 
 ```
 + Level 18 - Fire Punch
@@ -1601,12 +1947,16 @@
 
 **#167 Spinarak**
 
+![167](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/167.gif)&nbsp;
+
 ```
 + Level 12 - Bug Bite
 + Level 17 - Electroweb
 ```
 
 **#168 Ariados**
+
+![168](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/168.gif)&nbsp;
 
 ```
 + Level 12 - Bug Bite
@@ -1615,11 +1965,15 @@
 
 **#170 Chinchou**
 
+![170](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/170.gif)&nbsp;
+
 ```
 + Level 1 - Light Screen
 ```
 
 **#175 Togepi**
+
+![175](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/175.gif)&nbsp;
 
 ```
 + Level 1 - Extrasensory
@@ -1630,6 +1984,8 @@
 
 **#176 Togetic**
 
+![176](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/176.gif)&nbsp;
+
 ```
 + Level 1 - Extrasensory
 + Level 15 - Tri Attack
@@ -1639,6 +1995,8 @@
 
 **#468 Togekiss**
 
+![468](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/468.gif)&nbsp;
+
 ```
 + Level 1 - Heat Wave
 + Level 1 - Roost
@@ -1646,6 +2004,8 @@
 ```
 
 **#177 Natu**
+
+![177](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/177.gif)&nbsp;
 
 ```
 + Level 1 - Safeguard
@@ -1657,6 +2017,8 @@
 
 **#178 Xatu**
 
+![178](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/178.gif)&nbsp;
+
 ```
 - Level 1 - Air Cutter
 + Level 14 - Confusion
@@ -1666,6 +2028,8 @@
 
 **#179 Mareep**
 
+![179](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/179.gif)&nbsp;
+
 ```
 + Level 1 - Charge
 + Level 16 - Shock Wave
@@ -1674,6 +2038,8 @@
 
 **#180 Flaaffy**
 
+![180](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/180.gif)&nbsp;
+
 ```
 + Level 1 - Charge
 + Level 17 - Shock Wave
@@ -1681,6 +2047,8 @@
 ```
 
 **#181 Ampharos**
+
+![181](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/181.gif)&nbsp;
 
 ```
 + Level 1 - Tail Glow
@@ -1692,11 +2060,15 @@
 
 **#298 Azurill**
 
+![298](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/298.gif)&nbsp;
+
 ```
 + Level 21 - Sing
 ```
 
 **#183 Marill**
+
+![183](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/183.gif)&nbsp;
 
 ```
 + Level 1 - Dizzy Punch
@@ -1707,6 +2079,8 @@
 
 **#184 Azumarill**
 
+![184](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/184.gif)&nbsp;
+
 ```
 + Level 21 - Aqua Jet
 + Level 30 - Ice Punch
@@ -1714,6 +2088,8 @@
 ```
 
 **#185 Sudowoodo**
+
+![185](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/185.gif)&nbsp;
 
 ```
 + Level 1 - Fire Punch
@@ -1724,6 +2100,8 @@
 
 **#187 Hoppip**
 
+![187](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/187.gif)&nbsp;
+
 ```
 + Level 1 - Agility
 + Level 52 - Cotton Guard
@@ -1731,11 +2109,15 @@
 
 **#188 Skiploom**
 
+![188](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/188.gif)&nbsp;
+
 ```
 + Level 64 - Cotton Guard
 ```
 
 **#189 Jumpluff**
+
+![189](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/189.gif)&nbsp;
 
 ```
 + Level 74 - Cotton Guard
@@ -1744,11 +2126,15 @@
 
 **#190 Aipom**
 
+![190](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/190.gif)&nbsp;
+
 ```
 + Level 47 - Fake Out
 ```
 
 **#424 Ambipom**
+
+![424](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/424.gif)&nbsp;
 
 ```
 + Level 1 - Fire Punch
@@ -1758,6 +2144,8 @@
 ```
 
 **#191 Sunkern**
+
+![191](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/191.gif)&nbsp;
 
 ```
 = Level 4 - Mega Drain
@@ -1778,6 +2166,8 @@
 
 **#192 Sunflora**
 
+![192](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/192.gif)&nbsp;
+
 ```
 = Level 4 - Mega Drain
 = Level 7 - Ingrain
@@ -1797,6 +2187,8 @@
 
 **#193 Yanma**
 
+![193](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/193.gif)&nbsp;
+
 ```
 + Level 1 - Steel Wing
 + Level 20 - Air Cutter
@@ -1806,6 +2198,8 @@
 
 **#469 Yanmega**
 
+![469](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/469.gif)&nbsp;
+
 ```
 + Level 20 - Air Cutter
 + Level 25 - Signal Beam
@@ -1813,6 +2207,8 @@
 ```
 
 **#194 Wooper**
+
+![194](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/194.gif)&nbsp;
 
 ```
 + Level 1 - Belly Drum
@@ -1823,6 +2219,8 @@
 
 **#195 Quagsire**
 
+![195](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/195.gif)&nbsp;
+
 ```
 + Level 1 - Body Slam
 + Level 12 - Acid Spray
@@ -1832,6 +2230,8 @@
 
 **#198 Murkrow**
 
+![198](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/198.gif)&nbsp;
+
 ```
 + Level 1 - Beat Up
 + Level 35 - Drill Peck
@@ -1839,6 +2239,8 @@
 ```
 
 **#430 Honchkrow**
+
+![430](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/430.gif)&nbsp;
 
 ```
 + Level 1 - Heat Wave
@@ -1848,6 +2250,8 @@
 
 **#200 Misdreavus**
 
+![200](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/200.gif)&nbsp;
+
 ```
 + Level 60 - Nasty Plot
 + Level 64 - Hypnosis
@@ -1855,6 +2259,8 @@
 ```
 
 **#429 Mismagius**
+
+![429](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/429.gif)&nbsp;
 
 ```
 + Level 1 - Inferno
@@ -1867,6 +2273,8 @@
 
 **#201 Unown**
 
+![201](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/201.gif)&nbsp;
+
 ```
 + Level 11 - Secret Power
 + Level 21 - Nature Power
@@ -1878,11 +2286,15 @@
 
 **#202 Wobbuffet**
 
+![202](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/202.gif)&nbsp;
+
 ```
 + Level 15 - Mimic
 ```
 
 **#203 Girafarig**
+
+![203](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/203.gif)&nbsp;
 
 ```
 + Level 51 - Nasty Plot
@@ -1890,11 +2302,15 @@
 
 **#204 Pineco**
 
+![204](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/204.gif)&nbsp;
+
 ```
 + Level 26 - Counter
 ```
 
 **#205 Forretress**
+
+![205](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/205.gif)&nbsp;
 
 ```
 + Level 26 - Counter
@@ -1902,11 +2318,15 @@
 
 **#206 Dunsparce**
 
+![206](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/206.gif)&nbsp;
+
 ```
 + Level 1 - Horn Drill
 ```
 
 **#209 Snubbull**
+
+![209](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/209.gif)&nbsp;
 
 ```
 + Level 1 - Lovely Kiss
@@ -1916,6 +2336,8 @@
 
 **#210 Granbull**
 
+![210](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/210.gif)&nbsp;
+
 ```
 + Level 1 - Metronome
 + Level 61 - Close Combat
@@ -1923,12 +2345,16 @@
 
 **#211 Qwilfish**
 
+![211](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/211.gif)&nbsp;
+
 ```
 + Level 1 - Double-Edge
 + Level 61 - Pain Split
 ```
 
 **#214 Heracross**
+
+![214](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/214.gif)&nbsp;
 
 ```
 + Level 3 - Bug Bite
@@ -1938,6 +2364,8 @@
 
 **#215 Sneasel**
 
+![215](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/215.gif)&nbsp;
+
 ```
 + Level 1 - Moonlight
 + Level 32 - Ice Punch
@@ -1946,6 +2374,8 @@
 
 **#461 Weavile**
 
+![461](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/461.gif)&nbsp;
+
 ```
 + Level 1 - Fake Out
 + Level 32 - Ice Punch
@@ -1953,6 +2383,8 @@
 ```
 
 **#217 Ursaring**
+
+![217](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/217.gif)&nbsp;
 
 ```
 + Level 1 - Fire Punch
@@ -1965,17 +2397,23 @@
 
 **#218 Slugma**
 
+![218](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/218.gif)&nbsp;
+
 ```
 + Level 60 - Power Gem
 ```
 
 **#219 Magcargo**
 
+![219](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/219.gif)&nbsp;
+
 ```
 + Level 74 - Power Gem
 ```
 
 **#220 Swinub**
+
+![220](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/220.gif)&nbsp;
 
 ```
 + Level 11 - Icicle Spear
@@ -1986,6 +2424,8 @@
 
 **#221 Piloswine**
 
+![221](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/221.gif)&nbsp;
+
 ```
 + Level 11 - Icicle Spear
 + Level 23 - Body Slam
@@ -1994,6 +2434,8 @@
 ```
 
 **#473 Mamoswine**
+
+![473](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/473.gif)&nbsp;
 
 ```
 + Level 1 - Superpower
@@ -2006,6 +2448,8 @@
 
 **#223 Remoraid**
 
+![223](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/223.gif)&nbsp;
+
 ```
 + Level 1 - Mist
 + Level 1 - Amnesia
@@ -2013,12 +2457,16 @@
 
 **#224 Octillery**
 
+![224](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/224.gif)&nbsp;
+
 ```
 + Level 1 - Seed Bomb
 + Level 1 - Acid Spray
 ```
 
 **#225 Delibird**
+
+![225](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/225.gif)&nbsp;
 
 ```
 + Level 1 - Powder Snow
@@ -2038,11 +2486,15 @@
 
 **#458 Mantyke**
 
+![458](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/458.gif)&nbsp;
+
 ```
 + Level 53 - Mirror Coat
 ```
 
 **#226 Mantine**
+
+![226](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/226.gif)&nbsp;
 
 ```
 + Level 1 - Gust
@@ -2050,6 +2502,8 @@
 ```
 
 **#227 Skarmory**
+
+![227](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/227.gif)&nbsp;
 
 ```
 + Level 1 - Fury Cutter
@@ -2062,12 +2516,16 @@
 
 **#228 Houndour**
 
+![228](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/228.gif)&nbsp;
+
 ```
 + Level 23 - Snarl
 + Level 38 - Dark Pulse
 ```
 
 **#229 Houndoom**
+
+![229](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/229.gif)&nbsp;
 
 ```
 + Level 23 - Snarl
@@ -2076,11 +2534,15 @@
 
 **#231 Phanpy**
 
+![231](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/231.gif)&nbsp;
+
 ```
 + Level 21 - Seed Bomb
 ```
 
 **#232 Donphan**
+
+![232](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/232.gif)&nbsp;
 
 ```
 + Level 1 - Counter
@@ -2090,12 +2552,16 @@
 
 **#234 Stantler**
 
+![234](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/234.gif)&nbsp;
+
 ```
 + Level 45 - Horn Leech
 + Level 58 - Megahorn
 ```
 
 **#241 Miltank**
+
+![241](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/241.gif)&nbsp;
 
 ```
 + Level 1 - Mega Kick
@@ -2104,6 +2570,8 @@
 ```
 
 **#243 Raikou**
+
+![243](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/243.gif)&nbsp;
 
 ```
 + Level 1 - Aura Sphere
@@ -2114,6 +2582,8 @@
 
 **#244 Entei**
 
+![244](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/244.gif)&nbsp;
+
 ```
 + Level 1 - Flare Blitz
 + Level 1 - Extreme Speed
@@ -2122,6 +2592,8 @@
 ```
 
 **#245 Suicune**
+
+![245](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/245.gif)&nbsp;
 
 ```
 + Level 1 - Air Slash
@@ -2132,6 +2604,8 @@
 
 **#246 Larvitar**
 
+![246](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/246.gif)&nbsp;
+
 ```
 + Level 1 - Stealth Rock
 + Level 25 - Iron Tail
@@ -2139,12 +2613,16 @@
 
 **#247 Pupitar**
 
+![247](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/247.gif)&nbsp;
+
 ```
 + Level 1 - Stealth Rock
 + Level 25 - Iron Defense
 ```
 
 **#248 Tyranitar**
+
+![248](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/248.gif)&nbsp;
 
 ```
 + Level 1 - Fire Punch
@@ -2154,6 +2632,8 @@
 ```
 
 **#251 Celebi**
+
+![251](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/251.gif)&nbsp;
 
 ```
 + Level 1 - Nasty Plot
@@ -2165,11 +2645,15 @@
 
 **#253 Grovyle**
 
+![253](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/253.gif)&nbsp;
+
 ```
 + Level 16 - Magical Leaf
 ```
 
 **#254 Sceptile**
+
+![254](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/254.gif)&nbsp;
 
 ```
 + Level 1 - Thunder Punch
@@ -2180,17 +2664,23 @@
 
 **#255 Torchic**
 
+![255](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/255.gif)&nbsp;
+
 ```
 + Level 22 - Baton Pass
 ```
 
 **#256 Combusken**
 
+![256](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/256.gif)&nbsp;
+
 ```
 + Level 25 - Low Kick
 ```
 
 **#257 Blaziken**
+
+![257](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/257.gif)&nbsp;
 
 ```
 + Level 1 - Thunder Punch
@@ -2200,6 +2690,8 @@
 
 **#258 Mudkip**
 
+![258](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/258.gif)&nbsp;
+
 ```
 + Level 1 - Yawn
 + Level 21 - Ice Ball
@@ -2207,12 +2699,16 @@
 
 **#259 Marshtomp**
 
+![259](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/259.gif)&nbsp;
+
 ```
 + Level 1 - Yawn
 + Level 57 - Superpower
 ```
 
 **#260 Swampert**
+
+![260](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/260.gif)&nbsp;
 
 ```
 + Level 1 - Yawn
@@ -2222,6 +2718,8 @@
 ```
 
 **#262 Mightyena**
+
+![262](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/262.gif)&nbsp;
 
 ```
 + Level 1 - Super Fang
@@ -2233,6 +2731,8 @@
 
 **#264 Linoone**
 
+![264](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/264.gif)&nbsp;
+
 ```
 + Level 1 - Super Fang
 + Level 1 - Rock Climb
@@ -2241,12 +2741,16 @@
 
 **#265 Wurmple**
 
+![265](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/265.gif)&nbsp;
+
 ```
 = Level 1 - Poison Sting
 = Level 1 - Bug Bite
 ```
 
 **#267 Beautifly**
+
+![267](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/267.gif)&nbsp;
 
 ```
 + Level 10 - Air Cutter
@@ -2257,15 +2761,18 @@
 
 **#269 Dustox**
 
+![269](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/269.gif)&nbsp;
+
 ```
 + Level 10 - Clear Smog
 + Level 10 - Struggle Bug
-+ Level 17 - Reflect
-+ Level 17 - Light Screen
++ Level 17 - Reflect, Light Screen
 + Level 49 - Tailwind
 ```
 
 **#270 Lotad**
+
+![270](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/270.gif)&nbsp;
 
 ```
 + Level 9 - Water Gun
@@ -2276,6 +2783,8 @@
 
 **#271 Lombre**
 
+![271](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/271.gif)&nbsp;
+
 ```
 + Level 9 - Water Gun
 + Level 13 - Leech Seed
@@ -2284,6 +2793,8 @@
 ```
 
 **#272 Ludicolo**
+
+![272](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/272.gif)&nbsp;
 
 ```
 + Level 1 - Rain Dance
@@ -2298,6 +2809,8 @@
 
 **#273 Seedot**
 
+![273](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/273.gif)&nbsp;
+
 ```
 + Level 1 - Bullet Seed
 + Level 1 - Quick Attack
@@ -2306,6 +2819,8 @@
 ```
 
 **#274 Nuzleaf**
+
+![274](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/274.gif)&nbsp;
 
 ```
 + Level 1 - Quick Attack
@@ -2317,6 +2832,8 @@
 ```
 
 **#275 Shiftry**
+
+![275](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/275.gif)&nbsp;
 
 ```
 + Level 1 - Hurricane
@@ -2331,6 +2848,8 @@
 
 **#276 Taillow**
 
+![276](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/276.gif)&nbsp;
+
 ```
 + Level 16 - Mirror Move
 + Level 22 - Steel Wing
@@ -2338,6 +2857,8 @@
 ```
 
 **#277 Swellow**
+
+![277](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/277.gif)&nbsp;
 
 ```
 + Level 1 - Superpower
@@ -2348,11 +2869,15 @@
 
 **#279 Pelipper**
 
+![279](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/279.gif)&nbsp;
+
 ```
 + Level 1 - Shock Wave
 ```
 
 **#280 Ralts**
+
+![280](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/280.gif)&nbsp;
 
 ```
 + Level 15 - Psybeam
@@ -2362,6 +2887,8 @@
 
 **#281 Kirlia**
 
+![281](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/281.gif)&nbsp;
+
 ```
 + Level 15 - Psybeam
 + Level 19 - Shock Wave
@@ -2369,6 +2896,8 @@
 ```
 
 **#282 Gardevoir**
+
+![282](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/282.gif)&nbsp;
 
 ```
 + Level 15 - Psybeam
@@ -2379,6 +2908,8 @@
 
 **#475 Gallade**
 
+![475](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/475.gif)&nbsp;
+
 ```
 + Level 1 - Sacred Sword
 + Level 1 - Fire Punch
@@ -2388,12 +2919,16 @@
 
 **#283 Surskit**
 
+![283](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/283.gif)&nbsp;
+
 ```
 + Level 28 - Psybeam
 + Level 34 - Giga Drain
 ```
 
 **#284 Masquerain**
+
+![284](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/284.gif)&nbsp;
 
 ```
 + Level 29 - Scald
@@ -2403,11 +2938,15 @@
 
 **#285 Shroomish**
 
+![285](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/285.gif)&nbsp;
+
 ```
 + Level 13 - Bullet Seed
 ```
 
 **#286 Breloom**
+
+![286](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/286.gif)&nbsp;
 
 ```
 + Level 1 - Thunder Punch
@@ -2418,11 +2957,15 @@
 
 **#288 Vigoroth**
 
+![288](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/288.gif)&nbsp;
+
 ```
 + Level 18 - Night Slash
 ```
 
 **#289 Slaking**
+
+![289](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/289.gif)&nbsp;
 
 ```
 + Level 1 - Fire Punch
@@ -2434,11 +2977,15 @@
 
 **#290 Nincada**
 
+![290](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/290.gif)&nbsp;
+
 ```
 + Level 1 - Bug Bite
 ```
 
 **#291 Ninjask**
+
+![291](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/291.gif)&nbsp;
 
 ```
 + Level 20 - Night Slash
@@ -2447,17 +2994,23 @@
 
 **#293 Whismur**
 
+![293](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/293.gif)&nbsp;
+
 ```
 + Level 1 - Fake Tears
 ```
 
 **#294 Loudred**
 
+![294](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/294.gif)&nbsp;
+
 ```
 + Level 1 - Fake Tears
 ```
 
 **#295 Exploud**
+
+![295](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/295.gif)&nbsp;
 
 ```
 - Level 1 - Fire Punch
@@ -2469,11 +3022,15 @@
 
 **#297 Makuhita**
 
+![297](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/297.gif)&nbsp;
+
 ```
 + Level 49 - Cross Chop
 ```
 
 **#297 Hariyama**
+
+![297](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/297.gif)&nbsp;
 
 ```
 + Level 1 - Fire Punch
@@ -2483,6 +3040,8 @@
 ```
 
 **#299 Nosepass**
+
+![299](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/299.gif)&nbsp;
 
 ```
 + Level 22 - Shock Wave
@@ -2494,6 +3053,8 @@
 
 **#476 Probopass**
 
+![476](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/476.gif)&nbsp;
+
 ```
 + Level 22 - Shock Wave
 + Level 28 - Ancient Power
@@ -2504,11 +3065,15 @@
 
 **#300 Skitty**
 
+![300](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/300.gif)&nbsp;
+
 ```
 + Level 1 - Pay Day
 ```
 
 **#301 Delcatty**
+
+![301](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/301.gif)&nbsp;
 
 ```
 + Level 25 - Wish
@@ -2519,12 +3084,16 @@
 
 **#302 Sableye**
 
+![302](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/302.gif)&nbsp;
+
 ```
 + Level 63 - Recover
 + Level 66 - Metal Burst
 ```
 
 **#303 Mawile**
+
+![303](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/303.gif)&nbsp;
 
 ```
 + Level 1 - Fire Fang
@@ -2538,6 +3107,8 @@
 
 **#306 Aggron**
 
+![306](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/306.gif)&nbsp;
+
 ```
 + Level 1 - Head Smash
 + Level 1 - Superpower
@@ -2546,12 +3117,16 @@
 
 **#307 Meditite**
 
+![307](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/307.gif)&nbsp;
+
 ```
 = Level 20 - Force Palm
 + Level 28 - Psycho Cut
 ```
 
 **#308 Medicham**
+
+![308](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/308.gif)&nbsp;
 
 ```
 = Level 20 - Force Palm
@@ -2562,14 +3137,18 @@
 
 **#310 Manectric**
 
+![310](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/310.gif)&nbsp;
+
 ```
 + Level 26 - Flame Burst
 ```
 
 **#313 Volbeat**
 
+![313](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/313.gif)&nbsp;
+
 ```
-+ Level 15 - Thundershock
++ Level 15 - Thunder Shock
 + Level 19 - Struggle Bug
 + Level 23 - Shock Wave
 + Level 35 - Thunderbolt
@@ -2579,8 +3158,10 @@
 
 **#314 Illumise**
 
+![314](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/314.gif)&nbsp;
+
 ```
-+ Level 15 - Thundershock
++ Level 15 - Thunder Shock
 + Level 19 - Struggle Bug
 + Level 23 - Shock Wave
 + Level 31 - Quiver Dance
@@ -2591,6 +3172,8 @@
 
 **#406 Budew**
 
+![406](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/406.gif)&nbsp;
+
 ```
 + Level 19 - Extrasensory
 + Level 22 - Sleep Powder
@@ -2598,6 +3181,8 @@
 ```
 
 **#315 Roselia**
+
+![315](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/315.gif)&nbsp;
 
 ```
 + Level 49 - Sleep Powder
@@ -2607,11 +3192,15 @@
 
 **#407 Roserade**
 
+![407](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/407.gif)&nbsp;
+
 ```
 + Level 55 - Petal Dance
 ```
 
 **#317 Swalot**
+
+![317](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/317.gif)&nbsp;
 
 ```
 + Level 1 - Seed Bomb
@@ -2620,12 +3209,16 @@
 
 **#318 Carvanha**
 
+![318](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/318.gif)&nbsp;
+
 ```
 + Level 41 - Dark Pulse
 + Level 45 - Hydro Pump
 ```
 
 **#319 Sharpedo**
+
+![319](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/319.gif)&nbsp;
 
 ```
 + Level 1 - Super Fang
@@ -2636,11 +3229,15 @@
 
 **#320 Wailmer**
 
+![320](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/320.gif)&nbsp;
+
 ```
 + Level 53 - Fissure
 ```
 
 **#321 Wailord**
+
+![321](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/321.gif)&nbsp;
 
 ```
 + Level 1 - Zen Headbutt
@@ -2649,11 +3246,15 @@
 
 **#323 Camerupt**
 
+![323](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/323.gif)&nbsp;
+
 ```
 + Level 1 - Heat Wave
 ```
 
 **#324 Torkoal**
+
+![324](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/324.gif)&nbsp;
 
 ```
 + Level 1 - Yawn
@@ -2664,6 +3265,8 @@
 
 **#325 Spoink**
 
+![325](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/325.gif)&nbsp;
+
 ```
 + Level 27 - Extrasensory
 + Level 28 - Shock Wave
@@ -2671,12 +3274,16 @@
 
 **#326 Grumpig**
 
+![326](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/326.gif)&nbsp;
+
 ```
 + Level 27 - Extrasensory
 + Level 28 - Shock Wave
 ```
 
 **#327 Spinda**
+
+![327](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/327.gif)&nbsp;
 
 ```
 + Level 1 - Fake Out
@@ -2687,6 +3294,8 @@
 
 **#328 Trapinch**
 
+![328](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/328.gif)&nbsp;
+
 ```
 + Level 1 - Bug Bite
 + Level 35 - Giga Drain
@@ -2694,11 +3303,15 @@
 
 **#329 Vibrava**
 
+![329](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/329.gif)&nbsp;
+
 ```
 + Level 35 - Dragon Dance
 ```
 
 **#330 Flygon**
+
+![330](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/330.gif)&nbsp;
 
 ```
 + Level 1 - Heat Wave
@@ -2717,11 +3330,15 @@
 
 **#331 Cacnea**
 
+![331](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/331.gif)&nbsp;
+
 ```
 + Level 61 - Teeter Dance
 ```
 
 **#332 Cacturne**
+
+![332](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/332.gif)&nbsp;
 
 ```
 + Level 1 - Nasty Plot
@@ -2733,11 +3350,15 @@
 
 **#333 Swablu**
 
+![333](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/333.gif)&nbsp;
+
 ```
 + Level 1 - Roost
 ```
 
 **#334 Altaria**
+
+![334](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/334.gif)&nbsp;
 
 ```
 + Level 1 - Roost
@@ -2746,6 +3367,8 @@
 ```
 
 **#335 Zangoose**
+
+![335](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/335.gif)&nbsp;
 
 ```
 + Level 1 - Fire Punch
@@ -2758,11 +3381,15 @@
 
 **#336 Seviper**
 
+![336](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/336.gif)&nbsp;
+
 ```
 + Level 67 - Gunk Shot
 ```
 
 **#337 Lunatone**
+
+![337](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/337.gif)&nbsp;
 
 ```
 + Level 1 - Moonlight
@@ -2773,6 +3400,8 @@
 
 **#338 Solrock**
 
+![338](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/338.gif)&nbsp;
+
 ```
 + Level 1 - Morning Sun
 + Level 28 - Zen Headbutt
@@ -2782,12 +3411,16 @@
 
 **#339 Barboach**
 
+![339](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/339.gif)&nbsp;
+
 ```
 + Level 51 - Dragon Dance
 + Level 54 - Hydro Pump
 ```
 
 **#340 Whiscash**
+
+![340](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/340.gif)&nbsp;
 
 ```
 + Level 1 - Spark
@@ -2797,12 +3430,16 @@
 
 **#341 Corphish**
 
+![341](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/341.gif)&nbsp;
+
 ```
 + Level 50 - Dragon Dance
 + Level 56 - Superpower
 ```
 
 **#342 Crawdaunt**
+
+![342](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/342.gif)&nbsp;
 
 ```
 + Level 1 - Avalanche
@@ -2812,17 +3449,23 @@
 
 **#344 Claydol**
 
+![344](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/344.gif)&nbsp;
+
 ```
 + Level 1 - Gravity
 ```
 
 **#345 Lileep**
 
+![345](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/345.gif)&nbsp;
+
 ```
 + Level 71 - Earth Power
 ```
 
 **#346 Cradily**
+
+![346](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/346.gif)&nbsp;
 
 ```
 + Level 1 - Seed Bomb
@@ -2833,6 +3476,8 @@
 
 **#348 Armaldo**
 
+![348](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/348.gif)&nbsp;
+
 ```
 + Level 1 - Aqua Tail
 + Level 1 - Superpower
@@ -2840,6 +3485,8 @@
 ```
 
 **#349 Feebas**
+
+![349](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/349.gif)&nbsp;
 
 ```
 + Level 10 - Hypnosis
@@ -2849,11 +3496,15 @@
 
 **#350 Milotic**
 
+![350](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/350.gif)&nbsp;
+
 ```
 + Level 53 - Mirror Coat
 ```
 
 **#352 Kecleon**
+
+![352](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/352.gif)&nbsp;
 
 ```
 + Level 1 - Fake Out
@@ -2861,6 +3512,8 @@
 ```
 
 **#353 Shuppet**
+
+![353](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/353.gif)&nbsp;
 
 ```
 + Level 1 - Shadow Sneak
@@ -2870,6 +3523,8 @@
 
 **#354 Banette**
 
+![354](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/354.gif)&nbsp;
+
 ```
 + Level 1 - Shadow Sneak
 + Level 16 - Pain Split
@@ -2878,11 +3533,15 @@
 
 **#355 Duskull**
 
+![355](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/355.gif)&nbsp;
+
 ```
 + Level 49 - Trick
 ```
 
 **#356 Dusclops**
+
+![356](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/356.gif)&nbsp;
 
 ```
 + Level 61 - Trick
@@ -2890,11 +3549,15 @@
 
 **#477 Dusknoir**
 
+![477](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/477.gif)&nbsp;
+
 ```
 + Level 61 - Trick
 ```
 
 **#357 Tropius**
+
+![357](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/357.gif)&nbsp;
 
 ```
 + Level 1 - Dragon Dance
@@ -2905,6 +3568,8 @@
 
 **#433 Chingling**
 
+![433](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/433.gif)&nbsp;
+
 ```
 + Level 1 - Hypnosis
 + Level 1 - Recover
@@ -2913,6 +3578,8 @@
 
 **#358 Chimecho**
 
+![358](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/358.gif)&nbsp;
+
 ```
 + Level 1 - Hypnosis
 + Level 1 - Recover
@@ -2920,6 +3587,8 @@
 ```
 
 **#359 Absol**
+
+![359](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/359.gif)&nbsp;
 
 ```
 + Level 25 - Agility
@@ -2930,6 +3599,8 @@
 
 **#362 Glalie**
 
+![362](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/362.gif)&nbsp;
+
 ```
 - Level 37 - Avalanche
 + Level 42 - Rollout
@@ -2939,11 +3610,15 @@
 
 **#478 Froslass**
 
+![478](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/478.gif)&nbsp;
+
 ```
 - Level 37 - Ice Beam
 ```
 
 **#365 Walrein**
+
+![365](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/365.gif)&nbsp;
 
 ```
 + Level 1 - Curse
@@ -2953,6 +3628,8 @@
 
 **#366 Clamperl**
 
+![366](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/366.gif)&nbsp;
+
 ```
 + Level 25 - Muddy Water
 + Level 30 - Barrier
@@ -2961,11 +3638,15 @@
 
 **#369 Relicanth**
 
+![369](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/369.gif)&nbsp;
+
 ```
 + Level 1 - Zen Headbutt
 ```
 
 **#371 Bagon**
+
+![371](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/371.gif)&nbsp;
 
 ```
 + Level 61 - Dragon Dance
@@ -2974,12 +3655,16 @@
 
 **#372 Shelgon**
 
+![372](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/372.gif)&nbsp;
+
 ```
 + Level 66 - Dragon Dance
 + Level 72 - Outrage
 ```
 
 **#373 Salamence**
+
+![373](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/373.gif)&nbsp;
 
 ```
 + Level 1 - Hydro Pump
@@ -2990,6 +3675,8 @@
 
 **#374 Beldum**
 
+![374](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/374.gif)&nbsp;
+
 ```
 + Level 1 - Zen Headbutt
 + Level 1 - Iron Head
@@ -2997,6 +3684,8 @@
 ```
 
 **#376 Metagross**
+
+![376](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/376.gif)&nbsp;
 
 ```
 + Level 1 - Thunder Punch
@@ -3009,11 +3698,15 @@
 
 **#387 Turtwig**
 
+![387](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/387.gif)&nbsp;
+
 ```
 + Level 49 - Seed Bomb
 ```
 
 **#388 Grotle**
+
+![388](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/388.gif)&nbsp;
 
 ```
 + Level 57 - Seed Bomb
@@ -3021,12 +3714,16 @@
 
 **#389 Torterra**
 
+![389](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/389.gif)&nbsp;
+
 ```
 + Level 63 - Seed Bomb
 + Level 69 - Shell Smash
 ```
 
 **#392 Infernape**
+
+![392](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/392.gif)&nbsp;
 
 ```
 + Level 1 - Fire Punch
@@ -3036,11 +3733,15 @@
 
 **#393 Piplup**
 
+![393](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/393.gif)&nbsp;
+
 ```
 + Level 13 - Brine
 ```
 
 **#394 Prinplup**
+
+![394](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/394.gif)&nbsp;
 
 ```
 + Level 13 - Brine
@@ -3048,11 +3749,15 @@
 
 **#395 Empoleon**
 
+![395](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/395.gif)&nbsp;
+
 ```
 + Level 13 - Brine
 ```
 
 **#396 Starly**
+
+![396](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/396.gif)&nbsp;
 
 ```
 + Level 45 - Double-Edge
@@ -3060,11 +3765,15 @@
 
 **#397 Staravia**
 
+![397](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/397.gif)&nbsp;
+
 ```
 + Level 53 - Double-Edge
 ```
 
 **#398 Staraptor**
+
+![398](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/398.gif)&nbsp;
 
 ```
 + Level 1 - Roost
@@ -3073,11 +3782,15 @@
 
 **#399 Bidoof**
 
+![399](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/399.gif)&nbsp;
+
 ```
 + Level 49 - Double-Edge
 ```
 
 **#400 Bibarel**
+
+![400](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/400.gif)&nbsp;
 
 ```
 - Level 15 - Aqua Tail
@@ -3086,12 +3799,16 @@
 
 **#401 Kricketot**
 
+![401](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/401.gif)&nbsp;
+
 ```
 = Level 1 - Struggle Bug
 = Level 1 - Bug Bite
 ```
 
 **#403 Shinx**
+
+![403](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/403.gif)&nbsp;
 
 ```
 = Level 1 - Bite
@@ -3100,6 +3817,8 @@
 
 **#404 Luxio**
 
+![404](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/404.gif)&nbsp;
+
 ```
 = Level 1 - Bite
 + Level 15 - Double Kick
@@ -3107,6 +3826,8 @@
 ```
 
 **#405 Luxray**
+
+![405](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/405.gif)&nbsp;
 
 ```
 = Level 1 - Bite
@@ -3120,12 +3841,16 @@
 
 **#408 Cranidos**
 
+![408](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/408.gif)&nbsp;
+
 ```
 + Level 50 - Crunch
 + Level 55 - Hammer Arm
 ```
 
 **#409 Rampardos**
+
+![409](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/409.gif)&nbsp;
 
 ```
 + Level 1 - Fire Punch
@@ -3136,11 +3861,15 @@
 
 **#411 Bastiodon**
 
+![411](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/411.gif)&nbsp;
+
 ```
 + Level 1 - Magnet Rise
 ```
 
 **#412 Burmy**
+
+![412](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/412.gif)&nbsp;
 
 ```
 + Level 1 - String Shot
@@ -3148,6 +3877,8 @@
 ```
 
 **#414 Mothim**
+
+![414](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/414.gif)&nbsp;
 
 ```
 + Level 1 - Giga Drain
@@ -3157,12 +3888,16 @@
 
 **#415 Combee**
 
+![415](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/415.gif)&nbsp;
+
 ```
 + Level 16 - Tailwind
 + Level 19 - Endeavor
 ```
 
 **#416 Vespiquen**
+
+![416](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/416.gif)&nbsp;
 
 ```
 + Level 23 - Silver Wind
@@ -3171,6 +3906,8 @@
 
 **#417 Pachirisu**
 
+![417](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/417.gif)&nbsp;
+
 ```
 + Level 53 - Fake Tears
 + Level 57 - Uproar
@@ -3178,12 +3915,16 @@
 
 **#418 Buizel**
 
+![418](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/418.gif)&nbsp;
+
 ```
 + Level 32 - Ice Punch
 + Level 40 - Tail Slap
 ```
 
 **#419 Floatzel**
+
+![419](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/419.gif)&nbsp;
 
 ```
 + Level 1 - Low Kick
@@ -3193,11 +3934,15 @@
 
 **#421 Cherrim**
 
+![421](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/421.gif)&nbsp;
+
 ```
 + Level 1 - Weather Ball
 ```
 
 **#422 Shellos**
+
+![422](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/422.gif)&nbsp;
 
 ```
 + Level 19 - Brine
@@ -3205,6 +3950,8 @@
 ```
 
 **#423 Gastrodon**
+
+![423](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/423.gif)&nbsp;
 
 ```
 + Level 1 - Counter
@@ -3215,6 +3962,8 @@
 
 **#425 Drifloon**
 
+![425](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/425.gif)&nbsp;
+
 ```
 + Level 49 - Hypnosis
 + Level 52 - Destiny Bond
@@ -3223,6 +3972,8 @@
 ```
 
 **#426 Drifblim**
+
+![426](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/426.gif)&nbsp;
 
 ```
 + Level 1 - Shock Wave
@@ -3235,6 +3986,8 @@
 
 **#427 Buneary**
 
+![427](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/427.gif)&nbsp;
+
 ```
 + Level 19 - Fake Out
 + Level 29 - Sky Uppercut
@@ -3242,6 +3995,8 @@
 ```
 
 **#428 Lopunny**
+
+![428](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/428.gif)&nbsp;
 
 ```
 + Level 19 - Fake Out
@@ -3251,6 +4006,8 @@
 
 **#431 Glameow**
 
+![431](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/431.gif)&nbsp;
+
 ```
 + Level 11 - Bite
 + Level 52 - Super Fang
@@ -3258,12 +4015,16 @@
 
 **#432 Purugly**
 
+![432](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/432.gif)&nbsp;
+
 ```
 + Level 11 - Bite
 + Level 68 - Super Fang
 ```
 
 **#434 Stunky**
+
+![434](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/434.gif)&nbsp;
 
 ```
 + Level 18 - Sucker Punch
@@ -3273,6 +4034,8 @@
 
 **#435 Skuntank**
 
+![435](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/435.gif)&nbsp;
+
 ```
 + Level 18 - Sucker Punch
 + Level 25 - Flame Burst
@@ -3281,12 +4044,16 @@
 
 **#436 Bronzor**
 
+![436](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/436.gif)&nbsp;
+
 ```
 + Level 16 - Rollout
 + Level 23 - Curse
 ```
 
 **#437 Bronzong**
+
+![437](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/437.gif)&nbsp;
 
 ```
 + Level 1 - Trick
@@ -3297,6 +4064,8 @@
 
 **#441 Chatot**
 
+![441](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/441.gif)&nbsp;
+
 ```
 + Level 1 - Nasty Plot
 + Level 61 - Hurricane
@@ -3304,6 +4073,8 @@
 ```
 
 **#442 Spiritomb**
+
+![442](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/442.gif)&nbsp;
 
 ```
 + Level 1 - Icy Wind
@@ -3313,17 +4084,23 @@
 
 **#443 Gible**
 
+![443](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/443.gif)&nbsp;
+
 ```
 + Level 44 - Outrage
 ```
 
 **#444 Gabite**
 
+![444](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/444.gif)&nbsp;
+
 ```
 + Level 58 - Outrage
 ```
 
 **#445 Garchomp**
+
+![445](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/445.gif)&nbsp;
 
 ```
 + Level 1 - Aqua Tail
@@ -3332,6 +4109,8 @@
 ```
 
 **#447 Riolu**
+
+![447](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/447.gif)&nbsp;
 
 ```
 + Level 1 - Vacuum Wave
@@ -3342,6 +4121,8 @@
 
 **#448 Lucario**
 
+![448](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/448.gif)&nbsp;
+
 ```
 + Level 1 - Blaze Kick
 + Level 1 - Thunder Punch
@@ -3350,6 +4131,8 @@
 
 **#449 Hippopotas**
 
+![449](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/449.gif)&nbsp;
+
 ```
 + Level 56 - Slack Off
 + Level 63 - Superpower
@@ -3357,12 +4140,16 @@
 
 **#450 Hippowdon**
 
+![450](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/450.gif)&nbsp;
+
 ```
 + Level 70 - Slack Off
 + Level 80 - Superpower
 ```
 
 **#452 Drapion**
+
+![452](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/452.gif)&nbsp;
 
 ```
 + Level 1 - Aqua Tail
@@ -3372,6 +4159,8 @@
 
 **#453 Croagunk**
 
+![453](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/453.gif)&nbsp;
+
 ```
 + Level 26 - Drain Punch
 + Level 33 - Cross Chop
@@ -3379,6 +4168,8 @@
 ```
 
 **#454 Toxicroak**
+
+![454](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/454.gif)&nbsp;
 
 ```
 + Level 1 - Thunder Punch
@@ -3390,6 +4181,8 @@
 
 **#455 Carnivine**
 
+![455](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/455.gif)&nbsp;
+
 ```
 + Level 14 - Bullet Seed
 + Level 24 - Sleep Powder
@@ -3400,6 +4193,8 @@
 
 **#457 Lumineon**
 
+![457](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/457.gif)&nbsp;
+
 ```
 + Level 1 - Ominous Wind
 + Level 1 - Psybeam
@@ -3408,11 +4203,15 @@
 
 **#459 Snover**
 
+![459](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/459.gif)&nbsp;
+
 ```
 + Level 51 - Seed Bomb
 ```
 
 **#460 Abomasnow**
+
+![460](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/460.gif)&nbsp;
 
 ```
 + Level 69 - Seed Bomb
@@ -3420,11 +4219,15 @@
 
 **#479 Rotom**
 
+![479](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/479.gif)&nbsp;
+
 ```
 + Level 1 - Signal Beam
 ```
 
 **#479 Rotom Fan**
+
+![479](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/479.gif)&nbsp;
 
 ```
 + Level 1 - Hurricane
@@ -3432,11 +4235,15 @@
 
 **#479 Rotom Frost**
 
+![479](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/479.gif)&nbsp;
+
 ```
 + Level 1 - Glaciate
 ```
 
 **#479 Rotom Oven**
+
+![479](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/479.gif)&nbsp;
 
 ```
 + Level 1 - Lava Plume
@@ -3444,11 +4251,15 @@
 
 **#479 Rotom Wash**
 
+![479](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/479.gif)&nbsp;
+
 ```
 + Level 1 - Scald
 ```
 
 **#479 Rotom Mow**
+
+![479](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/479.gif)&nbsp;
 
 ```
 + Level 1 - Energy Ball
@@ -3460,6 +4271,8 @@
 
 **#494 Victini**
 
+![494](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/494.gif)&nbsp;
+
 ```
 + Level 1 - Fusion Flare
 + Level 1 - Fusion Bolt
@@ -3468,12 +4281,16 @@
 
 **#496 Servine**
 
+![496](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/496.gif)&nbsp;
+
 ```
 + Level 17 - Twister
 - Level 24 - Zen Headbutt
 ```
 
 **#497 Serperior**
+
+![497](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/497.gif)&nbsp;
 
 ```
 + Level 17 - Twister
@@ -3489,6 +4306,8 @@
 
 **#499 Pignite**
 
+![499](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/499.gif)&nbsp;
+
 ```
 - Level 17 - Magnitude
 - Level 20 - Arm Thrust
@@ -3498,6 +4317,8 @@
 ```
 
 **#500 Emboar**
+
+![500](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/500.gif)&nbsp;
 
 ```
 + Level 1 - Superpower
@@ -3513,12 +4334,16 @@
 
 **#502 Dewott**
 
+![502](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/502.gif)&nbsp;
+
 ```
 + Level 17 - Karate Chop
 + Level 55 - Close Combat
 ```
 
 **#503 Samurott**
+
+![503](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/503.gif)&nbsp;
 
 ```
 + Level 1 - Secret Sword
@@ -3530,17 +4355,23 @@
 
 **#504 Patrat**
 
+![504](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/504.gif)&nbsp;
+
 ```
 + Level 39 - Zen Headbutt
 ```
 
 **#505 Watchog**
 
+![505](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/505.gif)&nbsp;
+
 ```
 + Level 46 - Zen Headbutt
 ```
 
 **#509 Purrloin**
+
+![509](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/509.gif)&nbsp;
 
 ```
 + Level 8 - Feint Attack
@@ -3551,6 +4382,8 @@
 
 **#510 Liepard**
 
+![510](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/510.gif)&nbsp;
+
 ```
 + Level 8 - Feint Attack
 = Level 17 - Night Slash
@@ -3559,6 +4392,8 @@
 ```
 
 **#511 Pansage**
+
+![511](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/511.gif)&nbsp;
 
 ```
 = Level 6 - Leer
@@ -3585,6 +4420,8 @@
 
 **#512 Simisage**
 
+![512](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/512.gif)&nbsp;
+
 ```
 + Level 1 - Nasty Plot
 + Level 1 - Low Kick
@@ -3592,6 +4429,8 @@
 ```
 
 **#513 Pansear**
+
+![513](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/513.gif)&nbsp;
 
 ```
 = Level 6 - Leer
@@ -3601,7 +4440,7 @@
 + Level 14 - Flame Burst
 = Level 16 - Lick
 = Level 18 - Yawn
-= Level 20 - Lava Plume
++ Level 20 - Lava Plume
 = Level 22 - Torment
 = Level 24 - Crunch
 = Level 26 - Fling
@@ -3618,6 +4457,8 @@
 
 **#514 Simisear**
 
+![514](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/514.gif)&nbsp;
+
 ```
 + Level 1 - Nasty Plot
 + Level 1 - Low Kick
@@ -3625,6 +4466,8 @@
 ```
 
 **#515 Panpour**
+
+![515](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/515.gif)&nbsp;
 
 ```
 = Level 6 - Leer
@@ -3651,6 +4494,8 @@
 
 **#516 Simipour**
 
+![516](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/516.gif)&nbsp;
+
 ```
 + Level 1 - Nasty Plot
 + Level 1 - Low Kick
@@ -3659,6 +4504,8 @@
 
 **#517 Munna**
 
+![517](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/517.gif)&nbsp;
+
 ```
 + Level 21 - Baton Pass
 + Level 27 - Psyshock
@@ -3666,17 +4513,23 @@
 
 **#518 Musharna**
 
+![518](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/518.gif)&nbsp;
+
 ```
 + Level 39 - Psychic
 ```
 
 **#519 Pidove**
 
+![519](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/519.gif)&nbsp;
+
 ```
 - Level 11 - Swift
 ```
 
 **#520 Tranquill**
+
+![520](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/520.gif)&nbsp;
 
 ```
 - Level 11 - Swift
@@ -3685,6 +4538,8 @@
 ```
 
 **#521 Unfezant**
+
+![521](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/521.gif)&nbsp;
 
 ```
 + Level 1 - Heat Wave
@@ -3699,12 +4554,16 @@
 
 **#522 Blitzle**
 
+![522](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/522.gif)&nbsp;
+
 ```
 + Level 13 - Double Kick
 + Level 47 - Volt Tackle
 ```
 
 **#523 Zebstrika**
+
+![523](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/523.gif)&nbsp;
 
 ```
 + Level 13 - Double Kick
@@ -3713,17 +4572,23 @@
 
 **#524 Roggenrola**
 
+![524](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/524.gif)&nbsp;
+
 ```
 + Level 12 - Magnitude
 ```
 
 **#525 Boldore**
 
+![525](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/525.gif)&nbsp;
+
 ```
 + Level 12 - Magnitude
 ```
 
 **#526 Gigalith**
+
+![526](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/526.gif)&nbsp;
 
 ```
 + Level 1 - Gravity
@@ -3733,11 +4598,15 @@
 
 **#527 Woobat**
 
+![527](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/527.gif)&nbsp;
+
 ```
 + Level 52 - Stored Power
 ```
 
 **#528 Swoobat**
+
+![528](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/528.gif)&nbsp;
 
 ```
 + Level 1 - Roost
@@ -3746,11 +4615,15 @@
 
 **#530 Excadrill**
 
+![530](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/530.gif)&nbsp;
+
 ```
 + Level 1 - Iron Head
 ```
 
 **#531 Audino**
+
+![531](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/531.gif)&nbsp;
 
 ```
 + Level 1 - Yawn
@@ -3763,17 +4636,23 @@
 
 **#532 Timburr**
 
+![532](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/532.gif)&nbsp;
+
 ```
 + Level 53 - Drain Punch
 ```
 
 **#533 Gurdurr**
 
+![533](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/533.gif)&nbsp;
+
 ```
 + Level 61 - Drain Punch
 ```
 
 **#534 Conkeldurr**
+
+![534](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/534.gif)&nbsp;
 
 ```
 + Level 1 - Fire Punch
@@ -3785,17 +4664,23 @@
 
 **#535 Tympole**
 
+![535](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/535.gif)&nbsp;
+
 ```
 + Level 48 - Earth Power
 ```
 
 **#536 Palpitoad**
 
+![536](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/536.gif)&nbsp;
+
 ```
 + Level 55 - Earth Power
 ```
 
 **#537 Seismitoad**
+
+![537](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/537.gif)&nbsp;
 
 ```
 + Level 1 - Gunk Shot
@@ -3804,6 +4689,8 @@
 ```
 
 **#538 Throh**
+
+![538](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/538.gif)&nbsp;
 
 ```
 + Level 1 - Fire Punch
@@ -3814,6 +4701,8 @@
 
 **#539 Sawk**
 
+![539](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/539.gif)&nbsp;
+
 ```
 + Level 1 - Fire Punch
 + Level 1 - Thunder Punch
@@ -3823,11 +4712,15 @@
 
 **#541 Swadloon**
 
+![541](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/541.gif)&nbsp;
+
 ```
 + Level 20 - Synthesis
 ```
 
 **#542 Leavanny**
+
+![542](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/542.gif)&nbsp;
 
 ```
 + Level 25 - Screech
@@ -3837,17 +4730,23 @@
 
 **#543 Venipede**
 
+![543](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/543.gif)&nbsp;
+
 ```
 + Level 17 - Twineedle
 ```
 
 **#544 Whirlipede**
 
+![544](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/544.gif)&nbsp;
+
 ```
 + Level 17 - Twineedle
 ```
 
 **#545 Scolipede**
+
+![545](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/545.gif)&nbsp;
 
 ```
 + Level 1 - Spikes
@@ -3858,6 +4757,8 @@
 
 **#547 Whimsicott**
 
+![547](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/547.gif)&nbsp;
+
 ```
 + Level 1 - Encore
 + Level 1 - Switcheroo
@@ -3867,11 +4768,15 @@
 
 **#548 Petilil**
 
+![548](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/548.gif)&nbsp;
+
 ```
 + Level 15 - Extrasensory
 ```
 
 **#549 Lilligant**
+
+![549](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/549.gif)&nbsp;
 
 ```
 + Level 1 - Charm
@@ -3882,6 +4787,8 @@
 
 **#550 Basculin**
 
+![550](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/550.gif)&nbsp;
+
 ```
 + Level 1 - Revenge
 + Level 61 - Super Fang
@@ -3889,17 +4796,23 @@
 
 **#551 Sandile**
 
+![551](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/551.gif)&nbsp;
+
 ```
 + Level 49 - Sucker Punch
 ```
 
 **#552 Krokorok**
 
+![552](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/552.gif)&nbsp;
+
 ```
 + Level 56 - Sucker Punch
 ```
 
 **#553 Krookodile**
+
+![553](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/553.gif)&nbsp;
 
 ```
 + Level 1 - Fire Fang
@@ -3909,11 +4822,15 @@
 
 **#554 Darumaka**
 
+![554](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/554.gif)&nbsp;
+
 ```
 + Level 1 - Yawn
 ```
 
 **#555 Darmanitan**
+
+![555](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/555.gif)&nbsp;
 
 ```
 + Level 1 - Yawn
@@ -3921,6 +4838,8 @@
 ```
 
 **#556 Maractus**
+
+![556](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/556.gif)&nbsp;
 
 ```
 + Level 24 - Spikes
@@ -3931,11 +4850,15 @@
 
 **#557 Dwebble**
 
+![557](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/557.gif)&nbsp;
+
 ```
 + Level 33 - Night Slash
 ```
 
 **#558 Crustle**
+
+![558](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/558.gif)&nbsp;
 
 ```
 + Level 33 - Night Slash
@@ -3943,12 +4866,16 @@
 
 **#559 Scraggy**
 
+![559](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/559.gif)&nbsp;
+
 ```
 + Level 25 - Zen Headbutt
 + Level 57 - Dragon Dance
 ```
 
 **#560 Scrafty**
+
+![560](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/560.gif)&nbsp;
 
 ```
 + Level 1 - Fire Punch
@@ -3963,6 +4890,8 @@
 
 **#561 Sigilyph**
 
+![561](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/561.gif)&nbsp;
+
 ```
 + Level 26 - Roost
 + Level 36 - Psycho Shift
@@ -3972,12 +4901,16 @@
 
 **#562 Yamask**
 
+![562](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/562.gif)&nbsp;
+
 ```
 + Level 23 - Pain Split
 + Level 27 - Nasty Plot
 ```
 
 **#563 Cofagrigus**
+
+![563](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/563.gif)&nbsp;
 
 ```
 + Level 1 - Gravity
@@ -3989,12 +4922,16 @@
 
 **#566 Archen**
 
+![566](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/566.gif)&nbsp;
+
 ```
 + Level 54 - Earth Power
 + Level 57 - Head Smash
 ```
 
 **#567 Archeops**
+
+![567](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/567.gif)&nbsp;
 
 ```
 + Level 37 - Dragon Pulse
@@ -4003,6 +4940,8 @@
 ```
 
 **#568 Trubbish**
+
+![568](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/568.gif)&nbsp;
 
 ```
 + Level 16 - Rollout
@@ -4014,6 +4953,8 @@
 
 **#569 Garbodor**
 
+![569](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/569.gif)&nbsp;
+
 ```
 + Level 16 - Rollout
 + Level 21 - Curse
@@ -4024,6 +4965,8 @@
 
 **#571 Zoroark**
 
+![571](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/571.gif)&nbsp;
+
 ```
 + Level 1 - Extrasensory
 + Level 1 - Counter
@@ -4033,12 +4976,16 @@
 
 **#572 Minccino**
 
+![572](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/572.gif)&nbsp;
+
 ```
 + Level 23 - Iron Tail
 + Level 29 - Aqua Tail
 ```
 
 **#573 Cinccino**
+
+![573](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/573.gif)&nbsp;
 
 ```
 + Level 1 - Icicle Spear
@@ -4047,6 +4994,8 @@
 ```
 
 **#574 Gothita**
+
+![574](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/574.gif)&nbsp;
 
 ```
 + Level 23 - Recover
@@ -4057,6 +5006,8 @@
 
 **#575 Gothorita**
 
+![575](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/575.gif)&nbsp;
+
 ```
 + Level 23 - Recover
 + Level 32 - Dark Pulse
@@ -4065,6 +5016,8 @@
 ```
 
 **#576 Gothitelle**
+
+![576](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/576.gif)&nbsp;
 
 ```
 + Level 1 - Gravity
@@ -4077,6 +5030,8 @@
 
 **#577 Solosis**
 
+![577](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/577.gif)&nbsp;
+
 ```
 + Level 23 - Shock Wave
 + Level 32 - Confuse Ray
@@ -4085,6 +5040,8 @@
 
 **#578 Duosion**
 
+![578](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/578.gif)&nbsp;
+
 ```
 + Level 23 - Shock Wave
 + Level 32 - Confuse Ray
@@ -4092,6 +5049,8 @@
 ```
 
 **#579 Reuniclus**
+
+![579](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/579.gif)&nbsp;
 
 ```
 + Level 1 - Gravity
@@ -4103,12 +5062,16 @@
 
 **#581 Swanna**
 
+![581](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/581.gif)&nbsp;
+
 ```
 + Level 1 - Heat Wave
 + Level 35 - Acrobatics
 ```
 
 **#582 Vanillite**
+
+![582](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/582.gif)&nbsp;
 
 ```
 + Level 24 - Water Pulse
@@ -4118,6 +5081,8 @@
 
 **#583 Vanillish**
 
+![583](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/583.gif)&nbsp;
+
 ```
 + Level 24 - Water Pulse
 + Level 29 - Ice Shard
@@ -4125,6 +5090,8 @@
 ```
 
 **#584 Vanilluxe**
+
+![584](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/584.gif)&nbsp;
 
 ```
 + Level 1 - Magnet Rise
@@ -4136,11 +5103,15 @@
 
 **#586 Sawsbuck**
 
+![586](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/586.gif)&nbsp;
+
 ```
 + Level 1 - Wood Hammer
 ```
 
 **#587 Emolga**
+
+![587](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/587.gif)&nbsp;
 
 ```
 + Level 1 - Covet
@@ -4154,11 +5125,15 @@
 
 **#588 Karrablast**
 
+![588](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/588.gif)&nbsp;
+
 ```
 + Level 60 - Megahorn
 ```
 
 **#589 Escavalier**
+
+![589](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/589.gif)&nbsp;
 
 ```
 + Level 1 - Needle Arm
@@ -4170,6 +5145,8 @@
 
 **#590 Foongus**
 
+![590](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/590.gif)&nbsp;
+
 ```
 + Level 22 - Stun Spore
 + Level 22 - Poison Powder
@@ -4179,6 +5156,8 @@
 ```
 
 **#591 Amoonguss**
+
+![591](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/591.gif)&nbsp;
 
 ```
 + Level 22 - Stun Spore
@@ -4191,12 +5170,16 @@
 
 **#592 Frillish**
 
+![592](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/592.gif)&nbsp;
+
 ```
 + Level 1 - Confuse Ray
 + Level 1 - Pain Split
 ```
 
 **#593 Jellicent**
+
+![593](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/593.gif)&nbsp;
 
 ```
 + Level 1 - Confuse Ray
@@ -4205,12 +5188,16 @@
 
 **#594 Alomomola**
 
+![594](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/594.gif)&nbsp;
+
 ```
 + Level 1 - Pain Split
 + Level 1 - Mirror Coat
 ```
 
 **#597 Ferroseed**
+
+![597](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/597.gif)&nbsp;
 
 ```
 + Level 1 - Rapid Spin
@@ -4220,6 +5207,8 @@
 ```
 
 **#598 Ferrothorn**
+
+![598](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/598.gif)&nbsp;
 
 ```
 + Level 1 - Stealth Rock
@@ -4231,17 +5220,23 @@
 
 **#599 Klink**
 
+![599](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/599.gif)&nbsp;
+
 ```
 + Level 33 - Spark
 ```
 
 **#600 Klang**
 
+![600](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/600.gif)&nbsp;
+
 ```
 + Level 33 - Spark
 ```
 
 **#601 Klinklang**
+
+![601](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/601.gif)&nbsp;
 
 ```
 + Level 1 - Gravity
@@ -4250,6 +5245,8 @@
 
 **#604 Eelektross**
 
+![604](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/604.gif)&nbsp;
+
 ```
 + Level 54 - Coil
 + Level 64 - Super Fang
@@ -4257,11 +5254,15 @@
 
 **#605 Elgyem**
 
+![605](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/605.gif)&nbsp;
+
 ```
 + Level 59 - Nasty Plot
 ```
 
 **#606 Beheeyem**
+
+![606](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/606.gif)&nbsp;
 
 ```
 + Level 1 - Power Swap
@@ -4273,12 +5274,16 @@
 
 **#608 Lampent**
 
+![608](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/608.gif)&nbsp;
+
 ```
 + Level 34 - Heat Wave
 = Level 39 – Inferno
 ```
 
 **#612 Haxorus**
+
+![612](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/612.gif)&nbsp;
 
 ```
 + Level 1 - Fire Punch
@@ -4289,11 +5294,15 @@
 
 **#613 Cubchoo**
 
+![613](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/613.gif)&nbsp;
+
 ```
 + Level 1 - Yawn
 ```
 
 **#614 Beartic**
+
+![614](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/614.gif)&nbsp;
 
 ```
 + Level 1 - Yawn
@@ -4303,11 +5312,15 @@
 
 **#616 Shelmet**
 
+![616](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/616.gif)&nbsp;
+
 ```
 - Level 56 - Shell Smash
 ```
 
 **#617 Accelgor**
+
+![617](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/617.gif)&nbsp;
 
 ```
 + Level 1 - Extreme Speed
@@ -4317,12 +5330,16 @@
 
 **#618 Stunfisk**
 
+![618](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/618.gif)&nbsp;
+
 ```
 + Level 52 - Earth Power
 + Level 58 - Pain Split
 ```
 
 **#620 Mienshao**
+
+![620](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/620.gif)&nbsp;
 
 ```
 + Level 1 - Vacuum Wave
@@ -4333,6 +5350,8 @@
 
 **#621 Druddigon**
 
+![621](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/621.gif)&nbsp;
+
 ```
 + Level 29 - Fire Fang
 + Level 29 - Thunder Fang
@@ -4341,6 +5360,8 @@
 ```
 
 **#623 Golurk**
+
+![623](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/623.gif)&nbsp;
 
 ```
 + Level 1 - Fire Punch
@@ -4351,12 +5372,16 @@
 
 **#624 Pawniard**
 
+![624](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/624.gif)&nbsp;
+
 ```
 + Level 43 - Psycho Cut
 + Level 52 - Sucker Punch
 ```
 
 **#625 Bisharp**
+
+![625](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/625.gif)&nbsp;
 
 ```
 + Level 1 - Revenge
@@ -4371,12 +5396,16 @@
 
 **#626 Bouffalant**
 
+![626](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/626.gif)&nbsp;
+
 ```
 + Level 1 - Iron Head
 + Level 1 - Zen Headbutt
 ```
 
 **#628 Braviary**
+
+![628](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/628.gif)&nbsp;
 
 ```
 + Level 1 - Roost
@@ -4390,6 +5419,8 @@
 
 **#630 Mandibuzz**
 
+![630](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/630.gif)&nbsp;
+
 ```
 + Level 1 - Heat Wave
 + Level 1 - Roost
@@ -4401,11 +5432,15 @@
 
 **#631 Heatmor**
 
+![631](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/631.gif)&nbsp;
+
 ```
 + Level 66 - Heat Wave
 ```
 
 **#632 Durant**
+
+![632](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/632.gif)&nbsp;
 
 ```
 + Level 1 - Thunder Fang
@@ -4413,12 +5448,16 @@
 
 **#633 Deino**
 
+![633](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/633.gif)&nbsp;
+
 ```
 + Level 35 - Dark Pulse
 + Level 45 - Earth Power
 ```
 
 **#634 Zweilous**
+
+![634](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/634.gif)&nbsp;
 
 ```
 + Level 30 - Fire Fang
@@ -4435,6 +5474,8 @@
 
 **#635 Hydreigon**
 
+![635](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/635.gif)&nbsp;
+
 ```
 + Level 30 - Fire Fang
 + Level 30 - Ice Fang
@@ -4449,6 +5490,8 @@
 
 **#637 Volcarona**
 
+![637](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/637.gif)&nbsp;
+
 ```
 + Level 1 - Morning Sun
 = Level 45 – Quiver Dance
@@ -4456,11 +5499,15 @@
 
 **#638 Cobalion**
 
+![638](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/638.gif)&nbsp;
+
 ```
 + Level 79 - Secret Sword
 ```
 
 **#639 Terrakion**
+
+![639](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/639.gif)&nbsp;
 
 ```
 + Level 79 - Secret Sword
@@ -4468,11 +5515,15 @@
 
 **#640 Virizion**
 
+![640](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/640.gif)&nbsp;
+
 ```
 + Level 79 - Secret Sword
 ```
 
 **#643 Reshiram**
+
+![643](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/643.gif)&nbsp;
 
 ```
 - Level 64 - Fire Blast
@@ -4481,12 +5532,16 @@
 
 **#644 Zekrom**
 
+![644](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/644.gif)&nbsp;
+
 ```
 - Level 64 - Thunder
 = Level 71 - Bolt Strike
 ```
 
 **#646 Kyurem**
+
+![646](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/646.gif)&nbsp;
 
 ```
 - Level 64 - Endeavor
@@ -4497,12 +5552,17 @@
 
 **#647 Keldeo**
 
+![647](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/647.gif)&nbsp;
+
 ```
 + Level 1 - Secret Sword
 ```
 
 **#648 Meloetta**
 
+![648](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/648.gif)&nbsp;
+
 ```
 + Level 1 - Relic Song
 ```
+
