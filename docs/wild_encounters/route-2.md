@@ -1,0 +1,19 @@
+| Pokémon | Encounter Type | Chance |
+| --- | --- | --- |
+| [Purrloin](../pokemon/purrloin.md/) | Grass, Normal | 20% |
+| [Patrat](../pokemon/patrat.md/) | Grass, Normal | 20% |
+| [Kricketot](../pokemon/kricketot.md/) | Grass, Normal | 10% |
+| [Caterpie](../pokemon/caterpie.md/) | Grass, Normal | 10% |
+| [Wurmple](../pokemon/wurmple.md/) | Grass, Normal | 10% |
+| [Weedle](../pokemon/weedle.md/) | Grass, Normal | 10% |
+| [Poochyena](../pokemon/poochyena.md/) | Grass, Normal | 5% |
+| [Meowth](../pokemon/meowth.md/) | Grass, Normal | 5% |
+| [Spearow](../pokemon/spearow.md/) | Grass, Normal | 5% |
+| [Mankey](../pokemon/mankey.md/) | Grass, Normal | 5% |
+| [Audino](../pokemon/audino.md/) | Grass, Special | 60% |
+| [Skitty](../pokemon/skitty.md/) | Grass, Special | 10% |
+| [Nincada](../pokemon/nincada.md/) | Grass, Special | 10% |
+| [Butterfree](../pokemon/butterfree.md/) | Grass, Special | 5% |
+| [Beedrill](../pokemon/beedrill.md/) | Grass, Special | 5% |
+| [Beautifly](../pokemon/beautifly.md/) | Grass, Special | 5% |
+| [Dustox](../pokemon/dustox.md/) | Grass, Special | 5% |

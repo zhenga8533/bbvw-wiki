@@ -1,0 +1,26 @@
+| Pokémon | Encounter Type | Chance |
+| --- | --- | --- |
+| [Phanpy](../pokemon/phanpy.md/) | Cave, Normal | 20% |
+| [Teddiursa](../pokemon/teddiursa.md/) | Cave, Normal | 20% |
+| [Cubchoo](../pokemon/cubchoo.md/) | Cave, Normal | 10% |
+| [Sneasel](../pokemon/sneasel.md/) | Cave, Normal | 10% |
+| [Delibird](../pokemon/delibird.md/) | Cave, Normal | 10% |
+| [Swinub](../pokemon/swinub.md/) | Cave, Normal | 10% |
+| [Graveler](../pokemon/graveler.md/) | Cave, Normal | 5% |
+| [Boldore](../pokemon/boldore.md/) | Cave, Normal | 5% |
+| [Cryogonal](../pokemon/cryogonal.md/) | Cave, Normal | 5% |
+| [Gurdurr](../pokemon/gurdurr.md/) | Cave, Normal | 5% |
+| [Excadrill](../pokemon/excadrill.md/) | Cave, Special | 50% |
+| [Dugtrio](../pokemon/dugtrio.md/) | Cave, Special | 50% |
+| [Donphan](../pokemon/donphan.md/) | Cave, Normal | 20% |
+| [Ursaring](../pokemon/ursaring.md/) | Cave, Normal | 20% |
+| [Beartic](../pokemon/beartic.md/) | Cave, Normal | 10% |
+| [Sneasel](../pokemon/sneasel.md/) | Cave, Normal | 10% |
+| [Delibird](../pokemon/delibird.md/) | Cave, Normal | 10% |
+| [Piloswine](../pokemon/piloswine.md/) | Cave, Normal | 10% |
+| [Mawile](../pokemon/mawile.md/) | Cave, Normal | 5% |
+| [Sableye](../pokemon/sableye.md/) | Cave, Normal | 5% |
+| [Cryogonal](../pokemon/cryogonal.md/) | Cave, Normal | 5% |
+| [Durant](../pokemon/durant.md/) | Cave, Normal | 5% |
+| [Excadrill](../pokemon/excadrill.md/) | Cave, Special | 50% |
+| [Dugtrio](../pokemon/dugtrio.md/) | Cave, Special | 50% |

@@ -1,0 +1,24 @@
+| Pokémon | Encounter Type | Chance |
+| --- | --- | --- |
+| [Throh](../pokemon/throh.md/) | Grass, Normal | 20% |
+| [Sawk](../pokemon/sawk.md/) | Grass, Normal | 20% |
+| [Tyrogue](../pokemon/tyrogue.md/) | Grass, Normal | 10% |
+| [Graveler](../pokemon/graveler.md/) | Grass, Normal | 10% |
+| [Gabite](../pokemon/gabite.md/) | Grass, Normal | 10% |
+| [Pupitar](../pokemon/pupitar.md/) | Grass, Normal | 10% |
+| [Kangaskhan](../pokemon/kangaskhan.md/) | Grass, Normal | 10% |
+| [Marowak](../pokemon/marowak.md/) | Grass, Normal | 10% |
+| [Machoke](../pokemon/machoke.md/) | Grass, Doubles | 20% |
+| [Gurdurr](../pokemon/gurdurr.md/) | Grass, Doubles | 20% |
+| [Pupitar](../pokemon/pupitar.md/) | Grass, Doubles | 10% |
+| [Gligar](../pokemon/gligar.md/) | Grass, Doubles | 10% |
+| [Kangaskhan](../pokemon/kangaskhan.md/) | Grass, Doubles | 10% |
+| [Donphan](../pokemon/donphan.md/) | Grass, Doubles | 10% |
+| [Ursaring](../pokemon/ursaring.md/) | Grass, Doubles | 10% |
+| [Marowak](../pokemon/marowak.md/) | Grass, Doubles | 10% |
+| [Audino](../pokemon/audino.md/) | Grass, Special | 70% |
+| [Emolga](../pokemon/emolga.md/) | Grass, Special | 10% |
+| [Tyranitar](../pokemon/tyranitar.md/) | Grass, Special | 5% |
+| [Gliscor](../pokemon/gliscor.md/) | Grass, Special | 5% |
+| [Machamp](../pokemon/machamp.md/) | Grass, Special | 5% |
+| [Conkeldurr](../pokemon/conkeldurr.md/) | Grass, Special | 5% |

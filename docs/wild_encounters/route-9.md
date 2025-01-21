@@ -1,0 +1,21 @@
+| Pokémon | Encounter Type | Chance |
+| --- | --- | --- |
+| [Gothorita](../pokemon/gothorita.md/) | Grass, Normal | 20% |
+| [Duosion](../pokemon/duosion.md/) | Grass, Normal | 20% |
+| [Kirlia](../pokemon/kirlia.md/) | Grass, Normal | 10% |
+| [Minccino](../pokemon/minccino.md/) | Grass, Normal | 10% |
+| [Pawniard](../pokemon/pawniard.md/) | Grass, Normal | 10% |
+| [Skitty](../pokemon/skitty.md/) | Grass, Normal | 10% |
+| [Liepard](../pokemon/liepard.md/) | Grass, Normal | 10% |
+| [Persian](../pokemon/persian.md/) | Grass, Normal | 10% |
+| [Flaaffy](../pokemon/flaaffy.md/) | Grass, Doubles | 20% |
+| [Luxio](../pokemon/luxio.md/) | Grass, Doubles | 20% |
+| [Hypno](../pokemon/hypno.md/) | Grass, Doubles | 10% |
+| [Cinccino](../pokemon/cinccino.md/) | Grass, Doubles | 10% |
+| [Bisharp](../pokemon/bisharp.md/) | Grass, Doubles | 10% |
+| [Garbodor](../pokemon/garbodor.md/) | Grass, Doubles | 10% |
+| [Houndoom](../pokemon/houndoom.md/) | Grass, Doubles | 10% |
+| [Granbull](../pokemon/granbull.md/) | Grass, Doubles | 10% |
+| [Audino](../pokemon/audino.md/) | Grass, Special | 90% |
+| [Gothitelle](../pokemon/gothitelle.md/) | Grass, Special | 5% |
+| [Reuniclus](../pokemon/reuniclus.md/) | Grass, Special | 5% |

@@ -1,0 +1,24 @@
+| Pokémon | Encounter Type | Chance |
+| --- | --- | --- |
+| [Sandile](../pokemon/sandile.md/) | Deep Sand | 20% |
+| [Sandshrew](../pokemon/sandshrew.md/) | Deep Sand | 20% |
+| [Darumaka](../pokemon/darumaka.md/) | Deep Sand | 10% |
+| [Scraggy](../pokemon/scraggy.md/) | Deep Sand | 10% |
+| [Cacnea](../pokemon/cacnea.md/) | Deep Sand | 10% |
+| [Trapinch](../pokemon/trapinch.md/) | Deep Sand | 10% |
+| [Vullaby](../pokemon/vullaby.md/) | Deep Sand | 10% |
+| [Hippopotas](../pokemon/hippopotas.md/) | Deep Sand | 5% |
+| [Elgyem](../pokemon/elgyem.md/) | Deep Sand | 5% |
+| [Frillish](../pokemon/frillish.md/) | Surf, Normal | 60% |
+| [Clamperl](../pokemon/clamperl.md/) | Surf, Normal | 30% |
+| [Relicanth](../pokemon/relicanth.md/) | Surf, Normal | 10% |
+| [Jellicent](../pokemon/jellicent.md/) | Surf, Special | 60% |
+| [Relicanth](../pokemon/relicanth.md/) | Surf, Special | 30% |
+| [Huntail](../pokemon/huntail.md/) | Surf, Special | 5% |
+| [Gorebyss](../pokemon/gorebyss.md/) | Surf, Special | 5% |
+| [Krabby](../pokemon/krabby.md/) | Fish, Normal | 60% |
+| [Corphish](../pokemon/corphish.md/) | Fish, Normal | 30% |
+| [Clamperl](../pokemon/clamperl.md/) | Fish, Normal | 10% |
+| [Clamperl](../pokemon/clamperl.md/) | Fish, Special | 60% |
+| [Frillish](../pokemon/frillish.md/) | Fish, Special | 30% |
+| [Relicanth](../pokemon/relicanth.md/) | Fish, Special | 10% |

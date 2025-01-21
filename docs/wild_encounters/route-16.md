@@ -1,0 +1,25 @@
+| Pokémon | Encounter Type | Chance |
+| --- | --- | --- |
+| [Ekans](../pokemon/ekans.md/) | Grass, Normal | 20% |
+| [Pineco](../pokemon/pineco.md/) | Grass, Normal | 20% |
+| [Skorupi](../pokemon/skorupi.md/) | Grass, Normal | 10% |
+| [Electrike](../pokemon/electrike.md/) | Grass, Normal | 10% |
+| [Combee](../pokemon/combee.md/) | Grass, Normal | 10% |
+| [Paras](../pokemon/paras.md/) | Grass, Normal | 10% |
+| [Buneary](../pokemon/buneary.md/) | Grass, Normal | 5% |
+| [Pawniard](../pokemon/pawniard.md/) | Grass, Normal | 5% |
+| [Drifloon](../pokemon/drifloon.md/) | Grass, Normal | 5% |
+| [Spoink](../pokemon/spoink.md/) | Grass, Normal | 5% |
+| [Zangoose](../pokemon/zangoose.md/) | Grass, Doubles | 20% |
+| [Seviper](../pokemon/seviper.md/) | Grass, Doubles | 20% |
+| [Stunky](../pokemon/stunky.md/) | Grass, Doubles | 10% |
+| [Glameow](../pokemon/glameow.md/) | Grass, Doubles | 10% |
+| [Slugma](../pokemon/slugma.md/) | Grass, Doubles | 10% |
+| [Vespiquen](../pokemon/vespiquen.md/) | Grass, Doubles | 10% |
+| [Parasect](../pokemon/parasect.md/) | Grass, Doubles | 10% |
+| [Girafarig](../pokemon/girafarig.md/) | Grass, Doubles | 5% |
+| [Castform](../pokemon/castform.md/) | Grass, Doubles | 5% |
+| [Audino](../pokemon/audino.md/) | Grass, Special | 70% |
+| [Emolga](../pokemon/emolga.md/) | Grass, Special | 10% |
+| [Bisharp](../pokemon/bisharp.md/) | Grass, Special | 10% |
+| [Lopunny](../pokemon/lopunny.md/) | Grass, Special | 10% |

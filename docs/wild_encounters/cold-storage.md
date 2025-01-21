@@ -1,0 +1,20 @@
+| Pokémon | Encounter Type | Chance |
+| --- | --- | --- |
+| [Vanillite](../pokemon/vanillite.md/) | Grass, Normal | 20% |
+| [Herdier](../pokemon/herdier.md/) | Grass, Normal | 20% |
+| [Snorunt](../pokemon/snorunt.md/) | Grass, Normal | 10% |
+| [Swinub](../pokemon/swinub.md/) | Grass, Normal | 10% |
+| [Cubchoo](../pokemon/cubchoo.md/) | Grass, Normal | 10% |
+| [Buizel](../pokemon/buizel.md/) | Grass, Normal | 10% |
+| [Mienfoo](../pokemon/mienfoo.md/) | Grass, Normal | 10% |
+| [Taillow](../pokemon/taillow.md/) | Grass, Normal | 10% |
+| [Vanillish](../pokemon/vanillish.md/) | Grass, Doubles | 20% |
+| [Herdier](../pokemon/herdier.md/) | Grass, Doubles | 20% |
+| [Swellow](../pokemon/swellow.md/) | Grass, Doubles | 10% |
+| [Floatzel](../pokemon/floatzel.md/) | Grass, Doubles | 10% |
+| [Sneasel](../pokemon/sneasel.md/) | Grass, Doubles | 10% |
+| [Delibird](../pokemon/delibird.md/) | Grass, Doubles | 10% |
+| [Smoochum](../pokemon/smoochum.md/) | Grass, Doubles | 10% |
+| [Piloswine](../pokemon/piloswine.md/) | Grass, Doubles | 10% |
+| [Audino](../pokemon/audino.md/) | Grass, Special | 90% |
+| [Mienshao](../pokemon/mienshao.md/) | Grass, Special | 10% |

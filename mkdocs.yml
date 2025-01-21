@@ -10,6 +10,7 @@ theme:
   features:
     - navigation.footer
     - navigation.instant.progress
+    - navigation.prune
     - navigation.tabs
     - navigation.top
   palette:
@@ -870,49 +871,48 @@ nav:
           - Keldeo Resolute: pokemon/keldeo-resolute.md
           - Meloetta Pirouette: pokemon/meloetta-pirouette.md
   - Wild Encounters:
-      - Route 1: wild_pokemon/route_1.md
-      - Route 2: wild_pokemon/route_2.md
-      - Striaton City: wild_pokemon/striaton_city.md
-      - Dreamyard: wild_pokemon/dreamyard.md
-      - Route 3: wild_pokemon/route_3.md
-      - Wellspring Cave: wild_pokemon/wellspring_cave.md
-      - Pinwheel Forest: wild_pokemon/pinwheel_forest.md
-      - Liberty Garden: wild_pokemon/liberty_garden.md
-      - Route 4: wild_pokemon/route_4.md
-      - Desert Resort: wild_pokemon/desert_resort.md
-      - Relic Castle: wild_pokemon/relic_castle.md
-      - Route 5: wild_pokemon/route_5.md
-      - Route 16: wild_pokemon/route_16.md
-      - Lostlorn Forest: wild_pokemon/lostlorn_forest.md
-      - Driftveil Drawbidge: wild_pokemon/driftveil_drawbidge.md
-      - Driftveil City: wild_pokemon/driftveil_city.md
-      - Cold Storage: wild_pokemon/cold_storage.md
-      - Route 6: wild_pokemon/route_6.md
-      - Chargestone Cave: wild_pokemon/chargestone_cave.md
-      - Route 7: wild_pokemon/route_7.md
-      - Celestial Tower: wild_pokemon/celestial_tower.md
-      - Route 17: wild_pokemon/route_17.md
-      - Route 18: wild_pokemon/route_18.md
-      - P2 Laboratory: wild_pokemon/p2_laboratory.md
-      - Mistralton Cave: wild_pokemon/mistralton_cave.md
-      - Twist Mountain: wild_pokemon/twist_mountain.md
-      - Route 8: wild_pokemon/route_8.md
-      - Moor of Icirrus: wild_pokemon/moor_of_icirrus.md
-      - Dragonspiral Tower: wild_pokemon/dragonspiral_tower.md
-      - Route 9: wild_pokemon/route_9.md
-      - Route 10: wild_pokemon/route_10.md
-      - Victory Road: wild_pokemon/victory_road.md
-      - N’s Castle: wild_pokemon/n’s_castle.md
-      - Route 11: wild_pokemon/route_11.md
-      - Village Bridge: wild_pokemon/village_bridge.md
-      - Route 12: wild_pokemon/route_12.md
-      - Route 13: wild_pokemon/route_13.md
-      - Giant Chasm: wild_pokemon/giant_chasm.md
-      - Undella Town: wild_pokemon/undella_town.md
-      - Undella Bay: wild_pokemon/undella_bay.md
-      - Route 14: wild_pokemon/route_14.md
-      - Abundant Shrine: wild_pokemon/abundant_shrine.md
-      - Black City / White Forest: wild_pokemon/black_city_/_white_forest.md
-      - Route 15: wild_pokemon/route_15.md
-      - Marvelous Bridge: wild_pokemon/marvelous_bridge.md
-      - Challenger’s Cave: wild_pokemon/challenger’s_cave.md
+      - Route 1: wild_encounters/route-1.md
+      - Route 2: wild_encounters/route-2.md
+      - Striaton City: wild_encounters/striaton-city.md
+      - Dreamyard: wild_encounters/dreamyard.md
+      - Route 3: wild_encounters/route-3.md
+      - Wellspring Cave: wild_encounters/wellspring-cave.md
+      - Pinwheel Forest: wild_encounters/pinwheel-forest.md
+      - Liberty Garden: wild_encounters/liberty-garden.md
+      - Route 4: wild_encounters/route-4.md
+      - Desert Resort: wild_encounters/desert-resort.md
+      - Relic Castle: wild_encounters/relic-castle.md
+      - Route 5: wild_encounters/route-5.md
+      - Route 16: wild_encounters/route-16.md
+      - Lostlorn Forest: wild_encounters/lostlorn-forest.md
+      - Driftveil Drawbidge: wild_encounters/driftveil-drawbidge.md
+      - Driftveil City: wild_encounters/driftveil-city.md
+      - Cold Storage: wild_encounters/cold-storage.md
+      - Route 6: wild_encounters/route-6.md
+      - Chargestone Cave: wild_encounters/chargestone-cave.md
+      - Route 7: wild_encounters/route-7.md
+      - Celestial Tower: wild_encounters/celestial-tower.md
+      - Route 17: wild_encounters/route-17.md
+      - Route 18: wild_encounters/route-18.md
+      - P2 Laboratory: wild_encounters/p2-laboratory.md
+      - Mistralton Cave: wild_encounters/mistralton-cave.md
+      - Twist Mountain: wild_encounters/twist-mountain.md
+      - Route 8: wild_encounters/route-8.md
+      - Moor of Icirrus: wild_encounters/moor-of-icirrus.md
+      - Dragonspiral Tower: wild_encounters/dragonspiral-tower.md
+      - Route 9: wild_encounters/route-9.md
+      - Route 10: wild_encounters/route-10.md
+      - Victory Road: wild_encounters/victory-road.md
+      - N’s Castle: wild_encounters/n’s-castle.md
+      - Route 11: wild_encounters/route-11.md
+      - Village Bridge: wild_encounters/village-bridge.md
+      - Route 12: wild_encounters/route-12.md
+      - Route 13: wild_encounters/route-13.md
+      - Giant Chasm: wild_encounters/giant-chasm.md
+      - Undella Town: wild_encounters/undella-town.md
+      - Undella Bay: wild_encounters/undella-bay.md
+      - Route 14: wild_encounters/route-14.md
+      - Abundant Shrine: wild_encounters/abundant-shrine.md
+      - Route 15: wild_encounters/route-15.md
+      - Marvelous Bridge: wild_encounters/marvelous-bridge.md
+      - Challenger’s Cave: wild_encounters/challenger’s-cave.md

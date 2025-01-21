@@ -1,0 +1,20 @@
+| Pokémon | Encounter Type | Chance |
+| --- | --- | --- |
+| [Porygon](../pokemon/porygon.md/) | Grass, Normal | 20% |
+| [Klang](../pokemon/klang.md/) | Grass, Normal | 20% |
+| [Magneton](../pokemon/magneton.md/) | Grass, Normal | 20% |
+| [Electrode](../pokemon/electrode.md/) | Grass, Normal | 20% |
+| [Kingler](../pokemon/kingler.md/) | Grass, Normal | 10% |
+| [Shuckle](../pokemon/shuckle.md/) | Grass, Normal | 10% |
+| [Audino](../pokemon/audino.md/) | Grass, Special | 95% |
+| [Porygon2](../pokemon/porygon2.md/) | Grass, Special | 5% |
+| [Wingull](../pokemon/wingull.md/) | Surf, Normal | 60% |
+| [Tentacool](../pokemon/tentacool.md/) | Surf, Normal | 30% |
+| [Pelipper](../pokemon/pelipper.md/) | Surf, Normal | 10% |
+| [Tentacruel](../pokemon/tentacruel.md/) | Surf, Special | 60% |
+| [Frillish](../pokemon/frillish.md/) | Surf, Special | 30% |
+| [Jellicent](../pokemon/jellicent.md/) | Surf, Special | 10% |
+| [Krabby](../pokemon/krabby.md/) | Fish, Normal | 60% |
+| [Corphish](../pokemon/corphish.md/) | Fish, Normal | 40% |
+| [Kingler](../pokemon/kingler.md/) | Fish, Special | 60% |
+| [Crawdaunt](../pokemon/crawdaunt.md/) | Fish, Special | 40% |

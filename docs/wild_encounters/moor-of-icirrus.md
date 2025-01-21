@@ -1,0 +1,19 @@
+| Pokémon | Encounter Type | Chance |
+| --- | --- | --- |
+| [Quagsire](../pokemon/quagsire.md/) | Puddle, Normal | 20% |
+| [Stunfisk](../pokemon/stunfisk.md/) | Puddle, Normal | 20% |
+| [Gastrodon](../pokemon/gastrodon.md/) | Puddle, Normal | 10% |
+| [Toxicroak](../pokemon/toxicroak.md/) | Puddle, Normal | 10% |
+| [Swalot](../pokemon/swalot.md/) | Puddle, Normal | 10% |
+| [Weezing](../pokemon/weezing.md/) | Puddle, Normal | 10% |
+| [Muk](../pokemon/muk.md/) | Puddle, Normal | 10% |
+| [Palpitoad](../pokemon/palpitoad.md/) | Puddle, Normal | 10% |
+| [Stunfisk](../pokemon/stunfisk.md/) | Surf, Normal | 60% |
+| [Barboach](../pokemon/barboach.md/) | Surf, Normal | 40% |
+| [Whiscash](../pokemon/whiscash.md/) | Surf, Special | 60% |
+| [Seismitoad](../pokemon/seismitoad.md/) | Surf, Special | 40% |
+| [Barboach](../pokemon/barboach.md/) | Fish, Normal | 70% |
+| [Stunfisk](../pokemon/stunfisk.md/) | Fish, Normal | 30% |
+| [Barboach](../pokemon/barboach.md/) | Fish, Special | 60% |
+| [Stunfisk](../pokemon/stunfisk.md/) | Fish, Special | 30% |
+| [Whiscash](../pokemon/whiscash.md/) | Fish, Special | 10% |

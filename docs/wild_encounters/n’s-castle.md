@@ -1,0 +1,2 @@
+| Pokémon | Encounter Type | Chance |
+| --- | --- | --- |

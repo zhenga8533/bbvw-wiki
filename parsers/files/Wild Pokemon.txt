@@ -28,7 +28,7 @@ Route 2
 
 
 Grass, Normal: Purrloin (20%), Patrat (20%), Kricketot (10%), Caterpie (10%), Wurmple (10%), Weedle (10%), Poochyena (5%), Meowth (5%), Spearow (5%), Mankey (5%)
-Grass, Special: Audino (60%),  Skitty (10%), Nincada (10%), Butterfree (5%), Beedrill (5%), Beautifly (5%), Dustox (5%)
+Grass, Special: Audino (60%), Skitty (10%), Nincada (10%), Butterfree (5%), Beedrill (5%), Beautifly (5%), Dustox (5%)
 ==================================================================
 Striaton City
 
@@ -43,7 +43,7 @@ Dreamyard
 
 
 
-Grass, Normal: Munna (20%), Drowzee (20%), Spinda (10%), Natu (10%), Venonat (10%), Ralts (10%), Clefairy (5%), Jigglypuff (5%), Nidoran♂ (5%), Nidoran♀ (5%)
+Grass, Normal: Munna (20%), Drowzee (20%), Spinda (10%), Natu (10%), Venonat (10%), Ralts (10%), Clefairy (5%), Jigglypuff (5%), Nidoran M (5%), Nidoran F (5%)
 Grass, Doubles: Munna (20%), Hypno (20%), Clefairy (10%), Jigglypuff (10%), Xatu (10%), Venomoth (10%), Kirlia (10%), Spinda (10%)
 Grass, Special: Audino (40%), Togepi (20%), Cleffa (10%), Igglybuff (10%), Chingling (10%), Lunatone (5%), Solrock (5%)
 
@@ -450,7 +450,7 @@ Route 8
 
 
 
-Puddle, Normal: Palpitoad (20%), Stunfisk (20%), Croagunk (10%), Gulpin (10%), Koffing (10%), Grimer (10%), Gastrodon-E (5%), Quagsire (5%), Toxicroak (4%), Swalot (4%), Weezing (1%), Muk (1%)
+Puddle, Normal: Palpitoad (20%), Stunfisk (20%), Croagunk (10%), Gulpin (10%), Koffing (10%), Grimer (10%), Gastrodon (5%), Quagsire (5%), Toxicroak (4%), Swalot (4%), Weezing (1%), Muk (1%)
 Surf, Normal: Stunfisk (60%), Barboach (40%)
 Surf, Special: Whiscash (60%), Seismitoad (40%)
 Fish, Normal: Barboach (70%), Stunfisk (30%)
@@ -460,7 +460,7 @@ Moor of Icirrus
 
 
 
-Puddle, Normal: Quagsire (20%), Stunfisk (20%), Gastrodon-E (10%), Toxicroak (10%), Swalot (10%), Weezing (10%), Muk (10%), Palpitoad (10%)
+Puddle, Normal: Quagsire (20%), Stunfisk (20%), Gastrodon (10%), Toxicroak (10%), Swalot (10%), Weezing (10%), Muk (10%), Palpitoad (10%)
 Surf, Normal: Stunfisk (60%), Barboach (40%)
 Surf, Special: Whiscash (60%), Seismitoad (40%)
 Fish, Normal: Barboach (70%), Stunfisk (30%)

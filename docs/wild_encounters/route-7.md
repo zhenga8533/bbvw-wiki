@@ -1,0 +1,25 @@
+| Pokémon | Encounter Type | Chance |
+| --- | --- | --- |
+| [Ponyta](../pokemon/ponyta.md/) | Grass, Normal | 20% |
+| [Aipom](../pokemon/aipom.md/) | Grass, Normal | 20% |
+| [Magby](../pokemon/magby.md/) | Grass, Normal | 10% |
+| [Nincada](../pokemon/nincada.md/) | Grass, Normal | 10% |
+| [Doduo](../pokemon/doduo.md/) | Grass, Normal | 10% |
+| [Cubone](../pokemon/cubone.md/) | Grass, Normal | 10% |
+| [Skarmory](../pokemon/skarmory.md/) | Grass, Normal | 5% |
+| [Pachirisu](../pokemon/pachirisu.md/) | Grass, Normal | 5% |
+| [Torkoal](../pokemon/torkoal.md/) | Grass, Normal | 5% |
+| [Gligar](../pokemon/gligar.md/) | Grass, Normal | 5% |
+| [Rapidash](../pokemon/rapidash.md/) | Grass, Doubles | 20% |
+| [Ambipom](../pokemon/ambipom.md/) | Grass, Doubles | 20% |
+| [Magmar](../pokemon/magmar.md/) | Grass, Doubles | 10% |
+| [Ninjask](../pokemon/ninjask.md/) | Grass, Doubles | 10% |
+| [Dodrio](../pokemon/dodrio.md/) | Grass, Doubles | 10% |
+| [Marowak](../pokemon/marowak.md/) | Grass, Doubles | 10% |
+| [Heatmor](../pokemon/heatmor.md/) | Grass, Doubles | 5% |
+| [Bouffalant](../pokemon/bouffalant.md/) | Grass, Doubles | 5% |
+| [Miltank](../pokemon/miltank.md/) | Grass, Doubles | 5% |
+| [Tauros](../pokemon/tauros.md/) | Grass, Doubles | 5% |
+| [Audino](../pokemon/audino.md/) | Grass, Shaking | 60% |
+| [Emolga](../pokemon/emolga.md/) | Grass, Shaking | 30% |
+| [Gliscor](../pokemon/gliscor.md/) | Grass, Shaking | 10% |

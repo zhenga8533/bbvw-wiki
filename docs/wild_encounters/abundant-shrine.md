@@ -1,0 +1,32 @@
+| Pokémon | Encounter Type | Chance |
+| --- | --- | --- |
+| [Chimecho](../pokemon/chimecho.md/) | Grass, Normal | 20% |
+| [Vulpix](../pokemon/vulpix.md/) | Grass, Normal | 20% |
+| [Growlithe](../pokemon/growlithe.md/) | Grass, Normal | 10% |
+| [Cottonee](../pokemon/cottonee.md/) | Grass, Normal | 10% |
+| [Petilil](../pokemon/petilil.md/) | Grass, Normal | 10% |
+| [Bronzor](../pokemon/bronzor.md/) | Grass, Normal | 10% |
+| [Murkrow](../pokemon/murkrow.md/) | Grass, Normal | 10% |
+| [Misdreavus](../pokemon/misdreavus.md/) | Grass, Normal | 10% |
+| [Eevee](../pokemon/eevee.md/) | Grass, Doubles | 20% |
+| [Bronzong](../pokemon/bronzong.md/) | Grass, Doubles | 20% |
+| [Girafarig](../pokemon/girafarig.md/) | Grass, Doubles | 10% |
+| [Stantler](../pokemon/stantler.md/) | Grass, Doubles | 10% |
+| [Hypno](../pokemon/hypno.md/) | Grass, Doubles | 10% |
+| [Mightyena](../pokemon/mightyena.md/) | Grass, Doubles | 10% |
+| [Mr. Mime](../pokemon/mr-mime.md/) | Grass, Doubles | 10% |
+| [Sudowoodo](../pokemon/sudowoodo.md/) | Grass, Doubles | 10% |
+| [Audino](../pokemon/audino.md/) | Grass, Special | 70% |
+| [Emolga](../pokemon/emolga.md/) | Grass, Special | 10% |
+| [Arcanine](../pokemon/arcanine.md/) | Grass, Special | 5% |
+| [Ninetales](../pokemon/ninetales.md/) | Grass, Special | 5% |
+| [Whimsicott](../pokemon/whimsicott.md/) | Grass, Special | 5% |
+| [Lilligant](../pokemon/lilligant.md/) | Grass, Special | 5% |
+| [Slowpoke](../pokemon/slowpoke.md/) | Surf, Normal | 100% |
+| [Slowking](../pokemon/slowking.md/) | Surf, Special | 60% |
+| [Slowbro](../pokemon/slowbro.md/) | Surf, Special | 40% |
+| [Goldeen](../pokemon/goldeen.md/) | Fish, Normal | 70% |
+| [Basculin](../pokemon/basculin.md/) | Fish, Normal | 30% |
+| [Goldeen](../pokemon/goldeen.md/) | Fish, Special | 60% |
+| [Basculin](../pokemon/basculin.md/) | Fish, Special | 30% |
+| [Seaking](../pokemon/seaking.md/) | Fish, Special | 10% |
