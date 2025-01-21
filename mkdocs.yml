@@ -9,11 +9,9 @@ theme:
   favicon: assets/logo.png
   features:
     - navigation.footer
-    - navigation.instant
     - navigation.instant.progress
     - navigation.tabs
     - navigation.top
-    - navigation.sections
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"

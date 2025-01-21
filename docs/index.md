@@ -6,7 +6,7 @@
 
 !!! warning "WARNING"
 
-    This site is not a viable source for the [Classic] version of this rom hack.
+    This site is not a viable source for the [Classic] version of this rom hack. It is recommended to play the [Full] version of either ROM Hack!
 
 ---
 
