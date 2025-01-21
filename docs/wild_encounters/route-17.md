@@ -1,11 +1,34 @@
-| Pokémon | Encounter Type | Chance |
-| --- | --- | --- |
-| [Wailmer](../pokemon/wailmer.md/) | Surf, Normal | 60% |
-| [Corsola](../pokemon/corsola.md/) | Surf, Normal | 30% |
-| [Mantyke](../pokemon/mantyke.md/) | Surf, Normal | 10% |
-| [Wailord](../pokemon/wailord.md/) | Surf, Special | 60% |
-| [Corsola](../pokemon/corsola.md/) | Surf, Special | 30% |
-| [Mantine](../pokemon/mantine.md/) | Surf, Special | 10% |
-| [Luvdisc](../pokemon/luvdisc.md/) | Fish, Normal | 100% |
-| [Alomomola](../pokemon/alomomola.md/) | Fish, Special | 60% |
-| [Corsola](../pokemon/corsola.md/) | Fish, Special | 40% |
+
+
+### Surf, Normal
+
+
+| Sprite | Pokémon | Encounter Type | Chance |
+| :---: | --- | :---: | --- |
+| ![Wailmer](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/320.gif) | [Wailmer](../pokemon/wailmer.md/) | ![Surf, Normal](../assets/encounter_types/surf_normal.png){: style='max-width: 24px;' } | 60% |
+| ![Corsola](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/222.gif) | [Corsola](../pokemon/corsola.md/) | ![Surf, Normal](../assets/encounter_types/surf_normal.png){: style='max-width: 24px;' } | 30% |
+| ![Mantyke](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/458.gif) | [Mantyke](../pokemon/mantyke.md/) | ![Surf, Normal](../assets/encounter_types/surf_normal.png){: style='max-width: 24px;' } | 10%
+
+### Surf, Special
+
+
+| Sprite | Pokémon | Encounter Type | Chance |
+| :---: | --- | :---: | --- |
+| ![Wailord](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/321.gif) | [Wailord](../pokemon/wailord.md/) | ![Surf, Special](../assets/encounter_types/surf_special.png){: style='max-width: 24px;' } | 60% |
+| ![Corsola](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/222.gif) | [Corsola](../pokemon/corsola.md/) | ![Surf, Special](../assets/encounter_types/surf_special.png){: style='max-width: 24px;' } | 30% |
+| ![Mantine](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/226.gif) | [Mantine](../pokemon/mantine.md/) | ![Surf, Special](../assets/encounter_types/surf_special.png){: style='max-width: 24px;' } | 10%
+
+### Fish, Normal
+
+
+| Sprite | Pokémon | Encounter Type | Chance |
+| :---: | --- | :---: | --- |
+| ![Luvdisc](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/370.gif) | [Luvdisc](../pokemon/luvdisc.md/) | ![Fish, Normal](../assets/encounter_types/fish_normal.png){: style='max-width: 24px;' } | 100%
+
+### Fish, Special
+
+
+| Sprite | Pokémon | Encounter Type | Chance |
+| :---: | --- | :---: | --- |
+| ![Alomomola](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/594.gif) | [Alomomola](../pokemon/alomomola.md/) | ![Fish, Special](../assets/encounter_types/fish_special.png){: style='max-width: 24px;' } | 60% |
+| ![Corsola](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/222.gif) | [Corsola](../pokemon/corsola.md/) | ![Fish, Special](../assets/encounter_types/fish_special.png){: style='max-width: 24px;' } | 40% |

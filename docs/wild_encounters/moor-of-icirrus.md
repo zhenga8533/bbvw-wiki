@@ -1,19 +1,48 @@
-| Pokémon | Encounter Type | Chance |
-| --- | --- | --- |
-| [Quagsire](../pokemon/quagsire.md/) | Puddle, Normal | 20% |
-| [Stunfisk](../pokemon/stunfisk.md/) | Puddle, Normal | 20% |
-| [Gastrodon](../pokemon/gastrodon.md/) | Puddle, Normal | 10% |
-| [Toxicroak](../pokemon/toxicroak.md/) | Puddle, Normal | 10% |
-| [Swalot](../pokemon/swalot.md/) | Puddle, Normal | 10% |
-| [Weezing](../pokemon/weezing.md/) | Puddle, Normal | 10% |
-| [Muk](../pokemon/muk.md/) | Puddle, Normal | 10% |
-| [Palpitoad](../pokemon/palpitoad.md/) | Puddle, Normal | 10% |
-| [Stunfisk](../pokemon/stunfisk.md/) | Surf, Normal | 60% |
-| [Barboach](../pokemon/barboach.md/) | Surf, Normal | 40% |
-| [Whiscash](../pokemon/whiscash.md/) | Surf, Special | 60% |
-| [Seismitoad](../pokemon/seismitoad.md/) | Surf, Special | 40% |
-| [Barboach](../pokemon/barboach.md/) | Fish, Normal | 70% |
-| [Stunfisk](../pokemon/stunfisk.md/) | Fish, Normal | 30% |
-| [Barboach](../pokemon/barboach.md/) | Fish, Special | 60% |
-| [Stunfisk](../pokemon/stunfisk.md/) | Fish, Special | 30% |
-| [Whiscash](../pokemon/whiscash.md/) | Fish, Special | 10% |
+
+
+### Puddle, Normal
+
+
+| Sprite | Pokémon | Encounter Type | Chance |
+| :---: | --- | :---: | --- |
+| ![Quagsire](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/195.gif) | [Quagsire](../pokemon/quagsire.md/) | ![Puddle, Normal](../assets/encounter_types/puddle_normal.png){: style='max-width: 24px;' } | 20% |
+| ![Stunfisk](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/618.gif) | [Stunfisk](../pokemon/stunfisk.md/) | ![Puddle, Normal](../assets/encounter_types/puddle_normal.png){: style='max-width: 24px;' } | 20% |
+| ![Gastrodon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/423.gif) | [Gastrodon](../pokemon/gastrodon.md/) | ![Puddle, Normal](../assets/encounter_types/puddle_normal.png){: style='max-width: 24px;' } | 10% |
+| ![Toxicroak](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/454.gif) | [Toxicroak](../pokemon/toxicroak.md/) | ![Puddle, Normal](../assets/encounter_types/puddle_normal.png){: style='max-width: 24px;' } | 10% |
+| ![Swalot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/317.gif) | [Swalot](../pokemon/swalot.md/) | ![Puddle, Normal](../assets/encounter_types/puddle_normal.png){: style='max-width: 24px;' } | 10% |
+| ![Weezing](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/110.gif) | [Weezing](../pokemon/weezing.md/) | ![Puddle, Normal](../assets/encounter_types/puddle_normal.png){: style='max-width: 24px;' } | 10% |
+| ![Muk](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/89.gif) | [Muk](../pokemon/muk.md/) | ![Puddle, Normal](../assets/encounter_types/puddle_normal.png){: style='max-width: 24px;' } | 10% |
+| ![Palpitoad](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/536.gif) | [Palpitoad](../pokemon/palpitoad.md/) | ![Puddle, Normal](../assets/encounter_types/puddle_normal.png){: style='max-width: 24px;' } | 10%
+
+### Surf, Normal
+
+
+| Sprite | Pokémon | Encounter Type | Chance |
+| :---: | --- | :---: | --- |
+| ![Stunfisk](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/618.gif) | [Stunfisk](../pokemon/stunfisk.md/) | ![Surf, Normal](../assets/encounter_types/surf_normal.png){: style='max-width: 24px;' } | 60% |
+| ![Barboach](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/339.gif) | [Barboach](../pokemon/barboach.md/) | ![Surf, Normal](../assets/encounter_types/surf_normal.png){: style='max-width: 24px;' } | 40%
+
+### Surf, Special
+
+
+| Sprite | Pokémon | Encounter Type | Chance |
+| :---: | --- | :---: | --- |
+| ![Whiscash](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/340.gif) | [Whiscash](../pokemon/whiscash.md/) | ![Surf, Special](../assets/encounter_types/surf_special.png){: style='max-width: 24px;' } | 60% |
+| ![Seismitoad](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/537.gif) | [Seismitoad](../pokemon/seismitoad.md/) | ![Surf, Special](../assets/encounter_types/surf_special.png){: style='max-width: 24px;' } | 40%
+
+### Fish, Normal
+
+
+| Sprite | Pokémon | Encounter Type | Chance |
+| :---: | --- | :---: | --- |
+| ![Barboach](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/339.gif) | [Barboach](../pokemon/barboach.md/) | ![Fish, Normal](../assets/encounter_types/fish_normal.png){: style='max-width: 24px;' } | 70% |
+| ![Stunfisk](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/618.gif) | [Stunfisk](../pokemon/stunfisk.md/) | ![Fish, Normal](../assets/encounter_types/fish_normal.png){: style='max-width: 24px;' } | 30%
+
+### Fish, Special
+
+
+| Sprite | Pokémon | Encounter Type | Chance |
+| :---: | --- | :---: | --- |
+| ![Barboach](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/339.gif) | [Barboach](../pokemon/barboach.md/) | ![Fish, Special](../assets/encounter_types/fish_special.png){: style='max-width: 24px;' } | 60% |
+| ![Stunfisk](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/618.gif) | [Stunfisk](../pokemon/stunfisk.md/) | ![Fish, Special](../assets/encounter_types/fish_special.png){: style='max-width: 24px;' } | 30% |
+| ![Whiscash](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/340.gif) | [Whiscash](../pokemon/whiscash.md/) | ![Fish, Special](../assets/encounter_types/fish_special.png){: style='max-width: 24px;' } | 10% |

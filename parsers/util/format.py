@@ -40,3 +40,14 @@ def parse_camel_case(s: str) -> str:
     """
 
     return re.sub("([a-z])([A-Z])", r"\1 \2", s)
+
+
+def remove_special_characters(s: str) -> str:
+    """
+    Remove special characters from a string.
+
+    :param s: The string to remove special characters from.
+    :return: The string without special characters.
+    """
+
+    return re.sub(r"[^a-zA-Z0-9\s]", "", s)

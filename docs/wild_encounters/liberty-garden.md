@@ -1,2 +1,2 @@
-| Pokémon | Encounter Type | Chance |
-| --- | --- | --- |
+| Sprite | Pokémon | Encounter Type | Chance |
+| :---: | --- | :---: | --- |

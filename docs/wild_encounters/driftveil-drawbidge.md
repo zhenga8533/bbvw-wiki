@@ -1,7 +1,12 @@
-| Pokémon | Encounter Type | Chance |
-| --- | --- | --- |
-| [Ducklett](../pokemon/ducklett.md/) | Bridge, Special | 20% |
-| [Wingull](../pokemon/wingull.md/) | Bridge, Special | 20% |
-| [Swablu](../pokemon/swablu.md/) | Bridge, Special | 20% |
-| [Spearow](../pokemon/spearow.md/) | Bridge, Special | 20% |
-| [Hoppip](../pokemon/hoppip.md/) | Bridge, Special | 20% |
+
+
+### Bridge, Special
+
+
+| Sprite | Pokémon | Encounter Type | Chance |
+| :---: | --- | :---: | --- |
+| ![Ducklett](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/580.gif) | [Ducklett](../pokemon/ducklett.md/) | ![Bridge, Special](../assets/encounter_types/bridge_special.png){: style='max-width: 24px;' } | 20% |
+| ![Wingull](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/278.gif) | [Wingull](../pokemon/wingull.md/) | ![Bridge, Special](../assets/encounter_types/bridge_special.png){: style='max-width: 24px;' } | 20% |
+| ![Swablu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/333.gif) | [Swablu](../pokemon/swablu.md/) | ![Bridge, Special](../assets/encounter_types/bridge_special.png){: style='max-width: 24px;' } | 20% |
+| ![Spearow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/21.gif) | [Spearow](../pokemon/spearow.md/) | ![Bridge, Special](../assets/encounter_types/bridge_special.png){: style='max-width: 24px;' } | 20% |
+| ![Hoppip](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/187.gif) | [Hoppip](../pokemon/hoppip.md/) | ![Bridge, Special](../assets/encounter_types/bridge_special.png){: style='max-width: 24px;' } | 20% |

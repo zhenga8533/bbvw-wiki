@@ -39,7 +39,7 @@ def load(file_path: str) -> str:
             return content
     except FileNotFoundError:
         print(f"The file {file_path} was not found.")
-        exit(1)
+        return ""
     except Exception as e:
         print(f"An error occurred while loading {file_path}: {e}")
         exit(1)
