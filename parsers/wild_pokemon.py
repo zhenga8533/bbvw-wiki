@@ -8,9 +8,11 @@ def main():
     n = len(lines)
     md = ""
 
-    curr_location = None
     locations = []
     special_encounter = False
+
+    curr_location = None
+    location_md = ""
 
     for i in range(n):
         last_line = lines[i - 1] if i > 0 else ""
@@ -22,18 +24,30 @@ def main():
                 special_encounter = False
         elif last_line.startswith("="):
             md += f"---\n\n## {line}\n\n"
+            if location_md != "" and curr_location != "Black City / White Forest":
+                save(f"wild_encounters/{curr_location.lower().replace(' ', '-')}.md", location_md)
+
+            location_md = "| Pokémon | Encounter Type | Chance |\n| --- | --- | --- |\n"
             curr_location = line
             locations.append(line)
         elif ": " in line:
             encounter_type, encounters = line.split(": ")
+            encounters = encounters.split(", ")
 
             md += f"{encounter_type}\n\n"
             md += f"```\n"
-            for i, encounter in enumerate(encounters.split(", ")):
+            for i, encounter in enumerate(encounters):
                 pokemon, chance = encounter.split(" (")
-                chance = chance[:-2]
+                chance = chance.rstrip(")")
 
-                md += f"{i + 1}. {pokemon} ({chance}%)\n"
+                # Add data to base md
+                md += f"{i + 1}. {pokemon} ({chance})\n"
+
+                # Add data to wild encounter md
+                pokemon_id = (
+                    "".join(char for char in pokemon if char.isalnum() or char.isspace()).replace(" ", "-").lower()
+                )
+                location_md += f"| [{pokemon}](../pokemon/{pokemon_id}.md/) | {encounter_type} | {chance} |\n"
             md += "```\n\n"
         elif line.endswith("Encounter"):
             md += line + "\n\n```\n"
@@ -46,6 +60,12 @@ def main():
             md += f"{line.rstrip(".")}\n"
         elif " – " in line:
             md += f"#### <u>{line}</u>\n\n"
+
+            if location_md.endswith("| --- | --- | --- |\n"):
+                location_md = f"## {line}\n\n"
+            else:
+                location_md += f"\n## {line}\n\n"
+            location_md += f"| Pokémon | Encounter Type | Chance |\n| --- | --- | --- |\n"
         else:
             md += line + "\n\n"
 
@@ -53,9 +73,12 @@ def main():
     nav = ""
 
     for location in locations:
-        nav += f"      - {location}: wild_pokemon/{location.lower().replace(' ', '_')}.md\n"
+        if "/" in location:
+            continue
+        nav += f"      - {location}: wild_encounters/{location.lower().replace(' ', '-')}.md\n"
 
-    save("output/wild_pokemon_nav.md", nav.rstrip())
+    save(f"wild_encounters/{curr_location.lower().replace(' ', '-')}.md", location_md)
+    save("output/wild_encounters_nav.md", nav.rstrip())
     save("output/wild_pokemon.md", md)
 
 
