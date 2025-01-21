@@ -18,15 +18,15 @@ Its humped back stores intensely hot magma. In rain, the magma cools, slowing it
 
 ### Cries
 
-Legacy (Blaze Black/Volt White):
+Latest (Gen VI+):
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/322.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/322.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
-Latest:
+Legacy:
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/322.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/322.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 

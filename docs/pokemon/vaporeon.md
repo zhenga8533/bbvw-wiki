@@ -18,15 +18,15 @@ Its cell composition is similar to water molecules. As a result, it can melt awa
 
 ### Cries
 
-Legacy (Blaze Black/Volt White):
+Latest (Gen VI+):
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/134.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/134.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
-Latest:
+Legacy:
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/134.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/134.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 

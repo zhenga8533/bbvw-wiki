@@ -18,15 +18,15 @@ It is said to live 10,000 years. Its furry tail is popular as a symbol of longev
 
 ### Cries
 
-Legacy (Blaze Black/Volt White):
+Latest (Gen VI+):
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/8.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/8.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
-Latest:
+Legacy:
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/8.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/8.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 

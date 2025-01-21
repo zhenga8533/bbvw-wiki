@@ -18,15 +18,15 @@ Its arms are made of plants that bind themselves to things. They grow back right
 
 ### Cries
 
-Legacy (Blaze Black/Volt White):
+Latest (Gen VI+):
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/465.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/465.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
-Latest:
+Legacy:
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/465.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/465.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 

@@ -18,15 +18,15 @@ It loves sweet honey. To keep all the honey to itself, it hurls rivals away with
 
 ### Cries
 
-Legacy (Blaze Black/Volt White):
+Latest (Gen VI+):
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/214.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/214.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 
-Latest:
+Legacy:
 <p><audio controls>
-  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/214.ogg" type="audio/ogg">
+  <source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/214.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></p>
 

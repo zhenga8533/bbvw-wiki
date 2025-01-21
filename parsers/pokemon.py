@@ -90,12 +90,12 @@ def to_md(pokemon: dict, pokemon_set: dict) -> str:
 
     # Cries
     md += "### Cries\n\n"
-    md += "Legacy (Blaze Black/Volt White):\n<p><audio controls>\n"
-    md += f"  <source src=\"{pokemon['cry_legacy']}\" type=\"audio/ogg\">\n"
+    md += "Latest (Gen VI+):\n<p><audio controls>\n"
+    md += f"  <source src=\"{pokemon['cry_latest']}\" type=\"audio/ogg\">\n"
     md += "  Your browser does not support the audio element.\n"
     md += "</audio></p>\n\n"
-    md += "Latest:\n<p><audio controls>\n"
-    md += f"  <source src=\"{pokemon['cry_latest']}\" type=\"audio/ogg\">\n"
+    md += "Legacy:\n<p><audio controls>\n"
+    md += f"  <source src=\"{pokemon['cry_legacy']}\" type=\"audio/ogg\">\n"
     md += "  Your browser does not support the audio element.\n"
     md += "</audio></p>\n\n"
 
@@ -338,6 +338,9 @@ def main():
                 species.append(new_name)
             else:
                 forms.append(new_name)
+    for form in forms[:]:
+        if form in species:
+            forms.remove(form)
 
     # Generate nav for mkdocs.yml
     generations = ["Kanto", "Johto", "Hoenn", "Sinnoh", "Unova"]
@@ -356,6 +359,7 @@ def main():
         nav += f"          - {clean_name}: pokemon/{name}.md\n"
 
     save("output/pokemon_nav.md", nav)
+    exit(0)
 
     # Generate markdown files for each Pokémon
     for pokemon in pokedex:
