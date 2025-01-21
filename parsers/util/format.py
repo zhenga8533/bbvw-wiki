@@ -31,6 +31,27 @@ def create_image_table(headings, images):
     return f"{table_header}\n{table_divider}\n{table_body}\n\n"
 
 
+def format_animated_sprite(pokemon_num: str) -> str:
+    gif_link = f"![{pokemon_num}](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/"
+    gif_link += f"pokemon/versions/generation-v/black-white/animated/{pokemon_num}.gif)&nbsp;"
+    return gif_link
+
+
+def format_pokemon_id(pokemon_name: str, start_index: int = 0) -> str:
+    """
+    Format a Pokémon name to a valid identifier.
+
+    :param pokemon_name: The name of the Pokémon.
+    :param start_index: The index to start splitting the Pokémon name.
+    :return: The formatted Pokémon name.
+    """
+
+    pokemon_name = remove_special_characters(pokemon_name)
+    pokemon_name = "-".join(pokemon_name.split(" ")[start_index:]).lower()
+
+    return clean_variable_name(pokemon_name.lower())
+
+
 def remove_special_characters(s: str) -> str:
     """
     Remove special characters from a string.

@@ -1205,9 +1205,14 @@ Ability One: Pickpocket
 Ability Two: Technician
 
 
-#216 Teddiursa, #217 Ursaring
-Ability One: Pickup (Teddiursa) / Guts (Ursaring)
-Ability Two: Honey Gather (Teddiursa) / Sheer Force (Ursaring)
+#216 Teddiursa
+Ability One: Pickup
+Ability Two: Honey Gather
+
+
+#217 Ursaring
+Ability One: Pickup
+Ability Two: Sheer Force
 
 
 #218 Slugma
@@ -1315,9 +1320,14 @@ Ability One: Moody
 Ability Two: Technician
 
 
-#236 Tyrogue, #237 Hitmontop
-Ability One: Guts (Tyrogue) / Intimidate (Hitmontop)
-Ability Two: Vital Spirit (Tyrogue) / Technician (Hitmontop)
+#236 Tyrogue
+Ability One: Guts
+Ability Two: Vital Spirit
+
+
+#237 Hitmontop
+Ability One: Intimidate
+Ability Two: Technician
 
 
 #238 Smoochum
@@ -2636,9 +2646,9 @@ Ability One: Sheer Force
 Ability Two: Sheer Force
 
 
-#487 Giratina
-Ability One: Pressure (Altered) / Levitate (Origin)
-Ability Two: Telepathy (Altered) / Levitate (Origin)
+#487 Giratina (Altered)
+Ability One: Pressure
+Ability Two: Telepathy
 
 
 #488 Cresselia
@@ -2672,8 +2682,6 @@ Ability Two: Bad Dreams
 
 #492 Shaymin
 Item: Starf Berry (100%)
-Ability One: Natural Cure (Land) / Serene Grace (Sky)
-Ability Two: Natural Cure (Land) / Serene Grace (Sky)
 
 
 #493 Arceus
@@ -2815,21 +2823,38 @@ Ability One: Limber
 Ability Two: Prankster
 
 
-#511 Pansage, #512 Simisage
+#511 Pansage
 Tutor: Can now learn Grass Pledge and Frenzy Plant.
-Ability One: Gluttony (Pansage) / Unburden (Simisage)
+Ability One: Gluttony
 Ability Two: Overgrow
 
 
-#513 Pansear, #514 Simisear
+#512 Simisage
+Tutor: Can now learn Grass Pledge and Frenzy Plant.
+Ability One: Unburden
+Ability Two: Overgrow
+
+
+#513 Pansear
 Tutor: Can now learn Fire Pledge and Blast Burn.
-Ability One: Gluttony (Pansear) / Unburden (Simisear)
+Ability One: Gluttony
+Ability Two: Blaze
+
+#514 Simisear
+Tutor: Can now learn Fire Pledge and Blast Burn.
+Ability One: Unburden
 Ability Two: Blaze
 
 
-#515 Panpour, #516 Simipour
+#515 Panpour
 Tutor: Can now learn Water Pledge and Hydro Cannon.
-Ability One: Gluttony (Panpour) / Unburden (Simipour)
+Ability One: Gluttony
+Ability Two: Torrent
+
+
+#516 Simipour
+Tutor: Can now learn Water Pledge and Hydro Cannon.
+Ability One: Unburden
 Ability Two: Torrent
 
 
@@ -2973,14 +2998,36 @@ Ability One: Sturdy
 Ability Two: Mold Breaker
 
 
-#540 Sewaddle, #541 Swadloon, #542 Leavanny
+#540 Sewaddle
 Base Happiness: 180
-Ability One: Swarm (Sewaddle) / Leaf Guard (Swadloon) / Swarm (Leavanny)
-Ability Two: Chlorophyll (Sewaddle) / Overcoat (Swadloon) / Chlorophyll (Leavanny)
+Ability One: Swarm
+Ability Two: Chlorophyll
 
 
-#543 Venipede, #544 Whirlipede, #545 Scolipede
-Ability One: Poison Point (Venipede) / Battle Armor (Whirlipede) / Poison Touch (Scolipede)
+#541 Swadloon
+Base Happiness: 180
+Ability One: Leaf Guard
+Ability Two: Overcoat
+
+
+#542 Leavanny
+Base Happiness: 180
+Ability One: Swarm
+Ability Two: Chlorophyll
+
+
+#543 Venipede
+Ability One: Poison Point
+Ability Two: Swarm
+
+
+#544 Whirlipede
+Ability One: Battle Armor
+Ability Two: Swarm
+
+
+#545 Scolipede
+Ability One: Poison Touch
 Ability Two: Swarm
 
 
@@ -2989,22 +3036,46 @@ Ability One: Prankster
 Ability Two: Infiltrator
 
 
-#548 Petilil – #549 Lilligant
-TM: Now learns TM29, Psychic and TM30, Shadow Ball + TM52 Focus Blast (Lilligant).
+#548 Petilil
+TM: Now learns TM29 Psychic and TM30 Shadow Ball.
 Ability One: Chlorophyll
-Ability Two: Leaf Guard (Petilil) / Own Tempo (Lilligant)
+Ability Two: Leaf Guard
 
 
-#550 Basculin
+#549 Lilligant
+TM: Now learns TM29 Psychic, TM30 Shadow Ball, and TM52 Focus Blast.
+Ability One: Chlorophyll
+Ability Two: Own Tempo
+
+
+#550 Basculin (Red Striped)
 Attack: 92  102
 Speed: 98  108
 Total: 460  480
-Ability One: Reckless (Red) / Rock Head (Blue)
+Ability One: Reckless
 Ability Two: Adaptability
 
 
-#551 Sandile, #552 Krokorok, #553 Krookodile
-Ability One: Anger Point (Sandile) / Anger Point (Krokorok) / Intimidate (Krookodile)
+#550 Basculin (Blue Striped)
+Attack: 92  102
+Speed: 98  108
+Total: 460  480
+Ability One: Rock Head
+Ability Two: Adaptability
+
+
+#551 Sandile
+Ability One: Anger Point
+Ability Two: Moxie
+
+
+#552 Krokorok
+Ability One: Anger Point
+Ability Two: Moxie
+
+
+#553 Krookodile
+Ability One: Intimidate
 Ability Two: Moxie
 
 
@@ -3127,7 +3198,7 @@ Ability One: Shadow Tag
 Ability Two: Magic Bounce
 
 
-#577 Solosis – #578 Duosion
+#577 Solosis, #578 Duosion
 Ability One: Regenerator
 Ability Two: Magic Guard
 

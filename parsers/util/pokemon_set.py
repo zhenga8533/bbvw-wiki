@@ -12,8 +12,8 @@ class PokemonSet:
 
     def to_string(self):
         id = "".join(c for c in self.species if c.isalpha() or c.isspace()).replace(" ", "-").lower()
-        s = f'<a href="/bbvw-wiki/pokemon/{id}/"><b>{self.species}</b></a>'
-        s += f"@ {self.item if self.item != "-" else "No Item"}\n"
+        s = f"<a href='/bbvw-wiki/pokemon/{id}/'><b>{self.species}</b></a>"
+        s += f" @ {self.item if self.item != "-" else "No Item"}\n"
         s += f"<b>Ability:</b> {self.ability_reg if self.ability_reg != "-" else "?"}\n"
         s += f"<b>Level:</b> {self.level}\n"
         if self.move_1 != "-" or self.move_2 != "-" or self.move_3 != "-" or self.move_4 != "-":

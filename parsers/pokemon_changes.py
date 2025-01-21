@@ -1,4 +1,5 @@
 from util.file import load, save
+from util.format import format_animated_sprite, format_pokemon_id
 import glob
 import json
 
@@ -24,14 +25,21 @@ def main():
                 listing = False
             continue
         elif line.startswith("#"):
-            md += f"---\n\n**{line}**\n\n<pre><code>"
+            md += f"**{line}**\n\n"
+            pokemon = line.split(", ")
+
+            for p in pokemon:
+                num = p.split(" ")[0][1:].lstrip("0")
+                md += format_animated_sprite(num) + "\n"
+            md += "\n<pre><code>"
+
             curr_pokemon = line
             listing = True
         elif line.endswith("Pokémon") or line == "Evolution Changes":
-            md += f"## {line}\n\n"
+            md += f"---\n\n## {line}\n\n"
         elif line.startswith("The following Pokémon"):
             strs = line.split(": ")
-            md += f"---\n\n**{strs[0]}:**\n\n```\n"
+            md += f"**{strs[0]}:**\n\n```\n"
 
             pokemon = strs[1].split(", ")
             for i, p in enumerate(pokemon):
@@ -53,7 +61,7 @@ def main():
 
     # Update pokemon data
     for key in pokemon_changes:
-        pokemon = ["-".join(p.split(" ")[1:]).lower() for p in key.split(", ")]
+        pokemon = [format_pokemon_id(p) for p in key.split(", ")]
         lines = pokemon_changes[key]
 
         # Parse new items
