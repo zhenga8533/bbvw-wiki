@@ -71,11 +71,11 @@ Surf, Special: Golduck (60%), Azumarill (30%), Slowbro (5%), Slowking (5%)
 Fish, Normal: Poliwag (60%), Slowpoke (30%), Chinchou (5%), Remoraid (5%)
 Fish, Special: Chinchou (60%), Qwilfish (30%), Remoraid (10%)
 ==================================================================
-Wellspring Cave 1F
+Wellspring Cave
 
 
 
-1F
+Wellspring Cave – 1F
 Cave, Normal: Woobat (20%), Zubat (20%), Geodude (10%), Roggenrola (10%), Aron (10%), Whismur (10%), Wooper (5%), Bronzor (5%), Axew (5%), Teddiursa (5%)
 Cave, Special: Drilbur (40%), Diglett (40%), Gible (20%)
 Surf, Normal: Wooper (60%), Shellos (40%)
@@ -83,7 +83,7 @@ Surf, Special: Quagsire (60%), Gastrodon (40%)
 Fish, Normal: Barboach (60%), Tentacool (30%), Shellder (10%)
 Fish, Special: Shellder (100%) 
 
-B1F
+Wellspring Cave – B1F
 Cave, Normal: Woobat (20%), Golbat (20%), Graveler (10%), Boldore (10%), Lairon (10%), Steelix (10%), Loudred (10%), Quagsire (10%)
 Cave, Special: Excadrill (50%), Dugtrio (50%)
 Surf, Normal: Whiscash (60%), Gastrodon (40%)
@@ -95,12 +95,12 @@ Pinwheel Forest
 
 
 
-Outside
+Pinwheel Forest – Outside
 Grass, Normal: Tympole (20%), Timburr (20%), Meditite (10%), Spinarak (10%), Ledyba (10%), Machop (10%), Makuhita (10%), Croagunk (5%), Slakoth (5%)
 Grass, Doubles: Throh (20%), Sawk (20%), Dunsparce (10%), Doduo (10%), Snubbull (10%), Aipom (10%), Cubone (9%), Burmy (9%), Heracross (2%)
 Grass, Special: Audino (50%), Tepig (10%), Tyrogue (10%), Riolu (10%), Charmander (5%), Cyndaquil (5%), Torchic (5%), Chimchar (5%)
 
-Inside
+Pinwheel Forest – Inside
 Grass, Normal: Cottonee (20%), Petilil (20%), Sewaddle (10%), Venipede (10%), Oddish (10%), Bellsprout (10%), Shroomish (5%), Exeggcute (5%), Murkrow (5%), Misdreavus (5%)
 Grass, Doubles: Tangela (20%), Roselia (20%), Swadloon (10%), Whirlipede (10%), Gloom (10%), Weepinbell (10%), Carnivine (5%), Scyther (5%), Pinsir (5%), Vigoroth (5%)
 Grass, Special: Audino (40%), Snivy (10%), Pansage (10%), Panpour (10%), Pansear (10%), Bulbasaur (5%), Chikorita (5%), Treecko (5%), Turtwig (5%)
@@ -141,7 +141,7 @@ Route 4
 
 
 
-Sand: Sandile (20%), Sandshrew (20%), Darumaka (10%), Scraggy (10%), Cacnea (10%), Trapinch (10%), Vullaby (10%), Hippopotas (5%), Elgyem (5%)
+Deep Sand: Sandile (20%), Sandshrew (20%), Darumaka (10%), Scraggy (10%), Cacnea (10%), Trapinch (10%), Vullaby (10%), Hippopotas (5%), Elgyem (5%)
 Surf, Normal: Frillish (60%), Clamperl (30%), Relicanth (10%)
 Surf, Special: Jellicent (60%), Relicanth (30%), Huntail (5%), Gorebyss (5%)
 Fish, Normal: Krabby (60%), Corphish (30%), Clamperl (10%)
@@ -151,11 +151,11 @@ Desert Resort
 
 
 
-Entrance
-Sand: Sandile (20%), Sandshrew (20%), Darumaka (10%), Scraggy (10%), Cacnea (10%), Dwebble (10%), Baltoy (10%), Trapinch (10%)
+Desert Resort – Entrance
+Deep Sand: Sandile (20%), Sandshrew (20%), Darumaka (10%), Scraggy (10%), Cacnea (10%), Dwebble (10%), Baltoy (10%), Trapinch (10%)
 
-Main
-Sand: Trapinch (20%), Darumaka (20%), Cacnea (10%), Hippopotas (10%), Gligar (10%), Dwebble (10%), Maractus (5%), Sigilyph (5%), Skarmory (5%), Mandibuzz (5%)
+Desert Resort – Main
+Deep Sand: Trapinch (20%), Darumaka (20%), Cacnea (10%), Hippopotas (10%), Gligar (10%), Dwebble (10%), Maractus (5%), Sigilyph (5%), Skarmory (5%), Mandibuzz (5%)
 
 Special Encounter
 
@@ -167,20 +167,20 @@ Relic Castle
 
 
 
-1F
-Sand: Sandile (20%), Sandshrew (20%), Rhyhorn (10%), Numel (10%), Golett (10%), Bronzor (10%), Onix (10%), Trapinch (10%)
+Relic Castle – 1F
+Deep Sand: Sandile (20%), Sandshrew (20%), Rhyhorn (10%), Numel (10%), Golett (10%), Bronzor (10%), Onix (10%), Trapinch (10%)
 
-B1F
-Sand: Yamask (20%), Gastly (20%), Shuppet (10%), Duskull (10%), Bronzor (10%), Elgyem (10%), Litwick (10%), Beldum (4%), Larvitar (4%), Larvesta (2%)
+Relic Castle – B1F
+Deep Sand: Yamask (20%), Gastly (20%), Shuppet (10%), Duskull (10%), Bronzor (10%), Elgyem (10%), Litwick (10%), Beldum (4%), Larvitar (4%), Larvesta (2%)
 
-B2F, B3F, B4F, B5F
-Sand: Krokorok (20%), Cofagrigus (20%), Vibrava (10%), Hippowdon (10%), Sandslash (10%), Claydol (10%), Sigilyph (5%), Crustle (5%), Darmanitan (5%), Camerupt (5%)
+Relic Castle – B2F / B3F / B4F / B5F
+Deep Sand: Krokorok (20%), Cofagrigus (20%), Vibrava (10%), Hippowdon (10%), Sandslash (10%), Claydol (10%), Sigilyph (5%), Crustle (5%), Darmanitan (5%), Camerupt (5%)
 
-B6F, Maze
-Sand: Krokorok (20%), Cofagrigus (20%), Vibrava (10%), Hippowdon (10%), Sandslash (10%), Claydol (10%), Sigilyph (5%), Crustle (5%), Darmanitan (5%), Camerupt (5%)
+Relic Castle – B6F / Maze
+Deep Sand: Krokorok (20%), Cofagrigus (20%), Vibrava (10%), Hippowdon (10%), Sandslash (10%), Claydol (10%), Sigilyph (5%), Crustle (5%), Darmanitan (5%), Camerupt (5%)
 
-Pot Rooms
-Sand: Unown (100%)
+Relic Castle – Pot Rooms
+Deep Sand: Unown (100%)
 
 Legendary Encounter
 
@@ -198,7 +198,7 @@ Sand, 1%
 
 Legendary Encounter
 
-Regigigas. Level 70
+Regigigas, Level 70
 Relic Castle, Volcarona Room
 Floor, 1%
 * It’s of little surprise that the king would appear in the same area as the majority of his subjects. The deepest, most valuable room in the castle houses this beast.
@@ -273,10 +273,10 @@ Grass, Normal: Vanillite (20%), Herdier (20%), Snorunt (10%), Swinub (10%), Cubc
 Grass, Doubles: Vanillish (20%), Herdier (20%), Swellow (10%), Floatzel (10%), Sneasel (10%), Delibird (10%), Smoochum (10%), Piloswine (10%)
 Grass, Special: Audino (90%), Mienshao (10%)
 ==================================================================
+Route 6
+
+
 Route 6 – Spring / Summer / Autumn
-
-
-
 Grass, Normal: Cherubi (20%), Deerling (20%), Stantler (10%), Foongus (10%), Pidgeotto (10%), Natu (10%), Mime Jr. (5%), Bonsly (5%), Plusle (5%), Minun (5%)
 Grass, Doubles: Cherrim (20%), Sawsbuck (20%), Stantler (10%), Foongus (10%), Pidgeotto (10%), Xatu (10%), Mr. Mime (5%), Sudowoodo (5%), Plusle (5%), Minun (5%)
 Grass, Special: Chansey (80%), Emolga (10%), Leavanny (5%), Unfezant (5%)
@@ -284,7 +284,7 @@ Surf, Normal: Finneon (60%), Goldeen (30%), Chinchou (10%)
 Surf, Special: Lumineon (60%), Lanturn (30%), Seaking (10%)
 Fish, Normal: Finneon (60%), Chinchou (40%)
 Fish, Special: Lumineon (60%), Lanturn (40%)
-==================================================================
+
 Route 6 – Winter
 Grass, Normal: Snover (20%), Deerling (20%), Stantler (10%), Foongus (10%), Pidgeotto (10%), Natu (10%), Mime Jr. (5%), Bonsly (5%), Plusle (5%), Minun (5%)
 Grass, Doubles: Snover (20%), Sawsbuck (20%), Stantler (10%), Foongus (10%), Pidgeotto (10%), Xatu (10%), Mr. Mime (5%), Sudowoodo (5%), Plusle (5%), Minun (5%)
@@ -298,15 +298,15 @@ Chargestone Cave
 
 
 
-1F
+Chargestone Cave – 1F
 Cave, Normal: Joltik (20%), Klink (20%), Elekid (10%), Magnemite (10%), Voltorb (10%), Ferroseed (10%), Nosepass (10%), Lairon (10%)
 Cave, Special: Drilbur (50%), Diglett (50%)
 
-B1F
+Chargestone Cave – B1F
 Cave, Normal: Joltik (20%), Klink (20%), Mawile (10%), Sableye (10%), Tynamo (10%), Durant (10%), Nosepass (10%), Deino (10%)
 Cave, Special: Drilbur (50%), Diglett (50%)
 
-B2F
+Chargestone Cave – B2F
 Cave, Normal: Galvantula (20%), Klang (20%), Electabuzz (10%), Magneton (10%), Electrode (10%), Ferrothorn (10%), Durant (5%), Eelektrik (5%), Porygon (5%), Rotom (4%)
 Cave, Special: Excadrill (50%), Dugtrio (50%)
 
@@ -317,7 +317,7 @@ Chargestone Cave, B2F.
 Cave, Normal, 1%.
 * Zapdos, like most Electric types, is drawn to high potential sources. Watch out – don’t underestimate its power!
 ==================================================================
-Route 7 – All Seasons
+Route 7
 
 
 
@@ -329,13 +329,13 @@ Celestial Tower
 
 
 
-2F, 3F
+Celestial Tower – 2F / 3F
 Tower, Normal: Litwick (20%), Elgyem (20%), Chingling (10%), Gastly (10%), Duskull (10%), Shuppet (10%), Wynaut (10%), Bronzor (10%)
 
-4F
+Celestial Tower – 4F
 Tower, Normal: Lampent (20%), Beheeyem (20%), Chimecho (10%), Haunter (10%), Dusclops (10%), Banette (10%), Wobbuffet (10%), Bronzong (10%)
 
-5F (Roof)
+Celestial Tower – 5F (Roof)
 Tower, Normal: Misdreavus (20%), Murkrow (20%), Drifblim (20%), Noctowl (20%), Absol (10%), Spiritomb (10%) 
 
 Legendary Encounter
@@ -359,7 +359,7 @@ Manaphy, Level 30
 Route 17
 Surf, Special, 1%
 * Manaphy likes the colder seas of the Unova region, so its presence in the vast waters of Route 17 is not surprising. Go a little further and you might encounter its children, too.
-
+==================================================================
 Route 18
 
 
@@ -390,14 +390,14 @@ Surf, Special: Tentacruel (60%), Frillish (30%), Jellicent (10%)
 Fish, Normal: Krabby (60%), Corphish (40%)
 Fish, Special: Kingler (60%), Crawdaunt (40%)
 ==================================================================
-Mistralton Cave 1F – 2F
+Mistralton Cave
 
 
-
+Mistralton Cave – 1F / 2F
 Cave, Normal: Onix (20%), Rhyhorn (20%), Larvitar (10%), Bagon (10%), Beldum (10%), Gible (10%), Axew (10%), Deino (10%)
 Cave, Special: Drilbur (50%), Diglett (50%)
 
-Mistralton Cave 3F (Guidance Chamber)
+Mistralton Cave – 3F (Guidance Chamber)
 Cave, Normal: Steelix (20%), Rhydon (20%), Pupitar (10%), Shelgon (10%), Metang (10%), Gabite (10%), Fraxure (10%), Zweilous (10%)
 Cave, Special: Excadrill (50%), Dugtrio (50%)
 
@@ -431,11 +431,11 @@ Twist Mountain
 
 
 
-1F - All Seasons
+Twist Mountain - 1F
 Cave, Normal: Phanpy (20%), Teddiursa (20%), Cubchoo (10%), Sneasel (10%), Delibird (10%), Swinub (10%), Graveler (5%), Boldore (5%), Cryogonal (5%), Gurdurr (5%)
 Cave, Special: Excadrill (50%), Dugtrio (50%)
 
-Not 1F - All Seasons
+Twist Mountain - B1F, 2F, 3F
 Cave, Normal: Donphan (20%), Ursaring (20%), Beartic (10%), Sneasel (10%), Delibird (10%), Piloswine (10%), Mawile (5%), Sableye (5%), Cryogonal (5%), Durant (5%)
 Cave, Special: Excadrill (50%), Dugtrio (50%)
 
@@ -446,7 +446,7 @@ Twist Mountain, Ice Rock Room, Winter
 Cave, Normal, 1%
 * Unlike its brothers, Regice prefers only the very coldest of climates. Try your luck in a harsh Winter at the depths of the area, and you might just have a chance at finding it.
 ==================================================================
-Icirrus City, Route 8
+Route 8
 
 
 
@@ -469,7 +469,7 @@ Fish, Special: Barboach (60%), Stunfisk (30%), Whiscash (10%)
 Legendary Encounter
 
 Keldeo, Level 56
-Moor of Iccirus, Autumn
+Moor of Icirrus, Autumn
 Puddle, Normal, 1%.
 * The Moor of Icirrus is a special place for Keldeo, and in the Autumn you may see this unicorn galloping past. If you can catch it, you’ll have a chance at adding him to your team.
 ==================================================================
@@ -477,7 +477,7 @@ Dragonspiral Tower
 
 
 
-Outside (Both Areas) – Spring, Summer, Autumn
+Dragonspiral Tower – Spring / Summer / Autumn
 Grass, Normal: Mienfoo (20%), Deerling (20%), Druddigon (20%), Swablu (20%), Kadabra (20%)
 Grass, Doubles: Mienshao (20%), Sawsbuck (20%), Druddigon (20%), Altaria (20%), Kadabra (20%)
 Grass, Shaking: Audino (90%), Alakazam (10%)
@@ -486,7 +486,7 @@ Surf, Special: Seadra (60%), Dragonair (40%)
 Fish, Normal: Horsea (60%), Basculin (30%), Dratini (10%)
 Fish, Special: Seadra (60%), Dragonair (30%), Kingdra (9%), Dragonite (1%)
 
-Outside (Both Areas) – Winter
+Dragonspiral Tower – Winter
 Grass, Normal: Mienfoo (20%), Snover (20%), Cubchoo (20%), Vanillite (20%), Kadabra (20%)
 Grass, Doubles: Mienshao (20%), Abomasnow (20%), Beartic (20%), Vanillish (20%), Kadabra (20%)
 Grass, Shaking: Audino (90%), Alakazam (10%)
@@ -495,23 +495,23 @@ Surf, Special: Seadra (60%), Dragonair (40%)
 Fish, Normal: Horsea (60%), Basculin (30%), Dratini (10%)
 Fish, Special: Seadra (60%), Dragonair (30%), Kingdra (9%), Dragonite (1%)
 
-Inside – Room One
+Dragonspiral Tower – 1F
 Tower, Normal: Druddigon (40%), Baltoy (30%), Golett (30%)
 
-Inside – Room Two
+Dragonspiral Tower – 2F
 Tower, Normal: Claydol (50%), Golurk (50%)
 
 Legendary Encounter
 
 Articuno, Level 50
-Dragonspiral Tower, Outside, Winter
+Dragonspiral Tower, Winter
 Doubles Grass, 1%.
 * Only in the doubles grass right outside the tower! Articuno enjoys a rest in the snowy north of the Unova region, but you might be welcome to disturb it.
 
 Legendary Encounter
 
 Suicune, Level 50
-Dragonspiral Tower, Outside, Spring, Summer & Autumn
+Dragonspiral Tower, Spring / Summer / Autumn
 Surf, Special, 1%.
 * Suicune loves bouncing around the seas, not just the Johto region. Three times a year, this journey ends up leading it to the small lake in front of the ancient tower. 
 ==================================================================
@@ -541,19 +541,19 @@ Route 10
 
 
 
-Main Route
+Route 10 – Main Route
 Grass, Normal: Herdier (20%), Pidgeotto (20%), Rufflet (10%), Vullaby (10%), Machoke (10%), Primeape (10%), Amoonguss (10%), Tranquill (10%)
 Grass, Doubles: Mandibuzz (20%), Braviary (20%), Bouffalant (10%), Grumpig (10%), Drapion (10%), Scrafty (10%), Heracross (10%), Manectric (10%)
 Grass, Special: Audino (100%)
 
 Legendary Encounter
-/ 
+
 Tornadus, Level 40 (Volt White) / Thundurus, Level 40 (Blaze Black)
 Route 10, Main Route
 Grass, Shaking, 1%
 * While one wreaks havoc with the weather along Unova, the other will await you patiently in Route 10… if you can find it. Luckily, this one won’t run. Don’t let its low level fool you; it can still be quite difficult to capture.
 
-League Path
+Route 10 – League Path
 Grass, Normal: Linoone (20%), Bibarel (20%), Skiploom (10%), Arbok (10%), Sandslash (10%), Dodrio (10%), Zangoose (10%), Seviper (10%)
 Grass, Doubles: Scyther (20%), Pinsir (20%), Cherrim (10%), Fearow (10%), Herdier (10%), Rapidash (10%), Tropius (10%), Girafarig (10%)
 Grass, Special: Chansey (90%), Blissey (10%)
@@ -576,10 +576,10 @@ Victory Road
 
 
 
-Outside
+Victory Road – Outside
 Rocky Grass: Heatmor (20%), Torkoal (20%), Mandibuzz (10%), Braviary (10%), Skarmory (10%), Gliscor (10%), Pupitar (10%), Fraxure (9%)
 
-Inside – Rooms with Water
+Victory Road – Water Rooms
 Cave, Normal: Donphan (20%), Ursaring (20%), Zweilous (10%), Woobat (10%), Hariyama (10%), Medicham (10%), Lairon (10%), Azumarill (10%)
 Cave, Special: Excadrill (25%), Dugtrio (25%), Steelix (25%), Sandslash (25%)
 Surf, Normal: Dewgong (60%), Lapras (40%)
@@ -587,7 +587,7 @@ Surf, Special: Lapras (60%), Dewgong (40%)
 Fish, Normal: Basculin (60%), Gyarados (30%), Whiscash (10%)
 Fish, Special: Basculin (60%), Gyarados (30%), Whiscash (10%)
 
-Inside – Rooms without Water
+Victory Road – No Water Rooms
 Cave, Normal: Loudred (20%), Durant (20%), Woobat (10%), Golbat (10%), Klang (10%), Rhydon (10%), Boldore (10%), Gurdurr (10%)
 Cave, Special: Excadrill (25%), Dugtrio (25%), Steelix (25%), Sandslash (25%)
 
@@ -615,7 +615,7 @@ N’s Castle
 
 
 Legendary Encounter
-Reshiram (Blaze Black) | Zekrom (Volt White)
+Reshiram (Blaze Black) / Zekrom (Volt White)
 Level 70
 N’s Castle
 ==================================================================
@@ -637,8 +637,7 @@ Village Bridge
 
 
 Grass, Normal: Exeggcute (20%), Bibarel (20%), Zangoose (10%), Seviper (10%), Volbeat (10%), Illumise (10%), Farfetch'd (10%), Chatot (10%)
-Grass, Doubles: Flaaffy (20%), Kadabra (20%), Lombre (20%), Nuzleaf (20%), Roselia (10%), 
-Togepi (10%)
+Grass, Doubles: Flaaffy (20%), Kadabra (20%), Lombre (20%), Nuzleaf (20%), Roselia (10%), Togepi (10%)
 Grass, Special: Chansey (75%), Emolga (10%), Togetic (5%), Exeggutor (5%), Roserade (5%)
 Surf, Normal: Tentacruel (60%), Sharpedo (40%)
 Surf, Special: Sharpedo (60%), Jellicent (40%)
@@ -687,10 +686,10 @@ Route 13
 Surf, Special, 1%
 * The sea is vast, and allows Lugia to spy on the humans it so dearly tries to protect. Of course, it’ll not hesitate to fight if a gifted trainer comes along, looking for a challenge…
 ==================================================================
+Giant Chasm
+
+
 Giant Chasm – Outside Area
-
-
-
 Grass, Normal: Absol (20%), Drifblim (20%), Swellow (10%), Lunatone (10%), Solrock (10%), Wormadam (10%), Mothim (10%), Pelipper (10%)
 Grass, Doubles: Golbat (20%), Tangela (20%), Nidorino (10%), Nidorina (10%), Yanma (10%), Gloom (10%), Weepinbell (10%), Skiploom (10%)
 Grass, Special: Audino (80%), Tangrowth (5%), Crobat (5%), Nidoking (5%), Nidoqueen (5%)
@@ -766,7 +765,6 @@ Undella Bay
 
 
 
-All Seasons
 Surf, Normal: Mantyke (60%), Wailmer (40%)
 Surf, Special: Mantine (60%), Wailord (40%)
 Fish, Normal: Remoraid (65%), Shellder (30%), Luvdisc (5%)
@@ -819,7 +817,8 @@ Black City / White Forest
 
  
 
-Trainers in Black City have edited rosters. White Forest has no changes to Wild Pokemon whatsoever.
+Trainers in Black City have edited rosters. 
+White Forest has no changes to Wild Pokemon whatsoever.
 ==================================================================
 Route 15
 
@@ -852,6 +851,8 @@ Bridge, Special, 1%
 
 
 ==================================================================
+Challenger’s Cave
+
 Challenger’s Cave – 1F
 Cave, Normal: Mawile (20%), Sableye (20%), Lickitung (10%), Graveler (10%), Woobat (10%), Boldore (10%), Marowak (10%), Hariyama (10%)
 Cave, Special: Excadrill (50%), Dugtrio (50%)
@@ -862,7 +863,7 @@ Genesect, Level 75
 Challenger’s Cave, 1F
 Cave, Normal, 1%.
 * Though previously seen in the hands of Ghetsis, the artificial Genesect now appears in the top floors of the looming Challenger’s Cave. The threats below keep it from descending, but this insect might just drop on your head. It won’t be pretty.
-==================================================================
+
 Challenger’s Cave – B1F
 Cave, Normal: Mawile (20%), Sableye (20%), Magneton (10%), Golbat (10%), Wobbuffet (10%), Parasect (10%), Marowak (10%), Electrode (10%)
 Cave, Special: Excadrill (50%), Dugtrio (50%)
@@ -880,7 +881,7 @@ Darkrai, Level 70
 Challenger’s Cave, B1F
 Cave, Normal, 1%.
 * The dark, mid-depths of the Challenger’s Cave are also of intrigue to Darkrai, who loves the darkness and occasionally likes to taunt the people of Icirrus City and Opelucid City with nightmares. But you don’t need to hear about that.
-==================================================================
+
 Challenger’s Cave – B2F
 Cave, Normal: Mawile (20%), Sableye (20%), Kadabra (10%), Golbat (10%), Zweilous (10%), Medicham (10%), Ursaring (10%), Donphan (10%)
 Cave, Special: Excadrill (50%), Dugtrio (50%)
