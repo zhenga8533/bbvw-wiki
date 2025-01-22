@@ -77,8 +77,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#001 Bulbasaur, #002 Ivysaur**
 
-![1](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif)&nbsp;
-![2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/2.gif)&nbsp;
+![bulbasaur](../assets/sprites/bulbasaur/front.gif)
+![ivysaur](../assets/sprites/ivysaur/front.gif)
 
 <pre><code><b>Item:</b> Miracle Seed (50%)
 <b>Ability One:</b> Overgrow
@@ -87,7 +87,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#003 Venusaur**
 
-![3](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/3.gif)&nbsp;
+![venusaur](../assets/sprites/venusaur/front.gif)
 
 <pre><code><b>Item:</b> Miracle Seed (50%)
 <b>TM:</b> Can now learn TM34, Sludge Wave.
@@ -97,9 +97,9 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#004 Charmander, #005 Charmeleon, #006 Charizard**
 
-![4](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/4.gif)&nbsp;
-![5](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/5.gif)&nbsp;
-![6](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif)&nbsp;
+![charmander](../assets/sprites/charmander/front.gif)
+![charmeleon](../assets/sprites/charmeleon/front.gif)
+![charizard](../assets/sprites/charizard/front.gif)
 
 <pre><code><b>Item:</b> Charcoal (50%)
 <b>Ability One:</b> Blaze
@@ -108,9 +108,9 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#007 Squirtle, #008 Wartortle, #009 Blastoise**
 
-![7](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/7.gif)&nbsp;
-![8](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/8.gif)&nbsp;
-![9](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/9.gif)&nbsp;
+![squirtle](../assets/sprites/squirtle/front.gif)
+![wartortle](../assets/sprites/wartortle/front.gif)
+![blastoise](../assets/sprites/blastoise/front.gif)
 
 <pre><code><b>Item:</b> Mystic Water (50%)
 <b>Ability One:</b> Torrent
@@ -119,7 +119,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#010 Caterpie**
 
-![10](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/10.gif)&nbsp;
+![caterpie](../assets/sprites/caterpie/front.gif)
 
 <pre><code><b>Ability One:</b> Shield Dust
 <b>Ability Two:</b> Suction Cups
@@ -127,7 +127,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#011 Metapod**
 
-![11](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/11.gif)&nbsp;
+![metapod](../assets/sprites/metapod/front.gif)
 
 <pre><code><b>Ability One:</b> Shed Skin
 <b>Ability Two:</b> Battle Armor
@@ -135,7 +135,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#012 Butterfree**
 
-![12](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/12.gif)&nbsp;
+![butterfree](../assets/sprites/butterfree/front.gif)
 
 <pre><code><b>Special Attack:</b> 80 → 95
 <b>Speed:</b> 70 → 90
@@ -146,7 +146,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#013 Weedle**
 
-![13](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/13.gif)&nbsp;
+![weedle](../assets/sprites/weedle/front.gif)
 
 <pre><code><b>Ability One:</b> Shield Dust
 <b>Ability Two:</b> Poison Touch
@@ -154,7 +154,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#014 Kakuna**
 
-![14](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/14.gif)&nbsp;
+![kakuna](../assets/sprites/kakuna/front.gif)
 
 <pre><code><b>Ability One:</b> Shed Skin
 <b>Ability Two:</b> Battle Armor
@@ -162,7 +162,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#015 Beedrill**
 
-![15](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/15.gif)&nbsp;
+![beedrill](../assets/sprites/beedrill/front.gif)
 
 <pre><code><b>Attack:</b> 80 → 95
 <b>Speed:</b> 75 → 95
@@ -173,7 +173,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#016 Pidgey**
 
-![16](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/16.gif)&nbsp;
+![pidgey](../assets/sprites/pidgey/front.gif)
 
 <pre><code><b>Items:</b> Oran Berry (5%)
 <b>TM:</b> Now able to learn TM62, Acrobatics.
@@ -183,7 +183,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#017 Pidgeotto**
 
-![17](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/17.gif)&nbsp;
+![pidgeotto](../assets/sprites/pidgeotto/front.gif)
 
 <pre><code><b>Items:</b> Oran Berry (50%), Sitrus Berry (5%)
 <b>TM:</b> Now able to learn TM62, Acrobatics.
@@ -193,7 +193,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#018 Pidgeot**
 
-![18](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/18.gif)&nbsp;
+![pidgeot](../assets/sprites/pidgeot/front.gif)
 
 <pre><code><b>HP:</b> 83 → 105
 <b>Attack:</b> 80 → 90
@@ -207,7 +207,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#019 Rattata**
 
-![19](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/19.gif)&nbsp;
+![rattata](../assets/sprites/rattata/front.gif)
 
 <pre><code><b>Ability One:</b> Hustle
 <b>Ability Two:</b> Guts
@@ -216,7 +216,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#020 Raticate**
 
-![20](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/20.gif)&nbsp;
+![raticate](../assets/sprites/raticate/front.gif)
 
 <pre><code><b>HP:</b> 55 → 60
 <b>Attack:</b> 81 → 87
@@ -230,7 +230,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#021 Spearow**
 
-![21](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/21.gif)&nbsp;
+![spearow](../assets/sprites/spearow/front.gif)
 
 <pre><code><b>Item:</b> Sharp Beak (5%)
 <b>Ability One:</b> Keen Eye
@@ -239,7 +239,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#022 Fearow**
 
-![22](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/22.gif)&nbsp;
+![fearow](../assets/sprites/fearow/front.gif)
 
 <pre><code><b>Attack:</b> 90 → 100
 <b>Total:</b> 442 → 452
@@ -250,7 +250,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#023 Ekans**
 
-![23](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/23.gif)&nbsp;
+![ekans](../assets/sprites/ekans/front.gif)
 
 <pre><code><b>Catch Rate:</b> 200
 <b>Item:</b> Kebia Berry (5%)
@@ -260,7 +260,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#024 Arbok**
 
-![24](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/24.gif)&nbsp;
+![arbok](../assets/sprites/arbok/front.gif)
 
 <pre><code><b>Attack:</b> 85 → 96
 <b>Speed:</b> 80 → 87
@@ -273,7 +273,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#025 Pikachu**
 
-![25](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif)&nbsp;
+![pikachu](../assets/sprites/pikachu/front.gif)
 
 <pre><code><b>Attack:</b> 55 → 80
 <b>Speed:</b> 90 → 110
@@ -287,7 +287,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#026 Raichu**
 
-![26](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/26.gif)&nbsp;
+![raichu](../assets/sprites/raichu/front.gif)
 
 <pre><code><b>Attack:</b> 90 → 100
 <b>Speed:</b> 100 → 120
@@ -301,8 +301,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#027 Sandshrew, #028 Sandslash**
 
-![27](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/27.gif)&nbsp;
-![28](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/28.gif)&nbsp;
+![sandshrew](../assets/sprites/sandshrew/front.gif)
+![sandslash](../assets/sprites/sandslash/front.gif)
 
 <pre><code><b>Ability One:</b> Sand Veil
 <b>Ability Two:</b> Sand Rush
@@ -310,7 +310,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#029 Nidoran F**
 
-![29](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/29.gif)&nbsp;
+![nidoran-f](../assets/sprites/nidoran-f/front.gif)
 
 <pre><code><b>Item:</b> Pecha Berry (50%)
 <b>Ability One:</b> Poison Point
@@ -319,7 +319,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#030 Nidorina**
 
-![30](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/30.gif)&nbsp;
+![nidorina](../assets/sprites/nidorina/front.gif)
 
 <pre><code><b>Ability One:</b> Hustle
 <b>Ability Two:</b> Rivalry
@@ -327,7 +327,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#031 Nidoqueen**
 
-![31](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/31.gif)&nbsp;
+![nidoqueen](../assets/sprites/nidoqueen/front.gif)
 
 <pre><code><b>Attack:</b> 82 → 92
 <b>Special Attack:</b> 75 → 90
@@ -338,7 +338,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#032 Nidoran M**
 
-![32](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/32.gif)&nbsp;
+![nidoran-m](../assets/sprites/nidoran-m/front.gif)
 
 <pre><code><b>Item:</b> Pecha Berry (50%)
 <b>Ability One:</b> Poison Point
@@ -347,7 +347,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#033 Nidorino**
 
-![33](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/33.gif)&nbsp;
+![nidorino](../assets/sprites/nidorino/front.gif)
 
 <pre><code><b>Ability One:</b> Hustle
 <b>Ability Two:</b> Rivalry
@@ -355,7 +355,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#034 Nidoking**
 
-![34](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/34.gif)&nbsp;
+![nidoking](../assets/sprites/nidoking/front.gif)
 
 <pre><code><b>Attack:</b> 92 → 102
 <b>Special Attack:</b> 85 → 95
@@ -366,7 +366,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#035 Clefairy**
 
-![35](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/35.gif)&nbsp;
+![clefairy](../assets/sprites/clefairy/front.gif)
 
 <pre><code><b>Ability One:</b> Cute Charm
 <b>Ability Two:</b> Magic Guard
@@ -374,7 +374,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#036 Clefable**
 
-![36](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/36.gif)&nbsp;
+![clefable](../assets/sprites/clefable/front.gif)
 
 <pre><code><b>HP:</b> 95 → 105
 <b>Special Attack:</b> 83 → 93
@@ -386,7 +386,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#037 Vulpix**
 
-![37](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/37.gif)&nbsp;
+![vulpix](../assets/sprites/vulpix/front.gif)
 
 <pre><code><b>Items:</b> Rawst Berry (50%), Occa Berry (5%)
 <b>Ability One:</b> Flash Fire
@@ -395,7 +395,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#038 Ninetales**
 
-![38](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/38.gif)&nbsp;
+![ninetales](../assets/sprites/ninetales/front.gif)
 
 <pre><code><b>Items:</b> Rawst Berry (50%), Occa Berry (5%)
 <b>Ability One:</b> Flash Fire
@@ -404,7 +404,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#039 Jigglypuff**
 
-![39](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/39.gif)&nbsp;
+![jigglypuff](../assets/sprites/jigglypuff/front.gif)
 
 <pre><code><b>HP:</b> 115 → 128
 <b>Attack:</b> 45 → 65
@@ -416,7 +416,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#040 Wigglytuff**
 
-![40](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/40.gif)&nbsp;
+![wigglytuff](../assets/sprites/wigglytuff/front.gif)
 
 <pre><code><b>Attack:</b> 70 → 83
 <b>Defense:</b> 45 → 60
@@ -429,7 +429,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#041 Zubat**
 
-![41](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/41.gif)&nbsp;
+![zubat](../assets/sprites/zubat/front.gif)
 
 <pre><code><b>Base Happiness:</b> 140
 <b>Ability One:</b> Inner Focus
@@ -438,7 +438,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#042 Golbat**
 
-![42](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/42.gif)&nbsp;
+![golbat](../assets/sprites/golbat/front.gif)
 
 <pre><code><b>Base Happiness:</b> 140
 <b>Ability One:</b> Inner Focus
@@ -447,7 +447,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#043 Oddish**
 
-![43](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/43.gif)&nbsp;
+![oddish](../assets/sprites/oddish/front.gif)
 
 <pre><code><b>Ability One:</b> Chlorophyll
 <b>Ability Two:</b> Run Away
@@ -455,7 +455,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#044 Gloom**
 
-![44](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/44.gif)&nbsp;
+![gloom](../assets/sprites/gloom/front.gif)
 
 <pre><code><b>Ability One:</b> Chlorophyll
 <b>Ability Two:</b> Stench
@@ -463,7 +463,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#045 Vileplume**
 
-![45](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/45.gif)&nbsp;
+![vileplume](../assets/sprites/vileplume/front.gif)
 
 <pre><code><b>HP:</b> 75 → 85
 <b>Special Attack:</b> 100 → 110
@@ -475,7 +475,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#046 Paras**
 
-![46](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/46.gif)&nbsp;
+![paras](../assets/sprites/paras/front.gif)
 
 <pre><code><b>Ability One:</b> Effect Spore
 <b>Ability Two:</b> Dry Skin
@@ -483,7 +483,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#047 Parasect**
 
-![47](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/47.gif)&nbsp;
+![parasect](../assets/sprites/parasect/front.gif)
 
 <pre><code><b>HP:</b> 60 → 80
 <b>Attack:</b> 95 → 110
@@ -497,7 +497,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#048 Venonat**
 
-![48](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/48.gif)&nbsp;
+![venonat](../assets/sprites/venonat/front.gif)
 
 <pre><code><b>Ability One:</b> Compoundeyes
 <b>Ability Two:</b> Tinted Lens
@@ -505,7 +505,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#049 Venomoth**
 
-![49](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/49.gif)&nbsp;
+![venomoth](../assets/sprites/venomoth/front.gif)
 
 <pre><code><b>Special Attack:</b> 90 → 100
 <b>Speed:</b> 90 → 100
@@ -516,7 +516,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#050 Diglett**
 
-![50](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/50.gif)&nbsp;
+![diglett](../assets/sprites/diglett/front.gif)
 
 <pre><code><b>Ability One:</b> Sand Force
 <b>Ability Two:</b> Arena Trap
@@ -524,7 +524,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#051 Dugtrio**
 
-![51](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/51.gif)&nbsp;
+![dugtrio](../assets/sprites/dugtrio/front.gif)
 
 <pre><code><b>Attack:</b> 80 → 105
 <b>Total:</b> 405 → 430
@@ -534,7 +534,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#052 Meowth**
 
-![52](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/52.gif)&nbsp;
+![meowth](../assets/sprites/meowth/front.gif)
 
 <pre><code><b>Ability One:</b> Pickup
 <b>Ability Two:</b> Technician
@@ -542,7 +542,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#053 Persian**
 
-![53](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/53.gif)&nbsp;
+![persian](../assets/sprites/persian/front.gif)
 
 <pre><code><b>Special Attack:</b> 65 → 85
 <b>Total:</b> 440 → 460
@@ -552,8 +552,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#054 Psyduck, #055 Golduck**
 
-![54](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/54.gif)&nbsp;
-![55](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/55.gif)&nbsp;
+![psyduck](../assets/sprites/psyduck/front.gif)
+![golduck](../assets/sprites/golduck/front.gif)
 
 <pre><code><b>Ability One:</b> Swift Swim
 <b>Ability Two:</b> Cloud Nine
@@ -561,7 +561,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#056 Mankey**
 
-![56](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/56.gif)&nbsp;
+![mankey](../assets/sprites/mankey/front.gif)
 
 <pre><code><b>Ability One:</b> Defiant
 <b>Ability Two:</b> Anger Point
@@ -569,7 +569,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#057 Primeape**
 
-![57](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/57.gif)&nbsp;
+![primeape](../assets/sprites/primeape/front.gif)
 
 <pre><code><b>Attack:</b> 105 → 115
 <b>Speed:</b> 95 → 110
@@ -580,7 +580,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#058 Growlithe**
 
-![58](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/58.gif)&nbsp;
+![growlithe](../assets/sprites/growlithe/front.gif)
 
 <pre><code><b>Ability One:</b> Intimidate
 <b>Ability Two:</b> Justified
@@ -588,7 +588,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#059 Arcanine**
 
-![59](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/59.gif)&nbsp;
+![arcanine](../assets/sprites/arcanine/front.gif)
 
 <pre><code><b>Ability One:</b> Intimidate
 <b>Ability Two:</b> Justified
@@ -596,7 +596,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#060 Poliwag**
 
-![60](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/60.gif)&nbsp;
+![poliwag](../assets/sprites/poliwag/front.gif)
 
 <pre><code><b>Ability One:</b> Water Absorb
 <b>Ability Two:</b> Swift Swim
@@ -604,7 +604,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#061 Poliwhirl**
 
-![61](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/61.gif)&nbsp;
+![poliwhirl](../assets/sprites/poliwhirl/front.gif)
 
 <pre><code><b>Evolution (Politoed):</b> Level Up at Night with King's Rock equipped.
 <b>Ability One:</b> Water Absorb
@@ -613,7 +613,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#062 Poliwrath**
 
-![62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/62.gif)&nbsp;
+![poliwrath](../assets/sprites/poliwrath/front.gif)
 
 <pre><code><b>Attack:</b> 85 → 105
 <b>Total:</b> 500 → 520
@@ -623,7 +623,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#063 Abra**
 
-![63](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/63.gif)&nbsp;
+![abra](../assets/sprites/abra/front.gif)
 
 <pre><code><b>Ability One:</b> Synchronize
 <b>Ability Two:</b> Magic Guard
@@ -631,7 +631,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#064 Kadabra**
 
-![64](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/64.gif)&nbsp;
+![kadabra](../assets/sprites/kadabra/front.gif)
 
 <pre><code><b>Evolution:</b> Level 36.
 <b>Ability One:</b> Synchronize
@@ -640,7 +640,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#065 Alakazam**
 
-![65](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/65.gif)&nbsp;
+![alakazam](../assets/sprites/alakazam/front.gif)
 
 <pre><code><b>Ability One:</b> Synchronize
 <b>Ability Two:</b> Magic Guard
@@ -648,7 +648,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#066 Machop**
 
-![66](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/66.gif)&nbsp;
+![machop](../assets/sprites/machop/front.gif)
 
 <pre><code><b>Ability One:</b> Guts
 <b>Ability Two:</b> No Guard
@@ -656,7 +656,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#067 Machoke**
 
-![67](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/67.gif)&nbsp;
+![machoke](../assets/sprites/machoke/front.gif)
 
 <pre><code><b>Evolution:</b> Level 39.
 <b>Ability One:</b> Guts
@@ -665,7 +665,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#068 Machamp**
 
-![68](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/68.gif)&nbsp;
+![machamp](../assets/sprites/machamp/front.gif)
 
 <pre><code><b>Ability One:</b> Guts
 <b>Ability Two:</b> No Guard
@@ -673,7 +673,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#069 Bellsprout**
 
-![69](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/69.gif)&nbsp;
+![bellsprout](../assets/sprites/bellsprout/front.gif)
 
 <pre><code><b>Ability One:</b> Chlorophyll
 <b>Ability Two:</b> Limber
@@ -681,7 +681,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#070 Weepinbell**
 
-![70](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/70.gif)&nbsp;
+![weepinbell](../assets/sprites/weepinbell/front.gif)
 
 <pre><code><b>Ability One:</b> Chlorophyll
 <b>Ability Two:</b> Gluttony
@@ -689,7 +689,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#071 Victreebel**
 
-![71](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/71.gif)&nbsp;
+![victreebel](../assets/sprites/victreebel/front.gif)
 
 <pre><code><b>HP:</b> 80 → 90
 <b>Attack:</b> 105 → 115
@@ -701,8 +701,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#072 Tentacool, #073 Tentacruel**
 
-![72](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/72.gif)&nbsp;
-![73](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/73.gif)&nbsp;
+![tentacool](../assets/sprites/tentacool/front.gif)
+![tentacruel](../assets/sprites/tentacruel/front.gif)
 
 <pre><code><b>Ability One:</b> Clear Body
 <b>Ability Two:</b> Liquid Ooze
@@ -710,7 +710,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#074 Geodude**
 
-![74](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/74.gif)&nbsp;
+![geodude](../assets/sprites/geodude/front.gif)
 
 <pre><code><b>Ability One:</b> Rock Head
 <b>Ability Two:</b> Sturdy
@@ -718,7 +718,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#075 Graveler**
 
-![75](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/75.gif)&nbsp;
+![graveler](../assets/sprites/graveler/front.gif)
 
 <pre><code><b>Evolution:</b> Level 36.
 <b>Ability One:</b> Rock Head
@@ -727,7 +727,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#076 Golem**
 
-![76](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/76.gif)&nbsp;
+![golem](../assets/sprites/golem/front.gif)
 
 <pre><code><b>HP:</b> 80 → 90
 <b>Total:</b> 485 → 495
@@ -737,8 +737,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#077 Ponyta, #078 Rapidash**
 
-![77](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/77.gif)&nbsp;
-![78](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/78.gif)&nbsp;
+![ponyta](../assets/sprites/ponyta/front.gif)
+![rapidash](../assets/sprites/rapidash/front.gif)
 
 <pre><code><b>Ability One:</b> Flame Body
 <b>Ability Two:</b> Flash Fire
@@ -746,7 +746,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#079 Slowpoke**
 
-![79](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/79.gif)&nbsp;
+![slowpoke](../assets/sprites/slowpoke/front.gif)
 
 <pre><code><b>Evolution (Slowbro):</b> Level 37 or Level Up with a Shellder in the party.
 <b>Evolution (Slowking):</b> Level Up at Day with King's Rock.
@@ -756,7 +756,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#080 Slowbro**
 
-![80](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/80.gif)&nbsp;
+![slowbro](../assets/sprites/slowbro/front.gif)
 
 <pre><code><b>Ability One:</b> Regenerator
 <b>Ability Two:</b> Drizzle
@@ -764,8 +764,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#081 Magnemite, #082 Magneton**
 
-![81](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/81.gif)&nbsp;
-![82](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/82.gif)&nbsp;
+![magnemite](../assets/sprites/magnemite/front.gif)
+![magneton](../assets/sprites/magneton/front.gif)
 
 <pre><code><b>Ability One:</b> Magnet Pull
 <b>Ability Two:</b> Analytic
@@ -773,7 +773,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#083 Farfetch'd**
 
-![83](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/83.gif)&nbsp;
+![farfetchd](../assets/sprites/farfetchd/front.gif)
 
 <pre><code><b>Type:</b> Fighting / Flying
 <b>HP:</b> 52 → 70
@@ -791,7 +791,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#084 Doduo**
 
-![84](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/84.gif)&nbsp;
+![doduo](../assets/sprites/doduo/front.gif)
 
 <pre><code><b>Ability One:</b> Tangled Feet
 <b>Ability Two:</b> Early Bird
@@ -799,7 +799,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#085 Dodrio**
 
-![85](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/85.gif)&nbsp;
+![dodrio](../assets/sprites/dodrio/front.gif)
 
 <pre><code><b>Ability One:</b> Anger Point
 <b>Ability Two:</b> Early Bird
@@ -807,7 +807,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#086 Seel**
 
-![86](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/86.gif)&nbsp;
+![seel](../assets/sprites/seel/front.gif)
 
 <pre><code><b>Ability One:</b> Thick Fat
 <b>Ability Two:</b> Hydration
@@ -815,7 +815,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#087 Dewgong**
 
-![87](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/87.gif)&nbsp;
+![dewgong](../assets/sprites/dewgong/front.gif)
 
 <pre><code><b>Special Attack:</b> 70 → 85
 <b>Total:</b> 475 → 490
@@ -825,8 +825,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#088 Grimer, #089 Muk**
 
-![88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/88.gif)&nbsp;
-![89](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/89.gif)&nbsp;
+![grimer](../assets/sprites/grimer/front.gif)
+![muk](../assets/sprites/muk/front.gif)
 
 <pre><code><b>Item:</b> Toxic Orb (50%)
 <b>Ability One:</b> Stench
@@ -835,7 +835,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#090 Shellder**
 
-![90](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/90.gif)&nbsp;
+![shellder](../assets/sprites/shellder/front.gif)
 
 <pre><code><b>Ability One:</b> Overcoat
 <b>Ability Two:</b> Skill Link
@@ -843,7 +843,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#091 Cloyster**
 
-![91](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/91.gif)&nbsp;
+![cloyster](../assets/sprites/cloyster/front.gif)
 
 <pre><code><b>Ability One:</b> Overcoat
 <b>Ability Two:</b> Skill Link
@@ -851,7 +851,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#092 Gastly**
 
-![92](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/92.gif)&nbsp;
+![gastly](../assets/sprites/gastly/front.gif)
 
 <pre><code><b>TM:</b> Can now learn TM34, Sludge Wave.
 <b>Ability One:</b> Levitate
@@ -860,7 +860,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#093 Haunter**
 
-![93](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/93.gif)&nbsp;
+![haunter](../assets/sprites/haunter/front.gif)
 
 <pre><code><b>TM:</b> Can now learn TM34, Sludge Wave.
 <b>Evolution:</b> Level 36.
@@ -870,7 +870,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#094 Gengar**
 
-![94](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif)&nbsp;
+![gengar](../assets/sprites/gengar/front.gif)
 
 <pre><code><b>TM:</b> Can now learn TM34, Sludge Wave.
 <b>Ability One:</b> Levitate
@@ -879,7 +879,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#095 Onix**
 
-![95](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/95.gif)&nbsp;
+![onix](../assets/sprites/onix/front.gif)
 
 <pre><code><b>Attack:</b> 45 → 70
 <b>Total:</b> 385 → 410
@@ -890,8 +890,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#096 Drowzee, #097 Hypno**
 
-![96](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/96.gif)&nbsp;
-![97](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/97.gif)&nbsp;
+![drowzee](../assets/sprites/drowzee/front.gif)
+![hypno](../assets/sprites/hypno/front.gif)
 
 <pre><code><b>Ability One:</b> Insomnia
 <b>Ability Two:</b> Forewarn
@@ -899,8 +899,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#098 Krabby, #099 Kingler**
 
-![98](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/98.gif)&nbsp;
-![99](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/99.gif)&nbsp;
+![krabby](../assets/sprites/krabby/front.gif)
+![kingler](../assets/sprites/kingler/front.gif)
 
 <pre><code><b>HM:</b> Can now learn HM05, Waterfall.
 <b>Ability One:</b> Hyper Cutter
@@ -909,8 +909,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#100 Voltorb, #101 Electrode**
 
-![100](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/100.gif)&nbsp;
-![101](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/101.gif)&nbsp;
+![voltorb](../assets/sprites/voltorb/front.gif)
+![electrode](../assets/sprites/electrode/front.gif)
 
 <pre><code><b>Ability One:</b> Aftermath
 <b>Ability Two:</b> Static
@@ -918,7 +918,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#102 Exeggcute**
 
-![102](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/102.gif)&nbsp;
+![exeggcute](../assets/sprites/exeggcute/front.gif)
 
 <pre><code><b>Ability One:</b> Chlorophyll
 <b>Ability Two:</b> Harvest
@@ -926,7 +926,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#103 Exeggutor**
 
-![103](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/103.gif)&nbsp;
+![exeggutor](../assets/sprites/exeggutor/front.gif)
 
 <pre><code><b>Ability One:</b> Chlorophyll
 <b>Ability Two:</b> Harvest
@@ -934,7 +934,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#104 Cubone**
 
-![104](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/104.gif)&nbsp;
+![cubone](../assets/sprites/cubone/front.gif)
 
 <pre><code><b>Item:</b> Thick Club (50%)
 <b>Ability One:</b> Rock Head
@@ -943,7 +943,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#105 Marowak**
 
-![105](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/105.gif)&nbsp;
+![marowak](../assets/sprites/marowak/front.gif)
 
 <pre><code><b>Speed:</b> 45 → 70
 <b>Total:</b> 425 → 450
@@ -953,7 +953,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#106 Hitmonlee**
 
-![106](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/106.gif)&nbsp;
+![hitmonlee](../assets/sprites/hitmonlee/front.gif)
 
 <pre><code><b>Ability One:</b> Unburden
 <b>Ability Two:</b> Reckless
@@ -961,7 +961,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#107 Hitmonchan**
 
-![107](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/107.gif)&nbsp;
+![hitmonchan](../assets/sprites/hitmonchan/front.gif)
 
 <pre><code><b>Ability One:</b> Inner Focus
 <b>Ability Two:</b> Iron Fist
@@ -969,7 +969,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#108 Lickitung**
 
-![108](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/108.gif)&nbsp;
+![lickitung](../assets/sprites/lickitung/front.gif)
 
 <pre><code><b>Ability One:</b> Cloud Nine
 <b>Ability Two:</b> Gluttony
@@ -977,7 +977,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#109 Koffing**
 
-![109](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/109.gif)&nbsp;
+![koffing](../assets/sprites/koffing/front.gif)
 
 <pre><code><b>TM:</b> Can now learn TM34, Sludge Wave.
 <b>Ability One:</b> Levitate
@@ -986,7 +986,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#110 Weezing**
 
-![110](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/110.gif)&nbsp;
+![weezing](../assets/sprites/weezing/front.gif)
 
 <pre><code><b>TM:</b> Can now learn TM34, Sludge Wave.
 <b>Special Attack:</b> 85 → 95
@@ -997,7 +997,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#111 Rhyhorn**
 
-![111](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/111.gif)&nbsp;
+![rhyhorn](../assets/sprites/rhyhorn/front.gif)
 
 <pre><code><b>Ability One:</b> Reckless
 <b>Ability Two:</b> Rock Head
@@ -1005,7 +1005,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#112 Rhydon**
 
-![112](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/112.gif)&nbsp;
+![rhydon](../assets/sprites/rhydon/front.gif)
 
 <pre><code><b>Evolution:</b> Use the Protector.
 <b>Ability One:</b> Reckless
@@ -1014,7 +1014,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#113 Chansey**
 
-![113](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/113.gif)&nbsp;
+![chansey](../assets/sprites/chansey/front.gif)
 
 <pre><code><b>Item:</b> Lucky Egg (0%)
 <b>Base Happiness:</b> 160
@@ -1024,7 +1024,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#114 Tangela**
 
-![114](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/114.gif)&nbsp;
+![tangela](../assets/sprites/tangela/front.gif)
 
 <pre><code><b>Ability One:</b> Chlorophyll
 <b>Ability Two:</b> Regenerator
@@ -1032,7 +1032,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#115 Kangaskhan**
 
-![115](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/115.gif)&nbsp;
+![kangaskhan](../assets/sprites/kangaskhan/front.gif)
 
 <pre><code><b>Ability One:</b> Early Bird
 <b>Ability Two:</b> Scrappy
@@ -1040,7 +1040,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#116 Horsea**
 
-![116](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/116.gif)&nbsp;
+![horsea](../assets/sprites/horsea/front.gif)
 
 <pre><code><b>TM:</b> Now learns TM79, Frost Breath.
 <b>Ability One:</b> Swift Swim
@@ -1049,7 +1049,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#117 Seadra**
 
-![117](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/117.gif)&nbsp;
+![seadra](../assets/sprites/seadra/front.gif)
 
 <pre><code><b>TM:</b> Now learns TM79, Frost Breath.
 <b>Evolution:</b> Use the Dragon Scale.
@@ -1059,7 +1059,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#118 Goldeen**
 
-![118](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/118.gif)&nbsp;
+![goldeen](../assets/sprites/goldeen/front.gif)
 
 <pre><code><b>Ability One:</b> Swift Swim
 <b>Ability Two:</b> LightningRod
@@ -1067,7 +1067,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#119 Seaking**
 
-![119](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/119.gif)&nbsp;
+![seaking](../assets/sprites/seaking/front.gif)
 
 <pre><code><b>Attack:</b> 92 → 112
 <b>Speed:</b> 68 → 88
@@ -1078,8 +1078,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#120 Staryu, #121 Starmie**
 
-![120](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/120.gif)&nbsp;
-![121](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/121.gif)&nbsp;
+![staryu](../assets/sprites/staryu/front.gif)
+![starmie](../assets/sprites/starmie/front.gif)
 
 <pre><code><b>Ability One:</b> Regenerator
 <b>Ability Two:</b> Natural Cure
@@ -1087,7 +1087,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#122 Mr. Mime**
 
-![122](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/122.gif)&nbsp;
+![mr-mime](../assets/sprites/mr-mime/front.gif)
 
 <pre><code><b>Speed:</b> 90 → 100
 <b>Total:</b> 460 → 470
@@ -1097,7 +1097,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#123 Scyther**
 
-![123](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/123.gif)&nbsp;
+![scyther](../assets/sprites/scyther/front.gif)
 
 <pre><code><b>Evolution:</b> Level Up at Day with a Metal Coat equipped.
 <b>TM:</b> Can now learn TM62, Acrobatics.
@@ -1107,7 +1107,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#124 Jynx**
 
-![124](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/124.gif)&nbsp;
+![jynx](../assets/sprites/jynx/front.gif)
 
 <pre><code><b>Special Attack:</b> 115 → 125
 <b>Speed:</b> 95 → 100
@@ -1118,7 +1118,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#125 Electabuzz**
 
-![125](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/125.gif)&nbsp;
+![electabuzz](../assets/sprites/electabuzz/front.gif)
 
 <pre><code><b>Evolution:</b> Use the Electirizer.
 <b>Ability One:</b> Static
@@ -1127,7 +1127,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#126 Magmar**
 
-![126](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/126.gif)&nbsp;
+![magmar](../assets/sprites/magmar/front.gif)
 
 <pre><code><b>Evolution:</b> Use the Magmarizer.
 <b>Ability One:</b> Flame Body
@@ -1136,7 +1136,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#127 Pinsir**
 
-![127](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/127.gif)&nbsp;
+![pinsir](../assets/sprites/pinsir/front.gif)
 
 <pre><code><b>Ability One:</b> Moxie
 <b>Ability Two:</b> Mold Breaker
@@ -1144,7 +1144,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#128 Tauros**
 
-![128](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/128.gif)&nbsp;
+![tauros](../assets/sprites/tauros/front.gif)
 
 <pre><code><b>Attack:</b> 100 → 110
 <b>Total:</b> 490 → 500
@@ -1154,7 +1154,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#129 Magikarp**
 
-![129](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/129.gif)&nbsp;
+![magikarp](../assets/sprites/magikarp/front.gif)
 
 <pre><code><b>Ability One:</b> Swift Swim
 <b>Ability Two:</b> Rattled
@@ -1162,7 +1162,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#130 Gyarados**
 
-![130](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/130.gif)&nbsp;
+![gyarados](../assets/sprites/gyarados/front.gif)
 
 <pre><code><b>Ability One:</b> Intimidate
 <b>Ability Two:</b> Moxie
@@ -1170,7 +1170,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#131 Lapras**
 
-![131](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/131.gif)&nbsp;
+![lapras](../assets/sprites/lapras/front.gif)
 
 <pre><code><b>Ability One:</b> Water Absorb
 <b>Ability Two:</b> Shell Armor
@@ -1178,7 +1178,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#132 Ditto**
 
-![132](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/132.gif)&nbsp;
+![ditto](../assets/sprites/ditto/front.gif)
 
 <pre><code><b>Ability One:</b> Imposter
 <b>Ability Two:</b> Imposter
@@ -1186,7 +1186,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#133 Eevee**
 
-![133](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/133.gif)&nbsp;
+![eevee](../assets/sprites/eevee/front.gif)
 
 <pre><code><b>Base Happiness:</b> 200
 <b>TM:</b> Can now learn TM86, Grass Knot.
@@ -1196,7 +1196,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#134 Vaporeon**
 
-![134](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/134.gif)&nbsp;
+![vaporeon](../assets/sprites/vaporeon/front.gif)
 
 <pre><code><b>Base Happiness:</b> 200
 <b>TM:</b> Can now learn TM86, Grass Knot.
@@ -1206,7 +1206,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#135 Jolteon**
 
-![135](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/135.gif)&nbsp;
+![jolteon](../assets/sprites/jolteon/front.gif)
 
 <pre><code><b>Base Happiness:</b> 200
 <b>TM:</b> Can now learn TM86, Grass Knot.
@@ -1216,7 +1216,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#136 Flareon**
 
-![136](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/136.gif)&nbsp;
+![flareon](../assets/sprites/flareon/front.gif)
 
 <pre><code><b>Base Happiness:</b> 200
 <b>HP:</b> 65 → 110
@@ -1232,7 +1232,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#137 Porygon**
 
-![137](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/137.gif)&nbsp;
+![porygon](../assets/sprites/porygon/front.gif)
 
 <pre><code><b>Evolution:</b> Use the Up-Grade.
 <b>Ability One:</b> Trace
@@ -1241,7 +1241,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#138 Omanyte**
 
-![138](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/138.gif)&nbsp;
+![omanyte](../assets/sprites/omanyte/front.gif)
 
 <pre><code><b>Ability One:</b> Swift Swim
 <b>Ability Two:</b> Shell Armor
@@ -1249,7 +1249,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#139 Omastar**
 
-![139](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/139.gif)&nbsp;
+![omastar](../assets/sprites/omastar/front.gif)
 
 <pre><code><b>Ability One:</b> Swift Swim
 <b>Ability Two:</b> Iron Barbs
@@ -1257,7 +1257,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#140 Kabuto**
 
-![140](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/140.gif)&nbsp;
+![kabuto](../assets/sprites/kabuto/front.gif)
 
 <pre><code><b>Ability One:</b> Swift Swim
 <b>Ability Two:</b> Battle Armor
@@ -1265,7 +1265,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#141 Kabutops**
 
-![141](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/141.gif)&nbsp;
+![kabutops](../assets/sprites/kabutops/front.gif)
 
 <pre><code><b>Ability One:</b> Swift Swim
 <b>Ability Two:</b> Hyper Cutter
@@ -1273,7 +1273,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#142 Aerodactyl**
 
-![142](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/142.gif)&nbsp;
+![aerodactyl](../assets/sprites/aerodactyl/front.gif)
 
 <pre><code><b>Ability One:</b> Rock Head
 <b>Ability Two:</b> Pressure
@@ -1281,7 +1281,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#143 Snorlax**
 
-![143](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif)&nbsp;
+![snorlax](../assets/sprites/snorlax/front.gif)
 
 <pre><code><b>Ability One:</b> Gluttony
 <b>Ability Two:</b> Thick Fat
@@ -1289,7 +1289,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#144 Articuno**
 
-![144](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/144.gif)&nbsp;
+![articuno](../assets/sprites/articuno/front.gif)
 
 <pre><code><b>Item:</b> Petaya Berry (100%)
 <b>Ability One:</b> Pressure
@@ -1298,7 +1298,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#145 Zapdos**
 
-![145](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/145.gif)&nbsp;
+![zapdos](../assets/sprites/zapdos/front.gif)
 
 <pre><code><b>Item:</b> Salac Berry (100%)
 <b>Ability One:</b> Pressure
@@ -1307,7 +1307,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#146 Moltres**
 
-![146](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/146.gif)&nbsp;
+![moltres](../assets/sprites/moltres/front.gif)
 
 <pre><code><b>Item:</b> Liechi Berry (100%)
 <b>Ability One:</b> Pressure
@@ -1316,7 +1316,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#147 Dratini**
 
-![147](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/147.gif)&nbsp;
+![dratini](../assets/sprites/dratini/front.gif)
 
 <pre><code><b>Ability One:</b> Shed Skin
 <b>Ability Two:</b> Marvel Scale
@@ -1324,7 +1324,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#148 Dragonair**
 
-![148](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/148.gif)&nbsp;
+![dragonair](../assets/sprites/dragonair/front.gif)
 
 <pre><code><b>Ability One:</b> Shed Skin
 <b>Ability Two:</b> Marvel Scale
@@ -1332,7 +1332,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#149 Dragonite**
 
-![149](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/149.gif)&nbsp;
+![dragonite](../assets/sprites/dragonite/front.gif)
 
 <pre><code><b>Ability One:</b> Multiscale
 <b>Ability Two:</b> Marvel Scale
@@ -1340,7 +1340,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#150 Mewtwo**
 
-![150](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/150.gif)&nbsp;
+![mewtwo](../assets/sprites/mewtwo/front.gif)
 
 <pre><code><b>Item:</b> Apicot Berry (100%)
 <b>Ability One:</b> Pressure
@@ -1349,7 +1349,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#151 Mew**
 
-![151](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/151.gif)&nbsp;
+![mew](../assets/sprites/mew/front.gif)
 
 <pre><code><b>Ability One:</b> Synchronize
 <b>Ability Two:</b> Magic Guard
@@ -1361,9 +1361,9 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#152 Chikorita, #153 Bayleef, #154 Meganium**
 
-![152](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/152.gif)&nbsp;
-![153](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/153.gif)&nbsp;
-![154](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/154.gif)&nbsp;
+![chikorita](../assets/sprites/chikorita/front.gif)
+![bayleef](../assets/sprites/bayleef/front.gif)
+![meganium](../assets/sprites/meganium/front.gif)
 
 <pre><code><b>Item:</b> Miracle Seed (50%)
 <b>Ability One:</b> Overgrow
@@ -1372,9 +1372,9 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#155 Cyndaquil, #156 Quilava, #157 Typhlosion**
 
-![155](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/155.gif)&nbsp;
-![156](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/156.gif)&nbsp;
-![157](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/157.gif)&nbsp;
+![cyndaquil](../assets/sprites/cyndaquil/front.gif)
+![quilava](../assets/sprites/quilava/front.gif)
+![typhlosion](../assets/sprites/typhlosion/front.gif)
 
 <pre><code><b>Item:</b> Charcoal (50%)
 <b>Ability One:</b> Blaze
@@ -1383,9 +1383,9 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#158 Totodile, #159 Croconaw, #160 Feraligatr.**
 
-![158](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/158.gif)&nbsp;
-![159](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/159.gif)&nbsp;
-![160](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/160.gif)&nbsp;
+![totodile](../assets/sprites/totodile/front.gif)
+![croconaw](../assets/sprites/croconaw/front.gif)
+![feraligatr](../assets/sprites/feraligatr/front.gif)
 
 <pre><code><b>Item:</b> Mystic Water (50%)
 <b>Ability One:</b> Torrent
@@ -1394,7 +1394,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#161 Sentret**
 
-![161](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/161.gif)&nbsp;
+![sentret](../assets/sprites/sentret/front.gif)
 
 <pre><code><b>Ability One:</b> Frisk
 <b>Ability Two:</b> Keen Eye
@@ -1402,7 +1402,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#162 Furret**
 
-![162](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/162.gif)&nbsp;
+![furret](../assets/sprites/furret/front.gif)
 
 <pre><code><b>Attack:</b> 76 → 86
 <b>Speed:</b> 90 → 100
@@ -1413,7 +1413,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#163 Hoothoot**
 
-![163](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/163.gif)&nbsp;
+![hoothoot](../assets/sprites/hoothoot/front.gif)
 
 <pre><code><b>Ability One:</b> Insomnia
 <b>Ability Two:</b> Tinted Lens
@@ -1421,7 +1421,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#164 Noctowl**
 
-![164](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/164.gif)&nbsp;
+![noctowl](../assets/sprites/noctowl/front.gif)
 
 <pre><code><b>Special Attack:</b> 76 → 96
 <b>Total:</b> 442 → 462
@@ -1431,7 +1431,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#165 Ledyba**
 
-![165](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/165.gif)&nbsp;
+![ledyba](../assets/sprites/ledyba/front.gif)
 
 <pre><code><b>Attack:</b> 20 → 40
 <b>Special Attack:</b> 40 → 20
@@ -1441,7 +1441,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#166 Ledian**
 
-![166](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/166.gif)&nbsp;
+![ledian](../assets/sprites/ledian/front.gif)
 
 <pre><code><b>Attack:</b> 35 → 95
 <b>Special Attack:</b> 55 → 35
@@ -1452,7 +1452,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#167 Spinarak**
 
-![167](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/167.gif)&nbsp;
+![spinarak](../assets/sprites/spinarak/front.gif)
 
 <pre><code><b>Ability One:</b> Sniper
 <b>Ability Two:</b> Insomnia
@@ -1460,7 +1460,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#168 Ariados**
 
-![168](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/168.gif)&nbsp;
+![ariados](../assets/sprites/ariados/front.gif)
 
 <pre><code><b>Speed:</b> 40 → 80
 <b>Total:</b> 390 → 430
@@ -1470,7 +1470,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#169 Crobat**
 
-![169](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/169.gif)&nbsp;
+![crobat](../assets/sprites/crobat/front.gif)
 
 <pre><code><b>Base Happiness:</b> 140
 <b>Ability One:</b> Inner Focus
@@ -1479,7 +1479,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#170 Chinchou**
 
-![170](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/170.gif)&nbsp;
+![chinchou](../assets/sprites/chinchou/front.gif)
 
 <pre><code><b>Ability One:</b> Volt Absorb
 <b>Ability Two:</b> Water Absorb
@@ -1487,7 +1487,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#171 Lanturn**
 
-![171](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/171.gif)&nbsp;
+![lanturn](../assets/sprites/lanturn/front.gif)
 
 <pre><code><b>Special Attack:</b> 76 → 86
 <b>Special Defense:</b> 76 → 86
@@ -1498,7 +1498,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#172 Pichu**
 
-![172](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/172.gif)&nbsp;
+![pichu](../assets/sprites/pichu/front.gif)
 
 <pre><code><b>Base Happiness:</b> 200
 <b>HM:</b> Can now learn HM03, Surf.
@@ -1508,7 +1508,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#173 Cleffa**
 
-![173](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/173.gif)&nbsp;
+![cleffa](../assets/sprites/cleffa/front.gif)
 
 <pre><code><b>Base Happiness:</b> 200
 <b>Ability One:</b> Friend Guard
@@ -1517,7 +1517,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#174 Igglypuff**
 
-![174](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/174.gif)&nbsp;
+![igglypuff](../assets/sprites/igglypuff/front.gif)
 
 <pre><code><b>Base Happiness:</b> 200
 <b>Ability One:</b> Cute Charm
@@ -1526,7 +1526,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#175 Togepi**
 
-![175](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/175.gif)&nbsp;
+![togepi](../assets/sprites/togepi/front.gif)
 
 <pre><code><b>Base Happiness:</b> 200
 <b>Ability One:</b> Super Luck
@@ -1535,7 +1535,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#176 Togetic**
 
-![176](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/176.gif)&nbsp;
+![togetic](../assets/sprites/togetic/front.gif)
 
 <pre><code><b>Ability One:</b> Super Luck
 <b>Ability Two:</b> Serene Grace
@@ -1543,7 +1543,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#177 Natu**
 
-![177](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/177.gif)&nbsp;
+![natu](../assets/sprites/natu/front.gif)
 
 <pre><code><b>Ability One:</b> Synchronize
 <b>Ability Two:</b> Magic Bounce
@@ -1551,7 +1551,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#178 Xatu**
 
-![178](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/178.gif)&nbsp;
+![xatu](../assets/sprites/xatu/front.gif)
 
 <pre><code><b>Special Attack:</b> 95 → 100
 <b>Speed:</b> 95 → 100
@@ -1562,8 +1562,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#179 Mareep, #180 Flaaffy**
 
-![179](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/179.gif)&nbsp;
-![180](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/180.gif)&nbsp;
+![mareep](../assets/sprites/mareep/front.gif)
+![flaaffy](../assets/sprites/flaaffy/front.gif)
 
 <pre><code><b>Ability One:</b> Static
 <b>Ability Two:</b> Overcoat
@@ -1571,7 +1571,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#181 Ampharos**
 
-![181](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/181.gif)&nbsp;
+![ampharos](../assets/sprites/ampharos/front.gif)
 
 <pre><code><b>TM:</b> Can now learn TM91, Flash Cannon.
 <b>Ability One:</b> Static
@@ -1580,7 +1580,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#182 Bellossom**
 
-![182](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/182.gif)&nbsp;
+![bellossom](../assets/sprites/bellossom/front.gif)
 
 <pre><code><b>HP:</b> 75 → 85
 <b>Special Attack:</b> 90 → 100
@@ -1592,7 +1592,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#183 Marill**
 
-![183](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/183.gif)&nbsp;
+![marill](../assets/sprites/marill/front.gif)
 
 <pre><code><b>Special Attack:</b> 20 → 50
 <b>Total:</b> 250 → 280
@@ -1602,7 +1602,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#184 Azumarill**
 
-![184](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/184.gif)&nbsp;
+![azumarill](../assets/sprites/azumarill/front.gif)
 
 <pre><code><b>HP:</b> 100 → 110
 <b>Special Attack:</b> 50 → 90
@@ -1613,7 +1613,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#185 Sudowoodo**
 
-![185](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/185.gif)&nbsp;
+![sudowoodo](../assets/sprites/sudowoodo/front.gif)
 
 <pre><code><b>HP:</b> 70 → 85
 <b>Attack:</b> 100 → 115
@@ -1626,7 +1626,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#186 Politoed**
 
-![186](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/186.gif)&nbsp;
+![politoed](../assets/sprites/politoed/front.gif)
 
 <pre><code><b>Ability One:</b> Water Absorb
 <b>Ability Two:</b> Drizzle
@@ -1634,9 +1634,9 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#187 Hoppip, #188 Skiploom, #189 Jumpluff**
 
-![187](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/187.gif)&nbsp;
-![188](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/188.gif)&nbsp;
-![189](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/189.gif)&nbsp;
+![hoppip](../assets/sprites/hoppip/front.gif)
+![skiploom](../assets/sprites/skiploom/front.gif)
+![jumpluff](../assets/sprites/jumpluff/front.gif)
 
 <pre><code><b>Ability One:</b> Chlorophyll
 <b>Ability Two:</b> Prankster
@@ -1644,7 +1644,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#190 Aipom**
 
-![190](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/190.gif)&nbsp;
+![aipom](../assets/sprites/aipom/front.gif)
 
 <pre><code><b>Ability One:</b> Skill Link
 <b>Ability Two:</b> Pickup
@@ -1652,7 +1652,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#191 Sunkern**
 
-![191](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/191.gif)&nbsp;
+![sunkern](../assets/sprites/sunkern/front.gif)
 
 <pre><code><b>Ability One:</b> Chlorophyll
 <b>Ability Two:</b> Simple
@@ -1660,7 +1660,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#192 Sunflora**
 
-![192](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/192.gif)&nbsp;
+![sunflora](../assets/sprites/sunflora/front.gif)
 
 <pre><code><b>Defense:</b> 55 → 85
 <b>Special Attack:</b> 105 → 135
@@ -1673,7 +1673,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#193 Yanma**
 
-![193](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/193.gif)&nbsp;
+![yanma](../assets/sprites/yanma/front.gif)
 
 <pre><code><b>Ability One:</b> Speed Boost
 <b>Ability Two:</b> Compoundeyes
@@ -1681,7 +1681,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#194 Wooper**
 
-![194](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/194.gif)&nbsp;
+![wooper](../assets/sprites/wooper/front.gif)
 
 <pre><code><b>Ability One:</b> Unaware
 <b>Ability Two:</b> Water Absorb
@@ -1689,7 +1689,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#195 Quagsire**
 
-![195](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/195.gif)&nbsp;
+![quagsire](../assets/sprites/quagsire/front.gif)
 
 <pre><code><b>Attack:</b> 85 → 95
 <b>Defense:</b> 85 → 95
@@ -1700,7 +1700,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#196 Espeon**
 
-![196](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/196.gif)&nbsp;
+![espeon](../assets/sprites/espeon/front.gif)
 
 <pre><code><b>Ability One:</b> Synchronize
 <b>Ability Two:</b> Magic Bounce
@@ -1708,7 +1708,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#197 Umbreon**
 
-![197](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/197.gif)&nbsp;
+![umbreon](../assets/sprites/umbreon/front.gif)
 
 <pre><code><b>TM:</b> Can now learn TM86, Grass Knot.
 <b>Ability One:</b> Synchronize
@@ -1717,7 +1717,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#198 Murkrow**
 
-![198](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/198.gif)&nbsp;
+![murkrow](../assets/sprites/murkrow/front.gif)
 
 <pre><code><b>Ability One:</b> Prankster
 <b>Ability Two:</b> Super Luck
@@ -1725,7 +1725,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#199 Slowking**
 
-![199](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/199.gif)&nbsp;
+![slowking](../assets/sprites/slowking/front.gif)
 
 <pre><code><b>Ability One:</b> Regenerator
 <b>Ability Two:</b> Drizzle
@@ -1733,7 +1733,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#200 Misdreavus**
 
-![200](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/200.gif)&nbsp;
+![misdreavus](../assets/sprites/misdreavus/front.gif)
 
 <pre><code><b>Ability One:</b> Levitate
 <b>Ability Two:</b> Levitate
@@ -1741,7 +1741,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#201 Unown**
 
-![201](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/201.gif)&nbsp;
+![unown](../assets/sprites/unown/front.gif)
 
 <pre><code><b>Attack:</b> 72 → 112
 <b>Special Attack:</b> 72 → 112
@@ -1754,7 +1754,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#202 Wobbuffet**
 
-![202](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/202.gif)&nbsp;
+![wobbuffet](../assets/sprites/wobbuffet/front.gif)
 
 <pre><code><b>Ability One:</b> Shadow Tag
 <b>Ability Two:</b> Telepathy
@@ -1762,7 +1762,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#203 Girafarig**
 
-![203](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/203.gif)&nbsp;
+![girafarig](../assets/sprites/girafarig/front.gif)
 
 <pre><code><b>Special Attack:</b> 90 → 110
 <b>Speed:</b> 85 → 105
@@ -1774,8 +1774,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#204 Pineco, #205 Forretress**
 
-![204](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/204.gif)&nbsp;
-![205](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/205.gif)&nbsp;
+![pineco](../assets/sprites/pineco/front.gif)
+![forretress](../assets/sprites/forretress/front.gif)
 
 <pre><code><b>Ability One:</b> Sturdy
 <b>Ability Two:</b> Overcoat
@@ -1783,7 +1783,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#206 Dunsparce**
 
-![206](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/206.gif)&nbsp;
+![dunsparce](../assets/sprites/dunsparce/front.gif)
 
 <pre><code><b>HP:</b> 100 → 120
 <b>Attack:</b> 70 → 90
@@ -1794,7 +1794,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#207 Gligar**
 
-![207](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/207.gif)&nbsp;
+![gligar](../assets/sprites/gligar/front.gif)
 
 <pre><code><b>Ability One:</b> Hyper Cutter
 <b>Ability Two:</b> Immunity
@@ -1802,7 +1802,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#208 Steelix**
 
-![208](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/208.gif)&nbsp;
+![steelix](../assets/sprites/steelix/front.gif)
 
 <pre><code><b>Attack:</b> 85 → 90
 <b>Total:</b> 510 → 515
@@ -1812,7 +1812,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#209 Snubbull**
 
-![209](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/209.gif)&nbsp;
+![snubbull](../assets/sprites/snubbull/front.gif)
 
 <pre><code><b>Ability One:</b> Intimidate
 <b>Ability Two:</b> Rattled
@@ -1820,7 +1820,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#210 Granbull**
 
-![210](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/210.gif)&nbsp;
+![granbull](../assets/sprites/granbull/front.gif)
 
 <pre><code><b>HP:</b> 90 → 105
 <b>Total:</b> 450 → 465
@@ -1830,7 +1830,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#211 Qwilfish**
 
-![211](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/211.gif)&nbsp;
+![qwilfish](../assets/sprites/qwilfish/front.gif)
 
 <pre><code><b>Special Attack:</b> 55 → 95
 <b>Total:</b> 430 → 470
@@ -1840,7 +1840,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#212 Scizor**
 
-![212](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/212.gif)&nbsp;
+![scizor](../assets/sprites/scizor/front.gif)
 
 <pre><code><b>Ability One:</b> Swarm
 <b>Ability Two:</b> Technician
@@ -1848,7 +1848,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#213 Shuckle**
 
-![213](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/213.gif)&nbsp;
+![shuckle](../assets/sprites/shuckle/front.gif)
 
 <pre><code><b>Ability One:</b> Sturdy
 <b>Ability Two:</b> Solid Rock
@@ -1856,7 +1856,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#214 Heracross**
 
-![214](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/214.gif)&nbsp;
+![heracross](../assets/sprites/heracross/front.gif)
 
 <pre><code><b>Ability One:</b> Moxie
 <b>Ability Two:</b> Guts
@@ -1864,7 +1864,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#215 Sneasel**
 
-![215](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/215.gif)&nbsp;
+![sneasel](../assets/sprites/sneasel/front.gif)
 
 <pre><code><b>TM:</b> Now learns TM79, Frost Breath.
 <b>Ability One:</b> Pickpocket
@@ -1873,7 +1873,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#216 Teddiursa**
 
-![216](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/216.gif)&nbsp;
+![teddiursa](../assets/sprites/teddiursa/front.gif)
 
 <pre><code><b>Ability One:</b> Pickup
 <b>Ability Two:</b> Honey Gather
@@ -1881,7 +1881,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#217 Ursaring**
 
-![217](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/217.gif)&nbsp;
+![ursaring](../assets/sprites/ursaring/front.gif)
 
 <pre><code><b>Ability One:</b> Pickup
 <b>Ability Two:</b> Sheer Force
@@ -1889,7 +1889,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#218 Slugma**
 
-![218](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/218.gif)&nbsp;
+![slugma](../assets/sprites/slugma/front.gif)
 
 <pre><code><b>Item:</b> Flame Orb (50%)
 <b>Ability One:</b> Magma Armor
@@ -1898,7 +1898,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#219 Magcargo**
 
-![219](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/219.gif)&nbsp;
+![magcargo](../assets/sprites/magcargo/front.gif)
 
 <pre><code><b>Item:</b> Flame Orb (50%)
 <b>Defense:</b> 120 → 135
@@ -1912,8 +1912,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#220 Swinub, #221 Piloswine**
 
-![220](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/220.gif)&nbsp;
-![221](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/221.gif)&nbsp;
+![swinub](../assets/sprites/swinub/front.gif)
+![piloswine](../assets/sprites/piloswine/front.gif)
 
 <pre><code><b>Ability One:</b> Thick Fat
 <b>Ability Two:</b> Snow Cloak
@@ -1921,7 +1921,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#222 Corsola**
 
-![222](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/222.gif)&nbsp;
+![corsola](../assets/sprites/corsola/front.gif)
 
 <pre><code><b>Defense:</b> 85 → 115
 <b>Special Attack:</b> 65 → 105
@@ -1934,8 +1934,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#223 Remoraid, #224 Octillery**
 
-![223](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/223.gif)&nbsp;
-![224](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/224.gif)&nbsp;
+![remoraid](../assets/sprites/remoraid/front.gif)
+![octillery](../assets/sprites/octillery/front.gif)
 
 <pre><code><b>TM:</b> Now learn TM79, Frost Breath.
 <b>Ability One:</b> Moody
@@ -1944,7 +1944,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#225 Delibird**
 
-![225](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/225.gif)&nbsp;
+![delibird](../assets/sprites/delibird/front.gif)
 
 <pre><code><b>HP:</b> 45 → 50
 <b>Attack:</b> 55 → 95
@@ -1961,7 +1961,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#226 Mantine**
 
-![226](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/226.gif)&nbsp;
+![mantine](../assets/sprites/mantine/front.gif)
 
 <pre><code><b>HM:</b> Can now learn HM02, Fly.
 <b>Ability One:</b> Swift Swim
@@ -1970,7 +1970,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#227 Skarmory**
 
-![227](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/227.gif)&nbsp;
+![skarmory](../assets/sprites/skarmory/front.gif)
 
 <pre><code><b>Ability One:</b> Light Metal
 <b>Ability Two:</b> Sturdy
@@ -1978,8 +1978,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#228 Houndour, #229 Houndoom**
 
-![228](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/228.gif)&nbsp;
-![229](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/229.gif)&nbsp;
+![houndour](../assets/sprites/houndour/front.gif)
+![houndoom](../assets/sprites/houndoom/front.gif)
 
 <pre><code><b>Ability One:</b> Intimidate
 <b>Ability Two:</b> Flash Fire
@@ -1987,7 +1987,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#230 Kingdra**
 
-![230](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/230.gif)&nbsp;
+![kingdra](../assets/sprites/kingdra/front.gif)
 
 <pre><code><b>TM:</b> Now learns TM79, Frost Breath.
 <b>Ability One:</b> Swift Swim
@@ -1996,7 +1996,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#231 Phanpy**
 
-![231](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/231.gif)&nbsp;
+![phanpy](../assets/sprites/phanpy/front.gif)
 
 <pre><code><b>Ability One:</b> Pickup
 <b>Ability Two:</b> Sand Veil
@@ -2004,7 +2004,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#232 Donphan**
 
-![232](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/232.gif)&nbsp;
+![donphan](../assets/sprites/donphan/front.gif)
 
 <pre><code><b>Ability One:</b> Sturdy
 <b>Ability Two:</b> Sand Force
@@ -2012,7 +2012,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#233 Porygon2**
 
-![233](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/233.gif)&nbsp;
+![porygon2](../assets/sprites/porygon2/front.gif)
 
 <pre><code><b>Evolution:</b> Use the Dubious Disc.
 <b>Ability One:</b> Trace
@@ -2021,7 +2021,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#234 Stantler**
 
-![234](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/234.gif)&nbsp;
+![stantler](../assets/sprites/stantler/front.gif)
 
 <pre><code><b>Attack:</b> 95 → 100
 <b>Total:</b> 465 → 470
@@ -2031,7 +2031,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#235 Smeargle**
 
-![235](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/235.gif)&nbsp;
+![smeargle](../assets/sprites/smeargle/front.gif)
 
 <pre><code><b>Speed:</b> 75 → 115
 <b>Total:</b> 250 → 290
@@ -2042,7 +2042,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#236 Tyrogue**
 
-![236](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/236.gif)&nbsp;
+![tyrogue](../assets/sprites/tyrogue/front.gif)
 
 <pre><code><b>Ability One:</b> Guts
 <b>Ability Two:</b> Vital Spirit
@@ -2050,7 +2050,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#237 Hitmontop**
 
-![237](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/237.gif)&nbsp;
+![hitmontop](../assets/sprites/hitmontop/front.gif)
 
 <pre><code><b>Ability One:</b> Intimidate
 <b>Ability Two:</b> Technician
@@ -2058,7 +2058,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#238 Smoochum**
 
-![238](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/238.gif)&nbsp;
+![smoochum](../assets/sprites/smoochum/front.gif)
 
 <pre><code><b>Ability One:</b> Trace
 <b>Ability Two:</b> Hydration
@@ -2066,7 +2066,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#239 Elekid**
 
-![239](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/239.gif)&nbsp;
+![elekid](../assets/sprites/elekid/front.gif)
 
 <pre><code><b>Ability One:</b> Static
 <b>Ability Two:</b> Vital Spirit
@@ -2074,7 +2074,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#240 Magby**
 
-![240](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/240.gif)&nbsp;
+![magby](../assets/sprites/magby/front.gif)
 
 <pre><code><b>Ability One:</b> Flame Body
 <b>Ability Two:</b> Vital Spirit
@@ -2082,7 +2082,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#241 Miltank**
 
-![241](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/241.gif)&nbsp;
+![miltank](../assets/sprites/miltank/front.gif)
 
 <pre><code><b>Attack:</b> 80 → 90
 <b>Total:</b> 490 → 500
@@ -2092,7 +2092,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#242 Blissey**
 
-![242](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/242.gif)&nbsp;
+![blissey](../assets/sprites/blissey/front.gif)
 
 <pre><code><b>Ability One:</b> Natural Cure
 <b>Ability Two:</b> Serene Grace
@@ -2100,7 +2100,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#243 Raikou**
 
-![243](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/243.gif)&nbsp;
+![raikou](../assets/sprites/raikou/front.gif)
 
 <pre><code><b>Item:</b> Micle Berry (100%)
 <b>Ability One:</b> Pressure
@@ -2109,7 +2109,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#244 Entei**
 
-![244](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/244.gif)&nbsp;
+![entei](../assets/sprites/entei/front.gif)
 
 <pre><code><b>Item:</b> Custap Berry (100%)
 <b>Ability One:</b> Pressure
@@ -2118,7 +2118,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#245 Suicune**
 
-![245](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/245.gif)&nbsp;
+![suicune](../assets/sprites/suicune/front.gif)
 
 <pre><code><b>Item:</b> Rowap Berry (100%)
 <b>Ability One:</b> Pressure
@@ -2127,7 +2127,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#246 Larvitar**
 
-![246](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/246.gif)&nbsp;
+![larvitar](../assets/sprites/larvitar/front.gif)
 
 <pre><code><b>Ability One:</b> Guts
 <b>Ability Two:</b> Hustle
@@ -2135,7 +2135,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#247 Pupitar**
 
-![247](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/247.gif)&nbsp;
+![pupitar](../assets/sprites/pupitar/front.gif)
 
 <pre><code><b>Ability One:</b> Shed Skin
 <b>Ability Two:</b> Battle Armor
@@ -2143,7 +2143,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#248 Tyranitar**
 
-![248](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/248.gif)&nbsp;
+![tyranitar](../assets/sprites/tyranitar/front.gif)
 
 <pre><code><b>Ability One:</b> Sand Stream
 <b>Ability Two:</b> Battle Armor
@@ -2151,7 +2151,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#249 Lugia**
 
-![249](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/249.gif)&nbsp;
+![lugia](../assets/sprites/lugia/front.gif)
 
 <pre><code><b>Item:</b> Ganlon Berry (100%)
 <b>Ability One:</b> Pressure
@@ -2160,7 +2160,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#250 Ho-oh**
 
-![250](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/250.gif)&nbsp;
+![hooh](../assets/sprites/hooh/front.gif)
 
 <pre><code><b>Ability One:</b> Pressure
 <b>Ability Two:</b> Regenerator
@@ -2168,7 +2168,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#251 Celebi**
 
-![251](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/251.gif)&nbsp;
+![celebi](../assets/sprites/celebi/front.gif)
 
 <pre><code><b>Item:</b> Jaboca Berry (100%)
 <b>Ability One:</b> Natural Cure
@@ -2181,8 +2181,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#252 Treecko, #253 Grovyle #254 Sceptile**
 
-![252](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/252.gif)&nbsp;
-![253](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/253.gif)&nbsp;
+![treecko](../assets/sprites/treecko/front.gif)
+![grovyle-254-sceptile](../assets/sprites/grovyle-254-sceptile/front.gif)
 
 <pre><code><b>Item:</b> Miracle Seed (50%)
 <b>Ability One:</b> Overgrow
@@ -2191,9 +2191,9 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#255 Torchic, #256 Combusken, #257 Blaziken**
 
-![255](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/255.gif)&nbsp;
-![256](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/256.gif)&nbsp;
-![257](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/257.gif)&nbsp;
+![torchic](../assets/sprites/torchic/front.gif)
+![combusken](../assets/sprites/combusken/front.gif)
+![blaziken](../assets/sprites/blaziken/front.gif)
 
 <pre><code><b>Item:</b> Charcoal (50%)
 <b>Ability One:</b> Blaze
@@ -2202,9 +2202,9 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#258 Mudkip, #259 Marshtomp, #260 Swampert**
 
-![258](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/258.gif)&nbsp;
-![259](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/259.gif)&nbsp;
-![260](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/260.gif)&nbsp;
+![mudkip](../assets/sprites/mudkip/front.gif)
+![marshtomp](../assets/sprites/marshtomp/front.gif)
+![swampert](../assets/sprites/swampert/front.gif)
 
 <pre><code><b>Item:</b> Mystic Water (50%)
 <b>Ability One:</b> Torrent
@@ -2213,7 +2213,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#261 Poochyena**
 
-![261](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/261.gif)&nbsp;
+![poochyena](../assets/sprites/poochyena/front.gif)
 
 <pre><code><b>Ability One:</b> Rattled
 <b>Ability Two:</b> Quick Feet
@@ -2221,7 +2221,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#262 Mightyena**
 
-![262](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/262.gif)&nbsp;
+![mightyena](../assets/sprites/mightyena/front.gif)
 
 <pre><code><b>Attack:</b> 90 → 105
 <b>Total:</b> 420 → 435
@@ -2231,7 +2231,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#263 Zigzagoon**
 
-![263](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/263.gif)&nbsp;
+![zigzagoon](../assets/sprites/zigzagoon/front.gif)
 
 <pre><code><b>Ability One:</b> Pickup
 <b>Ability Two:</b> Gluttony
@@ -2239,7 +2239,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#264 Linoone**
 
-![264](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/264.gif)&nbsp;
+![linoone](../assets/sprites/linoone/front.gif)
 
 <pre><code><b>Attack:</b> 70 → 85
 <b>Total:</b> 420 → 435
@@ -2249,7 +2249,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#265 Wurmple**
 
-![265](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/265.gif)&nbsp;
+![wurmple](../assets/sprites/wurmple/front.gif)
 
 <pre><code><b>Ability One:</b> Shield Dust
 <b>Ability Two:</b> Run Away
@@ -2257,7 +2257,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#266 Silcoon**
 
-![266](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/266.gif)&nbsp;
+![silcoon](../assets/sprites/silcoon/front.gif)
 
 <pre><code><b>Ability One:</b> Shed Skin
 <b>Ability Two:</b> Battle Armor
@@ -2265,7 +2265,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#267 Beautifly**
 
-![267](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/267.gif)&nbsp;
+![beautifly](../assets/sprites/beautifly/front.gif)
 
 <pre><code><b>Special Attack:</b> 90 → 105
 <b>Speed:</b> 65 → 85
@@ -2276,7 +2276,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#268 Silcoon**
 
-![268](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/268.gif)&nbsp;
+![silcoon](../assets/sprites/silcoon/front.gif)
 
 <pre><code><b>Ability One:</b> Shed Skin
 <b>Ability Two:</b> Battle Armor
@@ -2284,7 +2284,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#269 Dustox**
 
-![269](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/269.gif)&nbsp;
+![dustox](../assets/sprites/dustox/front.gif)
 
 <pre><code><b>Special Defense:</b> 90 → 105
 <b>Speed:</b> 65 → 85
@@ -2295,7 +2295,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#270 Lotad**
 
-![270](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/270.gif)&nbsp;
+![lotad](../assets/sprites/lotad/front.gif)
 
 <pre><code><b>Ability One:</b> Swift Swim
 <b>Ability Two:</b> Rain Dish
@@ -2303,7 +2303,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#271 Lombre**
 
-![271](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/271.gif)&nbsp;
+![lombre](../assets/sprites/lombre/front.gif)
 
 <pre><code><b>Ability One:</b> Swift Swim
 <b>Ability Two:</b> Rain Dish
@@ -2311,7 +2311,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#272 Ludicolo**
 
-![272](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/272.gif)&nbsp;
+![ludicolo](../assets/sprites/ludicolo/front.gif)
 
 <pre><code><b>Ability One:</b> Swift Swim
 <b>Ability Two:</b> Rain Dish
@@ -2319,7 +2319,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#273 Seedot**
 
-![273](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/273.gif)&nbsp;
+![seedot](../assets/sprites/seedot/front.gif)
 
 <pre><code><b>Ability One:</b> Pickpocket
 <b>Ability Two:</b> Early Bird
@@ -2327,7 +2327,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#274 Nuzleaf**
 
-![274](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/274.gif)&nbsp;
+![nuzleaf](../assets/sprites/nuzleaf/front.gif)
 
 <pre><code><b>Ability One:</b> Pickpocket
 <b>Ability Two:</b> Early Bird
@@ -2335,7 +2335,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#275 Shiftry**
 
-![275](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/275.gif)&nbsp;
+![shiftry](../assets/sprites/shiftry/front.gif)
 
 <pre><code><b>Ability One:</b> Pickpocket
 <b>Ability Two:</b> Early Bird
@@ -2343,7 +2343,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#276 Taillow**
 
-![276](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/276.gif)&nbsp;
+![taillow](../assets/sprites/taillow/front.gif)
 
 <pre><code><b>TM:</b> Now learns TM62 Acrobatics.
 <b>Ability One:</b> Unburden
@@ -2352,7 +2352,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#277 Swellow**
 
-![277](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/277.gif)&nbsp;
+![swellow](../assets/sprites/swellow/front.gif)
 
 <pre><code><b>HP:</b> 60 → 70
 <b>Attack:</b> 85 → 100
@@ -2364,7 +2364,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#278 Wingull**
 
-![278](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/278.gif)&nbsp;
+![wingull](../assets/sprites/wingull/front.gif)
 
 <pre><code><b>Ability One:</b> Keen Eye
 <b>Ability Two:</b> Infiltrator
@@ -2372,7 +2372,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#279 Pelipper**
 
-![279](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/279.gif)&nbsp;
+![pelipper](../assets/sprites/pelipper/front.gif)
 
 <pre><code><b>Defense:</b> 100 → 120
 <b>Special Attack:</b> 85 → 100
@@ -2383,7 +2383,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#280 Ralts**
 
-![280](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/280.gif)&nbsp;
+![ralts](../assets/sprites/ralts/front.gif)
 
 <pre><code><b>Special Attack:</b> 45 → 65
 <b>Total:</b> 198 → 218
@@ -2393,7 +2393,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#281 Kirlia**
 
-![281](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/281.gif)&nbsp;
+![kirlia](../assets/sprites/kirlia/front.gif)
 
 <pre><code><b>Special Attack:</b> 65 → 95
 <b>Total:</b> 278 → 308
@@ -2403,7 +2403,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#282 Gardevoir**
 
-![282](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/282.gif)&nbsp;
+![gardevoir](../assets/sprites/gardevoir/front.gif)
 
 <pre><code><b>Ability One:</b> Synchronize
 <b>Ability Two:</b> Trace
@@ -2411,7 +2411,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#283 Surskit**
 
-![283](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/283.gif)&nbsp;
+![surskit](../assets/sprites/surskit/front.gif)
 
 <pre><code><b>Ability One:</b> Swift Swim
 <b>Ability Two:</b> Rain Dish
@@ -2420,7 +2420,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#284 Masquerain**
 
-![284](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/284.gif)&nbsp;
+![masquerain](../assets/sprites/masquerain/front.gif)
 
 <pre><code><b>Type:</b> Bug / Water
 <b>HP:</b> 70 → 70
@@ -2438,7 +2438,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#285 Shroomish**
 
-![285](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/285.gif)&nbsp;
+![shroomish](../assets/sprites/shroomish/front.gif)
 
 <pre><code><b>Ability One:</b> Effect Spore
 <b>Ability Two:</b> Poison Heal
@@ -2446,7 +2446,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#286 Breloom**
 
-![286](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/286.gif)&nbsp;
+![breloom](../assets/sprites/breloom/front.gif)
 
 <pre><code><b>Ability One:</b> Technician
 <b>Ability Two:</b> Poison Heal
@@ -2454,7 +2454,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#287 Slakoth**
 
-![287](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/287.gif)&nbsp;
+![slakoth](../assets/sprites/slakoth/front.gif)
 
 <pre><code><b>Ability One:</b> Truant
 <b>Ability Two:</b> Slow Start
@@ -2462,7 +2462,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#288 Vigoroth**
 
-![288](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/288.gif)&nbsp;
+![vigoroth](../assets/sprites/vigoroth/front.gif)
 
 <pre><code><b>Attack:</b> 80 → 100
 <b>Total:</b> 440 → 460
@@ -2472,7 +2472,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#289 Slaking**
 
-![289](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/289.gif)&nbsp;
+![slaking](../assets/sprites/slaking/front.gif)
 
 <pre><code><b>Ability One:</b> Truant
 <b>Ability Two:</b> Slow Start
@@ -2480,7 +2480,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#290 Nincada**
 
-![290](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/290.gif)&nbsp;
+![nincada](../assets/sprites/nincada/front.gif)
 
 <pre><code><b>Ability One:</b> Compoundeyes
 <b>Ability Two:</b> Anticipation
@@ -2488,7 +2488,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#291 Ninjask**
 
-![291](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/291.gif)&nbsp;
+![ninjask](../assets/sprites/ninjask/front.gif)
 
 <pre><code><b>Ability One:</b> Speed Boost
 <b>Ability Two:</b> Infiltrator
@@ -2496,7 +2496,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#292 Shedinja**
 
-![292](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/292.gif)&nbsp;
+![shedinja](../assets/sprites/shedinja/front.gif)
 
 <pre><code><b>Ability One:</b> Wonder Guard
 <b>Ability Two:</b> Wonder Guard
@@ -2504,7 +2504,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#293 Whismur**
 
-![293](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/293.gif)&nbsp;
+![whismur](../assets/sprites/whismur/front.gif)
 
 <pre><code><b>Ability One:</b> Soundproof
 <b>Ability Two:</b> Rattled
@@ -2512,8 +2512,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#294 Loudred, #295 Exploud**
 
-![294](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/294.gif)&nbsp;
-![295](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/295.gif)&nbsp;
+![loudred](../assets/sprites/loudred/front.gif)
+![exploud](../assets/sprites/exploud/front.gif)
 
 <pre><code><b>Ability One:</b> Soundproof
 <b>Ability Two:</b> Scrappy
@@ -2521,8 +2521,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#296 Makuhita, #297 Hariyama**
 
-![296](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/296.gif)&nbsp;
-![297](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/297.gif)&nbsp;
+![makuhita](../assets/sprites/makuhita/front.gif)
+![hariyama](../assets/sprites/hariyama/front.gif)
 
 <pre><code><b>Ability One:</b> Thick Fat
 <b>Ability Two:</b> Sheer Force
@@ -2530,7 +2530,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#298 Azurill**
 
-![298](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/298.gif)&nbsp;
+![azurill](../assets/sprites/azurill/front.gif)
 
 <pre><code><b>Ability One:</b> Sap Sipper
 <b>Ability Two:</b> Huge Power
@@ -2538,7 +2538,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#299 Nosepass**
 
-![299](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/299.gif)&nbsp;
+![nosepass](../assets/sprites/nosepass/front.gif)
 
 <pre><code><b>Ability One:</b> Sturdy
 <b>Ability Two:</b> Magnet Pull
@@ -2546,7 +2546,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#300 Skitty**
 
-![300](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/300.gif)&nbsp;
+![skitty](../assets/sprites/skitty/front.gif)
 
 <pre><code><b>Ability One:</b> Normalize
 <b>Ability Two:</b> Wonder Skin
@@ -2554,7 +2554,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#301 Delcatty**
 
-![301](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/301.gif)&nbsp;
+![delcatty](../assets/sprites/delcatty/front.gif)
 
 <pre><code><b>Attack:</b> 65 → 75
 <b>Special Attack:</b> 55 → 95
@@ -2566,7 +2566,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#302 Sableye**
 
-![302](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/302.gif)&nbsp;
+![sableye](../assets/sprites/sableye/front.gif)
 
 <pre><code><b>HP:</b> 50 → 70
 <b>Attack:</b> 75 → 95
@@ -2580,7 +2580,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#303 Mawile**
 
-![303](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/303.gif)&nbsp;
+![mawile](../assets/sprites/mawile/front.gif)
 
 <pre><code><b>HP:</b> 50 → 70
 <b>Attack:</b> 85 → 105
@@ -2594,9 +2594,9 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#304 Aron, #305 Lairon, #306 Aggron**
 
-![304](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/304.gif)&nbsp;
-![305](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/305.gif)&nbsp;
-![306](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/306.gif)&nbsp;
+![aron](../assets/sprites/aron/front.gif)
+![lairon](../assets/sprites/lairon/front.gif)
+![aggron](../assets/sprites/aggron/front.gif)
 
 <pre><code><b>Ability One:</b> Sturdy
 <b>Ability Two:</b> Rock Head
@@ -2604,8 +2604,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#307 Meditite, #308 Medicham**
 
-![307](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/307.gif)&nbsp;
-![308](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/308.gif)&nbsp;
+![meditite](../assets/sprites/meditite/front.gif)
+![medicham](../assets/sprites/medicham/front.gif)
 
 <pre><code><b>Ability One:</b> Pure Power
 <b>Ability Two:</b> Telepathy
@@ -2613,8 +2613,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#309 Electrike, #310 Manectric**
 
-![309](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/309.gif)&nbsp;
-![310](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/310.gif)&nbsp;
+![electrike](../assets/sprites/electrike/front.gif)
+![manectric](../assets/sprites/manectric/front.gif)
 
 <pre><code><b>Ability One:</b> Static
 <b>Ability Two:</b> Lightningrod
@@ -2622,7 +2622,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#311 Plusle**
 
-![311](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/311.gif)&nbsp;
+![plusle](../assets/sprites/plusle/front.gif)
 
 <pre><code><b>Ability One:</b> Plus
 <b>Ability Two:</b> Plus
@@ -2630,7 +2630,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#312 Minun**
 
-![312](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/312.gif)&nbsp;
+![minun](../assets/sprites/minun/front.gif)
 
 <pre><code><b>Ability One:</b> Minus
 <b>Ability Two:</b> Minus
@@ -2638,7 +2638,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#313 Volbeat**
 
-![313](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/313.gif)&nbsp;
+![volbeat](../assets/sprites/volbeat/front.gif)
 
 <pre><code><b>Type:</b> Bug / Electric
 <b>HP:</b> 65 → 80
@@ -2655,7 +2655,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#314 Illumise**
 
-![314](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/314.gif)&nbsp;
+![illumise](../assets/sprites/illumise/front.gif)
 
 <pre><code><b>Type:</b> Bug / Electric
 <b>HP:</b> 65 → 80
@@ -2672,7 +2672,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#315 Roselia**
 
-![315](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/315.gif)&nbsp;
+![roselia](../assets/sprites/roselia/front.gif)
 
 <pre><code><b>Ability One:</b> Natural Cure
 <b>Ability Two:</b> Poison Point
@@ -2680,7 +2680,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#316 Gulpin**
 
-![316](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/316.gif)&nbsp;
+![gulpin](../assets/sprites/gulpin/front.gif)
 
 <pre><code><b>Ability One:</b> Liquid Ooze
 <b>Ability Two:</b> Gluttony
@@ -2688,7 +2688,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#317 Swalot**
 
-![317](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/317.gif)&nbsp;
+![swalot](../assets/sprites/swalot/front.gif)
 
 <pre><code><b>Special Attack:</b> 73 → 103
 <b>Total:</b> 467 → 497
@@ -2698,8 +2698,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#318 Carvanha, #319 Sharpedo**
 
-![318](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/318.gif)&nbsp;
-![319](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/319.gif)&nbsp;
+![carvanha](../assets/sprites/carvanha/front.gif)
+![sharpedo](../assets/sprites/sharpedo/front.gif)
 
 <pre><code><b>Ability One:</b> Rough Skin
 <b>Ability Two:</b> Speed Boost
@@ -2707,8 +2707,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#320 Wailmer, #321 Wailord**
 
-![320](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/320.gif)&nbsp;
-![321](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/321.gif)&nbsp;
+![wailmer](../assets/sprites/wailmer/front.gif)
+![wailord](../assets/sprites/wailord/front.gif)
 
 <pre><code><b>Ability One:</b> Thick Fat
 <b>Ability Two:</b> Drizzle
@@ -2716,7 +2716,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#322 Numel**
 
-![322](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/322.gif)&nbsp;
+![numel](../assets/sprites/numel/front.gif)
 
 <pre><code><b>Ability One:</b> Own Tempo
 <b>Ability Two:</b> Simple
@@ -2724,7 +2724,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#323 Camerupt**
 
-![323](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/323.gif)&nbsp;
+![camerupt](../assets/sprites/camerupt/front.gif)
 
 <pre><code><b>Ability One:</b> Drought
 <b>Ability Two:</b> Solid Rock
@@ -2732,7 +2732,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#324 Torkoal**
 
-![324](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/324.gif)&nbsp;
+![torkoal](../assets/sprites/torkoal/front.gif)
 
 <pre><code><b>Attack:</b> 85 → 100
 <b>Special Attack:</b> 85 → 100
@@ -2743,8 +2743,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#325 Spoink, #326 Grumpig**
 
-![325](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/325.gif)&nbsp;
-![326](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/326.gif)&nbsp;
+![spoink](../assets/sprites/spoink/front.gif)
+![grumpig](../assets/sprites/grumpig/front.gif)
 
 <pre><code><b>Ability One:</b> Thick Fat
 <b>Ability Two:</b> Own Tempo
@@ -2752,7 +2752,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#327 Spinda**
 
-![327](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/327.gif)&nbsp;
+![spinda](../assets/sprites/spinda/front.gif)
 
 <pre><code><b>HP:</b> 60 → 80
 <b>Attack:</b> 60 → 80
@@ -2768,7 +2768,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#328 Trapinch**
 
-![328](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/328.gif)&nbsp;
+![trapinch](../assets/sprites/trapinch/front.gif)
 
 <pre><code><b>Ability One:</b> Hyper Cutter
 <b>Ability Two:</b> Sheer Force
@@ -2776,7 +2776,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#329 Vibrava**
 
-![329](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/329.gif)&nbsp;
+![vibrava](../assets/sprites/vibrava/front.gif)
 
 <pre><code><b>Ability One:</b> Levitate
 <b>Ability Two:</b> Levitate
@@ -2784,7 +2784,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#330 Flygon**
 
-![330](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/330.gif)&nbsp;
+![flygon](../assets/sprites/flygon/front.gif)
 
 <pre><code><b>Attack:</b> 100 → 110
 <b>Defense:</b> 80 → 75
@@ -2798,8 +2798,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#331 Cacnea, #332 Cacturne**
 
-![331](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/331.gif)&nbsp;
-![332](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/332.gif)&nbsp;
+![cacnea](../assets/sprites/cacnea/front.gif)
+![cacturne](../assets/sprites/cacturne/front.gif)
 
 <pre><code><b>Ability One:</b> Sand Veil
 <b>Ability Two:</b> Water Absorb
@@ -2807,7 +2807,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#333 Swablu**
 
-![333](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/333.gif)&nbsp;
+![swablu](../assets/sprites/swablu/front.gif)
 
 <pre><code><b>TM:</b> Now learns TM62 Acrobatics.
 <b>Ability One:</b> Natural Cure
@@ -2816,7 +2816,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#334 Altaria**
 
-![334](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/334.gif)&nbsp;
+![altaria](../assets/sprites/altaria/front.gif)
 
 <pre><code><b>Special Attack:</b> 70 → 100
 <b>Total:</b> 490 → 520
@@ -2828,7 +2828,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#335 Zangoose**
 
-![335](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/335.gif)&nbsp;
+![zangoose](../assets/sprites/zangoose/front.gif)
 
 <pre><code><b>Ability One:</b> Immunity
 <b>Ability Two:</b> Toxic Boost
@@ -2836,7 +2836,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#336 Seviper**
 
-![336](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/336.gif)&nbsp;
+![seviper](../assets/sprites/seviper/front.gif)
 
 <pre><code><b>Ability One:</b> Shed Skin
 <b>Ability Two:</b> Infiltrator
@@ -2844,7 +2844,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#337 Lunatone**
 
-![337](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/337.gif)&nbsp;
+![lunatone](../assets/sprites/lunatone/front.gif)
 
 <pre><code><b>Special Attack:</b> 95 → 115
 <b>Total:</b> 440 → 460
@@ -2854,7 +2854,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#338 Solrock**
 
-![338](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/338.gif)&nbsp;
+![solrock](../assets/sprites/solrock/front.gif)
 
 <pre><code><b>Attack:</b> 95 → 115
 <b>Total:</b> 440 → 460
@@ -2864,7 +2864,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#339 Barboach**
 
-![339](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/339.gif)&nbsp;
+![barboach](../assets/sprites/barboach/front.gif)
 
 <pre><code><b>Ability One:</b> Forewarn
 <b>Ability Two:</b> Simple
@@ -2872,7 +2872,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#340 Whiscash**
 
-![340](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/340.gif)&nbsp;
+![whiscash](../assets/sprites/whiscash/front.gif)
 
 <pre><code><b>Attack:</b> 78 → 98
 <b>Total:</b> 468 → 488
@@ -2882,8 +2882,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#341 Corphish, #342 Crawdaunt**
 
-![341](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/341.gif)&nbsp;
-![342](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/342.gif)&nbsp;
+![corphish](../assets/sprites/corphish/front.gif)
+![crawdaunt](../assets/sprites/crawdaunt/front.gif)
 
 <pre><code><b>Ability One:</b> Hyper Cutter
 <b>Ability Two:</b> Adaptability
@@ -2891,7 +2891,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#343 Baltoy**
 
-![343](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/343.gif)&nbsp;
+![baltoy](../assets/sprites/baltoy/front.gif)
 
 <pre><code><b>Ability One:</b> Levitate
 <b>Ability Two:</b> Levitate
@@ -2899,7 +2899,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#344 Claydol**
 
-![344](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/344.gif)&nbsp;
+![claydol](../assets/sprites/claydol/front.gif)
 
 <pre><code><b>Item:</b> Life Orb (5%)
 <b>HM:</b> Can now learn HM02, Fly.
@@ -2909,8 +2909,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#345 Lileep, #346 Cradily**
 
-![345](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/345.gif)&nbsp;
-![346](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/346.gif)&nbsp;
+![lileep](../assets/sprites/lileep/front.gif)
+![cradily](../assets/sprites/cradily/front.gif)
 
 <pre><code><b>Ability One:</b> Suction Cups
 <b>Ability Two:</b> Storm Drain
@@ -2918,8 +2918,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#347 Anorith, #348 Armaldo**
 
-![347](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/347.gif)&nbsp;
-![348](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/348.gif)&nbsp;
+![anorith](../assets/sprites/anorith/front.gif)
+![armaldo](../assets/sprites/armaldo/front.gif)
 
 <pre><code><b>Ability One:</b> Battle Armor
 <b>Ability Two:</b> Swift Swim
@@ -2927,7 +2927,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#349 Feebas**
 
-![349](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/349.gif)&nbsp;
+![feebas](../assets/sprites/feebas/front.gif)
 
 <pre><code><b>Evolution:</b> Use the Prism Scale.
 <b>Ability One:</b> Swift Swim
@@ -2936,7 +2936,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#350 Milotic**
 
-![350](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/350.gif)&nbsp;
+![milotic](../assets/sprites/milotic/front.gif)
 
 <pre><code><b>Ability One:</b> Marvel Scale
 <b>Ability Two:</b> Multiscale
@@ -2944,7 +2944,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#351 Castform**
 
-![351](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/351.gif)&nbsp;
+![castform](../assets/sprites/castform/front.gif)
 
 <pre><code><b>HP:</b> 60 → 80
 <b>Attack:</b> 60 → 80
@@ -2958,7 +2958,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#352 Kecleon**
 
-![352](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/352.gif)&nbsp;
+![kecleon](../assets/sprites/kecleon/front.gif)
 
 <pre><code><b>HP:</b> 60 → 100
 <b>Total:</b> 440 → 480
@@ -2968,7 +2968,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#353 Shuppet**
 
-![353](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/353.gif)&nbsp;
+![shuppet](../assets/sprites/shuppet/front.gif)
 
 <pre><code><b>Ability One:</b> Insomnia
 <b>Ability Two:</b> Cursed Body
@@ -2976,7 +2976,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#354 Banette**
 
-![354](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/354.gif)&nbsp;
+![banette](../assets/sprites/banette/front.gif)
 
 <pre><code><b>Attack:</b> 115 → 130
 <b>Speed:</b> 65 → 80
@@ -2987,7 +2987,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#355 Duskull**
 
-![355](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/355.gif)&nbsp;
+![duskull](../assets/sprites/duskull/front.gif)
 
 <pre><code><b>Ability One:</b> Levitate
 <b>Ability Two:</b> Levitate
@@ -2995,7 +2995,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#356 Dusclops**
 
-![356](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/356.gif)&nbsp;
+![dusclops](../assets/sprites/dusclops/front.gif)
 
 <pre><code><b>Evolution:</b> Use the Reaper Cloth.
 <b>Ability One:</b> Pressure
@@ -3004,7 +3004,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#357 Tropius**
 
-![357](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/357.gif)&nbsp;
+![tropius](../assets/sprites/tropius/front.gif)
 
 <pre><code><b>HP:</b> 99 → 110
 <b>Attack:</b> 68 → 85
@@ -3020,7 +3020,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#358 Chimecho**
 
-![358](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/358.gif)&nbsp;
+![chimecho](../assets/sprites/chimecho/front.gif)
 
 <pre><code><b>HP:</b> 65 → 70
 <b>Defense:</b> 70 → 80
@@ -3035,7 +3035,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#359 Absol**
 
-![359](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/359.gif)&nbsp;
+![absol](../assets/sprites/absol/front.gif)
 
 <pre><code><b>Ability One:</b> Justified
 <b>Ability Two:</b> Super Luck
@@ -3043,7 +3043,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#360 Wynaut**
 
-![360](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/360.gif)&nbsp;
+![wynaut](../assets/sprites/wynaut/front.gif)
 
 <pre><code><b>Ability One:</b> Shadow Tag
 <b>Ability Two:</b> Telepathy
@@ -3051,7 +3051,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#361 Snorunt**
 
-![361](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/361.gif)&nbsp;
+![snorunt](../assets/sprites/snorunt/front.gif)
 
 <pre><code><b>Ability One:</b> Ice Body
 <b>Ability Two:</b> Moody
@@ -3059,7 +3059,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#362 Glalie**
 
-![362](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/362.gif)&nbsp;
+![glalie](../assets/sprites/glalie/front.gif)
 
 <pre><code><b>Type:</b> Ice / Rock
 <b>TM:</b> Can now learn TM23 Smack Down, TM37 Sandstorm, TM69 Rock Polish, TM71 Stone Edge and TM80 Rock Slide.
@@ -3077,9 +3077,9 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#363 Spheal, #364 Sealeo, #365 Walrein**
 
-![363](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/363.gif)&nbsp;
-![364](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/364.gif)&nbsp;
-![365](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/365.gif)&nbsp;
+![spheal](../assets/sprites/spheal/front.gif)
+![sealeo](../assets/sprites/sealeo/front.gif)
+![walrein](../assets/sprites/walrein/front.gif)
 
 <pre><code><b>Ability One:</b> Thick Fat
 <b>Ability Two:</b> Ice Body
@@ -3087,7 +3087,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#366 Clamperl**
 
-![366](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/366.gif)&nbsp;
+![clamperl](../assets/sprites/clamperl/front.gif)
 
 <pre><code><b>Evolution (Huntail):</b> Level Up at Night with a Deep Sea Tooth equipped.
 <b>Evolution (Gorebyss):</b> Level Up at Night with a Deep Sea Scale equipped.
@@ -3097,7 +3097,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#367 Huntail**
 
-![367](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/367.gif)&nbsp;
+![huntail](../assets/sprites/huntail/front.gif)
 
 <pre><code><b>Ability One:</b> Swift Swim
 <b>Ability Two:</b> Sheer Force
@@ -3105,7 +3105,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#368 Gorebyss**
 
-![368](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/368.gif)&nbsp;
+![gorebyss](../assets/sprites/gorebyss/front.gif)
 
 <pre><code><b>Ability One:</b> Swift Swim
 <b>Ability Two:</b> Storm Drain
@@ -3113,7 +3113,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#369 Relicanth**
 
-![369](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/369.gif)&nbsp;
+![relicanth](../assets/sprites/relicanth/front.gif)
 
 <pre><code><b>Ability One:</b> Sturdy
 <b>Ability Two:</b> Rock Head
@@ -3121,7 +3121,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#370 Luvdisc**
 
-![370](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/370.gif)&nbsp;
+![luvdisc](../assets/sprites/luvdisc/front.gif)
 
 <pre><code><b>HP:</b> 43 → 50
 <b>Attack:</b> 30 → 35
@@ -3138,7 +3138,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#371 Bagon**
 
-![371](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/371.gif)&nbsp;
+![bagon](../assets/sprites/bagon/front.gif)
 
 <pre><code><b>Ability One:</b> Rock Head
 <b>Ability Two:</b> Sheer Force
@@ -3146,7 +3146,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#372 Shelgon**
 
-![372](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/372.gif)&nbsp;
+![shelgon](../assets/sprites/shelgon/front.gif)
 
 <pre><code><b>Ability One:</b> Rock Head
 <b>Ability Two:</b> Overcoat
@@ -3154,7 +3154,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#373 Salamence**
 
-![373](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/373.gif)&nbsp;
+![salamence](../assets/sprites/salamence/front.gif)
 
 <pre><code><b>Ability One:</b> Intimidate
 <b>Ability Two:</b> Moxie
@@ -3162,8 +3162,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#374 Beldum, #375 Metang**
 
-![374](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/374.gif)&nbsp;
-![375](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/375.gif)&nbsp;
+![beldum](../assets/sprites/beldum/front.gif)
+![metang](../assets/sprites/metang/front.gif)
 
 <pre><code><b>Ability One:</b> Levitate
 <b>Ability Two:</b> Levitate
@@ -3171,7 +3171,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#376 Metagross**
 
-![376](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/376.gif)&nbsp;
+![metagross](../assets/sprites/metagross/front.gif)
 
 <pre><code><b>HM:</b> Can now learn HM02, Fly.
 <b>Ability One:</b> Iron Fist
@@ -3180,7 +3180,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#377 Regirock**
 
-![377](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/377.gif)&nbsp;
+![regirock](../assets/sprites/regirock/front.gif)
 
 <pre><code><b>Ability One:</b> Clear Body
 <b>Ability Two:</b> Solid Rock
@@ -3188,7 +3188,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#378 Regice**
 
-![378](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/378.gif)&nbsp;
+![regice](../assets/sprites/regice/front.gif)
 
 <pre><code><b>Ability One:</b> Clear Body
 <b>Ability Two:</b> Heatproof
@@ -3196,7 +3196,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#379 Registeel**
 
-![379](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/379.gif)&nbsp;
+![registeel](../assets/sprites/registeel/front.gif)
 
 <pre><code><b>Ability One:</b> Clear Body
 <b>Ability Two:</b> Sturdy
@@ -3204,7 +3204,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#380 Latias**
 
-![380](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/380.gif)&nbsp;
+![latias](../assets/sprites/latias/front.gif)
 
 <pre><code><b>Ability One:</b> Levitate
 <b>Ability Two:</b> Levitate
@@ -3212,7 +3212,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#381 Latios**
 
-![381](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/381.gif)&nbsp;
+![latios](../assets/sprites/latios/front.gif)
 
 <pre><code><b>Ability One:</b> Levitate
 <b>Ability Two:</b> Levitate
@@ -3220,7 +3220,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#382 Kyogre**
 
-![382](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/382.gif)&nbsp;
+![kyogre](../assets/sprites/kyogre/front.gif)
 
 <pre><code><b>Ability One:</b> Drizzle
 <b>Ability Two:</b> Drizzle
@@ -3228,7 +3228,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#383 Groudon**
 
-![383](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/383.gif)&nbsp;
+![groudon](../assets/sprites/groudon/front.gif)
 
 <pre><code><b>Ability One:</b> Drought
 <b>Ability Two:</b> Drought
@@ -3236,7 +3236,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#384 Rayquaza**
 
-![384](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/384.gif)&nbsp;
+![rayquaza](../assets/sprites/rayquaza/front.gif)
 
 <pre><code><b>Ability One:</b> Air Lock
 <b>Ability Two:</b> Air Lock
@@ -3244,7 +3244,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#385 Jirachi**
 
-![385](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/385.gif)&nbsp;
+![jirachi](../assets/sprites/jirachi/front.gif)
 
 <pre><code><b>Ability One:</b> Serene Grace
 <b>Ability Two:</b> Magic Guard
@@ -3252,7 +3252,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#386 Deoxys**
 
-![386](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/386.gif)&nbsp;
+![deoxys](../assets/sprites/deoxys/front.gif)
 
 <pre><code><b>Ability One:</b> Pressure
 <b>Ability Two:</b> Pressure
@@ -3264,9 +3264,9 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#387 Turtwig, #388 Grotle, #389 Torterra**
 
-![387](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/387.gif)&nbsp;
-![388](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/388.gif)&nbsp;
-![389](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/389.gif)&nbsp;
+![turtwig](../assets/sprites/turtwig/front.gif)
+![grotle](../assets/sprites/grotle/front.gif)
+![torterra](../assets/sprites/torterra/front.gif)
 
 <pre><code><b>Item:</b> Miracle Seed (50%)
 <b>Ability One:</b> Overgrow
@@ -3275,9 +3275,9 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#390 Chimchar, #391 Monferno, #392 Infernape**
 
-![390](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/390.gif)&nbsp;
-![391](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/391.gif)&nbsp;
-![392](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/392.gif)&nbsp;
+![chimchar](../assets/sprites/chimchar/front.gif)
+![monferno](../assets/sprites/monferno/front.gif)
+![infernape](../assets/sprites/infernape/front.gif)
 
 <pre><code><b>Item:</b> Charcoal (50%)
 <b>Ability One:</b> Blaze
@@ -3286,9 +3286,9 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#393 Piplup, #394 Prinplup, #395 Empoleon**
 
-![393](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/393.gif)&nbsp;
-![394](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/394.gif)&nbsp;
-![395](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/395.gif)&nbsp;
+![piplup](../assets/sprites/piplup/front.gif)
+![prinplup](../assets/sprites/prinplup/front.gif)
+![empoleon](../assets/sprites/empoleon/front.gif)
 
 <pre><code><b>Item:</b> Mystic Water (50%)
 <b>Ability One:</b> Torrent
@@ -3297,7 +3297,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#396 Starly**
 
-![396](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/396.gif)&nbsp;
+![starly](../assets/sprites/starly/front.gif)
 
 <pre><code><b>TM:</b> Now learns TM62, Acrobatics.
 <b>Ability One:</b> Keen Eye
@@ -3306,7 +3306,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#397 Staravia**
 
-![397](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/397.gif)&nbsp;
+![staravia](../assets/sprites/staravia/front.gif)
 
 <pre><code><b>TM:</b> Now learns TM62, Acrobatics.
 <b>Ability One:</b> Intimidate
@@ -3315,7 +3315,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#398 Staraptor**
 
-![398](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/398.gif)&nbsp;
+![staraptor](../assets/sprites/staraptor/front.gif)
 
 <pre><code><b>TM:</b> Now learns TM62, Acrobatics.
 <b>HP:</b> 85 → 100
@@ -3327,7 +3327,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#399 Bidoof**
 
-![399](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/399.gif)&nbsp;
+![bidoof](../assets/sprites/bidoof/front.gif)
 
 <pre><code><b>Ability One:</b> Simple
 <b>Ability Two:</b> Moody
@@ -3335,7 +3335,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#400 Bibarel**
 
-![400](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/400.gif)&nbsp;
+![bibarel](../assets/sprites/bibarel/front.gif)
 
 <pre><code><b>HP:</b> 79 → 89
 <b>Attack:</b> 85 → 95
@@ -3347,7 +3347,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#401 Kricketot**
 
-![401](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/401.gif)&nbsp;
+![kricketot](../assets/sprites/kricketot/front.gif)
 
 <pre><code><b>Ability One:</b> Shed Skin
 <b>Ability Two:</b> Run Away
@@ -3355,7 +3355,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#402 Kricketune**
 
-![402](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/402.gif)&nbsp;
+![kricketune](../assets/sprites/kricketune/front.gif)
 
 <pre><code><b>Attack:</b> 85 → 104
 <b>Speed:</b> 65 → 87
@@ -3367,7 +3367,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#403 Shinx**
 
-![403](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/403.gif)&nbsp;
+![shinx](../assets/sprites/shinx/front.gif)
 
 <pre><code><b>Ability One:</b> Guts
 <b>Ability Two:</b> Intimidate
@@ -3375,7 +3375,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#404 Luxio**
 
-![404](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/404.gif)&nbsp;
+![luxio](../assets/sprites/luxio/front.gif)
 
 <pre><code><b>Type:</b> Electric / Dark
 <b>Ability One:</b> Guts
@@ -3384,7 +3384,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#405 Luxray**
 
-![405](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/405.gif)&nbsp;
+![luxray](../assets/sprites/luxray/front.gif)
 
 <pre><code><b>Type:</b> Electric / Dark
 <b>Speed:</b> 70 → 82
@@ -3395,7 +3395,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#406 Budew**
 
-![406](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/406.gif)&nbsp;
+![budew](../assets/sprites/budew/front.gif)
 
 <pre><code><b>Base Happiness:</b> 200
 <b>Ability One:</b> Natural Cure
@@ -3404,7 +3404,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#407 Roserade**
 
-![407](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/407.gif)&nbsp;
+![roserade](../assets/sprites/roserade/front.gif)
 
 <pre><code><b>Defense:</b> 55 → 65
 <b>Speed:</b> 90 → 100
@@ -3415,8 +3415,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#408 Cranidos, #409 Rampardos**
 
-![408](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/408.gif)&nbsp;
-![409](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/409.gif)&nbsp;
+![cranidos](../assets/sprites/cranidos/front.gif)
+![rampardos](../assets/sprites/rampardos/front.gif)
 
 <pre><code><b>Ability One:</b> Mold Breaker
 <b>Ability Two:</b> Sheer Force
@@ -3424,8 +3424,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#410 Shieldon, #411 Bastiodon**
 
-![410](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/410.gif)&nbsp;
-![411](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/411.gif)&nbsp;
+![shieldon](../assets/sprites/shieldon/front.gif)
+![bastiodon](../assets/sprites/bastiodon/front.gif)
 
 <pre><code><b>Ability One:</b> Sturdy
 <b>Ability Two:</b> Soundproof
@@ -3433,7 +3433,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#412 Burmy**
 
-![412](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/412.gif)&nbsp;
+![burmy](../assets/sprites/burmy/front.gif)
 
 <pre><code><b>Ability One:</b> Shed Skin
 <b>Ability Two:</b> Overcoat
@@ -3441,7 +3441,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#413 Wormadam (Plant)**
 
-![413](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/413.gif)&nbsp;
+![wormadam-plant](../assets/sprites/wormadam-plant/front.gif)
 
 <pre><code><b>Special Attack:</b> 79 → 99
 <b>Special Defense:</b> 105 → 125
@@ -3452,7 +3452,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#413 Wormadam (Sandy)**
 
-![413](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/413.gif)&nbsp;
+![wormadam-sandy](../assets/sprites/wormadam-sandy/front.gif)
 
 <pre><code><b>Attack:</b> 79 → 99
 <b>Defense:</b> 105 → 125
@@ -3463,7 +3463,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#413 Wormadam (Trash)**
 
-![413](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/413.gif)&nbsp;
+![wormadam-trash](../assets/sprites/wormadam-trash/front.gif)
 
 <pre><code><b>Defense:</b> 95 → 115
 <b>Special Defense:</b> 95 → 115
@@ -3474,7 +3474,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#414 Mothim**
 
-![414](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/414.gif)&nbsp;
+![mothim](../assets/sprites/mothim/front.gif)
 
 <pre><code><b>Special Attack:</b> 94 → 104
 <b>Special Defense:</b> 66 → 96
@@ -3485,7 +3485,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#415 Combee**
 
-![415](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/415.gif)&nbsp;
+![combee](../assets/sprites/combee/front.gif)
 
 <pre><code><b>Ability One:</b> Honey Gather
 <b>Ability Two:</b> Hustle
@@ -3493,7 +3493,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#416 Vespiquen**
 
-![416](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/416.gif)&nbsp;
+![vespiquen](../assets/sprites/vespiquen/front.gif)
 
 <pre><code><b>Ability One:</b> Pressure
 <b>Ability Two:</b> Intimidate
@@ -3501,7 +3501,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#417 Pachirisu**
 
-![417](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/417.gif)&nbsp;
+![pachirisu](../assets/sprites/pachirisu/front.gif)
 
 <pre><code><b>Special Attack:</b> 45 → 100
 <b>Total:</b> 405 → 460
@@ -3512,8 +3512,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#418 Buizel, #419 Floatzel**
 
-![418](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/418.gif)&nbsp;
-![419](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/419.gif)&nbsp;
+![buizel](../assets/sprites/buizel/front.gif)
+![floatzel](../assets/sprites/floatzel/front.gif)
 
 <pre><code><b>Ability One:</b> Swift Swim
 <b>Ability Two:</b> Technician
@@ -3521,7 +3521,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#420 Cherubi**
 
-![420](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/420.gif)&nbsp;
+![cherubi](../assets/sprites/cherubi/front.gif)
 
 <pre><code><b>Ability One:</b> Chlorophyll
 <b>Ability Two:</b> Healer
@@ -3529,7 +3529,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#421 Cherrim**
 
-![421](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/421.gif)&nbsp;
+![cherrim](../assets/sprites/cherrim/front.gif)
 
 <pre><code><b>Special Attack:</b> 87 → 107
 <b>Speed:</b> 85 → 95
@@ -3540,8 +3540,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#422 Shellos, #423 Gastrodon**
 
-![422](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/422.gif)&nbsp;
-![423](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/423.gif)&nbsp;
+![shellos](../assets/sprites/shellos/front.gif)
+![gastrodon](../assets/sprites/gastrodon/front.gif)
 
 <pre><code><b>Ability One:</b> Sticky Hold
 <b>Ability Two:</b> Storm Drain
@@ -3549,7 +3549,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#424 Ambipom**
 
-![424](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/424.gif)&nbsp;
+![ambipom](../assets/sprites/ambipom/front.gif)
 
 <pre><code><b>Ability One:</b> Technician
 <b>Ability Two:</b> Pickup
@@ -3557,8 +3557,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#425 Drifloon, #426 Drifblim**
 
-![425](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/425.gif)&nbsp;
-![426](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/426.gif)&nbsp;
+![drifloon](../assets/sprites/drifloon/front.gif)
+![drifblim](../assets/sprites/drifblim/front.gif)
 
 <pre><code><b>Ability One:</b> Flare Boost
 <b>Ability Two:</b> Unburden
@@ -3566,7 +3566,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#427 Buneary**
 
-![427](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/427.gif)&nbsp;
+![buneary](../assets/sprites/buneary/front.gif)
 
 <pre><code><b>Base Happiness:</b> 140
 <b>Ability One:</b> Klutz
@@ -3575,7 +3575,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#428 Lopunny**
 
-![428](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/428.gif)&nbsp;
+![lopunny](../assets/sprites/lopunny/front.gif)
 
 <pre><code><b>Ability One:</b> Cute Charm
 <b>Ability Two:</b> Limber
@@ -3583,7 +3583,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#429 Mismagius**
 
-![429](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/429.gif)&nbsp;
+![mismagius](../assets/sprites/mismagius/front.gif)
 
 <pre><code><b>HP:</b> 60 → 70
 <b>Attack:</b> 60 → 70
@@ -3596,7 +3596,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#430 Honchkrow**
 
-![430](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/430.gif)&nbsp;
+![honchkrow](../assets/sprites/honchkrow/front.gif)
 
 <pre><code><b>HP:</b> 100 → 120
 <b>Total:</b> 505 → 525
@@ -3607,7 +3607,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#431 Glameow**
 
-![431](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/431.gif)&nbsp;
+![glameow](../assets/sprites/glameow/front.gif)
 
 <pre><code><b>Ability One:</b> Limber
 <b>Ability Two:</b> Own Tempo
@@ -3615,7 +3615,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#432 Purugly**
 
-![432](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/432.gif)&nbsp;
+![purugly](../assets/sprites/purugly/front.gif)
 
 <pre><code><b>HP:</b> 71 → 89
 <b>Attack:</b> 82 → 91
@@ -3627,7 +3627,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#433 Chingling**
 
-![433](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/433.gif)&nbsp;
+![chingling](../assets/sprites/chingling/front.gif)
 
 <pre><code><b>Base Happiness:</b> 200
 <b>Ability One:</b> Levitate
@@ -3636,8 +3636,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#434 Stunky, #435 Skuntank**
 
-![434](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/434.gif)&nbsp;
-![435](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/435.gif)&nbsp;
+![stunky](../assets/sprites/stunky/front.gif)
+![skuntank](../assets/sprites/skuntank/front.gif)
 
 <pre><code><b>Ability One:</b> Stench
 <b>Ability Two:</b> Aftermath
@@ -3645,7 +3645,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#436 Bronzor**
 
-![436](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/436.gif)&nbsp;
+![bronzor](../assets/sprites/bronzor/front.gif)
 
 <pre><code><b>Ability One:</b> Levitate
 <b>Ability Two:</b> Heatproof
@@ -3653,7 +3653,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#437 Bronzong**
 
-![437](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/437.gif)&nbsp;
+![bronzong](../assets/sprites/bronzong/front.gif)
 
 <pre><code><b>HM:</b> Can now learn HM02, Fly.
 <b>Ability One:</b> Levitate
@@ -3662,7 +3662,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#438 Bonsly**
 
-![438](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/438.gif)&nbsp;
+![bonsly](../assets/sprites/bonsly/front.gif)
 
 <pre><code><b>Ability One:</b> Sturdy
 <b>Ability Two:</b> Rattled
@@ -3670,7 +3670,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#439 Mime Jr.**
 
-![439](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/439.gif)&nbsp;
+![mime-jr](../assets/sprites/mime-jr/front.gif)
 
 <pre><code><b>Ability One:</b> Technician
 <b>Ability Two:</b> Filter
@@ -3678,7 +3678,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#440 Happiny**
 
-![440](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/440.gif)&nbsp;
+![happiny](../assets/sprites/happiny/front.gif)
 
 <pre><code><b>Evolution:</b> Use the Oval Stone.
 <b>Base Happiness:</b> 160
@@ -3688,7 +3688,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#441 Chatot**
 
-![441](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/441.gif)&nbsp;
+![chatot](../assets/sprites/chatot/front.gif)
 
 <pre><code><b>Defense:</b> 45 → 56
 <b>Special Attack:</b> 92 → 112
@@ -3702,7 +3702,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#442 Spiritomb**
 
-![442](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/442.gif)&nbsp;
+![spiritomb](../assets/sprites/spiritomb/front.gif)
 
 <pre><code><b>Ability One:</b> Pressure
 <b>Ability Two:</b> Cursed Body
@@ -3710,8 +3710,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#443 Gible, #444 Gabite**
 
-![443](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/443.gif)&nbsp;
-![444](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/444.gif)&nbsp;
+![gible](../assets/sprites/gible/front.gif)
+![gabite](../assets/sprites/gabite/front.gif)
 
 <pre><code><b>Ability One:</b> Sand Veil
 <b>Ability Two:</b> Rough Skin
@@ -3719,7 +3719,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#445 Garchomp**
 
-![445](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/445.gif)&nbsp;
+![garchomp](../assets/sprites/garchomp/front.gif)
 
 <pre><code><b>HM:</b> Can now learn HM02, Fly.
 <b>Ability One:</b> Sand Veil
@@ -3728,7 +3728,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#446 Munchlax**
 
-![446](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/446.gif)&nbsp;
+![munchlax](../assets/sprites/munchlax/front.gif)
 
 <pre><code><b>Base Happiness:</b> 180
 <b>Ability One:</b> Gluttony
@@ -3737,7 +3737,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#447 Riolu**
 
-![447](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/447.gif)&nbsp;
+![riolu](../assets/sprites/riolu/front.gif)
 
 <pre><code><b>Base Happiness:</b> 180
 <b>Ability One:</b> Steadfast
@@ -3746,7 +3746,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#448 Lucario**
 
-![448](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/448.gif)&nbsp;
+![lucario](../assets/sprites/lucario/front.gif)
 
 <pre><code><b>Ability One:</b> Steadfast
 <b>Ability Two:</b> Justified
@@ -3754,8 +3754,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#449 Hippopotas, #450 Hippowdon**
 
-![449](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/449.gif)&nbsp;
-![450](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/450.gif)&nbsp;
+![hippopotas](../assets/sprites/hippopotas/front.gif)
+![hippowdon](../assets/sprites/hippowdon/front.gif)
 
 <pre><code><b>Ability One:</b> Sand Stream
 <b>Ability Two:</b> Sand Force
@@ -3763,8 +3763,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#451 Skorupi, #452 Drapion**
 
-![451](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/451.gif)&nbsp;
-![452](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/452.gif)&nbsp;
+![skorupi](../assets/sprites/skorupi/front.gif)
+![drapion](../assets/sprites/drapion/front.gif)
 
 <pre><code><b>Ability One:</b> Battle Armor
 <b>Ability Two:</b> Sniper
@@ -3772,8 +3772,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#453 Croagunk, #454 Toxicroak**
 
-![453](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/453.gif)&nbsp;
-![454](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/454.gif)&nbsp;
+![croagunk](../assets/sprites/croagunk/front.gif)
+![toxicroak](../assets/sprites/toxicroak/front.gif)
 
 <pre><code><b>Ability One:</b> Poison Touch
 <b>Ability Two:</b> Dry Skin
@@ -3781,7 +3781,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#455 Carnivine**
 
-![455](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/455.gif)&nbsp;
+![carnivine](../assets/sprites/carnivine/front.gif)
 
 <pre><code><b>Attack:</b> 100 → 120
 <b>Speed:</b> 46 → 86
@@ -3792,7 +3792,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#456 Finneon**
 
-![456](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/456.gif)&nbsp;
+![finneon](../assets/sprites/finneon/front.gif)
 
 <pre><code><b>Ability One:</b> Swift Swim
 <b>Ability Two:</b> Storm Drain
@@ -3800,7 +3800,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#457 Lumineon**
 
-![457](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/457.gif)&nbsp;
+![lumineon](../assets/sprites/lumineon/front.gif)
 
 <pre><code><b>Special Attack:</b> 69 → 89
 <b>Speed:</b> 91 → 101
@@ -3811,7 +3811,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#458 Mantyke**
 
-![458](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/458.gif)&nbsp;
+![mantyke](../assets/sprites/mantyke/front.gif)
 
 <pre><code><b>Ability One:</b> Swift Swim
 <b>Ability Two:</b> Water Absorb
@@ -3819,8 +3819,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#459 Snover, #460 Abomasnow**
 
-![459](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/459.gif)&nbsp;
-![460](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/460.gif)&nbsp;
+![snover](../assets/sprites/snover/front.gif)
+![abomasnow](../assets/sprites/abomasnow/front.gif)
 
 <pre><code><b>Ability One:</b> Snow Warning
 <b>Ability Two:</b> Soundproof
@@ -3828,7 +3828,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#461 Weavile**
 
-![461](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/461.gif)&nbsp;
+![weavile](../assets/sprites/weavile/front.gif)
 
 <pre><code><b>TM:</b> Now learns TM79, Frost Breath.
 <b>Ability One:</b> Pickpocket
@@ -3837,7 +3837,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#462 Magnezone**
 
-![462](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/462.gif)&nbsp;
+![magnezone](../assets/sprites/magnezone/front.gif)
 
 <pre><code><b>Ability One:</b> Magnet Pull
 <b>Ability Two:</b> Analytic
@@ -3845,7 +3845,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#463 Lickilicky**
 
-![463](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/463.gif)&nbsp;
+![lickilicky](../assets/sprites/lickilicky/front.gif)
 
 <pre><code><b>Ability One:</b> Thick Fat
 <b>Ability Two:</b> Gluttony
@@ -3853,7 +3853,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#464 Rhyperior**
 
-![464](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/464.gif)&nbsp;
+![rhyperior](../assets/sprites/rhyperior/front.gif)
 
 <pre><code><b>Ability One:</b> Reckless
 <b>Ability Two:</b> Solid Rock
@@ -3861,7 +3861,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#465 Tangrowth**
 
-![465](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/465.gif)&nbsp;
+![tangrowth](../assets/sprites/tangrowth/front.gif)
 
 <pre><code><b>Ability One:</b> Chlorophyll
 <b>Ability Two:</b> Regenerator
@@ -3869,7 +3869,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#466 Electivire**
 
-![466](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/466.gif)&nbsp;
+![electivire](../assets/sprites/electivire/front.gif)
 
 <pre><code><b>Type:</b> Electric / Fighting
 <b>Ability One:</b> Motor Drive
@@ -3878,7 +3878,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#467 Magmortar**
 
-![467](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/467.gif)&nbsp;
+![magmortar](../assets/sprites/magmortar/front.gif)
 
 <pre><code><b>Ability One:</b> Flame Body
 <b>Ability Two:</b> Vital Spirit
@@ -3886,7 +3886,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#468 Togekiss**
 
-![468](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/468.gif)&nbsp;
+![togekiss](../assets/sprites/togekiss/front.gif)
 
 <pre><code><b>Ability One:</b> Super Luck
 <b>Ability Two:</b> Serene Grace
@@ -3894,7 +3894,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#469 Yanmega**
 
-![469](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/469.gif)&nbsp;
+![yanmega](../assets/sprites/yanmega/front.gif)
 
 <pre><code><b>HM:</b> Can now learn HM02, Fly.
 <b>Ability One:</b> Speed Boost
@@ -3903,7 +3903,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#470 Leafeon**
 
-![470](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/470.gif)&nbsp;
+![leafeon](../assets/sprites/leafeon/front.gif)
 
 <pre><code><b>Ability One:</b> Leaf Guard
 <b>Ability Two:</b> Natural Cure
@@ -3911,7 +3911,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#471 Glaceon**
 
-![471](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/471.gif)&nbsp;
+![glaceon](../assets/sprites/glaceon/front.gif)
 
 <pre><code><b>TM:</b> Can now learn TM86, Grass Knot.
 <b>Ability One:</b> Snow Cloak
@@ -3920,7 +3920,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#472 Gliscor**
 
-![472](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/472.gif)&nbsp;
+![gliscor](../assets/sprites/gliscor/front.gif)
 
 <pre><code><b>HM:</b> Can now learn HM02, Fly.
 <b>Ability One:</b> Hyper Cutter
@@ -3929,7 +3929,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#473 Mamoswine**
 
-![473](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/473.gif)&nbsp;
+![mamoswine](../assets/sprites/mamoswine/front.gif)
 
 <pre><code><b>Ability One:</b> Thick Fat
 <b>Ability Two:</b> Snow Cloak
@@ -3937,7 +3937,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#474 Porygon-Z**
 
-![474](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/474.gif)&nbsp;
+![porygonz](../assets/sprites/porygonz/front.gif)
 
 <pre><code><b>Ability One:</b> Adaptability
 <b>Ability Two:</b> Download
@@ -3945,7 +3945,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#475 Gallade**
 
-![475](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/475.gif)&nbsp;
+![gallade](../assets/sprites/gallade/front.gif)
 
 <pre><code><b>Ability One:</b> Justified
 <b>Ability Two:</b> Trace
@@ -3953,7 +3953,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#476 Probopass**
 
-![476](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/476.gif)&nbsp;
+![probopass](../assets/sprites/probopass/front.gif)
 
 <pre><code><b>Ability One:</b> Sturdy
 <b>Ability Two:</b> Magnet Pull
@@ -3961,7 +3961,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#477 Dusknoir**
 
-![477](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/477.gif)&nbsp;
+![dusknoir](../assets/sprites/dusknoir/front.gif)
 
 <pre><code><b>Ability One:</b> Pressure
 <b>Ability Two:</b> Cursed Body
@@ -3969,7 +3969,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#478 Froslass**
 
-![478](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/478.gif)&nbsp;
+![froslass](../assets/sprites/froslass/front.gif)
 
 <pre><code><b>Special Attack:</b> 80 → 100
 <b>Total:</b> 480 → 500
@@ -3980,7 +3980,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#479 Rotom**
 
-![479](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/479.gif)&nbsp;
+![rotom](../assets/sprites/rotom/front.gif)
 
 <pre><code><b>Speed:</b> 91 → 111
 <b>Total:</b> 440 → 460
@@ -3990,7 +3990,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#479 Rotom Fan**
 
-![479](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/479.gif)&nbsp;
+![rotom-fan](../assets/sprites/rotom-fan/front.gif)
 
 <pre><code><b>Ability One:</b> Speed Boost
 <b>Ability Two:</b> Motor Drive
@@ -3998,7 +3998,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#480 Uxie**
 
-![480](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/480.gif)&nbsp;
+![uxie](../assets/sprites/uxie/front.gif)
 
 <pre><code><b>Ability One:</b> Levitate
 <b>Ability Two:</b> Levitate
@@ -4006,7 +4006,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#481 Mesprit**
 
-![481](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/481.gif)&nbsp;
+![mesprit](../assets/sprites/mesprit/front.gif)
 
 <pre><code><b>Ability One:</b> Levitate
 <b>Ability Two:</b> Levitate
@@ -4014,7 +4014,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#482 Azelf**
 
-![482](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/482.gif)&nbsp;
+![azelf](../assets/sprites/azelf/front.gif)
 
 <pre><code><b>Ability One:</b> Levitate
 <b>Ability Two:</b> Levitate
@@ -4022,7 +4022,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#483 Dialga**
 
-![483](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/483.gif)&nbsp;
+![dialga](../assets/sprites/dialga/front.gif)
 
 <pre><code><b>Ability One:</b> Pressure
 <b>Ability Two:</b> Telepathy
@@ -4030,7 +4030,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#484 Palkia**
 
-![484](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/484.gif)&nbsp;
+![palkia](../assets/sprites/palkia/front.gif)
 
 <pre><code><b>Ability One:</b> Pressure
 <b>Ability Two:</b> Telepathy
@@ -4038,7 +4038,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#485 Heatran**
 
-![485](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/485.gif)&nbsp;
+![heatran](../assets/sprites/heatran/front.gif)
 
 <pre><code><b>Ability One:</b> Flash Fire
 <b>Ability Two:</b> Flame Body
@@ -4046,7 +4046,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#486 Regigigas**
 
-![486](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/486.gif)&nbsp;
+![regigigas](../assets/sprites/regigigas/front.gif)
 
 <pre><code><b>Ability One:</b> Sheer Force
 <b>Ability Two:</b> Sheer Force
@@ -4054,7 +4054,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#487 Giratina (Altered)**
 
-![487](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/487.gif)&nbsp;
+![giratina-altered](../assets/sprites/giratina-altered/front.gif)
 
 <pre><code><b>Ability One:</b> Pressure
 <b>Ability Two:</b> Telepathy
@@ -4062,7 +4062,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#488 Cresselia**
 
-![488](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/488.gif)&nbsp;
+![cresselia](../assets/sprites/cresselia/front.gif)
 
 <pre><code><b>Ability One:</b> Levitate
 <b>Ability Two:</b> Levitate
@@ -4070,7 +4070,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#489 Phione**
 
-![489](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/489.gif)&nbsp;
+![phione](../assets/sprites/phione/front.gif)
 
 <pre><code><b>HP:</b> 80 → 90
 <b>Attack:</b> 80 → 90
@@ -4086,7 +4086,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#490 Manaphy**
 
-![490](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/490.gif)&nbsp;
+![manaphy](../assets/sprites/manaphy/front.gif)
 
 <pre><code><b>Item:</b> Lansat Berry (100%)
 <b>Ability One:</b> Hydration
@@ -4095,7 +4095,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#491 Darkrai**
 
-![491](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/491.gif)&nbsp;
+![darkrai](../assets/sprites/darkrai/front.gif)
 
 <pre><code><b>Ability One:</b> Bad Dreams
 <b>Ability Two:</b> Bad Dreams
@@ -4103,14 +4103,14 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#492 Shaymin**
 
-![492](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/492.gif)&nbsp;
+![shaymin](../assets/sprites/shaymin/front.gif)
 
 <pre><code><b>Item:</b> Starf Berry (100%)
 </code></pre>
 
 **#493 Arceus**
 
-![493](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/493.gif)&nbsp;
+![arceus](../assets/sprites/arceus/front.gif)
 
 <pre><code><b>Item:</b> Enigma Berry (100%)
 <b>Base EXP:</b> 324 → 511
@@ -4124,7 +4124,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#494 Victini**
 
-![494](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/494.gif)&nbsp;
+![victini](../assets/sprites/victini/front.gif)
 
 <pre><code><b>Ability One:</b> Victory Star
 <b>Ability Two:</b> Victory Star
@@ -4132,7 +4132,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#495 Snivy**
 
-![495](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/495.gif)&nbsp;
+![snivy](../assets/sprites/snivy/front.gif)
 
 <pre><code><b>Item:</b> Miracle Seed (50%)
 <b>Base EXP:</b> 28 → 50
@@ -4143,7 +4143,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#496 Servine**
 
-![496](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/496.gif)&nbsp;
+![servine](../assets/sprites/servine/front.gif)
 
 <pre><code><b>Item:</b> Miracle Seed (50%)
 <b>Base Happiness:</b> 0
@@ -4153,7 +4153,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#497 Serperior**
 
-![497](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/497.gif)&nbsp;
+![serperior](../assets/sprites/serperior/front.gif)
 
 <pre><code><b>TM:</b> Can now learn TM26 Earthquake.
 <b>Tutor:</b> Can now learn Draco Meteor.
@@ -4168,7 +4168,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#498 Tepig**
 
-![498](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/498.gif)&nbsp;
+![tepig](../assets/sprites/tepig/front.gif)
 
 <pre><code><b>Item:</b> Charcoal (50%)
 <b>Base EXP:</b> 28 → 50
@@ -4178,7 +4178,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#499 Pignite**
 
-![499](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/499.gif)&nbsp;
+![pignite](../assets/sprites/pignite/front.gif)
 
 <pre><code><b>Item:</b> Charcoal (50%)
 <b>Type:</b> Fire / Ground
@@ -4188,7 +4188,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#500 Emboar**
 
-![500](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/500.gif)&nbsp;
+![emboar](../assets/sprites/emboar/front.gif)
 
 <pre><code><b>Item:</b> Charcoal (50%)
 <b>HP:</b> 110 → 120
@@ -4205,7 +4205,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#501 Oshawott**
 
-![501](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/501.gif)&nbsp;
+![oshawott](../assets/sprites/oshawott/front.gif)
 
 <pre><code><b>Item:</b> Mystic Water (50%)
 <b>Base EXP:</b> 28 → 50
@@ -4215,7 +4215,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#502 Dewott**
 
-![502](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/502.gif)&nbsp;
+![dewott](../assets/sprites/dewott/front.gif)
 
 <pre><code><b>Item:</b> Mystic Water (50%)
 <b>Type:</b> Water / Fighting
@@ -4225,7 +4225,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#503 Samurott**
 
-![503](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/503.gif)&nbsp;
+![samurott](../assets/sprites/samurott/front.gif)
 
 <pre><code><b>TM:</b> Can now learn TM26 Earthquake.
 <b>Item:</b> Mystic Water (50%)
@@ -4239,7 +4239,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#504 Patrat**
 
-![504](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/504.gif)&nbsp;
+![patrat](../assets/sprites/patrat/front.gif)
 
 <pre><code><b>Ability One:</b> Analytic
 <b>Ability Two:</b> Keen Eye
@@ -4247,7 +4247,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#505 Watchog**
 
-![505](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/505.gif)&nbsp;
+![watchog](../assets/sprites/watchog/front.gif)
 
 <pre><code><b>Special Attack:</b> 60 → 85
 <b>Total:</b> 420 → 435
@@ -4257,7 +4257,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#506 Lillipup**
 
-![506](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/506.gif)&nbsp;
+![lillipup](../assets/sprites/lillipup/front.gif)
 
 <pre><code><b>Ability One:</b> Vital Spirit
 <b>Ability Two:</b> Pickup
@@ -4265,7 +4265,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#507 Herdier**
 
-![507](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/507.gif)&nbsp;
+![herdier](../assets/sprites/herdier/front.gif)
 
 <pre><code><b>Ability One:</b> Intimidate
 <b>Ability Two:</b> Scrappy
@@ -4273,7 +4273,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#508 Stoutland**
 
-![508](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/508.gif)&nbsp;
+![stoutland](../assets/sprites/stoutland/front.gif)
 
 <pre><code><b>HP:</b> 85 → 105
 <b>Attack:</b> 100 → 110
@@ -4284,7 +4284,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#509 Purrloin**
 
-![509](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/509.gif)&nbsp;
+![purrloin](../assets/sprites/purrloin/front.gif)
 
 <pre><code><b>Ability One:</b> Limber
 <b>Ability Two:</b> Prankster
@@ -4292,7 +4292,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#510 Liepard**
 
-![510](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/510.gif)&nbsp;
+![liepard](../assets/sprites/liepard/front.gif)
 
 <pre><code><b>TM:</b> Can now learn TM43, Flame Charge and TM93, Wild Charge.
 <b>Attack:</b> 88 → 98
@@ -4304,7 +4304,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#511 Pansage**
 
-![511](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/511.gif)&nbsp;
+![pansage](../assets/sprites/pansage/front.gif)
 
 <pre><code><b>Tutor:</b> Can now learn Grass Pledge and Frenzy Plant.
 <b>Ability One:</b> Gluttony
@@ -4313,7 +4313,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#512 Simisage**
 
-![512](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/512.gif)&nbsp;
+![simisage](../assets/sprites/simisage/front.gif)
 
 <pre><code><b>Tutor:</b> Can now learn Grass Pledge and Frenzy Plant.
 <b>Ability One:</b> Unburden
@@ -4322,7 +4322,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#513 Pansear**
 
-![513](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/513.gif)&nbsp;
+![pansear](../assets/sprites/pansear/front.gif)
 
 <pre><code><b>Tutor:</b> Can now learn Fire Pledge and Blast Burn.
 <b>Ability One:</b> Gluttony
@@ -4331,7 +4331,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#514 Simisear**
 
-![514](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/514.gif)&nbsp;
+![simisear](../assets/sprites/simisear/front.gif)
 
 <pre><code><b>Tutor:</b> Can now learn Fire Pledge and Blast Burn.
 <b>Ability One:</b> Unburden
@@ -4340,7 +4340,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#515 Panpour**
 
-![515](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/515.gif)&nbsp;
+![panpour](../assets/sprites/panpour/front.gif)
 
 <pre><code><b>Tutor:</b> Can now learn Water Pledge and Hydro Cannon.
 <b>Ability One:</b> Gluttony
@@ -4349,7 +4349,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#516 Simipour**
 
-![516](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/516.gif)&nbsp;
+![simipour](../assets/sprites/simipour/front.gif)
 
 <pre><code><b>Tutor:</b> Can now learn Water Pledge and Hydro Cannon.
 <b>Ability One:</b> Unburden
@@ -4358,7 +4358,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#517 Munna**
 
-![517](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/517.gif)&nbsp;
+![munna](../assets/sprites/munna/front.gif)
 
 <pre><code><b>Ability One:</b> Telepathy
 <b>Ability Two:</b> Analytic
@@ -4367,7 +4367,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#518 Musharna**
 
-![518](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/518.gif)&nbsp;
+![musharna](../assets/sprites/musharna/front.gif)
 
 <pre><code><b>Ability One:</b> Telepathy
 <b>Ability Two:</b> Analytic
@@ -4376,7 +4376,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#519 Pidove**
 
-![519](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/519.gif)&nbsp;
+![pidove](../assets/sprites/pidove/front.gif)
 
 <pre><code><b>Attack:</b> 55 → 36
 <b>Defense:</b> 50 → 30
@@ -4388,7 +4388,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#520 Tranquill**
 
-![520](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/520.gif)&nbsp;
+![tranquill](../assets/sprites/tranquill/front.gif)
 
 <pre><code><b>Attack:</b> 77 → 50
 <b>Defense:</b> 62 → 42
@@ -4400,7 +4400,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#521 Unfezant**
 
-![521](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/521.gif)&nbsp;
+![unfezant](../assets/sprites/unfezant/front.gif)
 
 <pre><code><b>Attack:</b> 105 → 65
 <b>Defense:</b> 80 → 55
@@ -4414,7 +4414,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#522 Blitzle**
 
-![522](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/522.gif)&nbsp;
+![blitzle](../assets/sprites/blitzle/front.gif)
 
 <pre><code><b>Ability One:</b> LightningRod
 <b>Ability Two:</b> Sap Sipper
@@ -4422,7 +4422,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#523 Zebstrika**
 
-![523](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/523.gif)&nbsp;
+![zebstrika](../assets/sprites/zebstrika/front.gif)
 
 <pre><code><b>Ability One:</b> LightningRod
 <b>Ability Two:</b> Sap Sipper
@@ -4430,7 +4430,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#524 Roggenrola**
 
-![524](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/524.gif)&nbsp;
+![roggenrola](../assets/sprites/roggenrola/front.gif)
 
 <pre><code><b>Ability One:</b> Sturdy
 <b>Ability Two:</b> Sand Force
@@ -4438,7 +4438,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#525 Boldore**
 
-![525](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/525.gif)&nbsp;
+![boldore](../assets/sprites/boldore/front.gif)
 
 <pre><code><b>Evolution:</b> Level 36.
 <b>Ability One:</b> Sturdy
@@ -4447,7 +4447,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#526 Gigalith**
 
-![526](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/526.gif)&nbsp;
+![gigalith](../assets/sprites/gigalith/front.gif)
 
 <pre><code><b>Ability One:</b> Sturdy
 <b>Ability Two:</b> Sand Force
@@ -4455,7 +4455,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#527 Woobat**
 
-![527](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/527.gif)&nbsp;
+![woobat](../assets/sprites/woobat/front.gif)
 
 <pre><code><b>Base Happiness:</b> 180
 <b>Ability One:</b> Unaware
@@ -4464,7 +4464,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#528 Swoobat**
 
-![528](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/528.gif)&nbsp;
+![swoobat](../assets/sprites/swoobat/front.gif)
 
 <pre><code><b>Base Happiness:</b> 180
 <b>HP:</b> 67 → 77
@@ -4479,8 +4479,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#529 Drilbur, #530 Excadrill**
 
-![529](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/529.gif)&nbsp;
-![530](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/530.gif)&nbsp;
+![drilbur](../assets/sprites/drilbur/front.gif)
+![excadrill](../assets/sprites/excadrill/front.gif)
 
 <pre><code><b>Ability One:</b> Sand Rush
 <b>Ability Two:</b> Mold Breaker
@@ -4488,7 +4488,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#531 Audino**
 
-![531](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/531.gif)&nbsp;
+![audino](../assets/sprites/audino/front.gif)
 
 <pre><code><b>Base EXP:</b> 390 → 400
 <b>Ability One:</b> Serene Grace
@@ -4497,7 +4497,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#532 Timburr**
 
-![532](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/532.gif)&nbsp;
+![timburr](../assets/sprites/timburr/front.gif)
 
 <pre><code><b>Ability One:</b> Guts
 <b>Ability Two:</b> Iron Fist
@@ -4505,7 +4505,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#533 Gurdurr**
 
-![533](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/533.gif)&nbsp;
+![gurdurr](../assets/sprites/gurdurr/front.gif)
 
 <pre><code><b>Evolution:</b> Level 36.
 <b>Ability One:</b> Guts
@@ -4514,7 +4514,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#534 Conkeldurr**
 
-![534](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/534.gif)&nbsp;
+![conkeldurr](../assets/sprites/conkeldurr/front.gif)
 
 <pre><code><b>Ability One:</b> Guts
 <b>Ability Two:</b> Iron Fist
@@ -4522,8 +4522,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#535 Tympole, #536 Palpitoad**
 
-![535](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/535.gif)&nbsp;
-![536](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/536.gif)&nbsp;
+![tympole](../assets/sprites/tympole/front.gif)
+![palpitoad](../assets/sprites/palpitoad/front.gif)
 
 <pre><code><b>TM:</b> Can now learn TM13 Ice Beam and TM14 Blizzard.
 <b>Ability One:</b> Water Absorb
@@ -4532,7 +4532,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#537 Seismitoad**
 
-![537](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/537.gif)&nbsp;
+![seismitoad](../assets/sprites/seismitoad/front.gif)
 
 <pre><code><b>TM:</b> Can now learn TM13 Ice Beam and TM14 Blizzard.
 <b>Attack:</b> 85 → 95
@@ -4544,7 +4544,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#538 Throh**
 
-![538](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/538.gif)&nbsp;
+![throh](../assets/sprites/throh/front.gif)
 
 <pre><code><b>Item:</b> Black Belt (50%)
 <b>Item:</b> Expert Belt (5%)
@@ -4554,7 +4554,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#539 Sawk**
 
-![539](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/539.gif)&nbsp;
+![sawk](../assets/sprites/sawk/front.gif)
 
 <pre><code><b>Item:</b> Black Belt (50%)
 <b>Item:</b> Expert Belt (5%)
@@ -4564,7 +4564,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#540 Sewaddle**
 
-![540](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/540.gif)&nbsp;
+![sewaddle](../assets/sprites/sewaddle/front.gif)
 
 <pre><code><b>Base Happiness:</b> 180
 <b>Ability One:</b> Swarm
@@ -4573,7 +4573,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#541 Swadloon**
 
-![541](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/541.gif)&nbsp;
+![swadloon](../assets/sprites/swadloon/front.gif)
 
 <pre><code><b>Base Happiness:</b> 180
 <b>Ability One:</b> Leaf Guard
@@ -4582,7 +4582,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#542 Leavanny**
 
-![542](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/542.gif)&nbsp;
+![leavanny](../assets/sprites/leavanny/front.gif)
 
 <pre><code><b>Base Happiness:</b> 180
 <b>Ability One:</b> Swarm
@@ -4591,7 +4591,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#543 Venipede**
 
-![543](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/543.gif)&nbsp;
+![venipede](../assets/sprites/venipede/front.gif)
 
 <pre><code><b>Ability One:</b> Poison Point
 <b>Ability Two:</b> Swarm
@@ -4599,7 +4599,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#544 Whirlipede**
 
-![544](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/544.gif)&nbsp;
+![whirlipede](../assets/sprites/whirlipede/front.gif)
 
 <pre><code><b>Ability One:</b> Battle Armor
 <b>Ability Two:</b> Swarm
@@ -4607,7 +4607,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#545 Scolipede**
 
-![545](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/545.gif)&nbsp;
+![scolipede](../assets/sprites/scolipede/front.gif)
 
 <pre><code><b>Ability One:</b> Poison Touch
 <b>Ability Two:</b> Swarm
@@ -4615,8 +4615,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#546 Cottonee, #547 Whimsicott**
 
-![546](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/546.gif)&nbsp;
-![547](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/547.gif)&nbsp;
+![cottonee](../assets/sprites/cottonee/front.gif)
+![whimsicott](../assets/sprites/whimsicott/front.gif)
 
 <pre><code><b>Ability One:</b> Prankster
 <b>Ability Two:</b> Infiltrator
@@ -4624,7 +4624,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#548 Petilil**
 
-![548](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/548.gif)&nbsp;
+![petilil](../assets/sprites/petilil/front.gif)
 
 <pre><code><b>TM:</b> Now learns TM29 Psychic and TM30 Shadow Ball.
 <b>Ability One:</b> Chlorophyll
@@ -4633,7 +4633,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#549 Lilligant**
 
-![549](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/549.gif)&nbsp;
+![lilligant](../assets/sprites/lilligant/front.gif)
 
 <pre><code><b>TM:</b> Now learns TM29 Psychic, TM30 Shadow Ball, and TM52 Focus Blast.
 <b>Ability One:</b> Chlorophyll
@@ -4642,7 +4642,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#550 Basculin (Red Striped)**
 
-![550](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/550.gif)&nbsp;
+![basculin-red-striped](../assets/sprites/basculin-red-striped/front.gif)
 
 <pre><code><b>Attack:</b> 92 → 102
 <b>Speed:</b> 98 → 108
@@ -4653,7 +4653,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#550 Basculin (Blue Striped)**
 
-![550](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/550.gif)&nbsp;
+![basculin-blue-striped](../assets/sprites/basculin-blue-striped/front.gif)
 
 <pre><code><b>Attack:</b> 92 → 102
 <b>Speed:</b> 98 → 108
@@ -4664,7 +4664,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#551 Sandile**
 
-![551](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/551.gif)&nbsp;
+![sandile](../assets/sprites/sandile/front.gif)
 
 <pre><code><b>Ability One:</b> Anger Point
 <b>Ability Two:</b> Moxie
@@ -4672,7 +4672,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#552 Krokorok**
 
-![552](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/552.gif)&nbsp;
+![krokorok](../assets/sprites/krokorok/front.gif)
 
 <pre><code><b>Ability One:</b> Anger Point
 <b>Ability Two:</b> Moxie
@@ -4680,7 +4680,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#553 Krookodile**
 
-![553](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/553.gif)&nbsp;
+![krookodile](../assets/sprites/krookodile/front.gif)
 
 <pre><code><b>Ability One:</b> Intimidate
 <b>Ability Two:</b> Moxie
@@ -4688,7 +4688,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#554 Darumaka**
 
-![554](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/554.gif)&nbsp;
+![darumaka](../assets/sprites/darumaka/front.gif)
 
 <pre><code><b>Ability One:</b> Hustle
 <b>Ability Two:</b> Rattled
@@ -4696,7 +4696,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#555 Darmanitan**
 
-![555](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/555.gif)&nbsp;
+![darmanitan](../assets/sprites/darmanitan/front.gif)
 
 <pre><code><b>Ability One:</b> Sheer Force
 <b>Ability Two:</b> Iron Fist
@@ -4704,7 +4704,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#556 Maractus**
 
-![556](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/556.gif)&nbsp;
+![maractus](../assets/sprites/maractus/front.gif)
 
 <pre><code><b>TM:</b> Can now learn TM55, Scald.
 <b>Attack:</b> 86 → 101
@@ -4716,8 +4716,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#557 Dwebble, #558 Crustle**
 
-![557](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/557.gif)&nbsp;
-![558](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/558.gif)&nbsp;
+![dwebble](../assets/sprites/dwebble/front.gif)
+![crustle](../assets/sprites/crustle/front.gif)
 
 <pre><code><b>Ability One:</b> Sturdy
 <b>Ability Two:</b> Shell Armor
@@ -4725,8 +4725,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#559 Scraggy, #560 Scrafty**
 
-![559](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/559.gif)&nbsp;
-![560](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/560.gif)&nbsp;
+![scraggy](../assets/sprites/scraggy/front.gif)
+![scrafty](../assets/sprites/scrafty/front.gif)
 
 <pre><code><b>Ability One:</b> Shed Skin
 <b>Ability Two:</b> Moxie
@@ -4735,7 +4735,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#561 Sigilyph**
 
-![561](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/561.gif)&nbsp;
+![sigilyph](../assets/sprites/sigilyph/front.gif)
 
 <pre><code><b>Special Attack:</b> 103 → 108
 <b>Speed:</b> 97 → 102
@@ -4747,7 +4747,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#562 Yamask**
 
-![562](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/562.gif)&nbsp;
+![yamask](../assets/sprites/yamask/front.gif)
 
 <pre><code><b>Ability One:</b> Mummy
 <b>Ability Two:</b> Mummy
@@ -4755,7 +4755,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#563 Cofagrigus**
 
-![563](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/563.gif)&nbsp;
+![cofagrigus](../assets/sprites/cofagrigus/front.gif)
 
 <pre><code><b>Type:</b> Ghost / Steel
 <b>TM:</b> Can now learn TM91, Flash Cannon.
@@ -4765,8 +4765,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#564 Tirtouga, #565 Carracosta**
 
-![564](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/564.gif)&nbsp;
-![565](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/565.gif)&nbsp;
+![tirtouga](../assets/sprites/tirtouga/front.gif)
+![carracosta](../assets/sprites/carracosta/front.gif)
 
 <pre><code><b>Ability One:</b> Solid Rock
 <b>Ability Two:</b> Sturdy
@@ -4774,8 +4774,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#566 Archen, #567 Archeops**
 
-![566](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/566.gif)&nbsp;
-![567](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/567.gif)&nbsp;
+![archen](../assets/sprites/archen/front.gif)
+![archeops](../assets/sprites/archeops/front.gif)
 
 <pre><code><b>Ability One:</b> Defeatist
 <b>Ability Two:</b> Defeatist
@@ -4783,7 +4783,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#568 Trubbish**
 
-![568](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/568.gif)&nbsp;
+![trubbish](../assets/sprites/trubbish/front.gif)
 
 <pre><code><b>Ability One:</b> Stench
 <b>Ability Two:</b> Sticky Hold
@@ -4791,7 +4791,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#569 Garbodor**
 
-![569](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/569.gif)&nbsp;
+![garbodor](../assets/sprites/garbodor/front.gif)
 
 <pre><code><b>Special Attack:</b> 60 → 80
 <b>Total:</b> 474 → 494
@@ -4801,7 +4801,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#570 Zorua**
 
-![570](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/570.gif)&nbsp;
+![zorua](../assets/sprites/zorua/front.gif)
 
 <pre><code><b>Ability One:</b> Illusion
 <b>Ability Two:</b> Illusion
@@ -4809,7 +4809,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#571 Zoroark**
 
-![571](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/571.gif)&nbsp;
+![zoroark](../assets/sprites/zoroark/front.gif)
 
 <pre><code><b>Ability One:</b> Illusion
 <b>Ability Two:</b> Illusion
@@ -4817,7 +4817,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#572 Minccino**
 
-![572](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/572.gif)&nbsp;
+![minccino](../assets/sprites/minccino/front.gif)
 
 <pre><code><b>Ability One:</b> Skill Link
 <b>Ability Two:</b> Technician
@@ -4825,7 +4825,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#573 Cinccino**
 
-![573](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/573.gif)&nbsp;
+![cinccino](../assets/sprites/cinccino/front.gif)
 
 <pre><code><b>Attack:</b> 95 → 105
 <b>Total:</b> 470 → 480
@@ -4835,7 +4835,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#574 Gothita**
 
-![574](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/574.gif)&nbsp;
+![gothita](../assets/sprites/gothita/front.gif)
 
 <pre><code><b>Type:</b> Psychic / Dark
 <b>TM:</b> Now learns TM61 Will-O-Wisp.
@@ -4845,7 +4845,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#575 Gothorita**
 
-![575](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/575.gif)&nbsp;
+![gothorita](../assets/sprites/gothorita/front.gif)
 
 <pre><code><b>Type:</b> Psychic / Dark
 <b>TM:</b> Now learns TM61 Will-O-Wisp.
@@ -4855,7 +4855,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#576 Gothitelle**
 
-![576](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/576.gif)&nbsp;
+![gothitelle](../assets/sprites/gothitelle/front.gif)
 
 <pre><code><b>Type:</b> Psychic / Dark
 <b>Attack:</b> 55 → 45
@@ -4868,8 +4868,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#577 Solosis, #578 Duosion**
 
-![577](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/577.gif)&nbsp;
-![578](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/578.gif)&nbsp;
+![solosis](../assets/sprites/solosis/front.gif)
+![duosion](../assets/sprites/duosion/front.gif)
 
 <pre><code><b>Ability One:</b> Regenerator
 <b>Ability Two:</b> Magic Guard
@@ -4877,7 +4877,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#579 Reuniclus**
 
-![579](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/579.gif)&nbsp;
+![reuniclus](../assets/sprites/reuniclus/front.gif)
 
 <pre><code><b>Defense:</b> 75 → 85
 <b>Total:</b> 490 → 500
@@ -4887,7 +4887,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#580 Ducklett**
 
-![580](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/580.gif)&nbsp;
+![ducklett](../assets/sprites/ducklett/front.gif)
 
 <pre><code><b>Ability One:</b> Hydration
 <b>Ability Two:</b> Big Pecks
@@ -4895,7 +4895,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#581 Swanna**
 
-![581](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/581.gif)&nbsp;
+![swanna](../assets/sprites/swanna/front.gif)
 
 <pre><code><b>Attack:</b> 87 → 97
 <b>Special Attack:</b> 87 → 97
@@ -4908,8 +4908,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#582 Vanillite, #583 Vanillish**
 
-![582](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/582.gif)&nbsp;
-![583](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/583.gif)&nbsp;
+![vanillite](../assets/sprites/vanillite/front.gif)
+![vanillish](../assets/sprites/vanillish/front.gif)
 
 <pre><code><b>TM:</b> Can now learn TM30, Shadow Ball, TM53, Energy Ball and TM86, Grass Knot.
 <b>Ability One:</b> Ice Body
@@ -4918,7 +4918,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#584 Vanilluxe**
 
-![584](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/584.gif)&nbsp;
+![vanilluxe](../assets/sprites/vanilluxe/front.gif)
 
 <pre><code><b>HP:</b> 71 → 70
 <b>Attack:</b> 95 → 70
@@ -4934,7 +4934,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#585 Deerling**
 
-![585](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/585.gif)&nbsp;
+![deerling](../assets/sprites/deerling/front.gif)
 
 <pre><code><b>Ability One:</b> Chlorophyll
 <b>Ability Two:</b> Serene Grace
@@ -4942,7 +4942,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#586 Sawsbuck**
 
-![586](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/586.gif)&nbsp;
+![sawsbuck](../assets/sprites/sawsbuck/front.gif)
 
 <pre><code><b>Attack:</b> 100 → 115
 <b>Speed:</b> 95 → 105
@@ -4953,7 +4953,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#587 Emolga**
 
-![587](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/587.gif)&nbsp;
+![emolga](../assets/sprites/emolga/front.gif)
 
 <pre><code><b>Attack:</b> 75 → 95
 <b>Special Attack:</b> 75 → 95
@@ -4964,7 +4964,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#588 Karrablast**
 
-![588](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/588.gif)&nbsp;
+![karrablast](../assets/sprites/karrablast/front.gif)
 
 <pre><code><b>Evolution:</b> Level Up with Shelmet in the party.
 <b>Ability One:</b> Swarm
@@ -4973,7 +4973,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#589 Escavalier**
 
-![589](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/589.gif)&nbsp;
+![escavalier](../assets/sprites/escavalier/front.gif)
 
 <pre><code><b>Ability One:</b> Swarm
 <b>Ability Two:</b> No Guard
@@ -4982,8 +4982,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#590 Foongus, #591 Amoonguss**
 
-![590](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/590.gif)&nbsp;
-![591](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/591.gif)&nbsp;
+![foongus](../assets/sprites/foongus/front.gif)
+![amoonguss](../assets/sprites/amoonguss/front.gif)
 
 <pre><code><b>Ability One:</b> Effect Spore
 <b>Ability Two:</b> Regenerator
@@ -4991,8 +4991,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#592 Frillish, #593 Jellicent**
 
-![592](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/592.gif)&nbsp;
-![593](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/593.gif)&nbsp;
+![frillish](../assets/sprites/frillish/front.gif)
+![jellicent](../assets/sprites/jellicent/front.gif)
 
 <pre><code><b>Ability One:</b> Water Absorb
 <b>Ability Two:</b> Cursed Body
@@ -5000,7 +5000,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#594 Alomomola**
 
-![594](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/594.gif)&nbsp;
+![alomomola](../assets/sprites/alomomola/front.gif)
 
 <pre><code><b>Attack:</b> 75 → 90
 <b>Total:</b> 470 → 485
@@ -5010,7 +5010,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#595 Joltik**
 
-![595](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/595.gif)&nbsp;
+![joltik](../assets/sprites/joltik/front.gif)
 
 <pre><code><b>Ability One:</b> Compoundeyes
 <b>Ability Two:</b> Swarm
@@ -5018,7 +5018,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#596 Galvantula**
 
-![596](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/596.gif)&nbsp;
+![galvantula](../assets/sprites/galvantula/front.gif)
 
 <pre><code><b>Special Attack:</b> 97 → 107
 <b>Speed:</b> 108 → 118
@@ -5029,8 +5029,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#597 Ferroseed, #598 Ferrothorn**
 
-![597](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/597.gif)&nbsp;
-![598](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/598.gif)&nbsp;
+![ferroseed](../assets/sprites/ferroseed/front.gif)
+![ferrothorn](../assets/sprites/ferrothorn/front.gif)
 
 <pre><code><b>Ability One:</b> Iron Barbs
 <b>Ability Two:</b> Iron Barbs
@@ -5038,8 +5038,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#599 Klink, #600 Klang**
 
-![599](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/599.gif)&nbsp;
-![600](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/600.gif)&nbsp;
+![klink](../assets/sprites/klink/front.gif)
+![klang](../assets/sprites/klang/front.gif)
 
 <pre><code><b>TM:</b> Can now learn TM80 Rock Slide, TM93, Wild Charge.
 <b>Ability One:</b> Motor Drive
@@ -5048,7 +5048,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#601 Klinklang**
 
-![601](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/601.gif)&nbsp;
+![klinklang](../assets/sprites/klinklang/front.gif)
 
 <pre><code><b>Attack:</b> 100 → 115
 <b>Total:</b> 520 → 535
@@ -5059,9 +5059,9 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#602 Tynamo, #603 Eelektrik, #604 Eelektross**
 
-![602](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/602.gif)&nbsp;
-![603](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/603.gif)&nbsp;
-![604](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/604.gif)&nbsp;
+![tynamo](../assets/sprites/tynamo/front.gif)
+![eelektrik](../assets/sprites/eelektrik/front.gif)
+![eelektross](../assets/sprites/eelektross/front.gif)
 
 <pre><code><b>Ability One:</b> Levitate
 <b>Ability Two:</b> Levitate
@@ -5069,7 +5069,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#605 Elgyem**
 
-![605](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/605.gif)&nbsp;
+![elgyem](../assets/sprites/elgyem/front.gif)
 
 <pre><code><b>Evolution:</b> Level 35
 <b>Ability One:</b> Analytic
@@ -5078,7 +5078,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#606 Beheeyem**
 
-![606](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/606.gif)&nbsp;
+![beheeyem](../assets/sprites/beheeyem/front.gif)
 
 <pre><code><b>Defense:</b> 75 → 95
 <b>Total:</b> 485 → 505
@@ -5088,7 +5088,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#607 Litwick**
 
-![607](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/607.gif)&nbsp;
+![litwick](../assets/sprites/litwick/front.gif)
 
 <pre><code><b>Evolution:</b> Level 34
 <b>Ability One:</b> Flash Fire
@@ -5097,8 +5097,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#608 Lampent, #609 Chandelure**
 
-![608](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/608.gif)&nbsp;
-![609](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/609.gif)&nbsp;
+![lampent](../assets/sprites/lampent/front.gif)
+![chandelure](../assets/sprites/chandelure/front.gif)
 
 <pre><code><b>Ability One:</b> Levitate
 <b>Ability Two:</b> Levitate
@@ -5106,9 +5106,9 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#610 Axew, #611 Fraxure, #612 Haxorus**
 
-![610](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/610.gif)&nbsp;
-![611](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/611.gif)&nbsp;
-![612](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/612.gif)&nbsp;
+![axew](../assets/sprites/axew/front.gif)
+![fraxure](../assets/sprites/fraxure/front.gif)
+![haxorus](../assets/sprites/haxorus/front.gif)
 
 <pre><code><b>Ability One:</b> Rivalry
 <b>Ability Two:</b> Mold Breaker
@@ -5116,7 +5116,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#613 Cubchoo**
 
-![613](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/613.gif)&nbsp;
+![cubchoo](../assets/sprites/cubchoo/front.gif)
 
 <pre><code><b>Ability One:</b> Snow Cloak
 <b>Ability Two:</b> Rattled
@@ -5124,7 +5124,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#614 Beartic**
 
-![614](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/614.gif)&nbsp;
+![beartic](../assets/sprites/beartic/front.gif)
 
 <pre><code><b>Type:</b> Ice / Fighting
 <b>HP:</b> 95 → 110
@@ -5140,7 +5140,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#615 Cryogonal**
 
-![615](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/615.gif)&nbsp;
+![cryogonal](../assets/sprites/cryogonal/front.gif)
 
 <pre><code><b>Defense:</b> 30 → 60
 <b>Special Attack:</b> 95 → 100
@@ -5151,7 +5151,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#616 Shelmet**
 
-![616](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/616.gif)&nbsp;
+![shelmet](../assets/sprites/shelmet/front.gif)
 
 <pre><code><b>Evolution:</b> Level Up with a Karrablast in the party.
 <b>Ability One:</b> Hydration
@@ -5160,7 +5160,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#617 Accelgor**
 
-![617](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/617.gif)&nbsp;
+![accelgor](../assets/sprites/accelgor/front.gif)
 
 <pre><code><b>Ability One:</b> Hydration
 <b>Ability Two:</b> Unburuden
@@ -5168,7 +5168,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#618 Stunfisk**
 
-![618](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/618.gif)&nbsp;
+![stunfisk](../assets/sprites/stunfisk/front.gif)
 
 <pre><code><b>Special Attack:</b> 81 → 101
 <b>Total:</b> 471 → 491
@@ -5178,8 +5178,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#619 Mienfoo, #620 Mienshao**
 
-![619](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/619.gif)&nbsp;
-![620](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/620.gif)&nbsp;
+![mienfoo](../assets/sprites/mienfoo/front.gif)
+![mienshao](../assets/sprites/mienshao/front.gif)
 
 <pre><code><b>Evolution:</b> Level 39
 <b>Ability One:</b> Reckless
@@ -5188,7 +5188,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#621 Druddigon**
 
-![621](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/621.gif)&nbsp;
+![druddigon](../assets/sprites/druddigon/front.gif)
 
 <pre><code><b>HM:</b> Can now learn HM02, Fly.
 <b>Ability One:</b> Rough Skin
@@ -5197,7 +5197,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#622 Golett**
 
-![622](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/622.gif)&nbsp;
+![golett](../assets/sprites/golett/front.gif)
 
 <pre><code><b>Evolution:</b> Level 36
 <b>Ability One:</b> Iron Fist
@@ -5206,7 +5206,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#623 Golurk**
 
-![623](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/623.gif)&nbsp;
+![golurk](../assets/sprites/golurk/front.gif)
 
 <pre><code><b>HP:</b> 89 → 99
 <b>Defense:</b> 80 → 90
@@ -5218,7 +5218,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#624 Pawniard**
 
-![624](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/624.gif)&nbsp;
+![pawniard](../assets/sprites/pawniard/front.gif)
 
 <pre><code><b>Evolution:</b> Level 37
 <b>Ability One:</b> Defiant
@@ -5227,7 +5227,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#625 Bisharp**
 
-![625](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/625.gif)&nbsp;
+![bisharp](../assets/sprites/bisharp/front.gif)
 
 <pre><code><b>Speed:</b> 70 → 90
 <b>Total:</b> 490 → 510
@@ -5237,7 +5237,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#626 Bouffalant**
 
-![626](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/626.gif)&nbsp;
+![bouffalant](../assets/sprites/bouffalant/front.gif)
 
 <pre><code><b>Ability One:</b> Reckless
 <b>Ability Two:</b> Sap Sipper
@@ -5245,7 +5245,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#627 Rufflet**
 
-![627](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/627.gif)&nbsp;
+![rufflet](../assets/sprites/rufflet/front.gif)
 
 <pre><code><b>Evolution:</b> Level 39 [Rufflet]
 <b>Ability One:</b> Hustle
@@ -5254,7 +5254,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#628 Braviary**
 
-![628](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/628.gif)&nbsp;
+![braviary](../assets/sprites/braviary/front.gif)
 
 <pre><code><b>Ability One:</b> Defiant
 <b>Ability Two:</b> Sheer Force
@@ -5262,8 +5262,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#629 Vullaby, #630 Mandibuzz**
 
-![629](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/629.gif)&nbsp;
-![630](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/630.gif)&nbsp;
+![vullaby](../assets/sprites/vullaby/front.gif)
+![mandibuzz](../assets/sprites/mandibuzz/front.gif)
 
 <pre><code><b>Evolution:</b> Level 39 [Vullaby]
 <b>Ability One:</b> Big Pecks
@@ -5272,7 +5272,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#631 Heatmor**
 
-![631](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/631.gif)&nbsp;
+![heatmor](../assets/sprites/heatmor/front.gif)
 
 <pre><code><b>Attack:</b> 97 → 100
 <b>Defense:</b> 66 → 70
@@ -5287,7 +5287,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#632 Durant**
 
-![632](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/632.gif)&nbsp;
+![durant](../assets/sprites/durant/front.gif)
 
 <pre><code><b>HP:</b> 58 → 75
 <b>Attack:</b> 109 → 111
@@ -5300,7 +5300,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#633 Deino**
 
-![633](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/633.gif)&nbsp;
+![deino](../assets/sprites/deino/front.gif)
 
 <pre><code><b>Evolution:</b> Level 30
 <b>Ability One:</b> Hustle
@@ -5309,7 +5309,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#634 Zweilous**
 
-![634](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/634.gif)&nbsp;
+![zweilous](../assets/sprites/zweilous/front.gif)
 
 <pre><code><b>Evolution:</b> Level 55
 <b>Ability One:</b> Hustle
@@ -5318,7 +5318,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#635 Hydreigon**
 
-![635](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/635.gif)&nbsp;
+![hydreigon](../assets/sprites/hydreigon/front.gif)
 
 <pre><code><b>Ability One:</b> Levitate
 <b>Ability Two:</b> Levitate
@@ -5326,7 +5326,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#636 Larvesta**
 
-![636](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/636.gif)&nbsp;
+![larvesta](../assets/sprites/larvesta/front.gif)
 
 <pre><code><b>Evolution:</b> Level 45
 <b>Ability One:</b> Flame Body
@@ -5335,7 +5335,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#637 Volcarona**
 
-![637](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/637.gif)&nbsp;
+![volcarona](../assets/sprites/volcarona/front.gif)
 
 <pre><code><b>TM:</b> Can now learn TM24 Thunderbolt and TM25 Thunder.
 <b>Ability One:</b> Drought
@@ -5344,7 +5344,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#638 Cobalion**
 
-![638](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/638.gif)&nbsp;
+![cobalion](../assets/sprites/cobalion/front.gif)
 
 <pre><code><b>Ability One:</b> Justified
 <b>Ability Two:</b> Justified
@@ -5352,7 +5352,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#639 Terrakion**
 
-![639](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/639.gif)&nbsp;
+![terrakion](../assets/sprites/terrakion/front.gif)
 
 <pre><code><b>Ability One:</b> Justified
 <b>Ability Two:</b> Justified
@@ -5360,7 +5360,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#640 Virizion**
 
-![640](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/640.gif)&nbsp;
+![virizion](../assets/sprites/virizion/front.gif)
 
 <pre><code><b>Ability One:</b> Justified
 <b>Ability Two:</b> Justified
@@ -5368,7 +5368,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#641 Tornadus**
 
-![641](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/641.gif)&nbsp;
+![tornadus](../assets/sprites/tornadus/front.gif)
 
 <pre><code><b>Ability One:</b> Prankster
 <b>Ability Two:</b> Defiant
@@ -5376,7 +5376,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#642 Thundurus**
 
-![642](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/642.gif)&nbsp;
+![thundurus](../assets/sprites/thundurus/front.gif)
 
 <pre><code><b>Ability One:</b> Prankster
 <b>Ability Two:</b> Defiant
@@ -5384,7 +5384,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#643 Reshiram**
 
-![643](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/643.gif)&nbsp;
+![reshiram](../assets/sprites/reshiram/front.gif)
 
 <pre><code><b>TM:</b> Can now learn TM26 Earthquake.
 <b>Ability One:</b> TurboBlaze
@@ -5393,7 +5393,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#644 Zekrom**
 
-![644](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/644.gif)&nbsp;
+![zekrom](../assets/sprites/zekrom/front.gif)
 
 <pre><code><b>TM:</b> Can now learn TM26 Earthquake.
 <b>Ability One:</b> TeraVolt
@@ -5402,7 +5402,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#645 Landorus**
 
-![645](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/645.gif)&nbsp;
+![landorus](../assets/sprites/landorus/front.gif)
 
 <pre><code><b>Ability One:</b> Sand Force
 <b>Ability Two:</b> Sheer Force
@@ -5410,7 +5410,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#646 Kyurem**
 
-![646](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/646.gif)&nbsp;
+![kyurem](../assets/sprites/kyurem/front.gif)
 
 <pre><code><b>TM:</b> Can now learn TM26 Earthquake and TM79 Frost Breath.
 <b>Ability One:</b> Snow Warning
@@ -5419,7 +5419,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#647 Keldeo**
 
-![647](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/647.gif)&nbsp;
+![keldeo](../assets/sprites/keldeo/front.gif)
 
 <pre><code><b>TM:</b> Can now learn TM13 Ice Beam and TM14 Blizzard.
 <b>Ability One:</b> Justified
@@ -5428,7 +5428,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#648 Meloetta**
 
-![648](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/648.gif)&nbsp;
+![meloetta](../assets/sprites/meloetta/front.gif)
 
 <pre><code><b>Ability One:</b> Serene Grace
 <b>Ability Two:</b> Magic Guard
@@ -5436,7 +5436,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#649 Genesect**
 
-![649](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/649.gif)&nbsp;
+![genesect](../assets/sprites/genesect/front.gif)
 
 <pre><code><b>Ability One:</b> Download
 <b>Ability Two:</b> Download

@@ -1623,7 +1623,8 @@ Hoenn Pokémon
 #269 Dustox
 + Level 10 - Clear Smog
 + Level 10 - Struggle Bug
-+ Level 17 - Reflect, Light Screen
++ Level 17 - Reflect
++ Level 17 - Light Screen
 + Level 49 - Tailwind
 
 

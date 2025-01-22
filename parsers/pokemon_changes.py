@@ -1,12 +1,25 @@
+from dotenv import load_dotenv
 from util.file import load, save
-from util.format import format_animated_sprite, format_id
+from util.format import format_id
+from util.logger import Logger
 import glob
 import json
+import logging
+import os
 
 
 def main():
-    content = load("files/Pokemon Changes.txt")
+    # Load environment variables and logger
+    load_dotenv()
+    LOG = os.getenv("LOG")
+    INPUT_PATH = os.getenv("INPUT_PATH")
+    OUTPUT_PATH = os.getenv("OUTPUT_PATH")
+    LOG_PATH = os.getenv("LOG_PATH")
+    POKEMON_INPUT_PATH = os.getenv("POKEMON_INPUT_PATH")
+    logger = Logger("Pokemon Changes Parser", f"{LOG_PATH}pokemon_changes.log", LOG)
+    content = load(f"{INPUT_PATH}Pokemon Changes.txt", logger)
 
+    # Set up variables
     lines = content.split("\n")
     n = len(lines)
     md = ""
@@ -15,28 +28,35 @@ def main():
     curr_pokemon = None
     pokemon_changes = {}
 
+    # Parse the content
+    logger.log(logging.INFO, "Parsing Pokémon Changes content")
     for i in range(n):
         line = lines[i].strip()
         line = line.replace("", "→")
+        logger.log(logging.DEBUG, f"Processing line {i + 1}/{n}")
 
+        # Empty Lines
         if line == "":
             if listing:
                 md += "</code></pre>\n\n"
                 listing = False
             continue
+        # Pokémon change header
         elif line.startswith("#"):
             md += f"**{line}**\n\n"
             pokemon = line.split(", ")
 
             for p in pokemon:
-                num = p.split(" ")[0][1:].lstrip("0")
-                md += format_animated_sprite(num) + "\n"
+                name = format_id(" ".join(p.split(" ")[1:]))
+                md += f"![{name}](../assets/sprites/{name}/front.gif)\n"
             md += "\n<pre><code>"
 
             curr_pokemon = line
             listing = True
+        # Region header
         elif line.endswith("Pokémon") or line == "Evolution Changes":
             md += f"---\n\n## {line}\n\n"
+        # General change list
         elif line.startswith("The following Pokémon"):
             strs = line.split(": ")
             md += f"**{strs[0]}:**\n\n```\n"
@@ -45,6 +65,7 @@ def main():
             for i, p in enumerate(pokemon):
                 md += f"{i + 1}. {p.rstrip(".")}\n"
             md += "```\n\n"
+        # General change header
         elif listing and ": " in line:
             strs = line.split(": ")
             md += f"<b>{strs[0]}:</b> {strs[1]}\n"
@@ -54,12 +75,15 @@ def main():
                     pokemon_changes[curr_pokemon].append(line)
                 else:
                     pokemon_changes[curr_pokemon] = [line]
+        # Misc changes
         else:
             md += f"{line}\n"
             if not listing:
                 md += "\n"
+    logger.log(logging.INFO, "Pokémon Changes parsed successfully!")
 
     # Update pokemon data
+    logger.log(logging.INFO, "Updating Pokémon data")
     for key in pokemon_changes:
         pokemon = [format_id(p, 1) for p in key.split(", ")]
         lines = pokemon_changes[key]
@@ -187,13 +211,26 @@ def main():
                 new_value = int(parts[1].split(" → ")[1])
                 stats[stat_name] = new_value
 
+        # Update Pokémon data
+        logger.log(logging.DEBUG, f"Updating Pokémon data for {pokemon} with the following changes:")
+        logger.log(logging.DEBUG, f"Items: {items}")
+        logger.log(logging.DEBUG, f"Abilities: {abilities}")
+        logger.log(logging.DEBUG, f"Base Experience: {base_experience}")
+        logger.log(logging.DEBUG, f"Catch Rate: {catch_rate}")
+        logger.log(logging.DEBUG, f"Base Happiness: {base_happiness}")
+        logger.log(logging.DEBUG, f"Evolution: {evolution}")
+        logger.log(logging.DEBUG, f"Types: {types}")
+        logger.log(logging.DEBUG, f"TMs: {tms}")
+        logger.log(logging.DEBUG, f"HMs: {hms}")
+        logger.log(logging.DEBUG, f"Tutor Moves: {tutor_moves}")
+        logger.log(logging.DEBUG, f"Stats: {stats}")
+
         for p in pokemon:
-            file_pattern = f"data/{p}*.json"
+            file_pattern = f"{POKEMON_INPUT_PATH}{p}*.json"
             files = glob.glob(file_pattern)
 
             for file_path in files:
-                with open(file_path, "r") as f:
-                    pokemon_data = json.loads(f.read())
+                pokemon_data = json.loads(load(file_path, logger))
                 moves = pokemon_data["moves"].get("black-white", None)
                 if moves is None:
                     continue
@@ -223,9 +260,10 @@ def main():
                 for stat in stats:
                     pokemon_data["stats"][stat] = stats[stat]
 
-                save(file_path, json.dumps(pokemon_data, indent=4))
+                save(file_path, json.dumps(pokemon_data, indent=4), logger)
+    logger.log(logging.INFO, "Pokémon data updated successfully!")
 
-    save("output/pokemon_changes.md", md)
+    save(f"{OUTPUT_PATH}pokemon_changes.md", md, logger)
 
 
 if __name__ == "__main__":

@@ -723,7 +723,7 @@ Legendary Encounter
 ```
 Regirock, Level 50
 Relic Castle, B5F
-Sand, 1%
+Deep Sand, 1%
 ```
 
 <sub><sup>_The Relic Castle is a place with many ancient secrets sleeping beneath its depths. The arrival of Team Plasma has made two particular members of a trio wake up… but you’ll be lucky to bump into them._</sup></sub>
@@ -733,7 +733,7 @@ Legendary Encounter
 ```
 Registeel, Level 50
 Relic Castle, B5F
-Sand, 1%
+Deep Sand, 1%
 ```
 
 <sub><sup>_The ancient, sandy area is also enjoyed by the tough Registeel, but despite its size, it’s still rare to make contact with it. Why? Who knows; blame it on their legendary powers._</sup></sub>
@@ -743,7 +743,7 @@ Legendary Encounter
 ```
 Regigigas, Level 70
 Relic Castle, Volcarona Room
-Floor, 1%
+Deep Sand, 1%
 ```
 
 <sub><sup>_It’s of little surprise that the king would appear in the same area as the majority of his subjects. The deepest, most valuable room in the castle houses this beast._</sup></sub>
@@ -2043,8 +2043,18 @@ Grass, Special
 Legendary Encounter
 
 ```
-Tornadus, Level 40 (Volt White) / Thundurus, Level 40 (Blaze Black)
-Route 10, Main Route
+Thundurus, Level 40
+Route 10, Main Route, Blaze Black
+Grass, Shaking, 1%
+```
+
+<sub><sup>_While one wreaks havoc with the weather along Unova, the other will await you patiently in Route 10… if you can find it. Luckily, this one won’t run. Don’t let its low level fool you; it can still be quite difficult to capture._</sup></sub>
+
+Legendary Encounter
+
+```
+Tornadus, Level 40
+Route 10, Main Route, Volt White
 Grass, Shaking, 1%
 ```
 
@@ -2236,9 +2246,15 @@ Cave, Normal, 1%
 Legendary Encounter
 
 ```
-Reshiram (Blaze Black) / Zekrom (Volt White)
-Level 70
-N’s Castle
+Reshiram, Level 70
+N’s Castle, Blaze Black
+```
+
+Legendary Encounter
+
+```
+Zekrom, Level 70
+N’s Castle, Volt White
 ```
 
 ---
@@ -2689,8 +2705,18 @@ Grass, Doubles, 1%
 Legendary Encounter
 
 ```
-Reshiram, Level 70 (Volt White) / Zekrom, Level 70 (Blaze Black)
-Giant Chasm, Inside Plains
+Zekrom, Level 70
+Giant Chasm, Inside Plains, Blaze Black
+Grass, Doubles, 1%
+```
+
+<sub><sup>_The remaining Tao dragon also appears, having split off from N and returning to greet the third member of its trio. You might be able to find it, if you’re lucky…_</sup></sub>
+
+Legendary Encounter
+
+```
+Reshiram, Level 70
+Giant Chasm, Inside Plains, Volt White
 Grass, Doubles, 1%
 ```
 

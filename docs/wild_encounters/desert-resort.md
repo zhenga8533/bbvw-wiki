@@ -8,14 +8,14 @@
 
 | Sprite | Pokémon | Encounter Type | Chance |
 | :---: | --- | :---: | --- |
-| ![sandile](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/551.gif) | [Sandile](../pokemon/sandile.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 20% |
-| ![sandshrew](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/27.gif) | [Sandshrew](../pokemon/sandshrew.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 20% |
-| ![darumaka](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/554.gif) | [Darumaka](../pokemon/darumaka.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 10% |
-| ![scraggy](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/559.gif) | [Scraggy](../pokemon/scraggy.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 10% |
-| ![cacnea](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/331.gif) | [Cacnea](../pokemon/cacnea.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 10% |
-| ![dwebble](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/557.gif) | [Dwebble](../pokemon/dwebble.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 10% |
-| ![baltoy](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/343.gif) | [Baltoy](../pokemon/baltoy.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 10% |
-| ![trapinch](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/328.gif) | [Trapinch](../pokemon/trapinch.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 10%
+| ![sandile](../assets/sprites/sandile/front.gif) | [Sandile](../pokemon/sandile.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 20% |
+| ![sandshrew](../assets/sprites/sandshrew/front.gif) | [Sandshrew](../pokemon/sandshrew.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 20% |
+| ![darumaka](../assets/sprites/darumaka/front.gif) | [Darumaka](../pokemon/darumaka.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 10% |
+| ![scraggy](../assets/sprites/scraggy/front.gif) | [Scraggy](../pokemon/scraggy.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 10% |
+| ![cacnea](../assets/sprites/cacnea/front.gif) | [Cacnea](../pokemon/cacnea.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 10% |
+| ![dwebble](../assets/sprites/dwebble/front.gif) | [Dwebble](../pokemon/dwebble.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 10% |
+| ![baltoy](../assets/sprites/baltoy/front.gif) | [Baltoy](../pokemon/baltoy.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 10% |
+| ![trapinch](../assets/sprites/trapinch/front.gif) | [Trapinch](../pokemon/trapinch.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 10%
 
 ---
 
@@ -25,21 +25,19 @@
 
 | Sprite | Pokémon | Encounter Type | Chance |
 | :---: | --- | :---: | --- |
-| ![trapinch](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/328.gif) | [Trapinch](../pokemon/trapinch.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 20% |
-| ![darumaka](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/554.gif) | [Darumaka](../pokemon/darumaka.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 20% |
-| ![cacnea](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/331.gif) | [Cacnea](../pokemon/cacnea.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 10% |
-| ![hippopotas](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/449.gif) | [Hippopotas](../pokemon/hippopotas.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 10% |
-| ![gligar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/207.gif) | [Gligar](../pokemon/gligar.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 10% |
-| ![dwebble](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/557.gif) | [Dwebble](../pokemon/dwebble.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 10% |
-| ![maractus](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/556.gif) | [Maractus](../pokemon/maractus.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 5% |
-| ![sigilyph](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/561.gif) | [Sigilyph](../pokemon/sigilyph.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 5% |
-| ![skarmory](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/227.gif) | [Skarmory](../pokemon/skarmory.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 5% |
-| ![mandibuzz](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/630.gif) | [Mandibuzz](../pokemon/mandibuzz.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 5% |
+| ![trapinch](../assets/sprites/trapinch/front.gif) | [Trapinch](../pokemon/trapinch.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 20% |
+| ![darumaka](../assets/sprites/darumaka/front.gif) | [Darumaka](../pokemon/darumaka.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 20% |
+| ![cacnea](../assets/sprites/cacnea/front.gif) | [Cacnea](../pokemon/cacnea.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 10% |
+| ![hippopotas](../assets/sprites/hippopotas/front.gif) | [Hippopotas](../pokemon/hippopotas.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 10% |
+| ![gligar](../assets/sprites/gligar/front.gif) | [Gligar](../pokemon/gligar.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 10% |
+| ![dwebble](../assets/sprites/dwebble/front.gif) | [Dwebble](../pokemon/dwebble.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 10% |
+| ![maractus](../assets/sprites/maractus/front.gif) | [Maractus](../pokemon/maractus.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 5% |
+| ![sigilyph](../assets/sprites/sigilyph/front.gif) | [Sigilyph](../pokemon/sigilyph.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 5% |
+| ![skarmory](../assets/sprites/skarmory/front.gif) | [Skarmory](../pokemon/skarmory.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 5% |
+| ![mandibuzz](../assets/sprites/mandibuzz/front.gif) | [Mandibuzz](../pokemon/mandibuzz.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 5% |
 
----
-
-## Special Encounter
+### Special Encounter
 
 | Sprite | Pokémon | Level | Encounter Type | Location | Chance |
 | :---: | --- | --- | :---: | --- | --- |
-| ![darmanitan]() | Darmanitan | Level 35 | Set | Desert Resort | – |
+| ![darmanitan](../assets/sprites/darmanitan/front.gif) | Darmanitan | Level 35 | Set | Desert Resort | – |

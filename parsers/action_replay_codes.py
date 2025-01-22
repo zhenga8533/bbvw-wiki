@@ -7,9 +7,13 @@ import os
 
 def main():
     # Load environment variables and logger
+    load_dotenv()
     LOG = os.getenv("LOG")
-    logger = Logger("Action Replay Codes Parser", "logs/action_replay_codes.log", LOG)
-    content = load("files/Action Replay Codes.txt", logger)
+    INPUT_PATH = os.getenv("INPUT_PATH")
+    OUTPUT_PATH = os.getenv("OUTPUT_PATH")
+    LOG_PATH = os.getenv("LOG_PATH")
+    logger = Logger("Action Replay Codes Parser", f"{LOG_PATH}action_replay_codes.log", LOG)
+    content = load(f"{INPUT_PATH}Action Replay Codes.txt", logger)
 
     # Set up variables
     lines = content.split("\n")
@@ -34,7 +38,7 @@ def main():
         line = lines[i].strip()
         logger.log(logging.DEBUG, f"Processing line {i + 1}/{n}")
 
-        # Empty Line
+        # Empty Lines
         if line == "":
             code_name = code_data["name"]
             if code_data["name"] is not None:
@@ -70,7 +74,7 @@ def main():
         # Misc lines
         else:
             md += line + "\n\n"
-    logger.log(logging.INFO, "Action Replay Code content parsed successfully")
+    logger.log(logging.INFO, "Action Replay Code content parsed successfully!")
 
     # Save the parsed content
     md += "---\n\n## Game IDs\n\n"
@@ -93,9 +97,8 @@ def main():
         md += "|-------------|------------|\n"
         md += f"| <pre>{code_bb}</pre> | <pre>{code_vw}</pre> |\n\n"
 
-    save("output/action_replay_codes.md", md, logger)
+    save(f"{OUTPUT_PATH}action_replay_codes.md", md, logger)
 
 
 if __name__ == "__main__":
-    load_dotenv()
     main()

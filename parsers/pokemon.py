@@ -1,16 +1,22 @@
-from util.file import save
+from dotenv import load_dotenv
+from util.file import load, save
 from util.format import create_image_table
+from util.logger import Logger
 import glob
 import json
+import logging
+import os
 import requests
 
 
 def parse_evolution_line(evolution, pokemon_set, level=1, index=1):
+    POKEMON_INPUT_PATH = os.getenv("POKEMON_INPUT_PATH")
     names = [evolution["name"]]
+
     for name in names[:]:
         if name not in pokemon_set:
             names.remove(name)
-            file_pattern = f"data/{name}*.json"
+            file_pattern = f"{POKEMON_INPUT_PATH}{name}*.json"
             files = glob.glob(file_pattern)
 
             for file_path in files:
@@ -44,77 +50,8 @@ def calculate_stat(base: int, iv: int, ev: int, level: int, nature: float) -> in
     return int((((2 * base + iv + ev // 4) * level) // 100 + 5) * nature)
 
 
-def to_md(pokemon: dict, pokemon_set: dict) -> str:
-    # Basic information
-    pokemon_name = pokemon["name"].replace("-", " ").title()
-    md = f"# #{pokemon["id"]:03} {pokemon_name} ({pokemon["genus"]})\n\n"
-
-    # Add official artwork
-    official_artwork = pokemon["sprites"]["other"]["official-artwork"]
-    md += create_image_table(
-        ["Official Artwork", "Shiny Artwork"], [official_artwork["front_default"], official_artwork["front_shiny"]]
-    )
-
-    # Add flavor text
-    flavor_text_entries = pokemon["flavor_text_entries"]
-    if "black" in flavor_text_entries and "white" in flavor_text_entries:
-        black_flavor_text = flavor_text_entries["black"].replace("\n", " ")
-        white_flavor_text = flavor_text_entries["white"].replace("\n", " ")
-        if black_flavor_text == white_flavor_text:
-            md += f"{black_flavor_text}\n\n"
-        else:
-            md += f"**Blaze Black:** {black_flavor_text}\n\n"
-            md += f"**Volt White:** {white_flavor_text}\n\n"
-    else:
-        flavor_text_keys = list(flavor_text_entries.keys())
-        md += f"{flavor_text_entries[flavor_text_keys[-1]].replace('\n', ' ')}\n\n"
-
-    # Add animated sprites
-    sprites = pokemon["sprites"]["versions"]["generation-v"]["black-white"]
-    animated = sprites["animated"]
-    front_sprite = animated["front_default"] or sprites["front_default"]
-    back_sprite = animated["back_default"] or sprites["back_default"]
-    shiny_front_sprite = animated["front_shiny"] or sprites["front_shiny"]
-    shiny_back_sprite = animated["back_shiny"] or sprites["back_shiny"]
-    sprite_exists = front_sprite or back_sprite or shiny_front_sprite or shiny_back_sprite
-
-    md += "---\n\n## Media\n\n"
-    md += "### Sprites\n\n"
-    if not sprite_exists:
-        md += f"{pokemon_name} has no sprites available in Blaze Black/Volt White.\n\n"
-    else:
-        md += create_image_table(
-            ["Front", "Back", "Shiny Front", "Shiny Back"],
-            [front_sprite, back_sprite, shiny_front_sprite, shiny_back_sprite],
-        )
-
-    # Cries
-    md += "### Cries\n\n"
-    md += "Latest (Gen VI+):\n<p><audio controls>\n"
-    md += f"  <source src=\"{pokemon['cry_latest']}\" type=\"audio/ogg\">\n"
-    md += "  Your browser does not support the audio element.\n"
-    md += "</audio></p>\n\n"
-    md += "Legacy:\n<p><audio controls>\n"
-    md += f"  <source src=\"{pokemon['cry_legacy']}\" type=\"audio/ogg\">\n"
-    md += "  Your browser does not support the audio element.\n"
-    md += "</audio></p>\n\n"
-
-    # Pokédex data
-    md += "---\n\n## Pokédex Data\n\n"
-    md += f"| National № | Type(s) | Height | Weight | Abilities | Local № |\n"
-    md += f"|------------|---------|--------|--------|-----------|---------|\n"
-    md += f"| #{pokemon["id"]} "
-    md += f"| {" ".join([f"![{t}](../assets/types/{t}.png){{: width='48'}}" for t in pokemon["types"]])} "
-    md += f"| {pokemon["height"]} m "
-    md += f"| {pokemon["weight"]} kg "
-    md += (
-        f"| {"<br>".join([f"{i + 1}. {ability["name"].title()}" for i, ability in enumerate(pokemon["abilities"])])} "
-    )
-    md += f"| #{pokemon["pokedex_numbers"].get("original-unova", "N/A")} |\n\n"
-
-    # Stats
-    md += "---\n\n## Base Stats\n"
-    stats = pokemon["stats"]
+def parse_stats(stats: dict) -> str:
+    md = "---\n\n## Base Stats\n"
     hp = stats["hp"]
     attack = stats["attack"]
     defense = stats["defense"]
@@ -141,6 +78,141 @@ def to_md(pokemon: dict, pokemon_set: dict) -> str:
     md += "The ranges shown above are for a level 100 Pokémon. "
     md += "Maximum values are based on a beneficial nature, 252 EVs, 31 IVs; "
     md += "minimum values are based on a hindering nature, 0 EVs, 0 IVs.\n\n"
+
+    return md
+
+
+def parse_moves(moves: list, headers: list, move_key: str, logger: Logger) -> str:
+    MOVES_PATH = os.getenv("MOVES_PATH")
+
+    md_header = " | ".join(headers).strip()
+    md_separator = " | ".join(["---"] * len(headers)).strip()
+    md_body = ""
+
+    for move in moves:
+        move_data = json.loads(load(f"{MOVES_PATH}{move['name']}.json", logger))
+        for category in headers:
+            if category == "Lv.":
+                md_body += f"| {move["level_learned_at"]} "
+            elif category == "TM":
+                md_body += f"| {move_data["machines"][move_key].upper()} "
+            elif category == "Move":
+                md_body += f"| {move_data["name"].replace("-", " ").title()} "
+            elif category == "Type":
+                md_body += f"| ![{move_data["type"]}](../assets/types/{move_data["type"]}.png){{: width='48'}} "
+            elif category == "Cat.":
+                md_body += f"| ![{move_data["damage_class"]}](../assets/move_category/{move_data["damage_class"]}.png){{: width='36'}} "
+            elif category == "Power":
+                md_body += f"| {move_data["power"] or "—"} "
+            elif category == "Acc.":
+                md_body += f"| {move_data["accuracy"] or "—"} "
+            elif category == "PP":
+                md_body += f"| {move_data["pp"]} "
+        md_body += "|\n"
+
+    return f"{md_header}\n{md_separator}\n{md_body}\n"
+
+
+def to_md(pokemon: dict, pokemon_set: dict, logger: Logger) -> str:
+    # Basic information
+    pokemon_name = pokemon["name"].replace("-", " ").title()
+    pokemon_id = pokemon["id"]
+    md = f"# #{pokemon["id"]:03} {pokemon_name} ({pokemon["genus"]})\n\n"
+
+    # Add official artwork
+    md += create_image_table(
+        ["Official Artwork", "Shiny Artwork"],
+        [[f"../assets/sprites/{pokemon_id}/official.png", f"../assets/sprites/{pokemon_id}/shiny.png"]],
+        logger,
+    )
+
+    # Add flavor text
+    flavor_text_entries = pokemon["flavor_text_entries"]
+    if "black" in flavor_text_entries and "white" in flavor_text_entries:
+        black_flavor_text = flavor_text_entries["black"].replace("\n", " ")
+        white_flavor_text = flavor_text_entries["white"].replace("\n", " ")
+        if black_flavor_text == white_flavor_text:
+            md += f"{black_flavor_text}\n\n"
+        else:
+            md += f"**Blaze Black:** {black_flavor_text}\n\n"
+            md += f"**Volt White:** {white_flavor_text}\n\n"
+    else:
+        flavor_text_keys = list(flavor_text_entries.keys())
+        md += f"{flavor_text_entries[flavor_text_keys[-1]].replace('\n', ' ')}\n\n"
+
+    # Add sprites
+    md += "---\n\n## Media\n\n"
+    md += "### Sprites\n\n"
+    image_headers = ["Front", "Back", "Front Shiny", "Back Shiny"]
+
+    image_table = create_image_table(
+        image_headers,
+        [
+            [
+                f"../assets/sprites/{pokemon_id}/front.gif",
+                f"../assets/sprites/{pokemon_id}/back.gif",
+                f"../assets/sprites/{pokemon_id}/front_shiny.gif",
+                f"../assets/sprites/{pokemon_id}/back_shiny.gif",
+            ],
+            [
+                f"../assets/sprites/{pokemon_id}/front.png",
+                f"../assets/sprites/{pokemon_id}/back.png",
+                f"../assets/sprites/{pokemon_id}/front_shiny.png",
+                f"../assets/sprites/{pokemon_id}/back_shiny.png",
+            ],
+        ],
+        logger,
+    )
+    md += image_table
+
+    md += "### Female Sprites\n\n"
+    image_table = create_image_table(
+        image_headers,
+        [
+            [
+                f"../assets/sprites/{pokemon_id}/front_female.gif",
+                f"../assets/sprites/{pokemon_id}/back_female.gif",
+                f"../assets/sprites/{pokemon_id}/front_shiny_female.gif",
+                f"../assets/sprites/{pokemon_id}/back_shiny_female.gif",
+            ],
+            [
+                f"../assets/sprites/{pokemon_id}/front_female.png",
+                f"../assets/sprites/{pokemon_id}/back_female.png",
+                f"../assets/sprites/{pokemon_id}/front_shiny_female.png",
+                f"../assets/sprites/{pokemon_id}/back_shiny_female.png",
+            ],
+        ],
+        logger,
+    )
+
+    # Cries
+    md += "### Cries\n\n"
+    md += "Latest (Gen VI+):\n<p><audio controls>\n"
+    md += f"  <source src='../assets/cries/{pokemon_id}/latest.ogg' type='audio/ogg'>\n"
+    md += "  Your browser does not support the audio element.\n"
+    md += "</audio></p>\n\n"
+    md += "Legacy:\n<p><audio controls>\n"
+    md += f"  <source src='../assets/cries/{pokemon_id}/legacy.ogg' type='audio/ogg'>\n"
+    md += "  Your browser does not support the audio element.\n"
+    md += "</audio></p>\n\n"
+
+    # Pokédex data
+    md += "---\n\n## Pokédex Data\n\n"
+    md += f"| National № | Type(s) | Height | Weight | Abilities | Local № |\n"
+    md += f"|------------|---------|--------|--------|-----------|---------|\n"
+    md += f"| #{pokemon["id"]} "
+    md += f"| {" ".join([f"![{t}](../assets/types/{t}.png){{: width='48'}}" for t in pokemon["types"]])} "
+    md += f"| {pokemon["height"]} m "
+    md += f"| {pokemon["weight"]} kg "
+    md += (
+        f"| {"<br>".join([f"{i + 1}. {ability["name"].title()}" for i, ability in enumerate(pokemon["abilities"])])} "
+    )
+    md += f"| #{pokemon["pokedex_numbers"].get("original-unova", "N/A")} |\n\n"
+
+    # Stats
+    md += "---\n\n## Base Stats\n"
+    stats = pokemon["stats"]
+    md += parse_stats(stats)
 
     # Forms
     md += "---\n\n## Forms & Evolutions\n\n"
@@ -239,19 +311,7 @@ def to_md(pokemon: dict, pokemon_set: dict) -> str:
         md += f"{pokemon_name} cannot learn any moves by leveling up.\n"
     else:
         level_up_moves.sort(key=lambda x: (x["level_learned_at"], x["name"]))
-        md += "| Lv. | Move | Type | Cat. | Power | Acc. | PP |\n"
-        md += "|-----|------|------|------|-------|------|----|\n"
-        for move in level_up_moves:
-            with open(f"moves/{move["name"]}.json", "r") as file:
-                move_data = json.load(file)
-            md += f"| {move["level_learned_at"]} "
-            md += f"| {move["name"].replace("-", " ").title()} "
-            md += f"| ![{move_data["type"]}](../assets/types/{move_data["type"]}.png){{: width='48'}} "
-            md += f"| ![{move_data["damage_class"]}](../assets/move_category/{move_data["damage_class"]}.png){{: width='36'}} "
-            md += f"| {move_data["power"] or "—"} "
-            md += f"| {move_data["accuracy"] or "—"} "
-            md += f"| {move_data["pp"]} |\n"
-    md += "\n"
+        md += parse_moves(level_up_moves, ["Lv.", "Move", "Type", "Cat.", "Power", "Acc.", "PP"], move_key, logger)
 
     # TM Moves
     md += "### TM Moves\n\n"
@@ -260,74 +320,59 @@ def to_md(pokemon: dict, pokemon_set: dict) -> str:
     else:
         tm_moves_data = []
         for move in tm_moves:
-            with open(f"moves/{move["name"]}.json", "r") as file:
-                move_data = json.load(file)
+            move_data = json.loads(load(f"moves/{move['name']}.json", logger))
             tm_moves_data.append(move_data)
         tm_moves_data.sort(key=lambda x: x["machines"][move_key])
-
-        md += "| TM | Move | Type | Cat. | Power | Acc. | PP |\n"
-        md += "|----|------|------|------|-------|------|----|\n"
-        for move in tm_moves_data:
-            md += f"| {move["machines"][move_key].upper()} "
-            md += f"| {move["name"].replace("-", " ").title()} "
-            md += f"| ![{move["type"]}](../assets/types/{move["type"]}.png){{: width='48'}} "
-            md += f"| ![{move["damage_class"]}](../assets/move_category/{move_data["damage_class"]}.png){{: width='36'}} "
-            md += f"| {move["power"] or "—"} "
-            md += f"| {move["accuracy"] or "—"} "
-            md += f"| {move["pp"]} |\n"
-    md += "\n"
+        md += parse_moves(tm_moves_data, ["TM", "Move", "Type", "Cat.", "Power", "Acc.", "PP"], move_key, logger)
 
     # Egg Moves
     md += "### Egg Moves\n\n"
     if len(egg_moves) == 0:
         md += f"{pokemon_name} cannot learn any moves by breeding.\n"
     else:
-        md += "| Move | Type | Cat. | Power | Acc. | PP |\n"
-        md += "|------|------|------|-------|------|----|\n"
-        for move in egg_moves:
-            with open(f"moves/{move["name"]}.json", "r") as file:
-                move_data = json.load(file)
-            md += f"| {move["name"].replace("-", " ").title()} "
-            md += f"| ![{move_data["type"]}](../assets/types/{move_data["type"]}.png){{: width='48'}} "
-            md += f"| ![{move_data["damage_class"]}](../assets/move_category/{move_data["damage_class"]}.png){{: width='36'}} "
-            md += f"| {move_data["power"] or "—"} "
-            md += f"| {move_data["accuracy"] or "—"} "
-            md += f"| {move_data["pp"]} |\n"
-    md += "\n"
+        md += parse_moves(egg_moves, ["Move", "Type", "Cat.", "Power", "Acc.", "PP"], move_key, logger)
 
     # Tutor Moves
     md += "### Tutor Moves\n\n"
     if len(tutor_moves) == 0:
         md += f"{pokemon_name} cannot learn any moves from tutors.\n"
     else:
-        md += "| Move | Type | Cat. | Power | Acc. | PP |\n"
-        md += "|------|------|------|-------|------|----|\n"
-        for move in tutor_moves:
-            with open(f"moves/{move["name"]}.json", "r") as file:
-                move_data = json.load(file)
-            md += f"| {move["name"].replace("-", " ").title()} "
-            md += f"| ![{move_data["type"]}](../assets/types/{move_data["type"]}.png){{: width='48'}} "
-            md += f"| ![{move_data["damage_class"]}](../assets/move_category/{move_data["damage_class"]}.png){{: width='36'}} "
-            md += f"| {move_data["power"] or "—"} "
-            md += f"| {move_data["accuracy"] or "—"} "
-            md += f"| {move_data["pp"]} |\n"
-    md += "\n"
+        md += parse_moves(tutor_moves, ["Move", "Type", "Cat.", "Power", "Acc.", "PP"], move_key, logger)
 
     return md
 
 
 def main():
-    try:
-        pokedex = requests.get("https://pokeapi.co/api/v2/pokemon/?offset=0&limit=649", timeout=5).json()["results"]
-    except requests.exceptions.RequestException:
-        print("Failed to fetch Pokémon data from PokéAPI.")
+    # Load environment variables and logger
+    load_dotenv()
+    LOG = os.getenv("LOG")
+    TIMEOUT = int(os.getenv("TIMEOUT"))
+    LOG_PATH = os.getenv("LOG_PATH")
+    OUTPUT_PATH = os.getenv("OUTPUT_PATH")
+    POKEMON_INPUT_PATH = os.getenv("POKEMON_INPUT_PATH")
+    POKEMON_OUTPUT_PATH = os.getenv("POKEMON_OUTPUT_PATH")
+    logger = Logger("Pokémon Parser", f"{LOG_PATH}pokemon.log", LOG)
 
+    # Fetch Pokémon data from PokéAPI
+    try:
+        logger.log(logging.INFO, "Fetching Pokémon data from PokéAPI")
+        pokedex = requests.get("https://pokeapi.co/api/v2/pokemon/?offset=0&limit=649", timeout=TIMEOUT).json()[
+            "results"
+        ]
+        logger.log(logging.INFO, "Successfully fetched Pokémon data from PokéAPI")
+    except requests.exceptions.RequestException:
+        logger.log(logging.ERROR, "Failed to fetch Pokémon data from PokéAPI")
+        exit(1)
+
+    # Fetch all valid Pokémon paths
+    logger.log(logging.INFO, "Fetching all valid Pokémon paths")
     pokemon_set = set()
     species = []
     forms = []
+
     for pokemon in pokedex:
         name = pokemon["name"]
-        file_pattern = f"data/{name.split("-")[0]}*.json"
+        file_pattern = f"{POKEMON_INPUT_PATH}{name.split("-")[0]}*.json"
         files = glob.glob(file_pattern)
 
         for file_path in files:
@@ -338,11 +383,15 @@ def main():
                 species.append(new_name)
             else:
                 forms.append(new_name)
+
+    # Remove duplicate forms
     for form in forms[:]:
         if form in species:
             forms.remove(form)
+    logger.log(logging.INFO, "Successfully fetched all valid Pokémon paths")
 
     # Generate nav for mkdocs.yml
+    logger.log(logging.INFO, "Generating Pokémon navigation")
     generations = ["Kanto", "Johto", "Hoenn", "Sinnoh", "Unova"]
     pokedex_start = [0, 151, 251, 386, 493]
     nav = ""
@@ -352,27 +401,26 @@ def main():
             nav += f"      - {generations[pokedex_start.index(i)]}:\n"
 
         clean_name = name.replace("-", " ").title()
-        nav += f'          - "#{f"{i + 1:03}"} {clean_name}": pokemon/{name}.md\n'
+        nav += f'          - "#{f"{i + 1:03}"} {clean_name}": {POKEMON_OUTPUT_PATH}{name}.md\n'
     nav += f"      - Pokémon Forms:\n"
     for name in forms:
         clean_name = name.replace("-", " ").title()
-        nav += f"          - {clean_name}: pokemon/{name}.md\n"
+        nav += f"          - {clean_name}: {POKEMON_OUTPUT_PATH}{name}.md\n"
 
-    save("output/pokemon_nav.md", nav)
-    exit(0)
+    logger.log(logging.INFO, "Successfully generated Pokémon navigation")
+    save(f"{OUTPUT_PATH}pokemon_nav.md", nav, logger)
 
     # Generate markdown files for each Pokémon
+    logger.log(logging.INFO, "Generating markdown files for each Pokémon")
     for pokemon in pokedex:
         name = pokemon["name"]
-        file_pattern = f"data/{name.split("-")[0]}*.json"
+        file_pattern = f"{POKEMON_INPUT_PATH}{name.split("-")[0]}*.json"
         files = glob.glob(file_pattern)
 
         for file_path in files:
-            with open(file_path, "r") as file:
-                data = json.load(file)
-
-            md = to_md(data, pokemon_set)
-            save(f"pokemon/{data["name"]}.md", md)
+            data = json.loads(load(file_path, logger))
+            md = to_md(data, pokemon_set, logger)
+            save(f"{POKEMON_OUTPUT_PATH}{data["name"]}.md", md, logger)
 
 
 if __name__ == "__main__":
