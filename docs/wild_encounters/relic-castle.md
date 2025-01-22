@@ -52,7 +52,7 @@
 | ![claydol](../assets/sprites/claydol/front.gif) | [Claydol](../pokemon/claydol.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 10% |
 | ![sigilyph](../assets/sprites/sigilyph/front.gif) | [Sigilyph](../pokemon/sigilyph.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 5% |
 | ![crustle](../assets/sprites/crustle/front.gif) | [Crustle](../pokemon/crustle.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 5% |
-| ![darmanitan](../assets/sprites/darmanitan/front.gif) | [Darmanitan](../pokemon/darmanitan.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 5% |
+| ![darmanitan-standard](../assets/sprites/darmanitan-standard/front.gif) | [Darmanitan](../pokemon/darmanitan-standard.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 5% |
 | ![camerupt](../assets/sprites/camerupt/front.gif) | [Camerupt](../pokemon/camerupt.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 5%
 
 ---
@@ -71,7 +71,7 @@
 | ![claydol](../assets/sprites/claydol/front.gif) | [Claydol](../pokemon/claydol.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 10% |
 | ![sigilyph](../assets/sprites/sigilyph/front.gif) | [Sigilyph](../pokemon/sigilyph.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 5% |
 | ![crustle](../assets/sprites/crustle/front.gif) | [Crustle](../pokemon/crustle.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 5% |
-| ![darmanitan](../assets/sprites/darmanitan/front.gif) | [Darmanitan](../pokemon/darmanitan.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 5% |
+| ![darmanitan-standard](../assets/sprites/darmanitan-standard/front.gif) | [Darmanitan](../pokemon/darmanitan-standard.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 5% |
 | ![camerupt](../assets/sprites/camerupt/front.gif) | [Camerupt](../pokemon/camerupt.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 5%
 
 ---

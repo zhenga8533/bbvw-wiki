@@ -40,4 +40,4 @@
 
 | Sprite | Pokémon | Level | Encounter Type | Location | Chance |
 | :---: | --- | --- | :---: | --- | --- |
-| ![darmanitan](../assets/sprites/darmanitan/front.gif) | Darmanitan | Level 35 | Set | Desert Resort | – |
+| ![darmanitan-standard](../assets/sprites/darmanitan-standard/front.gif) | Darmanitan | Level 35 | Set | Desert Resort | – |

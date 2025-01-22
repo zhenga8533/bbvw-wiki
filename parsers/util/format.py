@@ -54,6 +54,8 @@ def fix_pokemon_id(pokemon_id: str) -> str:
         "tornadus": "tornadus-incarnate",
         "thundurus": "thundurus-incarnate",
         "landorus": "landorus-incarnate",
+        "giratina": "giratina-altered",
+        "wormadam": "wormadam-plant",
     }
 
     if pokemon_id in fix_map:

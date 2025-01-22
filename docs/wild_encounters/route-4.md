@@ -14,35 +14,35 @@
 | ![hippopotas](../assets/sprites/hippopotas/front.gif) | [Hippopotas](../pokemon/hippopotas.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 5% |
 | ![elgyem](../assets/sprites/elgyem/front.gif) | [Elgyem](../pokemon/elgyem.md/) | ![Deep Sand](../assets/encounter_types/deep_sand.png){: style='max-width: 24px;' } | 5%
 
-### Surf, Normal
+### Surfing
 
 | Sprite | Pokémon | Encounter Type | Chance |
 | :---: | --- | :---: | --- |
-| ![frillish](../assets/sprites/frillish/front.gif) | [Frillish](../pokemon/frillish.md/) | ![Surf, Normal](../assets/encounter_types/surf_normal.png){: style='max-width: 24px;' } | 60% |
-| ![clamperl](../assets/sprites/clamperl/front.gif) | [Clamperl](../pokemon/clamperl.md/) | ![Surf, Normal](../assets/encounter_types/surf_normal.png){: style='max-width: 24px;' } | 30% |
-| ![relicanth](../assets/sprites/relicanth/front.gif) | [Relicanth](../pokemon/relicanth.md/) | ![Surf, Normal](../assets/encounter_types/surf_normal.png){: style='max-width: 24px;' } | 10%
+| ![frillish](../assets/sprites/frillish/front.gif) | [Frillish](../pokemon/frillish.md/) | ![Surfing](../assets/encounter_types/surfing.png){: style='max-width: 24px;' } | 60% |
+| ![clamperl](../assets/sprites/clamperl/front.gif) | [Clamperl](../pokemon/clamperl.md/) | ![Surfing](../assets/encounter_types/surfing.png){: style='max-width: 24px;' } | 30% |
+| ![relicanth](../assets/sprites/relicanth/front.gif) | [Relicanth](../pokemon/relicanth.md/) | ![Surfing](../assets/encounter_types/surfing.png){: style='max-width: 24px;' } | 10%
 
-### Surf, Special
-
-| Sprite | Pokémon | Encounter Type | Chance |
-| :---: | --- | :---: | --- |
-| ![jellicent](../assets/sprites/jellicent/front.gif) | [Jellicent](../pokemon/jellicent.md/) | ![Surf, Special](../assets/encounter_types/surf_special.png){: style='max-width: 24px;' } | 60% |
-| ![relicanth](../assets/sprites/relicanth/front.gif) | [Relicanth](../pokemon/relicanth.md/) | ![Surf, Special](../assets/encounter_types/surf_special.png){: style='max-width: 24px;' } | 30% |
-| ![huntail](../assets/sprites/huntail/front.gif) | [Huntail](../pokemon/huntail.md/) | ![Surf, Special](../assets/encounter_types/surf_special.png){: style='max-width: 24px;' } | 5% |
-| ![gorebyss](../assets/sprites/gorebyss/front.gif) | [Gorebyss](../pokemon/gorebyss.md/) | ![Surf, Special](../assets/encounter_types/surf_special.png){: style='max-width: 24px;' } | 5%
-
-### Fish, Normal
+### Rippling Surfing
 
 | Sprite | Pokémon | Encounter Type | Chance |
 | :---: | --- | :---: | --- |
-| ![krabby](../assets/sprites/krabby/front.gif) | [Krabby](../pokemon/krabby.md/) | ![Fish, Normal](../assets/encounter_types/fish_normal.png){: style='max-width: 24px;' } | 60% |
-| ![corphish](../assets/sprites/corphish/front.gif) | [Corphish](../pokemon/corphish.md/) | ![Fish, Normal](../assets/encounter_types/fish_normal.png){: style='max-width: 24px;' } | 30% |
-| ![clamperl](../assets/sprites/clamperl/front.gif) | [Clamperl](../pokemon/clamperl.md/) | ![Fish, Normal](../assets/encounter_types/fish_normal.png){: style='max-width: 24px;' } | 10%
+| ![jellicent](../assets/sprites/jellicent/front.gif) | [Jellicent](../pokemon/jellicent.md/) | ![Rippling Surfing](../assets/encounter_types/rippling_surfing.png){: style='max-width: 24px;' } | 60% |
+| ![relicanth](../assets/sprites/relicanth/front.gif) | [Relicanth](../pokemon/relicanth.md/) | ![Rippling Surfing](../assets/encounter_types/rippling_surfing.png){: style='max-width: 24px;' } | 30% |
+| ![huntail](../assets/sprites/huntail/front.gif) | [Huntail](../pokemon/huntail.md/) | ![Rippling Surfing](../assets/encounter_types/rippling_surfing.png){: style='max-width: 24px;' } | 5% |
+| ![gorebyss](../assets/sprites/gorebyss/front.gif) | [Gorebyss](../pokemon/gorebyss.md/) | ![Rippling Surfing](../assets/encounter_types/rippling_surfing.png){: style='max-width: 24px;' } | 5%
 
-### Fish, Special
+### Fishing
 
 | Sprite | Pokémon | Encounter Type | Chance |
 | :---: | --- | :---: | --- |
-| ![clamperl](../assets/sprites/clamperl/front.gif) | [Clamperl](../pokemon/clamperl.md/) | ![Fish, Special](../assets/encounter_types/fish_special.png){: style='max-width: 24px;' } | 60% |
-| ![frillish](../assets/sprites/frillish/front.gif) | [Frillish](../pokemon/frillish.md/) | ![Fish, Special](../assets/encounter_types/fish_special.png){: style='max-width: 24px;' } | 30% |
-| ![relicanth](../assets/sprites/relicanth/front.gif) | [Relicanth](../pokemon/relicanth.md/) | ![Fish, Special](../assets/encounter_types/fish_special.png){: style='max-width: 24px;' } | 10% |
+| ![krabby](../assets/sprites/krabby/front.gif) | [Krabby](../pokemon/krabby.md/) | ![Fishing](../assets/encounter_types/fishing.png){: style='max-width: 24px;' } | 60% |
+| ![corphish](../assets/sprites/corphish/front.gif) | [Corphish](../pokemon/corphish.md/) | ![Fishing](../assets/encounter_types/fishing.png){: style='max-width: 24px;' } | 30% |
+| ![clamperl](../assets/sprites/clamperl/front.gif) | [Clamperl](../pokemon/clamperl.md/) | ![Fishing](../assets/encounter_types/fishing.png){: style='max-width: 24px;' } | 10%
+
+### Rippling Fishing
+
+| Sprite | Pokémon | Encounter Type | Chance |
+| :---: | --- | :---: | --- |
+| ![clamperl](../assets/sprites/clamperl/front.gif) | [Clamperl](../pokemon/clamperl.md/) | ![Rippling Fishing](../assets/encounter_types/rippling_fishing.png){: style='max-width: 24px;' } | 60% |
+| ![frillish](../assets/sprites/frillish/front.gif) | [Frillish](../pokemon/frillish.md/) | ![Rippling Fishing](../assets/encounter_types/rippling_fishing.png){: style='max-width: 24px;' } | 30% |
+| ![relicanth](../assets/sprites/relicanth/front.gif) | [Relicanth](../pokemon/relicanth.md/) | ![Rippling Fishing](../assets/encounter_types/rippling_fishing.png){: style='max-width: 24px;' } | 10% |
