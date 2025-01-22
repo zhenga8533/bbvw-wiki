@@ -31,12 +31,6 @@ def create_image_table(headings, images):
     return f"{table_header}\n{table_divider}\n{table_body}\n\n"
 
 
-def format_animated_sprite(pokemon_num: str) -> str:
-    gif_link = f"![{pokemon_num}](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/"
-    gif_link += f"pokemon/versions/generation-v/black-white/animated/{pokemon_num}.gif)&nbsp;"
-    return gif_link
-
-
 def format_id(pokemon_name: str, start_index: int = 0) -> str:
     """
     Format a Pokémon name to a valid identifier.

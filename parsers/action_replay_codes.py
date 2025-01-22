@@ -1,9 +1,17 @@
+from dotenv import load_dotenv
 from util.file import load, save
+from util.logger import Logger
+import logging
+import os
 
 
 def main():
-    content = load("files/Action Replay Codes.txt")
+    # Load environment variables and logger
+    LOG = os.getenv("LOG")
+    logger = Logger("Action Replay Codes Parser", "logs/action_replay_codes.log", LOG)
+    content = load("files/Action Replay Codes.txt", logger)
 
+    # Set up variables
     lines = content.split("\n")
     n = len(lines)
     md = ""
@@ -20,9 +28,13 @@ def main():
         "volt_white": "",
     }
 
+    # Parse the content
+    logger.log(logging.INFO, "Parsing Action Replay Code content")
     for i in range(n):
         line = lines[i].strip()
+        logger.log(logging.DEBUG, f"Processing line {i + 1}/{n}")
 
+        # Empty Line
         if line == "":
             code_name = code_data["name"]
             if code_data["name"] is not None:
@@ -38,6 +50,7 @@ def main():
                     "blaze_black": "",
                     "volt_white": "",
                 }
+        # Pokémon Game IDs
         elif line.startswith("Pokémon"):
             game_version = "_".join(line.split(" ")[1:]).lower()
             game_ids[game_version] = f"### {line}\n\n"
@@ -46,6 +59,7 @@ def main():
             game_ids[game_version] += f"```\n{line}\n"
         elif line.startswith("Game ID (Clean)"):
             game_ids[game_version] += f"{line}\n```\n\n"
+        # Action Replay Codes
         elif parse_code:
             if code_data["name"] is None:
                 code_data["name"] = line
@@ -53,14 +67,18 @@ def main():
                 code_data[game_version] += f"{line}<br>"
             else:
                 code_data["description"] = line
+        # Misc lines
         else:
             md += line + "\n\n"
+    logger.log(logging.INFO, "Action Replay Code content parsed successfully")
 
+    # Save the parsed content
     md += "---\n\n## Game IDs\n\n"
     md += game_ids["blaze_black"]
     md += game_ids["volt_white"]
     md += "---\n\n## Action Replay Codes\n\n"
 
+    # Format codes into Markdown tables
     for code in codes:
         code_data = codes[code]
         code_name = code_data["name"]
@@ -75,8 +93,9 @@ def main():
         md += "|-------------|------------|\n"
         md += f"| <pre>{code_bb}</pre> | <pre>{code_vw}</pre> |\n\n"
 
-    save("output/action_replay_codes.md", md)
+    save("output/action_replay_codes.md", md, logger)
 
 
 if __name__ == "__main__":
+    load_dotenv()
     main()
