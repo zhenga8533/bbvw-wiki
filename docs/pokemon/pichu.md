@@ -1,5 +1,9 @@
 # #172 Pichu (Tiny Mouse Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/pichu/official_artwork.png) | ![Shiny Artwork](../assets/sprites/pichu/official_artwork_shiny.png) |
+
 The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked.
 
 ---
@@ -8,7 +12,9 @@ The electric sacs in its cheeks are small. If even a little electricity leaks, i
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/pichu/front.gif) | ![Back](../assets/sprites/pichu/back.gif) | ![Front Shiny](../assets/sprites/pichu/front_shiny.gif) | ![Back Shiny](../assets/sprites/pichu/back_shiny.gif) |
 
 ### Cries
 

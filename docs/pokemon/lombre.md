@@ -1,5 +1,9 @@
 # #271 Lombre (Jolly Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/lombre/official_artwork.png) | ![Shiny Artwork](../assets/sprites/lombre/official_artwork_shiny.png) |
+
 It has a mischievous spirit. If it spots an angler, it will tug on the fishing line to interfere.
 
 ---
@@ -8,7 +12,9 @@ It has a mischievous spirit. If it spots an angler, it will tug on the fishing l
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/lombre/front.gif) | ![Back](../assets/sprites/lombre/back.gif) | ![Front Shiny](../assets/sprites/lombre/front_shiny.gif) | ![Back Shiny](../assets/sprites/lombre/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #10197 Blastoise Gmax (Shellfish Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/blastoise-gmax/official_artwork.png) | ![Shiny Artwork](../assets/sprites/blastoise-gmax/official_artwork_shiny.png) |
+
 The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.
 
 ---
@@ -8,7 +12,9 @@ The jets of water it spouts from the rocket cannons on its shell can punch throu
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/blastoise-gmax/front.png) | ![Back](../assets/sprites/blastoise-gmax/back.png) | ![Front Shiny](../assets/sprites/blastoise-gmax/front_shiny.png) | ![Back Shiny](../assets/sprites/blastoise-gmax/back_shiny.png) |
 
 ### Cries
 

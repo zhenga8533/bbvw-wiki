@@ -1,5 +1,9 @@
 # #10236 Samurott Hisui (Formidable Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/samurott-hisui/official_artwork.png) | ![Shiny Artwork](../assets/sprites/samurott-hisui/official_artwork_shiny.png) |
+
 **Blaze Black:** One swing of the sword incorporated in its armor can fell an opponent. A simple glare from one of them quiets everybody.
 
 **Volt White:** Part of the armor on its anterior legs becomes a giant sword. Its cry alone is enough to intimidate most enemies.
@@ -9,8 +13,6 @@
 ## Media
 
 ### Sprites
-
-### Female Sprites
 
 ### Cries
 

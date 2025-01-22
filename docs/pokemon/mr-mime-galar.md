@@ -1,5 +1,9 @@
 # #10168 Mr Mime Galar (Barrier Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/mr-mime-galar/official_artwork.png) | ![Shiny Artwork](../assets/sprites/mr-mime-galar/official_artwork_shiny.png) |
+
 It shapes an invisible wall in midair by minutely vibrating its fingertips to stop molecules in the air.
 
 ---
@@ -8,7 +12,9 @@ It shapes an invisible wall in midair by minutely vibrating its fingertips to st
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/mr-mime-galar/front.png) | ![Back](../assets/sprites/mr-mime-galar/back.png) | ![Front Shiny](../assets/sprites/mr-mime-galar/front_shiny.png) | ![Back Shiny](../assets/sprites/mr-mime-galar/back_shiny.png) |
 
 ### Cries
 

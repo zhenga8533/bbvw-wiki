@@ -1,5 +1,9 @@
 # #399 Bidoof (Plump Mouse Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/bidoof/official_artwork.png) | ![Shiny Artwork](../assets/sprites/bidoof/official_artwork_shiny.png) |
+
 A comparison revealed that Bidoof’s front teeth grow at the same rate as Rattata’s.
 
 ---
@@ -8,7 +12,15 @@ A comparison revealed that Bidoof’s front teeth grow at the same rate as Ratta
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/bidoof/front.gif) | ![Back](../assets/sprites/bidoof/back.gif) | ![Front Shiny](../assets/sprites/bidoof/front_shiny.gif) | ![Back Shiny](../assets/sprites/bidoof/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/bidoof/front_female.gif) | ![Back](../assets/sprites/bidoof/back_female.gif) | ![Front Shiny](../assets/sprites/bidoof/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/bidoof/back_shiny_female.gif) |
 
 ### Cries
 

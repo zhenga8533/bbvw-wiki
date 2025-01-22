@@ -1,5 +1,9 @@
 # #565 Carracosta (Prototurtle Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/carracosta/official_artwork.png) | ![Shiny Artwork](../assets/sprites/carracosta/official_artwork_shiny.png) |
+
 **Blaze Black:** They can live both in the ocean and on land. A slap from one of them is enough to open a hole in the bottom of a tanker.
 
 **Volt White:** Incredible jaw strength enables them to chew up steel beams and rocks along with their prey.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/carracosta/front.gif) | ![Back](../assets/sprites/carracosta/back.gif) | ![Front Shiny](../assets/sprites/carracosta/front_shiny.gif) | ![Back Shiny](../assets/sprites/carracosta/back_shiny.gif) |
 
 ### Cries
 

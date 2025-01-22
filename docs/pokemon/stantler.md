@@ -1,5 +1,9 @@
 # #234 Stantler (Big Horn Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/stantler/official_artwork.png) | ![Shiny Artwork](../assets/sprites/stantler/official_artwork_shiny.png) |
+
 Staring at its antlers creates an odd sensation as if one were being drawn into their centers.
 
 ---
@@ -8,7 +12,9 @@ Staring at its antlers creates an odd sensation as if one were being drawn into 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/stantler/front.gif) | ![Back](../assets/sprites/stantler/back.gif) | ![Front Shiny](../assets/sprites/stantler/front_shiny.gif) | ![Back Shiny](../assets/sprites/stantler/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #10240 Braviary Hisui (Valiant Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/braviary-hisui/official_artwork.png) | ![Shiny Artwork](../assets/sprites/braviary-hisui/official_artwork_shiny.png) |
+
 **Blaze Black:** They fight for their friends without any thought about danger to themselves. One can carry a car while flying.
 
 **Volt White:** The more scars they have, the more respect these brave soldiers of the sky  get from their peers.
@@ -9,8 +13,6 @@
 ## Media
 
 ### Sprites
-
-### Female Sprites
 
 ### Cries
 

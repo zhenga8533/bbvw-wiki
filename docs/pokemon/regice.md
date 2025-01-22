@@ -1,5 +1,9 @@
 # #378 Regice (Iceberg Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/regice/official_artwork.png) | ![Shiny Artwork](../assets/sprites/regice/official_artwork_shiny.png) |
+
 Its body is made of ice from the ice age. It controls frigid air of -328 degrees Fahrenheit.
 
 ---
@@ -8,7 +12,9 @@ Its body is made of ice from the ice age. It controls frigid air of -328 degrees
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/regice/front.gif) | ![Back](../assets/sprites/regice/back.gif) | ![Front Shiny](../assets/sprites/regice/front_shiny.gif) | ![Back Shiny](../assets/sprites/regice/back_shiny.gif) |
 
 ### Cries
 

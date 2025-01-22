@@ -1,5 +1,9 @@
 # #150 Mewtwo (Genetic Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/mewtwo/official_artwork.png) | ![Shiny Artwork](../assets/sprites/mewtwo/official_artwork_shiny.png) |
+
 A Pokémon created by recombining Mew’s genes. It’s said to have the most savage heart among Pokémon.
 
 ---
@@ -8,7 +12,9 @@ A Pokémon created by recombining Mew’s genes. It’s said to have the most sa
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/mewtwo/front.gif) | ![Back](../assets/sprites/mewtwo/back.gif) | ![Front Shiny](../assets/sprites/mewtwo/front_shiny.gif) | ![Back Shiny](../assets/sprites/mewtwo/back_shiny.gif) |
 
 ### Cries
 

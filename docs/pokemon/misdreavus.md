@@ -1,5 +1,9 @@
 # #200 Misdreavus (Screech Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/misdreavus/official_artwork.png) | ![Shiny Artwork](../assets/sprites/misdreavus/official_artwork_shiny.png) |
+
 A Pokémon that startles people in the middle of the night. It gathers fear as its energy.
 
 ---
@@ -8,7 +12,9 @@ A Pokémon that startles people in the middle of the night. It gathers fear as i
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/misdreavus/front.gif) | ![Back](../assets/sprites/misdreavus/back.gif) | ![Front Shiny](../assets/sprites/misdreavus/front_shiny.gif) | ![Back Shiny](../assets/sprites/misdreavus/back_shiny.gif) |
 
 ### Cries
 

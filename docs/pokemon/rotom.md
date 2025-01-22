@@ -1,5 +1,9 @@
 # #479 Rotom (Plasma Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/rotom/official_artwork.png) | ![Shiny Artwork](../assets/sprites/rotom/official_artwork_shiny.png) |
+
 Its electric-like body can enter some kinds of machines and take control in order to make mischief.
 
 ---
@@ -8,7 +12,9 @@ Its electric-like body can enter some kinds of machines and take control in orde
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/rotom/front.gif) | ![Back](../assets/sprites/rotom/back.gif) | ![Front Shiny](../assets/sprites/rotom/front_shiny.gif) | ![Back Shiny](../assets/sprites/rotom/back_shiny.gif) |
 
 ### Cries
 

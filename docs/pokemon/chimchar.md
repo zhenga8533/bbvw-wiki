@@ -1,5 +1,9 @@
 # #390 Chimchar (Chimp Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/chimchar/official_artwork.png) | ![Shiny Artwork](../assets/sprites/chimchar/official_artwork_shiny.png) |
+
 It is very agile. Before going to sleep, it extinguishes the flame on its tail to prevent fires.
 
 ---
@@ -8,7 +12,9 @@ It is very agile. Before going to sleep, it extinguishes the flame on its tail t
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/chimchar/front.gif) | ![Back](../assets/sprites/chimchar/back.gif) | ![Front Shiny](../assets/sprites/chimchar/front_shiny.gif) | ![Back Shiny](../assets/sprites/chimchar/back_shiny.gif) |
 
 ### Cries
 

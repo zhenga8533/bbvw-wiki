@@ -1,5 +1,9 @@
 # #163 Hoothoot (Owl Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/hoothoot/official_artwork.png) | ![Shiny Artwork](../assets/sprites/hoothoot/official_artwork_shiny.png) |
+
 It marks time precisely. Some countries consider it to be a wise friend, versed in the world’s ways.
 
 ---
@@ -8,7 +12,9 @@ It marks time precisely. Some countries consider it to be a wise friend, versed 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/hoothoot/front.gif) | ![Back](../assets/sprites/hoothoot/back.gif) | ![Front Shiny](../assets/sprites/hoothoot/front_shiny.gif) | ![Back Shiny](../assets/sprites/hoothoot/back_shiny.gif) |
 
 ### Cries
 

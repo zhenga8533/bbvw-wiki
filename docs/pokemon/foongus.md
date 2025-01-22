@@ -1,5 +1,9 @@
 # #590 Foongus (Mushroom Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/foongus/official_artwork.png) | ![Shiny Artwork](../assets/sprites/foongus/official_artwork_shiny.png) |
+
 **Blaze Black:** It lures people in with its Poké Ball pattern, then releases poison spores. Why it resembles a Poké Ball is unknown.
 
 **Volt White:** For some reason, this Pokémon resembles a Poké Ball. They release poison spores to repel those who try to catch them.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/foongus/front.gif) | ![Back](../assets/sprites/foongus/back.gif) | ![Front Shiny](../assets/sprites/foongus/front_shiny.gif) | ![Back Shiny](../assets/sprites/foongus/back_shiny.gif) |
 
 ### Cries
 

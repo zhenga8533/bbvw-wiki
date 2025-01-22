@@ -1,5 +1,9 @@
 # #10165 Slowbro Galar (Hermit Crab Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/slowbro-galar/official_artwork.png) | ![Shiny Artwork](../assets/sprites/slowbro-galar/official_artwork_shiny.png) |
+
 Though usually dim witted, it seems to become inspired if the Shellder on its tail bites down.
 
 ---
@@ -8,7 +12,9 @@ Though usually dim witted, it seems to become inspired if the Shellder on its ta
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/slowbro-galar/front.png) | ![Back](../assets/sprites/slowbro-galar/back.png) | ![Front Shiny](../assets/sprites/slowbro-galar/front_shiny.png) | ![Back Shiny](../assets/sprites/slowbro-galar/back_shiny.png) |
 
 ### Cries
 

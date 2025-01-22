@@ -1,5 +1,9 @@
 # #145 Zapdos (Electric Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/zapdos/official_artwork.png) | ![Shiny Artwork](../assets/sprites/zapdos/official_artwork_shiny.png) |
+
 A legendary Pokémon that is said to live in thunderclouds. It freely controls lightning bolts.
 
 ---
@@ -8,7 +12,9 @@ A legendary Pokémon that is said to live in thunderclouds. It freely controls l
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/zapdos/front.gif) | ![Back](../assets/sprites/zapdos/back.gif) | ![Front Shiny](../assets/sprites/zapdos/front_shiny.gif) | ![Back Shiny](../assets/sprites/zapdos/back_shiny.gif) |
 
 ### Cries
 

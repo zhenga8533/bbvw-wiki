@@ -1,5 +1,9 @@
 # #303 Mawile (Deceiver Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/mawile/official_artwork.png) | ![Shiny Artwork](../assets/sprites/mawile/official_artwork_shiny.png) |
+
 Attached to its head is a huge set of jaws formed by horns. It can chew through iron beams.
 
 ---
@@ -8,7 +12,9 @@ Attached to its head is a huge set of jaws formed by horns. It can chew through 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/mawile/front.gif) | ![Back](../assets/sprites/mawile/back.gif) | ![Front Shiny](../assets/sprites/mawile/front_shiny.gif) | ![Back Shiny](../assets/sprites/mawile/back_shiny.gif) |
 
 ### Cries
 

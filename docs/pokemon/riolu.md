@@ -1,5 +1,9 @@
 # #447 Riolu (Emanation Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/riolu/official_artwork.png) | ![Shiny Artwork](../assets/sprites/riolu/official_artwork_shiny.png) |
+
 It has the peculiar power of being able to see emotions such as joy and rage in the form of waves.
 
 ---
@@ -8,7 +12,9 @@ It has the peculiar power of being able to see emotions such as joy and rage in 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/riolu/front.gif) | ![Back](../assets/sprites/riolu/back.gif) | ![Front Shiny](../assets/sprites/riolu/front_shiny.gif) | ![Back Shiny](../assets/sprites/riolu/back_shiny.gif) |
 
 ### Cries
 

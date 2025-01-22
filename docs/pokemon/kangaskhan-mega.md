@@ -1,5 +1,9 @@
 # #10039 Kangaskhan Mega (Parent Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/kangaskhan-mega/official_artwork.png) | ![Shiny Artwork](../assets/sprites/kangaskhan-mega/official_artwork_shiny.png) |
+
 It raises its offspring in its belly pouch. It lets the baby out to play only when it feels safe.
 
 ---
@@ -8,7 +12,9 @@ It raises its offspring in its belly pouch. It lets the baby out to play only wh
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/kangaskhan-mega/front.png) | ![Back](../assets/sprites/kangaskhan-mega/back.png) | ![Front Shiny](../assets/sprites/kangaskhan-mega/front_shiny.png) | ![Back Shiny](../assets/sprites/kangaskhan-mega/back_shiny.png) |
 
 ### Cries
 

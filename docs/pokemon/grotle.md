@@ -1,5 +1,9 @@
 # #388 Grotle (Grove Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/grotle/official_artwork.png) | ![Shiny Artwork](../assets/sprites/grotle/official_artwork_shiny.png) |
+
 It knows where pure water wells up. It carries fellow Pokémon there on its back.
 
 ---
@@ -8,7 +12,9 @@ It knows where pure water wells up. It carries fellow Pokémon there on its back
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/grotle/front.gif) | ![Back](../assets/sprites/grotle/back.gif) | ![Front Shiny](../assets/sprites/grotle/front_shiny.gif) | ![Back Shiny](../assets/sprites/grotle/back_shiny.gif) |
 
 ### Cries
 

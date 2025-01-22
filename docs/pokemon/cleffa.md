@@ -1,5 +1,9 @@
 # #173 Cleffa (Star Shape Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/cleffa/official_artwork.png) | ![Shiny Artwork](../assets/sprites/cleffa/official_artwork_shiny.png) |
+
 It is often seen when shooting stars fill the night skies. It’s said to arrive riding on a shooting star.
 
 ---
@@ -8,7 +12,9 @@ It is often seen when shooting stars fill the night skies. It’s said to arrive
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/cleffa/front.gif) | ![Back](../assets/sprites/cleffa/back.gif) | ![Front Shiny](../assets/sprites/cleffa/front_shiny.gif) | ![Back Shiny](../assets/sprites/cleffa/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #441 Chatot (Music Note Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/chatot/official_artwork.png) | ![Shiny Artwork](../assets/sprites/chatot/official_artwork_shiny.png) |
+
 Its tongue is just like a human’s. As a result, it can cleverly mimic human speech.
 
 ---
@@ -8,7 +12,9 @@ Its tongue is just like a human’s. As a result, it can cleverly mimic human sp
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/chatot/front.gif) | ![Back](../assets/sprites/chatot/back.gif) | ![Front Shiny](../assets/sprites/chatot/front_shiny.gif) | ![Back Shiny](../assets/sprites/chatot/back_shiny.gif) |
 
 ### Cries
 

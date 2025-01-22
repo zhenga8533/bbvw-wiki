@@ -1,5 +1,9 @@
 # #10170 Zapdos Galar (Electric Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/zapdos-galar/official_artwork.png) | ![Shiny Artwork](../assets/sprites/zapdos-galar/official_artwork_shiny.png) |
+
 A legendary Pokémon that is said to live in thunderclouds. It freely controls lightning bolts.
 
 ---
@@ -8,7 +12,9 @@ A legendary Pokémon that is said to live in thunderclouds. It freely controls l
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/zapdos-galar/front.png) | ![Back](../assets/sprites/zapdos-galar/back.png) | ![Front Shiny](../assets/sprites/zapdos-galar/front_shiny.png) | ![Back Shiny](../assets/sprites/zapdos-galar/back_shiny.png) |
 
 ### Cries
 

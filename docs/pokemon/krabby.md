@@ -1,5 +1,9 @@
 # #098 Krabby (River Crab Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/krabby/official_artwork.png) | ![Shiny Artwork](../assets/sprites/krabby/official_artwork_shiny.png) |
+
 It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle.
 
 ---
@@ -8,7 +12,9 @@ It lives in burrows dug on sandy beaches. Its pincers fully grow back if they ar
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/krabby/front.gif) | ![Back](../assets/sprites/krabby/back.gif) | ![Front Shiny](../assets/sprites/krabby/front_shiny.gif) | ![Back Shiny](../assets/sprites/krabby/back_shiny.gif) |
 
 ### Cries
 

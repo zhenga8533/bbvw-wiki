@@ -1,5 +1,9 @@
 # #10158 Pikachu Starter (Mouse Pokémon)
 
+| Official Artwork |
+| --- |
+| ![Official Artwork](../assets/sprites/pikachu-starter/official_artwork.png) |
+
 It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.
 
 ---
@@ -7,8 +11,6 @@ It occasionally uses an electric shock to recharge a fellow Pikachu that is in a
 ## Media
 
 ### Sprites
-
-### Female Sprites
 
 ### Cries
 

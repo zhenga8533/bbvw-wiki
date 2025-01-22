@@ -1,5 +1,9 @@
 # #10161 Meowth Galar (Scratch Cat Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/meowth-galar/official_artwork.png) | ![Shiny Artwork](../assets/sprites/meowth-galar/official_artwork_shiny.png) |
+
 It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly.
 
 ---
@@ -8,7 +12,9 @@ It is nocturnal in nature. If it spots something shiny, its eyes glitter brightl
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/meowth-galar/front.png) | ![Back](../assets/sprites/meowth-galar/back.png) | ![Front Shiny](../assets/sprites/meowth-galar/front_shiny.png) | ![Back Shiny](../assets/sprites/meowth-galar/back_shiny.png) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #166 Ledian (Five Star Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/ledian/official_artwork.png) | ![Shiny Artwork](../assets/sprites/ledian/official_artwork_shiny.png) |
+
 It uses starlight as energy. When more stars appear at night, the patterns on its back grow larger.
 
 ---
@@ -8,7 +12,15 @@ It uses starlight as energy. When more stars appear at night, the patterns on it
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/ledian/front.gif) | ![Back](../assets/sprites/ledian/back.gif) | ![Front Shiny](../assets/sprites/ledian/front_shiny.gif) | ![Back Shiny](../assets/sprites/ledian/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/ledian/front_female.gif) | ![Back](../assets/sprites/ledian/back_female.gif) | ![Front Shiny](../assets/sprites/ledian/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/ledian/back_shiny_female.gif) |
 
 ### Cries
 

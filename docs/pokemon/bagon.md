@@ -1,5 +1,9 @@
 # #371 Bagon (Rock Head Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/bagon/official_artwork.png) | ![Shiny Artwork](../assets/sprites/bagon/official_artwork_shiny.png) |
+
 Dreaming of one day flying, it practices by leaping off cliffs every day.
 
 ---
@@ -8,7 +12,9 @@ Dreaming of one day flying, it practices by leaping off cliffs every day.
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/bagon/front.gif) | ![Back](../assets/sprites/bagon/back.gif) | ![Front Shiny](../assets/sprites/bagon/front_shiny.gif) | ![Back Shiny](../assets/sprites/bagon/back_shiny.gif) |
 
 ### Cries
 

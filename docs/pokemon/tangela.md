@@ -1,5 +1,9 @@
 # #114 Tangela (Vine Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/tangela/official_artwork.png) | ![Shiny Artwork](../assets/sprites/tangela/official_artwork_shiny.png) |
+
 The blue vines shrouding its body are covered in a growth of fine hair. It is known to be ticklish.
 
 ---
@@ -8,7 +12,9 @@ The blue vines shrouding its body are covered in a growth of fine hair. It is kn
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/tangela/front.gif) | ![Back](../assets/sprites/tangela/back.gif) | ![Front Shiny](../assets/sprites/tangela/front_shiny.gif) | ![Back Shiny](../assets/sprites/tangela/back_shiny.gif) |
 
 ### Cries
 

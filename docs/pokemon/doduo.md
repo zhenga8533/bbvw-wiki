@@ -1,5 +1,9 @@
 # #084 Doduo (Twin Bird Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/doduo/official_artwork.png) | ![Shiny Artwork](../assets/sprites/doduo/official_artwork_shiny.png) |
+
 The brains in its two heads appear to communicate emotions to each other with a telepathic power.
 
 ---
@@ -8,7 +12,15 @@ The brains in its two heads appear to communicate emotions to each other with a 
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/doduo/front.gif) | ![Back](../assets/sprites/doduo/back.gif) | ![Front Shiny](../assets/sprites/doduo/front_shiny.gif) | ![Back Shiny](../assets/sprites/doduo/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/doduo/front_female.gif) | ![Back](../assets/sprites/doduo/back_female.gif) | ![Front Shiny](../assets/sprites/doduo/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/doduo/back_shiny_female.gif) |
 
 ### Cries
 

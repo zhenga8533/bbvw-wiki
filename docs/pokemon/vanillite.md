@@ -1,5 +1,9 @@
 # #582 Vanillite (Fresh Snow Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/vanillite/official_artwork.png) | ![Shiny Artwork](../assets/sprites/vanillite/official_artwork_shiny.png) |
+
 **Blaze Black:** The temperature of their breath is -58° F. They create snow crystals and make snow fall in the areas around them.
 
 **Volt White:** This Pokémon formed from icicles bathed in energy from the morning sun. It sleeps buried in snow.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/vanillite/front.gif) | ![Back](../assets/sprites/vanillite/back.gif) | ![Front Shiny](../assets/sprites/vanillite/front_shiny.gif) | ![Back Shiny](../assets/sprites/vanillite/back_shiny.gif) |
 
 ### Cries
 

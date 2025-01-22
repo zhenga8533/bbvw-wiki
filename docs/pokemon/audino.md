@@ -1,5 +1,9 @@
 # #531 Audino (Hearing Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/audino/official_artwork.png) | ![Shiny Artwork](../assets/sprites/audino/official_artwork_shiny.png) |
+
 **Blaze Black:** It touches others with the feelers on its ears, using the sound of their heartbeats to tell how they are feeling.
 
 **Volt White:** Its auditory sense is astounding. It has a radarlike ability to understand its surroundings through slight sounds.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/audino/front.gif) | ![Back](../assets/sprites/audino/back.gif) | ![Front Shiny](../assets/sprites/audino/front_shiny.gif) | ![Back Shiny](../assets/sprites/audino/back_shiny.gif) |
 
 ### Cries
 

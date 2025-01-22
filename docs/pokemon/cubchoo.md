@@ -1,5 +1,9 @@
 # #613 Cubchoo (Chill Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/cubchoo/official_artwork.png) | ![Shiny Artwork](../assets/sprites/cubchoo/official_artwork_shiny.png) |
+
 **Blaze Black:** When it is not feeling well, its mucus gets watery and the power of its Ice-type moves decreases.
 
 **Volt White:** Its nose is always running. It sniffs the snot back up because the mucus provides the raw material for its moves.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/cubchoo/front.gif) | ![Back](../assets/sprites/cubchoo/back.gif) | ![Front Shiny](../assets/sprites/cubchoo/front_shiny.gif) | ![Back Shiny](../assets/sprites/cubchoo/back_shiny.gif) |
 
 ### Cries
 

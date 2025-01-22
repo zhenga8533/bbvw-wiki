@@ -1,5 +1,9 @@
 # #10231 Voltorb Hisui (Ball Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/voltorb-hisui/official_artwork.png) | ![Shiny Artwork](../assets/sprites/voltorb-hisui/official_artwork_shiny.png) |
+
 It looks just like a Poké Ball. It is dangerous because it may electrocute or explode on touch.
 
 ---
@@ -7,8 +11,6 @@ It looks just like a Poké Ball. It is dangerous because it may electrocute or e
 ## Media
 
 ### Sprites
-
-### Female Sprites
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #251 Celebi (Time Travel Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/celebi/official_artwork.png) | ![Shiny Artwork](../assets/sprites/celebi/official_artwork_shiny.png) |
+
 It has the power to travel across time, but it is said to appear only in peaceful times.
 
 ---
@@ -8,7 +12,9 @@ It has the power to travel across time, but it is said to appear only in peacefu
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/celebi/front.gif) | ![Back](../assets/sprites/celebi/back.gif) | ![Front Shiny](../assets/sprites/celebi/front_shiny.gif) | ![Back Shiny](../assets/sprites/celebi/back_shiny.gif) |
 
 ### Cries
 

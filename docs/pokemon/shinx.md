@@ -1,5 +1,9 @@
 # #403 Shinx (Flash Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/shinx/official_artwork.png) | ![Shiny Artwork](../assets/sprites/shinx/official_artwork_shiny.png) |
+
 The extension and contraction of its muscles generates electricity. It glows when in trouble.
 
 ---
@@ -8,7 +12,15 @@ The extension and contraction of its muscles generates electricity. It glows whe
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/shinx/front.gif) | ![Back](../assets/sprites/shinx/back.gif) | ![Front Shiny](../assets/sprites/shinx/front_shiny.gif) | ![Back Shiny](../assets/sprites/shinx/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/shinx/front_female.gif) | ![Back](../assets/sprites/shinx/back_female.gif) | ![Front Shiny](../assets/sprites/shinx/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/shinx/back_shiny_female.gif) |
 
 ### Cries
 

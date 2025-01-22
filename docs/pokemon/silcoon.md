@@ -1,5 +1,9 @@
 # #266 Silcoon (Cocoon Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/silcoon/official_artwork.png) | ![Shiny Artwork](../assets/sprites/silcoon/official_artwork_shiny.png) |
+
 It wraps silk around the branches of a tree. It drinks rainwater on its silk while awaiting evolution.
 
 ---
@@ -8,7 +12,9 @@ It wraps silk around the branches of a tree. It drinks rainwater on its silk whi
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/silcoon/front.gif) | ![Back](../assets/sprites/silcoon/back.gif) | ![Front Shiny](../assets/sprites/silcoon/front_shiny.gif) | ![Back Shiny](../assets/sprites/silcoon/back_shiny.gif) |
 
 ### Cries
 

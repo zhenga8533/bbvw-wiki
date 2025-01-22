@@ -1,5 +1,9 @@
 # #482 Azelf (Willpower Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/azelf/official_artwork.png) | ![Shiny Artwork](../assets/sprites/azelf/official_artwork_shiny.png) |
+
 When Azelf flew, people gained the determination to do things. It was the birth of willpower.
 
 ---
@@ -8,7 +12,9 @@ When Azelf flew, people gained the determination to do things. It was the birth 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/azelf/front.gif) | ![Back](../assets/sprites/azelf/back.gif) | ![Front Shiny](../assets/sprites/azelf/front_shiny.gif) | ![Back Shiny](../assets/sprites/azelf/back_shiny.gif) |
 
 ### Cries
 

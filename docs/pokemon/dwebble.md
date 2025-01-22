@@ -1,5 +1,9 @@
 # #557 Dwebble (Rock Inn Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/dwebble/official_artwork.png) | ![Shiny Artwork](../assets/sprites/dwebble/official_artwork_shiny.png) |
+
 **Blaze Black:** This Pokémon can easily melt holes in hard rocks with a liquid secreted from its mouth.
 
 **Volt White:** It makes a hole in a suitable rock. If that rock breaks, the Pokémon remains agitated until it locates a replacement.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/dwebble/front.gif) | ![Back](../assets/sprites/dwebble/back.gif) | ![Front Shiny](../assets/sprites/dwebble/front_shiny.gif) | ![Back Shiny](../assets/sprites/dwebble/back_shiny.gif) |
 
 ### Cries
 

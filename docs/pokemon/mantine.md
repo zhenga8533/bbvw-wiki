@@ -1,5 +1,9 @@
 # #226 Mantine (Kite Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/mantine/official_artwork.png) | ![Shiny Artwork](../assets/sprites/mantine/official_artwork_shiny.png) |
+
 While elegantly swimming in the sea, it ignores Remoraid that cling to its fins seeking food scraps.
 
 ---
@@ -8,7 +12,9 @@ While elegantly swimming in the sea, it ignores Remoraid that cling to its fins 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/mantine/front.gif) | ![Back](../assets/sprites/mantine/back.gif) | ![Front Shiny](../assets/sprites/mantine/front_shiny.gif) | ![Back Shiny](../assets/sprites/mantine/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #629 Vullaby (Diapered Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/vullaby/official_artwork.png) | ![Shiny Artwork](../assets/sprites/vullaby/official_artwork_shiny.png) |
+
 **Blaze Black:** Its wings are too tiny to allow it to fly. As the time approaches for it to evolve, it discards the bones it was wearing.
 
 **Volt White:** They tend to guard their posteriors with suitable bones they have found. They pursue weak Pokémon.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/vullaby/front.gif) | ![Back](../assets/sprites/vullaby/back.gif) | ![Front Shiny](../assets/sprites/vullaby/front_shiny.gif) | ![Back Shiny](../assets/sprites/vullaby/back_shiny.gif) |
 
 ### Cries
 

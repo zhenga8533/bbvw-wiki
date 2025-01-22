@@ -1,5 +1,9 @@
 # #248 Tyranitar (Armor Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/tyranitar/official_artwork.png) | ![Shiny Artwork](../assets/sprites/tyranitar/official_artwork_shiny.png) |
+
 If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.
 
 ---
@@ -8,7 +12,9 @@ If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/tyranitar/front.gif) | ![Back](../assets/sprites/tyranitar/back.gif) | ![Front Shiny](../assets/sprites/tyranitar/front_shiny.gif) | ![Back Shiny](../assets/sprites/tyranitar/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #021 Spearow (Tiny Bird Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/spearow/official_artwork.png) | ![Shiny Artwork](../assets/sprites/spearow/official_artwork_shiny.png) |
+
 It flaps its small wings busily to fly. Using its beak, it searches in grass for prey.
 
 ---
@@ -8,7 +12,9 @@ It flaps its small wings busily to fly. Using its beak, it searches in grass for
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/spearow/front.gif) | ![Back](../assets/sprites/spearow/back.gif) | ![Front Shiny](../assets/sprites/spearow/front_shiny.gif) | ![Back Shiny](../assets/sprites/spearow/back_shiny.gif) |
 
 ### Cries
 

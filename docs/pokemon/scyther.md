@@ -1,5 +1,9 @@
 # #123 Scyther (Mantis Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/scyther/official_artwork.png) | ![Shiny Artwork](../assets/sprites/scyther/official_artwork_shiny.png) |
+
 The sharp scythes on its forearms become increasingly sharp by cutting through hard objects.
 
 ---
@@ -8,7 +12,15 @@ The sharp scythes on its forearms become increasingly sharp by cutting through h
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/scyther/front.gif) | ![Back](../assets/sprites/scyther/back.gif) | ![Front Shiny](../assets/sprites/scyther/front_shiny.gif) | ![Back Shiny](../assets/sprites/scyther/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/scyther/front_female.gif) | ![Back](../assets/sprites/scyther/back_female.gif) | ![Front Shiny](../assets/sprites/scyther/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/scyther/back_shiny_female.gif) |
 
 ### Cries
 

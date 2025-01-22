@@ -1,5 +1,9 @@
 # #10045 Ampharos Mega (Light Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/ampharos-mega/official_artwork.png) | ![Shiny Artwork](../assets/sprites/ampharos-mega/official_artwork_shiny.png) |
+
 The tip of its tail shines brightly. In the olden days, people sent signals using the tail’s light.
 
 ---
@@ -8,7 +12,9 @@ The tip of its tail shines brightly. In the olden days, people sent signals usin
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/ampharos-mega/front.png) | ![Back](../assets/sprites/ampharos-mega/back.png) | ![Front Shiny](../assets/sprites/ampharos-mega/front_shiny.png) | ![Back Shiny](../assets/sprites/ampharos-mega/back_shiny.png) |
 
 ### Cries
 

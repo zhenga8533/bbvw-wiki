@@ -1,5 +1,9 @@
 # #551 Sandile (Desert Croc Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/sandile/official_artwork.png) | ![Shiny Artwork](../assets/sprites/sandile/official_artwork_shiny.png) |
+
 **Blaze Black:** They live buried in the sands of the desert. The sun-warmed sands prevent their body temperature from dropping.
 
 **Volt White:** It moves along below the sand’s surface, except for its nose and eyes. A dark membrane shields its eyes from the sun.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/sandile/front.gif) | ![Back](../assets/sprites/sandile/back.gif) | ![Front Shiny](../assets/sprites/sandile/front_shiny.gif) | ![Back Shiny](../assets/sprites/sandile/back_shiny.gif) |
 
 ### Cries
 

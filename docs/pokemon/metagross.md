@@ -1,5 +1,9 @@
 # #376 Metagross (Iron Leg Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/metagross/official_artwork.png) | ![Shiny Artwork](../assets/sprites/metagross/official_artwork_shiny.png) |
+
 Metang combined to form it. With four brains, it has the intelligence of a supercomputer.
 
 ---
@@ -8,7 +12,9 @@ Metang combined to form it. With four brains, it has the intelligence of a super
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/metagross/front.gif) | ![Back](../assets/sprites/metagross/back.gif) | ![Front Shiny](../assets/sprites/metagross/front_shiny.gif) | ![Back Shiny](../assets/sprites/metagross/back_shiny.gif) |
 
 ### Cries
 

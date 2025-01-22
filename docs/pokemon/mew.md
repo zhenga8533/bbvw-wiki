@@ -1,5 +1,9 @@
 # #151 Mew (New Species Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/mew/official_artwork.png) | ![Shiny Artwork](../assets/sprites/mew/official_artwork_shiny.png) |
+
 Because it can use all kinds of moves, many scientists believe Mew to be the ancestor of Pokémon.
 
 ---
@@ -8,7 +12,9 @@ Because it can use all kinds of moves, many scientists believe Mew to be the anc
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/mew/front.gif) | ![Back](../assets/sprites/mew/back.gif) | ![Front Shiny](../assets/sprites/mew/front_shiny.gif) | ![Back Shiny](../assets/sprites/mew/back_shiny.gif) |
 
 ### Cries
 

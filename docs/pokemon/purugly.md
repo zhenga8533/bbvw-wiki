@@ -1,5 +1,9 @@
 # #432 Purugly (Tiger Cat Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/purugly/official_artwork.png) | ![Shiny Artwork](../assets/sprites/purugly/official_artwork_shiny.png) |
+
 It binds its body with its tails to make itself look bigger. If it locks eyes, it will glare ceaselessly.
 
 ---
@@ -8,7 +12,9 @@ It binds its body with its tails to make itself look bigger. If it locks eyes, i
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/purugly/front.gif) | ![Back](../assets/sprites/purugly/back.gif) | ![Front Shiny](../assets/sprites/purugly/front_shiny.gif) | ![Back Shiny](../assets/sprites/purugly/back_shiny.gif) |
 
 ### Cries
 

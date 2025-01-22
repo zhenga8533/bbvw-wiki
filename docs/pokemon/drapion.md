@@ -1,5 +1,9 @@
 # #452 Drapion (Ogre Scorpion Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/drapion/official_artwork.png) | ![Shiny Artwork](../assets/sprites/drapion/official_artwork_shiny.png) |
+
 Possessing a sturdy build, it takes pride in its strength, taking down foes without using toxins.
 
 ---
@@ -8,7 +12,9 @@ Possessing a sturdy build, it takes pride in its strength, taking down foes with
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/drapion/front.gif) | ![Back](../assets/sprites/drapion/back.gif) | ![Front Shiny](../assets/sprites/drapion/front_shiny.gif) | ![Back Shiny](../assets/sprites/drapion/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #483 Dialga (Temporal Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/dialga/official_artwork.png) | ![Shiny Artwork](../assets/sprites/dialga/official_artwork_shiny.png) |
+
 A legendary Pokémon of Sinnoh. It is said that time flows when Dialga’s heart beats.
 
 ---
@@ -8,7 +12,9 @@ A legendary Pokémon of Sinnoh. It is said that time flows when Dialga’s heart
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/dialga/front.gif) | ![Back](../assets/sprites/dialga/back.gif) | ![Front Shiny](../assets/sprites/dialga/front_shiny.gif) | ![Back Shiny](../assets/sprites/dialga/back_shiny.gif) |
 
 ### Cries
 

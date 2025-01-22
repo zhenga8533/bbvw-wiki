@@ -1,5 +1,9 @@
 # #10035 Charizard Mega Y (Flame Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/charizard-mega-y/official_artwork.png) | ![Shiny Artwork](../assets/sprites/charizard-mega-y/official_artwork_shiny.png) |
+
 It is said that Charizard’s fire burns hotter if it has experienced harsh battles.
 
 ---
@@ -8,7 +12,9 @@ It is said that Charizard’s fire burns hotter if it has experienced harsh batt
 
 ### Sprites
 
-### Female Sprites
+| Front | Front Shiny |
+| --- | --- |
+| ![Front](../assets/sprites/charizard-mega-y/front.png) | ![Front Shiny](../assets/sprites/charizard-mega-y/front_shiny.png) |
 
 ### Cries
 

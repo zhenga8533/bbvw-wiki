@@ -1,5 +1,9 @@
 # #038 Ninetales (Fox Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/ninetales/official_artwork.png) | ![Shiny Artwork](../assets/sprites/ninetales/official_artwork_shiny.png) |
+
 Its nine tails are said to be imbued with a mystic power. It can live for a thousand years.
 
 ---
@@ -8,7 +12,9 @@ Its nine tails are said to be imbued with a mystic power. It can live for a thou
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/ninetales/front.gif) | ![Back](../assets/sprites/ninetales/back.gif) | ![Front Shiny](../assets/sprites/ninetales/front_shiny.gif) | ![Back Shiny](../assets/sprites/ninetales/back_shiny.gif) |
 
 ### Cries
 

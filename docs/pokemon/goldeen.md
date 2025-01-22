@@ -1,5 +1,9 @@
 # #118 Goldeen (Goldfish Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/goldeen/official_artwork.png) | ![Shiny Artwork](../assets/sprites/goldeen/official_artwork_shiny.png) |
+
 Though it appears very elegant when swimming with fins unfurled, it can jab powerfully with its horn.
 
 ---
@@ -8,7 +12,15 @@ Though it appears very elegant when swimming with fins unfurled, it can jab powe
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/goldeen/front.gif) | ![Back](../assets/sprites/goldeen/back.gif) | ![Front Shiny](../assets/sprites/goldeen/front_shiny.gif) | ![Back Shiny](../assets/sprites/goldeen/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/goldeen/front_female.gif) | ![Back](../assets/sprites/goldeen/back_female.gif) | ![Front Shiny](../assets/sprites/goldeen/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/goldeen/back_shiny_female.gif) |
 
 ### Cries
 

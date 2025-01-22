@@ -1,5 +1,9 @@
 # #085 Dodrio (Triple Bird Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/dodrio/official_artwork.png) | ![Shiny Artwork](../assets/sprites/dodrio/official_artwork_shiny.png) |
+
 When Doduo evolves into this odd breed, one of its heads splits into two. It runs at nearly 40 mph.
 
 ---
@@ -8,7 +12,15 @@ When Doduo evolves into this odd breed, one of its heads splits into two. It run
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/dodrio/front.gif) | ![Back](../assets/sprites/dodrio/back.gif) | ![Front Shiny](../assets/sprites/dodrio/front_shiny.gif) | ![Back Shiny](../assets/sprites/dodrio/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/dodrio/front_female.gif) | ![Back](../assets/sprites/dodrio/back_female.gif) | ![Front Shiny](../assets/sprites/dodrio/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/dodrio/back_shiny_female.gif) |
 
 ### Cries
 

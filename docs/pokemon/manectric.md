@@ -1,5 +1,9 @@
 # #310 Manectric (Discharge Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/manectric/official_artwork.png) | ![Shiny Artwork](../assets/sprites/manectric/official_artwork_shiny.png) |
+
 It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.
 
 ---
@@ -8,7 +12,9 @@ It discharges electricity from its mane. It creates a thundercloud overhead to d
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/manectric/front.gif) | ![Back](../assets/sprites/manectric/back.gif) | ![Front Shiny](../assets/sprites/manectric/front_shiny.gif) | ![Back Shiny](../assets/sprites/manectric/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #425 Drifloon (Balloon Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/drifloon/official_artwork.png) | ![Shiny Artwork](../assets/sprites/drifloon/official_artwork_shiny.png) |
+
 Because of the way it floats aimlessly, an old folktale calls it a “Signpost for Wandering Spirits.”
 
 ---
@@ -8,7 +12,9 @@ Because of the way it floats aimlessly, an old folktale calls it a “Signpost f
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/drifloon/front.gif) | ![Back](../assets/sprites/drifloon/back.gif) | ![Front Shiny](../assets/sprites/drifloon/front_shiny.gif) | ![Back Shiny](../assets/sprites/drifloon/back_shiny.gif) |
 
 ### Cries
 

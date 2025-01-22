@@ -1,5 +1,9 @@
 # #593 Jellicent (Floating Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/jellicent/official_artwork.png) | ![Shiny Artwork](../assets/sprites/jellicent/official_artwork_shiny.png) |
+
 **Blaze Black:** The fate of the ships and crew that wander into Jellicent’s habitat: all sunken, all lost, all vanished.
 
 **Volt White:** They propel themselves by expelling absorbed seawater from their bodies. Their favorite food is life energy.
@@ -10,7 +14,15 @@
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/jellicent/front.gif) | ![Back](../assets/sprites/jellicent/back.gif) | ![Front Shiny](../assets/sprites/jellicent/front_shiny.gif) | ![Back Shiny](../assets/sprites/jellicent/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/jellicent/front_female.gif) | ![Back](../assets/sprites/jellicent/back_female.gif) | ![Front Shiny](../assets/sprites/jellicent/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/jellicent/back_shiny_female.gif) |
 
 ### Cries
 

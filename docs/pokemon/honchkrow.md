@@ -1,5 +1,9 @@
 # #430 Honchkrow (Big Boss Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/honchkrow/official_artwork.png) | ![Shiny Artwork](../assets/sprites/honchkrow/official_artwork_shiny.png) |
+
 If one utters a deep cry, many Murkrow gather quickly. For this, it is called “Summoner of Night.”
 
 ---
@@ -8,7 +12,9 @@ If one utters a deep cry, many Murkrow gather quickly. For this, it is called �
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/honchkrow/front.gif) | ![Back](../assets/sprites/honchkrow/back.gif) | ![Front Shiny](../assets/sprites/honchkrow/front_shiny.gif) | ![Back Shiny](../assets/sprites/honchkrow/back_shiny.gif) |
 
 ### Cries
 

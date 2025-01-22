@@ -1,5 +1,9 @@
 # #10060 Abomasnow Mega (Frost Tree Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/abomasnow-mega/official_artwork.png) | ![Shiny Artwork](../assets/sprites/abomasnow-mega/official_artwork_shiny.png) |
+
 They appear when the snow flowers bloom. When the petals fall, they retreat to places unknown again.
 
 ---
@@ -8,7 +12,9 @@ They appear when the snow flowers bloom. When the petals fall, they retreat to p
 
 ### Sprites
 
-### Female Sprites
+| Front | Front Shiny |
+| --- | --- |
+| ![Front](../assets/sprites/abomasnow-mega/front.png) | ![Front Shiny](../assets/sprites/abomasnow-mega/front_shiny.png) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #213 Shuckle (Mold Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/shuckle/official_artwork.png) | ![Shiny Artwork](../assets/sprites/shuckle/official_artwork_shiny.png) |
+
 It stores berries in its shell. The berries eventually ferment to become delicious juices.
 
 ---
@@ -8,7 +12,9 @@ It stores berries in its shell. The berries eventually ferment to become delicio
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/shuckle/front.gif) | ![Back](../assets/sprites/shuckle/back.gif) | ![Front Shiny](../assets/sprites/shuckle/front_shiny.gif) | ![Back Shiny](../assets/sprites/shuckle/back_shiny.gif) |
 
 ### Cries
 

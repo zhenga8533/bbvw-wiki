@@ -1,5 +1,9 @@
 # #639 Terrakion (Cavern Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/terrakion/official_artwork.png) | ![Shiny Artwork](../assets/sprites/terrakion/official_artwork_shiny.png) |
+
 **Blaze Black:** This Pokémon came to the defense of Pokémon that had lost their homes in a war among humans.
 
 **Volt White:** Its charge is strong enough to break through a giant castle wall in one blow. This Pokémon is spoken of in legends.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/terrakion/front.gif) | ![Back](../assets/sprites/terrakion/back.gif) | ![Front Shiny](../assets/sprites/terrakion/front_shiny.gif) | ![Back Shiny](../assets/sprites/terrakion/back_shiny.gif) |
 
 ### Cries
 

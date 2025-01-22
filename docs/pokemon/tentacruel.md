@@ -1,5 +1,9 @@
 # #073 Tentacruel (Jellyfish Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/tentacruel/official_artwork.png) | ![Shiny Artwork](../assets/sprites/tentacruel/official_artwork_shiny.png) |
+
 It extends its 80 tentacles to form an encircling poisonous net that is difficult to escape.
 
 ---
@@ -8,7 +12,9 @@ It extends its 80 tentacles to form an encircling poisonous net that is difficul
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/tentacruel/front.gif) | ![Back](../assets/sprites/tentacruel/back.gif) | ![Front Shiny](../assets/sprites/tentacruel/front_shiny.gif) | ![Back Shiny](../assets/sprites/tentacruel/back_shiny.gif) |
 
 ### Cries
 

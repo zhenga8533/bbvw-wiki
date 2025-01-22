@@ -1,5 +1,9 @@
 # #220 Swinub (Pig Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/swinub/official_artwork.png) | ![Shiny Artwork](../assets/sprites/swinub/official_artwork_shiny.png) |
+
 It has a very sensitive nose. It can locate mushrooms, berries, and even hot springs buried under ice.
 
 ---
@@ -8,7 +12,9 @@ It has a very sensitive nose. It can locate mushrooms, berries, and even hot spr
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/swinub/front.gif) | ![Back](../assets/sprites/swinub/back.gif) | ![Front Shiny](../assets/sprites/swinub/front_shiny.gif) | ![Back Shiny](../assets/sprites/swinub/back_shiny.gif) |
 
 ### Cries
 

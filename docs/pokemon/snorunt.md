@@ -1,5 +1,9 @@
 # #361 Snorunt (Snow Hat Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/snorunt/official_artwork.png) | ![Shiny Artwork](../assets/sprites/snorunt/official_artwork_shiny.png) |
+
 It is said that several Snorunt gather under giant leaves and live together in harmony.
 
 ---
@@ -8,7 +12,9 @@ It is said that several Snorunt gather under giant leaves and live together in h
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/snorunt/front.gif) | ![Back](../assets/sprites/snorunt/back.gif) | ![Front Shiny](../assets/sprites/snorunt/front_shiny.gif) | ![Back Shiny](../assets/sprites/snorunt/back_shiny.gif) |
 
 ### Cries
 

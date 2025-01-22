@@ -1,5 +1,9 @@
 # #064 Kadabra (Psi Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/kadabra/official_artwork.png) | ![Shiny Artwork](../assets/sprites/kadabra/official_artwork_shiny.png) |
+
 It stares at its silver spoon to focus its mind. It emits more alpha waves while doing so.
 
 ---
@@ -8,7 +12,15 @@ It stares at its silver spoon to focus its mind. It emits more alpha waves while
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/kadabra/front.gif) | ![Back](../assets/sprites/kadabra/back.gif) | ![Front Shiny](../assets/sprites/kadabra/front_shiny.gif) | ![Back Shiny](../assets/sprites/kadabra/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/kadabra/front_female.gif) | ![Back](../assets/sprites/kadabra/back_female.gif) | ![Front Shiny](../assets/sprites/kadabra/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/kadabra/back_shiny_female.gif) |
 
 ### Cries
 

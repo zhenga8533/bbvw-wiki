@@ -1,5 +1,9 @@
 # #039 Jigglypuff (Balloon Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/jigglypuff/official_artwork.png) | ![Shiny Artwork](../assets/sprites/jigglypuff/official_artwork_shiny.png) |
+
 When it wavers its big, round eyes, it begins singing a lullaby that makes everyone drowsy.
 
 ---
@@ -8,7 +12,9 @@ When it wavers its big, round eyes, it begins singing a lullaby that makes every
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/jigglypuff/front.gif) | ![Back](../assets/sprites/jigglypuff/back.gif) | ![Front Shiny](../assets/sprites/jigglypuff/front_shiny.gif) | ![Back Shiny](../assets/sprites/jigglypuff/back_shiny.gif) |
 
 ### Cries
 

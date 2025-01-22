@@ -1,5 +1,9 @@
 # #488 Cresselia (Lunar Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/cresselia/official_artwork.png) | ![Shiny Artwork](../assets/sprites/cresselia/official_artwork_shiny.png) |
+
 On nights around the quarter moon, the aurora from its tail extends and undulates beautifully.
 
 ---
@@ -8,7 +12,9 @@ On nights around the quarter moon, the aurora from its tail extends and undulate
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/cresselia/front.gif) | ![Back](../assets/sprites/cresselia/back.gif) | ![Front Shiny](../assets/sprites/cresselia/front_shiny.gif) | ![Back Shiny](../assets/sprites/cresselia/back_shiny.gif) |
 
 ### Cries
 

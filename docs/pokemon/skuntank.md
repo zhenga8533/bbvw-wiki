@@ -1,5 +1,9 @@
 # #435 Skuntank (Skunk Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/skuntank/official_artwork.png) | ![Shiny Artwork](../assets/sprites/skuntank/official_artwork_shiny.png) |
+
 It attacks by spraying a horribly smelly fluid from the tip of its tail. Attacks from above confound it.
 
 ---
@@ -8,7 +12,9 @@ It attacks by spraying a horribly smelly fluid from the tip of its tail. Attacks
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/skuntank/front.gif) | ![Back](../assets/sprites/skuntank/back.gif) | ![Front Shiny](../assets/sprites/skuntank/front_shiny.gif) | ![Back Shiny](../assets/sprites/skuntank/back_shiny.gif) |
 
 ### Cries
 

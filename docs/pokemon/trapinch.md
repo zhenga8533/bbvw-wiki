@@ -1,5 +1,9 @@
 # #328 Trapinch (Ant Pit Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/trapinch/official_artwork.png) | ![Shiny Artwork](../assets/sprites/trapinch/official_artwork_shiny.png) |
+
 It makes a conical pit in desert sand and lies in wait at the bottom for prey to come tumbling down.
 
 ---
@@ -8,7 +12,9 @@ It makes a conical pit in desert sand and lies in wait at the bottom for prey to
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/trapinch/front.gif) | ![Back](../assets/sprites/trapinch/back.gif) | ![Front Shiny](../assets/sprites/trapinch/front_shiny.gif) | ![Back Shiny](../assets/sprites/trapinch/back_shiny.gif) |
 
 ### Cries
 

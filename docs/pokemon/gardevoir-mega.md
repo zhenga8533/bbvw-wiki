@@ -1,5 +1,9 @@
 # #10051 Gardevoir Mega (Embrace Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/gardevoir-mega/official_artwork.png) | ![Shiny Artwork](../assets/sprites/gardevoir-mega/official_artwork_shiny.png) |
+
 To protect its Trainer, it will expend all its psychic power to create a small black hole.
 
 ---
@@ -8,7 +12,9 @@ To protect its Trainer, it will expend all its psychic power to create a small b
 
 ### Sprites
 
-### Female Sprites
+| Front | Front Shiny |
+| --- | --- |
+| ![Front](../assets/sprites/gardevoir-mega/front.png) | ![Front Shiny](../assets/sprites/gardevoir-mega/front_shiny.png) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #421 Cherrim (Blossom Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/cherrim/official_artwork.png) | ![Shiny Artwork](../assets/sprites/cherrim/official_artwork_shiny.png) |
+
 If it senses strong sunlight, it opens its folded petals to absorb the sun’s rays with its whole body.
 
 ---
@@ -8,7 +12,9 @@ If it senses strong sunlight, it opens its folded petals to absorb the sun’s r
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/cherrim/front.gif) | ![Back](../assets/sprites/cherrim/back.gif) | ![Front Shiny](../assets/sprites/cherrim/front_shiny.gif) | ![Back Shiny](../assets/sprites/cherrim/back_shiny.gif) |
 
 ### Cries
 

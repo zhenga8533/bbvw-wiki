@@ -1,5 +1,9 @@
 # #263 Zigzagoon (Tiny Raccoon Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/zigzagoon/official_artwork.png) | ![Shiny Artwork](../assets/sprites/zigzagoon/official_artwork_shiny.png) |
+
 It walks in zigzag fashion. It is good at finding items in the grass and even in the ground.
 
 ---
@@ -8,7 +12,9 @@ It walks in zigzag fashion. It is good at finding items in the grass and even in
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/zigzagoon/front.gif) | ![Back](../assets/sprites/zigzagoon/back.gif) | ![Front Shiny](../assets/sprites/zigzagoon/front_shiny.gif) | ![Back Shiny](../assets/sprites/zigzagoon/back_shiny.gif) |
 
 ### Cries
 

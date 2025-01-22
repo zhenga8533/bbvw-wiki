@@ -1,5 +1,9 @@
 # #101 Electrode (Ball Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/electrode/official_artwork.png) | ![Shiny Artwork](../assets/sprites/electrode/official_artwork_shiny.png) |
+
 It is known to drift on winds if it is bloated to bursting with stored electricity.
 
 ---
@@ -8,7 +12,9 @@ It is known to drift on winds if it is bloated to bursting with stored electrici
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/electrode/front.gif) | ![Back](../assets/sprites/electrode/back.gif) | ![Front Shiny](../assets/sprites/electrode/front_shiny.gif) | ![Back Shiny](../assets/sprites/electrode/back_shiny.gif) |
 
 ### Cries
 

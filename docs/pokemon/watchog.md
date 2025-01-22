@@ -1,5 +1,9 @@
 # #505 Watchog (Lookout Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/watchog/official_artwork.png) | ![Shiny Artwork](../assets/sprites/watchog/official_artwork_shiny.png) |
+
 **Blaze Black:** When they see an enemy, their tails stand high, and they spit the seeds of berries stored in their cheek pouches.
 
 **Volt White:** They make the patterns on their bodies shine in order to threaten predators. Keen eyesight lets them see in the dark.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/watchog/front.gif) | ![Back](../assets/sprites/watchog/back.gif) | ![Front Shiny](../assets/sprites/watchog/front_shiny.gif) | ![Back Shiny](../assets/sprites/watchog/back_shiny.gif) |
 
 ### Cries
 

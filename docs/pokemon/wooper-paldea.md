@@ -1,5 +1,9 @@
 # #10253 Wooper Paldea (Water Fish Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/wooper-paldea/official_artwork.png) | ![Shiny Artwork](../assets/sprites/wooper-paldea/official_artwork_shiny.png) |
+
 When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.
 
 ---
@@ -7,8 +11,6 @@ When walking on land, it covers its body with a poisonous film that keeps its sk
 ## Media
 
 ### Sprites
-
-### Female Sprites
 
 ### Cries
 

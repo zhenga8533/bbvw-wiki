@@ -1,5 +1,9 @@
 # #10020 Thundurus Therian (Bolt Strike Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/thundurus-therian/official_artwork.png) | ![Shiny Artwork](../assets/sprites/thundurus-therian/official_artwork_shiny.png) |
+
 **Blaze Black:** Countless charred remains mar the landscape of places through which Thundurus has passed.
 
 **Volt White:** The spikes on its tail discharge immense bolts of lightning. It flies around the Unova region firing off lightning bolts.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/thundurus-therian/front.gif) | ![Back](../assets/sprites/thundurus-therian/back.gif) | ![Front Shiny](../assets/sprites/thundurus-therian/front_shiny.gif) | ![Back Shiny](../assets/sprites/thundurus-therian/back_shiny.gif) |
 
 ### Cries
 

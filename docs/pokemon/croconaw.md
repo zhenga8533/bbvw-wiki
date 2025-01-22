@@ -1,5 +1,9 @@
 # #159 Croconaw (Big Jaw Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/croconaw/official_artwork.png) | ![Shiny Artwork](../assets/sprites/croconaw/official_artwork_shiny.png) |
+
 Once it bites down, it won’t let go until it loses its fangs. New fangs quickly grow into place.
 
 ---
@@ -8,7 +12,9 @@ Once it bites down, it won’t let go until it loses its fangs. New fangs quickl
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/croconaw/front.gif) | ![Back](../assets/sprites/croconaw/back.gif) | ![Front Shiny](../assets/sprites/croconaw/front_shiny.gif) | ![Back Shiny](../assets/sprites/croconaw/back_shiny.gif) |
 
 ### Cries
 

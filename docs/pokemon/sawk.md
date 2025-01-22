@@ -1,5 +1,9 @@
 # #539 Sawk (Karate Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/sawk/official_artwork.png) | ![Shiny Artwork](../assets/sprites/sawk/official_artwork_shiny.png) |
+
 **Blaze Black:** The sound of Sawk punching boulders and trees can be heard all the way from the mountains where they train.
 
 **Volt White:** Tying their belts gets them pumped and makes their punches more destructive. Disturbing their training angers them.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/sawk/front.gif) | ![Back](../assets/sprites/sawk/back.gif) | ![Front Shiny](../assets/sprites/sawk/front_shiny.gif) | ![Back Shiny](../assets/sprites/sawk/back_shiny.gif) |
 
 ### Cries
 

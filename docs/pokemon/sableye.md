@@ -1,5 +1,9 @@
 # #302 Sableye (Darkness Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/sableye/official_artwork.png) | ![Shiny Artwork](../assets/sprites/sableye/official_artwork_shiny.png) |
+
 It hides in the darkness of caves. Its diet of gems has transformed its eyes into gemstones.
 
 ---
@@ -8,7 +12,9 @@ It hides in the darkness of caves. Its diet of gems has transformed its eyes int
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/sableye/front.gif) | ![Back](../assets/sprites/sableye/back.gif) | ![Front Shiny](../assets/sprites/sableye/front_shiny.gif) | ![Back Shiny](../assets/sprites/sableye/back_shiny.gif) |
 
 ### Cries
 

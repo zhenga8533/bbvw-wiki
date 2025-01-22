@@ -1,5 +1,9 @@
 # #134 Vaporeon (Bubble Jet Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/vaporeon/official_artwork.png) | ![Shiny Artwork](../assets/sprites/vaporeon/official_artwork_shiny.png) |
+
 Its cell composition is similar to water molecules. As a result, it can melt away into water.
 
 ---
@@ -8,7 +12,9 @@ Its cell composition is similar to water molecules. As a result, it can melt awa
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/vaporeon/front.gif) | ![Back](../assets/sprites/vaporeon/back.gif) | ![Front Shiny](../assets/sprites/vaporeon/front_shiny.gif) | ![Back Shiny](../assets/sprites/vaporeon/back_shiny.gif) |
 
 ### Cries
 

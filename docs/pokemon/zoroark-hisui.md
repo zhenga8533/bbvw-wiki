@@ -1,5 +1,9 @@
 # #10239 Zoroark Hisui (Illusion Fox Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/zoroark-hisui/official_artwork.png) | ![Shiny Artwork](../assets/sprites/zoroark-hisui/official_artwork_shiny.png) |
+
 **Blaze Black:** Bonds between these Pokémon are very strong. It protects the safety of its pack by tricking its opponents.
 
 **Volt White:** Each has the ability to fool a large group of people simultaneously. They protect their lair with illusory scenery.
@@ -9,8 +13,6 @@
 ## Media
 
 ### Sprites
-
-### Female Sprites
 
 ### Cries
 

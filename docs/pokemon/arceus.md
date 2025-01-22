@@ -1,5 +1,9 @@
 # #493 Arceus (Alpha Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/arceus/official_artwork.png) | ![Shiny Artwork](../assets/sprites/arceus/official_artwork_shiny.png) |
+
 It is said to have emerged from an egg in a place where there was nothing, then shaped the world.
 
 ---
@@ -8,7 +12,9 @@ It is said to have emerged from an egg in a place where there was nothing, then 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/arceus/front.gif) | ![Back](../assets/sprites/arceus/back.gif) | ![Front Shiny](../assets/sprites/arceus/front_shiny.gif) | ![Back Shiny](../assets/sprites/arceus/back_shiny.gif) |
 
 ### Cries
 

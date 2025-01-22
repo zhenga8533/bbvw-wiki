@@ -1,5 +1,9 @@
 # #195 Quagsire (Water Fish Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/quagsire/official_artwork.png) | ![Shiny Artwork](../assets/sprites/quagsire/official_artwork_shiny.png) |
+
 It has an easygoing nature. It doesn’t care if it bumps its head on boats and boulders while swimming.
 
 ---
@@ -8,7 +12,15 @@ It has an easygoing nature. It doesn’t care if it bumps its head on boats and 
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/quagsire/front.gif) | ![Back](../assets/sprites/quagsire/back.gif) | ![Front Shiny](../assets/sprites/quagsire/front_shiny.gif) | ![Back Shiny](../assets/sprites/quagsire/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/quagsire/front_female.gif) | ![Back](../assets/sprites/quagsire/back_female.gif) | ![Front Shiny](../assets/sprites/quagsire/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/quagsire/back_shiny_female.gif) |
 
 ### Cries
 

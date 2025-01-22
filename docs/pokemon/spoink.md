@@ -1,5 +1,9 @@
 # #325 Spoink (Bounce Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/spoink/official_artwork.png) | ![Shiny Artwork](../assets/sprites/spoink/official_artwork_shiny.png) |
+
 It bounces constantly, using its tail like a spring. The shock of bouncing keeps its heart beating.
 
 ---
@@ -8,7 +12,9 @@ It bounces constantly, using its tail like a spring. The shock of bouncing keeps
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/spoink/front.gif) | ![Back](../assets/sprites/spoink/back.gif) | ![Front Shiny](../assets/sprites/spoink/front_shiny.gif) | ![Back Shiny](../assets/sprites/spoink/back_shiny.gif) |
 
 ### Cries
 

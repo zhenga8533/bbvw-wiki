@@ -1,5 +1,9 @@
 # #622 Golett (Automaton Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/golett/official_artwork.png) | ![Shiny Artwork](../assets/sprites/golett/official_artwork_shiny.png) |
+
 **Blaze Black:** The energy that burns inside it enables it to move, but no one has yet been able to identify this energy.
 
 **Volt White:** These Pokémon are thought to have been created by the science of an ancient and mysterious civilization.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/golett/front.gif) | ![Back](../assets/sprites/golett/back.gif) | ![Front Shiny](../assets/sprites/golett/front_shiny.gif) | ![Back Shiny](../assets/sprites/golett/back_shiny.gif) |
 
 ### Cries
 

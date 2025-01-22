@@ -1,5 +1,9 @@
 # #322 Numel (Numb Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/numel/official_artwork.png) | ![Shiny Artwork](../assets/sprites/numel/official_artwork_shiny.png) |
+
 Its humped back stores intensely hot magma. In rain, the magma cools, slowing its movement.
 
 ---
@@ -8,7 +12,15 @@ Its humped back stores intensely hot magma. In rain, the magma cools, slowing it
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/numel/front.gif) | ![Back](../assets/sprites/numel/back.gif) | ![Front Shiny](../assets/sprites/numel/front_shiny.gif) | ![Back Shiny](../assets/sprites/numel/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/numel/front_female.gif) | ![Back](../assets/sprites/numel/back_female.gif) | ![Front Shiny](../assets/sprites/numel/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/numel/back_shiny_female.gif) |
 
 ### Cries
 

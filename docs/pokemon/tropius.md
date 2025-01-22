@@ -1,5 +1,9 @@
 # #357 Tropius (Fruit Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/tropius/official_artwork.png) | ![Shiny Artwork](../assets/sprites/tropius/official_artwork_shiny.png) |
+
 Delicious fruits grew out from around its neck because it always ate the same kind of fruit.
 
 ---
@@ -8,7 +12,9 @@ Delicious fruits grew out from around its neck because it always ate the same ki
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/tropius/front.gif) | ![Back](../assets/sprites/tropius/back.gif) | ![Front Shiny](../assets/sprites/tropius/front_shiny.gif) | ![Back Shiny](../assets/sprites/tropius/back_shiny.gif) |
 
 ### Cries
 

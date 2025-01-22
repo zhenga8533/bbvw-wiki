@@ -1,5 +1,9 @@
 # #022 Fearow (Beak Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/fearow/official_artwork.png) | ![Shiny Artwork](../assets/sprites/fearow/official_artwork_shiny.png) |
+
 It has the stamina to fly all day on its broad wings. It fights by using its sharp beak.
 
 ---
@@ -8,7 +12,9 @@ It has the stamina to fly all day on its broad wings. It fights by using its sha
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/fearow/front.gif) | ![Back](../assets/sprites/fearow/back.gif) | ![Front Shiny](../assets/sprites/fearow/front_shiny.gif) | ![Back Shiny](../assets/sprites/fearow/back_shiny.gif) |
 
 ### Cries
 

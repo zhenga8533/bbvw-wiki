@@ -1,5 +1,9 @@
 # #016 Pidgey (Tiny Bird Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/pidgey/official_artwork.png) | ![Shiny Artwork](../assets/sprites/pidgey/official_artwork_shiny.png) |
+
 It is docile and prefers to avoid conflict. If disturbed, however, it can ferociously strike back.
 
 ---
@@ -8,7 +12,9 @@ It is docile and prefers to avoid conflict. If disturbed, however, it can feroci
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/pidgey/front.gif) | ![Back](../assets/sprites/pidgey/back.gif) | ![Front Shiny](../assets/sprites/pidgey/front_shiny.gif) | ![Back Shiny](../assets/sprites/pidgey/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #503 Samurott (Formidable Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/samurott/official_artwork.png) | ![Shiny Artwork](../assets/sprites/samurott/official_artwork_shiny.png) |
+
 **Blaze Black:** One swing of the sword incorporated in its armor can fell an opponent. A simple glare from one of them quiets everybody.
 
 **Volt White:** Part of the armor on its anterior legs becomes a giant sword. Its cry alone is enough to intimidate most enemies.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/samurott/front.gif) | ![Back](../assets/sprites/samurott/back.gif) | ![Front Shiny](../assets/sprites/samurott/front_shiny.gif) | ![Back Shiny](../assets/sprites/samurott/back_shiny.gif) |
 
 ### Cries
 

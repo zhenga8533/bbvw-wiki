@@ -1,5 +1,9 @@
 # #600 Klang (Gear Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/klang/official_artwork.png) | ![Shiny Artwork](../assets/sprites/klang/official_artwork_shiny.png) |
+
 **Blaze Black:** By changing the direction in which it rotates, it communicates its feelings to others. When angry, it rotates faster.
 
 **Volt White:** Spinning minigears are rotated at high speed and repeatedly fired away. It is dangerous if the gears don’t return.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/klang/front.gif) | ![Back](../assets/sprites/klang/back.gif) | ![Front Shiny](../assets/sprites/klang/front_shiny.gif) | ![Back Shiny](../assets/sprites/klang/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #596 Galvantula (EleSpider Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/galvantula/official_artwork.png) | ![Shiny Artwork](../assets/sprites/galvantula/official_artwork_shiny.png) |
+
 **Blaze Black:** When attacked, they create an electric barrier by spitting out many electrically charged threads.
 
 **Volt White:** They employ an electrically charged web to trap their prey. While it is immobilized by shock, they leisurely consume it.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/galvantula/front.gif) | ![Back](../assets/sprites/galvantula/back.gif) | ![Front Shiny](../assets/sprites/galvantula/front_shiny.gif) | ![Back Shiny](../assets/sprites/galvantula/back_shiny.gif) |
 
 ### Cries
 

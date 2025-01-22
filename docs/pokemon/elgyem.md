@@ -1,5 +1,9 @@
 # #605 Elgyem (Cerebral Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/elgyem/official_artwork.png) | ![Shiny Artwork](../assets/sprites/elgyem/official_artwork_shiny.png) |
+
 **Blaze Black:** It uses its strong psychic power to squeeze its opponent’s brain, causing unendurable headaches.
 
 **Volt White:** This Pokémon had never been seen until it appeared from far in the desert 50 years ago.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/elgyem/front.gif) | ![Back](../assets/sprites/elgyem/back.gif) | ![Front Shiny](../assets/sprites/elgyem/front_shiny.gif) | ![Back Shiny](../assets/sprites/elgyem/back_shiny.gif) |
 
 ### Cries
 

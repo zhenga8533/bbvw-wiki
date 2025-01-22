@@ -1,5 +1,9 @@
 # #358 Chimecho (Wind Chime Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/chimecho/official_artwork.png) | ![Shiny Artwork](../assets/sprites/chimecho/official_artwork_shiny.png) |
+
 Its cries echo inside its hollow body to emerge as beautiful notes for startling and repelling foes.
 
 ---
@@ -8,7 +12,9 @@ Its cries echo inside its hollow body to emerge as beautiful notes for startling
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/chimecho/front.gif) | ![Back](../assets/sprites/chimecho/back.gif) | ![Front Shiny](../assets/sprites/chimecho/front_shiny.gif) | ![Back Shiny](../assets/sprites/chimecho/back_shiny.gif) |
 
 ### Cries
 

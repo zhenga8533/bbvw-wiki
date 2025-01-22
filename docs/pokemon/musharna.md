@@ -1,5 +1,9 @@
 # #518 Musharna (Drowsing Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/musharna/official_artwork.png) | ![Shiny Artwork](../assets/sprites/musharna/official_artwork_shiny.png) |
+
 **Blaze Black:** The mist emanating from their foreheads is packed with the dreams of people and Pokémon.
 
 **Volt White:** With the mist from its forehead, it can create shapes of things from dreams it has eaten.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/musharna/front.gif) | ![Back](../assets/sprites/musharna/back.gif) | ![Front Shiny](../assets/sprites/musharna/front_shiny.gif) | ![Back Shiny](../assets/sprites/musharna/back_shiny.gif) |
 
 ### Cries
 

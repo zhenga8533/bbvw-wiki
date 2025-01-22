@@ -1,5 +1,9 @@
 # #179 Mareep (Wool Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/mareep/official_artwork.png) | ![Shiny Artwork](../assets/sprites/mareep/official_artwork_shiny.png) |
+
 Its fluffy coat swells to double when static electricity builds up. Touching it can be shocking.
 
 ---
@@ -8,7 +12,9 @@ Its fluffy coat swells to double when static electricity builds up. Touching it 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/mareep/front.gif) | ![Back](../assets/sprites/mareep/back.gif) | ![Front Shiny](../assets/sprites/mareep/front_shiny.gif) | ![Back Shiny](../assets/sprites/mareep/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #290 Nincada (Trainee Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/nincada/official_artwork.png) | ![Shiny Artwork](../assets/sprites/nincada/official_artwork_shiny.png) |
+
 It grows underground, sensing its surroundings using antennae instead of its virtually blind eyes.
 
 ---
@@ -8,7 +12,9 @@ It grows underground, sensing its surroundings using antennae instead of its vir
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/nincada/front.gif) | ![Back](../assets/sprites/nincada/back.gif) | ![Front Shiny](../assets/sprites/nincada/front_shiny.gif) | ![Back Shiny](../assets/sprites/nincada/back_shiny.gif) |
 
 ### Cries
 

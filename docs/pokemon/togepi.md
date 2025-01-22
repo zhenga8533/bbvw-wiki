@@ -1,5 +1,9 @@
 # #175 Togepi (Spike Ball Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/togepi/official_artwork.png) | ![Shiny Artwork](../assets/sprites/togepi/official_artwork_shiny.png) |
+
 It transforms the kindness and joy of others into happiness, which it stores in its shell.
 
 ---
@@ -8,7 +12,9 @@ It transforms the kindness and joy of others into happiness, which it stores in 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/togepi/front.gif) | ![Back](../assets/sprites/togepi/back.gif) | ![Front Shiny](../assets/sprites/togepi/front_shiny.gif) | ![Back Shiny](../assets/sprites/togepi/back_shiny.gif) |
 
 ### Cries
 

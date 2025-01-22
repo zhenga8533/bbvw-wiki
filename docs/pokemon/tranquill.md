@@ -1,5 +1,9 @@
 # #520 Tranquill (Wild Pigeon Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/tranquill/official_artwork.png) | ![Shiny Artwork](../assets/sprites/tranquill/official_artwork_shiny.png) |
+
 **Blaze Black:** It can return to its Trainer’s location regardless of the distance separating them.
 
 **Volt White:** Many people believe that, deep in the forest where Tranquill live, there is a peaceful place where there is no war.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/tranquill/front.gif) | ![Back](../assets/sprites/tranquill/back.gif) | ![Front Shiny](../assets/sprites/tranquill/front_shiny.gif) | ![Back Shiny](../assets/sprites/tranquill/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #203 Girafarig (Long Neck Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/girafarig/official_artwork.png) | ![Shiny Artwork](../assets/sprites/girafarig/official_artwork_shiny.png) |
+
 The head on its tail contains a small brain. It can instinctively fight even while facing backward.
 
 ---
@@ -8,7 +12,15 @@ The head on its tail contains a small brain. It can instinctively fight even whi
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/girafarig/front.gif) | ![Back](../assets/sprites/girafarig/back.gif) | ![Front Shiny](../assets/sprites/girafarig/front_shiny.gif) | ![Back Shiny](../assets/sprites/girafarig/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/girafarig/front_female.gif) | ![Back](../assets/sprites/girafarig/back_female.gif) | ![Front Shiny](../assets/sprites/girafarig/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/girafarig/back_shiny_female.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #611 Fraxure (Axe Jaw Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/fraxure/official_artwork.png) | ![Shiny Artwork](../assets/sprites/fraxure/official_artwork_shiny.png) |
+
 **Blaze Black:** Since a broken tusk will not grow back, they diligently sharpen their tusks on river rocks after they’ve been fighting.
 
 **Volt White:** Their tusks can shatter rocks. Territory battles between Fraxure can be intensely violent.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/fraxure/front.gif) | ![Back](../assets/sprites/fraxure/back.gif) | ![Front Shiny](../assets/sprites/fraxure/front_shiny.gif) | ![Back Shiny](../assets/sprites/fraxure/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #026 Raichu (Mouse Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/raichu/official_artwork.png) | ![Shiny Artwork](../assets/sprites/raichu/official_artwork_shiny.png) |
+
 Its tail discharges electricity into the ground, protecting it from getting shocked.
 
 ---
@@ -8,7 +12,15 @@ Its tail discharges electricity into the ground, protecting it from getting shoc
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/raichu/front.gif) | ![Back](../assets/sprites/raichu/back.gif) | ![Front Shiny](../assets/sprites/raichu/front_shiny.gif) | ![Back Shiny](../assets/sprites/raichu/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/raichu/front_female.gif) | ![Back](../assets/sprites/raichu/back_female.gif) | ![Front Shiny](../assets/sprites/raichu/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/raichu/back_shiny_female.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #348 Armaldo (Plate Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/armaldo/official_artwork.png) | ![Shiny Artwork](../assets/sprites/armaldo/official_artwork_shiny.png) |
+
 It went ashore after evolving. Its entire body is clad in a sturdy armor.
 
 ---
@@ -8,7 +12,9 @@ It went ashore after evolving. Its entire body is clad in a sturdy armor.
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/armaldo/front.gif) | ![Back](../assets/sprites/armaldo/back.gif) | ![Front Shiny](../assets/sprites/armaldo/front_shiny.gif) | ![Back Shiny](../assets/sprites/armaldo/back_shiny.gif) |
 
 ### Cries
 

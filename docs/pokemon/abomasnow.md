@@ -1,5 +1,9 @@
 # #460 Abomasnow (Frost Tree Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/abomasnow/official_artwork.png) | ![Shiny Artwork](../assets/sprites/abomasnow/official_artwork_shiny.png) |
+
 They appear when the snow flowers bloom. When the petals fall, they retreat to places unknown again.
 
 ---
@@ -8,7 +12,15 @@ They appear when the snow flowers bloom. When the petals fall, they retreat to p
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/abomasnow/front.gif) | ![Back](../assets/sprites/abomasnow/back.gif) | ![Front Shiny](../assets/sprites/abomasnow/front_shiny.gif) | ![Back Shiny](../assets/sprites/abomasnow/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/abomasnow/front_female.gif) | ![Back](../assets/sprites/abomasnow/back_female.gif) | ![Front Shiny](../assets/sprites/abomasnow/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/abomasnow/back_shiny_female.gif) |
 
 ### Cries
 

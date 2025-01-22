@@ -1,5 +1,9 @@
 # #382 Kyogre (Sea Basin Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/kyogre/official_artwork.png) | ![Shiny Artwork](../assets/sprites/kyogre/official_artwork_shiny.png) |
+
 It is said to have widened the seas by causing downpours. It had been asleep in a marine trench.
 
 ---
@@ -8,7 +12,9 @@ It is said to have widened the seas by causing downpours. It had been asleep in 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/kyogre/front.gif) | ![Back](../assets/sprites/kyogre/back.gif) | ![Front Shiny](../assets/sprites/kyogre/front_shiny.gif) | ![Back Shiny](../assets/sprites/kyogre/back_shiny.gif) |
 
 ### Cries
 

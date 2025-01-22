@@ -1,5 +1,9 @@
 # #599 Klink (Gear Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/klink/official_artwork.png) | ![Shiny Artwork](../assets/sprites/klink/official_artwork_shiny.png) |
+
 **Blaze Black:** The two minigears that mesh together are predetermined. Each will rebound from other minigears without meshing.
 
 **Volt White:** Interlocking two bodies and spinning around generates the energy they need to live.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/klink/front.gif) | ![Back](../assets/sprites/klink/back.gif) | ![Front Shiny](../assets/sprites/klink/front_shiny.gif) | ![Back Shiny](../assets/sprites/klink/back_shiny.gif) |
 
 ### Cries
 

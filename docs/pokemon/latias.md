@@ -1,5 +1,9 @@
 # #380 Latias (Eon Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/latias/official_artwork.png) | ![Shiny Artwork](../assets/sprites/latias/official_artwork_shiny.png) |
+
 Its body is covered with a down that can refract light in such a way that it becomes invisible.
 
 ---
@@ -8,7 +12,9 @@ Its body is covered with a down that can refract light in such a way that it bec
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/latias/front.gif) | ![Back](../assets/sprites/latias/back.gif) | ![Front Shiny](../assets/sprites/latias/front_shiny.gif) | ![Back Shiny](../assets/sprites/latias/back_shiny.gif) |
 
 ### Cries
 

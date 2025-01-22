@@ -1,5 +1,9 @@
 # #147 Dratini (Dragon Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/dratini/official_artwork.png) | ![Shiny Artwork](../assets/sprites/dratini/official_artwork_shiny.png) |
+
 It is called the “Mirage Pokémon” because so few have seen it. Its shed skin has been found.
 
 ---
@@ -8,7 +12,9 @@ It is called the “Mirage Pokémon” because so few have seen it. Its shed ski
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/dratini/front.gif) | ![Back](../assets/sprites/dratini/back.gif) | ![Front Shiny](../assets/sprites/dratini/front_shiny.gif) | ![Back Shiny](../assets/sprites/dratini/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #604 Eelektross (EleFish Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/eelektross/official_artwork.png) | ![Shiny Artwork](../assets/sprites/eelektross/official_artwork_shiny.png) |
+
 **Blaze Black:** They crawl out of the ocean using their arms. They will attack prey on shore and immediately drag it into the ocean.
 
 **Volt White:** With their sucker mouths, they suck in prey. Then they use their fangs to shock the prey with electricity.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/eelektross/front.gif) | ![Back](../assets/sprites/eelektross/back.gif) | ![Front Shiny](../assets/sprites/eelektross/front_shiny.gif) | ![Back Shiny](../assets/sprites/eelektross/back_shiny.gif) |
 
 ### Cries
 

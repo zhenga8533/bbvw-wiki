@@ -1,5 +1,9 @@
 # #342 Crawdaunt (Rogue Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/crawdaunt/official_artwork.png) | ![Shiny Artwork](../assets/sprites/crawdaunt/official_artwork_shiny.png) |
+
 It is a ruffian that uses its pincers to pick up and toss out other Pokémon from its pond.
 
 ---
@@ -8,7 +12,9 @@ It is a ruffian that uses its pincers to pick up and toss out other Pokémon fro
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/crawdaunt/front.gif) | ![Back](../assets/sprites/crawdaunt/back.gif) | ![Front Shiny](../assets/sprites/crawdaunt/front_shiny.gif) | ![Back Shiny](../assets/sprites/crawdaunt/back_shiny.gif) |
 
 ### Cries
 

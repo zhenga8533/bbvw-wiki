@@ -1,5 +1,9 @@
 # #521 Unfezant (Proud Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/unfezant/official_artwork.png) | ![Shiny Artwork](../assets/sprites/unfezant/official_artwork_shiny.png) |
+
 **Blaze Black:** Males swing their head plumage to threaten opponents. The females’ flying abilities surpass those of the males.
 
 **Volt White:** Males have plumage on their heads. They will never let themselves feel close to anyone other than their Trainers.
@@ -10,7 +14,15 @@
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/unfezant/front.gif) | ![Back](../assets/sprites/unfezant/back.gif) | ![Front Shiny](../assets/sprites/unfezant/front_shiny.gif) | ![Back Shiny](../assets/sprites/unfezant/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/unfezant/front_female.gif) | ![Back](../assets/sprites/unfezant/back_female.gif) | ![Front Shiny](../assets/sprites/unfezant/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/unfezant/back_shiny_female.gif) |
 
 ### Cries
 

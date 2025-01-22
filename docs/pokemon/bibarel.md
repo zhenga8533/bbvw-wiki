@@ -1,5 +1,9 @@
 # #400 Bibarel (Beaver Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/bibarel/official_artwork.png) | ![Shiny Artwork](../assets/sprites/bibarel/official_artwork_shiny.png) |
+
 A river dammed by Bibarel will never overflow its banks, which is appreciated by people nearby.
 
 ---
@@ -8,7 +12,15 @@ A river dammed by Bibarel will never overflow its banks, which is appreciated by
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/bibarel/front.gif) | ![Back](../assets/sprites/bibarel/back.gif) | ![Front Shiny](../assets/sprites/bibarel/front_shiny.gif) | ![Back Shiny](../assets/sprites/bibarel/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/bibarel/front_female.gif) | ![Back](../assets/sprites/bibarel/back_female.gif) | ![Front Shiny](../assets/sprites/bibarel/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/bibarel/back_shiny_female.gif) |
 
 ### Cries
 

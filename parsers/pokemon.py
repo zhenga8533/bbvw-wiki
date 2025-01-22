@@ -115,14 +115,20 @@ def parse_moves(moves: list, headers: list, move_key: str, logger: Logger) -> st
 
 def to_md(pokemon: dict, pokemon_set: dict, logger: Logger) -> str:
     # Basic information
-    pokemon_name = pokemon["name"].replace("-", " ").title()
+    name_id = pokemon["name"]
+    pokemon_name = name_id.replace("-", " ").title()
     pokemon_id = pokemon["id"]
     md = f"# #{pokemon["id"]:03} {pokemon_name} ({pokemon["genus"]})\n\n"
 
     # Add official artwork
     md += create_image_table(
         ["Official Artwork", "Shiny Artwork"],
-        [[f"../assets/sprites/{pokemon_id}/official.png", f"../assets/sprites/{pokemon_id}/shiny.png"]],
+        [
+            [
+                f"../assets/sprites/{name_id}/official_artwork.png",
+                f"../assets/sprites/{name_id}/official_artwork_shiny.png",
+            ]
+        ],
         logger,
     )
 
@@ -144,46 +150,46 @@ def to_md(pokemon: dict, pokemon_set: dict, logger: Logger) -> str:
     md += "---\n\n## Media\n\n"
     md += "### Sprites\n\n"
     image_headers = ["Front", "Back", "Front Shiny", "Back Shiny"]
-
-    image_table = create_image_table(
+    md += create_image_table(
         image_headers,
         [
             [
-                f"../assets/sprites/{pokemon_id}/front.gif",
-                f"../assets/sprites/{pokemon_id}/back.gif",
-                f"../assets/sprites/{pokemon_id}/front_shiny.gif",
-                f"../assets/sprites/{pokemon_id}/back_shiny.gif",
+                f"../assets/sprites/{name_id}/front.gif",
+                f"../assets/sprites/{name_id}/back.gif",
+                f"../assets/sprites/{name_id}/front_shiny.gif",
+                f"../assets/sprites/{name_id}/back_shiny.gif",
             ],
             [
-                f"../assets/sprites/{pokemon_id}/front.png",
-                f"../assets/sprites/{pokemon_id}/back.png",
-                f"../assets/sprites/{pokemon_id}/front_shiny.png",
-                f"../assets/sprites/{pokemon_id}/back_shiny.png",
+                f"../assets/sprites/{name_id}/front.png",
+                f"../assets/sprites/{name_id}/back.png",
+                f"../assets/sprites/{name_id}/front_shiny.png",
+                f"../assets/sprites/{name_id}/back_shiny.png",
             ],
         ],
         logger,
     )
-    md += image_table
 
-    md += "### Female Sprites\n\n"
-    image_table = create_image_table(
+    female_sprite_table = create_image_table(
         image_headers,
         [
             [
-                f"../assets/sprites/{pokemon_id}/front_female.gif",
-                f"../assets/sprites/{pokemon_id}/back_female.gif",
-                f"../assets/sprites/{pokemon_id}/front_shiny_female.gif",
-                f"../assets/sprites/{pokemon_id}/back_shiny_female.gif",
+                f"../assets/sprites/{name_id}/front_female.gif",
+                f"../assets/sprites/{name_id}/back_female.gif",
+                f"../assets/sprites/{name_id}/front_shiny_female.gif",
+                f"../assets/sprites/{name_id}/back_shiny_female.gif",
             ],
             [
-                f"../assets/sprites/{pokemon_id}/front_female.png",
-                f"../assets/sprites/{pokemon_id}/back_female.png",
-                f"../assets/sprites/{pokemon_id}/front_shiny_female.png",
-                f"../assets/sprites/{pokemon_id}/back_shiny_female.png",
+                f"../assets/sprites/{name_id}/front_female.png",
+                f"../assets/sprites/{name_id}/back_female.png",
+                f"../assets/sprites/{name_id}/front_shiny_female.png",
+                f"../assets/sprites/{name_id}/back_shiny_female.png",
             ],
         ],
         logger,
     )
+    if female_sprite_table != "":
+        md += "### Female Sprites\n\n"
+        md += female_sprite_table
 
     # Cries
     md += "### Cries\n\n"

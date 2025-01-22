@@ -1,5 +1,9 @@
 # #431 Glameow (Catty Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/glameow/official_artwork.png) | ![Shiny Artwork](../assets/sprites/glameow/official_artwork_shiny.png) |
+
 It hides its spiteful tendency of hooking its claws into the nose of its Trainer if it isn’t fed.
 
 ---
@@ -8,7 +12,9 @@ It hides its spiteful tendency of hooking its claws into the nose of its Trainer
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/glameow/front.gif) | ![Back](../assets/sprites/glameow/back.gif) | ![Front Shiny](../assets/sprites/glameow/front_shiny.gif) | ![Back Shiny](../assets/sprites/glameow/back_shiny.gif) |
 
 ### Cries
 

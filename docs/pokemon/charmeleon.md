@@ -1,5 +1,9 @@
 # #005 Charmeleon (Flame Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/charmeleon/official_artwork.png) | ![Shiny Artwork](../assets/sprites/charmeleon/official_artwork_shiny.png) |
+
 In the rocky mountains where Charmeleon live, their fiery tails shine at night like stars.
 
 ---
@@ -8,7 +12,9 @@ In the rocky mountains where Charmeleon live, their fiery tails shine at night l
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/charmeleon/front.gif) | ![Back](../assets/sprites/charmeleon/back.gif) | ![Front Shiny](../assets/sprites/charmeleon/front_shiny.gif) | ![Back Shiny](../assets/sprites/charmeleon/back_shiny.gif) |
 
 ### Cries
 

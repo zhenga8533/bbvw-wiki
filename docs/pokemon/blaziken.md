@@ -1,5 +1,9 @@
 # #257 Blaziken (Blaze Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/blaziken/official_artwork.png) | ![Shiny Artwork](../assets/sprites/blaziken/official_artwork_shiny.png) |
+
 Flames spout from its wrists, enveloping its knuckles. Its punches scorch its foes.
 
 ---
@@ -8,7 +12,15 @@ Flames spout from its wrists, enveloping its knuckles. Its punches scorch its fo
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/blaziken/front.gif) | ![Back](../assets/sprites/blaziken/back.gif) | ![Front Shiny](../assets/sprites/blaziken/front_shiny.gif) | ![Back Shiny](../assets/sprites/blaziken/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/blaziken/front_female.gif) | ![Back](../assets/sprites/blaziken/back_female.gif) | ![Front Shiny](../assets/sprites/blaziken/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/blaziken/back_shiny_female.gif) |
 
 ### Cries
 

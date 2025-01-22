@@ -1,5 +1,9 @@
 # #606 Beheeyem (Cerebral Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/beheeyem/official_artwork.png) | ![Shiny Artwork](../assets/sprites/beheeyem/official_artwork_shiny.png) |
+
 **Blaze Black:** It can manipulate an opponent’s memory. Apparently, it communicates by flashing its three different-colored fingers.
 
 **Volt White:** It uses psychic power to control an opponent’s brain and tamper with its memories.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/beheeyem/front.gif) | ![Back](../assets/sprites/beheeyem/back.gif) | ![Front Shiny](../assets/sprites/beheeyem/front_shiny.gif) | ![Back Shiny](../assets/sprites/beheeyem/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #199 Slowking (Royal Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/slowking/official_artwork.png) | ![Shiny Artwork](../assets/sprites/slowking/official_artwork_shiny.png) |
+
 Being bitten by Shellder gave it intelligence comparable to that of award-winning scientists.
 
 ---
@@ -8,7 +12,9 @@ Being bitten by Shellder gave it intelligence comparable to that of award-winnin
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/slowking/front.gif) | ![Back](../assets/sprites/slowking/back.gif) | ![Front Shiny](../assets/sprites/slowking/front_shiny.gif) | ![Back Shiny](../assets/sprites/slowking/back_shiny.gif) |
 
 ### Cries
 

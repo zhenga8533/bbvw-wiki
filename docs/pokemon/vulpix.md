@@ -1,5 +1,9 @@
 # #037 Vulpix (Fox Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/vulpix/official_artwork.png) | ![Shiny Artwork](../assets/sprites/vulpix/official_artwork_shiny.png) |
+
 It controls balls of fire. As it grows, its six tails split from their tips to make more tails.
 
 ---
@@ -8,7 +12,9 @@ It controls balls of fire. As it grows, its six tails split from their tips to m
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/vulpix/front.gif) | ![Back](../assets/sprites/vulpix/back.gif) | ![Front Shiny](../assets/sprites/vulpix/front_shiny.gif) | ![Back Shiny](../assets/sprites/vulpix/back_shiny.gif) |
 
 ### Cries
 

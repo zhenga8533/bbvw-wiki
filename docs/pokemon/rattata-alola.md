@@ -1,5 +1,9 @@
 # #10091 Rattata Alola (Mouse Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/rattata-alola/official_artwork.png) | ![Shiny Artwork](../assets/sprites/rattata-alola/official_artwork_shiny.png) |
+
 Cautious in the extreme, its hardy vitality lets it live in any kind of environment.
 
 ---
@@ -8,7 +12,9 @@ Cautious in the extreme, its hardy vitality lets it live in any kind of environm
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/rattata-alola/front.png) | ![Back](../assets/sprites/rattata-alola/back.png) | ![Front Shiny](../assets/sprites/rattata-alola/front_shiny.png) | ![Back Shiny](../assets/sprites/rattata-alola/back_shiny.png) |
 
 ### Cries
 

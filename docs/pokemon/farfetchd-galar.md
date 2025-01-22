@@ -1,5 +1,9 @@
 # #10166 Farfetchd Galar (Wild Duck Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/farfetchd-galar/official_artwork.png) | ![Shiny Artwork](../assets/sprites/farfetchd-galar/official_artwork_shiny.png) |
+
 It can’t live without the stalk it holds. That’s why it defends the stalk from attackers with its life.
 
 ---
@@ -8,7 +12,9 @@ It can’t live without the stalk it holds. That’s why it defends the stalk fr
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/farfetchd-galar/front.png) | ![Back](../assets/sprites/farfetchd-galar/back.png) | ![Front Shiny](../assets/sprites/farfetchd-galar/front_shiny.png) | ![Back Shiny](../assets/sprites/farfetchd-galar/back_shiny.png) |
 
 ### Cries
 

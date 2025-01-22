@@ -1,5 +1,9 @@
 # #10232 Electrode Hisui (Ball Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/electrode-hisui/official_artwork.png) | ![Shiny Artwork](../assets/sprites/electrode-hisui/official_artwork_shiny.png) |
+
 It is known to drift on winds if it is bloated to bursting with stored electricity.
 
 ---
@@ -7,8 +11,6 @@ It is known to drift on winds if it is bloated to bursting with stored electrici
 ## Media
 
 ### Sprites
-
-### Female Sprites
 
 ### Cries
 

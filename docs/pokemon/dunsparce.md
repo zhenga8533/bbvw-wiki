@@ -1,5 +1,9 @@
 # #206 Dunsparce (Land Snake Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/dunsparce/official_artwork.png) | ![Shiny Artwork](../assets/sprites/dunsparce/official_artwork_shiny.png) |
+
 It digs into the ground with its tail and makes a mazelike nest. It can fly just a little.
 
 ---
@@ -8,7 +12,9 @@ It digs into the ground with its tail and makes a mazelike nest. It can fly just
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/dunsparce/front.gif) | ![Back](../assets/sprites/dunsparce/back.gif) | ![Front Shiny](../assets/sprites/dunsparce/front_shiny.gif) | ![Back Shiny](../assets/sprites/dunsparce/back_shiny.gif) |
 
 ### Cries
 

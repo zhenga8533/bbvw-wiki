@@ -1,5 +1,9 @@
 # #499 Pignite (Fire Pig Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/pignite/official_artwork.png) | ![Shiny Artwork](../assets/sprites/pignite/official_artwork_shiny.png) |
+
 **Blaze Black:** When its internal fire flares up, its movements grow sharper and faster. When in trouble, it emits smoke.
 
 **Volt White:** Whatever it eats becomes fuel for the flame in its stomach. When it is angered, the intensity of the flame increases.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/pignite/front.gif) | ![Back](../assets/sprites/pignite/back.gif) | ![Front Shiny](../assets/sprites/pignite/front_shiny.gif) | ![Back Shiny](../assets/sprites/pignite/back_shiny.gif) |
 
 ### Cries
 

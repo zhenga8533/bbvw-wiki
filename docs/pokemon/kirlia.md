@@ -1,5 +1,9 @@
 # #281 Kirlia (Emotion Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/kirlia/official_artwork.png) | ![Shiny Artwork](../assets/sprites/kirlia/official_artwork_shiny.png) |
+
 If its Trainer becomes happy, it overflows with energy, dancing joyously while spinning about.
 
 ---
@@ -8,7 +12,9 @@ If its Trainer becomes happy, it overflows with energy, dancing joyously while s
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/kirlia/front.gif) | ![Back](../assets/sprites/kirlia/back.gif) | ![Front Shiny](../assets/sprites/kirlia/front_shiny.gif) | ![Back Shiny](../assets/sprites/kirlia/back_shiny.gif) |
 
 ### Cries
 

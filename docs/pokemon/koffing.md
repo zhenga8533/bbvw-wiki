@@ -1,5 +1,9 @@
 # #109 Koffing (Poison Gas Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/koffing/official_artwork.png) | ![Shiny Artwork](../assets/sprites/koffing/official_artwork_shiny.png) |
+
 Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive.
 
 ---
@@ -8,7 +12,9 @@ Lighter-than-air gases in its body keep it aloft. The gases not only smell, they
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/koffing/front.gif) | ![Back](../assets/sprites/koffing/back.gif) | ![Front Shiny](../assets/sprites/koffing/front_shiny.gif) | ![Back Shiny](../assets/sprites/koffing/back_shiny.gif) |
 
 ### Cries
 

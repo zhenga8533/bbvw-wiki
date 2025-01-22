@@ -1,5 +1,9 @@
 # #442 Spiritomb (Forbidden Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/spiritomb/official_artwork.png) | ![Shiny Artwork](../assets/sprites/spiritomb/official_artwork_shiny.png) |
+
 Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone by a mysterious spell.
 
 ---
@@ -8,7 +12,9 @@ Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/spiritomb/front.gif) | ![Back](../assets/sprites/spiritomb/back.gif) | ![Front Shiny](../assets/sprites/spiritomb/front_shiny.gif) | ![Back Shiny](../assets/sprites/spiritomb/back_shiny.gif) |
 
 ### Cries
 

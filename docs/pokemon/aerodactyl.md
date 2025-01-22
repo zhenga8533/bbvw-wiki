@@ -1,5 +1,9 @@
 # #142 Aerodactyl (Fossil Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/aerodactyl/official_artwork.png) | ![Shiny Artwork](../assets/sprites/aerodactyl/official_artwork_shiny.png) |
+
 A Pokémon that roamed the skies in the dinosaur era. Its teeth are like saw blades.
 
 ---
@@ -8,7 +12,9 @@ A Pokémon that roamed the skies in the dinosaur era. Its teeth are like saw bla
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/aerodactyl/front.gif) | ![Back](../assets/sprites/aerodactyl/back.gif) | ![Front Shiny](../assets/sprites/aerodactyl/front_shiny.gif) | ![Back Shiny](../assets/sprites/aerodactyl/back_shiny.gif) |
 
 ### Cries
 

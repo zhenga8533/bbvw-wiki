@@ -1,5 +1,9 @@
 # #394 Prinplup (Penguin Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/prinplup/official_artwork.png) | ![Shiny Artwork](../assets/sprites/prinplup/official_artwork_shiny.png) |
+
 Because every Prinplup considers itself to be the most important, they can never form a group.
 
 ---
@@ -8,7 +12,9 @@ Because every Prinplup considers itself to be the most important, they can never
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/prinplup/front.gif) | ![Back](../assets/sprites/prinplup/back.gif) | ![Front Shiny](../assets/sprites/prinplup/front_shiny.gif) | ![Back Shiny](../assets/sprites/prinplup/back_shiny.gif) |
 
 ### Cries
 

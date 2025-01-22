@@ -1,5 +1,9 @@
 # #10050 Blaziken Mega (Blaze Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/blaziken-mega/official_artwork.png) | ![Shiny Artwork](../assets/sprites/blaziken-mega/official_artwork_shiny.png) |
+
 Flames spout from its wrists, enveloping its knuckles. Its punches scorch its foes.
 
 ---
@@ -8,7 +12,9 @@ Flames spout from its wrists, enveloping its knuckles. Its punches scorch its fo
 
 ### Sprites
 
-### Female Sprites
+| Front | Front Shiny |
+| --- | --- |
+| ![Front](../assets/sprites/blaziken-mega/front.png) | ![Front Shiny](../assets/sprites/blaziken-mega/front_shiny.png) |
 
 ### Cries
 

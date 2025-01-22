@@ -1,5 +1,9 @@
 # #297 Hariyama (Arm Thrust Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/hariyama/official_artwork.png) | ![Shiny Artwork](../assets/sprites/hariyama/official_artwork_shiny.png) |
+
 It loves to match power with big-bodied Pokémon. It can knock a truck flying with its arm thrusts.
 
 ---
@@ -8,7 +12,9 @@ It loves to match power with big-bodied Pokémon. It can knock a truck flying wi
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/hariyama/front.gif) | ![Back](../assets/sprites/hariyama/back.gif) | ![Front Shiny](../assets/sprites/hariyama/front_shiny.gif) | ![Back Shiny](../assets/sprites/hariyama/back_shiny.gif) |
 
 ### Cries
 

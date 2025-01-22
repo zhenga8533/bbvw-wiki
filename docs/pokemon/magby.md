@@ -1,5 +1,9 @@
 # #240 Magby (Live Coal Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/magby/official_artwork.png) | ![Shiny Artwork](../assets/sprites/magby/official_artwork_shiny.png) |
+
 Its magma-like blood circulates throughout its body. Its body’s heat can top 1,100 degrees F.
 
 ---
@@ -8,7 +12,9 @@ Its magma-like blood circulates throughout its body. Its body’s heat can top 1
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/magby/front.gif) | ![Back](../assets/sprites/magby/back.gif) | ![Front Shiny](../assets/sprites/magby/front_shiny.gif) | ![Back Shiny](../assets/sprites/magby/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #097 Hypno (Hypnosis Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/hypno/official_artwork.png) | ![Shiny Artwork](../assets/sprites/hypno/official_artwork_shiny.png) |
+
 Seeing its swinging pendulum can induce sleep in three seconds, even in someone who just woke up.
 
 ---
@@ -8,7 +12,15 @@ Seeing its swinging pendulum can induce sleep in three seconds, even in someone 
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/hypno/front.gif) | ![Back](../assets/sprites/hypno/back.gif) | ![Front Shiny](../assets/sprites/hypno/front_shiny.gif) | ![Back Shiny](../assets/sprites/hypno/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/hypno/front_female.gif) | ![Back](../assets/sprites/hypno/back_female.gif) | ![Front Shiny](../assets/sprites/hypno/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/hypno/back_shiny_female.gif) |
 
 ### Cries
 

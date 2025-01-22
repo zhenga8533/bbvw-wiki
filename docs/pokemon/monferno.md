@@ -1,5 +1,9 @@
 # #391 Monferno (Playful Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/monferno/official_artwork.png) | ![Shiny Artwork](../assets/sprites/monferno/official_artwork_shiny.png) |
+
 It skillfully controls the intensity of the fire on its tail to keep its foes at an ideal distance.
 
 ---
@@ -8,7 +12,9 @@ It skillfully controls the intensity of the fire on its tail to keep its foes at
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/monferno/front.gif) | ![Back](../assets/sprites/monferno/back.gif) | ![Front Shiny](../assets/sprites/monferno/front_shiny.gif) | ![Back Shiny](../assets/sprites/monferno/back_shiny.gif) |
 
 ### Cries
 

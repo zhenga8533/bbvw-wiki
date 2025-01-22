@@ -1,5 +1,9 @@
 # #10036 Blastoise Mega (Shellfish Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/blastoise-mega/official_artwork.png) | ![Shiny Artwork](../assets/sprites/blastoise-mega/official_artwork_shiny.png) |
+
 The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.
 
 ---
@@ -8,7 +12,9 @@ The jets of water it spouts from the rocket cannons on its shell can punch throu
 
 ### Sprites
 
-### Female Sprites
+| Front | Front Shiny |
+| --- | --- |
+| ![Front](../assets/sprites/blastoise-mega/front.png) | ![Front Shiny](../assets/sprites/blastoise-mega/front_shiny.png) |
 
 ### Cries
 

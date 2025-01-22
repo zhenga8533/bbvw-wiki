@@ -1,5 +1,9 @@
 # #336 Seviper (Fang Snake Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/seviper/official_artwork.png) | ![Shiny Artwork](../assets/sprites/seviper/official_artwork_shiny.png) |
+
 For many generations, it has feuded with Zangoose. It whets its bladed tail on rocks for battle.
 
 ---
@@ -8,7 +12,9 @@ For many generations, it has feuded with Zangoose. It whets its bladed tail on r
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/seviper/front.gif) | ![Back](../assets/sprites/seviper/back.gif) | ![Front Shiny](../assets/sprites/seviper/front_shiny.gif) | ![Back Shiny](../assets/sprites/seviper/back_shiny.gif) |
 
 ### Cries
 

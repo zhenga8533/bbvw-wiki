@@ -1,5 +1,9 @@
 # #592 Frillish (Floating Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/frillish/official_artwork.png) | ![Shiny Artwork](../assets/sprites/frillish/official_artwork_shiny.png) |
+
 **Blaze Black:** With its thin, veil-like arms wrapped around the body of its opponent, it sinks to the ocean floor.
 
 **Volt White:** They paralyze prey with poison, then drag them down to their lairs, five miles below the surface.
@@ -10,7 +14,15 @@
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/frillish/front.gif) | ![Back](../assets/sprites/frillish/back.gif) | ![Front Shiny](../assets/sprites/frillish/front_shiny.gif) | ![Back Shiny](../assets/sprites/frillish/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/frillish/front_female.gif) | ![Back](../assets/sprites/frillish/back_female.gif) | ![Front Shiny](../assets/sprites/frillish/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/frillish/back_shiny_female.gif) |
 
 ### Cries
 

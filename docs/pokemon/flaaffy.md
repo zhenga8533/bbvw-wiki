@@ -1,5 +1,9 @@
 # #180 Flaaffy (Wool Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/flaaffy/official_artwork.png) | ![Shiny Artwork](../assets/sprites/flaaffy/official_artwork_shiny.png) |
+
 If its coat becomes fully charged with electricity, its tail lights up. It fires hair that zaps on impact.
 
 ---
@@ -8,7 +12,9 @@ If its coat becomes fully charged with electricity, its tail lights up. It fires
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/flaaffy/front.gif) | ![Back](../assets/sprites/flaaffy/back.gif) | ![Front Shiny](../assets/sprites/flaaffy/front_shiny.gif) | ![Back Shiny](../assets/sprites/flaaffy/back_shiny.gif) |
 
 ### Cries
 

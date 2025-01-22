@@ -1,5 +1,9 @@
 # #417 Pachirisu (EleSquirrel Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/pachirisu/official_artwork.png) | ![Shiny Artwork](../assets/sprites/pachirisu/official_artwork_shiny.png) |
+
 A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity.
 
 ---
@@ -8,7 +12,15 @@ A pair may be seen rubbing their cheek pouches together in an effort to share st
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/pachirisu/front.gif) | ![Back](../assets/sprites/pachirisu/back.gif) | ![Front Shiny](../assets/sprites/pachirisu/front_shiny.gif) | ![Back Shiny](../assets/sprites/pachirisu/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/pachirisu/front_female.gif) | ![Back](../assets/sprites/pachirisu/back_female.gif) | ![Front Shiny](../assets/sprites/pachirisu/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/pachirisu/back_shiny_female.gif) |
 
 ### Cries
 

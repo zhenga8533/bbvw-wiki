@@ -1,5 +1,9 @@
 # #457 Lumineon (Neon Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/lumineon/official_artwork.png) | ![Shiny Artwork](../assets/sprites/lumineon/official_artwork_shiny.png) |
+
 It crawls along the seafloor using its long front fins like legs. It competes for food with Lanturn.
 
 ---
@@ -8,7 +12,15 @@ It crawls along the seafloor using its long front fins like legs. It competes fo
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/lumineon/front.gif) | ![Back](../assets/sprites/lumineon/back.gif) | ![Front Shiny](../assets/sprites/lumineon/front_shiny.gif) | ![Back Shiny](../assets/sprites/lumineon/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/lumineon/front_female.gif) | ![Back](../assets/sprites/lumineon/back_female.gif) | ![Front Shiny](../assets/sprites/lumineon/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/lumineon/back_shiny_female.gif) |
 
 ### Cries
 

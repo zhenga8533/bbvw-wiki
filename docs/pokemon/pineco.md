@@ -1,5 +1,9 @@
 # #204 Pineco (Bagworm Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/pineco/official_artwork.png) | ![Shiny Artwork](../assets/sprites/pineco/official_artwork_shiny.png) |
+
 It looks just like a pinecone. Its shell protects it from bird Pokémon that peck it by mistake.
 
 ---
@@ -8,7 +12,9 @@ It looks just like a pinecone. Its shell protects it from bird Pokémon that pec
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/pineco/front.gif) | ![Back](../assets/sprites/pineco/back.gif) | ![Front Shiny](../assets/sprites/pineco/front_shiny.gif) | ![Back Shiny](../assets/sprites/pineco/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #122 Mr Mime (Barrier Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/mr-mime/official_artwork.png) | ![Shiny Artwork](../assets/sprites/mr-mime/official_artwork_shiny.png) |
+
 It shapes an invisible wall in midair by minutely vibrating its fingertips to stop molecules in the air.
 
 ---
@@ -8,7 +12,9 @@ It shapes an invisible wall in midair by minutely vibrating its fingertips to st
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/mr-mime/front.gif) | ![Back](../assets/sprites/mr-mime/back.gif) | ![Front Shiny](../assets/sprites/mr-mime/front_shiny.gif) | ![Back Shiny](../assets/sprites/mr-mime/back_shiny.gif) |
 
 ### Cries
 

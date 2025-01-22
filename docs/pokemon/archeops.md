@@ -1,5 +1,9 @@
 # #567 Archeops (First Bird Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/archeops/official_artwork.png) | ![Shiny Artwork](../assets/sprites/archeops/official_artwork_shiny.png) |
+
 **Blaze Black:** They are intelligent and will cooperate to catch prey. From the ground, they use a running start to take flight.
 
 **Volt White:** It runs better than it flies. It catches prey by running at speeds comparable to those of an automobile.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/archeops/front.gif) | ![Back](../assets/sprites/archeops/back.gif) | ![Front Shiny](../assets/sprites/archeops/front_shiny.gif) | ![Back Shiny](../assets/sprites/archeops/back_shiny.gif) |
 
 ### Cries
 

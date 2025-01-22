@@ -1,5 +1,9 @@
 # #500 Emboar (Mega Fire Pig Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/emboar/official_artwork.png) | ![Shiny Artwork](../assets/sprites/emboar/official_artwork_shiny.png) |
+
 **Blaze Black:** It can throw a fire punch by setting its fists on fire with its fiery chin. It cares deeply about its friends.
 
 **Volt White:** It has mastered fast and powerful fighting moves. It grows a beard of fire.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/emboar/front.gif) | ![Back](../assets/sprites/emboar/back.gif) | ![Front Shiny](../assets/sprites/emboar/front_shiny.gif) | ![Back Shiny](../assets/sprites/emboar/back_shiny.gif) |
 
 ### Cries
 

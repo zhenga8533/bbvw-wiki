@@ -1,5 +1,9 @@
 # #332 Cacturne (Scarecrow Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/cacturne/official_artwork.png) | ![Shiny Artwork](../assets/sprites/cacturne/official_artwork_shiny.png) |
+
 It becomes active at night, seeking prey that is exhausted from the day’s desert heat.
 
 ---
@@ -8,7 +12,15 @@ It becomes active at night, seeking prey that is exhausted from the day’s dese
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/cacturne/front.gif) | ![Back](../assets/sprites/cacturne/back.gif) | ![Front Shiny](../assets/sprites/cacturne/front_shiny.gif) | ![Back Shiny](../assets/sprites/cacturne/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/cacturne/front_female.gif) | ![Back](../assets/sprites/cacturne/back_female.gif) | ![Front Shiny](../assets/sprites/cacturne/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/cacturne/back_shiny_female.gif) |
 
 ### Cries
 

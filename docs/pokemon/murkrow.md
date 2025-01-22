@@ -1,5 +1,9 @@
 # #198 Murkrow (Darkness Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/murkrow/official_artwork.png) | ![Shiny Artwork](../assets/sprites/murkrow/official_artwork_shiny.png) |
+
 If spotted, it will lure an unwary person into chasing it, then lose the pursuer on mountain trails.
 
 ---
@@ -8,7 +12,15 @@ If spotted, it will lure an unwary person into chasing it, then lose the pursuer
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/murkrow/front.gif) | ![Back](../assets/sprites/murkrow/back.gif) | ![Front Shiny](../assets/sprites/murkrow/front_shiny.gif) | ![Back Shiny](../assets/sprites/murkrow/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/murkrow/front_female.gif) | ![Back](../assets/sprites/murkrow/back_female.gif) | ![Front Shiny](../assets/sprites/murkrow/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/murkrow/back_shiny_female.gif) |
 
 ### Cries
 

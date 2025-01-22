@@ -1,5 +1,9 @@
 # #396 Starly (Starling Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/starly/official_artwork.png) | ![Shiny Artwork](../assets/sprites/starly/official_artwork_shiny.png) |
+
 Because they are weak individually, they form groups. However, they bicker if the group grows too big.
 
 ---
@@ -8,7 +12,15 @@ Because they are weak individually, they form groups. However, they bicker if th
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/starly/front.gif) | ![Back](../assets/sprites/starly/back.gif) | ![Front Shiny](../assets/sprites/starly/front_shiny.gif) | ![Back Shiny](../assets/sprites/starly/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/starly/front_female.gif) | ![Back](../assets/sprites/starly/back_female.gif) | ![Front Shiny](../assets/sprites/starly/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/starly/back_shiny_female.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #317 Swalot (Poison Bag Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/swalot/official_artwork.png) | ![Shiny Artwork](../assets/sprites/swalot/official_artwork_shiny.png) |
+
 It swallows anything whole. It sweats toxic fluids from its follicles to douse foes.
 
 ---
@@ -8,7 +12,15 @@ It swallows anything whole. It sweats toxic fluids from its follicles to douse f
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/swalot/front.gif) | ![Back](../assets/sprites/swalot/back.gif) | ![Front Shiny](../assets/sprites/swalot/front_shiny.gif) | ![Back Shiny](../assets/sprites/swalot/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/swalot/front_female.gif) | ![Back](../assets/sprites/swalot/back_female.gif) | ![Front Shiny](../assets/sprites/swalot/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/swalot/back_shiny_female.gif) |
 
 ### Cries
 

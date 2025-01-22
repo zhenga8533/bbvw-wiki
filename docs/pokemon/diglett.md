@@ -1,5 +1,9 @@
 # #050 Diglett (Mole Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/diglett/official_artwork.png) | ![Shiny Artwork](../assets/sprites/diglett/official_artwork_shiny.png) |
+
 A Pokémon that lives underground. Because of its dark habitat, it is repelled by bright sunlight.
 
 ---
@@ -8,7 +12,9 @@ A Pokémon that lives underground. Because of its dark habitat, it is repelled b
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/diglett/front.gif) | ![Back](../assets/sprites/diglett/back.gif) | ![Front Shiny](../assets/sprites/diglett/front_shiny.gif) | ![Back Shiny](../assets/sprites/diglett/back_shiny.gif) |
 
 ### Cries
 

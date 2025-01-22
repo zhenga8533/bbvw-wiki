@@ -26,10 +26,12 @@ def create_image_table(headings: list, images: list, logger):
         # Check if image exists
         image_path = None
         for image in images:
-            check_path = image[i].rstrip("../") + "../docs/"
+            check_path = "../docs/" + image[i].lstrip("../")
             if os.path.exists(check_path):
                 image_path = image[i]
+                logger.log(logging.INFO, f"Image {i} found at {check_path}")
                 break
+            logger.log(logging.WARNING, f"Image {i} does not exist at {check_path}")
         if image_path is None:
             logger.log(logging.ERROR, f"Image {i} does not exist")
             continue

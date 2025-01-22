@@ -1,5 +1,9 @@
 # #10206 Snorlax Gmax (Sleeping Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/snorlax-gmax/official_artwork.png) | ![Shiny Artwork](../assets/sprites/snorlax-gmax/official_artwork_shiny.png) |
+
 When its belly is full, it becomes too lethargic to even lift a finger, so it is safe to bounce on its belly.
 
 ---
@@ -8,7 +12,9 @@ When its belly is full, it becomes too lethargic to even lift a finger, so it is
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/snorlax-gmax/front.png) | ![Back](../assets/sprites/snorlax-gmax/back.png) | ![Front Shiny](../assets/sprites/snorlax-gmax/front_shiny.png) | ![Back Shiny](../assets/sprites/snorlax-gmax/back_shiny.png) |
 
 ### Cries
 

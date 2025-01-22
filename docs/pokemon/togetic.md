@@ -1,5 +1,9 @@
 # #176 Togetic (Happiness Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/togetic/official_artwork.png) | ![Shiny Artwork](../assets/sprites/togetic/official_artwork_shiny.png) |
+
 To share its happiness, it flies around the world seeking kind- hearted people.
 
 ---
@@ -8,7 +12,9 @@ To share its happiness, it flies around the world seeking kind- hearted people.
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/togetic/front.gif) | ![Back](../assets/sprites/togetic/back.gif) | ![Front Shiny](../assets/sprites/togetic/front_shiny.gif) | ![Back Shiny](../assets/sprites/togetic/back_shiny.gif) |
 
 ### Cries
 

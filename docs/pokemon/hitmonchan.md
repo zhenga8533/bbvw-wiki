@@ -1,5 +1,9 @@
 # #107 Hitmonchan (Punching Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/hitmonchan/official_artwork.png) | ![Shiny Artwork](../assets/sprites/hitmonchan/official_artwork_shiny.png) |
+
 The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.
 
 ---
@@ -8,7 +12,9 @@ The arm-twisting punches it throws pulverize even concrete. It rests after three
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/hitmonchan/front.gif) | ![Back](../assets/sprites/hitmonchan/back.gif) | ![Front Shiny](../assets/sprites/hitmonchan/front_shiny.gif) | ![Back Shiny](../assets/sprites/hitmonchan/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #10159 Eevee Starter (Evolution Pokémon)
 
+| Official Artwork |
+| --- |
+| ![Official Artwork](../assets/sprites/eevee-starter/official_artwork.png) |
+
 Because its genetic makeup is irregular, it quickly changes its form due to a variety of causes.
 
 ---
@@ -7,8 +11,6 @@ Because its genetic makeup is irregular, it quickly changes its form due to a va
 ## Media
 
 ### Sprites
-
-### Female Sprites
 
 ### Cries
 

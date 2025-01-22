@@ -1,5 +1,9 @@
 # #315 Roselia (Thorn Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/roselia/official_artwork.png) | ![Shiny Artwork](../assets/sprites/roselia/official_artwork_shiny.png) |
+
 The more healthy the Roselia, the more pleasant its flowers’ aroma. Its scent deeply relaxes people.
 
 ---
@@ -8,7 +12,15 @@ The more healthy the Roselia, the more pleasant its flowers’ aroma. Its scent 
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/roselia/front.gif) | ![Back](../assets/sprites/roselia/back.gif) | ![Front Shiny](../assets/sprites/roselia/front_shiny.gif) | ![Back Shiny](../assets/sprites/roselia/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/roselia/front_female.gif) | ![Back](../assets/sprites/roselia/back_female.gif) | ![Front Shiny](../assets/sprites/roselia/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/roselia/back_shiny_female.gif) |
 
 ### Cries
 

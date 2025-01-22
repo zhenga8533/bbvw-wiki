@@ -1,5 +1,9 @@
 # #383 Groudon (Continent Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/groudon/official_artwork.png) | ![Shiny Artwork](../assets/sprites/groudon/official_artwork_shiny.png) |
+
 It had been asleep in underground magma ever since it fiercely fought Kyogre long ago.
 
 ---
@@ -8,7 +12,9 @@ It had been asleep in underground magma ever since it fiercely fought Kyogre lon
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/groudon/front.gif) | ![Back](../assets/sprites/groudon/back.gif) | ![Front Shiny](../assets/sprites/groudon/front_shiny.gif) | ![Back Shiny](../assets/sprites/groudon/back_shiny.gif) |
 
 ### Cries
 

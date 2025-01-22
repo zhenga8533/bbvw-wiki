@@ -1,5 +1,9 @@
 # #467 Magmortar (Blast Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/magmortar/official_artwork.png) | ![Shiny Artwork](../assets/sprites/magmortar/official_artwork_shiny.png) |
+
 When launching 3,600 degrees F fireballs, its body takes on a whitish hue from the intense heat.
 
 ---
@@ -8,7 +12,9 @@ When launching 3,600 degrees F fireballs, its body takes on a whitish hue from t
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/magmortar/front.gif) | ![Back](../assets/sprites/magmortar/back.gif) | ![Front Shiny](../assets/sprites/magmortar/front_shiny.gif) | ![Back Shiny](../assets/sprites/magmortar/back_shiny.gif) |
 
 ### Cries
 

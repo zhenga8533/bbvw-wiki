@@ -1,5 +1,9 @@
 # #267 Beautifly (Butterfly Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/beautifly/official_artwork.png) | ![Shiny Artwork](../assets/sprites/beautifly/official_artwork_shiny.png) |
+
 Despite its looks, it is aggressive. It jabs with its long, thin mouth if disturbed while collecting pollen.
 
 ---
@@ -8,7 +12,15 @@ Despite its looks, it is aggressive. It jabs with its long, thin mouth if distur
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/beautifly/front.gif) | ![Back](../assets/sprites/beautifly/back.gif) | ![Front Shiny](../assets/sprites/beautifly/front_shiny.gif) | ![Back Shiny](../assets/sprites/beautifly/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/beautifly/front_female.gif) | ![Back](../assets/sprites/beautifly/back_female.gif) | ![Front Shiny](../assets/sprites/beautifly/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/beautifly/back_shiny_female.gif) |
 
 ### Cries
 

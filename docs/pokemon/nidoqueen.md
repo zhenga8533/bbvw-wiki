@@ -1,5 +1,9 @@
 # #031 Nidoqueen (Drill Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/nidoqueen/official_artwork.png) | ![Shiny Artwork](../assets/sprites/nidoqueen/official_artwork_shiny.png) |
+
 Its entire body is armored with hard scales. It will protect the young in its burrow with its life.
 
 ---
@@ -8,7 +12,9 @@ Its entire body is armored with hard scales. It will protect the young in its bu
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/nidoqueen/front.gif) | ![Back](../assets/sprites/nidoqueen/back.gif) | ![Front Shiny](../assets/sprites/nidoqueen/front_shiny.gif) | ![Back Shiny](../assets/sprites/nidoqueen/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #537 Seismitoad (Vibration Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/seismitoad/official_artwork.png) | ![Shiny Artwork](../assets/sprites/seismitoad/official_artwork_shiny.png) |
+
 **Blaze Black:** They shoot paralyzing liquid from their head bumps. They use vibration to hurt their opponents.
 
 **Volt White:** It increases the power of its punches by vibrating the bumps on its fists. It can turn a boulder to rubble with one punch.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/seismitoad/front.gif) | ![Back](../assets/sprites/seismitoad/back.gif) | ![Front Shiny](../assets/sprites/seismitoad/front_shiny.gif) | ![Back Shiny](../assets/sprites/seismitoad/back_shiny.gif) |
 
 ### Cries
 

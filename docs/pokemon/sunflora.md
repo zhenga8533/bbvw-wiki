@@ -1,5 +1,9 @@
 # #192 Sunflora (Sun Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/sunflora/official_artwork.png) | ![Shiny Artwork](../assets/sprites/sunflora/official_artwork_shiny.png) |
+
 It gets energy from warm sunlight and is known for its habit of moving in pursuit of it.
 
 ---
@@ -8,7 +12,9 @@ It gets energy from warm sunlight and is known for its habit of moving in pursui
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/sunflora/front.gif) | ![Back](../assets/sprites/sunflora/back.gif) | ![Front Shiny](../assets/sprites/sunflora/front_shiny.gif) | ![Back Shiny](../assets/sprites/sunflora/back_shiny.gif) |
 
 ### Cries
 

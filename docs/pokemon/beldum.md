@@ -1,5 +1,9 @@
 # #374 Beldum (Iron Ball Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/beldum/official_artwork.png) | ![Shiny Artwork](../assets/sprites/beldum/official_artwork_shiny.png) |
+
 It converses with others by using magnetic pulses. In a swarm, they move in perfect unison.
 
 ---
@@ -8,7 +12,9 @@ It converses with others by using magnetic pulses. In a swarm, they move in perf
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/beldum/front.gif) | ![Back](../assets/sprites/beldum/back.gif) | ![Front Shiny](../assets/sprites/beldum/front_shiny.gif) | ![Back Shiny](../assets/sprites/beldum/back_shiny.gif) |
 
 ### Cries
 

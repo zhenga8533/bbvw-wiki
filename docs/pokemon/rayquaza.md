@@ -1,5 +1,9 @@
 # #384 Rayquaza (Sky High Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/rayquaza/official_artwork.png) | ![Shiny Artwork](../assets/sprites/rayquaza/official_artwork_shiny.png) |
+
 It lives in the ozone layer far above the clouds and cannot be seen from the ground.
 
 ---
@@ -8,7 +12,9 @@ It lives in the ozone layer far above the clouds and cannot be seen from the gro
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/rayquaza/front.gif) | ![Back](../assets/sprites/rayquaza/back.gif) | ![Front Shiny](../assets/sprites/rayquaza/front_shiny.gif) | ![Back Shiny](../assets/sprites/rayquaza/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #640 Virizion (Grassland Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/virizion/official_artwork.png) | ![Shiny Artwork](../assets/sprites/virizion/official_artwork_shiny.png) |
+
 **Blaze Black:** This Pokémon fought humans in order to protect its friends. Legends about it continue to be passed down.
 
 **Volt White:** Its head sprouts horns as sharp as blades. Using whirlwind-like movements, it confounds and swiftly cuts opponents.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/virizion/front.gif) | ![Back](../assets/sprites/virizion/back.gif) | ![Front Shiny](../assets/sprites/virizion/front_shiny.gif) | ![Back Shiny](../assets/sprites/virizion/back_shiny.gif) |
 
 ### Cries
 

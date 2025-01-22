@@ -1,5 +1,9 @@
 # #455 Carnivine (Bug Catcher Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/carnivine/official_artwork.png) | ![Shiny Artwork](../assets/sprites/carnivine/official_artwork_shiny.png) |
+
 It binds itself to trees in marshes. It attracts prey with its sweet- smelling drool and gulps them down.
 
 ---
@@ -8,7 +12,9 @@ It binds itself to trees in marshes. It attracts prey with its sweet- smelling d
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/carnivine/front.gif) | ![Back](../assets/sprites/carnivine/back.gif) | ![Front Shiny](../assets/sprites/carnivine/front_shiny.gif) | ![Back Shiny](../assets/sprites/carnivine/back_shiny.gif) |
 
 ### Cries
 

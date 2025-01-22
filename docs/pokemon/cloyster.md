@@ -1,5 +1,9 @@
 # #091 Cloyster (Bivalve Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/cloyster/official_artwork.png) | ![Shiny Artwork](../assets/sprites/cloyster/official_artwork_shiny.png) |
+
 It fights by keeping its shell tightly shut for protection and by shooting spikes to repel foes.
 
 ---
@@ -8,7 +12,9 @@ It fights by keeping its shell tightly shut for protection and by shooting spike
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/cloyster/front.gif) | ![Back](../assets/sprites/cloyster/back.gif) | ![Front Shiny](../assets/sprites/cloyster/front_shiny.gif) | ![Back Shiny](../assets/sprites/cloyster/back_shiny.gif) |
 
 ### Cries
 

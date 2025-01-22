@@ -1,5 +1,9 @@
 # #238 Smoochum (Kiss Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/smoochum/official_artwork.png) | ![Shiny Artwork](../assets/sprites/smoochum/official_artwork_shiny.png) |
+
 It tests everything by touching with its lips, which remember what it likes and dislikes.
 
 ---
@@ -8,7 +12,9 @@ It tests everything by touching with its lips, which remember what it likes and 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/smoochum/front.gif) | ![Back](../assets/sprites/smoochum/back.gif) | ![Front Shiny](../assets/sprites/smoochum/front_shiny.gif) | ![Back Shiny](../assets/sprites/smoochum/back_shiny.gif) |
 
 ### Cries
 

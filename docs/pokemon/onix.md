@@ -1,5 +1,9 @@
 # #095 Onix (Rock Snake Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/onix/official_artwork.png) | ![Shiny Artwork](../assets/sprites/onix/official_artwork_shiny.png) |
+
 It burrows through the ground at a speed of 50 mph while feeding on large boulders.
 
 ---
@@ -8,7 +12,9 @@ It burrows through the ground at a speed of 50 mph while feeding on large boulde
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/onix/front.gif) | ![Back](../assets/sprites/onix/back.gif) | ![Front Shiny](../assets/sprites/onix/front_shiny.gif) | ![Back Shiny](../assets/sprites/onix/back_shiny.gif) |
 
 ### Cries
 

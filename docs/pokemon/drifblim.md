@@ -1,5 +1,9 @@
 # #426 Drifblim (Blimp Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/drifblim/official_artwork.png) | ![Shiny Artwork](../assets/sprites/drifblim/official_artwork_shiny.png) |
+
 At dusk, swarms of them are carried aloft on winds. When noticed, they suddenly vanish.
 
 ---
@@ -8,7 +12,9 @@ At dusk, swarms of them are carried aloft on winds. When noticed, they suddenly 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/drifblim/front.gif) | ![Back](../assets/sprites/drifblim/back.gif) | ![Front Shiny](../assets/sprites/drifblim/front_shiny.gif) | ![Back Shiny](../assets/sprites/drifblim/back_shiny.gif) |
 
 ### Cries
 

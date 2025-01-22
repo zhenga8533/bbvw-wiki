@@ -1,5 +1,9 @@
 # #282 Gardevoir (Embrace Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/gardevoir/official_artwork.png) | ![Shiny Artwork](../assets/sprites/gardevoir/official_artwork_shiny.png) |
+
 To protect its Trainer, it will expend all its psychic power to create a small black hole.
 
 ---
@@ -8,7 +12,9 @@ To protect its Trainer, it will expend all its psychic power to create a small b
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/gardevoir/front.gif) | ![Back](../assets/sprites/gardevoir/back.gif) | ![Front Shiny](../assets/sprites/gardevoir/front_shiny.gif) | ![Back Shiny](../assets/sprites/gardevoir/back_shiny.gif) |
 
 ### Cries
 

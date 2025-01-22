@@ -1,5 +1,9 @@
 # #436 Bronzor (Bronze Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/bronzor/official_artwork.png) | ![Shiny Artwork](../assets/sprites/bronzor/official_artwork_shiny.png) |
+
 There are researchers who believe this Pokémon reflected like a mirror in the distant past.
 
 ---
@@ -8,7 +12,9 @@ There are researchers who believe this Pokémon reflected like a mirror in the d
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/bronzor/front.gif) | ![Back](../assets/sprites/bronzor/back.gif) | ![Front Shiny](../assets/sprites/bronzor/front_shiny.gif) | ![Back Shiny](../assets/sprites/bronzor/back_shiny.gif) |
 
 ### Cries
 

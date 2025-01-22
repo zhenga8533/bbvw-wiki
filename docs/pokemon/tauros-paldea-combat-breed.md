@@ -1,5 +1,9 @@
 # #10250 Tauros Paldea Combat Breed (Wild Bull Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/tauros-paldea-combat-breed/official_artwork.png) | ![Shiny Artwork](../assets/sprites/tauros-paldea-combat-breed/official_artwork_shiny.png) |
+
 Once it takes aim at its foe, it makes a headlong charge. It is famous for its violent nature.
 
 ---
@@ -7,8 +11,6 @@ Once it takes aim at its foe, it makes a headlong charge. It is famous for its v
 ## Media
 
 ### Sprites
-
-### Female Sprites
 
 ### Cries
 

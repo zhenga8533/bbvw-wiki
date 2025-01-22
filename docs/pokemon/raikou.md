@@ -1,5 +1,9 @@
 # #243 Raikou (Thunder Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/raikou/official_artwork.png) | ![Shiny Artwork](../assets/sprites/raikou/official_artwork_shiny.png) |
+
 It is said to have fallen with lightning. It can fire thunderbolts from the rain clouds on its back.
 
 ---
@@ -8,7 +12,9 @@ It is said to have fallen with lightning. It can fire thunderbolts from the rain
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/raikou/front.gif) | ![Back](../assets/sprites/raikou/back.gif) | ![Front Shiny](../assets/sprites/raikou/front_shiny.gif) | ![Back Shiny](../assets/sprites/raikou/back_shiny.gif) |
 
 ### Cries
 

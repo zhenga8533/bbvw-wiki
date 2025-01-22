@@ -1,5 +1,9 @@
 # #309 Electrike (Lightning Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/electrike/official_artwork.png) | ![Shiny Artwork](../assets/sprites/electrike/official_artwork_shiny.png) |
+
 Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed.
 
 ---
@@ -8,7 +12,9 @@ Using electricity stored in its fur, it stimulates its muscles to heighten its r
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/electrike/front.gif) | ![Back](../assets/sprites/electrike/back.gif) | ![Front Shiny](../assets/sprites/electrike/front_shiny.gif) | ![Back Shiny](../assets/sprites/electrike/back_shiny.gif) |
 
 ### Cries
 

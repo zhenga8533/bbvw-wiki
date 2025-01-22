@@ -1,5 +1,9 @@
 # #10095 Pikachu Hoenn Cap (Mouse Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/pikachu-hoenn-cap/official_artwork.png) | ![Shiny Artwork](../assets/sprites/pikachu-hoenn-cap/official_artwork_shiny.png) |
+
 It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.
 
 ---
@@ -8,7 +12,9 @@ It occasionally uses an electric shock to recharge a fellow Pikachu that is in a
 
 ### Sprites
 
-### Female Sprites
+| Front | Front Shiny |
+| --- | --- |
+| ![Front](../assets/sprites/pikachu-hoenn-cap/front.png) | ![Front Shiny](../assets/sprites/pikachu-hoenn-cap/front_shiny.png) |
 
 ### Cries
 

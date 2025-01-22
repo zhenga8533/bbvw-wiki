@@ -1,5 +1,9 @@
 # #205 Forretress (Bagworm Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/forretress/official_artwork.png) | ![Shiny Artwork](../assets/sprites/forretress/official_artwork_shiny.png) |
+
 It is encased in a steel shell. Its peering eyes are all that can be seen of its mysterious innards.
 
 ---
@@ -8,7 +12,9 @@ It is encased in a steel shell. Its peering eyes are all that can be seen of its
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/forretress/front.gif) | ![Back](../assets/sprites/forretress/back.gif) | ![Front Shiny](../assets/sprites/forretress/front_shiny.gif) | ![Back Shiny](../assets/sprites/forretress/back_shiny.gif) |
 
 ### Cries
 

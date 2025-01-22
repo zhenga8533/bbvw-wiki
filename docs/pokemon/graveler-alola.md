@@ -1,5 +1,9 @@
 # #10110 Graveler Alola (Rock Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/graveler-alola/official_artwork.png) | ![Shiny Artwork](../assets/sprites/graveler-alola/official_artwork_shiny.png) |
+
 It rolls on mountain paths to move. Once it builds momentum, no Pokémon can stop it without difficulty.
 
 ---
@@ -8,7 +12,9 @@ It rolls on mountain paths to move. Once it builds momentum, no Pokémon can sto
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/graveler-alola/front.png) | ![Back](../assets/sprites/graveler-alola/back.png) | ![Front Shiny](../assets/sprites/graveler-alola/front_shiny.png) | ![Back Shiny](../assets/sprites/graveler-alola/back_shiny.png) |
 
 ### Cries
 

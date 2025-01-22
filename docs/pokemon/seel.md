@@ -1,5 +1,9 @@
 # #086 Seel (Sea Lion Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/seel/official_artwork.png) | ![Shiny Artwork](../assets/sprites/seel/official_artwork_shiny.png) |
+
 A Pokémon that lives on icebergs. It swims in the sea using the point on its head to break up ice.
 
 ---
@@ -8,7 +12,9 @@ A Pokémon that lives on icebergs. It swims in the sea using the point on its he
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/seel/front.gif) | ![Back](../assets/sprites/seel/back.gif) | ![Front Shiny](../assets/sprites/seel/front_shiny.gif) | ![Back Shiny](../assets/sprites/seel/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #129 Magikarp (Fish Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/magikarp/official_artwork.png) | ![Shiny Artwork](../assets/sprites/magikarp/official_artwork_shiny.png) |
+
 A Magikarp living for many years can leap a mountain using Splash. The move remains useless, though.
 
 ---
@@ -8,7 +12,15 @@ A Magikarp living for many years can leap a mountain using Splash. The move rema
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/magikarp/front.gif) | ![Back](../assets/sprites/magikarp/back.gif) | ![Front Shiny](../assets/sprites/magikarp/front_shiny.gif) | ![Back Shiny](../assets/sprites/magikarp/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/magikarp/front_female.gif) | ![Back](../assets/sprites/magikarp/back_female.gif) | ![Front Shiny](../assets/sprites/magikarp/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/magikarp/back_shiny_female.gif) |
 
 ### Cries
 

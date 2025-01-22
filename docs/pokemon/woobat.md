@@ -1,5 +1,9 @@
 # #527 Woobat (Bat Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/woobat/official_artwork.png) | ![Shiny Artwork](../assets/sprites/woobat/official_artwork_shiny.png) |
+
 **Blaze Black:** Its habitat is dark forests and caves. It emits ultrasonic waves from its nose to learn about its surroundings.
 
 **Volt White:** Suction from its nostrils enables it to stick to cave walls during sleep. It leaves a heart-shaped mark behind.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/woobat/front.gif) | ![Back](../assets/sprites/woobat/back.gif) | ![Front Shiny](../assets/sprites/woobat/front_shiny.gif) | ![Back Shiny](../assets/sprites/woobat/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #10195 Venusaur Gmax (Seed Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/venusaur-gmax/official_artwork.png) | ![Shiny Artwork](../assets/sprites/venusaur-gmax/official_artwork_shiny.png) |
+
 After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.
 
 ---
@@ -8,7 +12,9 @@ After a rainy day, the flower on its back smells stronger. The scent attracts ot
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/venusaur-gmax/front.png) | ![Back](../assets/sprites/venusaur-gmax/back.png) | ![Front Shiny](../assets/sprites/venusaur-gmax/front_shiny.png) | ![Back Shiny](../assets/sprites/venusaur-gmax/back_shiny.png) |
 
 ### Cries
 

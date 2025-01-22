@@ -1,5 +1,9 @@
 # #053 Persian (Classy Cat Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/persian/official_artwork.png) | ![Shiny Artwork](../assets/sprites/persian/official_artwork_shiny.png) |
+
 A very haughty Pokémon. Among fans, the size of the jewel in its forehead is a topic of much talk.
 
 ---
@@ -8,7 +12,9 @@ A very haughty Pokémon. Among fans, the size of the jewel in its forehead is a 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/persian/front.gif) | ![Back](../assets/sprites/persian/back.gif) | ![Front Shiny](../assets/sprites/persian/front_shiny.gif) | ![Back Shiny](../assets/sprites/persian/back_shiny.gif) |
 
 ### Cries
 

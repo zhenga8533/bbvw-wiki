@@ -1,5 +1,9 @@
 # #10101 Sandshrew Alola (Mouse Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/sandshrew-alola/official_artwork.png) | ![Shiny Artwork](../assets/sprites/sandshrew-alola/official_artwork_shiny.png) |
+
 To protect itself from attackers, it curls up into a ball. It lives in arid regions with minimal rainfall.
 
 ---
@@ -8,7 +12,9 @@ To protect itself from attackers, it curls up into a ball. It lives in arid regi
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/sandshrew-alola/front.png) | ![Back](../assets/sprites/sandshrew-alola/back.png) | ![Front Shiny](../assets/sprites/sandshrew-alola/front_shiny.png) | ![Back Shiny](../assets/sprites/sandshrew-alola/back_shiny.png) |
 
 ### Cries
 

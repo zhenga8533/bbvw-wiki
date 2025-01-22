@@ -1,5 +1,9 @@
 # #494 Victini (Victory Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/victini/official_artwork.png) | ![Shiny Artwork](../assets/sprites/victini/official_artwork_shiny.png) |
+
 **Blaze Black:** This Pokémon brings victory. It is said that Trainers with Victini always win, regardless of the type of encounter.
 
 **Volt White:** It creates an unlimited supply of energy inside its body, which it shares with those who touch it.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/victini/front.gif) | ![Back](../assets/sprites/victini/back.gif) | ![Front Shiny](../assets/sprites/victini/front_shiny.gif) | ![Back Shiny](../assets/sprites/victini/back_shiny.gif) |
 
 ### Cries
 

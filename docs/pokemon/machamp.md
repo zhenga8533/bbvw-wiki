@@ -1,5 +1,9 @@
 # #068 Machamp (Superpower Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/machamp/official_artwork.png) | ![Shiny Artwork](../assets/sprites/machamp/official_artwork_shiny.png) |
+
 Its four muscled arms slam foes with powerful punches and chops at blinding speed.
 
 ---
@@ -8,7 +12,9 @@ Its four muscled arms slam foes with powerful punches and chops at blinding spee
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/machamp/front.gif) | ![Back](../assets/sprites/machamp/back.gif) | ![Front Shiny](../assets/sprites/machamp/front_shiny.gif) | ![Back Shiny](../assets/sprites/machamp/back_shiny.gif) |
 
 ### Cries
 

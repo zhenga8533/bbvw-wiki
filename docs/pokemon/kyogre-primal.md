@@ -1,5 +1,9 @@
 # #10077 Kyogre Primal (Sea Basin Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/kyogre-primal/official_artwork.png) | ![Shiny Artwork](../assets/sprites/kyogre-primal/official_artwork_shiny.png) |
+
 It is said to have widened the seas by causing downpours. It had been asleep in a marine trench.
 
 ---
@@ -8,7 +12,9 @@ It is said to have widened the seas by causing downpours. It had been asleep in 
 
 ### Sprites
 
-### Female Sprites
+| Front | Front Shiny |
+| --- | --- |
+| ![Front](../assets/sprites/kyogre-primal/front.png) | ![Front Shiny](../assets/sprites/kyogre-primal/front_shiny.png) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #029 Nidoran F (Poison Pin Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/nidoran-f/official_artwork.png) | ![Shiny Artwork](../assets/sprites/nidoran-f/official_artwork_shiny.png) |
+
 While it does not prefer to fight, even one drop of the poison it secretes from barbs can be fatal.
 
 ---
@@ -8,7 +12,9 @@ While it does not prefer to fight, even one drop of the poison it secretes from 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/nidoran-f/front.gif) | ![Back](../assets/sprites/nidoran-f/back.gif) | ![Front Shiny](../assets/sprites/nidoran-f/front_shiny.gif) | ![Back Shiny](../assets/sprites/nidoran-f/back_shiny.gif) |
 
 ### Cries
 

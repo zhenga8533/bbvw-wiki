@@ -1,5 +1,9 @@
 # #612 Haxorus (Axe Jaw Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/haxorus/official_artwork.png) | ![Shiny Artwork](../assets/sprites/haxorus/official_artwork_shiny.png) |
+
 **Blaze Black:** They are kind but can be relentless when defending territory. They challenge foes with tusks that can cut steel.
 
 **Volt White:** Their sturdy tusks will stay sharp even if used to cut steel beams. These Pokémon are covered in hard armor.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/haxorus/front.gif) | ![Back](../assets/sprites/haxorus/back.gif) | ![Front Shiny](../assets/sprites/haxorus/front_shiny.gif) | ![Back Shiny](../assets/sprites/haxorus/back_shiny.gif) |
 
 ### Cries
 

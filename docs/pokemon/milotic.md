@@ -1,5 +1,9 @@
 # #350 Milotic (Tender Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/milotic/official_artwork.png) | ![Shiny Artwork](../assets/sprites/milotic/official_artwork_shiny.png) |
+
 Its lovely scales are described as rainbow colored. They change color depending on the viewing angle.
 
 ---
@@ -8,7 +12,15 @@ Its lovely scales are described as rainbow colored. They change color depending 
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/milotic/front.gif) | ![Back](../assets/sprites/milotic/back.gif) | ![Front Shiny](../assets/sprites/milotic/front_shiny.gif) | ![Back Shiny](../assets/sprites/milotic/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/milotic/front_female.gif) | ![Back](../assets/sprites/milotic/back_female.gif) | ![Front Shiny](../assets/sprites/milotic/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/milotic/back_shiny_female.gif) |
 
 ### Cries
 

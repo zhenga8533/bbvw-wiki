@@ -1,5 +1,9 @@
 # #10112 Grimer Alola (Sludge Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/grimer-alola/official_artwork.png) | ![Shiny Artwork](../assets/sprites/grimer-alola/official_artwork_shiny.png) |
+
 It was born when sludge in a dirty stream was exposed to the moon’s X-rays. It appears among filth.
 
 ---
@@ -8,7 +12,9 @@ It was born when sludge in a dirty stream was exposed to the moon’s X-rays. It
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/grimer-alola/front.png) | ![Back](../assets/sprites/grimer-alola/back.png) | ![Front Shiny](../assets/sprites/grimer-alola/front_shiny.png) | ![Back Shiny](../assets/sprites/grimer-alola/back_shiny.png) |
 
 ### Cries
 

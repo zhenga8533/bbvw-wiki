@@ -1,5 +1,9 @@
 # #563 Cofagrigus (Coffin Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/cofagrigus/official_artwork.png) | ![Shiny Artwork](../assets/sprites/cofagrigus/official_artwork_shiny.png) |
+
 **Blaze Black:** It has been said that they swallow those who get too close and turn them into mummies. They like to eat gold nuggets.
 
 **Volt White:** They pretend to be elaborate coffins to teach lessons to grave robbers. Their bodies are covered in pure gold.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/cofagrigus/front.gif) | ![Back](../assets/sprites/cofagrigus/back.gif) | ![Front Shiny](../assets/sprites/cofagrigus/front_shiny.gif) | ![Back Shiny](../assets/sprites/cofagrigus/back_shiny.gif) |
 
 ### Cries
 

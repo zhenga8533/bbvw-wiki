@@ -1,5 +1,9 @@
 # #143 Snorlax (Sleeping Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/snorlax/official_artwork.png) | ![Shiny Artwork](../assets/sprites/snorlax/official_artwork_shiny.png) |
+
 When its belly is full, it becomes too lethargic to even lift a finger, so it is safe to bounce on its belly.
 
 ---
@@ -8,7 +12,9 @@ When its belly is full, it becomes too lethargic to even lift a finger, so it is
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/snorlax/front.gif) | ![Back](../assets/sprites/snorlax/back.gif) | ![Front Shiny](../assets/sprites/snorlax/front_shiny.gif) | ![Back Shiny](../assets/sprites/snorlax/back_shiny.gif) |
 
 ### Cries
 

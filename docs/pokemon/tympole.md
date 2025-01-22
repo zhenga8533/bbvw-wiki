@@ -1,5 +1,9 @@
 # #535 Tympole (Tadpole Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/tympole/official_artwork.png) | ![Shiny Artwork](../assets/sprites/tympole/official_artwork_shiny.png) |
+
 **Blaze Black:** They warn others of danger by vibrating their cheeks to create a high-pitched sound.
 
 **Volt White:** By vibrating its cheeks, it emits sound waves imperceptible to humans. It uses the rhythm of these sounds to talk.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/tympole/front.gif) | ![Back](../assets/sprites/tympole/back.gif) | ![Front Shiny](../assets/sprites/tympole/front_shiny.gif) | ![Back Shiny](../assets/sprites/tympole/back_shiny.gif) |
 
 ### Cries
 

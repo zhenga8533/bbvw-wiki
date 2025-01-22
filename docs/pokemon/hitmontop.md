@@ -1,5 +1,9 @@
 # #237 Hitmontop (Handstand Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/hitmontop/official_artwork.png) | ![Shiny Artwork](../assets/sprites/hitmontop/official_artwork_shiny.png) |
+
 It fights while spinning like a top. The centrifugal force boosts its destructive power by ten.
 
 ---
@@ -8,7 +12,9 @@ It fights while spinning like a top. The centrifugal force boosts its destructiv
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/hitmontop/front.gif) | ![Back](../assets/sprites/hitmontop/back.gif) | ![Front Shiny](../assets/sprites/hitmontop/front_shiny.gif) | ![Back Shiny](../assets/sprites/hitmontop/back_shiny.gif) |
 
 ### Cries
 

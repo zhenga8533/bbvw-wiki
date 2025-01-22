@@ -1,5 +1,9 @@
 # #587 Emolga (Sky Squirrel Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/emolga/official_artwork.png) | ![Shiny Artwork](../assets/sprites/emolga/official_artwork_shiny.png) |
+
 **Blaze Black:** The energy made in its cheeks’ electric pouches is stored inside its membrane and released while it is gliding.
 
 **Volt White:** They live on treetops and glide using the inside of a cape-like membrane while discharging electricity.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/emolga/front.gif) | ![Back](../assets/sprites/emolga/back.gif) | ![Front Shiny](../assets/sprites/emolga/front_shiny.gif) | ![Back Shiny](../assets/sprites/emolga/back_shiny.gif) |
 
 ### Cries
 

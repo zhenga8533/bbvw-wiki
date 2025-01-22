@@ -1,5 +1,9 @@
 # #504 Patrat (Scout Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/patrat/official_artwork.png) | ![Shiny Artwork](../assets/sprites/patrat/official_artwork_shiny.png) |
+
 **Blaze Black:** Using food stored in cheek pouches, they can keep watch for days. They use their tails to communicate with others.
 
 **Volt White:** Extremely cautious, they take shifts to maintain a constant watch of their nest. They feel insecure without a lookout.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/patrat/front.gif) | ![Back](../assets/sprites/patrat/back.gif) | ![Front Shiny](../assets/sprites/patrat/front_shiny.gif) | ![Back Shiny](../assets/sprites/patrat/back_shiny.gif) |
 
 ### Cries
 

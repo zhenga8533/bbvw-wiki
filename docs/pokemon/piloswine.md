@@ -1,5 +1,9 @@
 # #221 Piloswine (Swine Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/piloswine/official_artwork.png) | ![Shiny Artwork](../assets/sprites/piloswine/official_artwork_shiny.png) |
+
 Covered by a shaggy coat, it is strong against the cold. Its tusks of ice thicken when it snows.
 
 ---
@@ -8,7 +12,15 @@ Covered by a shaggy coat, it is strong against the cold. Its tusks of ice thicke
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/piloswine/front.gif) | ![Back](../assets/sprites/piloswine/back.gif) | ![Front Shiny](../assets/sprites/piloswine/front_shiny.gif) | ![Back Shiny](../assets/sprites/piloswine/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/piloswine/front_female.gif) | ![Back](../assets/sprites/piloswine/back_female.gif) | ![Front Shiny](../assets/sprites/piloswine/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/piloswine/back_shiny_female.gif) |
 
 ### Cries
 

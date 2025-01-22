@@ -1,5 +1,9 @@
 # #10104 Ninetales Alola (Fox Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/ninetales-alola/official_artwork.png) | ![Shiny Artwork](../assets/sprites/ninetales-alola/official_artwork_shiny.png) |
+
 Its nine tails are said to be imbued with a mystic power. It can live for a thousand years.
 
 ---
@@ -8,7 +12,9 @@ Its nine tails are said to be imbued with a mystic power. It can live for a thou
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/ninetales-alola/front.png) | ![Back](../assets/sprites/ninetales-alola/back.png) | ![Front Shiny](../assets/sprites/ninetales-alola/front_shiny.png) | ![Back Shiny](../assets/sprites/ninetales-alola/back_shiny.png) |
 
 ### Cries
 

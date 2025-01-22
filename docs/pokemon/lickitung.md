@@ -1,5 +1,9 @@
 # #108 Lickitung (Licking Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/lickitung/official_artwork.png) | ![Shiny Artwork](../assets/sprites/lickitung/official_artwork_shiny.png) |
+
 When it extends its over-six-foot- long tongue, its tail quivers. There is a possibility they are connected.
 
 ---
@@ -8,7 +12,9 @@ When it extends its over-six-foot- long tongue, its tail quivers. There is a pos
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/lickitung/front.gif) | ![Back](../assets/sprites/lickitung/back.gif) | ![Front Shiny](../assets/sprites/lickitung/front_shiny.gif) | ![Back Shiny](../assets/sprites/lickitung/back_shiny.gif) |
 
 ### Cries
 

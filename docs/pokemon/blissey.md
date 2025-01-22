@@ -1,5 +1,9 @@
 # #242 Blissey (Happiness Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/blissey/official_artwork.png) | ![Shiny Artwork](../assets/sprites/blissey/official_artwork_shiny.png) |
+
 The eggs it lays are filled with happiness. Eating even one bite will bring a smile to anyone.
 
 ---
@@ -8,7 +12,9 @@ The eggs it lays are filled with happiness. Eating even one bite will bring a sm
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/blissey/front.gif) | ![Back](../assets/sprites/blissey/back.gif) | ![Front Shiny](../assets/sprites/blissey/front_shiny.gif) | ![Back Shiny](../assets/sprites/blissey/back_shiny.gif) |
 
 ### Cries
 

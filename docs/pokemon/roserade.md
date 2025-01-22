@@ -1,5 +1,9 @@
 # #407 Roserade (Bouquet Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/roserade/official_artwork.png) | ![Shiny Artwork](../assets/sprites/roserade/official_artwork_shiny.png) |
+
 Each of its hands contains different toxins, but both hands can jab with near-fatal power.
 
 ---
@@ -8,7 +12,15 @@ Each of its hands contains different toxins, but both hands can jab with near-fa
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/roserade/front.gif) | ![Back](../assets/sprites/roserade/back.gif) | ![Front Shiny](../assets/sprites/roserade/front_shiny.gif) | ![Back Shiny](../assets/sprites/roserade/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/roserade/front_female.gif) | ![Back](../assets/sprites/roserade/back_female.gif) | ![Front Shiny](../assets/sprites/roserade/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/roserade/back_shiny_female.gif) |
 
 ### Cries
 

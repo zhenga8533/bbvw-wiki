@@ -1,5 +1,9 @@
 # #331 Cacnea (Cactus Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/cacnea/official_artwork.png) | ![Shiny Artwork](../assets/sprites/cacnea/official_artwork_shiny.png) |
+
 By storing water in its body, this desert dweller can survive for 30 days without water.
 
 ---
@@ -8,7 +12,9 @@ By storing water in its body, this desert dweller can survive for 30 days withou
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/cacnea/front.gif) | ![Back](../assets/sprites/cacnea/back.gif) | ![Front Shiny](../assets/sprites/cacnea/front_shiny.gif) | ![Back Shiny](../assets/sprites/cacnea/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #042 Golbat (Bat Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/golbat/official_artwork.png) | ![Shiny Artwork](../assets/sprites/golbat/official_artwork_shiny.png) |
+
 Its sharp fangs puncture the toughest of hides and have small holes for greedily sucking blood.
 
 ---
@@ -8,7 +12,15 @@ Its sharp fangs puncture the toughest of hides and have small holes for greedily
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/golbat/front.gif) | ![Back](../assets/sprites/golbat/back.gif) | ![Front Shiny](../assets/sprites/golbat/front_shiny.gif) | ![Back Shiny](../assets/sprites/golbat/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/golbat/front_female.gif) | ![Back](../assets/sprites/golbat/back_female.gif) | ![Front Shiny](../assets/sprites/golbat/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/golbat/back_shiny_female.gif) |
 
 ### Cries
 

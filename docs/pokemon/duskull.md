@@ -1,5 +1,9 @@
 # #355 Duskull (Requiem Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/duskull/official_artwork.png) | ![Shiny Artwork](../assets/sprites/duskull/official_artwork_shiny.png) |
+
 It loves the crying of children. It startles bad kids by passing through walls and making them cry.
 
 ---
@@ -8,7 +12,9 @@ It loves the crying of children. It startles bad kids by passing through walls a
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/duskull/front.gif) | ![Back](../assets/sprites/duskull/back.gif) | ![Front Shiny](../assets/sprites/duskull/front_shiny.gif) | ![Back Shiny](../assets/sprites/duskull/back_shiny.gif) |
 
 ### Cries
 

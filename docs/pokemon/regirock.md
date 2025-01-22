@@ -1,5 +1,9 @@
 # #377 Regirock (Rock Peak Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/regirock/official_artwork.png) | ![Shiny Artwork](../assets/sprites/regirock/official_artwork_shiny.png) |
+
 Its entire body is made of rock. If any part chips off in battle, it attaches rocks to repair itself.
 
 ---
@@ -8,7 +12,9 @@ Its entire body is made of rock. If any part chips off in battle, it attaches ro
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/regirock/front.gif) | ![Back](../assets/sprites/regirock/back.gif) | ![Front Shiny](../assets/sprites/regirock/front_shiny.gif) | ![Back Shiny](../assets/sprites/regirock/back_shiny.gif) |
 
 ### Cries
 

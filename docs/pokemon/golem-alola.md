@@ -1,5 +1,9 @@
 # #10111 Golem Alola (Megaton Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/golem-alola/official_artwork.png) | ![Shiny Artwork](../assets/sprites/golem-alola/official_artwork_shiny.png) |
+
 Even dynamite can’t harm its hard, boulderlike body. It sheds its hide just once a year.
 
 ---
@@ -8,7 +12,9 @@ Even dynamite can’t harm its hard, boulderlike body. It sheds its hide just on
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/golem-alola/front.png) | ![Back](../assets/sprites/golem-alola/back.png) | ![Front Shiny](../assets/sprites/golem-alola/front_shiny.png) | ![Back Shiny](../assets/sprites/golem-alola/back_shiny.png) |
 
 ### Cries
 

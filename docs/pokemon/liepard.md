@@ -1,5 +1,9 @@
 # #510 Liepard (Cruel Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/liepard/official_artwork.png) | ![Shiny Artwork](../assets/sprites/liepard/official_artwork_shiny.png) |
+
 **Blaze Black:** These Pokémon vanish and appear unexpectedly. Many Trainers are drawn to their beautiful form and fur.
 
 **Volt White:** Stealthily, it sneaks up on its target, striking from behind before its victim has a chance to react.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/liepard/front.gif) | ![Back](../assets/sprites/liepard/back.gif) | ![Front Shiny](../assets/sprites/liepard/front_shiny.gif) | ![Back Shiny](../assets/sprites/liepard/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #334 Altaria (Humming Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/altaria/official_artwork.png) | ![Shiny Artwork](../assets/sprites/altaria/official_artwork_shiny.png) |
+
 If it bonds with a person, it will gently envelop the friend with its soft wings, then hum.
 
 ---
@@ -8,7 +12,9 @@ If it bonds with a person, it will gently envelop the friend with its soft wings
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/altaria/front.gif) | ![Back](../assets/sprites/altaria/back.gif) | ![Front Shiny](../assets/sprites/altaria/front_shiny.gif) | ![Back Shiny](../assets/sprites/altaria/back_shiny.gif) |
 
 ### Cries
 

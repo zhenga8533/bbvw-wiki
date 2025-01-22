@@ -1,5 +1,9 @@
 # #633 Deino (Irate Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/deino/official_artwork.png) | ![Shiny Artwork](../assets/sprites/deino/official_artwork_shiny.png) |
+
 **Blaze Black:** It tends to bite everything, and it is not a picky eater. Approaching it carelessly is dangerous.
 
 **Volt White:** They cannot see, so they tackle and bite to learn about their surroundings. Their bodies are covered in wounds.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/deino/front.gif) | ![Back](../assets/sprites/deino/back.gif) | ![Front Shiny](../assets/sprites/deino/front_shiny.gif) | ![Back Shiny](../assets/sprites/deino/back_shiny.gif) |
 
 ### Cries
 

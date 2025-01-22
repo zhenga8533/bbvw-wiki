@@ -1,5 +1,9 @@
 # #10233 Typhlosion Hisui (Volcano Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/typhlosion-hisui/official_artwork.png) | ![Shiny Artwork](../assets/sprites/typhlosion-hisui/official_artwork_shiny.png) |
+
 It attacks using blasts of fire. It creates heat shimmers with intense fire to hide itself.
 
 ---
@@ -7,8 +11,6 @@ It attacks using blasts of fire. It creates heat shimmers with intense fire to h
 ## Media
 
 ### Sprites
-
-### Female Sprites
 
 ### Cries
 

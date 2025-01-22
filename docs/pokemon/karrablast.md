@@ -1,5 +1,9 @@
 # #588 Karrablast (Clamping Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/karrablast/official_artwork.png) | ![Shiny Artwork](../assets/sprites/karrablast/official_artwork_shiny.png) |
+
 **Blaze Black:** These mysterious Pokémon evolve when they receive electrical stimulation while they are in the same place as Shelmet.
 
 **Volt White:** When they feel threatened, they spit an acidic liquid to drive attackers away. This Pokémon targets Shelmet.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/karrablast/front.gif) | ![Back](../assets/sprites/karrablast/back.gif) | ![Front Shiny](../assets/sprites/karrablast/front_shiny.gif) | ![Back Shiny](../assets/sprites/karrablast/back_shiny.gif) |
 
 ### Cries
 

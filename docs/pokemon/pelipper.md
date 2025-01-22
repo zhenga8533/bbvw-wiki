@@ -1,5 +1,9 @@
 # #279 Pelipper (Water Bird Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/pelipper/official_artwork.png) | ![Shiny Artwork](../assets/sprites/pelipper/official_artwork_shiny.png) |
+
 It is a messenger of the skies, carrying small Pokémon and eggs to safety in its bill.
 
 ---
@@ -8,7 +12,9 @@ It is a messenger of the skies, carrying small Pokémon and eggs to safety in it
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/pelipper/front.gif) | ![Back](../assets/sprites/pelipper/back.gif) | ![Front Shiny](../assets/sprites/pelipper/front_shiny.gif) | ![Back Shiny](../assets/sprites/pelipper/back_shiny.gif) |
 
 ### Cries
 

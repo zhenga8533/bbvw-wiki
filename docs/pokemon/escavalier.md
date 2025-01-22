@@ -1,5 +1,9 @@
 # #589 Escavalier (Cavalry Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/escavalier/official_artwork.png) | ![Shiny Artwork](../assets/sprites/escavalier/official_artwork_shiny.png) |
+
 **Blaze Black:** They fly around at high speed, striking with their pointed spears. Even when in trouble, they face opponents bravely.
 
 **Volt White:** These Pokémon evolve by wearing the shell covering of a Shelmet. The steel armor protects their whole body.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/escavalier/front.gif) | ![Back](../assets/sprites/escavalier/back.gif) | ![Front Shiny](../assets/sprites/escavalier/front_shiny.gif) | ![Back Shiny](../assets/sprites/escavalier/back_shiny.gif) |
 
 ### Cries
 

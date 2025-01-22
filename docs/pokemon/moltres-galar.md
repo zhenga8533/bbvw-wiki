@@ -1,5 +1,9 @@
 # #10171 Moltres Galar (Flame Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/moltres-galar/official_artwork.png) | ![Shiny Artwork](../assets/sprites/moltres-galar/official_artwork_shiny.png) |
+
 One of the legendary bird Pokémon. It is said that its appearance indicates the coming of spring.
 
 ---
@@ -8,7 +12,9 @@ One of the legendary bird Pokémon. It is said that its appearance indicates the
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/moltres-galar/front.png) | ![Back](../assets/sprites/moltres-galar/back.png) | ![Front Shiny](../assets/sprites/moltres-galar/front_shiny.png) | ![Back Shiny](../assets/sprites/moltres-galar/back_shiny.png) |
 
 ### Cries
 

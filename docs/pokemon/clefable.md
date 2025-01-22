@@ -1,5 +1,9 @@
 # #036 Clefable (Fairy Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/clefable/official_artwork.png) | ![Shiny Artwork](../assets/sprites/clefable/official_artwork_shiny.png) |
+
 It is very wary and rarely shows itself to people. Its ears can hear a pin drop over half a mile away.
 
 ---
@@ -8,7 +12,9 @@ It is very wary and rarely shows itself to people. Its ears can hear a pin drop 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/clefable/front.gif) | ![Back](../assets/sprites/clefable/back.gif) | ![Front Shiny](../assets/sprites/clefable/front_shiny.gif) | ![Back Shiny](../assets/sprites/clefable/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #10081 Pikachu Belle (Mouse Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/pikachu-belle/official_artwork.png) | ![Shiny Artwork](../assets/sprites/pikachu-belle/official_artwork_shiny.png) |
+
 It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.
 
 ---
@@ -8,7 +12,9 @@ It occasionally uses an electric shock to recharge a fellow Pikachu that is in a
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/pikachu-belle/front.png) | ![Back](../assets/sprites/pikachu-belle/back.png) | ![Front Shiny](../assets/sprites/pikachu-belle/front_shiny.png) | ![Back Shiny](../assets/sprites/pikachu-belle/back_shiny.png) |
 
 ### Cries
 

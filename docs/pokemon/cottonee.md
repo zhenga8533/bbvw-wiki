@@ -1,5 +1,9 @@
 # #546 Cottonee (Cotton Puff Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/cottonee/official_artwork.png) | ![Shiny Artwork](../assets/sprites/cottonee/official_artwork_shiny.png) |
+
 **Blaze Black:** When attacked, it escapes by shooting cotton from its body. The cotton serves as a decoy to distract the attacker.
 
 **Volt White:** They go wherever the wind takes them. On rainy days, their bodies are heavier, so they take shelter beneath big trees.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/cottonee/front.gif) | ![Back](../assets/sprites/cottonee/back.gif) | ![Front Shiny](../assets/sprites/cottonee/front_shiny.gif) | ![Back Shiny](../assets/sprites/cottonee/back_shiny.gif) |
 
 ### Cries
 

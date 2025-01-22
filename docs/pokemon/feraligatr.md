@@ -1,5 +1,9 @@
 # #160 Feraligatr (Big Jaw Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/feraligatr/official_artwork.png) | ![Shiny Artwork](../assets/sprites/feraligatr/official_artwork_shiny.png) |
+
 It usually moves slowly, but it goes at blinding speed when it attacks and bites prey.
 
 ---
@@ -8,7 +12,9 @@ It usually moves slowly, but it goes at blinding speed when it attacks and bites
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/feraligatr/front.gif) | ![Back](../assets/sprites/feraligatr/back.gif) | ![Front Shiny](../assets/sprites/feraligatr/front_shiny.gif) | ![Back Shiny](../assets/sprites/feraligatr/back_shiny.gif) |
 
 ### Cries
 

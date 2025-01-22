@@ -1,5 +1,9 @@
 # #217 Ursaring (Hibernator Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/ursaring/official_artwork.png) | ![Shiny Artwork](../assets/sprites/ursaring/official_artwork_shiny.png) |
+
 In its territory, it leaves scratches on trees that bear delicious berries or fruits.
 
 ---
@@ -8,7 +12,15 @@ In its territory, it leaves scratches on trees that bear delicious berries or fr
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/ursaring/front.gif) | ![Back](../assets/sprites/ursaring/back.gif) | ![Front Shiny](../assets/sprites/ursaring/front_shiny.gif) | ![Back Shiny](../assets/sprites/ursaring/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/ursaring/front_female.gif) | ![Back](../assets/sprites/ursaring/back_female.gif) | ![Front Shiny](../assets/sprites/ursaring/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/ursaring/back_shiny_female.gif) |
 
 ### Cries
 

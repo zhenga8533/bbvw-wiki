@@ -1,5 +1,9 @@
 # #137 Porygon (Virtual Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/porygon/official_artwork.png) | ![Shiny Artwork](../assets/sprites/porygon/official_artwork_shiny.png) |
+
 A man-made Pokémon created using advanced scientific means. It can move freely in cyberspace.
 
 ---
@@ -8,7 +12,9 @@ A man-made Pokémon created using advanced scientific means. It can move freely 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/porygon/front.gif) | ![Back](../assets/sprites/porygon/back.gif) | ![Front Shiny](../assets/sprites/porygon/front_shiny.gif) | ![Back Shiny](../assets/sprites/porygon/back_shiny.gif) |
 
 ### Cries
 

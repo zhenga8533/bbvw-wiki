@@ -1,5 +1,9 @@
 # #402 Kricketune (Cricket Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/kricketune/official_artwork.png) | ![Shiny Artwork](../assets/sprites/kricketune/official_artwork_shiny.png) |
+
 There is a village that hosts a contest based on the amazingly variable cries of this Pokémon.
 
 ---
@@ -8,7 +12,15 @@ There is a village that hosts a contest based on the amazingly variable cries of
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/kricketune/front.gif) | ![Back](../assets/sprites/kricketune/back.gif) | ![Front Shiny](../assets/sprites/kricketune/front_shiny.gif) | ![Back Shiny](../assets/sprites/kricketune/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/kricketune/front_female.gif) | ![Back](../assets/sprites/kricketune/back_female.gif) | ![Front Shiny](../assets/sprites/kricketune/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/kricketune/back_shiny_female.gif) |
 
 ### Cries
 

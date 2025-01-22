@@ -1,5 +1,9 @@
 # #456 Finneon (Wing Fish Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/finneon/official_artwork.png) | ![Shiny Artwork](../assets/sprites/finneon/official_artwork_shiny.png) |
+
 The line running down its side can store sunlight. It shines vividly at night.
 
 ---
@@ -8,7 +12,15 @@ The line running down its side can store sunlight. It shines vividly at night.
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/finneon/front.gif) | ![Back](../assets/sprites/finneon/back.gif) | ![Front Shiny](../assets/sprites/finneon/front_shiny.gif) | ![Back Shiny](../assets/sprites/finneon/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/finneon/front_female.gif) | ![Back](../assets/sprites/finneon/back_female.gif) | ![Front Shiny](../assets/sprites/finneon/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/finneon/back_shiny_female.gif) |
 
 ### Cries
 

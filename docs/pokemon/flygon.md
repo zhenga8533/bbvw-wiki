@@ -1,5 +1,9 @@
 # #330 Flygon (Mystic Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/flygon/official_artwork.png) | ![Shiny Artwork](../assets/sprites/flygon/official_artwork_shiny.png) |
+
 It whips up sandstorms with powerful flaps of its wings. It is known as “The Desert Spirit.”
 
 ---
@@ -8,7 +12,9 @@ It whips up sandstorms with powerful flaps of its wings. It is known as “The D
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/flygon/front.gif) | ![Back](../assets/sprites/flygon/back.gif) | ![Front Shiny](../assets/sprites/flygon/front_shiny.gif) | ![Back Shiny](../assets/sprites/flygon/back_shiny.gif) |
 
 ### Cries
 

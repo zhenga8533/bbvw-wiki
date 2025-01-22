@@ -1,5 +1,9 @@
 # #10002 Deoxys Defense (DNA Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/deoxys-defense/official_artwork.png) | ![Shiny Artwork](../assets/sprites/deoxys-defense/official_artwork_shiny.png) |
+
 An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon.
 
 ---
@@ -8,7 +12,9 @@ An alien virus that fell to earth on a meteor underwent a DNA mutation to become
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/deoxys-defense/front.gif) | ![Back](../assets/sprites/deoxys-defense/back.gif) | ![Front Shiny](../assets/sprites/deoxys-defense/front_shiny.gif) | ![Back Shiny](../assets/sprites/deoxys-defense/back_shiny.gif) |
 
 ### Cries
 

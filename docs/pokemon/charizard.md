@@ -1,5 +1,9 @@
 # #006 Charizard (Flame Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/charizard/official_artwork.png) | ![Shiny Artwork](../assets/sprites/charizard/official_artwork_shiny.png) |
+
 It is said that Charizard’s fire burns hotter if it has experienced harsh battles.
 
 ---
@@ -8,7 +12,9 @@ It is said that Charizard’s fire burns hotter if it has experienced harsh batt
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/charizard/front.gif) | ![Back](../assets/sprites/charizard/back.gif) | ![Front Shiny](../assets/sprites/charizard/front_shiny.gif) | ![Back Shiny](../assets/sprites/charizard/back_shiny.gif) |
 
 ### Cries
 

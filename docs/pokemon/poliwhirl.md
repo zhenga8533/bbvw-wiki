@@ -1,5 +1,9 @@
 # #061 Poliwhirl (Tadpole Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/poliwhirl/official_artwork.png) | ![Shiny Artwork](../assets/sprites/poliwhirl/official_artwork_shiny.png) |
+
 The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.
 
 ---
@@ -8,7 +12,9 @@ The spiral pattern on its belly subtly undulates. Staring at it gradually causes
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/poliwhirl/front.gif) | ![Back](../assets/sprites/poliwhirl/back.gif) | ![Front Shiny](../assets/sprites/poliwhirl/front_shiny.gif) | ![Back Shiny](../assets/sprites/poliwhirl/back_shiny.gif) |
 
 ### Cries
 

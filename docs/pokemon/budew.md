@@ -1,5 +1,9 @@
 # #406 Budew (Bud Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/budew/official_artwork.png) | ![Shiny Artwork](../assets/sprites/budew/official_artwork_shiny.png) |
+
 Sensitive to changing temperature, the bud is said to bloom when it feels the sun’s warm touch.
 
 ---
@@ -8,7 +12,9 @@ Sensitive to changing temperature, the bud is said to bloom when it feels the su
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/budew/front.gif) | ![Back](../assets/sprites/budew/back.gif) | ![Front Shiny](../assets/sprites/budew/front_shiny.gif) | ![Back Shiny](../assets/sprites/budew/back_shiny.gif) |
 
 ### Cries
 

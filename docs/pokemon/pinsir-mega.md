@@ -1,5 +1,9 @@
 # #10040 Pinsir Mega (Stag Beetle Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/pinsir-mega/official_artwork.png) | ![Shiny Artwork](../assets/sprites/pinsir-mega/official_artwork_shiny.png) |
+
 It grips prey with its pincers until the prey is torn in half. What it can’t tear, it tosses far.
 
 ---
@@ -8,7 +12,9 @@ It grips prey with its pincers until the prey is torn in half. What it can’t t
 
 ### Sprites
 
-### Female Sprites
+| Front | Front Shiny |
+| --- | --- |
+| ![Front](../assets/sprites/pinsir-mega/front.png) | ![Front Shiny](../assets/sprites/pinsir-mega/front_shiny.png) |
 
 ### Cries
 

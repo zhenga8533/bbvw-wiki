@@ -1,5 +1,9 @@
 # #170 Chinchou (Angler Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/chinchou/official_artwork.png) | ![Shiny Artwork](../assets/sprites/chinchou/official_artwork_shiny.png) |
+
 It discharges positive and negative electricity from its antenna tips to shock its foes.
 
 ---
@@ -8,7 +12,9 @@ It discharges positive and negative electricity from its antenna tips to shock i
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/chinchou/front.gif) | ![Back](../assets/sprites/chinchou/back.gif) | ![Front Shiny](../assets/sprites/chinchou/front_shiny.gif) | ![Back Shiny](../assets/sprites/chinchou/back_shiny.gif) |
 
 ### Cries
 

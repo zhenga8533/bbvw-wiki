@@ -1,5 +1,9 @@
 # #197 Umbreon (Moonlight Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/umbreon/official_artwork.png) | ![Shiny Artwork](../assets/sprites/umbreon/official_artwork_shiny.png) |
+
 When exposed to the moon’s aura, the rings on its body glow faintly and it gains a mysterious power.
 
 ---
@@ -8,7 +12,9 @@ When exposed to the moon’s aura, the rings on its body glow faintly and it gai
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/umbreon/front.gif) | ![Back](../assets/sprites/umbreon/back.gif) | ![Front Shiny](../assets/sprites/umbreon/front_shiny.gif) | ![Back Shiny](../assets/sprites/umbreon/back_shiny.gif) |
 
 ### Cries
 

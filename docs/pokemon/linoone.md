@@ -1,5 +1,9 @@
 # #264 Linoone (Rushing Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/linoone/official_artwork.png) | ![Shiny Artwork](../assets/sprites/linoone/official_artwork_shiny.png) |
+
 It charges prey at speeds over 60 mph. However, because it can only run straight, it often fails.
 
 ---
@@ -8,7 +12,9 @@ It charges prey at speeds over 60 mph. However, because it can only run straight
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/linoone/front.gif) | ![Back](../assets/sprites/linoone/back.gif) | ![Front Shiny](../assets/sprites/linoone/front_shiny.gif) | ![Back Shiny](../assets/sprites/linoone/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #375 Metang (Iron Claw Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/metang/official_artwork.png) | ![Shiny Artwork](../assets/sprites/metang/official_artwork_shiny.png) |
+
 It is formed by two Beldum joining together. Its steel body won’t be scratched if it collides with a jet.
 
 ---
@@ -8,7 +12,9 @@ It is formed by two Beldum joining together. Its steel body won’t be scratched
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/metang/front.gif) | ![Back](../assets/sprites/metang/back.gif) | ![Front Shiny](../assets/sprites/metang/front_shiny.gif) | ![Back Shiny](../assets/sprites/metang/back_shiny.gif) |
 
 ### Cries
 

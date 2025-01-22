@@ -1,5 +1,9 @@
 # #202 Wobbuffet (Patient Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/wobbuffet/official_artwork.png) | ![Shiny Artwork](../assets/sprites/wobbuffet/official_artwork_shiny.png) |
+
 It desperately tries to keep its black tail hidden. It is said to be proof the tail hides a secret.
 
 ---
@@ -8,7 +12,15 @@ It desperately tries to keep its black tail hidden. It is said to be proof the t
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/wobbuffet/front.gif) | ![Back](../assets/sprites/wobbuffet/back.gif) | ![Front Shiny](../assets/sprites/wobbuffet/front_shiny.gif) | ![Back Shiny](../assets/sprites/wobbuffet/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/wobbuffet/front_female.gif) | ![Back](../assets/sprites/wobbuffet/back_female.gif) | ![Front Shiny](../assets/sprites/wobbuffet/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/wobbuffet/back_shiny_female.gif) |
 
 ### Cries
 

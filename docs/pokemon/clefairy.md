@@ -1,5 +1,9 @@
 # #035 Clefairy (Fairy Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/clefairy/official_artwork.png) | ![Shiny Artwork](../assets/sprites/clefairy/official_artwork_shiny.png) |
+
 It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon.
 
 ---
@@ -8,7 +12,9 @@ It is said that happiness will come to those who see a gathering of Clefairy dan
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/clefairy/front.gif) | ![Back](../assets/sprites/clefairy/back.gif) | ![Front Shiny](../assets/sprites/clefairy/front_shiny.gif) | ![Back Shiny](../assets/sprites/clefairy/back_shiny.gif) |
 
 ### Cries
 

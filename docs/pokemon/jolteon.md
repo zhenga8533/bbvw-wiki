@@ -1,5 +1,9 @@
 # #135 Jolteon (Lightning Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/jolteon/official_artwork.png) | ![Shiny Artwork](../assets/sprites/jolteon/official_artwork_shiny.png) |
+
 If agitated, it uses electricity to straighten out its fur and launch it in small bunches.
 
 ---
@@ -8,7 +12,9 @@ If agitated, it uses electricity to straighten out its fur and launch it in smal
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/jolteon/front.gif) | ![Back](../assets/sprites/jolteon/back.gif) | ![Front Shiny](../assets/sprites/jolteon/front_shiny.gif) | ![Back Shiny](../assets/sprites/jolteon/back_shiny.gif) |
 
 ### Cries
 

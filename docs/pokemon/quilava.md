@@ -1,5 +1,9 @@
 # #156 Quilava (Volcano Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/quilava/official_artwork.png) | ![Shiny Artwork](../assets/sprites/quilava/official_artwork_shiny.png) |
+
 It intimidates foes with the heat of its flames. The fire burns more strongly when it readies to fight.
 
 ---
@@ -8,7 +12,9 @@ It intimidates foes with the heat of its flames. The fire burns more strongly wh
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/quilava/front.gif) | ![Back](../assets/sprites/quilava/back.gif) | ![Front Shiny](../assets/sprites/quilava/front_shiny.gif) | ![Back Shiny](../assets/sprites/quilava/back_shiny.gif) |
 
 ### Cries
 

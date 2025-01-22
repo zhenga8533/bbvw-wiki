@@ -1,5 +1,9 @@
 # #102 Exeggcute (Egg Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/exeggcute/official_artwork.png) | ![Shiny Artwork](../assets/sprites/exeggcute/official_artwork_shiny.png) |
+
 Its six eggs converse using telepathy. They can quickly gather if they become separated.
 
 ---
@@ -8,7 +12,9 @@ Its six eggs converse using telepathy. They can quickly gather if they become se
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/exeggcute/front.gif) | ![Back](../assets/sprites/exeggcute/back.gif) | ![Front Shiny](../assets/sprites/exeggcute/front_shiny.gif) | ![Back Shiny](../assets/sprites/exeggcute/back_shiny.gif) |
 
 ### Cries
 

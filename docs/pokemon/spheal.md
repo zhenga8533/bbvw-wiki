@@ -1,5 +1,9 @@
 # #363 Spheal (Clap Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/spheal/official_artwork.png) | ![Shiny Artwork](../assets/sprites/spheal/official_artwork_shiny.png) |
+
 It rolls across ice floes to reach shore because its body is poorly shaped for swimming.
 
 ---
@@ -8,7 +12,9 @@ It rolls across ice floes to reach shore because its body is poorly shaped for s
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/spheal/front.gif) | ![Back](../assets/sprites/spheal/back.gif) | ![Front Shiny](../assets/sprites/spheal/front_shiny.gif) | ![Back Shiny](../assets/sprites/spheal/back_shiny.gif) |
 
 ### Cries
 

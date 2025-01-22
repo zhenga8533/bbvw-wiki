@@ -1,5 +1,9 @@
 # #608 Lampent (Lamp Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/lampent/official_artwork.png) | ![Shiny Artwork](../assets/sprites/lampent/official_artwork_shiny.png) |
+
 **Blaze Black:** This ominous Pokémon is feared. Through cities it wanders, searching for the spirits of the fallen.
 
 **Volt White:** It arrives near the moment of death and steals spirit from the body.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/lampent/front.gif) | ![Back](../assets/sprites/lampent/back.gif) | ![Front Shiny](../assets/sprites/lampent/front_shiny.gif) | ![Back Shiny](../assets/sprites/lampent/back_shiny.gif) |
 
 ### Cries
 

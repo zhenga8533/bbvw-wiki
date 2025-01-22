@@ -1,5 +1,9 @@
 # #586 Sawsbuck (Season Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/sawsbuck/official_artwork.png) | ![Shiny Artwork](../assets/sprites/sawsbuck/official_artwork_shiny.png) |
+
 **Blaze Black:** They migrate according to the seasons. People can tell the season by looking at Sawsbuck’s horns.
 
 **Volt White:** The plants growing on its horns change according to the season. The leaders of the herd possess magnificent horns.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/sawsbuck/front.gif) | ![Back](../assets/sprites/sawsbuck/back.gif) | ![Front Shiny](../assets/sprites/sawsbuck/front_shiny.gif) | ![Back Shiny](../assets/sprites/sawsbuck/back_shiny.gif) |
 
 ### Cries
 

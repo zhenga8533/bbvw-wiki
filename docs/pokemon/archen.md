@@ -1,5 +1,9 @@
 # #566 Archen (First Bird Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/archen/official_artwork.png) | ![Shiny Artwork](../assets/sprites/archen/official_artwork_shiny.png) |
+
 **Blaze Black:** Said to be an ancestor of bird Pokémon, they were unable to fly and moved about by hopping from one branch to another.
 
 **Volt White:** Revived from a fossil, this Pokémon is thought to be the ancestor of all bird Pokémon.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/archen/front.gif) | ![Back](../assets/sprites/archen/back.gif) | ![Front Shiny](../assets/sprites/archen/front_shiny.gif) | ![Back Shiny](../assets/sprites/archen/back_shiny.gif) |
 
 ### Cries
 

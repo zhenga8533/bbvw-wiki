@@ -1,5 +1,9 @@
 # #284 Masquerain (Eyeball Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/masquerain/official_artwork.png) | ![Shiny Artwork](../assets/sprites/masquerain/official_artwork_shiny.png) |
+
 Its antennae have eye patterns on them. Its four wings enable it to hover and fly in any direction.
 
 ---
@@ -8,7 +12,9 @@ Its antennae have eye patterns on them. Its four wings enable it to hover and fl
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/masquerain/front.gif) | ![Back](../assets/sprites/masquerain/back.gif) | ![Front Shiny](../assets/sprites/masquerain/front_shiny.gif) | ![Back Shiny](../assets/sprites/masquerain/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #276 Taillow (Tiny Swallow Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/taillow/official_artwork.png) | ![Shiny Artwork](../assets/sprites/taillow/official_artwork_shiny.png) |
+
 It has a gutsy spirit that makes it bravely take on tough foes. It flies in search of warm climates.
 
 ---
@@ -8,7 +12,9 @@ It has a gutsy spirit that makes it bravely take on tough foes. It flies in sear
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/taillow/front.gif) | ![Back](../assets/sprites/taillow/back.gif) | ![Front Shiny](../assets/sprites/taillow/front_shiny.gif) | ![Back Shiny](../assets/sprites/taillow/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #525 Boldore (Ore Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/boldore/official_artwork.png) | ![Shiny Artwork](../assets/sprites/boldore/official_artwork_shiny.png) |
+
 **Blaze Black:** When it overflows with power, the orange crystal on its body glows. It looks for underground water in caves.
 
 **Volt White:** Because its energy was too great to be contained, the energy leaked and formed orange crystals.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/boldore/front.gif) | ![Back](../assets/sprites/boldore/back.gif) | ![Front Shiny](../assets/sprites/boldore/front_shiny.gif) | ![Back Shiny](../assets/sprites/boldore/back_shiny.gif) |
 
 ### Cries
 

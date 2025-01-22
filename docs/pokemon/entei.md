@@ -1,5 +1,9 @@
 # #244 Entei (Volcano Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/entei/official_artwork.png) | ![Shiny Artwork](../assets/sprites/entei/official_artwork_shiny.png) |
+
 It is said that when it roars, a volcano erupts somewhere around the globe.
 
 ---
@@ -8,7 +12,9 @@ It is said that when it roars, a volcano erupts somewhere around the globe.
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/entei/front.gif) | ![Back](../assets/sprites/entei/back.gif) | ![Front Shiny](../assets/sprites/entei/front_shiny.gif) | ![Back Shiny](../assets/sprites/entei/back_shiny.gif) |
 
 ### Cries
 

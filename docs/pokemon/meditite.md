@@ -1,5 +1,9 @@
 # #307 Meditite (Meditate Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/meditite/official_artwork.png) | ![Shiny Artwork](../assets/sprites/meditite/official_artwork_shiny.png) |
+
 It always trains deep in mountains. It levitates when it heightens its spiritual power through meditation.
 
 ---
@@ -8,7 +12,15 @@ It always trains deep in mountains. It levitates when it heightens its spiritual
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/meditite/front.gif) | ![Back](../assets/sprites/meditite/back.gif) | ![Front Shiny](../assets/sprites/meditite/front_shiny.gif) | ![Back Shiny](../assets/sprites/meditite/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/meditite/front_female.gif) | ![Back](../assets/sprites/meditite/back_female.gif) | ![Front Shiny](../assets/sprites/meditite/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/meditite/back_shiny_female.gif) |
 
 ### Cries
 

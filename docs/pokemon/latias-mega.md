@@ -1,5 +1,9 @@
 # #10062 Latias Mega (Eon Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/latias-mega/official_artwork.png) | ![Shiny Artwork](../assets/sprites/latias-mega/official_artwork_shiny.png) |
+
 Its body is covered with a down that can refract light in such a way that it becomes invisible.
 
 ---
@@ -8,7 +12,9 @@ Its body is covered with a down that can refract light in such a way that it bec
 
 ### Sprites
 
-### Female Sprites
+| Front | Front Shiny |
+| --- | --- |
+| ![Front](../assets/sprites/latias-mega/front.png) | ![Front Shiny](../assets/sprites/latias-mega/front_shiny.png) |
 
 ### Cries
 

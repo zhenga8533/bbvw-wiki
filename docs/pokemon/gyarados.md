@@ -1,5 +1,9 @@
 # #130 Gyarados (Atrocious Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/gyarados/official_artwork.png) | ![Shiny Artwork](../assets/sprites/gyarados/official_artwork_shiny.png) |
+
 Once it begins to rampage, a Gyarados will burn everything down, even in a harsh storm.
 
 ---
@@ -8,7 +12,15 @@ Once it begins to rampage, a Gyarados will burn everything down, even in a harsh
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/gyarados/front.gif) | ![Back](../assets/sprites/gyarados/back.gif) | ![Front Shiny](../assets/sprites/gyarados/front_shiny.gif) | ![Back Shiny](../assets/sprites/gyarados/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/gyarados/front_female.gif) | ![Back](../assets/sprites/gyarados/back_female.gif) | ![Front Shiny](../assets/sprites/gyarados/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/gyarados/back_shiny_female.gif) |
 
 ### Cries
 

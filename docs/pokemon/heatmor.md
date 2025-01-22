@@ -1,5 +1,9 @@
 # #631 Heatmor (Anteater Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/heatmor/official_artwork.png) | ![Shiny Artwork](../assets/sprites/heatmor/official_artwork_shiny.png) |
+
 **Blaze Black:** It breathes through a hole in its tail while it burns with an internal fire. Durant is its prey.
 
 **Volt White:** Using their very hot, flame-covered tongues, they burn through Durant’s steel bodies and consume their insides.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/heatmor/front.gif) | ![Back](../assets/sprites/heatmor/back.gif) | ![Front Shiny](../assets/sprites/heatmor/front_shiny.gif) | ![Back Shiny](../assets/sprites/heatmor/back_shiny.gif) |
 
 ### Cries
 

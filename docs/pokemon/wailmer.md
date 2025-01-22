@@ -1,5 +1,9 @@
 # #320 Wailmer (Ball Whale Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/wailmer/official_artwork.png) | ![Shiny Artwork](../assets/sprites/wailmer/official_artwork_shiny.png) |
+
 On sunny days, it lands on beaches to bounce like a ball and play. It spouts water from its nose.
 
 ---
@@ -8,7 +12,9 @@ On sunny days, it lands on beaches to bounce like a ball and play. It spouts wat
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/wailmer/front.gif) | ![Back](../assets/sprites/wailmer/back.gif) | ![Front Shiny](../assets/sprites/wailmer/front_shiny.gif) | ![Back Shiny](../assets/sprites/wailmer/back_shiny.gif) |
 
 ### Cries
 

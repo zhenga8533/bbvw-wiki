@@ -1,5 +1,9 @@
 # #507 Herdier (Loyal Dog Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/herdier/official_artwork.png) | ![Shiny Artwork](../assets/sprites/herdier/official_artwork_shiny.png) |
+
 **Blaze Black:** It has black, cape-like fur that is very hard and decreases the amount of damage it receives.
 
 **Volt White:** It loyally follows its Trainer’s orders. For ages, they have helped Trainers raise Pokémon.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/herdier/front.gif) | ![Back](../assets/sprites/herdier/back.gif) | ![Front Shiny](../assets/sprites/herdier/front_shiny.gif) | ![Back Shiny](../assets/sprites/herdier/back_shiny.gif) |
 
 ### Cries
 

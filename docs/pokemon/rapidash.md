@@ -1,5 +1,9 @@
 # #078 Rapidash (Fire Horse Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/rapidash/official_artwork.png) | ![Shiny Artwork](../assets/sprites/rapidash/official_artwork_shiny.png) |
+
 When at an all-out gallop, its blazing mane sparkles, enhancing its beautiful appearance.
 
 ---
@@ -8,7 +12,9 @@ When at an all-out gallop, its blazing mane sparkles, enhancing its beautiful ap
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/rapidash/front.gif) | ![Back](../assets/sprites/rapidash/back.gif) | ![Front Shiny](../assets/sprites/rapidash/front_shiny.gif) | ![Back Shiny](../assets/sprites/rapidash/back_shiny.gif) |
 
 ### Cries
 

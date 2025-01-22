@@ -1,5 +1,9 @@
 # #10167 Weezing Galar (Poison Gas Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/weezing-galar/official_artwork.png) | ![Shiny Artwork](../assets/sprites/weezing-galar/official_artwork_shiny.png) |
+
 It grows by feeding on gases released by garbage. Though very rare, triplets have been found.
 
 ---
@@ -8,7 +12,9 @@ It grows by feeding on gases released by garbage. Though very rare, triplets hav
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/weezing-galar/front.png) | ![Back](../assets/sprites/weezing-galar/back.png) | ![Front Shiny](../assets/sprites/weezing-galar/front_shiny.png) | ![Back Shiny](../assets/sprites/weezing-galar/back_shiny.png) |
 
 ### Cries
 

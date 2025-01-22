@@ -1,5 +1,9 @@
 # #372 Shelgon (Endurance Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/shelgon/official_artwork.png) | ![Shiny Artwork](../assets/sprites/shelgon/official_artwork_shiny.png) |
+
 Within its rugged shell, its cells have begun changing. The shell peels off the instant it evolves.
 
 ---
@@ -8,7 +12,9 @@ Within its rugged shell, its cells have begun changing. The shell peels off the 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/shelgon/front.gif) | ![Back](../assets/sprites/shelgon/back.gif) | ![Front Shiny](../assets/sprites/shelgon/front_shiny.gif) | ![Back Shiny](../assets/sprites/shelgon/back_shiny.gif) |
 
 ### Cries
 

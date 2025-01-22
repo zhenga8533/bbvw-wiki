@@ -1,5 +1,9 @@
 # #451 Skorupi (Scorpion Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/skorupi/official_artwork.png) | ![Shiny Artwork](../assets/sprites/skorupi/official_artwork_shiny.png) |
+
 As soon as the tail claws close, its needle tips secrete poison. It can survive a year without food.
 
 ---
@@ -8,7 +12,9 @@ As soon as the tail claws close, its needle tips secrete poison. It can survive 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/skorupi/front.gif) | ![Back](../assets/sprites/skorupi/back.gif) | ![Front Shiny](../assets/sprites/skorupi/front_shiny.gif) | ![Back Shiny](../assets/sprites/skorupi/back_shiny.gif) |
 
 ### Cries
 

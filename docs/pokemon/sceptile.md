@@ -1,5 +1,9 @@
 # #254 Sceptile (Forest Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/sceptile/official_artwork.png) | ![Shiny Artwork](../assets/sprites/sceptile/official_artwork_shiny.png) |
+
 The leaves that grow on its arms can slice down thick trees. It is without peer in jungle combat.
 
 ---
@@ -8,7 +12,9 @@ The leaves that grow on its arms can slice down thick trees. It is without peer 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/sceptile/front.gif) | ![Back](../assets/sprites/sceptile/back.gif) | ![Front Shiny](../assets/sprites/sceptile/front_shiny.gif) | ![Back Shiny](../assets/sprites/sceptile/back_shiny.gif) |
 
 ### Cries
 

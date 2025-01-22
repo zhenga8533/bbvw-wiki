@@ -1,5 +1,9 @@
 # #140 Kabuto (Shellfish Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/kabuto/official_artwork.png) | ![Shiny Artwork](../assets/sprites/kabuto/official_artwork_shiny.png) |
+
 It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.
 
 ---
@@ -8,7 +12,9 @@ It is thought to have inhabited beaches 300 million years ago. It is protected b
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/kabuto/front.gif) | ![Back](../assets/sprites/kabuto/back.gif) | ![Front Shiny](../assets/sprites/kabuto/front_shiny.gif) | ![Back Shiny](../assets/sprites/kabuto/back_shiny.gif) |
 
 ### Cries
 

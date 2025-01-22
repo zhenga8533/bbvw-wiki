@@ -1,5 +1,9 @@
 # #301 Delcatty (Prim Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/delcatty/official_artwork.png) | ![Shiny Artwork](../assets/sprites/delcatty/official_artwork_shiny.png) |
+
 It is highly popular among female Trainers for its sublime fur. It does not keep a nest.
 
 ---
@@ -8,7 +12,9 @@ It is highly popular among female Trainers for its sublime fur. It does not keep
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/delcatty/front.gif) | ![Back](../assets/sprites/delcatty/back.gif) | ![Front Shiny](../assets/sprites/delcatty/front_shiny.gif) | ![Back Shiny](../assets/sprites/delcatty/back_shiny.gif) |
 
 ### Cries
 

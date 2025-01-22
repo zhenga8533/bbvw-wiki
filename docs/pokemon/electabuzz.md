@@ -1,5 +1,9 @@
 # #125 Electabuzz (Electric Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/electabuzz/official_artwork.png) | ![Shiny Artwork](../assets/sprites/electabuzz/official_artwork_shiny.png) |
+
 It windmills its arms to slightly boost its punches. Foes have been known to escape in the meantime.
 
 ---
@@ -8,7 +12,9 @@ It windmills its arms to slightly boost its punches. Foes have been known to esc
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/electabuzz/front.gif) | ![Back](../assets/sprites/electabuzz/back.gif) | ![Front Shiny](../assets/sprites/electabuzz/front_shiny.gif) | ![Back Shiny](../assets/sprites/electabuzz/back_shiny.gif) |
 
 ### Cries
 

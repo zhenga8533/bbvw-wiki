@@ -1,5 +1,9 @@
 # #318 Carvanha (Savage Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/carvanha/official_artwork.png) | ![Shiny Artwork](../assets/sprites/carvanha/official_artwork_shiny.png) |
+
 They swarm any foe that invades their territory. Their sharp fangs can tear out boat hulls.
 
 ---
@@ -8,7 +12,9 @@ They swarm any foe that invades their territory. Their sharp fangs can tear out 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/carvanha/front.gif) | ![Back](../assets/sprites/carvanha/back.gif) | ![Front Shiny](../assets/sprites/carvanha/front_shiny.gif) | ![Back Shiny](../assets/sprites/carvanha/back_shiny.gif) |
 
 ### Cries
 

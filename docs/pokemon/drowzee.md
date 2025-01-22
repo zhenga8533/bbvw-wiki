@@ -1,5 +1,9 @@
 # #096 Drowzee (Hypnosis Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/drowzee/official_artwork.png) | ![Shiny Artwork](../assets/sprites/drowzee/official_artwork_shiny.png) |
+
 It can tell what people are dreaming by sniffing with its big nose. It loves fun dreams.
 
 ---
@@ -8,7 +12,9 @@ It can tell what people are dreaming by sniffing with its big nose. It loves fun
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/drowzee/front.gif) | ![Back](../assets/sprites/drowzee/back.gif) | ![Front Shiny](../assets/sprites/drowzee/front_shiny.gif) | ![Back Shiny](../assets/sprites/drowzee/back_shiny.gif) |
 
 ### Cries
 

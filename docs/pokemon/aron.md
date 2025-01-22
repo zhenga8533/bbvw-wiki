@@ -1,5 +1,9 @@
 # #304 Aron (Iron Armor Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/aron/official_artwork.png) | ![Shiny Artwork](../assets/sprites/aron/official_artwork_shiny.png) |
+
 It usually lives deep in mountains. However, hunger may drive it to eat railroad tracks and cars.
 
 ---
@@ -8,7 +12,9 @@ It usually lives deep in mountains. However, hunger may drive it to eat railroad
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/aron/front.gif) | ![Back](../assets/sprites/aron/back.gif) | ![Front Shiny](../assets/sprites/aron/front_shiny.gif) | ![Back Shiny](../assets/sprites/aron/back_shiny.gif) |
 
 ### Cries
 

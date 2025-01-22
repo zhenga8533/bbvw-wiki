@@ -1,5 +1,9 @@
 # #10162 Ponyta Galar (Fire Horse Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/ponyta-galar/official_artwork.png) | ![Shiny Artwork](../assets/sprites/ponyta-galar/official_artwork_shiny.png) |
+
 As a newborn, it can barely stand. However, through galloping, its legs are made tougher and faster.
 
 ---
@@ -8,7 +12,9 @@ As a newborn, it can barely stand. However, through galloping, its legs are made
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/ponyta-galar/front.png) | ![Back](../assets/sprites/ponyta-galar/back.png) | ![Front Shiny](../assets/sprites/ponyta-galar/front_shiny.png) | ![Back Shiny](../assets/sprites/ponyta-galar/back_shiny.png) |
 
 ### Cries
 

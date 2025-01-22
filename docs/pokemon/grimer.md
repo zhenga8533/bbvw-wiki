@@ -1,5 +1,9 @@
 # #088 Grimer (Sludge Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/grimer/official_artwork.png) | ![Shiny Artwork](../assets/sprites/grimer/official_artwork_shiny.png) |
+
 It was born when sludge in a dirty stream was exposed to the moon’s X-rays. It appears among filth.
 
 ---
@@ -8,7 +12,9 @@ It was born when sludge in a dirty stream was exposed to the moon’s X-rays. It
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/grimer/front.gif) | ![Back](../assets/sprites/grimer/back.gif) | ![Front Shiny](../assets/sprites/grimer/front_shiny.gif) | ![Back Shiny](../assets/sprites/grimer/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #008 Wartortle (Turtle Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/wartortle/official_artwork.png) | ![Shiny Artwork](../assets/sprites/wartortle/official_artwork_shiny.png) |
+
 It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.
 
 ---
@@ -8,7 +12,9 @@ It is said to live 10,000 years. Its furry tail is popular as a symbol of longev
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/wartortle/front.gif) | ![Back](../assets/sprites/wartortle/back.gif) | ![Front Shiny](../assets/sprites/wartortle/front_shiny.gif) | ![Back Shiny](../assets/sprites/wartortle/back_shiny.gif) |
 
 ### Cries
 

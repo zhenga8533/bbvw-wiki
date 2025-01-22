@@ -1,5 +1,9 @@
 # #356 Dusclops (Beckon Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/dusclops/official_artwork.png) | ![Shiny Artwork](../assets/sprites/dusclops/official_artwork_shiny.png) |
+
 It seeks drifting will-o’-the-wisps and sucks them into its empty body. What happens inside is a mystery.
 
 ---
@@ -8,7 +12,9 @@ It seeks drifting will-o’-the-wisps and sucks them into its empty body. What h
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/dusclops/front.gif) | ![Back](../assets/sprites/dusclops/back.gif) | ![Front Shiny](../assets/sprites/dusclops/front_shiny.gif) | ![Back Shiny](../assets/sprites/dusclops/back_shiny.gif) |
 
 ### Cries
 

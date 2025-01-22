@@ -1,5 +1,9 @@
 # #10087 Camerupt Mega (Eruption Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/camerupt-mega/official_artwork.png) | ![Shiny Artwork](../assets/sprites/camerupt-mega/official_artwork_shiny.png) |
+
 It has volcanoes on its back. If magma builds up in its body, it shudders, then erupts violently.
 
 ---
@@ -8,7 +12,9 @@ It has volcanoes on its back. If magma builds up in its body, it shudders, then 
 
 ### Sprites
 
-### Female Sprites
+| Front | Front Shiny |
+| --- | --- |
+| ![Front](../assets/sprites/camerupt-mega/front.png) | ![Front Shiny](../assets/sprites/camerupt-mega/front_shiny.png) |
 
 ### Cries
 

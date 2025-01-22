@@ -1,5 +1,9 @@
 # #177 Natu (Tiny Bird Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/natu/official_artwork.png) | ![Shiny Artwork](../assets/sprites/natu/official_artwork_shiny.png) |
+
 It picks food from cactus plants, deftly avoiding buds and spines. It seems to skip about to move.
 
 ---
@@ -8,7 +12,9 @@ It picks food from cactus plants, deftly avoiding buds and spines. It seems to s
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/natu/front.gif) | ![Back](../assets/sprites/natu/back.gif) | ![Front Shiny](../assets/sprites/natu/front_shiny.gif) | ![Back Shiny](../assets/sprites/natu/back_shiny.gif) |
 
 ### Cries
 

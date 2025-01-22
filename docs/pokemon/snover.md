@@ -1,5 +1,9 @@
 # #459 Snover (Frost Tree Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/snover/official_artwork.png) | ![Shiny Artwork](../assets/sprites/snover/official_artwork_shiny.png) |
+
 Seemingly curious about people, they gather around footsteps they find on snowy mountains.
 
 ---
@@ -8,7 +12,15 @@ Seemingly curious about people, they gather around footsteps they find on snowy 
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/snover/front.gif) | ![Back](../assets/sprites/snover/back.gif) | ![Front Shiny](../assets/sprites/snover/front_shiny.gif) | ![Back Shiny](../assets/sprites/snover/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/snover/front_female.gif) | ![Back](../assets/sprites/snover/back_female.gif) | ![Front Shiny](../assets/sprites/snover/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/snover/back_shiny_female.gif) |
 
 ### Cries
 

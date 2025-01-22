@@ -1,5 +1,9 @@
 # #353 Shuppet (Puppet Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/shuppet/official_artwork.png) | ![Shiny Artwork](../assets/sprites/shuppet/official_artwork_shiny.png) |
+
 It loves vengeful emotions and hangs in rows under the eaves of houses where vengeful people live.
 
 ---
@@ -8,7 +12,9 @@ It loves vengeful emotions and hangs in rows under the eaves of houses where ven
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/shuppet/front.gif) | ![Back](../assets/sprites/shuppet/back.gif) | ![Front Shiny](../assets/sprites/shuppet/front_shiny.gif) | ![Back Shiny](../assets/sprites/shuppet/back_shiny.gif) |
 
 ### Cries
 

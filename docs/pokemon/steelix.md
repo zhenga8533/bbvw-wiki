@@ -1,5 +1,9 @@
 # #208 Steelix (Iron Snake Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/steelix/official_artwork.png) | ![Shiny Artwork](../assets/sprites/steelix/official_artwork_shiny.png) |
+
 It is thought its body transformed as a result of iron accumulating internally from swallowing soil.
 
 ---
@@ -8,7 +12,15 @@ It is thought its body transformed as a result of iron accumulating internally f
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/steelix/front.gif) | ![Back](../assets/sprites/steelix/back.gif) | ![Front Shiny](../assets/sprites/steelix/front_shiny.gif) | ![Back Shiny](../assets/sprites/steelix/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/steelix/front_female.gif) | ![Back](../assets/sprites/steelix/back_female.gif) | ![Front Shiny](../assets/sprites/steelix/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/steelix/back_shiny_female.gif) |
 
 ### Cries
 

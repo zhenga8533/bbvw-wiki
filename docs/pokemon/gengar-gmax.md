@@ -1,5 +1,9 @@
 # #10202 Gengar Gmax (Shadow Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/gengar-gmax/official_artwork.png) | ![Shiny Artwork](../assets/sprites/gengar-gmax/official_artwork_shiny.png) |
+
 The leer that floats in darkness belongs to a Gengar delighting in casting curses on people.
 
 ---
@@ -8,7 +12,9 @@ The leer that floats in darkness belongs to a Gengar delighting in casting curse
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/gengar-gmax/front.png) | ![Back](../assets/sprites/gengar-gmax/back.png) | ![Front Shiny](../assets/sprites/gengar-gmax/front_shiny.png) | ![Back Shiny](../assets/sprites/gengar-gmax/back_shiny.png) |
 
 ### Cries
 

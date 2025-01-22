@@ -1,5 +1,9 @@
 # #411 Bastiodon (Shield Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/bastiodon/official_artwork.png) | ![Shiny Artwork](../assets/sprites/bastiodon/official_artwork_shiny.png) |
+
 When they lined up side by side, no foe could break through. They shielded their young in that way.
 
 ---
@@ -8,7 +12,9 @@ When they lined up side by side, no foe could break through. They shielded their
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/bastiodon/front.gif) | ![Back](../assets/sprites/bastiodon/back.gif) | ![Front Shiny](../assets/sprites/bastiodon/front_shiny.gif) | ![Back Shiny](../assets/sprites/bastiodon/back_shiny.gif) |
 
 ### Cries
 

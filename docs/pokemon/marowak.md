@@ -1,5 +1,9 @@
 # #105 Marowak (Bone Keeper Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/marowak/official_artwork.png) | ![Shiny Artwork](../assets/sprites/marowak/official_artwork_shiny.png) |
+
 From its birth, this savage Pokémon constantly holds bones. It is skilled in using them as weapons.
 
 ---
@@ -8,7 +12,9 @@ From its birth, this savage Pokémon constantly holds bones. It is skilled in us
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/marowak/front.gif) | ![Back](../assets/sprites/marowak/back.gif) | ![Front Shiny](../assets/sprites/marowak/front_shiny.gif) | ![Back Shiny](../assets/sprites/marowak/back_shiny.gif) |
 
 ### Cries
 

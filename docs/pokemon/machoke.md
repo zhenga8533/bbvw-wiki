@@ -1,5 +1,9 @@
 # #067 Machoke (Superpower Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/machoke/official_artwork.png) | ![Shiny Artwork](../assets/sprites/machoke/official_artwork_shiny.png) |
+
 It happily carries heavy cargo to toughen up. It willingly does hard work for people.
 
 ---
@@ -8,7 +12,9 @@ It happily carries heavy cargo to toughen up. It willingly does hard work for pe
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/machoke/front.gif) | ![Back](../assets/sprites/machoke/back.gif) | ![Front Shiny](../assets/sprites/machoke/front_shiny.gif) | ![Back Shiny](../assets/sprites/machoke/back_shiny.gif) |
 
 ### Cries
 

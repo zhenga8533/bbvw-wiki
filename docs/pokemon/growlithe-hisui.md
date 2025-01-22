@@ -1,5 +1,9 @@
 # #10229 Growlithe Hisui (Puppy Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/growlithe-hisui/official_artwork.png) | ![Shiny Artwork](../assets/sprites/growlithe-hisui/official_artwork_shiny.png) |
+
 A Pokémon with a loyal nature. It will remain motionless until it is given an order by its Trainer.
 
 ---
@@ -7,8 +11,6 @@ A Pokémon with a loyal nature. It will remain motionless until it is given an o
 ## Media
 
 ### Sprites
-
-### Female Sprites
 
 ### Cries
 

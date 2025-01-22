@@ -1,5 +1,9 @@
 # #215 Sneasel (Sharp Claw Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/sneasel/official_artwork.png) | ![Shiny Artwork](../assets/sprites/sneasel/official_artwork_shiny.png) |
+
 A smart and sneaky Pokémon. A pair may work together to steal eggs by having one lure the parents away.
 
 ---
@@ -8,7 +12,15 @@ A smart and sneaky Pokémon. A pair may work together to steal eggs by having on
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/sneasel/front.gif) | ![Back](../assets/sprites/sneasel/back.gif) | ![Front Shiny](../assets/sprites/sneasel/front_shiny.gif) | ![Back Shiny](../assets/sprites/sneasel/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/sneasel/front_female.gif) | ![Back](../assets/sprites/sneasel/back_female.gif) | ![Front Shiny](../assets/sprites/sneasel/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/sneasel/back_shiny_female.gif) |
 
 ### Cries
 

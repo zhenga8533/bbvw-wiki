@@ -1,5 +1,9 @@
 # #428 Lopunny (Rabbit Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/lopunny/official_artwork.png) | ![Shiny Artwork](../assets/sprites/lopunny/official_artwork_shiny.png) |
+
 The ears appear to be delicate. If they are touched roughly, it kicks with its graceful legs.
 
 ---
@@ -8,7 +12,9 @@ The ears appear to be delicate. If they are touched roughly, it kicks with its g
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/lopunny/front.gif) | ![Back](../assets/sprites/lopunny/back.gif) | ![Front Shiny](../assets/sprites/lopunny/front_shiny.gif) | ![Back Shiny](../assets/sprites/lopunny/back_shiny.gif) |
 
 ### Cries
 

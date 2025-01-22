@@ -1,5 +1,9 @@
 # #10164 Slowpoke Galar (Dopey Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/slowpoke-galar/official_artwork.png) | ![Shiny Artwork](../assets/sprites/slowpoke-galar/official_artwork_shiny.png) |
+
 Although slow, it is skilled at fishing with its tail. It does not feel pain if its tail is bitten.
 
 ---
@@ -8,7 +12,9 @@ Although slow, it is skilled at fishing with its tail. It does not feel pain if 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/slowpoke-galar/front.png) | ![Back](../assets/sprites/slowpoke-galar/back.png) | ![Front Shiny](../assets/sprites/slowpoke-galar/front_shiny.png) | ![Back Shiny](../assets/sprites/slowpoke-galar/back_shiny.png) |
 
 ### Cries
 

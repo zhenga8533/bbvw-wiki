@@ -1,5 +1,9 @@
 # #381 Latios (Eon Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/latios/official_artwork.png) | ![Shiny Artwork](../assets/sprites/latios/official_artwork_shiny.png) |
+
 A highly intelligent Pokémon. By folding back its wings in flight, it can overtake jet planes.
 
 ---
@@ -8,7 +12,9 @@ A highly intelligent Pokémon. By folding back its wings in flight, it can overt
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/latios/front.gif) | ![Back](../assets/sprites/latios/back.gif) | ![Front Shiny](../assets/sprites/latios/front_shiny.gif) | ![Back Shiny](../assets/sprites/latios/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #218 Slugma (Lava Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/slugma/official_artwork.png) | ![Shiny Artwork](../assets/sprites/slugma/official_artwork_shiny.png) |
+
 Its body is made of magma. If it doesn’t keep moving, its body will cool and harden.
 
 ---
@@ -8,7 +12,9 @@ Its body is made of magma. If it doesn’t keep moving, its body will cool and h
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/slugma/front.gif) | ![Back](../assets/sprites/slugma/back.gif) | ![Front Shiny](../assets/sprites/slugma/front_shiny.gif) | ![Back Shiny](../assets/sprites/slugma/back_shiny.gif) |
 
 ### Cries
 

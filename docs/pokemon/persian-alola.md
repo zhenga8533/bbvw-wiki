@@ -1,5 +1,9 @@
 # #10108 Persian Alola (Classy Cat Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/persian-alola/official_artwork.png) | ![Shiny Artwork](../assets/sprites/persian-alola/official_artwork_shiny.png) |
+
 A very haughty Pokémon. Among fans, the size of the jewel in its forehead is a topic of much talk.
 
 ---
@@ -8,7 +12,9 @@ A very haughty Pokémon. Among fans, the size of the jewel in its forehead is a 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/persian-alola/front.png) | ![Back](../assets/sprites/persian-alola/back.png) | ![Front Shiny](../assets/sprites/persian-alola/front_shiny.png) | ![Back Shiny](../assets/sprites/persian-alola/back_shiny.png) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #162 Furret (Long Body Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/furret/official_artwork.png) | ![Shiny Artwork](../assets/sprites/furret/official_artwork_shiny.png) |
+
 The mother puts its offspring to sleep by curling up around them. It corners foes with speed.
 
 ---
@@ -8,7 +12,9 @@ The mother puts its offspring to sleep by curling up around them. It corners foe
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/furret/front.gif) | ![Back](../assets/sprites/furret/back.gif) | ![Front Shiny](../assets/sprites/furret/front_shiny.gif) | ![Back Shiny](../assets/sprites/furret/back_shiny.gif) |
 
 ### Cries
 

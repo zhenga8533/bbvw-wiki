@@ -1,5 +1,9 @@
 # #187 Hoppip (Cottonweed Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/hoppip/official_artwork.png) | ![Shiny Artwork](../assets/sprites/hoppip/official_artwork_shiny.png) |
+
 It drifts on winds. It is said that when Hoppip gather in fields and mountains, spring is on the way.
 
 ---
@@ -8,7 +12,9 @@ It drifts on winds. It is said that when Hoppip gather in fields and mountains, 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/hoppip/front.gif) | ![Back](../assets/sprites/hoppip/back.gif) | ![Front Shiny](../assets/sprites/hoppip/front_shiny.gif) | ![Back Shiny](../assets/sprites/hoppip/back_shiny.gif) |
 
 ### Cries
 

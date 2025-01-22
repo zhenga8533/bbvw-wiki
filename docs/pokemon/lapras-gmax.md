@@ -1,5 +1,9 @@
 # #10204 Lapras Gmax (Transport Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/lapras-gmax/official_artwork.png) | ![Shiny Artwork](../assets/sprites/lapras-gmax/official_artwork_shiny.png) |
+
 It loves crossing the sea with people and Pokémon on its back. It understands human speech.
 
 ---
@@ -8,7 +12,9 @@ It loves crossing the sea with people and Pokémon on its back. It understands h
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/lapras-gmax/front.png) | ![Back](../assets/sprites/lapras-gmax/back.png) | ![Front Shiny](../assets/sprites/lapras-gmax/front_shiny.png) | ![Back Shiny](../assets/sprites/lapras-gmax/back_shiny.png) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #10048 Houndoom Mega (Dark Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/houndoom-mega/official_artwork.png) | ![Shiny Artwork](../assets/sprites/houndoom-mega/official_artwork_shiny.png) |
+
 The flames it breathes when angry contain toxins. If they cause a burn, it will hurt forever.
 
 ---
@@ -8,7 +12,9 @@ The flames it breathes when angry contain toxins. If they cause a burn, it will 
 
 ### Sprites
 
-### Female Sprites
+| Front | Front Shiny |
+| --- | --- |
+| ![Front](../assets/sprites/houndoom-mega/front.png) | ![Front Shiny](../assets/sprites/houndoom-mega/front_shiny.png) |
 
 ### Cries
 

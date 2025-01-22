@@ -1,5 +1,9 @@
 # #429 Mismagius (Magical Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/mismagius/official_artwork.png) | ![Shiny Artwork](../assets/sprites/mismagius/official_artwork_shiny.png) |
+
 Its cry sounds like an incantation. It is said the cry may rarely be imbued with happiness-giving power.
 
 ---
@@ -8,7 +12,9 @@ Its cry sounds like an incantation. It is said the cry may rarely be imbued with
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/mismagius/front.gif) | ![Back](../assets/sprites/mismagius/back.gif) | ![Front Shiny](../assets/sprites/mismagius/front_shiny.gif) | ![Back Shiny](../assets/sprites/mismagius/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #076 Golem (Megaton Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/golem/official_artwork.png) | ![Shiny Artwork](../assets/sprites/golem/official_artwork_shiny.png) |
+
 Even dynamite can’t harm its hard, boulderlike body. It sheds its hide just once a year.
 
 ---
@@ -8,7 +12,9 @@ Even dynamite can’t harm its hard, boulderlike body. It sheds its hide just on
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/golem/front.gif) | ![Back](../assets/sprites/golem/back.gif) | ![Front Shiny](../assets/sprites/golem/front_shiny.gif) | ![Back Shiny](../assets/sprites/golem/back_shiny.gif) |
 
 ### Cries
 

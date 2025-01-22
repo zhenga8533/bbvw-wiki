@@ -1,5 +1,9 @@
 # #239 Elekid (Electric Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/elekid/official_artwork.png) | ![Shiny Artwork](../assets/sprites/elekid/official_artwork_shiny.png) |
+
 A weak electric current flows between its horns. Sticking a hand there shocks the unwary.
 
 ---
@@ -8,7 +12,9 @@ A weak electric current flows between its horns. Sticking a hand there shocks th
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/elekid/front.gif) | ![Back](../assets/sprites/elekid/back.gif) | ![Front Shiny](../assets/sprites/elekid/front_shiny.gif) | ![Back Shiny](../assets/sprites/elekid/back_shiny.gif) |
 
 ### Cries
 

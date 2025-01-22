@@ -1,5 +1,9 @@
 # #576 Gothitelle (Astral Body Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/gothitelle/official_artwork.png) | ![Shiny Artwork](../assets/sprites/gothitelle/official_artwork_shiny.png) |
+
 **Blaze Black:** Starry skies thousands of light-years away are visible in the space distorted by their intense psychic power.
 
 **Volt White:** They can predict the future from the placement and movement of the stars. They can see Trainers’ life spans.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/gothitelle/front.gif) | ![Back](../assets/sprites/gothitelle/back.gif) | ![Front Shiny](../assets/sprites/gothitelle/front_shiny.gif) | ![Back Shiny](../assets/sprites/gothitelle/back_shiny.gif) |
 
 ### Cries
 

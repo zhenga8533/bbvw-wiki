@@ -1,5 +1,9 @@
 # #10237 Lilligant Hisui (Flowering Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/lilligant-hisui/official_artwork.png) | ![Shiny Artwork](../assets/sprites/lilligant-hisui/official_artwork_shiny.png) |
+
 **Blaze Black:** Even veteran Trainers face a challenge in getting its beautiful flower to bloom. This Pokémon is popular with celebrities.
 
 **Volt White:** The fragrance of the garland on its head has a relaxing effect. It withers if a Trainer does not take good care of it.
@@ -9,8 +13,6 @@
 ## Media
 
 ### Sprites
-
-### Female Sprites
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #450 Hippowdon (Heavyweight Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/hippowdon/official_artwork.png) | ![Shiny Artwork](../assets/sprites/hippowdon/official_artwork_shiny.png) |
+
 It is surprisingly quick to anger. It holds its mouth agape as a display of its strength.
 
 ---
@@ -8,7 +12,15 @@ It is surprisingly quick to anger. It holds its mouth agape as a display of its 
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/hippowdon/front.gif) | ![Back](../assets/sprites/hippowdon/back.gif) | ![Front Shiny](../assets/sprites/hippowdon/front_shiny.gif) | ![Back Shiny](../assets/sprites/hippowdon/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/hippowdon/front_female.gif) | ![Back](../assets/sprites/hippowdon/back_female.gif) | ![Front Shiny](../assets/sprites/hippowdon/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/hippowdon/back_shiny_female.gif) |
 
 ### Cries
 

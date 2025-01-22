@@ -1,5 +1,9 @@
 # #128 Tauros (Wild Bull Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/tauros/official_artwork.png) | ![Shiny Artwork](../assets/sprites/tauros/official_artwork_shiny.png) |
+
 Once it takes aim at its foe, it makes a headlong charge. It is famous for its violent nature.
 
 ---
@@ -8,7 +12,9 @@ Once it takes aim at its foe, it makes a headlong charge. It is famous for its v
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/tauros/front.gif) | ![Back](../assets/sprites/tauros/back.gif) | ![Front Shiny](../assets/sprites/tauros/front_shiny.gif) | ![Back Shiny](../assets/sprites/tauros/back_shiny.gif) |
 
 ### Cries
 

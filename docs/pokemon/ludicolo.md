@@ -1,5 +1,9 @@
 # #272 Ludicolo (Carefree Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/ludicolo/official_artwork.png) | ![Shiny Artwork](../assets/sprites/ludicolo/official_artwork_shiny.png) |
+
 If it hears festive music, all its muscles fill with energy. It can’t help breaking out into a dance.
 
 ---
@@ -8,7 +12,15 @@ If it hears festive music, all its muscles fill with energy. It can’t help bre
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/ludicolo/front.gif) | ![Back](../assets/sprites/ludicolo/back.gif) | ![Front Shiny](../assets/sprites/ludicolo/front_shiny.gif) | ![Back Shiny](../assets/sprites/ludicolo/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/ludicolo/front_female.gif) | ![Back](../assets/sprites/ludicolo/back_female.gif) | ![Front Shiny](../assets/sprites/ludicolo/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/ludicolo/back_shiny_female.gif) |
 
 ### Cries
 

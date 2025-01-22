@@ -1,5 +1,9 @@
 # #10073 Pidgeot Mega (Bird Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/pidgeot-mega/official_artwork.png) | ![Shiny Artwork](../assets/sprites/pidgeot-mega/official_artwork_shiny.png) |
+
 By flapping its wings with all its might, Pidgeot can make a gust of wind capable of bending tall trees.
 
 ---
@@ -8,7 +12,9 @@ By flapping its wings with all its might, Pidgeot can make a gust of wind capabl
 
 ### Sprites
 
-### Female Sprites
+| Front | Front Shiny |
+| --- | --- |
+| ![Front](../assets/sprites/pidgeot-mega/front.png) | ![Front Shiny](../assets/sprites/pidgeot-mega/front_shiny.png) |
 
 ### Cries
 

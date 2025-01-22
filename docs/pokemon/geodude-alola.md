@@ -1,5 +1,9 @@
 # #10109 Geodude Alola (Rock Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/geodude-alola/official_artwork.png) | ![Shiny Artwork](../assets/sprites/geodude-alola/official_artwork_shiny.png) |
+
 At rest, it looks just like a rock. Carelessly stepping on it will make it swing its fists angrily.
 
 ---
@@ -8,7 +12,9 @@ At rest, it looks just like a rock. Carelessly stepping on it will make it swing
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/geodude-alola/front.png) | ![Back](../assets/sprites/geodude-alola/back.png) | ![Front Shiny](../assets/sprites/geodude-alola/front_shiny.png) | ![Back Shiny](../assets/sprites/geodude-alola/back_shiny.png) |
 
 ### Cries
 

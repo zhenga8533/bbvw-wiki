@@ -1,5 +1,9 @@
 # #465 Tangrowth (Vine Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/tangrowth/official_artwork.png) | ![Shiny Artwork](../assets/sprites/tangrowth/official_artwork_shiny.png) |
+
 Its arms are made of plants that bind themselves to things. They grow back right away if cut.
 
 ---
@@ -8,7 +12,15 @@ Its arms are made of plants that bind themselves to things. They grow back right
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/tangrowth/front.gif) | ![Back](../assets/sprites/tangrowth/back.gif) | ![Front Shiny](../assets/sprites/tangrowth/front_shiny.gif) | ![Back Shiny](../assets/sprites/tangrowth/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/tangrowth/front_female.gif) | ![Back](../assets/sprites/tangrowth/back_female.gif) | ![Front Shiny](../assets/sprites/tangrowth/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/tangrowth/back_shiny_female.gif) |
 
 ### Cries
 

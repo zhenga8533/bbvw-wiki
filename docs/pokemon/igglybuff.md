@@ -1,5 +1,9 @@
 # #174 Igglybuff (Balloon Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/igglybuff/official_artwork.png) | ![Shiny Artwork](../assets/sprites/igglybuff/official_artwork_shiny.png) |
+
 It has a soft and bouncy body. Once it starts bouncing, it becomes impossible to stop.
 
 ---
@@ -8,7 +12,9 @@ It has a soft and bouncy body. Once it starts bouncing, it becomes impossible to
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/igglybuff/front.gif) | ![Back](../assets/sprites/igglybuff/back.gif) | ![Front Shiny](../assets/sprites/igglybuff/front_shiny.gif) | ![Back Shiny](../assets/sprites/igglybuff/back_shiny.gif) |
 
 ### Cries
 

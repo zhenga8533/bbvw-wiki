@@ -1,5 +1,9 @@
 # #345 Lileep (Sea Lily Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/lileep/official_artwork.png) | ![Shiny Artwork](../assets/sprites/lileep/official_artwork_shiny.png) |
+
 It lived on the seafloor 100 million years ago and was reanimated scientifically.
 
 ---
@@ -8,7 +12,9 @@ It lived on the seafloor 100 million years ago and was reanimated scientifically
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/lileep/front.gif) | ![Back](../assets/sprites/lileep/back.gif) | ![Front Shiny](../assets/sprites/lileep/front_shiny.gif) | ![Back Shiny](../assets/sprites/lileep/back_shiny.gif) |
 
 ### Cries
 

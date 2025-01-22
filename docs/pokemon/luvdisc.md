@@ -1,5 +1,9 @@
 # #370 Luvdisc (Rendezvous Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/luvdisc/official_artwork.png) | ![Shiny Artwork](../assets/sprites/luvdisc/official_artwork_shiny.png) |
+
 It lives in warm seas. It is said that a couple finding this Pokémon will be blessed with eternal love.
 
 ---
@@ -8,7 +12,9 @@ It lives in warm seas. It is said that a couple finding this Pokémon will be bl
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/luvdisc/front.gif) | ![Back](../assets/sprites/luvdisc/back.gif) | ![Front Shiny](../assets/sprites/luvdisc/front_shiny.gif) | ![Back Shiny](../assets/sprites/luvdisc/back_shiny.gif) |
 
 ### Cries
 

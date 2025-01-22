@@ -1,5 +1,9 @@
 # #10085 Pikachu Cosplay (Mouse Pokémon)
 
+| Official Artwork |
+| --- |
+| ![Official Artwork](../assets/sprites/pikachu-cosplay/official_artwork.png) |
+
 It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.
 
 ---
@@ -8,7 +12,9 @@ It occasionally uses an electric shock to recharge a fellow Pikachu that is in a
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/pikachu-cosplay/front.png) | ![Back](../assets/sprites/pikachu-cosplay/back.png) | ![Front Shiny](../assets/sprites/pikachu-cosplay/front_shiny.png) | ![Back Shiny](../assets/sprites/pikachu-cosplay/back_shiny.png) |
 
 ### Cries
 

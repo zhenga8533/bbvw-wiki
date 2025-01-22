@@ -1,5 +1,9 @@
 # #10090 Beedrill Mega (Poison Bee Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/beedrill-mega/official_artwork.png) | ![Shiny Artwork](../assets/sprites/beedrill-mega/official_artwork_shiny.png) |
+
 Its best attack involves flying around at high speed, striking with poison needles, then flying off.
 
 ---
@@ -8,7 +12,9 @@ Its best attack involves flying around at high speed, striking with poison needl
 
 ### Sprites
 
-### Female Sprites
+| Front | Front Shiny |
+| --- | --- |
+| ![Front](../assets/sprites/beedrill-mega/front.png) | ![Front Shiny](../assets/sprites/beedrill-mega/front_shiny.png) |
 
 ### Cries
 

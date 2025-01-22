@@ -1,5 +1,9 @@
 # #474 Porygon Z (Virtual Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/porygon-z/official_artwork.png) | ![Shiny Artwork](../assets/sprites/porygon-z/official_artwork_shiny.png) |
+
 Its programming was modified to enable work in alien dimensions. It did not work as planned.
 
 ---
@@ -8,7 +12,9 @@ Its programming was modified to enable work in alien dimensions. It did not work
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/porygon-z/front.gif) | ![Back](../assets/sprites/porygon-z/back.gif) | ![Front Shiny](../assets/sprites/porygon-z/front_shiny.gif) | ![Back Shiny](../assets/sprites/porygon-z/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #058 Growlithe (Puppy Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/growlithe/official_artwork.png) | ![Shiny Artwork](../assets/sprites/growlithe/official_artwork_shiny.png) |
+
 A Pokémon with a loyal nature. It will remain motionless until it is given an order by its Trainer.
 
 ---
@@ -8,7 +12,9 @@ A Pokémon with a loyal nature. It will remain motionless until it is given an o
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/growlithe/front.gif) | ![Back](../assets/sprites/growlithe/back.gif) | ![Front Shiny](../assets/sprites/growlithe/front_shiny.gif) | ![Back Shiny](../assets/sprites/growlithe/back_shiny.gif) |
 
 ### Cries
 

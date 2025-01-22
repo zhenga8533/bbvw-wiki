@@ -1,5 +1,9 @@
 # #10173 Corsola Galar (Coral Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/corsola-galar/official_artwork.png) | ![Shiny Artwork](../assets/sprites/corsola-galar/official_artwork_shiny.png) |
+
 Many live in the clean seas of the south. They apparently can’t live in polluted waters.
 
 ---
@@ -8,7 +12,9 @@ Many live in the clean seas of the south. They apparently can’t live in pollut
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/corsola-galar/front.png) | ![Back](../assets/sprites/corsola-galar/back.png) | ![Front Shiny](../assets/sprites/corsola-galar/front_shiny.png) | ![Back Shiny](../assets/sprites/corsola-galar/back_shiny.png) |
 
 ### Cries
 

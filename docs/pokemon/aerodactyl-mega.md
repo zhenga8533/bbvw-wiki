@@ -1,5 +1,9 @@
 # #10042 Aerodactyl Mega (Fossil Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/aerodactyl-mega/official_artwork.png) | ![Shiny Artwork](../assets/sprites/aerodactyl-mega/official_artwork_shiny.png) |
+
 A Pokémon that roamed the skies in the dinosaur era. Its teeth are like saw blades.
 
 ---
@@ -8,7 +12,9 @@ A Pokémon that roamed the skies in the dinosaur era. Its teeth are like saw bla
 
 ### Sprites
 
-### Female Sprites
+| Front | Front Shiny |
+| --- | --- |
+| ![Front](../assets/sprites/aerodactyl-mega/front.png) | ![Front Shiny](../assets/sprites/aerodactyl-mega/front_shiny.png) |
 
 ### Cries
 

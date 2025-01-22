@@ -1,5 +1,9 @@
 # #469 Yanmega (Ogre Darner Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/yanmega/official_artwork.png) | ![Shiny Artwork](../assets/sprites/yanmega/official_artwork_shiny.png) |
+
 Its jaw power is incredible. It is adept at biting apart foes while flying by at high speed.
 
 ---
@@ -8,7 +12,9 @@ Its jaw power is incredible. It is adept at biting apart foes while flying by at
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/yanmega/front.gif) | ![Back](../assets/sprites/yanmega/back.gif) | ![Front Shiny](../assets/sprites/yanmega/front_shiny.gif) | ![Back Shiny](../assets/sprites/yanmega/back_shiny.gif) |
 
 ### Cries
 

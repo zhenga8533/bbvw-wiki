@@ -1,5 +1,9 @@
 # #615 Cryogonal (Crystallizing Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/cryogonal/official_artwork.png) | ![Shiny Artwork](../assets/sprites/cryogonal/official_artwork_shiny.png) |
+
 **Blaze Black:** When its body temperature goes up, it turns into steam and vanishes. When its temperature lowers, it returns to ice.
 
 **Volt White:** They are born in snow clouds. They use chains made of ice crystals to capture prey.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/cryogonal/front.gif) | ![Back](../assets/sprites/cryogonal/back.gif) | ![Front Shiny](../assets/sprites/cryogonal/front_shiny.gif) | ![Back Shiny](../assets/sprites/cryogonal/back_shiny.gif) |
 
 ### Cries
 

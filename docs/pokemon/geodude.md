@@ -1,5 +1,9 @@
 # #074 Geodude (Rock Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/geodude/official_artwork.png) | ![Shiny Artwork](../assets/sprites/geodude/official_artwork_shiny.png) |
+
 At rest, it looks just like a rock. Carelessly stepping on it will make it swing its fists angrily.
 
 ---
@@ -8,7 +12,9 @@ At rest, it looks just like a rock. Carelessly stepping on it will make it swing
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/geodude/front.gif) | ![Back](../assets/sprites/geodude/back.gif) | ![Front Shiny](../assets/sprites/geodude/front_shiny.gif) | ![Back Shiny](../assets/sprites/geodude/back_shiny.gif) |
 
 ### Cries
 

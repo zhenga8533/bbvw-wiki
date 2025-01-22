@@ -1,5 +1,9 @@
 # #10230 Arcanine Hisui (Legendary Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/arcanine-hisui/official_artwork.png) | ![Shiny Artwork](../assets/sprites/arcanine-hisui/official_artwork_shiny.png) |
+
 Its proud and regal appearance has captured the hearts of people since long ago.
 
 ---
@@ -7,8 +11,6 @@ Its proud and regal appearance has captured the hearts of people since long ago.
 ## Media
 
 ### Sprites
-
-### Female Sprites
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #10179 Yamask Galar (Spirit Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/yamask-galar/official_artwork.png) | ![Shiny Artwork](../assets/sprites/yamask-galar/official_artwork_shiny.png) |
+
 **Blaze Black:** Each of them carries a mask that used to be its face when it was human. Sometimes they look at it and cry.
 
 **Volt White:** These Pokémon arose from the spirits of people interred in graves in past ages. Each retains memories of its former life.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/yamask-galar/front.png) | ![Back](../assets/sprites/yamask-galar/back.png) | ![Front Shiny](../assets/sprites/yamask-galar/front_shiny.png) | ![Back Shiny](../assets/sprites/yamask-galar/back_shiny.png) |
 
 ### Cries
 

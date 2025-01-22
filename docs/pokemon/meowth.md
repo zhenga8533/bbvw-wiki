@@ -1,5 +1,9 @@
 # #052 Meowth (Scratch Cat Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/meowth/official_artwork.png) | ![Shiny Artwork](../assets/sprites/meowth/official_artwork_shiny.png) |
+
 It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly.
 
 ---
@@ -8,7 +12,9 @@ It is nocturnal in nature. If it spots something shiny, its eyes glitter brightl
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/meowth/front.gif) | ![Back](../assets/sprites/meowth/back.gif) | ![Front Shiny](../assets/sprites/meowth/front_shiny.gif) | ![Back Shiny](../assets/sprites/meowth/back_shiny.gif) |
 
 ### Cries
 

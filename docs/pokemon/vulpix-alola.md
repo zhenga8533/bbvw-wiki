@@ -1,5 +1,9 @@
 # #10103 Vulpix Alola (Fox Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/vulpix-alola/official_artwork.png) | ![Shiny Artwork](../assets/sprites/vulpix-alola/official_artwork_shiny.png) |
+
 It controls balls of fire. As it grows, its six tails split from their tips to make more tails.
 
 ---
@@ -8,7 +12,9 @@ It controls balls of fire. As it grows, its six tails split from their tips to m
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/vulpix-alola/front.png) | ![Back](../assets/sprites/vulpix-alola/back.png) | ![Front Shiny](../assets/sprites/vulpix-alola/front_shiny.png) | ![Back Shiny](../assets/sprites/vulpix-alola/back_shiny.png) |
 
 ### Cries
 

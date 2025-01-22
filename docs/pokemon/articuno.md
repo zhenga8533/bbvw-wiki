@@ -1,5 +1,9 @@
 # #144 Articuno (Freeze Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/articuno/official_artwork.png) | ![Shiny Artwork](../assets/sprites/articuno/official_artwork_shiny.png) |
+
 A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.
 
 ---
@@ -8,7 +12,9 @@ A legendary bird Pokémon. It can create blizzards by freezing moisture in the a
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/articuno/front.gif) | ![Back](../assets/sprites/articuno/back.gif) | ![Front Shiny](../assets/sprites/articuno/front_shiny.gif) | ![Back Shiny](../assets/sprites/articuno/back_shiny.gif) |
 
 ### Cries
 

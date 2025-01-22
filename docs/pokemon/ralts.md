@@ -1,5 +1,9 @@
 # #280 Ralts (Feeling Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/ralts/official_artwork.png) | ![Shiny Artwork](../assets/sprites/ralts/official_artwork_shiny.png) |
+
 If its horns capture the warm feelings of people or Pokémon, its body warms up slightly.
 
 ---
@@ -8,7 +12,9 @@ If its horns capture the warm feelings of people or Pokémon, its body warms up 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/ralts/front.gif) | ![Back](../assets/sprites/ralts/back.gif) | ![Front Shiny](../assets/sprites/ralts/front_shiny.gif) | ![Back Shiny](../assets/sprites/ralts/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #440 Happiny (Playhouse Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/happiny/official_artwork.png) | ![Shiny Artwork](../assets/sprites/happiny/official_artwork_shiny.png) |
+
 It likes to carry around a small rock. It may wander around others’ feet and cause them to stumble.
 
 ---
@@ -8,7 +12,9 @@ It likes to carry around a small rock. It may wander around others’ feet and c
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/happiny/front.gif) | ![Back](../assets/sprites/happiny/back.gif) | ![Front Shiny](../assets/sprites/happiny/front_shiny.gif) | ![Back Shiny](../assets/sprites/happiny/back_shiny.gif) |
 
 ### Cries
 

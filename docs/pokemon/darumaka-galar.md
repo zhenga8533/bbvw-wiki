@@ -1,5 +1,9 @@
 # #10176 Darumaka Galar (Zen Charm Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/darumaka-galar/official_artwork.png) | ![Shiny Artwork](../assets/sprites/darumaka-galar/official_artwork_shiny.png) |
+
 **Blaze Black:** When its internal fire is burning, it cannot calm down and it runs around. When the fire diminishes, it falls asleep.
 
 **Volt White:** Darumaka’s droppings are hot, so people used to put them in their clothes to keep themselves warm.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/darumaka-galar/front.png) | ![Back](../assets/sprites/darumaka-galar/back.png) | ![Front Shiny](../assets/sprites/darumaka-galar/front_shiny.png) | ![Back Shiny](../assets/sprites/darumaka-galar/back_shiny.png) |
 
 ### Cries
 

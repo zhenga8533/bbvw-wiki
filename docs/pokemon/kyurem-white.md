@@ -1,5 +1,9 @@
 # #10023 Kyurem White (Boundary Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/kyurem-white/official_artwork.png) | ![Shiny Artwork](../assets/sprites/kyurem-white/official_artwork_shiny.png) |
+
 **Blaze Black:** It generates a powerful, freezing energy inside itself, but its body became frozen when the energy leaked out.
 
 **Volt White:** It can produce ultracold air. Its body is frozen.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/kyurem-white/front.gif) | ![Back](../assets/sprites/kyurem-white/back.gif) | ![Front Shiny](../assets/sprites/kyurem-white/front_shiny.gif) | ![Back Shiny](../assets/sprites/kyurem-white/back_shiny.gif) |
 
 ### Cries
 

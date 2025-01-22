@@ -1,5 +1,9 @@
 # #545 Scolipede (Megapede Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/scolipede/official_artwork.png) | ![Shiny Artwork](../assets/sprites/scolipede/official_artwork_shiny.png) |
+
 **Blaze Black:** With quick movements, it chases down its foes, attacking relentlessly with its horns until it prevails.
 
 **Volt White:** Highly aggressive, it uses the claws near its neck to dig into its opponents and poison them.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/scolipede/front.gif) | ![Back](../assets/sprites/scolipede/back.gif) | ![Front Shiny](../assets/sprites/scolipede/front_shiny.gif) | ![Back Shiny](../assets/sprites/scolipede/back_shiny.gif) |
 
 ### Cries
 

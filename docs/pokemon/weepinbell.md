@@ -1,5 +1,9 @@
 # #070 Weepinbell (Flycatcher Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/weepinbell/official_artwork.png) | ![Shiny Artwork](../assets/sprites/weepinbell/official_artwork_shiny.png) |
+
 A Pokémon that appears to be a plant. It captures unwary prey by dousing them with a toxic powder.
 
 ---
@@ -8,7 +12,9 @@ A Pokémon that appears to be a plant. It captures unwary prey by dousing them w
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/weepinbell/front.gif) | ![Back](../assets/sprites/weepinbell/back.gif) | ![Front Shiny](../assets/sprites/weepinbell/front_shiny.gif) | ![Back Shiny](../assets/sprites/weepinbell/back_shiny.gif) |
 
 ### Cries
 

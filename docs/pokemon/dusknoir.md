@@ -1,5 +1,9 @@
 # #477 Dusknoir (Gripper Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/dusknoir/official_artwork.png) | ![Shiny Artwork](../assets/sprites/dusknoir/official_artwork_shiny.png) |
+
 It is said to take lost spirits into its pliant body and guide them home.
 
 ---
@@ -8,7 +12,9 @@ It is said to take lost spirits into its pliant body and guide them home.
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/dusknoir/front.gif) | ![Back](../assets/sprites/dusknoir/back.gif) | ![Front Shiny](../assets/sprites/dusknoir/front_shiny.gif) | ![Back Shiny](../assets/sprites/dusknoir/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #423 Gastrodon (Sea Slug Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/gastrodon/official_artwork.png) | ![Shiny Artwork](../assets/sprites/gastrodon/official_artwork_shiny.png) |
+
 Long ago, its entire back was shielded with a sturdy shell. There are traces of it left in its cells.
 
 ---
@@ -8,7 +12,9 @@ Long ago, its entire back was shielded with a sturdy shell. There are traces of 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/gastrodon/front.gif) | ![Back](../assets/sprites/gastrodon/back.gif) | ![Front Shiny](../assets/sprites/gastrodon/front_shiny.gif) | ![Back Shiny](../assets/sprites/gastrodon/back_shiny.gif) |
 
 ### Cries
 

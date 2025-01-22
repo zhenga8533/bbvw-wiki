@@ -1,5 +1,9 @@
 # #602 Tynamo (EleFish Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/tynamo/official_artwork.png) | ![Shiny Artwork](../assets/sprites/tynamo/official_artwork_shiny.png) |
+
 **Blaze Black:** While one alone doesn’t have much power, a chain of many Tynamo can be as powerful as lightning.
 
 **Volt White:** These Pokémon move in schools. They have an electricity-generating organ, so they discharge electricity if in danger.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/tynamo/front.gif) | ![Back](../assets/sprites/tynamo/back.gif) | ![Front Shiny](../assets/sprites/tynamo/front_shiny.gif) | ![Back Shiny](../assets/sprites/tynamo/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #598 Ferrothorn (Thorn Pod Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/ferrothorn/official_artwork.png) | ![Shiny Artwork](../assets/sprites/ferrothorn/official_artwork_shiny.png) |
+
 **Blaze Black:** It fights by swinging around its three spiky feelers. A hit from these steel spikes can reduce a boulder to rubble.
 
 **Volt White:** They attach themselves to cave ceilings, firing steel spikes at targets passing beneath them.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/ferrothorn/front.gif) | ![Back](../assets/sprites/ferrothorn/back.gif) | ![Front Shiny](../assets/sprites/ferrothorn/front_shiny.gif) | ![Back Shiny](../assets/sprites/ferrothorn/back_shiny.gif) |
 
 ### Cries
 

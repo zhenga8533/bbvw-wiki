@@ -1,5 +1,9 @@
 # #210 Granbull (Fairy Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/granbull/official_artwork.png) | ![Shiny Artwork](../assets/sprites/granbull/official_artwork_shiny.png) |
+
 It is timid in spite of its looks. If it becomes enraged, however, it will strike with its huge fangs.
 
 ---
@@ -8,7 +12,9 @@ It is timid in spite of its looks. If it becomes enraged, however, it will strik
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/granbull/front.gif) | ![Back](../assets/sprites/granbull/back.gif) | ![Front Shiny](../assets/sprites/granbull/front_shiny.gif) | ![Back Shiny](../assets/sprites/granbull/back_shiny.gif) |
 
 ### Cries
 

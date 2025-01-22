@@ -1,5 +1,9 @@
 # #444 Gabite (Cave Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/gabite/official_artwork.png) | ![Shiny Artwork](../assets/sprites/gabite/official_artwork_shiny.png) |
+
 It loves sparkly things. It seeks treasures in caves and hoards the loot in its nest.
 
 ---
@@ -8,7 +12,15 @@ It loves sparkly things. It seeks treasures in caves and hoards the loot in its 
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/gabite/front.gif) | ![Back](../assets/sprites/gabite/back.gif) | ![Front Shiny](../assets/sprites/gabite/front_shiny.gif) | ![Back Shiny](../assets/sprites/gabite/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/gabite/front_female.gif) | ![Back](../assets/sprites/gabite/back_female.gif) | ![Front Shiny](../assets/sprites/gabite/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/gabite/back_shiny_female.gif) |
 
 ### Cries
 

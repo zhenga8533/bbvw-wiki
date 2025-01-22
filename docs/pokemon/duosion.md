@@ -1,5 +1,9 @@
 # #578 Duosion (Mitosis Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/duosion/official_artwork.png) | ![Shiny Artwork](../assets/sprites/duosion/official_artwork_shiny.png) |
+
 **Blaze Black:** Since they have two divided brains, at times they suddenly try to take two different actions at once.
 
 **Volt White:** When their brains, now divided in two, are thinking the same thoughts, these Pokémon exhibit their maximum power.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/duosion/front.gif) | ![Back](../assets/sprites/duosion/back.gif) | ![Front Shiny](../assets/sprites/duosion/front_shiny.gif) | ![Back Shiny](../assets/sprites/duosion/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #10234 Qwilfish Hisui (Balloon Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/qwilfish-hisui/official_artwork.png) | ![Shiny Artwork](../assets/sprites/qwilfish-hisui/official_artwork_shiny.png) |
+
 It shoots the poison spines on its body in all directions. Its round form makes it a poor swimmer.
 
 ---
@@ -7,8 +11,6 @@ It shoots the poison spines on its body in all directions. Its round form makes 
 ## Media
 
 ### Sprites
-
-### Female Sprites
 
 ### Cries
 

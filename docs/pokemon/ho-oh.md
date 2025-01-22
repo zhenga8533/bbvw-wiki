@@ -1,5 +1,9 @@
 # #250 Ho Oh (Rainbow Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/ho-oh/official_artwork.png) | ![Shiny Artwork](../assets/sprites/ho-oh/official_artwork_shiny.png) |
+
 Its feathers are in seven colors. It is said that anyone seeing it is promised eternal happiness.
 
 ---
@@ -8,7 +12,9 @@ Its feathers are in seven colors. It is said that anyone seeing it is promised e
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/ho-oh/front.gif) | ![Back](../assets/sprites/ho-oh/back.gif) | ![Front Shiny](../assets/sprites/ho-oh/front_shiny.gif) | ![Back Shiny](../assets/sprites/ho-oh/back_shiny.gif) |
 
 ### Cries
 

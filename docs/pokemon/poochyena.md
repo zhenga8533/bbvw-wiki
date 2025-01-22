@@ -1,5 +1,9 @@
 # #261 Poochyena (Bite Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/poochyena/official_artwork.png) | ![Shiny Artwork](../assets/sprites/poochyena/official_artwork_shiny.png) |
+
 A Pokémon with a persistent nature, it chases its chosen prey until the prey becomes exhausted.
 
 ---
@@ -8,7 +12,9 @@ A Pokémon with a persistent nature, it chases its chosen prey until the prey be
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/poochyena/front.gif) | ![Back](../assets/sprites/poochyena/back.gif) | ![Front Shiny](../assets/sprites/poochyena/front_shiny.gif) | ![Back Shiny](../assets/sprites/poochyena/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #10041 Gyarados Mega (Atrocious Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/gyarados-mega/official_artwork.png) | ![Shiny Artwork](../assets/sprites/gyarados-mega/official_artwork_shiny.png) |
+
 Once it begins to rampage, a Gyarados will burn everything down, even in a harsh storm.
 
 ---
@@ -8,7 +12,9 @@ Once it begins to rampage, a Gyarados will burn everything down, even in a harsh
 
 ### Sprites
 
-### Female Sprites
+| Front | Front Shiny |
+| --- | --- |
+| ![Front](../assets/sprites/gyarados-mega/front.png) | ![Front Shiny](../assets/sprites/gyarados-mega/front_shiny.png) |
 
 ### Cries
 

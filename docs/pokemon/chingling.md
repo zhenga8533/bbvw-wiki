@@ -1,5 +1,9 @@
 # #433 Chingling (Bell Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/chingling/official_artwork.png) | ![Shiny Artwork](../assets/sprites/chingling/official_artwork_shiny.png) |
+
 There is an orb inside its mouth. When it hops, the orb bounces all over and makes a ringing sound.
 
 ---
@@ -8,7 +12,9 @@ There is an orb inside its mouth. When it hops, the orb bounces all over and mak
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/chingling/front.gif) | ![Back](../assets/sprites/chingling/back.gif) | ![Front Shiny](../assets/sprites/chingling/front_shiny.gif) | ![Back Shiny](../assets/sprites/chingling/back_shiny.gif) |
 
 ### Cries
 

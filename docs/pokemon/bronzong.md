@@ -1,5 +1,9 @@
 # #437 Bronzong (Bronze Bell Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/bronzong/official_artwork.png) | ![Shiny Artwork](../assets/sprites/bronzong/official_artwork_shiny.png) |
+
 It brought rains by opening portals to another world. It was revered as a bringer of plentiful harvests.
 
 ---
@@ -8,7 +12,9 @@ It brought rains by opening portals to another world. It was revered as a bringe
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/bronzong/front.gif) | ![Back](../assets/sprites/bronzong/back.gif) | ![Front Shiny](../assets/sprites/bronzong/front_shiny.gif) | ![Back Shiny](../assets/sprites/bronzong/back_shiny.gif) |
 
 ### Cries
 

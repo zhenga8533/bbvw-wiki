@@ -1,5 +1,9 @@
 # #533 Gurdurr (Muscular Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/gurdurr/official_artwork.png) | ![Shiny Artwork](../assets/sprites/gurdurr/official_artwork_shiny.png) |
+
 **Blaze Black:** This Pokémon is so muscular and strongly built that even a group of wrestlers could not make it budge an inch.
 
 **Volt White:** They strengthen their bodies by carrying steel beams. They show off their big muscles to their friends.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/gurdurr/front.gif) | ![Back](../assets/sprites/gurdurr/back.gif) | ![Front Shiny](../assets/sprites/gurdurr/front_shiny.gif) | ![Back Shiny](../assets/sprites/gurdurr/back_shiny.gif) |
 
 ### Cries
 

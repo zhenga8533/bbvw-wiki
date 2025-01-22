@@ -1,5 +1,9 @@
 # #015 Beedrill (Poison Bee Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/beedrill/official_artwork.png) | ![Shiny Artwork](../assets/sprites/beedrill/official_artwork_shiny.png) |
+
 Its best attack involves flying around at high speed, striking with poison needles, then flying off.
 
 ---
@@ -8,7 +12,9 @@ Its best attack involves flying around at high speed, striking with poison needl
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/beedrill/front.gif) | ![Back](../assets/sprites/beedrill/back.gif) | ![Front Shiny](../assets/sprites/beedrill/front_shiny.gif) | ![Back Shiny](../assets/sprites/beedrill/back_shiny.gif) |
 
 ### Cries
 

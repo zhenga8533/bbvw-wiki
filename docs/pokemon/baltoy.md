@@ -1,5 +1,9 @@
 # #343 Baltoy (Clay Doll Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/baltoy/official_artwork.png) | ![Shiny Artwork](../assets/sprites/baltoy/official_artwork_shiny.png) |
+
 It moves by spinning on its foot. It is a rare Pokémon that was discovered in ancient ruins.
 
 ---
@@ -8,7 +12,9 @@ It moves by spinning on its foot. It is a rare Pokémon that was discovered in a
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/baltoy/front.gif) | ![Back](../assets/sprites/baltoy/back.gif) | ![Front Shiny](../assets/sprites/baltoy/front_shiny.gif) | ![Back Shiny](../assets/sprites/baltoy/back_shiny.gif) |
 
 ### Cries
 

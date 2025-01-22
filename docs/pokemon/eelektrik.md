@@ -1,5 +1,9 @@
 # #603 Eelektrik (EleFish Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/eelektrik/official_artwork.png) | ![Shiny Artwork](../assets/sprites/eelektrik/official_artwork_shiny.png) |
+
 **Blaze Black:** They coil around foes and shock them with electricity-generating organs that seem simply to be circular patterns.
 
 **Volt White:** These Pokémon have a big appetite. When they spot their prey, they attack it and paralyze it with electricity.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/eelektrik/front.gif) | ![Back](../assets/sprites/eelektrik/back.gif) | ![Front Shiny](../assets/sprites/eelektrik/front_shiny.gif) | ![Back Shiny](../assets/sprites/eelektrik/back_shiny.gif) |
 
 ### Cries
 

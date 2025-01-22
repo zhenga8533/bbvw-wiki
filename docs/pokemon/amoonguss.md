@@ -1,5 +1,9 @@
 # #591 Amoonguss (Mushroom Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/amoonguss/official_artwork.png) | ![Shiny Artwork](../assets/sprites/amoonguss/official_artwork_shiny.png) |
+
 **Blaze Black:** It lures prey close by dancing and waving its arm caps, which resemble Poké Balls, in a swaying motion.
 
 **Volt White:** They show off their Poké Ball caps to lure prey, but very few Pokémon are fooled by this.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/amoonguss/front.gif) | ![Back](../assets/sprites/amoonguss/back.gif) | ![Front Shiny](../assets/sprites/amoonguss/front_shiny.gif) | ![Back Shiny](../assets/sprites/amoonguss/back_shiny.gif) |
 
 ### Cries
 

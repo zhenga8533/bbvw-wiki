@@ -1,5 +1,9 @@
 # #556 Maractus (Cactus Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/maractus/official_artwork.png) | ![Shiny Artwork](../assets/sprites/maractus/official_artwork_shiny.png) |
+
 **Blaze Black:** It uses an up-tempo song and dance to drive away the bird Pokémon that prey on its flower seeds.
 
 **Volt White:** Arid regions are their habitat. They move rhythmically, making a sound similar to maracas.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/maractus/front.gif) | ![Back](../assets/sprites/maractus/back.gif) | ![Front Shiny](../assets/sprites/maractus/front_shiny.gif) | ![Back Shiny](../assets/sprites/maractus/back_shiny.gif) |
 
 ### Cries
 

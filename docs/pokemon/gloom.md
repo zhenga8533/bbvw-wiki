@@ -1,5 +1,9 @@
 # #044 Gloom (Weed Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/gloom/official_artwork.png) | ![Shiny Artwork](../assets/sprites/gloom/official_artwork_shiny.png) |
+
 The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away.
 
 ---
@@ -8,7 +12,15 @@ The honey it drools from its mouth smells so atrocious, it can curl noses more t
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/gloom/front.gif) | ![Back](../assets/sprites/gloom/back.gif) | ![Front Shiny](../assets/sprites/gloom/front_shiny.gif) | ![Back Shiny](../assets/sprites/gloom/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/gloom/front_female.gif) | ![Back](../assets/sprites/gloom/back_female.gif) | ![Front Shiny](../assets/sprites/gloom/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/gloom/back_shiny_female.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #083 Farfetchd (Wild Duck Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/farfetchd/official_artwork.png) | ![Shiny Artwork](../assets/sprites/farfetchd/official_artwork_shiny.png) |
+
 It can’t live without the stalk it holds. That’s why it defends the stalk from attackers with its life.
 
 ---
@@ -8,7 +12,9 @@ It can’t live without the stalk it holds. That’s why it defends the stalk fr
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/farfetchd/front.gif) | ![Back](../assets/sprites/farfetchd/back.gif) | ![Front Shiny](../assets/sprites/farfetchd/front_shiny.gif) | ![Back Shiny](../assets/sprites/farfetchd/back_shiny.gif) |
 
 ### Cries
 

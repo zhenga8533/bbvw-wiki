@@ -1,5 +1,9 @@
 # #049 Venomoth (Poison Moth Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/venomoth/official_artwork.png) | ![Shiny Artwork](../assets/sprites/venomoth/official_artwork_shiny.png) |
+
 It flutters its wings to scatter dustlike scales. The scales leach toxins if they contact skin.
 
 ---
@@ -8,7 +12,9 @@ It flutters its wings to scatter dustlike scales. The scales leach toxins if the
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/venomoth/front.gif) | ![Back](../assets/sprites/venomoth/back.gif) | ![Front Shiny](../assets/sprites/venomoth/front_shiny.gif) | ![Back Shiny](../assets/sprites/venomoth/back_shiny.gif) |
 
 ### Cries
 

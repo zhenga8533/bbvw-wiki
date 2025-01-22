@@ -1,5 +1,9 @@
 # #10059 Lucario Mega (Aura Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/lucario-mega/official_artwork.png) | ![Shiny Artwork](../assets/sprites/lucario-mega/official_artwork_shiny.png) |
+
 A well-trained one can sense auras to identify and take in the feelings of creatures over half a mile away.
 
 ---
@@ -8,7 +12,9 @@ A well-trained one can sense auras to identify and take in the feelings of creat
 
 ### Sprites
 
-### Female Sprites
+| Front | Front Shiny |
+| --- | --- |
+| ![Front](../assets/sprites/lucario-mega/front.png) | ![Front Shiny](../assets/sprites/lucario-mega/front_shiny.png) |
 
 ### Cries
 

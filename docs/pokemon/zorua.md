@@ -1,5 +1,9 @@
 # #570 Zorua (Tricky Fox Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/zorua/official_artwork.png) | ![Shiny Artwork](../assets/sprites/zorua/official_artwork_shiny.png) |
+
 **Blaze Black:** It changes into the forms of others to surprise them. Apparently, it often transforms into a silent child.
 
 **Volt White:** To protect themselves from danger, they hide their true identities by transforming into people and Pokémon.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/zorua/front.gif) | ![Back](../assets/sprites/zorua/back.gif) | ![Front Shiny](../assets/sprites/zorua/front_shiny.gif) | ![Back Shiny](../assets/sprites/zorua/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #536 Palpitoad (Vibration Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/palpitoad/official_artwork.png) | ![Shiny Artwork](../assets/sprites/palpitoad/official_artwork_shiny.png) |
+
 **Blaze Black:** When they vibrate the bumps on their heads, they can make waves in water or earthquake-like vibrations on land.
 
 **Volt White:** It lives in the water and on land. It uses its long, sticky tongue to capture prey.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/palpitoad/front.gif) | ![Back](../assets/sprites/palpitoad/back.gif) | ![Front Shiny](../assets/sprites/palpitoad/front_shiny.gif) | ![Back Shiny](../assets/sprites/palpitoad/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #364 Sealeo (Ball Roll Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/sealeo/official_artwork.png) | ![Shiny Artwork](../assets/sprites/sealeo/official_artwork_shiny.png) |
+
 It habitually spins things on its nose. By doing so, it learns textures and odors.
 
 ---
@@ -8,7 +12,9 @@ It habitually spins things on its nose. By doing so, it learns textures and odor
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/sealeo/front.gif) | ![Back](../assets/sprites/sealeo/back.gif) | ![Front Shiny](../assets/sprites/sealeo/front_shiny.gif) | ![Back Shiny](../assets/sprites/sealeo/back_shiny.gif) |
 
 ### Cries
 

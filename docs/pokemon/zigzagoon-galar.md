@@ -1,5 +1,9 @@
 # #10174 Zigzagoon Galar (Tiny Raccoon Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/zigzagoon-galar/official_artwork.png) | ![Shiny Artwork](../assets/sprites/zigzagoon-galar/official_artwork_shiny.png) |
+
 It walks in zigzag fashion. It is good at finding items in the grass and even in the ground.
 
 ---
@@ -8,7 +12,9 @@ It walks in zigzag fashion. It is good at finding items in the grass and even in
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/zigzagoon-galar/front.png) | ![Back](../assets/sprites/zigzagoon-galar/back.png) | ![Front Shiny](../assets/sprites/zigzagoon-galar/front_shiny.png) | ![Back Shiny](../assets/sprites/zigzagoon-galar/back_shiny.png) |
 
 ### Cries
 

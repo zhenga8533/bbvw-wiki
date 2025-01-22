@@ -1,5 +1,9 @@
 # #10149 Marowak Totem (Bone Keeper Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/marowak-totem/official_artwork.png) | ![Shiny Artwork](../assets/sprites/marowak-totem/official_artwork_shiny.png) |
+
 From its birth, this savage Pokémon constantly holds bones. It is skilled in using them as weapons.
 
 ---
@@ -8,7 +12,9 @@ From its birth, this savage Pokémon constantly holds bones. It is skilled in us
 
 ### Sprites
 
-### Female Sprites
+| Front | Front Shiny |
+| --- | --- |
+| ![Front](../assets/sprites/marowak-totem/front.png) | ![Front Shiny](../assets/sprites/marowak-totem/front_shiny.png) |
 
 ### Cries
 

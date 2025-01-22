@@ -1,5 +1,9 @@
 # #538 Throh (Judo Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/throh/official_artwork.png) | ![Shiny Artwork](../assets/sprites/throh/official_artwork_shiny.png) |
+
 **Blaze Black:** When it tightens its belt, it becomes stronger. Wild Throh use vines to weave their own belts.
 
 **Volt White:** When they encounter foes bigger than themselves, they try to throw them. They always travel in packs of five.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/throh/front.gif) | ![Back](../assets/sprites/throh/back.gif) | ![Front Shiny](../assets/sprites/throh/front_shiny.gif) | ![Back Shiny](../assets/sprites/throh/back_shiny.gif) |
 
 ### Cries
 

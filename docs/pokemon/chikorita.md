@@ -1,5 +1,9 @@
 # #152 Chikorita (Leaf Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/chikorita/official_artwork.png) | ![Shiny Artwork](../assets/sprites/chikorita/official_artwork_shiny.png) |
+
 It uses the leaf on its head to determine the temperature and humidity. It loves to sunbathe.
 
 ---
@@ -8,7 +12,9 @@ It uses the leaf on its head to determine the temperature and humidity. It loves
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/chikorita/front.gif) | ![Back](../assets/sprites/chikorita/back.gif) | ![Front Shiny](../assets/sprites/chikorita/front_shiny.gif) | ![Back Shiny](../assets/sprites/chikorita/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #10065 Sceptile Mega (Forest Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/sceptile-mega/official_artwork.png) | ![Shiny Artwork](../assets/sprites/sceptile-mega/official_artwork_shiny.png) |
+
 The leaves that grow on its arms can slice down thick trees. It is without peer in jungle combat.
 
 ---
@@ -8,7 +12,9 @@ The leaves that grow on its arms can slice down thick trees. It is without peer 
 
 ### Sprites
 
-### Female Sprites
+| Front | Front Shiny |
+| --- | --- |
+| ![Front](../assets/sprites/sceptile-mega/front.png) | ![Front Shiny](../assets/sprites/sceptile-mega/front_shiny.png) |
 
 ### Cries
 

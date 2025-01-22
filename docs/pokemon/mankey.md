@@ -1,5 +1,9 @@
 # #056 Mankey (Pig Monkey Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/mankey/official_artwork.png) | ![Shiny Artwork](../assets/sprites/mankey/official_artwork_shiny.png) |
+
 It lives in treetop colonies. If one becomes enraged, the whole colony rampages for no reason.
 
 ---
@@ -8,7 +12,9 @@ It lives in treetop colonies. If one becomes enraged, the whole colony rampages 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/mankey/front.gif) | ![Back](../assets/sprites/mankey/back.gif) | ![Front Shiny](../assets/sprites/mankey/front_shiny.gif) | ![Back Shiny](../assets/sprites/mankey/back_shiny.gif) |
 
 ### Cries
 

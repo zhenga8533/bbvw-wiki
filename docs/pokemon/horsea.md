@@ -1,5 +1,9 @@
 # #116 Horsea (Dragon Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/horsea/official_artwork.png) | ![Shiny Artwork](../assets/sprites/horsea/official_artwork_shiny.png) |
+
 It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.
 
 ---
@@ -8,7 +12,9 @@ It makes its nest in the shade of corals. If it senses danger, it spits murky in
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/horsea/front.gif) | ![Back](../assets/sprites/horsea/back.gif) | ![Front Shiny](../assets/sprites/horsea/front_shiny.gif) | ![Back Shiny](../assets/sprites/horsea/back_shiny.gif) |
 
 ### Cries
 

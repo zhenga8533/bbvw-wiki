@@ -1,5 +1,9 @@
 # #10198 Butterfree Gmax (Butterfly Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/butterfree-gmax/official_artwork.png) | ![Shiny Artwork](../assets/sprites/butterfree-gmax/official_artwork_shiny.png) |
+
 It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.
 
 ---
@@ -8,7 +12,9 @@ It loves the honey of flowers and can locate flower patches that have even tiny 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/butterfree-gmax/front.png) | ![Back](../assets/sprites/butterfree-gmax/back.png) | ![Front Shiny](../assets/sprites/butterfree-gmax/front_shiny.png) | ![Back Shiny](../assets/sprites/butterfree-gmax/back_shiny.png) |
 
 ### Cries
 

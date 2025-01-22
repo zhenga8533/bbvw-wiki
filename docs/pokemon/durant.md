@@ -1,5 +1,9 @@
 # #632 Durant (Iron Ant Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/durant/official_artwork.png) | ![Shiny Artwork](../assets/sprites/durant/official_artwork_shiny.png) |
+
 **Blaze Black:** They attack in groups, covering themselves in steel armor to protect themselves from Heatmor.
 
 **Volt White:** Durant dig nests in mountains. They build their complicated, interconnected tunnels into mazes.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/durant/front.gif) | ![Back](../assets/sprites/durant/back.gif) | ![Front Shiny](../assets/sprites/durant/front_shiny.gif) | ![Back Shiny](../assets/sprites/durant/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #182 Bellossom (Flower Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/bellossom/official_artwork.png) | ![Shiny Artwork](../assets/sprites/bellossom/official_artwork_shiny.png) |
+
 When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open.
 
 ---
@@ -8,7 +12,9 @@ When the heavy rainfall season ends, it is drawn out by warm sunlight to dance i
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/bellossom/front.gif) | ![Back](../assets/sprites/bellossom/back.gif) | ![Front Shiny](../assets/sprites/bellossom/front_shiny.gif) | ![Back Shiny](../assets/sprites/bellossom/back_shiny.gif) |
 
 ### Cries
 

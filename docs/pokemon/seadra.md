@@ -1,5 +1,9 @@
 # #117 Seadra (Dragon Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/seadra/official_artwork.png) | ![Shiny Artwork](../assets/sprites/seadra/official_artwork_shiny.png) |
+
 Its spines provide protection. Its fins and bones are prized as traditional medicine ingredients.
 
 ---
@@ -8,7 +12,9 @@ Its spines provide protection. Its fins and bones are prized as traditional medi
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/seadra/front.gif) | ![Back](../assets/sprites/seadra/back.gif) | ![Front Shiny](../assets/sprites/seadra/front_shiny.gif) | ![Back Shiny](../assets/sprites/seadra/back_shiny.gif) |
 
 ### Cries
 

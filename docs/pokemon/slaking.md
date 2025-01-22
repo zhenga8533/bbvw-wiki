@@ -1,5 +1,9 @@
 # #289 Slaking (Lazy Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/slaking/official_artwork.png) | ![Shiny Artwork](../assets/sprites/slaking/official_artwork_shiny.png) |
+
 The world’s laziest Pokémon. When it is lounging, it is actually saving energy for striking back.
 
 ---
@@ -8,7 +12,9 @@ The world’s laziest Pokémon. When it is lounging, it is actually saving energ
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/slaking/front.gif) | ![Back](../assets/sprites/slaking/back.gif) | ![Front Shiny](../assets/sprites/slaking/front_shiny.gif) | ![Back Shiny](../assets/sprites/slaking/back_shiny.gif) |
 
 ### Cries
 

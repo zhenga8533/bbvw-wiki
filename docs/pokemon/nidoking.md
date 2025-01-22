@@ -1,5 +1,9 @@
 # #034 Nidoking (Drill Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/nidoking/official_artwork.png) | ![Shiny Artwork](../assets/sprites/nidoking/official_artwork_shiny.png) |
+
 One swing of its mighty tail can snap a telephone pole as if it were a matchstick.
 
 ---
@@ -8,7 +12,9 @@ One swing of its mighty tail can snap a telephone pole as if it were a matchstic
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/nidoking/front.gif) | ![Back](../assets/sprites/nidoking/back.gif) | ![Front Shiny](../assets/sprites/nidoking/front_shiny.gif) | ![Back Shiny](../assets/sprites/nidoking/back_shiny.gif) |
 
 ### Cries
 

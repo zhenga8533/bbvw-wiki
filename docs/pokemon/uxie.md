@@ -1,5 +1,9 @@
 # #480 Uxie (Knowledge Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/uxie/official_artwork.png) | ![Shiny Artwork](../assets/sprites/uxie/official_artwork_shiny.png) |
+
 When Uxie flew, people gained the ability to solve problems. It was the birth of knowledge.
 
 ---
@@ -8,7 +12,9 @@ When Uxie flew, people gained the ability to solve problems. It was the birth of
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/uxie/front.gif) | ![Back](../assets/sprites/uxie/back.gif) | ![Front Shiny](../assets/sprites/uxie/front_shiny.gif) | ![Back Shiny](../assets/sprites/uxie/back_shiny.gif) |
 
 ### Cries
 

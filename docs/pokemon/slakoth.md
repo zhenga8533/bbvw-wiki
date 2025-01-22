@@ -1,5 +1,9 @@
 # #287 Slakoth (Slacker Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/slakoth/official_artwork.png) | ![Shiny Artwork](../assets/sprites/slakoth/official_artwork_shiny.png) |
+
 It spends nearly all its time in a day sprawled out. Just seeing it makes one drowsy.
 
 ---
@@ -8,7 +12,9 @@ It spends nearly all its time in a day sprawled out. Just seeing it makes one dr
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/slakoth/front.gif) | ![Back](../assets/sprites/slakoth/back.gif) | ![Front Shiny](../assets/sprites/slakoth/front_shiny.gif) | ![Back Shiny](../assets/sprites/slakoth/back_shiny.gif) |
 
 ### Cries
 

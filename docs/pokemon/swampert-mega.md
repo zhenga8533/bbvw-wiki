@@ -1,5 +1,9 @@
 # #10064 Swampert Mega (Mud Fish Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/swampert-mega/official_artwork.png) | ![Shiny Artwork](../assets/sprites/swampert-mega/official_artwork_shiny.png) |
+
 It can swim while towing a large ship. It bashes down foes with a swing of its thick arms.
 
 ---
@@ -8,7 +12,9 @@ It can swim while towing a large ship. It bashes down foes with a swing of its t
 
 ### Sprites
 
-### Female Sprites
+| Front | Front Shiny |
+| --- | --- |
+| ![Front](../assets/sprites/swampert-mega/front.png) | ![Front Shiny](../assets/sprites/swampert-mega/front_shiny.png) |
 
 ### Cries
 

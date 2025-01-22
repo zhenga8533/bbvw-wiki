@@ -1,5 +1,9 @@
 # #066 Machop (Superpower Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/machop/official_artwork.png) | ![Shiny Artwork](../assets/sprites/machop/official_artwork_shiny.png) |
+
 Though small in stature, it is powerful enough to easily heft and throw a number of Geodude at once.
 
 ---
@@ -8,7 +12,9 @@ Though small in stature, it is powerful enough to easily heft and throw a number
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/machop/front.gif) | ![Back](../assets/sprites/machop/back.gif) | ![Front Shiny](../assets/sprites/machop/front_shiny.gif) | ![Back Shiny](../assets/sprites/machop/back_shiny.gif) |
 
 ### Cries
 

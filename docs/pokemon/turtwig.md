@@ -1,5 +1,9 @@
 # #387 Turtwig (Tiny Leaf Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/turtwig/official_artwork.png) | ![Shiny Artwork](../assets/sprites/turtwig/official_artwork_shiny.png) |
+
 The shell on its back is made of soil. On a very healthy Turtwig, the shell should feel moist.
 
 ---
@@ -8,7 +12,9 @@ The shell on its back is made of soil. On a very healthy Turtwig, the shell shou
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/turtwig/front.gif) | ![Back](../assets/sprites/turtwig/back.gif) | ![Front Shiny](../assets/sprites/turtwig/front_shiny.gif) | ![Back Shiny](../assets/sprites/turtwig/back_shiny.gif) |
 
 ### Cries
 

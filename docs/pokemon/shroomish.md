@@ -1,5 +1,9 @@
 # #285 Shroomish (Mushroom Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/shroomish/official_artwork.png) | ![Shiny Artwork](../assets/sprites/shroomish/official_artwork_shiny.png) |
+
 It spouts poison spores from the top of its head. These spores cause pain all over if inhaled.
 
 ---
@@ -8,7 +12,9 @@ It spouts poison spores from the top of its head. These spores cause pain all ov
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/shroomish/front.gif) | ![Back](../assets/sprites/shroomish/back.gif) | ![Front Shiny](../assets/sprites/shroomish/front_shiny.gif) | ![Back Shiny](../assets/sprites/shroomish/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #461 Weavile (Sharp Claw Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/weavile/official_artwork.png) | ![Shiny Artwork](../assets/sprites/weavile/official_artwork_shiny.png) |
+
 Evolution made it even more devious. It communicates by clawing signs in boulders.
 
 ---
@@ -8,7 +12,15 @@ Evolution made it even more devious. It communicates by clawing signs in boulder
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/weavile/front.gif) | ![Back](../assets/sprites/weavile/back.gif) | ![Front Shiny](../assets/sprites/weavile/front_shiny.gif) | ![Back Shiny](../assets/sprites/weavile/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/weavile/front_female.gif) | ![Back](../assets/sprites/weavile/back_female.gif) | ![Front Shiny](../assets/sprites/weavile/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/weavile/back_shiny_female.gif) |
 
 ### Cries
 

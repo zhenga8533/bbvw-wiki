@@ -1,5 +1,9 @@
 # #534 Conkeldurr (Muscular Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/conkeldurr/official_artwork.png) | ![Shiny Artwork](../assets/sprites/conkeldurr/official_artwork_shiny.png) |
+
 **Blaze Black:** It is thought that Conkeldurr taught humans how to make concrete more than 2,000 years ago.
 
 **Volt White:** They use concrete pillars as walking canes. They know moves that enable them to swing the pillars freely in battle.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/conkeldurr/front.gif) | ![Back](../assets/sprites/conkeldurr/back.gif) | ![Front Shiny](../assets/sprites/conkeldurr/front_shiny.gif) | ![Back Shiny](../assets/sprites/conkeldurr/back_shiny.gif) |
 
 ### Cries
 

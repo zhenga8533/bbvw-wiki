@@ -1,5 +1,9 @@
 # #275 Shiftry (Wicked Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/shiftry/official_artwork.png) | ![Shiny Artwork](../assets/sprites/shiftry/official_artwork_shiny.png) |
+
 By flapping its leafy fan, it can whip up gusts of 100 ft/second that can level houses.
 
 ---
@@ -8,7 +12,15 @@ By flapping its leafy fan, it can whip up gusts of 100 ft/second that can level 
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/shiftry/front.gif) | ![Back](../assets/sprites/shiftry/back.gif) | ![Front Shiny](../assets/sprites/shiftry/front_shiny.gif) | ![Back Shiny](../assets/sprites/shiftry/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/shiftry/front_female.gif) | ![Back](../assets/sprites/shiftry/back_female.gif) | ![Front Shiny](../assets/sprites/shiftry/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/shiftry/back_shiny_female.gif) |
 
 ### Cries
 

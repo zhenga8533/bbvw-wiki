@@ -1,5 +1,9 @@
 # #258 Mudkip (Mud Fish Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/mudkip/official_artwork.png) | ![Shiny Artwork](../assets/sprites/mudkip/official_artwork_shiny.png) |
+
 To alert it, the fin on its head senses the flow of water. It has the strength to heft boulders.
 
 ---
@@ -8,7 +12,9 @@ To alert it, the fin on its head senses the flow of water. It has the strength t
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/mudkip/front.gif) | ![Back](../assets/sprites/mudkip/back.gif) | ![Front Shiny](../assets/sprites/mudkip/front_shiny.gif) | ![Back Shiny](../assets/sprites/mudkip/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #509 Purrloin (Devious Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/purrloin/official_artwork.png) | ![Shiny Artwork](../assets/sprites/purrloin/official_artwork_shiny.png) |
+
 **Blaze Black:** They steal from people for fun, but their victims can’t help but forgive them. Their deceptively cute act is perfect.
 
 **Volt White:** Its cute act is a ruse. When victims let down their guard, they find their items taken. It attacks with sharp claws.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/purrloin/front.gif) | ![Back](../assets/sprites/purrloin/back.gif) | ![Front Shiny](../assets/sprites/purrloin/front_shiny.gif) | ![Back Shiny](../assets/sprites/purrloin/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #634 Zweilous (Hostile Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/zweilous/official_artwork.png) | ![Shiny Artwork](../assets/sprites/zweilous/official_artwork_shiny.png) |
+
 **Blaze Black:** After it has eaten up all the food in its territory, it moves to another area. Its two heads do not get along.
 
 **Volt White:** Since their two heads do not get along and compete with each other for food, they always eat too much.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/zweilous/front.gif) | ![Back](../assets/sprites/zweilous/back.gif) | ![Front Shiny](../assets/sprites/zweilous/front_shiny.gif) | ![Back Shiny](../assets/sprites/zweilous/back_shiny.gif) |
 
 ### Cries
 

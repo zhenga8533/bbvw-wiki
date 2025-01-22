@@ -1,5 +1,9 @@
 # #120 Staryu (Star Shape Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/staryu/official_artwork.png) | ![Shiny Artwork](../assets/sprites/staryu/official_artwork_shiny.png) |
+
 If its body is torn, it can grow back if the red core remains. The core flashes at midnight.
 
 ---
@@ -8,7 +12,9 @@ If its body is torn, it can grow back if the red core remains. The core flashes 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/staryu/front.gif) | ![Back](../assets/sprites/staryu/back.gif) | ![Front Shiny](../assets/sprites/staryu/front_shiny.gif) | ![Back Shiny](../assets/sprites/staryu/back_shiny.gif) |
 
 ### Cries
 

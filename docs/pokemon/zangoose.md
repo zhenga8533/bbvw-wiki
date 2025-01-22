@@ -1,5 +1,9 @@
 # #335 Zangoose (Cat Ferret Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/zangoose/official_artwork.png) | ![Shiny Artwork](../assets/sprites/zangoose/official_artwork_shiny.png) |
+
 It has feuded with Seviper for many generations. Its sharp claws are its biggest weapons.
 
 ---
@@ -8,7 +12,9 @@ It has feuded with Seviper for many generations. Its sharp claws are its biggest
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/zangoose/front.gif) | ![Back](../assets/sprites/zangoose/back.gif) | ![Front Shiny](../assets/sprites/zangoose/front_shiny.gif) | ![Back Shiny](../assets/sprites/zangoose/back_shiny.gif) |
 
 ### Cries
 

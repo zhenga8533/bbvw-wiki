@@ -1,5 +1,9 @@
 # #481 Mesprit (Emotion Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/mesprit/official_artwork.png) | ![Shiny Artwork](../assets/sprites/mesprit/official_artwork_shiny.png) |
+
 When Mesprit flew, people learned the joy and sadness of living. It was the birth of emotions.
 
 ---
@@ -8,7 +12,9 @@ When Mesprit flew, people learned the joy and sadness of living. It was the birt
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/mesprit/front.gif) | ![Back](../assets/sprites/mesprit/back.gif) | ![Front Shiny](../assets/sprites/mesprit/front_shiny.gif) | ![Back Shiny](../assets/sprites/mesprit/back_shiny.gif) |
 
 ### Cries
 

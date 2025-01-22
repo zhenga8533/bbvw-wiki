@@ -1,5 +1,9 @@
 # #158 Totodile (Big Jaw Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/totodile/official_artwork.png) | ![Shiny Artwork](../assets/sprites/totodile/official_artwork_shiny.png) |
+
 It has the habit of biting anything with its developed jaws. Even its Trainer needs to be careful.
 
 ---
@@ -8,7 +12,9 @@ It has the habit of biting anything with its developed jaws. Even its Trainer ne
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/totodile/front.gif) | ![Back](../assets/sprites/totodile/back.gif) | ![Front Shiny](../assets/sprites/totodile/front_shiny.gif) | ![Back Shiny](../assets/sprites/totodile/back_shiny.gif) |
 
 ### Cries
 

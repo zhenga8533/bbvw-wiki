@@ -1,5 +1,9 @@
 # #10203 Kingler Gmax (Pincer Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/kingler-gmax/official_artwork.png) | ![Shiny Artwork](../assets/sprites/kingler-gmax/official_artwork_shiny.png) |
+
 The larger pincer has 10,000- horsepower strength. However, it is so heavy, it is difficult to aim.
 
 ---
@@ -8,7 +12,9 @@ The larger pincer has 10,000- horsepower strength. However, it is so heavy, it i
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/kingler-gmax/front.png) | ![Back](../assets/sprites/kingler-gmax/back.png) | ![Front Shiny](../assets/sprites/kingler-gmax/front_shiny.png) | ![Back Shiny](../assets/sprites/kingler-gmax/back_shiny.png) |
 
 ### Cries
 

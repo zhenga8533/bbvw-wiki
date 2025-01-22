@@ -1,5 +1,9 @@
 # #644 Zekrom (Deep Black Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/zekrom/official_artwork.png) | ![Shiny Artwork](../assets/sprites/zekrom/official_artwork_shiny.png) |
+
 **Blaze Black:** Concealing itself in lightning clouds, it flies throughout the Unova region. It creates electricity in its tail.
 
 **Volt White:** This Pokémon appears in legends. In its tail, it has a giant generator that creates electricity.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/zekrom/front.gif) | ![Back](../assets/sprites/zekrom/back.gif) | ![Front Shiny](../assets/sprites/zekrom/front_shiny.gif) | ![Back Shiny](../assets/sprites/zekrom/back_shiny.gif) |
 
 ### Cries
 

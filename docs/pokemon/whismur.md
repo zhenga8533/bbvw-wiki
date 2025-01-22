@@ -1,5 +1,9 @@
 # #293 Whismur (Whisper Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/whismur/official_artwork.png) | ![Shiny Artwork](../assets/sprites/whismur/official_artwork_shiny.png) |
+
 Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same volume as a jet plane.
 
 ---
@@ -8,7 +12,9 @@ Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/whismur/front.gif) | ![Back](../assets/sprites/whismur/back.gif) | ![Front Shiny](../assets/sprites/whismur/front_shiny.gif) | ![Back Shiny](../assets/sprites/whismur/back_shiny.gif) |
 
 ### Cries
 

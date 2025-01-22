@@ -1,5 +1,9 @@
 # #10044 Mewtwo Mega Y (Genetic Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/mewtwo-mega-y/official_artwork.png) | ![Shiny Artwork](../assets/sprites/mewtwo-mega-y/official_artwork_shiny.png) |
+
 A Pokémon created by recombining Mew’s genes. It’s said to have the most savage heart among Pokémon.
 
 ---
@@ -8,7 +12,9 @@ A Pokémon created by recombining Mew’s genes. It’s said to have the most sa
 
 ### Sprites
 
-### Female Sprites
+| Front | Front Shiny |
+| --- | --- |
+| ![Front](../assets/sprites/mewtwo-mega-y/front.png) | ![Front Shiny](../assets/sprites/mewtwo-mega-y/front_shiny.png) |
 
 ### Cries
 

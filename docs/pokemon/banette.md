@@ -1,5 +1,9 @@
 # #354 Banette (Marionette Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/banette/official_artwork.png) | ![Shiny Artwork](../assets/sprites/banette/official_artwork_shiny.png) |
+
 A doll that became a Pokémon over its grudge from being junked. It seeks the child that disowned it.
 
 ---
@@ -8,7 +12,9 @@ A doll that became a Pokémon over its grudge from being junked. It seeks the ch
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/banette/front.gif) | ![Back](../assets/sprites/banette/back.gif) | ![Front Shiny](../assets/sprites/banette/front_shiny.gif) | ![Back Shiny](../assets/sprites/banette/back_shiny.gif) |
 
 ### Cries
 

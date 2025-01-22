@@ -1,5 +1,9 @@
 # #252 Treecko (Wood Gecko Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/treecko/official_artwork.png) | ![Shiny Artwork](../assets/sprites/treecko/official_artwork_shiny.png) |
+
 The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings.
 
 ---
@@ -8,7 +12,9 @@ The soles of its feet are covered by countless tiny spikes, enabling it to walk 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/treecko/front.gif) | ![Back](../assets/sprites/treecko/back.gif) | ![Front Shiny](../assets/sprites/treecko/front_shiny.gif) | ![Back Shiny](../assets/sprites/treecko/back_shiny.gif) |
 
 ### Cries
 

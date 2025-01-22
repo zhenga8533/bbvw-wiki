@@ -1,5 +1,9 @@
 # #10056 Banette Mega (Marionette Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/banette-mega/official_artwork.png) | ![Shiny Artwork](../assets/sprites/banette-mega/official_artwork_shiny.png) |
+
 A doll that became a Pokémon over its grudge from being junked. It seeks the child that disowned it.
 
 ---
@@ -8,7 +12,9 @@ A doll that became a Pokémon over its grudge from being junked. It seeks the ch
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/banette-mega/front.png) | ![Back](../assets/sprites/banette-mega/back.png) | ![Front Shiny](../assets/sprites/banette-mega/front_shiny.png) | ![Back Shiny](../assets/sprites/banette-mega/back_shiny.png) |
 
 ### Cries
 

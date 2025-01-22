@@ -1,5 +1,9 @@
 # #246 Larvitar (Rock Skin Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/larvitar/official_artwork.png) | ![Shiny Artwork](../assets/sprites/larvitar/official_artwork_shiny.png) |
+
 A Pokémon that eats soil. Once it has eaten a large mountain, it goes to sleep so it can grow.
 
 ---
@@ -8,7 +12,9 @@ A Pokémon that eats soil. Once it has eaten a large mountain, it goes to sleep 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/larvitar/front.gif) | ![Back](../assets/sprites/larvitar/back.gif) | ![Front Shiny](../assets/sprites/larvitar/front_shiny.gif) | ![Back Shiny](../assets/sprites/larvitar/back_shiny.gif) |
 
 ### Cries
 

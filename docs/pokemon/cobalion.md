@@ -1,5 +1,9 @@
 # #638 Cobalion (Iron Will Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/cobalion/official_artwork.png) | ![Shiny Artwork](../assets/sprites/cobalion/official_artwork_shiny.png) |
+
 **Blaze Black:** This legendary Pokémon battled against humans to protect Pokémon. Its personality is calm and composed.
 
 **Volt White:** It has a body and heart of steel. Its glare is sufficient to make even an unruly Pokémon obey it.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/cobalion/front.gif) | ![Back](../assets/sprites/cobalion/back.gif) | ![Front Shiny](../assets/sprites/cobalion/front_shiny.gif) | ![Back Shiny](../assets/sprites/cobalion/back_shiny.gif) |
 
 ### Cries
 

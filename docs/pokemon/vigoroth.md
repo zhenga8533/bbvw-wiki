@@ -1,5 +1,9 @@
 # #288 Vigoroth (Wild Monkey Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/vigoroth/official_artwork.png) | ![Shiny Artwork](../assets/sprites/vigoroth/official_artwork_shiny.png) |
+
 Its heart beats at a tenfold tempo, so it cannot sit still for even a moment.
 
 ---
@@ -8,7 +12,9 @@ Its heart beats at a tenfold tempo, so it cannot sit still for even a moment.
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/vigoroth/front.gif) | ![Back](../assets/sprites/vigoroth/back.gif) | ![Front Shiny](../assets/sprites/vigoroth/front_shiny.gif) | ![Back Shiny](../assets/sprites/vigoroth/back_shiny.gif) |
 
 ### Cries
 

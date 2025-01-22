@@ -1,5 +1,9 @@
 # #168 Ariados (Long Leg Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/ariados/official_artwork.png) | ![Shiny Artwork](../assets/sprites/ariados/official_artwork_shiny.png) |
+
 It attaches silk to its prey and sets it free. Later, it tracks the silk to the prey and its friends.
 
 ---
@@ -8,7 +12,9 @@ It attaches silk to its prey and sets it free. Later, it tracks the silk to the 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/ariados/front.gif) | ![Back](../assets/sprites/ariados/back.gif) | ![Front Shiny](../assets/sprites/ariados/front_shiny.gif) | ![Back Shiny](../assets/sprites/ariados/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #181 Ampharos (Light Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/ampharos/official_artwork.png) | ![Shiny Artwork](../assets/sprites/ampharos/official_artwork_shiny.png) |
+
 The tip of its tail shines brightly. In the olden days, people sent signals using the tail’s light.
 
 ---
@@ -8,7 +12,9 @@ The tip of its tail shines brightly. In the olden days, people sent signals usin
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/ampharos/front.gif) | ![Back](../assets/sprites/ampharos/back.gif) | ![Front Shiny](../assets/sprites/ampharos/front_shiny.gif) | ![Back Shiny](../assets/sprites/ampharos/back_shiny.gif) |
 
 ### Cries
 

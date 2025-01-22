@@ -1,5 +1,9 @@
 # #10199 Pikachu Gmax (Mouse Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/pikachu-gmax/official_artwork.png) | ![Shiny Artwork](../assets/sprites/pikachu-gmax/official_artwork_shiny.png) |
+
 It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.
 
 ---
@@ -8,7 +12,9 @@ It occasionally uses an electric shock to recharge a fellow Pikachu that is in a
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/pikachu-gmax/front.png) | ![Back](../assets/sprites/pikachu-gmax/back.png) | ![Front Shiny](../assets/sprites/pikachu-gmax/front_shiny.png) | ![Back Shiny](../assets/sprites/pikachu-gmax/back_shiny.png) |
 
 ### Cries
 

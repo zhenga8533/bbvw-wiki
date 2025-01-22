@@ -1,5 +1,9 @@
 # #344 Claydol (Clay Doll Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/claydol/official_artwork.png) | ![Shiny Artwork](../assets/sprites/claydol/official_artwork_shiny.png) |
+
 An ancient clay figurine that came to life as a Pokémon from exposure to a mysterious ray of light.
 
 ---
@@ -8,7 +12,9 @@ An ancient clay figurine that came to life as a Pokémon from exposure to a myst
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/claydol/front.gif) | ![Back](../assets/sprites/claydol/back.gif) | ![Front Shiny](../assets/sprites/claydol/front_shiny.gif) | ![Back Shiny](../assets/sprites/claydol/back_shiny.gif) |
 
 ### Cries
 

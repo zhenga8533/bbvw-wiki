@@ -1,5 +1,9 @@
 # #229 Houndoom (Dark Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/houndoom/official_artwork.png) | ![Shiny Artwork](../assets/sprites/houndoom/official_artwork_shiny.png) |
+
 The flames it breathes when angry contain toxins. If they cause a burn, it will hurt forever.
 
 ---
@@ -8,7 +12,15 @@ The flames it breathes when angry contain toxins. If they cause a burn, it will 
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/houndoom/front.gif) | ![Back](../assets/sprites/houndoom/back.gif) | ![Front Shiny](../assets/sprites/houndoom/front_shiny.gif) | ![Back Shiny](../assets/sprites/houndoom/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/houndoom/front_female.gif) | ![Back](../assets/sprites/houndoom/back_female.gif) | ![Front Shiny](../assets/sprites/houndoom/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/houndoom/back_shiny_female.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #069 Bellsprout (Flower Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/bellsprout/official_artwork.png) | ![Shiny Artwork](../assets/sprites/bellsprout/official_artwork_shiny.png) |
+
 It prefers hot and humid environments. It is quick at capturing prey with its vines.
 
 ---
@@ -8,7 +12,9 @@ It prefers hot and humid environments. It is quick at capturing prey with its vi
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/bellsprout/front.gif) | ![Back](../assets/sprites/bellsprout/back.gif) | ![Front Shiny](../assets/sprites/bellsprout/front_shiny.gif) | ![Back Shiny](../assets/sprites/bellsprout/back_shiny.gif) |
 
 ### Cries
 

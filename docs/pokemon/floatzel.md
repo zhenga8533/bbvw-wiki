@@ -1,5 +1,9 @@
 # #419 Floatzel (Sea Weasel Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/floatzel/official_artwork.png) | ![Shiny Artwork](../assets/sprites/floatzel/official_artwork_shiny.png) |
+
 It is a common sight around fishing ports. It is known to rescue people and carry off prey.
 
 ---
@@ -8,7 +12,15 @@ It is a common sight around fishing ports. It is known to rescue people and carr
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/floatzel/front.gif) | ![Back](../assets/sprites/floatzel/back.gif) | ![Front Shiny](../assets/sprites/floatzel/front_shiny.gif) | ![Back Shiny](../assets/sprites/floatzel/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/floatzel/front_female.gif) | ![Back](../assets/sprites/floatzel/back_female.gif) | ![Front Shiny](../assets/sprites/floatzel/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/floatzel/back_shiny_female.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #077 Ponyta (Fire Horse Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/ponyta/official_artwork.png) | ![Shiny Artwork](../assets/sprites/ponyta/official_artwork_shiny.png) |
+
 As a newborn, it can barely stand. However, through galloping, its legs are made tougher and faster.
 
 ---
@@ -8,7 +12,9 @@ As a newborn, it can barely stand. However, through galloping, its legs are made
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/ponyta/front.gif) | ![Back](../assets/sprites/ponyta/back.gif) | ![Front Shiny](../assets/sprites/ponyta/front_shiny.gif) | ![Back Shiny](../assets/sprites/ponyta/back_shiny.gif) |
 
 ### Cries
 

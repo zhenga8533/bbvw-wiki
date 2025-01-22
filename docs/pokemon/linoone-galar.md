@@ -1,5 +1,9 @@
 # #10175 Linoone Galar (Rushing Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/linoone-galar/official_artwork.png) | ![Shiny Artwork](../assets/sprites/linoone-galar/official_artwork_shiny.png) |
+
 It charges prey at speeds over 60 mph. However, because it can only run straight, it often fails.
 
 ---
@@ -8,7 +12,9 @@ It charges prey at speeds over 60 mph. However, because it can only run straight
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/linoone-galar/front.png) | ![Back](../assets/sprites/linoone-galar/back.png) | ![Front Shiny](../assets/sprites/linoone-galar/front_shiny.png) | ![Back Shiny](../assets/sprites/linoone-galar/back_shiny.png) |
 
 ### Cries
 

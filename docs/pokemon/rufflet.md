@@ -1,5 +1,9 @@
 # #627 Rufflet (Eaglet Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/rufflet/official_artwork.png) | ![Shiny Artwork](../assets/sprites/rufflet/official_artwork_shiny.png) |
+
 **Blaze Black:** They crush berries with their talons. They bravely stand up to any opponent, no matter how strong it is.
 
 **Volt White:** They will challenge anything, even strong opponents, without fear. Their frequent fights help them become stronger.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/rufflet/front.gif) | ![Back](../assets/sprites/rufflet/back.gif) | ![Front Shiny](../assets/sprites/rufflet/front_shiny.gif) | ![Back Shiny](../assets/sprites/rufflet/back_shiny.gif) |
 
 ### Cries
 

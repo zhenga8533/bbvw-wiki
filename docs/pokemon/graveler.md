@@ -1,5 +1,9 @@
 # #075 Graveler (Rock Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/graveler/official_artwork.png) | ![Shiny Artwork](../assets/sprites/graveler/official_artwork_shiny.png) |
+
 It rolls on mountain paths to move. Once it builds momentum, no Pokémon can stop it without difficulty.
 
 ---
@@ -8,7 +12,9 @@ It rolls on mountain paths to move. Once it builds momentum, no Pokémon can sto
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/graveler/front.gif) | ![Back](../assets/sprites/graveler/back.gif) | ![Front Shiny](../assets/sprites/graveler/front_shiny.gif) | ![Back Shiny](../assets/sprites/graveler/back_shiny.gif) |
 
 ### Cries
 

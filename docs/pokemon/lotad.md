@@ -1,5 +1,9 @@
 # #270 Lotad (Water Weed Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/lotad/official_artwork.png) | ![Shiny Artwork](../assets/sprites/lotad/official_artwork_shiny.png) |
+
 It looks like an aquatic plant and serves as a ferry to Pokémon that can’t swim.
 
 ---
@@ -8,7 +12,9 @@ It looks like an aquatic plant and serves as a ferry to Pokémon that can’t sw
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/lotad/front.gif) | ![Back](../assets/sprites/lotad/back.gif) | ![Front Shiny](../assets/sprites/lotad/front_shiny.gif) | ![Back Shiny](../assets/sprites/lotad/back_shiny.gif) |
 
 ### Cries
 

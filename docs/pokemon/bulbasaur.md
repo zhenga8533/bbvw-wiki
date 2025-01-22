@@ -1,5 +1,9 @@
 # #001 Bulbasaur (Seed Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/bulbasaur/official_artwork.png) | ![Shiny Artwork](../assets/sprites/bulbasaur/official_artwork_shiny.png) |
+
 For some time after its birth, it grows by gaining nourishment from the seed on its back.
 
 ---
@@ -8,7 +12,9 @@ For some time after its birth, it grows by gaining nourishment from the seed on 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/bulbasaur/front.gif) | ![Back](../assets/sprites/bulbasaur/back.gif) | ![Front Shiny](../assets/sprites/bulbasaur/front_shiny.gif) | ![Back Shiny](../assets/sprites/bulbasaur/back_shiny.gif) |
 
 ### Cries
 

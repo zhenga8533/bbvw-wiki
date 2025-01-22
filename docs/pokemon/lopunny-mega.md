@@ -1,5 +1,9 @@
 # #10088 Lopunny Mega (Rabbit Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/lopunny-mega/official_artwork.png) | ![Shiny Artwork](../assets/sprites/lopunny-mega/official_artwork_shiny.png) |
+
 The ears appear to be delicate. If they are touched roughly, it kicks with its graceful legs.
 
 ---
@@ -8,7 +12,9 @@ The ears appear to be delicate. If they are touched roughly, it kicks with its g
 
 ### Sprites
 
-### Female Sprites
+| Front | Front Shiny |
+| --- | --- |
+| ![Front](../assets/sprites/lopunny-mega/front.png) | ![Front Shiny](../assets/sprites/lopunny-mega/front_shiny.png) |
 
 ### Cries
 

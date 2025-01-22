@@ -1,5 +1,9 @@
 # #478 Froslass (Snow Land Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/froslass/official_artwork.png) | ![Shiny Artwork](../assets/sprites/froslass/official_artwork_shiny.png) |
+
 It freezes prey by blowing its -58 degrees F breath. It is said to then secretly display its prey.
 
 ---
@@ -8,7 +12,9 @@ It freezes prey by blowing its -58 degrees F breath. It is said to then secretly
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/froslass/front.gif) | ![Back](../assets/sprites/froslass/back.gif) | ![Front Shiny](../assets/sprites/froslass/front_shiny.gif) | ![Back Shiny](../assets/sprites/froslass/back_shiny.gif) |
 
 ### Cries
 

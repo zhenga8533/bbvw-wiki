@@ -1,5 +1,9 @@
 # #265 Wurmple (Worm Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/wurmple/official_artwork.png) | ![Shiny Artwork](../assets/sprites/wurmple/official_artwork_shiny.png) |
+
 Often targeted by bird Pokémon, it desperately resists by releasing poison from its tail spikes.
 
 ---
@@ -8,7 +12,9 @@ Often targeted by bird Pokémon, it desperately resists by releasing poison from
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/wurmple/front.gif) | ![Back](../assets/sprites/wurmple/back.gif) | ![Front Shiny](../assets/sprites/wurmple/front_shiny.gif) | ![Back Shiny](../assets/sprites/wurmple/back_shiny.gif) |
 
 ### Cries
 

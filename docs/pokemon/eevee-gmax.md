@@ -1,5 +1,9 @@
 # #10205 Eevee Gmax (Evolution Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/eevee-gmax/official_artwork.png) | ![Shiny Artwork](../assets/sprites/eevee-gmax/official_artwork_shiny.png) |
+
 Because its genetic makeup is irregular, it quickly changes its form due to a variety of causes.
 
 ---
@@ -8,7 +12,9 @@ Because its genetic makeup is irregular, it quickly changes its form due to a va
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/eevee-gmax/front.png) | ![Back](../assets/sprites/eevee-gmax/back.png) | ![Front Shiny](../assets/sprites/eevee-gmax/front_shiny.png) | ![Back Shiny](../assets/sprites/eevee-gmax/back_shiny.png) |
 
 ### Cries
 

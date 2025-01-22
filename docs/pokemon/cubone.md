@@ -1,5 +1,9 @@
 # #104 Cubone (Lonely Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/cubone/official_artwork.png) | ![Shiny Artwork](../assets/sprites/cubone/official_artwork_shiny.png) |
+
 When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.
 
 ---
@@ -8,7 +12,9 @@ When it thinks of its dead mother, it cries. Its crying makes the skull it wears
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/cubone/front.gif) | ![Back](../assets/sprites/cubone/back.gif) | ![Front Shiny](../assets/sprites/cubone/front_shiny.gif) | ![Back Shiny](../assets/sprites/cubone/back_shiny.gif) |
 
 ### Cries
 

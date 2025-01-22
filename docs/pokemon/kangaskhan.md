@@ -1,5 +1,9 @@
 # #115 Kangaskhan (Parent Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/kangaskhan/official_artwork.png) | ![Shiny Artwork](../assets/sprites/kangaskhan/official_artwork_shiny.png) |
+
 It raises its offspring in its belly pouch. It lets the baby out to play only when it feels safe.
 
 ---
@@ -8,7 +12,9 @@ It raises its offspring in its belly pouch. It lets the baby out to play only wh
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/kangaskhan/front.gif) | ![Back](../assets/sprites/kangaskhan/back.gif) | ![Front Shiny](../assets/sprites/kangaskhan/front_shiny.gif) | ![Back Shiny](../assets/sprites/kangaskhan/back_shiny.gif) |
 
 ### Cries
 

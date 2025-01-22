@@ -1,5 +1,9 @@
 # #249 Lugia (Diving Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/lugia/official_artwork.png) | ![Shiny Artwork](../assets/sprites/lugia/official_artwork_shiny.png) |
+
 It sleeps in a deep-sea trench. If it flaps its wings, it is said to cause a 40-day storm.
 
 ---
@@ -8,7 +12,9 @@ It sleeps in a deep-sea trench. If it flaps its wings, it is said to cause a 40-
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/lugia/front.gif) | ![Back](../assets/sprites/lugia/back.gif) | ![Front Shiny](../assets/sprites/lugia/front_shiny.gif) | ![Back Shiny](../assets/sprites/lugia/back_shiny.gif) |
 
 ### Cries
 

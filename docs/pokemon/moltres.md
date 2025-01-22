@@ -1,5 +1,9 @@
 # #146 Moltres (Flame Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/moltres/official_artwork.png) | ![Shiny Artwork](../assets/sprites/moltres/official_artwork_shiny.png) |
+
 One of the legendary bird Pokémon. It is said that its appearance indicates the coming of spring.
 
 ---
@@ -8,7 +12,9 @@ One of the legendary bird Pokémon. It is said that its appearance indicates the
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/moltres/front.gif) | ![Back](../assets/sprites/moltres/back.gif) | ![Front Shiny](../assets/sprites/moltres/front_shiny.gif) | ![Back Shiny](../assets/sprites/moltres/back_shiny.gif) |
 
 ### Cries
 

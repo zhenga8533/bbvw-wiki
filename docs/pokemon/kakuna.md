@@ -1,5 +1,9 @@
 # #014 Kakuna (Cocoon Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/kakuna/official_artwork.png) | ![Shiny Artwork](../assets/sprites/kakuna/official_artwork_shiny.png) |
+
 While awaiting evolution, it hides from predators under leaves and in nooks of branches.
 
 ---
@@ -8,7 +12,9 @@ While awaiting evolution, it hides from predators under leaves and in nooks of b
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/kakuna/front.gif) | ![Back](../assets/sprites/kakuna/back.gif) | ![Front Shiny](../assets/sprites/kakuna/front_shiny.gif) | ![Back Shiny](../assets/sprites/kakuna/back_shiny.gif) |
 
 ### Cries
 

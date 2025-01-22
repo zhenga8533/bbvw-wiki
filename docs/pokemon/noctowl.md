@@ -1,5 +1,9 @@
 # #164 Noctowl (Owl Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/noctowl/official_artwork.png) | ![Shiny Artwork](../assets/sprites/noctowl/official_artwork_shiny.png) |
+
 Its eyes are specially developed to enable it to see clearly even in murky darkness and minimal light.
 
 ---
@@ -8,7 +12,9 @@ Its eyes are specially developed to enable it to see clearly even in murky darkn
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/noctowl/front.gif) | ![Back](../assets/sprites/noctowl/back.gif) | ![Front Shiny](../assets/sprites/noctowl/front_shiny.gif) | ![Back Shiny](../assets/sprites/noctowl/back_shiny.gif) |
 
 ### Cries
 

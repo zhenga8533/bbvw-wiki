@@ -1,5 +1,9 @@
 # #10201 Machamp Gmax (Superpower Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/machamp-gmax/official_artwork.png) | ![Shiny Artwork](../assets/sprites/machamp-gmax/official_artwork_shiny.png) |
+
 Its four muscled arms slam foes with powerful punches and chops at blinding speed.
 
 ---
@@ -8,7 +12,9 @@ Its four muscled arms slam foes with powerful punches and chops at blinding spee
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/machamp-gmax/front.png) | ![Back](../assets/sprites/machamp-gmax/back.png) | ![Front Shiny](../assets/sprites/machamp-gmax/front_shiny.png) | ![Back Shiny](../assets/sprites/machamp-gmax/back_shiny.png) |
 
 ### Cries
 

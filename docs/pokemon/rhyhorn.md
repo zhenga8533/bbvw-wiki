@@ -1,5 +1,9 @@
 # #111 Rhyhorn (Spikes Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/rhyhorn/official_artwork.png) | ![Shiny Artwork](../assets/sprites/rhyhorn/official_artwork_shiny.png) |
+
 Its powerful tackles can destroy anything. However, it is too slow witted to help people work.
 
 ---
@@ -8,7 +12,15 @@ Its powerful tackles can destroy anything. However, it is too slow witted to hel
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/rhyhorn/front.gif) | ![Back](../assets/sprites/rhyhorn/back.gif) | ![Front Shiny](../assets/sprites/rhyhorn/front_shiny.gif) | ![Back Shiny](../assets/sprites/rhyhorn/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/rhyhorn/front_female.gif) | ![Back](../assets/sprites/rhyhorn/back_female.gif) | ![Front Shiny](../assets/sprites/rhyhorn/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/rhyhorn/back_shiny_female.gif) |
 
 ### Cries
 

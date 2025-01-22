@@ -1,5 +1,9 @@
 # #10238 Zorua Hisui (Tricky Fox Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/zorua-hisui/official_artwork.png) | ![Shiny Artwork](../assets/sprites/zorua-hisui/official_artwork_shiny.png) |
+
 **Blaze Black:** It changes into the forms of others to surprise them. Apparently, it often transforms into a silent child.
 
 **Volt White:** To protect themselves from danger, they hide their true identities by transforming into people and Pokémon.
@@ -9,8 +13,6 @@
 ## Media
 
 ### Sprites
-
-### Female Sprites
 
 ### Cries
 

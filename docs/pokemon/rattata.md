@@ -1,5 +1,9 @@
 # #019 Rattata (Mouse Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/rattata/official_artwork.png) | ![Shiny Artwork](../assets/sprites/rattata/official_artwork_shiny.png) |
+
 Cautious in the extreme, its hardy vitality lets it live in any kind of environment.
 
 ---
@@ -8,7 +12,15 @@ Cautious in the extreme, its hardy vitality lets it live in any kind of environm
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/rattata/front.gif) | ![Back](../assets/sprites/rattata/back.gif) | ![Front Shiny](../assets/sprites/rattata/front_shiny.gif) | ![Back Shiny](../assets/sprites/rattata/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/rattata/front_female.gif) | ![Back](../assets/sprites/rattata/back_female.gif) | ![Front Shiny](../assets/sprites/rattata/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/rattata/back_shiny_female.gif) |
 
 ### Cries
 

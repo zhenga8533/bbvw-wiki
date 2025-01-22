@@ -1,5 +1,9 @@
 # #517 Munna (Dream Eater Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/munna/official_artwork.png) | ![Shiny Artwork](../assets/sprites/munna/official_artwork_shiny.png) |
+
 **Blaze Black:** Munna always float in the air. People whose dreams are eaten by them forget what the dreams had been about.
 
 **Volt White:** It eats the dreams of people and Pokémon. When it eats a pleasant dream, it expels pink-colored mist.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/munna/front.gif) | ![Back](../assets/sprites/munna/back.gif) | ![Front Shiny](../assets/sprites/munna/front_shiny.gif) | ![Back Shiny](../assets/sprites/munna/back_shiny.gif) |
 
 ### Cries
 

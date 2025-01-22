@@ -1,5 +1,9 @@
 # #10113 Muk Alola (Sludge Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/muk-alola/official_artwork.png) | ![Shiny Artwork](../assets/sprites/muk-alola/official_artwork_shiny.png) |
+
 A toxic fluid seeps from its body. The fluid instantly kills plants and trees on contact.
 
 ---
@@ -8,7 +12,9 @@ A toxic fluid seeps from its body. The fluid instantly kills plants and trees on
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/muk-alola/front.png) | ![Back](../assets/sprites/muk-alola/back.png) | ![Front Shiny](../assets/sprites/muk-alola/front_shiny.png) | ![Back Shiny](../assets/sprites/muk-alola/back_shiny.png) |
 
 ### Cries
 

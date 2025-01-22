@@ -1,5 +1,9 @@
 # #10080 Pikachu Rock Star (Mouse Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/pikachu-rock-star/official_artwork.png) | ![Shiny Artwork](../assets/sprites/pikachu-rock-star/official_artwork_shiny.png) |
+
 It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.
 
 ---
@@ -8,7 +12,9 @@ It occasionally uses an electric shock to recharge a fellow Pikachu that is in a
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/pikachu-rock-star/front.png) | ![Back](../assets/sprites/pikachu-rock-star/back.png) | ![Front Shiny](../assets/sprites/pikachu-rock-star/front_shiny.png) | ![Back Shiny](../assets/sprites/pikachu-rock-star/back_shiny.png) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #227 Skarmory (Armor Bird Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/skarmory/official_artwork.png) | ![Shiny Artwork](../assets/sprites/skarmory/official_artwork_shiny.png) |
+
 Despite being clad entirely in iron-hard armor, it flies at speeds over 180 mph.
 
 ---
@@ -8,7 +12,9 @@ Despite being clad entirely in iron-hard armor, it flies at speeds over 180 mph.
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/skarmory/front.gif) | ![Back](../assets/sprites/skarmory/back.gif) | ![Front Shiny](../assets/sprites/skarmory/front_shiny.gif) | ![Back Shiny](../assets/sprites/skarmory/back_shiny.gif) |
 
 ### Cries
 

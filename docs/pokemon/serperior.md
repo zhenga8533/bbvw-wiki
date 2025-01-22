@@ -1,5 +1,9 @@
 # #497 Serperior (Regal Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/serperior/official_artwork.png) | ![Shiny Artwork](../assets/sprites/serperior/official_artwork_shiny.png) |
+
 **Blaze Black:** It can stop its opponents’ movements with just a glare. It takes in solar energy and boosts it internally.
 
 **Volt White:** They raise their heads to intimidate opponents but only give it their all when fighting a powerful opponent.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/serperior/front.gif) | ![Back](../assets/sprites/serperior/back.gif) | ![Front Shiny](../assets/sprites/serperior/front_shiny.gif) | ![Back Shiny](../assets/sprites/serperior/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #10177 Darmanitan Galar Standard (Blazing Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/darmanitan-galar-standard/official_artwork.png) | ![Shiny Artwork](../assets/sprites/darmanitan-galar-standard/official_artwork_shiny.png) |
+
 **Blaze Black:** Its internal fire burns at 2,500° F, making enough power that it can destroy a dump truck with one punch.
 
 **Volt White:** When weakened in battle, it transforms into a stone statue. Then it sharpens its mind and fights on mentally.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/darmanitan-galar-standard/front.png) | ![Back](../assets/sprites/darmanitan-galar-standard/back.png) | ![Front Shiny](../assets/sprites/darmanitan-galar-standard/front_shiny.png) | ![Back Shiny](../assets/sprites/darmanitan-galar-standard/back_shiny.png) |
 
 ### Cries
 

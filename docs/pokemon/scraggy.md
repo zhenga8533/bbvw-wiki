@@ -1,5 +1,9 @@
 # #559 Scraggy (Shedding Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/scraggy/official_artwork.png) | ![Shiny Artwork](../assets/sprites/scraggy/official_artwork_shiny.png) |
+
 **Blaze Black:** Its skin has a rubbery elasticity, so it can reduce damage by defensively pulling its skin up to its neck.
 
 **Volt White:** It immediately headbutts anyone that makes eye contact with it. Its skull is massively thick.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/scraggy/front.gif) | ![Back](../assets/sprites/scraggy/back.gif) | ![Front Shiny](../assets/sprites/scraggy/front_shiny.gif) | ![Back Shiny](../assets/sprites/scraggy/back_shiny.gif) |
 
 ### Cries
 

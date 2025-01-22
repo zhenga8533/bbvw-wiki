@@ -1,5 +1,9 @@
 # #496 Servine (Grass Snake Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/servine/official_artwork.png) | ![Shiny Artwork](../assets/sprites/servine/official_artwork_shiny.png) |
+
 **Blaze Black:** It moves along the ground as if sliding. Its swift movements befuddle its foes, and it then attacks with a vine whip.
 
 **Volt White:** They avoid attacks by sinking into the shadows of thick foliage. They retaliate with masterful whipping techniques.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/servine/front.gif) | ![Back](../assets/sprites/servine/back.gif) | ![Front Shiny](../assets/sprites/servine/front_shiny.gif) | ![Back Shiny](../assets/sprites/servine/back_shiny.gif) |
 
 ### Cries
 

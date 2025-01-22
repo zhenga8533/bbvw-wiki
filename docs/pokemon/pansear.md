@@ -1,5 +1,9 @@
 # #513 Pansear (High Temp Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/pansear/official_artwork.png) | ![Shiny Artwork](../assets/sprites/pansear/official_artwork_shiny.png) |
+
 **Blaze Black:** When it is angered, the temperature of its head tuft reaches 600° F. It uses its tuft to roast berries.
 
 **Volt White:** This Pokémon lives in caves in volcanoes. The fire within the tuft on its head can reach 600° F.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/pansear/front.gif) | ![Back](../assets/sprites/pansear/back.gif) | ![Front Shiny](../assets/sprites/pansear/front_shiny.gif) | ![Back Shiny](../assets/sprites/pansear/back_shiny.gif) |
 
 ### Cries
 

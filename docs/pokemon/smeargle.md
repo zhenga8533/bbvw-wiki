@@ -1,5 +1,9 @@
 # #235 Smeargle (Painter Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/smeargle/official_artwork.png) | ![Shiny Artwork](../assets/sprites/smeargle/official_artwork_shiny.png) |
+
 It marks its territory by using its tail like a paintbrush. There are more than 5,000 different marks.
 
 ---
@@ -8,7 +12,9 @@ It marks its territory by using its tail like a paintbrush. There are more than 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/smeargle/front.gif) | ![Back](../assets/sprites/smeargle/back.gif) | ![Front Shiny](../assets/sprites/smeargle/front_shiny.gif) | ![Back Shiny](../assets/sprites/smeargle/back_shiny.gif) |
 
 ### Cries
 

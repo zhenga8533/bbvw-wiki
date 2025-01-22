@@ -1,5 +1,9 @@
 # #585 Deerling (Season Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/deerling/official_artwork.png) | ![Shiny Artwork](../assets/sprites/deerling/official_artwork_shiny.png) |
+
 **Blaze Black:** The color and scent of their fur changes to match the mountain grass. When they sense hostility, they hide in the grass.
 
 **Volt White:** The turning of the seasons changes the color and scent of this Pokémon’s fur. People use it to mark the seasons.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/deerling/front.gif) | ![Back](../assets/sprites/deerling/back.gif) | ![Front Shiny](../assets/sprites/deerling/front_shiny.gif) | ![Back Shiny](../assets/sprites/deerling/back_shiny.gif) |
 
 ### Cries
 

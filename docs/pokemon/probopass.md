@@ -1,5 +1,9 @@
 # #476 Probopass (Compass Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/probopass/official_artwork.png) | ![Shiny Artwork](../assets/sprites/probopass/official_artwork_shiny.png) |
+
 It freely controls three small units called Mini-Noses using magnetic force.
 
 ---
@@ -8,7 +12,9 @@ It freely controls three small units called Mini-Noses using magnetic force.
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/probopass/front.gif) | ![Back](../assets/sprites/probopass/back.gif) | ![Front Shiny](../assets/sprites/probopass/front_shiny.gif) | ![Back Shiny](../assets/sprites/probopass/back_shiny.gif) |
 
 ### Cries
 

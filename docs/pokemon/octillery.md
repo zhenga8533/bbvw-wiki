@@ -1,5 +1,9 @@
 # #224 Octillery (Jet Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/octillery/official_artwork.png) | ![Shiny Artwork](../assets/sprites/octillery/official_artwork_shiny.png) |
+
 It loves to lurk inside holes in rocks. It sometimes sprays ink on prey by sticking out only its mouth.
 
 ---
@@ -8,7 +12,15 @@ It loves to lurk inside holes in rocks. It sometimes sprays ink on prey by stick
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/octillery/front.gif) | ![Back](../assets/sprites/octillery/back.gif) | ![Front Shiny](../assets/sprites/octillery/front_shiny.gif) | ![Back Shiny](../assets/sprites/octillery/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/octillery/front_female.gif) | ![Back](../assets/sprites/octillery/back_female.gif) | ![Front Shiny](../assets/sprites/octillery/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/octillery/back_shiny_female.gif) |
 
 ### Cries
 

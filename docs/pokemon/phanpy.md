@@ -1,5 +1,9 @@
 # #231 Phanpy (Long Nose Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/phanpy/official_artwork.png) | ![Shiny Artwork](../assets/sprites/phanpy/official_artwork_shiny.png) |
+
 It is strong despite its compact size. It can easily pick up and carry an adult human on its back.
 
 ---
@@ -8,7 +12,9 @@ It is strong despite its compact size. It can easily pick up and carry an adult 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/phanpy/front.gif) | ![Back](../assets/sprites/phanpy/back.gif) | ![Front Shiny](../assets/sprites/phanpy/front_shiny.gif) | ![Back Shiny](../assets/sprites/phanpy/back_shiny.gif) |
 
 ### Cries
 

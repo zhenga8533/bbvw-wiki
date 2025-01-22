@@ -1,5 +1,9 @@
 # #099 Kingler (Pincer Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/kingler/official_artwork.png) | ![Shiny Artwork](../assets/sprites/kingler/official_artwork_shiny.png) |
+
 The larger pincer has 10,000- horsepower strength. However, it is so heavy, it is difficult to aim.
 
 ---
@@ -8,7 +12,9 @@ The larger pincer has 10,000- horsepower strength. However, it is so heavy, it i
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/kingler/front.gif) | ![Back](../assets/sprites/kingler/back.gif) | ![Front Shiny](../assets/sprites/kingler/front_shiny.gif) | ![Back Shiny](../assets/sprites/kingler/back_shiny.gif) |
 
 ### Cries
 

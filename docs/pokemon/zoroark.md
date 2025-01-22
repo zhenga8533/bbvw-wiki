@@ -1,5 +1,9 @@
 # #571 Zoroark (Illusion Fox Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/zoroark/official_artwork.png) | ![Shiny Artwork](../assets/sprites/zoroark/official_artwork_shiny.png) |
+
 **Blaze Black:** Bonds between these Pokémon are very strong. It protects the safety of its pack by tricking its opponents.
 
 **Volt White:** Each has the ability to fool a large group of people simultaneously. They protect their lair with illusory scenery.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/zoroark/front.gif) | ![Back](../assets/sprites/zoroark/back.gif) | ![Front Shiny](../assets/sprites/zoroark/front_shiny.gif) | ![Back Shiny](../assets/sprites/zoroark/back_shiny.gif) |
 
 ### Cries
 

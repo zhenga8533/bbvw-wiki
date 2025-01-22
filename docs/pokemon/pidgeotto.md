@@ -1,5 +1,9 @@
 # #017 Pidgeotto (Bird Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/pidgeotto/official_artwork.png) | ![Shiny Artwork](../assets/sprites/pidgeotto/official_artwork_shiny.png) |
+
 It flies over its wide territory in search of prey, downing it with its highly developed claws.
 
 ---
@@ -8,7 +12,9 @@ It flies over its wide territory in search of prey, downing it with its highly d
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/pidgeotto/front.gif) | ![Back](../assets/sprites/pidgeotto/back.gif) | ![Front Shiny](../assets/sprites/pidgeotto/front_shiny.gif) | ![Back Shiny](../assets/sprites/pidgeotto/back_shiny.gif) |
 
 ### Cries
 

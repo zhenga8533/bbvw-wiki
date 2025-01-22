@@ -1,5 +1,9 @@
 # #059 Arcanine (Legendary Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/arcanine/official_artwork.png) | ![Shiny Artwork](../assets/sprites/arcanine/official_artwork_shiny.png) |
+
 Its proud and regal appearance has captured the hearts of people since long ago.
 
 ---
@@ -8,7 +12,9 @@ Its proud and regal appearance has captured the hearts of people since long ago.
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/arcanine/front.gif) | ![Back](../assets/sprites/arcanine/back.gif) | ![Front Shiny](../assets/sprites/arcanine/front_shiny.gif) | ![Back Shiny](../assets/sprites/arcanine/back_shiny.gif) |
 
 ### Cries
 

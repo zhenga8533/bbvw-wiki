@@ -1,5 +1,9 @@
 # #011 Metapod (Cocoon Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/metapod/official_artwork.png) | ![Shiny Artwork](../assets/sprites/metapod/official_artwork_shiny.png) |
+
 A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.
 
 ---
@@ -8,7 +12,9 @@ A steel-hard shell protects its tender body. It quietly endures hardships while 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/metapod/front.gif) | ![Back](../assets/sprites/metapod/back.gif) | ![Front Shiny](../assets/sprites/metapod/front_shiny.gif) | ![Back Shiny](../assets/sprites/metapod/back_shiny.gif) |
 
 ### Cries
 

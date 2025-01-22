@@ -1,5 +1,9 @@
 # #057 Primeape (Pig Monkey Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/primeape/official_artwork.png) | ![Shiny Artwork](../assets/sprites/primeape/official_artwork_shiny.png) |
+
 It grows angry if you see its eyes and gets angrier if you run. If you beat it, it gets even madder.
 
 ---
@@ -8,7 +12,9 @@ It grows angry if you see its eyes and gets angrier if you run. If you beat it, 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/primeape/front.gif) | ![Back](../assets/sprites/primeape/back.gif) | ![Front Shiny](../assets/sprites/primeape/front_shiny.gif) | ![Back Shiny](../assets/sprites/primeape/back_shiny.gif) |
 
 ### Cries
 

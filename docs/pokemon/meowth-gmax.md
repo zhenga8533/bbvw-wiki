@@ -1,5 +1,9 @@
 # #10200 Meowth Gmax (Scratch Cat Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/meowth-gmax/official_artwork.png) | ![Shiny Artwork](../assets/sprites/meowth-gmax/official_artwork_shiny.png) |
+
 It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly.
 
 ---
@@ -8,7 +12,9 @@ It is nocturnal in nature. If it spots something shiny, its eyes glitter brightl
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/meowth-gmax/front.png) | ![Back](../assets/sprites/meowth-gmax/back.png) | ![Front Shiny](../assets/sprites/meowth-gmax/front_shiny.png) | ![Back Shiny](../assets/sprites/meowth-gmax/back_shiny.png) |
 
 ### Cries
 

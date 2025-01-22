@@ -1,5 +1,9 @@
 # #448 Lucario (Aura Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/lucario/official_artwork.png) | ![Shiny Artwork](../assets/sprites/lucario/official_artwork_shiny.png) |
+
 A well-trained one can sense auras to identify and take in the feelings of creatures over half a mile away.
 
 ---
@@ -8,7 +12,9 @@ A well-trained one can sense auras to identify and take in the feelings of creat
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/lucario/front.gif) | ![Back](../assets/sprites/lucario/back.gif) | ![Front Shiny](../assets/sprites/lucario/front_shiny.gif) | ![Back Shiny](../assets/sprites/lucario/back_shiny.gif) |
 
 ### Cries
 

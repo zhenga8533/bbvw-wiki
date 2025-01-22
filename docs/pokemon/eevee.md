@@ -1,5 +1,9 @@
 # #133 Eevee (Evolution Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/eevee/official_artwork.png) | ![Shiny Artwork](../assets/sprites/eevee/official_artwork_shiny.png) |
+
 Because its genetic makeup is irregular, it quickly changes its form due to a variety of causes.
 
 ---
@@ -8,7 +12,9 @@ Because its genetic makeup is irregular, it quickly changes its form due to a va
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/eevee/front.gif) | ![Back](../assets/sprites/eevee/back.gif) | ![Front Shiny](../assets/sprites/eevee/front_shiny.gif) | ![Back Shiny](../assets/sprites/eevee/back_shiny.gif) |
 
 ### Cries
 

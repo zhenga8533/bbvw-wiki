@@ -1,5 +1,9 @@
 # #595 Joltik (Attaching Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/joltik/official_artwork.png) | ![Shiny Artwork](../assets/sprites/joltik/official_artwork_shiny.png) |
+
 **Blaze Black:** Joltik that live in cities have learned a technique for sucking electricity from the outlets in houses.
 
 **Volt White:** They attach themselves to large-bodied Pokémon and absorb static electricity, which they store in an electric pouch.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/joltik/front.gif) | ![Back](../assets/sprites/joltik/back.gif) | ![Front Shiny](../assets/sprites/joltik/front_shiny.gif) | ![Back Shiny](../assets/sprites/joltik/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #207 Gligar (Fly Scorpion Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/gligar/official_artwork.png) | ![Shiny Artwork](../assets/sprites/gligar/official_artwork_shiny.png) |
+
 It glides as if sliding. It startles foes by clamping on to their faces, then jabs with its poison stinger.
 
 ---
@@ -8,7 +12,15 @@ It glides as if sliding. It startles foes by clamping on to their faces, then ja
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/gligar/front.gif) | ![Back](../assets/sprites/gligar/back.gif) | ![Front Shiny](../assets/sprites/gligar/front_shiny.gif) | ![Back Shiny](../assets/sprites/gligar/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/gligar/front_female.gif) | ![Back](../assets/sprites/gligar/back_female.gif) | ![Front Shiny](../assets/sprites/gligar/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/gligar/back_shiny_female.gif) |
 
 ### Cries
 

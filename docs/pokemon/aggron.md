@@ -1,5 +1,9 @@
 # #306 Aggron (Iron Armor Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/aggron/official_artwork.png) | ![Shiny Artwork](../assets/sprites/aggron/official_artwork_shiny.png) |
+
 While seeking iron for food, it digs tunnels by breaking through bedrock with its steel horns.
 
 ---
@@ -8,7 +12,9 @@ While seeking iron for food, it digs tunnels by breaking through bedrock with it
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/aggron/front.gif) | ![Back](../assets/sprites/aggron/back.gif) | ![Front Shiny](../assets/sprites/aggron/front_shiny.gif) | ![Back Shiny](../assets/sprites/aggron/back_shiny.gif) |
 
 ### Cries
 

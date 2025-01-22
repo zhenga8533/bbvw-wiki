@@ -1,5 +1,9 @@
 # #340 Whiscash (Whiskers Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/whiscash/official_artwork.png) | ![Shiny Artwork](../assets/sprites/whiscash/official_artwork_shiny.png) |
+
 It is extremely protective of its territory. If any foe approaches, it attacks using vicious tremors.
 
 ---
@@ -8,7 +12,9 @@ It is extremely protective of its territory. If any foe approaches, it attacks u
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/whiscash/front.gif) | ![Back](../assets/sprites/whiscash/back.gif) | ![Front Shiny](../assets/sprites/whiscash/front_shiny.gif) | ![Back Shiny](../assets/sprites/whiscash/back_shiny.gif) |
 
 ### Cries
 

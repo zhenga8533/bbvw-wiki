@@ -1,5 +1,9 @@
 # #112 Rhydon (Drill Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/rhydon/official_artwork.png) | ![Shiny Artwork](../assets/sprites/rhydon/official_artwork_shiny.png) |
+
 Standing on its hind legs freed its forelegs and made it smarter. It is very forgetful, however.
 
 ---
@@ -8,7 +12,15 @@ Standing on its hind legs freed its forelegs and made it smarter. It is very for
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/rhydon/front.gif) | ![Back](../assets/sprites/rhydon/back.gif) | ![Front Shiny](../assets/sprites/rhydon/front_shiny.gif) | ![Back Shiny](../assets/sprites/rhydon/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/rhydon/front_female.gif) | ![Back](../assets/sprites/rhydon/back_female.gif) | ![Front Shiny](../assets/sprites/rhydon/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/rhydon/back_shiny_female.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #10049 Tyranitar Mega (Armor Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/tyranitar-mega/official_artwork.png) | ![Shiny Artwork](../assets/sprites/tyranitar-mega/official_artwork_shiny.png) |
+
 If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.
 
 ---
@@ -8,7 +12,9 @@ If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn
 
 ### Sprites
 
-### Female Sprites
+| Front | Front Shiny |
+| --- | --- |
+| ![Front](../assets/sprites/tyranitar-mega/front.png) | ![Front Shiny](../assets/sprites/tyranitar-mega/front_shiny.png) |
 
 ### Cries
 

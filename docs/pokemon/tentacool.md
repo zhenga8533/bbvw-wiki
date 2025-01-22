@@ -1,5 +1,9 @@
 # #072 Tentacool (Jellyfish Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/tentacool/official_artwork.png) | ![Shiny Artwork](../assets/sprites/tentacool/official_artwork_shiny.png) |
+
 Because its body is almost entirely composed of water, it shrivels up if it is washed ashore.
 
 ---
@@ -8,7 +12,9 @@ Because its body is almost entirely composed of water, it shrivels up if it is w
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/tentacool/front.gif) | ![Back](../assets/sprites/tentacool/back.gif) | ![Front Shiny](../assets/sprites/tentacool/front_shiny.gif) | ![Back Shiny](../assets/sprites/tentacool/back_shiny.gif) |
 
 ### Cries
 

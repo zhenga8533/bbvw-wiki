@@ -1,5 +1,9 @@
 # #544 Whirlipede (Curlipede Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/whirlipede/official_artwork.png) | ![Shiny Artwork](../assets/sprites/whirlipede/official_artwork_shiny.png) |
+
 **Blaze Black:** Protected by a hard shell, it spins its body like a wheel and crashes furiously into its enemies.
 
 **Volt White:** It is usually motionless, but when attacked, it rotates at high speed and then crashes into its opponent.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/whirlipede/front.gif) | ![Back](../assets/sprites/whirlipede/back.gif) | ![Front Shiny](../assets/sprites/whirlipede/front_shiny.gif) | ![Back Shiny](../assets/sprites/whirlipede/back_shiny.gif) |
 
 ### Cries
 

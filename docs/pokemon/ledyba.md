@@ -1,5 +1,9 @@
 # #165 Ledyba (Five Star Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/ledyba/official_artwork.png) | ![Shiny Artwork](../assets/sprites/ledyba/official_artwork_shiny.png) |
+
 It is so timid, it can’t move if it isn’t with a swarm of others. It conveys its feelings with scent.
 
 ---
@@ -8,7 +12,15 @@ It is so timid, it can’t move if it isn’t with a swarm of others. It conveys
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/ledyba/front.gif) | ![Back](../assets/sprites/ledyba/back.gif) | ![Front Shiny](../assets/sprites/ledyba/front_shiny.gif) | ![Back Shiny](../assets/sprites/ledyba/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/ledyba/front_female.gif) | ![Back](../assets/sprites/ledyba/back_female.gif) | ![Front Shiny](../assets/sprites/ledyba/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/ledyba/back_shiny_female.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #10105 Diglett Alola (Mole Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/diglett-alola/official_artwork.png) | ![Shiny Artwork](../assets/sprites/diglett-alola/official_artwork_shiny.png) |
+
 A Pokémon that lives underground. Because of its dark habitat, it is repelled by bright sunlight.
 
 ---
@@ -8,7 +12,9 @@ A Pokémon that lives underground. Because of its dark habitat, it is repelled b
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/diglett-alola/front.png) | ![Back](../assets/sprites/diglett-alola/back.png) | ![Front Shiny](../assets/sprites/diglett-alola/front_shiny.png) | ![Back Shiny](../assets/sprites/diglett-alola/back_shiny.png) |
 
 ### Cries
 

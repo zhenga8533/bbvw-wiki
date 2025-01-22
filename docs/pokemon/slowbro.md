@@ -1,5 +1,9 @@
 # #080 Slowbro (Hermit Crab Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/slowbro/official_artwork.png) | ![Shiny Artwork](../assets/sprites/slowbro/official_artwork_shiny.png) |
+
 Though usually dim witted, it seems to become inspired if the Shellder on its tail bites down.
 
 ---
@@ -8,7 +12,9 @@ Though usually dim witted, it seems to become inspired if the Shellder on its ta
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/slowbro/front.gif) | ![Back](../assets/sprites/slowbro/back.gif) | ![Front Shiny](../assets/sprites/slowbro/front_shiny.gif) | ![Back Shiny](../assets/sprites/slowbro/back_shiny.gif) |
 
 ### Cries
 

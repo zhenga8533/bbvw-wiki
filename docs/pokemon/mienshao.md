@@ -1,5 +1,9 @@
 # #620 Mienshao (Martial Arts Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/mienshao/official_artwork.png) | ![Shiny Artwork](../assets/sprites/mienshao/official_artwork_shiny.png) |
+
 **Blaze Black:** It wields the fur on its arms like a whip. Its arm attacks come with such rapidity that they cannot even be seen.
 
 **Volt White:** They use the long fur on their arms as a whip to strike their opponents.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/mienshao/front.gif) | ![Back](../assets/sprites/mienshao/back.gif) | ![Front Shiny](../assets/sprites/mienshao/front_shiny.gif) | ![Back Shiny](../assets/sprites/mienshao/back_shiny.gif) |
 
 ### Cries
 

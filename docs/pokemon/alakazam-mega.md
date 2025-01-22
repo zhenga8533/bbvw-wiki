@@ -1,5 +1,9 @@
 # #10037 Alakazam Mega (Psi Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/alakazam-mega/official_artwork.png) | ![Shiny Artwork](../assets/sprites/alakazam-mega/official_artwork_shiny.png) |
+
 The spoons clutched in its hands are said to have been created by its psychic powers.
 
 ---
@@ -8,7 +12,9 @@ The spoons clutched in its hands are said to have been created by its psychic po
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/alakazam-mega/front.png) | ![Back](../assets/sprites/alakazam-mega/back.png) | ![Front Shiny](../assets/sprites/alakazam-mega/front_shiny.png) | ![Back Shiny](../assets/sprites/alakazam-mega/back_shiny.png) |
 
 ### Cries
 

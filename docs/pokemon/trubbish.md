@@ -1,5 +1,9 @@
 # #568 Trubbish (Trash Bag Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/trubbish/official_artwork.png) | ![Shiny Artwork](../assets/sprites/trubbish/official_artwork_shiny.png) |
+
 **Blaze Black:** Inhaling the gas they belch will make you sleep for a week. They prefer unsanitary places.
 
 **Volt White:** The combination of garbage bags and industrial waste caused the chemical reaction that created this Pokémon.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/trubbish/front.gif) | ![Back](../assets/sprites/trubbish/back.gif) | ![Front Shiny](../assets/sprites/trubbish/front_shiny.gif) | ![Back Shiny](../assets/sprites/trubbish/back_shiny.gif) |
 
 ### Cries
 

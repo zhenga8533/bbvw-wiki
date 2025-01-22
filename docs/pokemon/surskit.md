@@ -1,5 +1,9 @@
 # #283 Surskit (Pond Skater Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/surskit/official_artwork.png) | ![Shiny Artwork](../assets/sprites/surskit/official_artwork_shiny.png) |
+
 It appears as if it is skating on water. It draws prey with a sweet scent from the tip of its head.
 
 ---
@@ -8,7 +12,9 @@ It appears as if it is skating on water. It draws prey with a sweet scent from t
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/surskit/front.gif) | ![Back](../assets/sprites/surskit/back.gif) | ![Front Shiny](../assets/sprites/surskit/front_shiny.gif) | ![Back Shiny](../assets/sprites/surskit/back_shiny.gif) |
 
 ### Cries
 

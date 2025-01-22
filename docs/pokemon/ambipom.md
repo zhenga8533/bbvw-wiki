@@ -1,5 +1,9 @@
 # #424 Ambipom (Long Tail Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/ambipom/official_artwork.png) | ![Shiny Artwork](../assets/sprites/ambipom/official_artwork_shiny.png) |
+
 Split into two, the tails are so adept at handling and doing things, Ambipom rarely uses its hands.
 
 ---
@@ -8,7 +12,15 @@ Split into two, the tails are so adept at handling and doing things, Ambipom rar
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/ambipom/front.gif) | ![Back](../assets/sprites/ambipom/back.gif) | ![Front Shiny](../assets/sprites/ambipom/front_shiny.gif) | ![Back Shiny](../assets/sprites/ambipom/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/ambipom/front_female.gif) | ![Back](../assets/sprites/ambipom/back_female.gif) | ![Front Shiny](../assets/sprites/ambipom/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/ambipom/back_shiny_female.gif) |
 
 ### Cries
 

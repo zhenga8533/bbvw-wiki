@@ -1,5 +1,9 @@
 # #392 Infernape (Flame Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/infernape/official_artwork.png) | ![Shiny Artwork](../assets/sprites/infernape/official_artwork_shiny.png) |
+
 It uses unique fighting moves with fire on its hands and feet. It will take on any opponent.
 
 ---
@@ -8,7 +12,9 @@ It uses unique fighting moves with fire on its hands and feet. It will take on a
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/infernape/front.gif) | ![Back](../assets/sprites/infernape/back.gif) | ![Front Shiny](../assets/sprites/infernape/front_shiny.gif) | ![Back Shiny](../assets/sprites/infernape/back_shiny.gif) |
 
 ### Cries
 

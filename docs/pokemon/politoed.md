@@ -1,5 +1,9 @@
 # #186 Politoed (Frog Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/politoed/official_artwork.png) | ![Shiny Artwork](../assets/sprites/politoed/official_artwork_shiny.png) |
+
 It gathers groups of others as their leader. Its cries make Poliwag obey.
 
 ---
@@ -8,7 +12,15 @@ It gathers groups of others as their leader. Its cries make Poliwag obey.
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/politoed/front.gif) | ![Back](../assets/sprites/politoed/back.gif) | ![Front Shiny](../assets/sprites/politoed/front_shiny.gif) | ![Back Shiny](../assets/sprites/politoed/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/politoed/front_female.gif) | ![Back](../assets/sprites/politoed/back_female.gif) | ![Front Shiny](../assets/sprites/politoed/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/politoed/back_shiny_female.gif) |
 
 ### Cries
 

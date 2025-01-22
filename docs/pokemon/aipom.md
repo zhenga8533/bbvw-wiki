@@ -1,5 +1,9 @@
 # #190 Aipom (Long Tail Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/aipom/official_artwork.png) | ![Shiny Artwork](../assets/sprites/aipom/official_artwork_shiny.png) |
+
 It lives high among the treetops. It can use its tail as freely and cleverly as its hands.
 
 ---
@@ -8,7 +12,15 @@ It lives high among the treetops. It can use its tail as freely and cleverly as 
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/aipom/front.gif) | ![Back](../assets/sprites/aipom/back.gif) | ![Front Shiny](../assets/sprites/aipom/front_shiny.gif) | ![Back Shiny](../assets/sprites/aipom/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/aipom/front_female.gif) | ![Back](../assets/sprites/aipom/back_female.gif) | ![Front Shiny](../assets/sprites/aipom/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/aipom/back_shiny_female.gif) |
 
 ### Cries
 

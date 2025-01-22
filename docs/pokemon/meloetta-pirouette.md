@@ -1,5 +1,9 @@
 # #10018 Meloetta Pirouette (Melody Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/meloetta-pirouette/official_artwork.png) | ![Shiny Artwork](../assets/sprites/meloetta-pirouette/official_artwork_shiny.png) |
+
 **Blaze Black:** Its melodies are sung with a special vocalization method that can control the feelings of those who hear it.
 
 **Volt White:** Many famous songs have been inspired by the melodies that Meloetta plays.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/meloetta-pirouette/front.gif) | ![Back](../assets/sprites/meloetta-pirouette/back.gif) | ![Front Shiny](../assets/sprites/meloetta-pirouette/front_shiny.gif) | ![Back Shiny](../assets/sprites/meloetta-pirouette/back_shiny.gif) |
 
 ### Cries
 

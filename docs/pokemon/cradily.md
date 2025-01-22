@@ -1,5 +1,9 @@
 # #346 Cradily (Barnacle Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/cradily/official_artwork.png) | ![Shiny Artwork](../assets/sprites/cradily/official_artwork_shiny.png) |
+
 It lives in the shallows of warm seas. When the tide goes out, it digs up prey from beaches.
 
 ---
@@ -8,7 +12,9 @@ It lives in the shallows of warm seas. When the tide goes out, it digs up prey f
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/cradily/front.gif) | ![Back](../assets/sprites/cradily/back.gif) | ![Front Shiny](../assets/sprites/cradily/front_shiny.gif) | ![Back Shiny](../assets/sprites/cradily/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #277 Swellow (Swallow Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/swellow/official_artwork.png) | ![Shiny Artwork](../assets/sprites/swellow/official_artwork_shiny.png) |
+
 It circles the sky in search of prey. When it spots one, it dives steeply to catch the prey.
 
 ---
@@ -8,7 +12,9 @@ It circles the sky in search of prey. When it spots one, it dives steeply to cat
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/swellow/front.gif) | ![Back](../assets/sprites/swellow/back.gif) | ![Front Shiny](../assets/sprites/swellow/front_shiny.gif) | ![Back Shiny](../assets/sprites/swellow/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #201 Unown (Symbol Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/unown/official_artwork.png) | ![Shiny Artwork](../assets/sprites/unown/official_artwork_shiny.png) |
+
 When alone, nothing happens. However, if there are two or more, an odd power is said to emerge.
 
 ---
@@ -8,7 +12,9 @@ When alone, nothing happens. However, if there are two or more, an odd power is 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/unown/front.gif) | ![Back](../assets/sprites/unown/back.gif) | ![Front Shiny](../assets/sprites/unown/front_shiny.gif) | ![Back Shiny](../assets/sprites/unown/back_shiny.gif) |
 
 ### Cries
 

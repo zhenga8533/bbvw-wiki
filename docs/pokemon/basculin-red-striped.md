@@ -1,5 +1,9 @@
 # #550 Basculin Red Striped (Hostile Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/basculin-red-striped/official_artwork.png) | ![Shiny Artwork](../assets/sprites/basculin-red-striped/official_artwork_shiny.png) |
+
 **Blaze Black:** Red and blue Basculin get along so poorly, they’ll start fighting instantly. These Pokémon are very hostile.
 
 **Volt White:** Red and blue Basculin usually do not get along, but sometimes members of one school mingle with the other’s school.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/basculin-red-striped/front.gif) | ![Back](../assets/sprites/basculin-red-striped/back.gif) | ![Front Shiny](../assets/sprites/basculin-red-striped/front_shiny.gif) | ![Back Shiny](../assets/sprites/basculin-red-striped/back_shiny.gif) |
 
 ### Cries
 

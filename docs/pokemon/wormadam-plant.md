@@ -1,5 +1,9 @@
 # #413 Wormadam Plant (Bagworm Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/wormadam-plant/official_artwork.png) | ![Shiny Artwork](../assets/sprites/wormadam-plant/official_artwork_shiny.png) |
+
 When evolving, its body takes in surrounding materials. As a result, there are many body variations.
 
 ---
@@ -8,7 +12,9 @@ When evolving, its body takes in surrounding materials. As a result, there are m
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/wormadam-plant/front.gif) | ![Back](../assets/sprites/wormadam-plant/back.gif) | ![Front Shiny](../assets/sprites/wormadam-plant/front_shiny.gif) | ![Back Shiny](../assets/sprites/wormadam-plant/back_shiny.gif) |
 
 ### Cries
 

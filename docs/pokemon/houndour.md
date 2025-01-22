@@ -1,5 +1,9 @@
 # #228 Houndour (Dark Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/houndour/official_artwork.png) | ![Shiny Artwork](../assets/sprites/houndour/official_artwork_shiny.png) |
+
 It is smart enough to hunt in packs. It uses a variety of cries for communicating with others.
 
 ---
@@ -8,7 +12,9 @@ It is smart enough to hunt in packs. It uses a variety of cries for communicatin
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/houndour/front.gif) | ![Back](../assets/sprites/houndour/back.gif) | ![Front Shiny](../assets/sprites/houndour/front_shiny.gif) | ![Back Shiny](../assets/sprites/houndour/back_shiny.gif) |
 
 ### Cries
 

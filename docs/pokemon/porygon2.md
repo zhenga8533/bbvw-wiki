@@ -1,5 +1,9 @@
 # #233 Porygon2 (Virtual Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/porygon2/official_artwork.png) | ![Shiny Artwork](../assets/sprites/porygon2/official_artwork_shiny.png) |
+
 It was upgraded to enable the exploration of other planets. However, it failed to measure up.
 
 ---
@@ -8,7 +12,9 @@ It was upgraded to enable the exploration of other planets. However, it failed t
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/porygon2/front.gif) | ![Back](../assets/sprites/porygon2/back.gif) | ![Front Shiny](../assets/sprites/porygon2/front_shiny.gif) | ![Back Shiny](../assets/sprites/porygon2/back_shiny.gif) |
 
 ### Cries
 

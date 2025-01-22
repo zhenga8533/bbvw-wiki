@@ -1,5 +1,9 @@
 # #245 Suicune (Aurora Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/suicune/official_artwork.png) | ![Shiny Artwork](../assets/sprites/suicune/official_artwork_shiny.png) |
+
 It races around the world to purify fouled water. It dashes away with the north wind.
 
 ---
@@ -8,7 +12,9 @@ It races around the world to purify fouled water. It dashes away with the north 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/suicune/front.gif) | ![Back](../assets/sprites/suicune/back.gif) | ![Front Shiny](../assets/sprites/suicune/front_shiny.gif) | ![Back Shiny](../assets/sprites/suicune/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #299 Nosepass (Compass Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/nosepass/official_artwork.png) | ![Shiny Artwork](../assets/sprites/nosepass/official_artwork_shiny.png) |
+
 When endangered, it may protect itself by raising its magnetism and drawing iron objects to its body.
 
 ---
@@ -8,7 +12,9 @@ When endangered, it may protect itself by raising its magnetism and drawing iron
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/nosepass/front.gif) | ![Back](../assets/sprites/nosepass/back.gif) | ![Front Shiny](../assets/sprites/nosepass/front_shiny.gif) | ![Back Shiny](../assets/sprites/nosepass/back_shiny.gif) |
 
 ### Cries
 

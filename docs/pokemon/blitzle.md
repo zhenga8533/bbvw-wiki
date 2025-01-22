@@ -1,5 +1,9 @@
 # #522 Blitzle (Electrified Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/blitzle/official_artwork.png) | ![Shiny Artwork](../assets/sprites/blitzle/official_artwork_shiny.png) |
+
 **Blaze Black:** Its mane shines when it discharges electricity. They use their flashing manes to communicate with one another.
 
 **Volt White:** When thunderclouds cover the sky, it will appear. It can catch lightning with its mane and store the electricity.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/blitzle/front.gif) | ![Back](../assets/sprites/blitzle/back.gif) | ![Front Shiny](../assets/sprites/blitzle/front_shiny.gif) | ![Back Shiny](../assets/sprites/blitzle/back_shiny.gif) |
 
 ### Cries
 

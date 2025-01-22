@@ -1,5 +1,9 @@
 # #408 Cranidos (Head Butt Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/cranidos/official_artwork.png) | ![Shiny Artwork](../assets/sprites/cranidos/official_artwork_shiny.png) |
+
 A lifelong jungle dweller from 100 million years ago, it would snap obstructing trees with head butts.
 
 ---
@@ -8,7 +12,9 @@ A lifelong jungle dweller from 100 million years ago, it would snap obstructing 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/cranidos/front.gif) | ![Back](../assets/sprites/cranidos/back.gif) | ![Front Shiny](../assets/sprites/cranidos/front_shiny.gif) | ![Back Shiny](../assets/sprites/cranidos/back_shiny.gif) |
 
 ### Cries
 

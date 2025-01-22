@@ -1,5 +1,9 @@
 # #148 Dragonair (Dragon Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/dragonair/official_artwork.png) | ![Shiny Artwork](../assets/sprites/dragonair/official_artwork_shiny.png) |
+
 If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.
 
 ---
@@ -8,7 +12,9 @@ If its body takes on an aura, the weather changes instantly. It is said to live 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/dragonair/front.gif) | ![Back](../assets/sprites/dragonair/back.gif) | ![Front Shiny](../assets/sprites/dragonair/front_shiny.gif) | ![Back Shiny](../assets/sprites/dragonair/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #10172 Slowking Galar (Royal Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/slowking-galar/official_artwork.png) | ![Shiny Artwork](../assets/sprites/slowking-galar/official_artwork_shiny.png) |
+
 Being bitten by Shellder gave it intelligence comparable to that of award-winning scientists.
 
 ---
@@ -8,7 +12,9 @@ Being bitten by Shellder gave it intelligence comparable to that of award-winnin
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/slowking-galar/front.png) | ![Back](../assets/sprites/slowking-galar/back.png) | ![Front Shiny](../assets/sprites/slowking-galar/front_shiny.png) | ![Back Shiny](../assets/sprites/slowking-galar/back_shiny.png) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #422 Shellos (Sea Slug Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/shellos/official_artwork.png) | ![Shiny Artwork](../assets/sprites/shellos/official_artwork_shiny.png) |
+
 Beware of pushing strongly on its squishy body, as it makes a mysterious purple fluid ooze out.
 
 ---
@@ -8,7 +12,9 @@ Beware of pushing strongly on its squishy body, as it makes a mysterious purple 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/shellos/front.gif) | ![Back](../assets/sprites/shellos/back.gif) | ![Front Shiny](../assets/sprites/shellos/front_shiny.gif) | ![Back Shiny](../assets/sprites/shellos/back_shiny.gif) |
 
 ### Cries
 

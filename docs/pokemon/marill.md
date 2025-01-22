@@ -1,5 +1,9 @@
 # #183 Marill (Aqua Mouse Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/marill/official_artwork.png) | ![Shiny Artwork](../assets/sprites/marill/official_artwork_shiny.png) |
+
 The oil-filled end of its tail floats on water. It keeps Marill from drowning even in a strong current.
 
 ---
@@ -8,7 +12,9 @@ The oil-filled end of its tail floats on water. It keeps Marill from drowning ev
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/marill/front.gif) | ![Back](../assets/sprites/marill/back.gif) | ![Front Shiny](../assets/sprites/marill/front_shiny.gif) | ![Back Shiny](../assets/sprites/marill/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #10246 Palkia Origin (Spatial Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/palkia-origin/official_artwork.png) | ![Shiny Artwork](../assets/sprites/palkia-origin/official_artwork_shiny.png) |
+
 A legendary Pokémon of Sinnoh. It is said that space becomes more stable with Palkia’s every breath.
 
 ---
@@ -7,8 +11,6 @@ A legendary Pokémon of Sinnoh. It is said that space becomes more stable with P
 ## Media
 
 ### Sprites
-
-### Female Sprites
 
 ### Cries
 

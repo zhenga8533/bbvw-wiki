@@ -1,5 +1,9 @@
 # #458 Mantyke (Kite Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/mantyke/official_artwork.png) | ![Shiny Artwork](../assets/sprites/mantyke/official_artwork_shiny.png) |
+
 People organize tours to see this Pokémon frolic and skim the tops of waves with Remoraid.
 
 ---
@@ -8,7 +12,9 @@ People organize tours to see this Pokémon frolic and skim the tops of waves wit
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/mantyke/front.gif) | ![Back](../assets/sprites/mantyke/back.gif) | ![Front Shiny](../assets/sprites/mantyke/front_shiny.gif) | ![Back Shiny](../assets/sprites/mantyke/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #614 Beartic (Freezing Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/beartic/official_artwork.png) | ![Shiny Artwork](../assets/sprites/beartic/official_artwork_shiny.png) |
+
 **Blaze Black:** It can make its breath freeze at will. Very able in the water, it swims around in northern seas and catches prey.
 
 **Volt White:** It freezes its breath to create fangs and claws of ice to fight with. Cold northern areas are its habitat.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/beartic/front.gif) | ![Back](../assets/sprites/beartic/back.gif) | ![Front Shiny](../assets/sprites/beartic/front_shiny.gif) | ![Back Shiny](../assets/sprites/beartic/back_shiny.gif) |
 
 ### Cries
 

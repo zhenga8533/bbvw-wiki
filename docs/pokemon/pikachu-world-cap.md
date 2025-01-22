@@ -1,5 +1,9 @@
 # #10160 Pikachu World Cap (Mouse Pokémon)
 
+| Official Artwork |
+| --- |
+| ![Official Artwork](../assets/sprites/pikachu-world-cap/official_artwork.png) |
+
 It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.
 
 ---
@@ -7,8 +11,6 @@ It occasionally uses an electric shock to recharge a fellow Pikachu that is in a
 ## Media
 
 ### Sprites
-
-### Female Sprites
 
 ### Cries
 

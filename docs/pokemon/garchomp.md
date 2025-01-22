@@ -1,5 +1,9 @@
 # #445 Garchomp (Mach Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/garchomp/official_artwork.png) | ![Shiny Artwork](../assets/sprites/garchomp/official_artwork_shiny.png) |
+
 It is said that when one runs at high speed, its wings create blades of wind that can fell nearby trees.
 
 ---
@@ -8,7 +12,15 @@ It is said that when one runs at high speed, its wings create blades of wind tha
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/garchomp/front.gif) | ![Back](../assets/sprites/garchomp/back.gif) | ![Front Shiny](../assets/sprites/garchomp/front_shiny.gif) | ![Back Shiny](../assets/sprites/garchomp/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/garchomp/front_female.gif) | ![Back](../assets/sprites/garchomp/back_female.gif) | ![Front Shiny](../assets/sprites/garchomp/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/garchomp/back_shiny_female.gif) |
 
 ### Cries
 

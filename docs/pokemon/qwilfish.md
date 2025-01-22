@@ -1,5 +1,9 @@
 # #211 Qwilfish (Balloon Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/qwilfish/official_artwork.png) | ![Shiny Artwork](../assets/sprites/qwilfish/official_artwork_shiny.png) |
+
 It shoots the poison spines on its body in all directions. Its round form makes it a poor swimmer.
 
 ---
@@ -8,7 +12,9 @@ It shoots the poison spines on its body in all directions. Its round form makes 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/qwilfish/front.gif) | ![Back](../assets/sprites/qwilfish/back.gif) | ![Front Shiny](../assets/sprites/qwilfish/front_shiny.gif) | ![Back Shiny](../assets/sprites/qwilfish/back_shiny.gif) |
 
 ### Cries
 

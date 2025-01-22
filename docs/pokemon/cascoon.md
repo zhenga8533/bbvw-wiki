@@ -1,5 +1,9 @@
 # #268 Cascoon (Cocoon Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/cascoon/official_artwork.png) | ![Shiny Artwork](../assets/sprites/cascoon/official_artwork_shiny.png) |
+
 It never forgets any attack it endured while in the cocoon. After evolution, it seeks payback.
 
 ---
@@ -8,7 +12,9 @@ It never forgets any attack it endured while in the cocoon. After evolution, it 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/cascoon/front.gif) | ![Back](../assets/sprites/cascoon/back.gif) | ![Front Shiny](../assets/sprites/cascoon/front_shiny.gif) | ![Back Shiny](../assets/sprites/cascoon/back_shiny.gif) |
 
 ### Cries
 

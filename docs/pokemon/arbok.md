@@ -1,5 +1,9 @@
 # #024 Arbok (Cobra Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/arbok/official_artwork.png) | ![Shiny Artwork](../assets/sprites/arbok/official_artwork_shiny.png) |
+
 The pattern on its belly is for intimidation. It constricts foes while they are frozen in fear.
 
 ---
@@ -8,7 +12,9 @@ The pattern on its belly is for intimidation. It constricts foes while they are 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/arbok/front.gif) | ![Back](../assets/sprites/arbok/back.gif) | ![Front Shiny](../assets/sprites/arbok/front_shiny.gif) | ![Back Shiny](../assets/sprites/arbok/back_shiny.gif) |
 
 ### Cries
 

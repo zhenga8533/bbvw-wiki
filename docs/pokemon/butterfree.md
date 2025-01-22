@@ -1,5 +1,9 @@
 # #012 Butterfree (Butterfly Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/butterfree/official_artwork.png) | ![Shiny Artwork](../assets/sprites/butterfree/official_artwork_shiny.png) |
+
 It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.
 
 ---
@@ -8,7 +12,15 @@ It loves the honey of flowers and can locate flower patches that have even tiny 
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/butterfree/front.gif) | ![Back](../assets/sprites/butterfree/back.gif) | ![Front Shiny](../assets/sprites/butterfree/front_shiny.gif) | ![Back Shiny](../assets/sprites/butterfree/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/butterfree/front_female.gif) | ![Back](../assets/sprites/butterfree/back_female.gif) | ![Front Shiny](../assets/sprites/butterfree/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/butterfree/back_shiny_female.gif) |
 
 ### Cries
 

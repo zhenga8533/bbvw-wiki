@@ -1,5 +1,9 @@
 # #623 Golurk (Automaton Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/golurk/official_artwork.png) | ![Shiny Artwork](../assets/sprites/golurk/official_artwork_shiny.png) |
+
 **Blaze Black:** It flies across the sky at Mach speeds. Removing the seal on its chest makes its internal energy go out of control.
 
 **Volt White:** It is said that Golurk were ordered to protect people and Pokémon by the ancient people who made them.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/golurk/front.gif) | ![Back](../assets/sprites/golurk/back.gif) | ![Front Shiny](../assets/sprites/golurk/front_shiny.gif) | ![Back Shiny](../assets/sprites/golurk/back_shiny.gif) |
 
 ### Cries
 

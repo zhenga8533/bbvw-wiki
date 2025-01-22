@@ -1,5 +1,9 @@
 # #10004 Wormadam Sandy (Bagworm Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/wormadam-sandy/official_artwork.png) | ![Shiny Artwork](../assets/sprites/wormadam-sandy/official_artwork_shiny.png) |
+
 When evolving, its body takes in surrounding materials. As a result, there are many body variations.
 
 ---
@@ -8,7 +12,9 @@ When evolving, its body takes in surrounding materials. As a result, there are m
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/wormadam-sandy/front.gif) | ![Back](../assets/sprites/wormadam-sandy/back.gif) | ![Front Shiny](../assets/sprites/wormadam-sandy/front_shiny.gif) | ![Back Shiny](../assets/sprites/wormadam-sandy/back_shiny.gif) |
 
 ### Cries
 

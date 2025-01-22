@@ -1,5 +1,9 @@
 # #136 Flareon (Flame Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/flareon/official_artwork.png) | ![Shiny Artwork](../assets/sprites/flareon/official_artwork_shiny.png) |
+
 Inhaled air is heated in the flame sac in its body to an intense fire over 3,000 degrees Fahrenheit.
 
 ---
@@ -8,7 +12,9 @@ Inhaled air is heated in the flame sac in its body to an intense fire over 3,000
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/flareon/front.gif) | ![Back](../assets/sprites/flareon/back.gif) | ![Front Shiny](../assets/sprites/flareon/front_shiny.gif) | ![Back Shiny](../assets/sprites/flareon/back_shiny.gif) |
 
 ### Cries
 

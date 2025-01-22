@@ -1,5 +1,9 @@
 # #490 Manaphy (Seafaring Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/manaphy/official_artwork.png) | ![Shiny Artwork](../assets/sprites/manaphy/official_artwork_shiny.png) |
+
 It is born with a wondrous power that lets it bond with any kind of Pokémon.
 
 ---
@@ -8,7 +12,9 @@ It is born with a wondrous power that lets it bond with any kind of Pokémon.
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/manaphy/front.gif) | ![Back](../assets/sprites/manaphy/back.gif) | ![Front Shiny](../assets/sprites/manaphy/front_shiny.gif) | ![Back Shiny](../assets/sprites/manaphy/back_shiny.gif) |
 
 ### Cries
 

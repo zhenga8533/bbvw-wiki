@@ -1,5 +1,9 @@
 # #471 Glaceon (Fresh Snow Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/glaceon/official_artwork.png) | ![Shiny Artwork](../assets/sprites/glaceon/official_artwork_shiny.png) |
+
 By controlling its body heat, it can freeze the atmosphere around it to make a diamond-dust flurry.
 
 ---
@@ -8,7 +12,9 @@ By controlling its body heat, it can freeze the atmosphere around it to make a d
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/glaceon/front.gif) | ![Back](../assets/sprites/glaceon/back.gif) | ![Front Shiny](../assets/sprites/glaceon/front_shiny.gif) | ![Back Shiny](../assets/sprites/glaceon/back_shiny.gif) |
 
 ### Cries
 

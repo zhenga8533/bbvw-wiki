@@ -1,5 +1,9 @@
 # #062 Poliwrath (Tadpole Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/poliwrath/official_artwork.png) | ![Shiny Artwork](../assets/sprites/poliwrath/official_artwork_shiny.png) |
+
 With its extremely tough muscles, it can keep swimming in the Pacific Ocean without resting.
 
 ---
@@ -8,7 +12,9 @@ With its extremely tough muscles, it can keep swimming in the Pacific Ocean with
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/poliwrath/front.gif) | ![Back](../assets/sprites/poliwrath/back.gif) | ![Front Shiny](../assets/sprites/poliwrath/front_shiny.gif) | ![Back Shiny](../assets/sprites/poliwrath/back_shiny.gif) |
 
 ### Cries
 

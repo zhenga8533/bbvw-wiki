@@ -1,5 +1,9 @@
 # #063 Abra (Psi Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/abra/official_artwork.png) | ![Shiny Artwork](../assets/sprites/abra/official_artwork_shiny.png) |
+
 Using its psychic power is such a strain on its brain that it needs to sleep for 18 hours a day.
 
 ---
@@ -8,7 +12,9 @@ Using its psychic power is such a strain on its brain that it needs to sleep for
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/abra/front.gif) | ![Back](../assets/sprites/abra/back.gif) | ![Front Shiny](../assets/sprites/abra/front_shiny.gif) | ![Back Shiny](../assets/sprites/abra/back_shiny.gif) |
 
 ### Cries
 

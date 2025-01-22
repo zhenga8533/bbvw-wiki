@@ -1,5 +1,9 @@
 # #10148 Pikachu Partner Cap (Mouse Pokémon)
 
+| Official Artwork |
+| --- |
+| ![Official Artwork](../assets/sprites/pikachu-partner-cap/official_artwork.png) |
+
 It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.
 
 ---
@@ -8,7 +12,9 @@ It occasionally uses an electric shock to recharge a fellow Pikachu that is in a
 
 ### Sprites
 
-### Female Sprites
+| Front | Front Shiny |
+| --- | --- |
+| ![Front](../assets/sprites/pikachu-partner-cap/front.png) | ![Front Shiny](../assets/sprites/pikachu-partner-cap/front_shiny.png) |
 
 ### Cries
 

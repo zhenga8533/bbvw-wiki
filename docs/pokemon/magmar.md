@@ -1,5 +1,9 @@
 # #126 Magmar (Spitfire Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/magmar/official_artwork.png) | ![Shiny Artwork](../assets/sprites/magmar/official_artwork_shiny.png) |
+
 When it breathes deeply, heat waves form around its body, making it hard to see clearly.
 
 ---
@@ -8,7 +12,9 @@ When it breathes deeply, heat waves form around its body, making it hard to see 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/magmar/front.gif) | ![Back](../assets/sprites/magmar/back.gif) | ![Front Shiny](../assets/sprites/magmar/front_shiny.gif) | ![Back Shiny](../assets/sprites/magmar/back_shiny.gif) |
 
 ### Cries
 

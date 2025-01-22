@@ -1,5 +1,9 @@
 # #157 Typhlosion (Volcano Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/typhlosion/official_artwork.png) | ![Shiny Artwork](../assets/sprites/typhlosion/official_artwork_shiny.png) |
+
 It attacks using blasts of fire. It creates heat shimmers with intense fire to hide itself.
 
 ---
@@ -8,7 +12,9 @@ It attacks using blasts of fire. It creates heat shimmers with intense fire to h
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/typhlosion/front.gif) | ![Back](../assets/sprites/typhlosion/back.gif) | ![Front Shiny](../assets/sprites/typhlosion/front_shiny.gif) | ![Back Shiny](../assets/sprites/typhlosion/back_shiny.gif) |
 
 ### Cries
 

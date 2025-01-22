@@ -1,5 +1,9 @@
 # #236 Tyrogue (Scuffle Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/tyrogue/official_artwork.png) | ![Shiny Artwork](../assets/sprites/tyrogue/official_artwork_shiny.png) |
+
 It is famous for its eagerness to fight and always nurses injuries from challenging larger foes.
 
 ---
@@ -8,7 +12,9 @@ It is famous for its eagerness to fight and always nurses injuries from challeng
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/tyrogue/front.gif) | ![Back](../assets/sprites/tyrogue/back.gif) | ![Front Shiny](../assets/sprites/tyrogue/front_shiny.gif) | ![Back Shiny](../assets/sprites/tyrogue/back_shiny.gif) |
 
 ### Cries
 

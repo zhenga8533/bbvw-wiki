@@ -1,5 +1,9 @@
 # #553 Krookodile (Intimidation Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/krookodile/official_artwork.png) | ![Shiny Artwork](../assets/sprites/krookodile/official_artwork_shiny.png) |
+
 **Blaze Black:** They never allow prey to escape. Their jaws are so powerful, they can crush the body of an automobile.
 
 **Volt White:** It can expand the focus of its eyes, enabling it to see objects in the far distance as if it were using binoculars.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/krookodile/front.gif) | ![Back](../assets/sprites/krookodile/back.gif) | ![Front Shiny](../assets/sprites/krookodile/front_shiny.gif) | ![Back Shiny](../assets/sprites/krookodile/back_shiny.gif) |
 
 ### Cries
 

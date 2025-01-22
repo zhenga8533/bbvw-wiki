@@ -1,5 +1,9 @@
 # #161 Sentret (Scout Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/sentret/official_artwork.png) | ![Shiny Artwork](../assets/sprites/sentret/official_artwork_shiny.png) |
+
 It has a very nervous nature. It stands up high on its tail so it can scan wide areas.
 
 ---
@@ -8,7 +12,9 @@ It has a very nervous nature. It stands up high on its tail so it can scan wide 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/sentret/front.gif) | ![Back](../assets/sprites/sentret/back.gif) | ![Front Shiny](../assets/sprites/sentret/front_shiny.gif) | ![Back Shiny](../assets/sprites/sentret/back_shiny.gif) |
 
 ### Cries
 

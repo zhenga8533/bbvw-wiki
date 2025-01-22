@@ -1,5 +1,9 @@
 # #635 Hydreigon (Brutal Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/hydreigon/official_artwork.png) | ![Shiny Artwork](../assets/sprites/hydreigon/official_artwork_shiny.png) |
+
 **Blaze Black:** This brutal Pokémon travels the skies on its six wings. Anything that moves seems like a foe to it, triggering its attack.
 
 **Volt White:** The heads on their arms do not have brains. They use all three heads to consume and destroy everything.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/hydreigon/front.gif) | ![Back](../assets/sprites/hydreigon/back.gif) | ![Front Shiny](../assets/sprites/hydreigon/front_shiny.gif) | ![Back Shiny](../assets/sprites/hydreigon/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #092 Gastly (Gas Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/gastly/official_artwork.png) | ![Shiny Artwork](../assets/sprites/gastly/official_artwork_shiny.png) |
+
 Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.
 
 ---
@@ -8,7 +12,9 @@ Born from gases, anyone would faint if engulfed by its gaseous body, which conta
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/gastly/front.gif) | ![Back](../assets/sprites/gastly/back.gif) | ![Front Shiny](../assets/sprites/gastly/front_shiny.gif) | ![Back Shiny](../assets/sprites/gastly/back_shiny.gif) |
 
 ### Cries
 

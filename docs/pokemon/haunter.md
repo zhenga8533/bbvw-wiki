@@ -1,5 +1,9 @@
 # #093 Haunter (Gas Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/haunter/official_artwork.png) | ![Shiny Artwork](../assets/sprites/haunter/official_artwork_shiny.png) |
+
 It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.
 
 ---
@@ -8,7 +12,9 @@ It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch ca
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/haunter/front.gif) | ![Back](../assets/sprites/haunter/back.gif) | ![Front Shiny](../assets/sprites/haunter/front_shiny.gif) | ![Back Shiny](../assets/sprites/haunter/back_shiny.gif) |
 
 ### Cries
 

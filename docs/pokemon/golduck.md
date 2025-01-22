@@ -1,5 +1,9 @@
 # #055 Golduck (Duck Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/golduck/official_artwork.png) | ![Shiny Artwork](../assets/sprites/golduck/official_artwork_shiny.png) |
+
 It is seen swimming dynamically and elegantly using its well-developed limbs and flippers.
 
 ---
@@ -8,7 +12,9 @@ It is seen swimming dynamically and elegantly using its well-developed limbs and
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/golduck/front.gif) | ![Back](../assets/sprites/golduck/back.gif) | ![Front Shiny](../assets/sprites/golduck/front_shiny.gif) | ![Back Shiny](../assets/sprites/golduck/back_shiny.gif) |
 
 ### Cries
 

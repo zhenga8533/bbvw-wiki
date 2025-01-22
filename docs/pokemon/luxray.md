@@ -1,5 +1,9 @@
 # #405 Luxray (Gleam Eyes Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/luxray/official_artwork.png) | ![Shiny Artwork](../assets/sprites/luxray/official_artwork_shiny.png) |
+
 It can see clearly through walls to track down its prey and seek its lost young.
 
 ---
@@ -8,7 +12,15 @@ It can see clearly through walls to track down its prey and seek its lost young.
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/luxray/front.gif) | ![Back](../assets/sprites/luxray/back.gif) | ![Front Shiny](../assets/sprites/luxray/front_shiny.gif) | ![Back Shiny](../assets/sprites/luxray/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/luxray/front_female.gif) | ![Back](../assets/sprites/luxray/back_female.gif) | ![Front Shiny](../assets/sprites/luxray/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/luxray/back_shiny_female.gif) |
 
 ### Cries
 

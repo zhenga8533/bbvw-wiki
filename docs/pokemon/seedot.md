@@ -1,5 +1,9 @@
 # #273 Seedot (Acorn Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/seedot/official_artwork.png) | ![Shiny Artwork](../assets/sprites/seedot/official_artwork_shiny.png) |
+
 When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon.
 
 ---
@@ -8,7 +12,9 @@ When it dangles from a tree branch, it looks just like an acorn. It enjoys scari
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/seedot/front.gif) | ![Back](../assets/sprites/seedot/back.gif) | ![Front Shiny](../assets/sprites/seedot/front_shiny.gif) | ![Back Shiny](../assets/sprites/seedot/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #10114 Exeggutor Alola (Coconut Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/exeggutor-alola/official_artwork.png) | ![Shiny Artwork](../assets/sprites/exeggutor-alola/official_artwork_shiny.png) |
+
 It is called “The Walking Jungle.” If a head grows too big, it falls off and becomes an Exeggcute.
 
 ---
@@ -8,7 +12,9 @@ It is called “The Walking Jungle.” If a head grows too big, it falls off and
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/exeggutor-alola/front.png) | ![Back](../assets/sprites/exeggutor-alola/back.png) | ![Front Shiny](../assets/sprites/exeggutor-alola/front_shiny.png) | ![Back Shiny](../assets/sprites/exeggutor-alola/back_shiny.png) |
 
 ### Cries
 

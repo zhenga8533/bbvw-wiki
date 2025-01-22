@@ -1,5 +1,9 @@
 # #519 Pidove (Tiny Pigeon Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/pidove/official_artwork.png) | ![Shiny Artwork](../assets/sprites/pidove/official_artwork_shiny.png) |
+
 **Blaze Black:** Each follows its Trainer’s orders as best it can, but they sometimes fail to understand complicated commands.
 
 **Volt White:** These Pokémon live in cities. They are accustomed to people. Flocks often gather in parks and plazas.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/pidove/front.gif) | ![Back](../assets/sprites/pidove/back.gif) | ![Front Shiny](../assets/sprites/pidove/front_shiny.gif) | ![Back Shiny](../assets/sprites/pidove/back_shiny.gif) |
 
 ### Cries
 

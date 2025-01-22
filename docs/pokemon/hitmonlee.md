@@ -1,5 +1,9 @@
 # #106 Hitmonlee (Kicking Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/hitmonlee/official_artwork.png) | ![Shiny Artwork](../assets/sprites/hitmonlee/official_artwork_shiny.png) |
+
 Its legs can stretch double. First-time foes are startled by its extensible reach.
 
 ---
@@ -8,7 +12,9 @@ Its legs can stretch double. First-time foes are startled by its extensible reac
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/hitmonlee/front.gif) | ![Back](../assets/sprites/hitmonlee/back.gif) | ![Front Shiny](../assets/sprites/hitmonlee/front_shiny.gif) | ![Back Shiny](../assets/sprites/hitmonlee/back_shiny.gif) |
 
 ### Cries
 

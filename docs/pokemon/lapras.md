@@ -1,5 +1,9 @@
 # #131 Lapras (Transport Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/lapras/official_artwork.png) | ![Shiny Artwork](../assets/sprites/lapras/official_artwork_shiny.png) |
+
 It loves crossing the sea with people and Pokémon on its back. It understands human speech.
 
 ---
@@ -8,7 +12,9 @@ It loves crossing the sea with people and Pokémon on its back. It understands h
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/lapras/front.gif) | ![Back](../assets/sprites/lapras/back.gif) | ![Front Shiny](../assets/sprites/lapras/front_shiny.gif) | ![Back Shiny](../assets/sprites/lapras/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #516 Simipour (Geyser Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/simipour/official_artwork.png) | ![Shiny Artwork](../assets/sprites/simipour/official_artwork_shiny.png) |
+
 **Blaze Black:** The tuft on its head holds water. When the level runs low, it replenishes the tuft by siphoning up water with its tail.
 
 **Volt White:** The high-pressure water expelled from its tail is so powerful, it can destroy a concrete wall.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/simipour/front.gif) | ![Back](../assets/sprites/simipour/back.gif) | ![Front Shiny](../assets/sprites/simipour/front_shiny.gif) | ![Back Shiny](../assets/sprites/simipour/back_shiny.gif) |
 
 ### Cries
 

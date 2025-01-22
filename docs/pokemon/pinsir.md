@@ -1,5 +1,9 @@
 # #127 Pinsir (Stag Beetle Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/pinsir/official_artwork.png) | ![Shiny Artwork](../assets/sprites/pinsir/official_artwork_shiny.png) |
+
 It grips prey with its pincers until the prey is torn in half. What it can’t tear, it tosses far.
 
 ---
@@ -8,7 +12,9 @@ It grips prey with its pincers until the prey is torn in half. What it can’t t
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/pinsir/front.gif) | ![Back](../assets/sprites/pinsir/back.gif) | ![Front Shiny](../assets/sprites/pinsir/front_shiny.gif) | ![Back Shiny](../assets/sprites/pinsir/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #10033 Venusaur Mega (Seed Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/venusaur-mega/official_artwork.png) | ![Shiny Artwork](../assets/sprites/venusaur-mega/official_artwork_shiny.png) |
+
 After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.
 
 ---
@@ -8,7 +12,15 @@ After a rainy day, the flower on its back smells stronger. The scent attracts ot
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/venusaur-mega/front.png) | ![Back](../assets/sprites/venusaur-mega/back.png) | ![Front Shiny](../assets/sprites/venusaur-mega/front_shiny.png) | ![Back Shiny](../assets/sprites/venusaur-mega/back_shiny.png) |
+
 ### Female Sprites
+
+| Front |
+| --- |
+| ![Front](../assets/sprites/venusaur-mega/front_female.png) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #10063 Latios Mega (Eon Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/latios-mega/official_artwork.png) | ![Shiny Artwork](../assets/sprites/latios-mega/official_artwork_shiny.png) |
+
 A highly intelligent Pokémon. By folding back its wings in flight, it can overtake jet planes.
 
 ---
@@ -8,7 +12,9 @@ A highly intelligent Pokémon. By folding back its wings in flight, it can overt
 
 ### Sprites
 
-### Female Sprites
+| Front | Front Shiny |
+| --- | --- |
+| ![Front](../assets/sprites/latios-mega/front.png) | ![Front Shiny](../assets/sprites/latios-mega/front_shiny.png) |
 
 ### Cries
 

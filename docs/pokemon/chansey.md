@@ -1,5 +1,9 @@
 # #113 Chansey (Egg Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/chansey/official_artwork.png) | ![Shiny Artwork](../assets/sprites/chansey/official_artwork_shiny.png) |
+
 A kindly Pokémon that lays highly nutritious eggs and shares them with injured Pokémon or people.
 
 ---
@@ -8,7 +12,9 @@ A kindly Pokémon that lays highly nutritious eggs and shares them with injured 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/chansey/front.gif) | ![Back](../assets/sprites/chansey/back.gif) | ![Front Shiny](../assets/sprites/chansey/front_shiny.gif) | ![Back Shiny](../assets/sprites/chansey/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #10066 Sableye Mega (Darkness Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/sableye-mega/official_artwork.png) | ![Shiny Artwork](../assets/sprites/sableye-mega/official_artwork_shiny.png) |
+
 It hides in the darkness of caves. Its diet of gems has transformed its eyes into gemstones.
 
 ---
@@ -8,7 +12,9 @@ It hides in the darkness of caves. Its diet of gems has transformed its eyes int
 
 ### Sprites
 
-### Female Sprites
+| Front | Front Shiny |
+| --- | --- |
+| ![Front](../assets/sprites/sableye-mega/front.png) | ![Front Shiny](../assets/sprites/sableye-mega/front_shiny.png) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #624 Pawniard (Sharp Blade Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/pawniard/official_artwork.png) | ![Shiny Artwork](../assets/sprites/pawniard/official_artwork_shiny.png) |
+
 **Blaze Black:** Blades comprise this Pokémon’s entire body. If battling dulls the blades, it sharpens them on stones by the river.
 
 **Volt White:** They fight at Bisharp’s command. They cling to their prey and inflict damage by sinking their blades into it.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/pawniard/front.gif) | ![Back](../assets/sprites/pawniard/back.gif) | ![Front Shiny](../assets/sprites/pawniard/front_shiny.gif) | ![Back Shiny](../assets/sprites/pawniard/back_shiny.gif) |
 
 ### Cries
 

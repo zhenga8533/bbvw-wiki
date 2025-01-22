@@ -1,5 +1,9 @@
 # #327 Spinda (Spot Panda Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/spinda/official_artwork.png) | ![Shiny Artwork](../assets/sprites/spinda/official_artwork_shiny.png) |
+
 No two Spinda have the same pattern of spots. Its tottering step fouls the aim of foes.
 
 ---
@@ -8,7 +12,9 @@ No two Spinda have the same pattern of spots. Its tottering step fouls the aim o
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/spinda/front.gif) | ![Back](../assets/sprites/spinda/back.gif) | ![Front Shiny](../assets/sprites/spinda/front_shiny.gif) | ![Back Shiny](../assets/sprites/spinda/back_shiny.gif) |
 
 ### Cries
 

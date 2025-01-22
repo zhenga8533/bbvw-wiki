@@ -1,5 +1,9 @@
 # #649 Genesect (Paleozoic Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/genesect/official_artwork.png) | ![Shiny Artwork](../assets/sprites/genesect/official_artwork_shiny.png) |
+
 **Blaze Black:** Over 300 million years ago, it was feared as the strongest of hunters. It has been modified by Team Plasma.
 
 **Volt White:** This ancient bug Pokémon was altered by Team Plasma. They upgraded the cannon on its back.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/genesect/front.gif) | ![Back](../assets/sprites/genesect/back.gif) | ![Front Shiny](../assets/sprites/genesect/front_shiny.gif) | ![Back Shiny](../assets/sprites/genesect/back_shiny.gif) |
 
 ### Cries
 

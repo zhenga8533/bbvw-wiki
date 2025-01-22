@@ -1,5 +1,9 @@
 # #573 Cinccino (Scarf Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/cinccino/official_artwork.png) | ![Shiny Artwork](../assets/sprites/cinccino/official_artwork_shiny.png) |
+
 **Blaze Black:** Their white fur is coated in a special oil that makes it easy for them to deflect attacks.
 
 **Volt White:** Their white fur feels amazing to touch. Their fur repels dust and prevents static electricity from building up.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/cinccino/front.gif) | ![Back](../assets/sprites/cinccino/back.gif) | ![Front Shiny](../assets/sprites/cinccino/front_shiny.gif) | ![Back Shiny](../assets/sprites/cinccino/back_shiny.gif) |
 
 ### Cries
 

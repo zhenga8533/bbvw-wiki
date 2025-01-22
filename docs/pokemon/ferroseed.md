@@ -1,5 +1,9 @@
 # #597 Ferroseed (Thorn Seed Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/ferroseed/official_artwork.png) | ![Shiny Artwork](../assets/sprites/ferroseed/official_artwork_shiny.png) |
+
 **Blaze Black:** When threatened, it attacks by shooting a barrage of spikes, which gives it a chance to escape by rolling away.
 
 **Volt White:** They stick their spikes into cave walls and absorb the minerals they find in the rock.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/ferroseed/front.gif) | ![Back](../assets/sprites/ferroseed/back.gif) | ![Front Shiny](../assets/sprites/ferroseed/front_shiny.gif) | ![Back Shiny](../assets/sprites/ferroseed/back_shiny.gif) |
 
 ### Cries
 

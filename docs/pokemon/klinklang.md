@@ -1,5 +1,9 @@
 # #601 Klinklang (Gear Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/klinklang/official_artwork.png) | ![Shiny Artwork](../assets/sprites/klinklang/official_artwork_shiny.png) |
+
 **Blaze Black:** Its red core functions as an energy tank. It fires the charged energy through its spikes into an area.
 
 **Volt White:** The gear with the red core is rotated at high speed for a rapid energy charge.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/klinklang/front.gif) | ![Back](../assets/sprites/klinklang/back.gif) | ![Front Shiny](../assets/sprites/klinklang/front_shiny.gif) | ![Back Shiny](../assets/sprites/klinklang/back_shiny.gif) |
 
 ### Cries
 

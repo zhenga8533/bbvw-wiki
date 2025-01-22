@@ -1,5 +1,9 @@
 # #492 Shaymin Land (Gratitude Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/shaymin-land/official_artwork.png) | ![Shiny Artwork](../assets/sprites/shaymin-land/official_artwork_shiny.png) |
+
 The flowers all over its body burst into bloom if it is lovingly hugged and senses gratitude.
 
 ---
@@ -8,7 +12,9 @@ The flowers all over its body burst into bloom if it is lovingly hugged and sens
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/shaymin-land/front.gif) | ![Back](../assets/sprites/shaymin-land/back.gif) | ![Front Shiny](../assets/sprites/shaymin-land/front_shiny.gif) | ![Back Shiny](../assets/sprites/shaymin-land/back_shiny.gif) |
 
 ### Cries
 

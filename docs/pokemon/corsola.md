@@ -1,5 +1,9 @@
 # #222 Corsola (Coral Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/corsola/official_artwork.png) | ![Shiny Artwork](../assets/sprites/corsola/official_artwork_shiny.png) |
+
 Many live in the clean seas of the south. They apparently can’t live in polluted waters.
 
 ---
@@ -8,7 +12,9 @@ Many live in the clean seas of the south. They apparently can’t live in pollut
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/corsola/front.gif) | ![Back](../assets/sprites/corsola/back.gif) | ![Front Shiny](../assets/sprites/corsola/front_shiny.gif) | ![Back Shiny](../assets/sprites/corsola/back_shiny.gif) |
 
 ### Cries
 

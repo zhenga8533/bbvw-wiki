@@ -1,5 +1,9 @@
 # #10010 Rotom Frost (Plasma Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/rotom-frost/official_artwork.png) | ![Shiny Artwork](../assets/sprites/rotom-frost/official_artwork_shiny.png) |
+
 Its electric-like body can enter some kinds of machines and take control in order to make mischief.
 
 ---
@@ -8,7 +12,9 @@ Its electric-like body can enter some kinds of machines and take control in orde
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/rotom-frost/front.gif) | ![Back](../assets/sprites/rotom-frost/back.gif) | ![Front Shiny](../assets/sprites/rotom-frost/front_shiny.gif) | ![Back Shiny](../assets/sprites/rotom-frost/back_shiny.gif) |
 
 ### Cries
 

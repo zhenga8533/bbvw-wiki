@@ -1,5 +1,9 @@
 # #523 Zebstrika (Thunderbolt Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/zebstrika/official_artwork.png) | ![Shiny Artwork](../assets/sprites/zebstrika/official_artwork_shiny.png) |
+
 **Blaze Black:** They have lightning-like movements. When Zebstrika run at full speed, the sound of thunder reverberates.
 
 **Volt White:** This ill-tempered Pokémon is dangerous because when it’s angry, it shoots lightning from its mane in all directions.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/zebstrika/front.gif) | ![Back](../assets/sprites/zebstrika/back.gif) | ![Front Shiny](../assets/sprites/zebstrika/front_shiny.gif) | ![Back Shiny](../assets/sprites/zebstrika/back_shiny.gif) |
 
 ### Cries
 

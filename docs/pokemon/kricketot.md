@@ -1,5 +1,9 @@
 # #401 Kricketot (Cricket Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/kricketot/official_artwork.png) | ![Shiny Artwork](../assets/sprites/kricketot/official_artwork_shiny.png) |
+
 Its legs are short. Whenever it stumbles, its stiff antennae clack with a xylophone-like sound.
 
 ---
@@ -8,7 +12,15 @@ Its legs are short. Whenever it stumbles, its stiff antennae clack with a xyloph
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/kricketot/front.gif) | ![Back](../assets/sprites/kricketot/back.gif) | ![Front Shiny](../assets/sprites/kricketot/front_shiny.gif) | ![Back Shiny](../assets/sprites/kricketot/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/kricketot/front_female.gif) | ![Back](../assets/sprites/kricketot/back_female.gif) | ![Front Shiny](../assets/sprites/kricketot/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/kricketot/back_shiny_female.gif) |
 
 ### Cries
 

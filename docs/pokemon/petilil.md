@@ -1,5 +1,9 @@
 # #548 Petilil (Bulb Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/petilil/official_artwork.png) | ![Shiny Artwork](../assets/sprites/petilil/official_artwork_shiny.png) |
+
 **Blaze Black:** The leaves on its head are very bitter. Eating one of these leaves is known to refresh a tired body.
 
 **Volt White:** Since they prefer moist, nutrient-rich soil, the areas where Petilil live are known to be good for growing plants.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/petilil/front.gif) | ![Back](../assets/sprites/petilil/back.gif) | ![Front Shiny](../assets/sprites/petilil/front_shiny.gif) | ![Back Shiny](../assets/sprites/petilil/back_shiny.gif) |
 
 ### Cries
 

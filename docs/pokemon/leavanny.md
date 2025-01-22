@@ -1,5 +1,9 @@
 # #542 Leavanny (Nurturing Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/leavanny/official_artwork.png) | ![Shiny Artwork](../assets/sprites/leavanny/official_artwork_shiny.png) |
+
 **Blaze Black:** Upon finding a small Pokémon, it weaves clothing for it from leaves, using the cutters on its arms and sticky silk.
 
 **Volt White:** It keeps its eggs warm with heat from fermenting leaves. It also uses leaves to make warm wrappings for Sewaddle.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/leavanny/front.gif) | ![Back](../assets/sprites/leavanny/back.gif) | ![Front Shiny](../assets/sprites/leavanny/front_shiny.gif) | ![Back Shiny](../assets/sprites/leavanny/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #028 Sandslash (Mouse Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/sandslash/official_artwork.png) | ![Shiny Artwork](../assets/sprites/sandslash/official_artwork_shiny.png) |
+
 It curls up, then rolls into foes with its back. Its sharp spines inflict severe damage.
 
 ---
@@ -8,7 +12,9 @@ It curls up, then rolls into foes with its back. Its sharp spines inflict severe
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/sandslash/front.gif) | ![Back](../assets/sprites/sandslash/back.gif) | ![Front Shiny](../assets/sprites/sandslash/front_shiny.gif) | ![Back Shiny](../assets/sprites/sandslash/back_shiny.gif) |
 
 ### Cries
 

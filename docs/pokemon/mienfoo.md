@@ -1,5 +1,9 @@
 # #619 Mienfoo (Martial Arts Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/mienfoo/official_artwork.png) | ![Shiny Artwork](../assets/sprites/mienfoo/official_artwork_shiny.png) |
+
 **Blaze Black:** In fights, they dominate with onslaughts of flowing, continuous attacks. With their sharp claws, they cut enemies.
 
 **Volt White:** They have mastered elegant combos. As they concentrate, their battle moves become swifter and more precise.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/mienfoo/front.gif) | ![Back](../assets/sprites/mienfoo/back.gif) | ![Front Shiny](../assets/sprites/mienfoo/front_shiny.gif) | ![Back Shiny](../assets/sprites/mienfoo/back_shiny.gif) |
 
 ### Cries
 

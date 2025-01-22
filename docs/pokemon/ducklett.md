@@ -1,5 +1,9 @@
 # #580 Ducklett (Water Bird Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/ducklett/official_artwork.png) | ![Shiny Artwork](../assets/sprites/ducklett/official_artwork_shiny.png) |
+
 **Blaze Black:** These bird Pokémon are excellent divers. They swim around in the water eating their favorite food--peat moss.
 
 **Volt White:** When attacked, it uses its feathers to splash water, escaping under cover of the spray.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/ducklett/front.gif) | ![Back](../assets/sprites/ducklett/back.gif) | ![Front Shiny](../assets/sprites/ducklett/front_shiny.gif) | ![Back Shiny](../assets/sprites/ducklett/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #369 Relicanth (Longevity Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/relicanth/official_artwork.png) | ![Shiny Artwork](../assets/sprites/relicanth/official_artwork_shiny.png) |
+
 A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years.
 
 ---
@@ -8,7 +12,15 @@ A rare Pokémon discovered during a deep-sea exploration. It has not changed in 
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/relicanth/front.gif) | ![Back](../assets/sprites/relicanth/back.gif) | ![Front Shiny](../assets/sprites/relicanth/front_shiny.gif) | ![Back Shiny](../assets/sprites/relicanth/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/relicanth/front_female.gif) | ![Back](../assets/sprites/relicanth/back_female.gif) | ![Front Shiny](../assets/sprites/relicanth/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/relicanth/back_shiny_female.gif) |
 
 ### Cries
 

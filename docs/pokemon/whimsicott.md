@@ -1,5 +1,9 @@
 # #547 Whimsicott (Windveiled Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/whimsicott/official_artwork.png) | ![Shiny Artwork](../assets/sprites/whimsicott/official_artwork_shiny.png) |
+
 **Blaze Black:** Like the wind, it can slip through any gap, no matter how small. It leaves balls of white fluff behind.
 
 **Volt White:** Riding whirlwinds, they appear. These Pokémon sneak through gaps into houses and cause all sorts of mischief.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/whimsicott/front.gif) | ![Back](../assets/sprites/whimsicott/back.gif) | ![Front Shiny](../assets/sprites/whimsicott/front_shiny.gif) | ![Back Shiny](../assets/sprites/whimsicott/back_shiny.gif) |
 
 ### Cries
 

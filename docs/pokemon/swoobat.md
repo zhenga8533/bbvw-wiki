@@ -1,5 +1,9 @@
 # #528 Swoobat (Courting Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/swoobat/official_artwork.png) | ![Shiny Artwork](../assets/sprites/swoobat/official_artwork_shiny.png) |
+
 **Blaze Black:** It emits sound waves of various frequencies from its nose, including some powerful enough to destroy rocks.
 
 **Volt White:** Anyone who comes into contact with the ultrasonic waves emitted by a courting male experiences a positive mood shift.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/swoobat/front.gif) | ![Back](../assets/sprites/swoobat/back.gif) | ![Front Shiny](../assets/sprites/swoobat/front_shiny.gif) | ![Back Shiny](../assets/sprites/swoobat/back_shiny.gif) |
 
 ### Cries
 

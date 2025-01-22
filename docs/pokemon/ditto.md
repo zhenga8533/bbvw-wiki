@@ -1,5 +1,9 @@
 # #132 Ditto (Transform Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/ditto/official_artwork.png) | ![Shiny Artwork](../assets/sprites/ditto/official_artwork_shiny.png) |
+
 It has the ability to reconstitute its entire cellular structure to transform into whatever it sees.
 
 ---
@@ -8,7 +12,9 @@ It has the ability to reconstitute its entire cellular structure to transform in
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/ditto/front.gif) | ![Back](../assets/sprites/ditto/back.gif) | ![Front Shiny](../assets/sprites/ditto/front_shiny.gif) | ![Back Shiny](../assets/sprites/ditto/back_shiny.gif) |
 
 ### Cries
 

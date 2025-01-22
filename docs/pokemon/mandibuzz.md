@@ -1,5 +1,9 @@
 # #630 Mandibuzz (Bone Vulture Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/mandibuzz/official_artwork.png) | ![Shiny Artwork](../assets/sprites/mandibuzz/official_artwork_shiny.png) |
+
 **Blaze Black:** It makes a nest out of bones it finds. It grabs weakened prey in its talons and hauls it to its nest of bones.
 
 **Volt White:** Watching from the sky, they swoop to strike weakened Pokémon on the ground. They decorate themselves with bones.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/mandibuzz/front.gif) | ![Back](../assets/sprites/mandibuzz/back.gif) | ![Front Shiny](../assets/sprites/mandibuzz/front_shiny.gif) | ![Back Shiny](../assets/sprites/mandibuzz/back_shiny.gif) |
 
 ### Cries
 

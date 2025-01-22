@@ -1,5 +1,9 @@
 # #10058 Garchomp Mega (Mach Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/garchomp-mega/official_artwork.png) | ![Shiny Artwork](../assets/sprites/garchomp-mega/official_artwork_shiny.png) |
+
 It is said that when one runs at high speed, its wings create blades of wind that can fell nearby trees.
 
 ---
@@ -8,7 +12,9 @@ It is said that when one runs at high speed, its wings create blades of wind tha
 
 ### Sprites
 
-### Female Sprites
+| Front | Front Shiny |
+| --- | --- |
+| ![Front](../assets/sprites/garchomp-mega/front.png) | ![Front Shiny](../assets/sprites/garchomp-mega/front_shiny.png) |
 
 ### Cries
 

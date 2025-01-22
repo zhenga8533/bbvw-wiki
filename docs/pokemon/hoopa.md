@@ -1,5 +1,9 @@
 # #720 Hoopa (Mischief Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/hoopa/official_artwork.png) | ![Shiny Artwork](../assets/sprites/hoopa/official_artwork_shiny.png) |
+
 It is said to be able to seize anything it desires with its six rings and six huge arms. With its power sealed, it is transformed into a much smaller form.
 
 ---
@@ -8,7 +12,9 @@ It is said to be able to seize anything it desires with its six rings and six hu
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/hoopa/front.png) | ![Back](../assets/sprites/hoopa/back.png) | ![Front Shiny](../assets/sprites/hoopa/front_shiny.png) | ![Back Shiny](../assets/sprites/hoopa/back_shiny.png) |
 
 ### Cries
 

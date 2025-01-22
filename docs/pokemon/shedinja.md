@@ -1,5 +1,9 @@
 # #292 Shedinja (Shed Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/shedinja/official_artwork.png) | ![Shiny Artwork](../assets/sprites/shedinja/official_artwork_shiny.png) |
+
 A discarded bug shell that came to life. Peering into the crack on its back is said to steal one’s spirit.
 
 ---
@@ -8,7 +12,9 @@ A discarded bug shell that came to life. Peering into the crack on its back is s
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/shedinja/front.gif) | ![Back](../assets/sprites/shedinja/back.gif) | ![Front Shiny](../assets/sprites/shedinja/front_shiny.gif) | ![Back Shiny](../assets/sprites/shedinja/back_shiny.gif) |
 
 ### Cries
 

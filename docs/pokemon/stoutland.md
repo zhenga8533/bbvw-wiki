@@ -1,5 +1,9 @@
 # #508 Stoutland (Big-Hearted Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/stoutland/official_artwork.png) | ![Shiny Artwork](../assets/sprites/stoutland/official_artwork_shiny.png) |
+
 **Blaze Black:** It rescues people stranded by blizzards in the mountains. Its shaggy fur shields it from the cold.
 
 **Volt White:** This extremely wise Pokémon excels at rescuing people stranded at sea or in the mountains.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/stoutland/front.gif) | ![Back](../assets/sprites/stoutland/back.gif) | ![Front Shiny](../assets/sprites/stoutland/front_shiny.gif) | ![Back Shiny](../assets/sprites/stoutland/back_shiny.gif) |
 
 ### Cries
 

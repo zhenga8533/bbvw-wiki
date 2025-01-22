@@ -1,5 +1,9 @@
 # #043 Oddish (Weed Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/oddish/official_artwork.png) | ![Shiny Artwork](../assets/sprites/oddish/official_artwork_shiny.png) |
+
 It often plants its root feet in the ground during the day and sows seeds as it walks about at night.
 
 ---
@@ -8,7 +12,9 @@ It often plants its root feet in the ground during the day and sows seeds as it 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/oddish/front.gif) | ![Back](../assets/sprites/oddish/back.gif) | ![Front Shiny](../assets/sprites/oddish/front_shiny.gif) | ![Back Shiny](../assets/sprites/oddish/back_shiny.gif) |
 
 ### Cries
 

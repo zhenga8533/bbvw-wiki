@@ -1,5 +1,9 @@
 # #10021 Landorus Therian (Abundance Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/landorus-therian/official_artwork.png) | ![Shiny Artwork](../assets/sprites/landorus-therian/official_artwork_shiny.png) |
+
 **Blaze Black:** Lands visited by Landorus grant such bountiful crops that it has been hailed as “The Guardian of the Fields.”
 
 **Volt White:** The energy that comes pouring from its tail increases the nutrition in the soil, making crops grow to great size.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/landorus-therian/front.gif) | ![Back](../assets/sprites/landorus-therian/back.gif) | ![Front Shiny](../assets/sprites/landorus-therian/front_shiny.gif) | ![Back Shiny](../assets/sprites/landorus-therian/back_shiny.gif) |
 
 ### Cries
 

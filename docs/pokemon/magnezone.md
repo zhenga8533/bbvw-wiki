@@ -1,5 +1,9 @@
 # #462 Magnezone (Magnet Area Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/magnezone/official_artwork.png) | ![Shiny Artwork](../assets/sprites/magnezone/official_artwork_shiny.png) |
+
 A group tried to use scientific means to make Magnezone evolve, but their efforts ended in failure.
 
 ---
@@ -8,7 +12,9 @@ A group tried to use scientific means to make Magnezone evolve, but their effort
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/magnezone/front.gif) | ![Back](../assets/sprites/magnezone/back.gif) | ![Front Shiny](../assets/sprites/magnezone/front_shiny.gif) | ![Back Shiny](../assets/sprites/magnezone/back_shiny.gif) |
 
 ### Cries
 

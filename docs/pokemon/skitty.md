@@ -1,5 +1,9 @@
 # #300 Skitty (Kitten Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/skitty/official_artwork.png) | ![Shiny Artwork](../assets/sprites/skitty/official_artwork_shiny.png) |
+
 It can’t stop itself from chasing moving things, and it runs in a circle, chasing its own tail.
 
 ---
@@ -8,7 +12,9 @@ It can’t stop itself from chasing moving things, and it runs in a circle, chas
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/skitty/front.gif) | ![Back](../assets/sprites/skitty/back.gif) | ![Front Shiny](../assets/sprites/skitty/front_shiny.gif) | ![Back Shiny](../assets/sprites/skitty/back_shiny.gif) |
 
 ### Cries
 

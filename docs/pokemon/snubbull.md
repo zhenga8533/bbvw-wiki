@@ -1,5 +1,9 @@
 # #209 Snubbull (Fairy Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/snubbull/official_artwork.png) | ![Shiny Artwork](../assets/sprites/snubbull/official_artwork_shiny.png) |
+
 Small Pokémon flee from its scary face. It is, however, considered by women to be cute.
 
 ---
@@ -8,7 +12,9 @@ Small Pokémon flee from its scary face. It is, however, considered by women to 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/snubbull/front.gif) | ![Back](../assets/sprites/snubbull/back.gif) | ![Front Shiny](../assets/sprites/snubbull/front_shiny.gif) | ![Back Shiny](../assets/sprites/snubbull/back_shiny.gif) |
 
 ### Cries
 

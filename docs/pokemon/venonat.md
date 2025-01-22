@@ -1,5 +1,9 @@
 # #048 Venonat (Insect Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/venonat/official_artwork.png) | ![Shiny Artwork](../assets/sprites/venonat/official_artwork_shiny.png) |
+
 Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light.
 
 ---
@@ -8,7 +12,9 @@ Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/venonat/front.gif) | ![Back](../assets/sprites/venonat/back.gif) | ![Front Shiny](../assets/sprites/venonat/front_shiny.gif) | ![Back Shiny](../assets/sprites/venonat/back_shiny.gif) |
 
 ### Cries
 

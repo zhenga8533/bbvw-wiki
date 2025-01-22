@@ -1,5 +1,9 @@
 # #446 Munchlax (Big Eater Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/munchlax/official_artwork.png) | ![Shiny Artwork](../assets/sprites/munchlax/official_artwork_shiny.png) |
+
 In its desperation to gulp down food, it forgets about the food it has hidden under its fur.
 
 ---
@@ -8,7 +12,9 @@ In its desperation to gulp down food, it forgets about the food it has hidden un
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/munchlax/front.gif) | ![Back](../assets/sprites/munchlax/back.gif) | ![Front Shiny](../assets/sprites/munchlax/front_shiny.gif) | ![Back Shiny](../assets/sprites/munchlax/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #321 Wailord (Float Whale Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/wailord/official_artwork.png) | ![Shiny Artwork](../assets/sprites/wailord/official_artwork_shiny.png) |
+
 The biggest of all Pokémon. It can dive to a depth of almost 10,000 feet on only one breath.
 
 ---
@@ -8,7 +12,9 @@ The biggest of all Pokémon. It can dive to a depth of almost 10,000 feet on onl
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/wailord/front.gif) | ![Back](../assets/sprites/wailord/back.gif) | ![Front Shiny](../assets/sprites/wailord/front_shiny.gif) | ![Back Shiny](../assets/sprites/wailord/back_shiny.gif) |
 
 ### Cries
 

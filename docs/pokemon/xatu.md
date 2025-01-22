@@ -1,5 +1,9 @@
 # #178 Xatu (Mystic Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/xatu/official_artwork.png) | ![Shiny Artwork](../assets/sprites/xatu/official_artwork_shiny.png) |
+
 This odd Pokémon can see both the past and the future. It eyes the sun’s movement all day.
 
 ---
@@ -8,7 +12,15 @@ This odd Pokémon can see both the past and the future. It eyes the sun’s move
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/xatu/front.gif) | ![Back](../assets/sprites/xatu/back.gif) | ![Front Shiny](../assets/sprites/xatu/front_shiny.gif) | ![Back Shiny](../assets/sprites/xatu/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/xatu/front_female.gif) | ![Back](../assets/sprites/xatu/back_female.gif) | ![Front Shiny](../assets/sprites/xatu/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/xatu/back_shiny_female.gif) |
 
 ### Cries
 

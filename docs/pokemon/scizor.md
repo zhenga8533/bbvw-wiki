@@ -1,5 +1,9 @@
 # #212 Scizor (Pincer Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/scizor/official_artwork.png) | ![Shiny Artwork](../assets/sprites/scizor/official_artwork_shiny.png) |
+
 It raises its pincers with eyelike markings for intimidation. It also swings them down dangerously.
 
 ---
@@ -8,7 +12,15 @@ It raises its pincers with eyelike markings for intimidation. It also swings the
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/scizor/front.gif) | ![Back](../assets/sprites/scizor/back.gif) | ![Front Shiny](../assets/sprites/scizor/front_shiny.gif) | ![Back Shiny](../assets/sprites/scizor/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/scizor/front_female.gif) | ![Back](../assets/sprites/scizor/back_female.gif) | ![Front Shiny](../assets/sprites/scizor/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/scizor/back_shiny_female.gif) |
 
 ### Cries
 

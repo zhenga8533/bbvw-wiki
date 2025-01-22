@@ -1,5 +1,9 @@
 # #10070 Sharpedo Mega (Brutal Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/sharpedo-mega/official_artwork.png) | ![Shiny Artwork](../assets/sprites/sharpedo-mega/official_artwork_shiny.png) |
+
 Its fangs rip through sheet iron. It swims at 75 mph and is known as “The Bully of the Sea.”
 
 ---
@@ -8,7 +12,9 @@ Its fangs rip through sheet iron. It swims at 75 mph and is known as “The Bull
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/sharpedo-mega/front.png) | ![Back](../assets/sprites/sharpedo-mega/back.png) | ![Front Shiny](../assets/sprites/sharpedo-mega/front_shiny.png) | ![Back Shiny](../assets/sprites/sharpedo-mega/back_shiny.png) |
 
 ### Cries
 

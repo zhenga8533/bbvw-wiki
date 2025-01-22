@@ -1,5 +1,9 @@
 # #529 Drilbur (Mole Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/drilbur/official_artwork.png) | ![Shiny Artwork](../assets/sprites/drilbur/official_artwork_shiny.png) |
+
 **Blaze Black:** It can dig through the ground at a speed of 30 mph. It could give a car running aboveground a good race.
 
 **Volt White:** It makes its way swiftly through the soil by putting both claws together and rotating at high speed.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/drilbur/front.gif) | ![Back](../assets/sprites/drilbur/back.gif) | ![Front Shiny](../assets/sprites/drilbur/front_shiny.gif) | ![Back Shiny](../assets/sprites/drilbur/back_shiny.gif) |
 
 ### Cries
 

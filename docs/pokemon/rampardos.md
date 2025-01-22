@@ -1,5 +1,9 @@
 # #409 Rampardos (Head Butt Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/rampardos/official_artwork.png) | ![Shiny Artwork](../assets/sprites/rampardos/official_artwork_shiny.png) |
+
 If two were to smash their heads together, their foot-thick skulls would keep them from fainting.
 
 ---
@@ -8,7 +12,9 @@ If two were to smash their heads together, their foot-thick skulls would keep th
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/rampardos/front.gif) | ![Back](../assets/sprites/rampardos/back.gif) | ![Front Shiny](../assets/sprites/rampardos/front_shiny.gif) | ![Back Shiny](../assets/sprites/rampardos/back_shiny.gif) |
 
 ### Cries
 

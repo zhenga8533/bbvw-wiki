@@ -1,5 +1,9 @@
 # #007 Squirtle (Tiny Turtle Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/squirtle/official_artwork.png) | ![Shiny Artwork](../assets/sprites/squirtle/official_artwork_shiny.png) |
+
 It shelters itself in its shell, then strikes back with spouts of water at every opportunity.
 
 ---
@@ -8,7 +12,9 @@ It shelters itself in its shell, then strikes back with spouts of water at every
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/squirtle/front.gif) | ![Back](../assets/sprites/squirtle/back.gif) | ![Front Shiny](../assets/sprites/squirtle/front_shiny.gif) | ![Back Shiny](../assets/sprites/squirtle/back_shiny.gif) |
 
 ### Cries
 

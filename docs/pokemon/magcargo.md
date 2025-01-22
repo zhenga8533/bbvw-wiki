@@ -1,5 +1,9 @@
 # #219 Magcargo (Lava Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/magcargo/official_artwork.png) | ![Shiny Artwork](../assets/sprites/magcargo/official_artwork_shiny.png) |
+
 Its body temperature is roughly 18,000 degrees F. Flames spout from gaps in its hardened shell.
 
 ---
@@ -8,7 +12,9 @@ Its body temperature is roughly 18,000 degrees F. Flames spout from gaps in its 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/magcargo/front.gif) | ![Back](../assets/sprites/magcargo/back.gif) | ![Front Shiny](../assets/sprites/magcargo/front_shiny.gif) | ![Back Shiny](../assets/sprites/magcargo/back_shiny.gif) |
 
 ### Cries
 

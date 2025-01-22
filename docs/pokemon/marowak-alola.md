@@ -1,5 +1,9 @@
 # #10115 Marowak Alola (Bone Keeper Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/marowak-alola/official_artwork.png) | ![Shiny Artwork](../assets/sprites/marowak-alola/official_artwork_shiny.png) |
+
 From its birth, this savage Pokémon constantly holds bones. It is skilled in using them as weapons.
 
 ---
@@ -8,7 +12,9 @@ From its birth, this savage Pokémon constantly holds bones. It is skilled in us
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/marowak-alola/front.png) | ![Back](../assets/sprites/marowak-alola/back.png) | ![Front Shiny](../assets/sprites/marowak-alola/front_shiny.png) | ![Back Shiny](../assets/sprites/marowak-alola/back_shiny.png) |
 
 ### Cries
 

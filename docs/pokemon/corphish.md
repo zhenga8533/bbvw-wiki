@@ -1,5 +1,9 @@
 # #341 Corphish (Ruffian Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/corphish/official_artwork.png) | ![Shiny Artwork](../assets/sprites/corphish/official_artwork_shiny.png) |
+
 Its hardy vitality enables it to adapt to any environment. Its pincers will never release prey.
 
 ---
@@ -8,7 +12,9 @@ Its hardy vitality enables it to adapt to any environment. Its pincers will neve
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/corphish/front.gif) | ![Back](../assets/sprites/corphish/back.gif) | ![Front Shiny](../assets/sprites/corphish/front_shiny.gif) | ![Back Shiny](../assets/sprites/corphish/back_shiny.gif) |
 
 ### Cries
 

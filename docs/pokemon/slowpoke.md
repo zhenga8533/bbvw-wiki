@@ -1,5 +1,9 @@
 # #079 Slowpoke (Dopey Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/slowpoke/official_artwork.png) | ![Shiny Artwork](../assets/sprites/slowpoke/official_artwork_shiny.png) |
+
 Although slow, it is skilled at fishing with its tail. It does not feel pain if its tail is bitten.
 
 ---
@@ -8,7 +12,9 @@ Although slow, it is skilled at fishing with its tail. It does not feel pain if 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/slowpoke/front.gif) | ![Back](../assets/sprites/slowpoke/back.gif) | ![Front Shiny](../assets/sprites/slowpoke/front_shiny.gif) | ![Back Shiny](../assets/sprites/slowpoke/back_shiny.gif) |
 
 ### Cries
 

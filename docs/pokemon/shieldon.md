@@ -1,5 +1,9 @@
 # #410 Shieldon (Shield Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/shieldon/official_artwork.png) | ![Shiny Artwork](../assets/sprites/shieldon/official_artwork_shiny.png) |
+
 It is outstandingly armored. As a result, it can eat grass and berries without having to fight.
 
 ---
@@ -8,7 +12,9 @@ It is outstandingly armored. As a result, it can eat grass and berries without h
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/shieldon/front.gif) | ![Back](../assets/sprites/shieldon/back.gif) | ![Front Shiny](../assets/sprites/shieldon/front_shiny.gif) | ![Back Shiny](../assets/sprites/shieldon/back_shiny.gif) |
 
 ### Cries
 

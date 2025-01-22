@@ -1,5 +1,9 @@
 # #491 Darkrai (Pitch-Black Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/darkrai/official_artwork.png) | ![Shiny Artwork](../assets/sprites/darkrai/official_artwork_shiny.png) |
+
 To protect itself, it afflicts those around it with nightmares. However, it means no harm.
 
 ---
@@ -8,7 +12,9 @@ To protect itself, it afflicts those around it with nightmares. However, it mean
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/darkrai/front.gif) | ![Back](../assets/sprites/darkrai/back.gif) | ![Front Shiny](../assets/sprites/darkrai/front_shiny.gif) | ![Back Shiny](../assets/sprites/darkrai/back_shiny.gif) |
 
 ### Cries
 

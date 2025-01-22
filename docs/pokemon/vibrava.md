@@ -1,5 +1,9 @@
 # #329 Vibrava (Vibration Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/vibrava/official_artwork.png) | ![Shiny Artwork](../assets/sprites/vibrava/official_artwork_shiny.png) |
+
 It violently shudders its wings, generating ultrasonic waves to induce headaches in people.
 
 ---
@@ -8,7 +12,9 @@ It violently shudders its wings, generating ultrasonic waves to induce headaches
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/vibrava/front.gif) | ![Back](../assets/sprites/vibrava/back.gif) | ![Front Shiny](../assets/sprites/vibrava/front_shiny.gif) | ![Back Shiny](../assets/sprites/vibrava/back_shiny.gif) |
 
 ### Cries
 

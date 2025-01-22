@@ -1,5 +1,9 @@
 # #030 Nidorina (Poison Pin Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/nidorina/official_artwork.png) | ![Shiny Artwork](../assets/sprites/nidorina/official_artwork_shiny.png) |
+
 When it senses danger, it raises all the barbs on its body. These barbs grow slower than Nidorino’s.
 
 ---
@@ -8,7 +12,9 @@ When it senses danger, it raises all the barbs on its body. These barbs grow slo
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/nidorina/front.gif) | ![Back](../assets/sprites/nidorina/back.gif) | ![Front Shiny](../assets/sprites/nidorina/front_shiny.gif) | ![Back Shiny](../assets/sprites/nidorina/back_shiny.gif) |
 
 ### Cries
 

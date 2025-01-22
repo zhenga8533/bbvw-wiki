@@ -1,5 +1,9 @@
 # #337 Lunatone (Meteorite Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/lunatone/official_artwork.png) | ![Shiny Artwork](../assets/sprites/lunatone/official_artwork_shiny.png) |
+
 Because it turns active on nights of the full moon, it is said to have some link to the lunar phases.
 
 ---
@@ -8,7 +12,9 @@ Because it turns active on nights of the full moon, it is said to have some link
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/lunatone/front.gif) | ![Back](../assets/sprites/lunatone/back.gif) | ![Front Shiny](../assets/sprites/lunatone/front_shiny.gif) | ![Back Shiny](../assets/sprites/lunatone/back_shiny.gif) |
 
 ### Cries
 

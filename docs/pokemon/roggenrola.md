@@ -1,5 +1,9 @@
 # #524 Roggenrola (Mantle Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/roggenrola/official_artwork.png) | ![Shiny Artwork](../assets/sprites/roggenrola/official_artwork_shiny.png) |
+
 **Blaze Black:** Its ear is hexagonal in shape. Compressed underground, its body is as hard as steel.
 
 **Volt White:** They were discovered a hundred years ago in an earthquake fissure. Inside each one is an energy core.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/roggenrola/front.gif) | ![Back](../assets/sprites/roggenrola/back.gif) | ![Front Shiny](../assets/sprites/roggenrola/front_shiny.gif) | ![Back Shiny](../assets/sprites/roggenrola/back_shiny.gif) |
 
 ### Cries
 

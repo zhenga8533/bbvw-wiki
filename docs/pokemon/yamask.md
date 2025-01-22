@@ -1,5 +1,9 @@
 # #562 Yamask (Spirit Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/yamask/official_artwork.png) | ![Shiny Artwork](../assets/sprites/yamask/official_artwork_shiny.png) |
+
 **Blaze Black:** Each of them carries a mask that used to be its face when it was human. Sometimes they look at it and cry.
 
 **Volt White:** These Pokémon arose from the spirits of people interred in graves in past ages. Each retains memories of its former life.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/yamask/front.gif) | ![Back](../assets/sprites/yamask/back.gif) | ![Front Shiny](../assets/sprites/yamask/front_shiny.gif) | ![Back Shiny](../assets/sprites/yamask/back_shiny.gif) |
 
 ### Cries
 

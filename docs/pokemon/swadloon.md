@@ -1,5 +1,9 @@
 # #541 Swadloon (Leaf-Wrapped Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/swadloon/official_artwork.png) | ![Shiny Artwork](../assets/sprites/swadloon/official_artwork_shiny.png) |
+
 **Blaze Black:** Forests where Swadloon live have superb foliage because the nutrients they make from fallen leaves nourish the plant life.
 
 **Volt White:** It protects itself from the cold by wrapping up in leaves. It stays on the move, eating leaves in forests.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/swadloon/front.gif) | ![Back](../assets/sprites/swadloon/back.gif) | ![Front Shiny](../assets/sprites/swadloon/front_shiny.gif) | ![Back Shiny](../assets/sprites/swadloon/back_shiny.gif) |
 
 ### Cries
 

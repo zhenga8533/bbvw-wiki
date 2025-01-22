@@ -1,5 +1,9 @@
 # #475 Gallade (Blade Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/gallade/official_artwork.png) | ![Shiny Artwork](../assets/sprites/gallade/official_artwork_shiny.png) |
+
 When trying to protect someone, it extends its elbows as if they were swords and fights savagely.
 
 ---
@@ -8,7 +12,9 @@ When trying to protect someone, it extends its elbows as if they were swords and
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/gallade/front.gif) | ![Back](../assets/sprites/gallade/back.gif) | ![Front Shiny](../assets/sprites/gallade/front_shiny.gif) | ![Back Shiny](../assets/sprites/gallade/back_shiny.gif) |
 
 ### Cries
 

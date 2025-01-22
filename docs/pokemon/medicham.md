@@ -1,5 +1,9 @@
 # #308 Medicham (Meditate Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/medicham/official_artwork.png) | ![Shiny Artwork](../assets/sprites/medicham/official_artwork_shiny.png) |
+
 It gains the ability to see the aura of its opponents by honing its mind through starvation.
 
 ---
@@ -8,7 +12,15 @@ It gains the ability to see the aura of its opponents by honing its mind through
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/medicham/front.gif) | ![Back](../assets/sprites/medicham/back.gif) | ![Front Shiny](../assets/sprites/medicham/front_shiny.gif) | ![Back Shiny](../assets/sprites/medicham/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/medicham/front_female.gif) | ![Back](../assets/sprites/medicham/back_female.gif) | ![Front Shiny](../assets/sprites/medicham/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/medicham/back_shiny_female.gif) |
 
 ### Cries
 

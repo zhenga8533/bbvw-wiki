@@ -1,5 +1,9 @@
 # #626 Bouffalant (Bash Buffalo Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/bouffalant/official_artwork.png) | ![Shiny Artwork](../assets/sprites/bouffalant/official_artwork_shiny.png) |
+
 **Blaze Black:** Their fluffy fur absorbs damage, even if they strike foes with a fierce headbutt.
 
 **Volt White:** They charge wildly and headbutt everything. Their headbutts have enough destructive force to derail a train.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/bouffalant/front.gif) | ![Back](../assets/sprites/bouffalant/back.gif) | ![Front Shiny](../assets/sprites/bouffalant/front_shiny.gif) | ![Back Shiny](../assets/sprites/bouffalant/back_shiny.gif) |
 
 ### Cries
 

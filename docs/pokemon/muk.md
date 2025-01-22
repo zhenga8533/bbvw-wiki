@@ -1,5 +1,9 @@
 # #089 Muk (Sludge Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/muk/official_artwork.png) | ![Shiny Artwork](../assets/sprites/muk/official_artwork_shiny.png) |
+
 A toxic fluid seeps from its body. The fluid instantly kills plants and trees on contact.
 
 ---
@@ -8,7 +12,9 @@ A toxic fluid seeps from its body. The fluid instantly kills plants and trees on
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/muk/front.gif) | ![Back](../assets/sprites/muk/back.gif) | ![Front Shiny](../assets/sprites/muk/front_shiny.gif) | ![Back Shiny](../assets/sprites/muk/back_shiny.gif) |
 
 ### Cries
 

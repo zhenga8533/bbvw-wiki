@@ -1,5 +1,9 @@
 # #032 Nidoran M (Poison Pin Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/nidoran-m/official_artwork.png) | ![Shiny Artwork](../assets/sprites/nidoran-m/official_artwork_shiny.png) |
+
 It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection.
 
 ---
@@ -8,7 +12,9 @@ It scans its surroundings by raising its ears out of the grass. Its toxic horn i
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/nidoran-m/front.gif) | ![Back](../assets/sprites/nidoran-m/back.gif) | ![Front Shiny](../assets/sprites/nidoran-m/front_shiny.gif) | ![Back Shiny](../assets/sprites/nidoran-m/back_shiny.gif) |
 
 ### Cries
 

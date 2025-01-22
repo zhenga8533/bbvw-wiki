@@ -1,5 +1,9 @@
 # #045 Vileplume (Flower Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/vileplume/official_artwork.png) | ![Shiny Artwork](../assets/sprites/vileplume/official_artwork_shiny.png) |
+
 Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen.
 
 ---
@@ -8,7 +12,15 @@ Its petals are the largest in the world. As it walks, it scatters extremely alle
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/vileplume/front.gif) | ![Back](../assets/sprites/vileplume/back.gif) | ![Front Shiny](../assets/sprites/vileplume/front_shiny.gif) | ![Back Shiny](../assets/sprites/vileplume/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/vileplume/front_female.gif) | ![Back](../assets/sprites/vileplume/back_female.gif) | ![Front Shiny](../assets/sprites/vileplume/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/vileplume/back_shiny_female.gif) |
 
 ### Cries
 

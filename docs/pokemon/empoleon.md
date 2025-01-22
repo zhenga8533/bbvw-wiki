@@ -1,5 +1,9 @@
 # #395 Empoleon (Emperor Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/empoleon/official_artwork.png) | ![Shiny Artwork](../assets/sprites/empoleon/official_artwork_shiny.png) |
+
 If anyone were to hurt its pride, it would slash them with wings that can cleave through an ice floe.
 
 ---
@@ -8,7 +12,9 @@ If anyone were to hurt its pride, it would slash them with wings that can cleave
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/empoleon/front.gif) | ![Back](../assets/sprites/empoleon/back.gif) | ![Front Shiny](../assets/sprites/empoleon/front_shiny.gif) | ![Back Shiny](../assets/sprites/empoleon/back_shiny.gif) |
 
 ### Cries
 

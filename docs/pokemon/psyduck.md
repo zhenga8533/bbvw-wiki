@@ -1,5 +1,9 @@
 # #054 Psyduck (Duck Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/psyduck/official_artwork.png) | ![Shiny Artwork](../assets/sprites/psyduck/official_artwork_shiny.png) |
+
 Overwhelmed by enigmatic abilities, it suffers a constant headache. It sometimes uses mysterious powers.
 
 ---
@@ -8,7 +12,9 @@ Overwhelmed by enigmatic abilities, it suffers a constant headache. It sometimes
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/psyduck/front.gif) | ![Back](../assets/sprites/psyduck/back.gif) | ![Front Shiny](../assets/sprites/psyduck/front_shiny.gif) | ![Back Shiny](../assets/sprites/psyduck/back_shiny.gif) |
 
 ### Cries
 

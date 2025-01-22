@@ -1,5 +1,9 @@
 # #10046 Scizor Mega (Pincer Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/scizor-mega/official_artwork.png) | ![Shiny Artwork](../assets/sprites/scizor-mega/official_artwork_shiny.png) |
+
 It raises its pincers with eyelike markings for intimidation. It also swings them down dangerously.
 
 ---
@@ -8,7 +12,9 @@ It raises its pincers with eyelike markings for intimidation. It also swings the
 
 ### Sprites
 
-### Female Sprites
+| Front | Front Shiny |
+| --- | --- |
+| ![Front](../assets/sprites/scizor-mega/front.png) | ![Front Shiny](../assets/sprites/scizor-mega/front_shiny.png) |
 
 ### Cries
 

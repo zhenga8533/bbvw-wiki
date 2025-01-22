@@ -1,5 +1,9 @@
 # #643 Reshiram (Vast White Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/reshiram/official_artwork.png) | ![Shiny Artwork](../assets/sprites/reshiram/official_artwork_shiny.png) |
+
 **Blaze Black:** This Pokémon appears in legends. It sends flames into the air from its tail, burning up everything around it.
 
 **Volt White:** When Reshiram’s tail flares, the heat energy moves the atmosphere and changes the world’s weather.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/reshiram/front.gif) | ![Back](../assets/sprites/reshiram/back.gif) | ![Front Shiny](../assets/sprites/reshiram/front_shiny.gif) | ![Back Shiny](../assets/sprites/reshiram/back_shiny.gif) |
 
 ### Cries
 

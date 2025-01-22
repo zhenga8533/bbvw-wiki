@@ -1,5 +1,9 @@
 # #454 Toxicroak (Toxic Mouth Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/toxicroak/official_artwork.png) | ![Shiny Artwork](../assets/sprites/toxicroak/official_artwork_shiny.png) |
+
 It has a poison sac at its throat. When it croaks, the stored poison is churned for greater potency.
 
 ---
@@ -8,7 +12,15 @@ It has a poison sac at its throat. When it croaks, the stored poison is churned 
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/toxicroak/front.gif) | ![Back](../assets/sprites/toxicroak/back.gif) | ![Front Shiny](../assets/sprites/toxicroak/front_shiny.gif) | ![Back Shiny](../assets/sprites/toxicroak/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/toxicroak/front_female.gif) | ![Back](../assets/sprites/toxicroak/back_female.gif) | ![Front Shiny](../assets/sprites/toxicroak/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/toxicroak/back_shiny_female.gif) |
 
 ### Cries
 

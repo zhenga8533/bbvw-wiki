@@ -1,5 +1,9 @@
 # #463 Lickilicky (Licking Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/lickilicky/official_artwork.png) | ![Shiny Artwork](../assets/sprites/lickilicky/official_artwork_shiny.png) |
+
 The long tongue is always soggy with slobber. The saliva contains a solvent that causes numbness.
 
 ---
@@ -8,7 +12,9 @@ The long tongue is always soggy with slobber. The saliva contains a solvent that
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/lickilicky/front.gif) | ![Back](../assets/sprites/lickilicky/back.gif) | ![Front Shiny](../assets/sprites/lickilicky/front_shiny.gif) | ![Back Shiny](../assets/sprites/lickilicky/back_shiny.gif) |
 
 ### Cries
 

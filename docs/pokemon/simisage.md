@@ -1,5 +1,9 @@
 # #512 Simisage (Thorn Monkey Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/simisage/official_artwork.png) | ![Shiny Artwork](../assets/sprites/simisage/official_artwork_shiny.png) |
+
 **Blaze Black:** Ill tempered, it fights by swinging its barbed tail around wildly. The leaf growing on its head is very bitter.
 
 **Volt White:** It attacks enemies with strikes of its thorn-covered tail. This Pokémon is wild tempered.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/simisage/front.gif) | ![Back](../assets/sprites/simisage/back.gif) | ![Front Shiny](../assets/sprites/simisage/front_shiny.gif) | ![Back Shiny](../assets/sprites/simisage/back_shiny.gif) |
 
 ### Cries
 

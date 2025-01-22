@@ -1,5 +1,9 @@
 # #495 Snivy (Grass Snake Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/snivy/official_artwork.png) | ![Shiny Artwork](../assets/sprites/snivy/official_artwork_shiny.png) |
+
 **Blaze Black:** It is very intelligent and calm. Being exposed to lots of sunlight makes its movements swifter.
 
 **Volt White:** They photosynthesize by bathing their tails in sunlight. When they are not feeling well, their tails droop.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/snivy/front.gif) | ![Back](../assets/sprites/snivy/back.gif) | ![Front Shiny](../assets/sprites/snivy/front_shiny.gif) | ![Back Shiny](../assets/sprites/snivy/back_shiny.gif) |
 
 ### Cries
 

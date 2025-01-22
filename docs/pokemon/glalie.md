@@ -1,5 +1,9 @@
 # #362 Glalie (Face Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/glalie/official_artwork.png) | ![Shiny Artwork](../assets/sprites/glalie/official_artwork_shiny.png) |
+
 It prevents prey from escaping by instantaneously freezing moisture in the air.
 
 ---
@@ -8,7 +12,9 @@ It prevents prey from escaping by instantaneously freezing moisture in the air.
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/glalie/front.gif) | ![Back](../assets/sprites/glalie/back.gif) | ![Front Shiny](../assets/sprites/glalie/front_shiny.gif) | ![Back Shiny](../assets/sprites/glalie/back_shiny.gif) |
 
 ### Cries
 

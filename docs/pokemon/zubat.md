@@ -1,5 +1,9 @@
 # #041 Zubat (Bat Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/zubat/official_artwork.png) | ![Shiny Artwork](../assets/sprites/zubat/official_artwork_shiny.png) |
+
 It checks its surroundings and location using reflections of the ultrasonic waves from its mouth.
 
 ---
@@ -8,7 +12,15 @@ It checks its surroundings and location using reflections of the ultrasonic wave
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/zubat/front.gif) | ![Back](../assets/sprites/zubat/back.gif) | ![Front Shiny](../assets/sprites/zubat/front_shiny.gif) | ![Back Shiny](../assets/sprites/zubat/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/zubat/front_female.gif) | ![Back](../assets/sprites/zubat/back_female.gif) | ![Front Shiny](../assets/sprites/zubat/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/zubat/back_shiny_female.gif) |
 
 ### Cries
 

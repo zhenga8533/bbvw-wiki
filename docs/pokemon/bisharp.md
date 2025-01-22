@@ -1,5 +1,9 @@
 # #625 Bisharp (Sword Blade Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/bisharp/official_artwork.png) | ![Shiny Artwork](../assets/sprites/bisharp/official_artwork_shiny.png) |
+
 **Blaze Black:** It leads a group of Pawniard. It battles to become the boss, but will be driven from the group if it loses.
 
 **Volt White:** Bisharp pursues prey in the company of a large group of Pawniard. Then Bisharp finishes off the prey.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/bisharp/front.gif) | ![Back](../assets/sprites/bisharp/back.gif) | ![Front Shiny](../assets/sprites/bisharp/front_shiny.gif) | ![Back Shiny](../assets/sprites/bisharp/back_shiny.gif) |
 
 ### Cries
 

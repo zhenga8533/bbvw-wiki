@@ -1,5 +1,9 @@
 # #584 Vanilluxe (Snowstorm Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/vanilluxe/official_artwork.png) | ![Shiny Artwork](../assets/sprites/vanilluxe/official_artwork_shiny.png) |
+
 **Blaze Black:** Swallowing large amounts of water, they make snow clouds inside their bodies and attack their foes with violent blizzards.
 
 **Volt White:** If both heads get angry simultaneously, this Pokémon expels a blizzard, burying everything in snow.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/vanilluxe/front.gif) | ![Back](../assets/sprites/vanilluxe/back.gif) | ![Front Shiny](../assets/sprites/vanilluxe/front_shiny.gif) | ![Back Shiny](../assets/sprites/vanilluxe/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #549 Lilligant (Flowering Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/lilligant/official_artwork.png) | ![Shiny Artwork](../assets/sprites/lilligant/official_artwork_shiny.png) |
+
 **Blaze Black:** Even veteran Trainers face a challenge in getting its beautiful flower to bloom. This Pokémon is popular with celebrities.
 
 **Volt White:** The fragrance of the garland on its head has a relaxing effect. It withers if a Trainer does not take good care of it.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/lilligant/front.gif) | ![Back](../assets/sprites/lilligant/back.gif) | ![Front Shiny](../assets/sprites/lilligant/front_shiny.gif) | ![Back Shiny](../assets/sprites/lilligant/back_shiny.gif) |
 
 ### Cries
 

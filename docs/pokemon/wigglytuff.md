@@ -1,5 +1,9 @@
 # #040 Wigglytuff (Balloon Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/wigglytuff/official_artwork.png) | ![Shiny Artwork](../assets/sprites/wigglytuff/official_artwork_shiny.png) |
+
 Its fine fur feels sublime to the touch. It can expand its body by inhaling air.
 
 ---
@@ -8,7 +12,9 @@ Its fine fur feels sublime to the touch. It can expand its body by inhaling air.
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/wigglytuff/front.gif) | ![Back](../assets/sprites/wigglytuff/back.gif) | ![Front Shiny](../assets/sprites/wigglytuff/front_shiny.gif) | ![Back Shiny](../assets/sprites/wigglytuff/back_shiny.gif) |
 
 ### Cries
 

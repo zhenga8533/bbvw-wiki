@@ -1,5 +1,9 @@
 # #305 Lairon (Iron Armor Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/lairon/official_artwork.png) | ![Shiny Artwork](../assets/sprites/lairon/official_artwork_shiny.png) |
+
 For food, it digs up iron ore. It smashes its steely body against others to fight over territory.
 
 ---
@@ -8,7 +12,9 @@ For food, it digs up iron ore. It smashes its steely body against others to figh
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/lairon/front.gif) | ![Back](../assets/sprites/lairon/back.gif) | ![Front Shiny](../assets/sprites/lairon/front_shiny.gif) | ![Back Shiny](../assets/sprites/lairon/back_shiny.gif) |
 
 ### Cries
 

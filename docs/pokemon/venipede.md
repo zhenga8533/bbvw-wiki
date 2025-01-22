@@ -1,5 +1,9 @@
 # #543 Venipede (Centipede Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/venipede/official_artwork.png) | ![Shiny Artwork](../assets/sprites/venipede/official_artwork_shiny.png) |
+
 **Blaze Black:** Its bite injects a potent poison, enough to paralyze large bird Pokémon that try to prey on it.
 
 **Volt White:** It discovers what is going on around it by using the feelers on its head and tail. It is brutally aggressive.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/venipede/front.gif) | ![Back](../assets/sprites/venipede/back.gif) | ![Front Shiny](../assets/sprites/venipede/front_shiny.gif) | ![Back Shiny](../assets/sprites/venipede/back_shiny.gif) |
 
 ### Cries
 

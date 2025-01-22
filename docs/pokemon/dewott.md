@@ -1,5 +1,9 @@
 # #502 Dewott (Discipline Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/dewott/official_artwork.png) | ![Shiny Artwork](../assets/sprites/dewott/official_artwork_shiny.png) |
+
 **Blaze Black:** Strict training is how it learns its flowing double-scalchop technique.
 
 **Volt White:** Scalchop techniques differ from one Dewott to another. It never neglects maintaining its scalchops.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/dewott/front.gif) | ![Back](../assets/sprites/dewott/back.gif) | ![Front Shiny](../assets/sprites/dewott/front_shiny.gif) | ![Back Shiny](../assets/sprites/dewott/back_shiny.gif) |
 
 ### Cries
 

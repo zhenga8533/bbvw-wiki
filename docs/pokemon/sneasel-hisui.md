@@ -1,5 +1,9 @@
 # #10235 Sneasel Hisui (Sharp Claw Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/sneasel-hisui/official_artwork.png) | ![Shiny Artwork](../assets/sprites/sneasel-hisui/official_artwork_shiny.png) |
+
 A smart and sneaky Pokémon. A pair may work together to steal eggs by having one lure the parents away.
 
 ---
@@ -7,8 +11,6 @@ A smart and sneaky Pokémon. A pair may work together to steal eggs by having on
 ## Media
 
 ### Sprites
-
-### Female Sprites
 
 ### Cries
 

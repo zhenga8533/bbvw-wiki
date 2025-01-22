@@ -1,5 +1,9 @@
 # #326 Grumpig (Manipulate Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/grumpig/official_artwork.png) | ![Shiny Artwork](../assets/sprites/grumpig/official_artwork_shiny.png) |
+
 It uses black pearls to amplify its psycho-power. It does an odd dance to gain control over foes.
 
 ---
@@ -8,7 +12,9 @@ It uses black pearls to amplify its psycho-power. It does an odd dance to gain c
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/grumpig/front.gif) | ![Back](../assets/sprites/grumpig/back.gif) | ![Front Shiny](../assets/sprites/grumpig/front_shiny.gif) | ![Back Shiny](../assets/sprites/grumpig/back_shiny.gif) |
 
 ### Cries
 

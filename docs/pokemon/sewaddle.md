@@ -1,5 +1,9 @@
 # #540 Sewaddle (Sewing Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/sewaddle/official_artwork.png) | ![Shiny Artwork](../assets/sprites/sewaddle/official_artwork_shiny.png) |
+
 **Blaze Black:** Leavanny dress it in clothes they made for it when it hatched. It hides its head in its hood while it is sleeping.
 
 **Volt White:** This Pokémon makes clothes for itself. It chews up leaves and sews them with sticky thread extruded from its mouth.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/sewaddle/front.gif) | ![Back](../assets/sprites/sewaddle/back.gif) | ![Front Shiny](../assets/sprites/sewaddle/front_shiny.gif) | ![Back Shiny](../assets/sprites/sewaddle/back_shiny.gif) |
 
 ### Cries
 

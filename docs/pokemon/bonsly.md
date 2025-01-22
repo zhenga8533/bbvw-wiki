@@ -1,5 +1,9 @@
 # #438 Bonsly (Bonsai Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/bonsly/official_artwork.png) | ![Shiny Artwork](../assets/sprites/bonsly/official_artwork_shiny.png) |
+
 It prefers an arid atmosphere. It leaks water that looks like tears when adjusting its moisture level.
 
 ---
@@ -8,7 +12,9 @@ It prefers an arid atmosphere. It leaks water that looks like tears when adjusti
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/bonsly/front.gif) | ![Back](../assets/sprites/bonsly/back.gif) | ![Front Shiny](../assets/sprites/bonsly/front_shiny.gif) | ![Back Shiny](../assets/sprites/bonsly/back_shiny.gif) |
 
 ### Cries
 

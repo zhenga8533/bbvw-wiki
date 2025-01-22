@@ -1,5 +1,9 @@
 # #498 Tepig (Fire Pig Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/tepig/official_artwork.png) | ![Shiny Artwork](../assets/sprites/tepig/official_artwork_shiny.png) |
+
 **Blaze Black:** It can deftly dodge its foe’s attacks while shooting fireballs from its nose. It roasts berries before it eats them.
 
 **Volt White:** It blows fire through its nose. When it catches a cold, the fire becomes pitch-black smoke instead.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/tepig/front.gif) | ![Back](../assets/sprites/tepig/back.gif) | ![Front Shiny](../assets/sprites/tepig/front_shiny.gif) | ![Back Shiny](../assets/sprites/tepig/back_shiny.gif) |
 
 ### Cries
 

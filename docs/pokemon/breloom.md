@@ -1,5 +1,9 @@
 # #286 Breloom (Mushroom Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/breloom/official_artwork.png) | ![Shiny Artwork](../assets/sprites/breloom/official_artwork_shiny.png) |
+
 Its short arms stretch when it throws punches. Its technique is equal to that of pro boxers.
 
 ---
@@ -8,7 +12,9 @@ Its short arms stretch when it throws punches. Its technique is equal to that of
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/breloom/front.gif) | ![Back](../assets/sprites/breloom/back.gif) | ![Front Shiny](../assets/sprites/breloom/front_shiny.gif) | ![Back Shiny](../assets/sprites/breloom/back_shiny.gif) |
 
 ### Cries
 

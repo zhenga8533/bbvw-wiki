@@ -1,5 +1,9 @@
 # #453 Croagunk (Toxic Mouth Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/croagunk/official_artwork.png) | ![Shiny Artwork](../assets/sprites/croagunk/official_artwork_shiny.png) |
+
 It rarely fights fairly, but that is strictly to ensure survival. It is popular as a mascot.
 
 ---
@@ -8,7 +12,15 @@ It rarely fights fairly, but that is strictly to ensure survival. It is popular 
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/croagunk/front.gif) | ![Back](../assets/sprites/croagunk/back.gif) | ![Front Shiny](../assets/sprites/croagunk/front_shiny.gif) | ![Back Shiny](../assets/sprites/croagunk/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/croagunk/front_female.gif) | ![Back](../assets/sprites/croagunk/back_female.gif) | ![Front Shiny](../assets/sprites/croagunk/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/croagunk/back_shiny_female.gif) |
 
 ### Cries
 

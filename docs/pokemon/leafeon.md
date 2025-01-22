@@ -1,5 +1,9 @@
 # #470 Leafeon (Verdant Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/leafeon/official_artwork.png) | ![Shiny Artwork](../assets/sprites/leafeon/official_artwork_shiny.png) |
+
 It basically does not fight. With cells similar to those of plants, it can perform photosynthesis.
 
 ---
@@ -8,7 +12,9 @@ It basically does not fight. With cells similar to those of plants, it can perfo
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/leafeon/front.gif) | ![Back](../assets/sprites/leafeon/back.gif) | ![Front Shiny](../assets/sprites/leafeon/front_shiny.gif) | ![Back Shiny](../assets/sprites/leafeon/back_shiny.gif) |
 
 ### Cries
 

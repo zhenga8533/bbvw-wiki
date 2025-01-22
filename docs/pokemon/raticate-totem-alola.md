@@ -1,5 +1,9 @@
 # #10093 Raticate Totem Alola (Mouse Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/raticate-totem-alola/official_artwork.png) | ![Shiny Artwork](../assets/sprites/raticate-totem-alola/official_artwork_shiny.png) |
+
 It whittles its constantly growing fangs by gnawing on hard things. It can chew apart cinder walls.
 
 ---
@@ -8,7 +12,9 @@ It whittles its constantly growing fangs by gnawing on hard things. It can chew 
 
 ### Sprites
 
-### Female Sprites
+| Front | Front Shiny |
+| --- | --- |
+| ![Front](../assets/sprites/raticate-totem-alola/front.png) | ![Front Shiny](../assets/sprites/raticate-totem-alola/front_shiny.png) |
 
 ### Cries
 

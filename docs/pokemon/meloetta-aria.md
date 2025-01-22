@@ -1,5 +1,9 @@
 # #648 Meloetta Aria (Melody Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/meloetta-aria/official_artwork.png) | ![Shiny Artwork](../assets/sprites/meloetta-aria/official_artwork_shiny.png) |
+
 **Blaze Black:** Its melodies are sung with a special vocalization method that can control the feelings of those who hear it.
 
 **Volt White:** Many famous songs have been inspired by the melodies that Meloetta plays.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/meloetta-aria/front.gif) | ![Back](../assets/sprites/meloetta-aria/back.gif) | ![Front Shiny](../assets/sprites/meloetta-aria/front_shiny.gif) | ![Back Shiny](../assets/sprites/meloetta-aria/back_shiny.gif) |
 
 ### Cries
 

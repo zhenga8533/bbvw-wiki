@@ -1,5 +1,9 @@
 # #339 Barboach (Whiskers Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/barboach/official_artwork.png) | ![Shiny Artwork](../assets/sprites/barboach/official_artwork_shiny.png) |
+
 Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud.
 
 ---
@@ -8,7 +12,9 @@ Its slimy body is hard to grasp. In one region, it is said to have been born fro
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/barboach/front.gif) | ![Back](../assets/sprites/barboach/back.gif) | ![Front Shiny](../assets/sprites/barboach/front_shiny.gif) | ![Back Shiny](../assets/sprites/barboach/back_shiny.gif) |
 
 ### Cries
 

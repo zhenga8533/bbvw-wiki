@@ -1,5 +1,9 @@
 # #259 Marshtomp (Mud Fish Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/marshtomp/official_artwork.png) | ![Shiny Artwork](../assets/sprites/marshtomp/official_artwork_shiny.png) |
+
 Its sturdy legs give it sure footing, even in mud. It burrows into dirt to sleep.
 
 ---
@@ -8,7 +12,9 @@ Its sturdy legs give it sure footing, even in mud. It burrows into dirt to sleep
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/marshtomp/front.gif) | ![Back](../assets/sprites/marshtomp/back.gif) | ![Front Shiny](../assets/sprites/marshtomp/front_shiny.gif) | ![Back Shiny](../assets/sprites/marshtomp/back_shiny.gif) |
 
 ### Cries
 

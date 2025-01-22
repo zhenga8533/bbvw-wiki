@@ -1,5 +1,9 @@
 # #223 Remoraid (Jet Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/remoraid/official_artwork.png) | ![Shiny Artwork](../assets/sprites/remoraid/official_artwork_shiny.png) |
+
 It forcefully squirts water. The water jet never misses prey even if the Remoraid is deep in the sea.
 
 ---
@@ -8,7 +12,9 @@ It forcefully squirts water. The water jet never misses prey even if the Remorai
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/remoraid/front.gif) | ![Back](../assets/sprites/remoraid/back.gif) | ![Front Shiny](../assets/sprites/remoraid/front_shiny.gif) | ![Back Shiny](../assets/sprites/remoraid/back_shiny.gif) |
 
 ### Cries
 

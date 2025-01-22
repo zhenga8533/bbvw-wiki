@@ -1,5 +1,9 @@
 # #003 Venusaur (Seed Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/venusaur/official_artwork.png) | ![Shiny Artwork](../assets/sprites/venusaur/official_artwork_shiny.png) |
+
 After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.
 
 ---
@@ -8,7 +12,15 @@ After a rainy day, the flower on its back smells stronger. The scent attracts ot
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/venusaur/front.gif) | ![Back](../assets/sprites/venusaur/back.gif) | ![Front Shiny](../assets/sprites/venusaur/front_shiny.gif) | ![Back Shiny](../assets/sprites/venusaur/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/venusaur/front_female.gif) | ![Back](../assets/sprites/venusaur/back_female.gif) | ![Front Shiny](../assets/sprites/venusaur/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/venusaur/back_shiny_female.gif) |
 
 ### Cries
 

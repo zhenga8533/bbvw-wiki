@@ -1,5 +1,9 @@
 # #972 Houndstone (Ghost Dog Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/houndstone/official_artwork.png) | ![Shiny Artwork](../assets/sprites/houndstone/official_artwork_shiny.png) |
+
 A lovingly mourned Pokémon was reborn as Houndstone. It doesn’t like anyone touching the protuberance atop its head.
 
 ---
@@ -7,8 +11,6 @@ A lovingly mourned Pokémon was reborn as Houndstone. It doesn’t like anyone t
 ## Media
 
 ### Sprites
-
-### Female Sprites
 
 ### Cries
 

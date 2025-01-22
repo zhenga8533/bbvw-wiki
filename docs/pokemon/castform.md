@@ -1,5 +1,9 @@
 # #351 Castform (Weather Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/castform/official_artwork.png) | ![Shiny Artwork](../assets/sprites/castform/official_artwork_shiny.png) |
+
 Its appearance changes with the weather. Recently, its molecules were found to be just like water.
 
 ---
@@ -8,7 +12,9 @@ Its appearance changes with the weather. Recently, its molecules were found to b
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/castform/front.gif) | ![Back](../assets/sprites/castform/back.gif) | ![Front Shiny](../assets/sprites/castform/front_shiny.gif) | ![Back Shiny](../assets/sprites/castform/back_shiny.gif) |
 
 ### Cries
 

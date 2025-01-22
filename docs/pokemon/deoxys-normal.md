@@ -1,5 +1,9 @@
 # #386 Deoxys Normal (DNA Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/deoxys-normal/official_artwork.png) | ![Shiny Artwork](../assets/sprites/deoxys-normal/official_artwork_shiny.png) |
+
 An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon.
 
 ---
@@ -8,7 +12,9 @@ An alien virus that fell to earth on a meteor underwent a DNA mutation to become
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/deoxys-normal/front.gif) | ![Back](../assets/sprites/deoxys-normal/back.gif) | ![Front Shiny](../assets/sprites/deoxys-normal/front_shiny.gif) | ![Back Shiny](../assets/sprites/deoxys-normal/back_shiny.gif) |
 
 ### Cries
 

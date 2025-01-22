@@ -1,5 +1,9 @@
 # #574 Gothita (Fixation Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/gothita/official_artwork.png) | ![Shiny Artwork](../assets/sprites/gothita/official_artwork_shiny.png) |
+
 **Blaze Black:** Their ribbonlike feelers increase their psychic power. They are always staring at something.
 
 **Volt White:** They intently observe both Trainers and Pokémon. Apparently, they are looking at something that only Gothita can see.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/gothita/front.gif) | ![Back](../assets/sprites/gothita/back.gif) | ![Front Shiny](../assets/sprites/gothita/front_shiny.gif) | ![Back Shiny](../assets/sprites/gothita/back_shiny.gif) |
 
 ### Cries
 

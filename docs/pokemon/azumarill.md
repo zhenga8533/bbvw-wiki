@@ -1,5 +1,9 @@
 # #184 Azumarill (Aqua Rabbit Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/azumarill/official_artwork.png) | ![Shiny Artwork](../assets/sprites/azumarill/official_artwork_shiny.png) |
+
 It can spend all day in water, since it can inhale and store a large volume of air.
 
 ---
@@ -8,7 +12,9 @@ It can spend all day in water, since it can inhale and store a large volume of a
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/azumarill/front.gif) | ![Back](../assets/sprites/azumarill/back.gif) | ![Front Shiny](../assets/sprites/azumarill/front_shiny.gif) | ![Back Shiny](../assets/sprites/azumarill/back_shiny.gif) |
 
 ### Cries
 

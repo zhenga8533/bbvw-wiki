@@ -1,5 +1,9 @@
 # #10052 Mawile Mega (Deceiver Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/mawile-mega/official_artwork.png) | ![Shiny Artwork](../assets/sprites/mawile-mega/official_artwork_shiny.png) |
+
 Attached to its head is a huge set of jaws formed by horns. It can chew through iron beams.
 
 ---
@@ -8,7 +12,9 @@ Attached to its head is a huge set of jaws formed by horns. It can chew through 
 
 ### Sprites
 
-### Female Sprites
+| Front | Front Shiny |
+| --- | --- |
+| ![Front](../assets/sprites/mawile-mega/front.png) | ![Front Shiny](../assets/sprites/mawile-mega/front_shiny.png) |
 
 ### Cries
 

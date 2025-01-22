@@ -1,5 +1,9 @@
 # #617 Accelgor (Shell Out Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/accelgor/official_artwork.png) | ![Shiny Artwork](../assets/sprites/accelgor/official_artwork_shiny.png) |
+
 **Blaze Black:** When its body dries out, it weakens. So, to prevent dehydration, it wraps itself in many layers of thin membrane.
 
 **Volt White:** Having removed its heavy shell, it becomes very light and can fight with ninja-like movements.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/accelgor/front.gif) | ![Back](../assets/sprites/accelgor/back.gif) | ![Front Shiny](../assets/sprites/accelgor/front_shiny.gif) | ![Back Shiny](../assets/sprites/accelgor/back_shiny.gif) |
 
 ### Cries
 

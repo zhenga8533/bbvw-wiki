@@ -1,5 +1,9 @@
 # #103 Exeggutor (Coconut Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/exeggutor/official_artwork.png) | ![Shiny Artwork](../assets/sprites/exeggutor/official_artwork_shiny.png) |
+
 It is called “The Walking Jungle.” If a head grows too big, it falls off and becomes an Exeggcute.
 
 ---
@@ -8,7 +12,9 @@ It is called “The Walking Jungle.” If a head grows too big, it falls off and
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/exeggutor/front.gif) | ![Back](../assets/sprites/exeggutor/back.gif) | ![Front Shiny](../assets/sprites/exeggutor/front_shiny.gif) | ![Back Shiny](../assets/sprites/exeggutor/back_shiny.gif) |
 
 ### Cries
 

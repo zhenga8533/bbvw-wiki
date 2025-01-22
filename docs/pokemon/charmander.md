@@ -1,5 +1,9 @@
 # #004 Charmander (Lizard Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/charmander/official_artwork.png) | ![Shiny Artwork](../assets/sprites/charmander/official_artwork_shiny.png) |
+
 The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.
 
 ---
@@ -8,7 +12,9 @@ The fire on the tip of its tail is a measure of its life. If healthy, its tail b
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/charmander/front.gif) | ![Back](../assets/sprites/charmander/back.gif) | ![Front Shiny](../assets/sprites/charmander/front_shiny.gif) | ![Back Shiny](../assets/sprites/charmander/back_shiny.gif) |
 
 ### Cries
 

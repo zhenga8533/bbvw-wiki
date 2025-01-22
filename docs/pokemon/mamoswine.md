@@ -1,5 +1,9 @@
 # #473 Mamoswine (Twin Tusk Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/mamoswine/official_artwork.png) | ![Shiny Artwork](../assets/sprites/mamoswine/official_artwork_shiny.png) |
+
 A frozen one was dug up from soil dating back 10,000 years. It woke up to much amazement.
 
 ---
@@ -8,7 +12,15 @@ A frozen one was dug up from soil dating back 10,000 years. It woke up to much a
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/mamoswine/front.gif) | ![Back](../assets/sprites/mamoswine/back.gif) | ![Front Shiny](../assets/sprites/mamoswine/front_shiny.gif) | ![Back Shiny](../assets/sprites/mamoswine/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/mamoswine/front_female.gif) | ![Back](../assets/sprites/mamoswine/back_female.gif) | ![Front Shiny](../assets/sprites/mamoswine/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/mamoswine/back_shiny_female.gif) |
 
 ### Cries
 

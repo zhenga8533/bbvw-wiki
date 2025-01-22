@@ -1,5 +1,9 @@
 # #552 Krokorok (Desert Croc Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/krokorok/official_artwork.png) | ![Shiny Artwork](../assets/sprites/krokorok/official_artwork_shiny.png) |
+
 **Blaze Black:** They live in groups of a few individuals. Protective membranes shield their eyes from sandstorms.
 
 **Volt White:** The special membrane covering its eyes can sense the heat of objects, so it can see its surroundings even in darkness.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/krokorok/front.gif) | ![Back](../assets/sprites/krokorok/back.gif) | ![Front Shiny](../assets/sprites/krokorok/front_shiny.gif) | ![Back Shiny](../assets/sprites/krokorok/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #594 Alomomola (Caring Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/alomomola/official_artwork.png) | ![Shiny Artwork](../assets/sprites/alomomola/official_artwork_shiny.png) |
+
 **Blaze Black:** The special membrane enveloping Alomomola has the ability to heal wounds.
 
 **Volt White:** Floating in the open sea is how they live. When they find a wounded Pokémon, they embrace it and bring it to shore.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/alomomola/front.gif) | ![Back](../assets/sprites/alomomola/back.gif) | ![Front Shiny](../assets/sprites/alomomola/front_shiny.gif) | ![Back Shiny](../assets/sprites/alomomola/back_shiny.gif) |
 
 ### Cries
 

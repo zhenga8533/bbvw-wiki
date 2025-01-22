@@ -1,5 +1,9 @@
 # #225 Delibird (Delivery Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/delibird/official_artwork.png) | ![Shiny Artwork](../assets/sprites/delibird/official_artwork_shiny.png) |
+
 It carries food rolled up in its tail. It has the habit of sharing food with people lost in mountains.
 
 ---
@@ -8,7 +12,9 @@ It carries food rolled up in its tail. It has the habit of sharing food with peo
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/delibird/front.gif) | ![Back](../assets/sprites/delibird/back.gif) | ![Front Shiny](../assets/sprites/delibird/front_shiny.gif) | ![Back Shiny](../assets/sprites/delibird/back_shiny.gif) |
 
 ### Cries
 

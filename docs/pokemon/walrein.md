@@ -1,5 +1,9 @@
 # #365 Walrein (Ice Break Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/walrein/official_artwork.png) | ![Shiny Artwork](../assets/sprites/walrein/official_artwork_shiny.png) |
+
 It shatters ice with its big tusks. Its thick blubber repels not only the cold, but also enemy attacks.
 
 ---
@@ -8,7 +12,9 @@ It shatters ice with its big tusks. Its thick blubber repels not only the cold, 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/walrein/front.gif) | ![Back](../assets/sprites/walrein/back.gif) | ![Front Shiny](../assets/sprites/walrein/front_shiny.gif) | ![Back Shiny](../assets/sprites/walrein/back_shiny.gif) |
 
 ### Cries
 

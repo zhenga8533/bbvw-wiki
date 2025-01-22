@@ -1,5 +1,9 @@
 # #506 Lillipup (Puppy Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/lillipup/official_artwork.png) | ![Shiny Artwork](../assets/sprites/lillipup/official_artwork_shiny.png) |
+
 **Blaze Black:** It faces strong opponents with great courage. But, when at a disadvantage in a fight, this intelligent Pokémon flees.
 
 **Volt White:** The long hair around its face provides an amazing radar that lets it sense subtle changes in its surroundings.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/lillipup/front.gif) | ![Back](../assets/sprites/lillipup/back.gif) | ![Front Shiny](../assets/sprites/lillipup/front_shiny.gif) | ![Back Shiny](../assets/sprites/lillipup/back_shiny.gif) |
 
 ### Cries
 

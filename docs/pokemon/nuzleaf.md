@@ -1,5 +1,9 @@
 # #274 Nuzleaf (Wily Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/nuzleaf/official_artwork.png) | ![Shiny Artwork](../assets/sprites/nuzleaf/official_artwork_shiny.png) |
+
 The sound of its grass flute makes its listeners uneasy. It lives deep in forests.
 
 ---
@@ -8,7 +12,15 @@ The sound of its grass flute makes its listeners uneasy. It lives deep in forest
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/nuzleaf/front.gif) | ![Back](../assets/sprites/nuzleaf/back.gif) | ![Front Shiny](../assets/sprites/nuzleaf/front_shiny.gif) | ![Back Shiny](../assets/sprites/nuzleaf/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/nuzleaf/front_female.gif) | ![Back](../assets/sprites/nuzleaf/back_female.gif) | ![Front Shiny](../assets/sprites/nuzleaf/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/nuzleaf/back_shiny_female.gif) |
 
 ### Cries
 

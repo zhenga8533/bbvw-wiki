@@ -1,5 +1,9 @@
 # #10024 Keldeo Resolute (Colt Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/keldeo-resolute/official_artwork.png) | ![Shiny Artwork](../assets/sprites/keldeo-resolute/official_artwork_shiny.png) |
+
 **Blaze Black:** By blasting water from its hooves, it can glide across water. It excels at using leg moves while battling.
 
 **Volt White:** It crosses the world, running over the surfaces of oceans and rivers. It appears at scenic waterfronts.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/keldeo-resolute/front.gif) | ![Back](../assets/sprites/keldeo-resolute/back.gif) | ![Front Shiny](../assets/sprites/keldeo-resolute/front_shiny.gif) | ![Back Shiny](../assets/sprites/keldeo-resolute/back_shiny.gif) |
 
 ### Cries
 

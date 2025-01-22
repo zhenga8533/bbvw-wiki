@@ -1,5 +1,9 @@
 # #398 Staraptor (Predator Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/staraptor/official_artwork.png) | ![Shiny Artwork](../assets/sprites/staraptor/official_artwork_shiny.png) |
+
 It never stops attacking even if it is injured. It fusses over the shape of its comb.
 
 ---
@@ -8,7 +12,15 @@ It never stops attacking even if it is injured. It fusses over the shape of its 
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/staraptor/front.gif) | ![Back](../assets/sprites/staraptor/back.gif) | ![Front Shiny](../assets/sprites/staraptor/front_shiny.gif) | ![Back Shiny](../assets/sprites/staraptor/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/staraptor/front_female.gif) | ![Back](../assets/sprites/staraptor/back_female.gif) | ![Front Shiny](../assets/sprites/staraptor/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/staraptor/back_shiny_female.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #579 Reuniclus (Multiplying Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/reuniclus/official_artwork.png) | ![Shiny Artwork](../assets/sprites/reuniclus/official_artwork_shiny.png) |
+
 **Blaze Black:** When Reuniclus shake hands, a network forms between their brains, increasing their psychic power.
 
 **Volt White:** These remarkably intelligent Pokémon fight by controlling arms that can grip with rock-crushing power.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/reuniclus/front.gif) | ![Back](../assets/sprites/reuniclus/back.gif) | ![Front Shiny](../assets/sprites/reuniclus/front_shiny.gif) | ![Back Shiny](../assets/sprites/reuniclus/back_shiny.gif) |
 
 ### Cries
 

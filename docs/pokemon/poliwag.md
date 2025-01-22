@@ -1,5 +1,9 @@
 # #060 Poliwag (Tadpole Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/poliwag/official_artwork.png) | ![Shiny Artwork](../assets/sprites/poliwag/official_artwork_shiny.png) |
+
 Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.
 
 ---
@@ -8,7 +12,9 @@ Its skin is so thin, its internal organs are visible. It has trouble walking on 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/poliwag/front.gif) | ![Back](../assets/sprites/poliwag/back.gif) | ![Front Shiny](../assets/sprites/poliwag/front_shiny.gif) | ![Back Shiny](../assets/sprites/poliwag/back_shiny.gif) |
 
 ### Cries
 

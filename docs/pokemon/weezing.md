@@ -1,5 +1,9 @@
 # #110 Weezing (Poison Gas Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/weezing/official_artwork.png) | ![Shiny Artwork](../assets/sprites/weezing/official_artwork_shiny.png) |
+
 It grows by feeding on gases released by garbage. Though very rare, triplets have been found.
 
 ---
@@ -8,7 +12,9 @@ It grows by feeding on gases released by garbage. Though very rare, triplets hav
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/weezing/front.gif) | ![Back](../assets/sprites/weezing/back.gif) | ![Front Shiny](../assets/sprites/weezing/front_shiny.gif) | ![Back Shiny](../assets/sprites/weezing/back_shiny.gif) |
 
 ### Cries
 

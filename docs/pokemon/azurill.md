@@ -1,5 +1,9 @@
 # #298 Azurill (Polka Dot Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/azurill/official_artwork.png) | ![Shiny Artwork](../assets/sprites/azurill/official_artwork_shiny.png) |
+
 Its tail bounces like a rubber ball. It flings that tail around to fight opponents bigger than itself.
 
 ---
@@ -8,7 +12,9 @@ Its tail bounces like a rubber ball. It flings that tail around to fight opponen
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/azurill/front.gif) | ![Back](../assets/sprites/azurill/back.gif) | ![Front Shiny](../assets/sprites/azurill/front_shiny.gif) | ![Back Shiny](../assets/sprites/azurill/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #360 Wynaut (Bright Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/wynaut/official_artwork.png) | ![Shiny Artwork](../assets/sprites/wynaut/official_artwork_shiny.png) |
+
 It grows strong by pushing up against others en masse. It loves eating sweet fruit.
 
 ---
@@ -8,7 +12,9 @@ It grows strong by pushing up against others en masse. It loves eating sweet fru
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/wynaut/front.gif) | ![Back](../assets/sprites/wynaut/back.gif) | ![Front Shiny](../assets/sprites/wynaut/front_shiny.gif) | ![Back Shiny](../assets/sprites/wynaut/back_shiny.gif) |
 
 ### Cries
 

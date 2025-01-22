@@ -1,5 +1,9 @@
 # #10180 Stunfisk Galar (Trap Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/stunfisk-galar/official_artwork.png) | ![Shiny Artwork](../assets/sprites/stunfisk-galar/official_artwork_shiny.png) |
+
 **Blaze Black:** Its skin is very hard, so it is unhurt even if stepped on by sumo wrestlers. It smiles when transmitting electricity.
 
 **Volt White:** It conceals itself in the mud of the seashore. Then it waits. When prey touch it, it delivers a jolt of electricity.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/stunfisk-galar/front.png) | ![Back](../assets/sprites/stunfisk-galar/back.png) | ![Front Shiny](../assets/sprites/stunfisk-galar/front_shiny.png) | ![Back Shiny](../assets/sprites/stunfisk-galar/back_shiny.png) |
 
 ### Cries
 

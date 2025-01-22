@@ -1,5 +1,9 @@
 # #560 Scrafty (Hoodlum Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/scrafty/official_artwork.png) | ![Shiny Artwork](../assets/sprites/scrafty/official_artwork_shiny.png) |
+
 **Blaze Black:** Groups of them beat up anything that enters their territory. Each can spit acidic liquid from its mouth.
 
 **Volt White:** It can smash concrete blocks with its kicking attacks. The one with the biggest crest is the group leader.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/scrafty/front.gif) | ![Back](../assets/sprites/scrafty/back.gif) | ![Front Shiny](../assets/sprites/scrafty/front_shiny.gif) | ![Back Shiny](../assets/sprites/scrafty/back_shiny.gif) |
 
 ### Cries
 

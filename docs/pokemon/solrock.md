@@ -1,5 +1,9 @@
 # #338 Solrock (Meteorite Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/solrock/official_artwork.png) | ![Shiny Artwork](../assets/sprites/solrock/official_artwork_shiny.png) |
+
 A new Pokémon species, rumored to be from the sun. It gives off light while spinning.
 
 ---
@@ -8,7 +12,9 @@ A new Pokémon species, rumored to be from the sun. It gives off light while spi
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/solrock/front.gif) | ![Back](../assets/sprites/solrock/back.gif) | ![Front Shiny](../assets/sprites/solrock/front_shiny.gif) | ![Back Shiny](../assets/sprites/solrock/back_shiny.gif) |
 
 ### Cries
 

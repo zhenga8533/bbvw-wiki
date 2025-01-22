@@ -1,5 +1,9 @@
 # #10057 Absol Mega (Disaster Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/absol-mega/official_artwork.png) | ![Shiny Artwork](../assets/sprites/absol-mega/official_artwork_shiny.png) |
+
 Rumored to sense disasters with its horn, it became a target. It fled deep into the mountains.
 
 ---
@@ -8,7 +12,9 @@ Rumored to sense disasters with its horn, it became a target. It fled deep into 
 
 ### Sprites
 
-### Female Sprites
+| Front | Front Shiny |
+| --- | --- |
+| ![Front](../assets/sprites/absol-mega/front.png) | ![Front Shiny](../assets/sprites/absol-mega/front_shiny.png) |
 
 ### Cries
 

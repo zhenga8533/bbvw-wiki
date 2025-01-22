@@ -1,5 +1,9 @@
 # #100 Voltorb (Ball Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/voltorb/official_artwork.png) | ![Shiny Artwork](../assets/sprites/voltorb/official_artwork_shiny.png) |
+
 It looks just like a Poké Ball. It is dangerous because it may electrocute or explode on touch.
 
 ---
@@ -8,7 +12,9 @@ It looks just like a Poké Ball. It is dangerous because it may electrocute or e
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/voltorb/front.gif) | ![Back](../assets/sprites/voltorb/back.gif) | ![Front Shiny](../assets/sprites/voltorb/front_shiny.gif) | ![Back Shiny](../assets/sprites/voltorb/back_shiny.gif) |
 
 ### Cries
 

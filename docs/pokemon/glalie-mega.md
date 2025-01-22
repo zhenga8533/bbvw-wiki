@@ -1,5 +1,9 @@
 # #10074 Glalie Mega (Face Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/glalie-mega/official_artwork.png) | ![Shiny Artwork](../assets/sprites/glalie-mega/official_artwork_shiny.png) |
+
 It prevents prey from escaping by instantaneously freezing moisture in the air.
 
 ---
@@ -8,7 +12,9 @@ It prevents prey from escaping by instantaneously freezing moisture in the air.
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/glalie-mega/front.png) | ![Back](../assets/sprites/glalie-mega/back.png) | ![Front Shiny](../assets/sprites/glalie-mega/front_shiny.png) | ![Back Shiny](../assets/sprites/glalie-mega/back_shiny.png) |
 
 ### Cries
 

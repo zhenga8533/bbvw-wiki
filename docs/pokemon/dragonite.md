@@ -1,5 +1,9 @@
 # #149 Dragonite (Dragon Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/dragonite/official_artwork.png) | ![Shiny Artwork](../assets/sprites/dragonite/official_artwork_shiny.png) |
+
 It is said to make its home somewhere in the sea. It guides crews of shipwrecks to shore.
 
 ---
@@ -8,7 +12,9 @@ It is said to make its home somewhere in the sea. It guides crews of shipwrecks 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/dragonite/front.gif) | ![Back](../assets/sprites/dragonite/back.gif) | ![Front Shiny](../assets/sprites/dragonite/front_shiny.gif) | ![Back Shiny](../assets/sprites/dragonite/back_shiny.gif) |
 
 ### Cries
 

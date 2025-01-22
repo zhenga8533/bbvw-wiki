@@ -1,5 +1,9 @@
 # #434 Stunky (Skunk Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/stunky/official_artwork.png) | ![Shiny Artwork](../assets/sprites/stunky/official_artwork_shiny.png) |
+
 It sprays a foul fluid from its rear. Its stench spreads over a mile radius, driving Pokémon away.
 
 ---
@@ -8,7 +12,9 @@ It sprays a foul fluid from its rear. Its stench spreads over a mile radius, dri
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/stunky/front.gif) | ![Back](../assets/sprites/stunky/back.gif) | ![Front Shiny](../assets/sprites/stunky/front_shiny.gif) | ![Back Shiny](../assets/sprites/stunky/back_shiny.gif) |
 
 ### Cries
 

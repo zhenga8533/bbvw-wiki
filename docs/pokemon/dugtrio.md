@@ -1,5 +1,9 @@
 # #051 Dugtrio (Mole Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/dugtrio/official_artwork.png) | ![Shiny Artwork](../assets/sprites/dugtrio/official_artwork_shiny.png) |
+
 Its three heads move alternately, driving it through tough soil to depths of over 60 miles.
 
 ---
@@ -8,7 +12,9 @@ Its three heads move alternately, driving it through tough soil to depths of ove
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/dugtrio/front.gif) | ![Back](../assets/sprites/dugtrio/back.gif) | ![Front Shiny](../assets/sprites/dugtrio/front_shiny.gif) | ![Back Shiny](../assets/sprites/dugtrio/back_shiny.gif) |
 
 ### Cries
 

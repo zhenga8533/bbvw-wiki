@@ -1,5 +1,9 @@
 # #154 Meganium (Herb Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/meganium/official_artwork.png) | ![Shiny Artwork](../assets/sprites/meganium/official_artwork_shiny.png) |
+
 Its breath has the fantastic ability to revive dead plants and flowers.
 
 ---
@@ -8,7 +12,15 @@ Its breath has the fantastic ability to revive dead plants and flowers.
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/meganium/front.gif) | ![Back](../assets/sprites/meganium/back.gif) | ![Front Shiny](../assets/sprites/meganium/front_shiny.gif) | ![Back Shiny](../assets/sprites/meganium/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/meganium/front_female.gif) | ![Back](../assets/sprites/meganium/back_female.gif) | ![Front Shiny](../assets/sprites/meganium/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/meganium/back_shiny_female.gif) |
 
 ### Cries
 

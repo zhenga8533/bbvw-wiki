@@ -1,5 +1,9 @@
 # #564 Tirtouga (Prototurtle Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/tirtouga/official_artwork.png) | ![Shiny Artwork](../assets/sprites/tirtouga/official_artwork_shiny.png) |
+
 **Blaze Black:** Restored from a fossil, this Pokémon can dive to depths beyond half a mile.
 
 **Volt White:** About 100 million years ago, these Pokémon swam in oceans. It is thought they also went on land to attack prey.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/tirtouga/front.gif) | ![Back](../assets/sprites/tirtouga/back.gif) | ![Front Shiny](../assets/sprites/tirtouga/front_shiny.gif) | ![Back Shiny](../assets/sprites/tirtouga/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #278 Wingull (Seagull Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/wingull/official_artwork.png) | ![Shiny Artwork](../assets/sprites/wingull/official_artwork_shiny.png) |
+
 It soars high in the sky, riding on updrafts like a glider. It carries food tucked in its bill.
 
 ---
@@ -8,7 +12,9 @@ It soars high in the sky, riding on updrafts like a glider. It carries food tuck
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/wingull/front.gif) | ![Back](../assets/sprites/wingull/back.gif) | ![Front Shiny](../assets/sprites/wingull/front_shiny.gif) | ![Back Shiny](../assets/sprites/wingull/back_shiny.gif) |
 
 ### Cries
 

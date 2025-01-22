@@ -1,5 +1,9 @@
 # #10169 Articuno Galar (Freeze Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/articuno-galar/official_artwork.png) | ![Shiny Artwork](../assets/sprites/articuno-galar/official_artwork_shiny.png) |
+
 A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.
 
 ---
@@ -8,7 +12,9 @@ A legendary bird Pokémon. It can create blizzards by freezing moisture in the a
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/articuno-galar/front.png) | ![Back](../assets/sprites/articuno-galar/back.png) | ![Front Shiny](../assets/sprites/articuno-galar/front_shiny.png) | ![Back Shiny](../assets/sprites/articuno-galar/back_shiny.png) |
 
 ### Cries
 

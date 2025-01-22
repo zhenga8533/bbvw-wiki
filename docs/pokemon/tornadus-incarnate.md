@@ -1,5 +1,9 @@
 # #641 Tornadus Incarnate (Cyclone Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/tornadus-incarnate/official_artwork.png) | ![Shiny Artwork](../assets/sprites/tornadus-incarnate/official_artwork_shiny.png) |
+
 **Blaze Black:** The lower half of its body is wrapped in a cloud of energy. It zooms through the sky at 200 mph.
 
 **Volt White:** Tornadus expels massive energy from its tail, causing severe storms. Its power is great enough to blow houses away.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/tornadus-incarnate/front.gif) | ![Back](../assets/sprites/tornadus-incarnate/back.gif) | ![Front Shiny](../assets/sprites/tornadus-incarnate/front_shiny.gif) | ![Back Shiny](../assets/sprites/tornadus-incarnate/back_shiny.gif) |
 
 ### Cries
 

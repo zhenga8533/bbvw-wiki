@@ -1,5 +1,9 @@
 # #155 Cyndaquil (Fire Mouse Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/cyndaquil/official_artwork.png) | ![Shiny Artwork](../assets/sprites/cyndaquil/official_artwork_shiny.png) |
+
 It has a timid nature. If it is startled, the flames on its back burn more vigorously.
 
 ---
@@ -8,7 +12,9 @@ It has a timid nature. If it is startled, the flames on its back burn more vigor
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/cyndaquil/front.gif) | ![Back](../assets/sprites/cyndaquil/back.gif) | ![Front Shiny](../assets/sprites/cyndaquil/front_shiny.gif) | ![Back Shiny](../assets/sprites/cyndaquil/back_shiny.gif) |
 
 ### Cries
 

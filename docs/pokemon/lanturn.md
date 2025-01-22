@@ -1,5 +1,9 @@
 # #171 Lanturn (Light Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/lanturn/official_artwork.png) | ![Shiny Artwork](../assets/sprites/lanturn/official_artwork_shiny.png) |
+
 Lanturn’s light can shine up from great depths. It is nicknamed “The Deep-Sea Star.”
 
 ---
@@ -8,7 +12,9 @@ Lanturn’s light can shine up from great depths. It is nicknamed “The Deep-Se
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/lanturn/front.gif) | ![Back](../assets/sprites/lanturn/back.gif) | ![Front Shiny](../assets/sprites/lanturn/front_shiny.gif) | ![Back Shiny](../assets/sprites/lanturn/back_shiny.gif) |
 
 ### Cries
 

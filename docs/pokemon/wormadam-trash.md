@@ -1,5 +1,9 @@
 # #10005 Wormadam Trash (Bagworm Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/wormadam-trash/official_artwork.png) | ![Shiny Artwork](../assets/sprites/wormadam-trash/official_artwork_shiny.png) |
+
 When evolving, its body takes in surrounding materials. As a result, there are many body variations.
 
 ---
@@ -8,7 +12,9 @@ When evolving, its body takes in surrounding materials. As a result, there are m
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/wormadam-trash/front.gif) | ![Back](../assets/sprites/wormadam-trash/back.gif) | ![Front Shiny](../assets/sprites/wormadam-trash/front_shiny.gif) | ![Back Shiny](../assets/sprites/wormadam-trash/back_shiny.gif) |
 
 ### Cries
 

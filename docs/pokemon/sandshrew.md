@@ -1,5 +1,9 @@
 # #027 Sandshrew (Mouse Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/sandshrew/official_artwork.png) | ![Shiny Artwork](../assets/sprites/sandshrew/official_artwork_shiny.png) |
+
 To protect itself from attackers, it curls up into a ball. It lives in arid regions with minimal rainfall.
 
 ---
@@ -8,7 +12,9 @@ To protect itself from attackers, it curls up into a ball. It lives in arid regi
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/sandshrew/front.gif) | ![Back](../assets/sprites/sandshrew/back.gif) | ![Front Shiny](../assets/sprites/sandshrew/front_shiny.gif) | ![Back Shiny](../assets/sprites/sandshrew/back_shiny.gif) |
 
 ### Cries
 

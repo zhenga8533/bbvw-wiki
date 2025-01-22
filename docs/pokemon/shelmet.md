@@ -1,5 +1,9 @@
 # #616 Shelmet (Snail Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/shelmet/official_artwork.png) | ![Shiny Artwork](../assets/sprites/shelmet/official_artwork_shiny.png) |
+
 **Blaze Black:** When attacked, it defends itself by closing the lid of its shell. It can spit a sticky, poisonous liquid.
 
 **Volt White:** It evolves when bathed in an electric-like energy along with Karrablast. The reason is still unknown.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/shelmet/front.gif) | ![Back](../assets/sprites/shelmet/back.gif) | ![Front Shiny](../assets/sprites/shelmet/front_shiny.gif) | ![Back Shiny](../assets/sprites/shelmet/back_shiny.gif) |
 
 ### Cries
 

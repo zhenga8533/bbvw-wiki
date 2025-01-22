@@ -1,5 +1,9 @@
 # #530 Excadrill (Subterrene Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/excadrill/official_artwork.png) | ![Shiny Artwork](../assets/sprites/excadrill/official_artwork_shiny.png) |
+
 **Blaze Black:** It can help in tunnel construction. Its drill has evolved into steel strong enough to bore through iron plates.
 
 **Volt White:** More than 300 feet below the surface, they build mazelike nests. Their activity can be destructive to subway tunnels.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/excadrill/front.gif) | ![Back](../assets/sprites/excadrill/back.gif) | ![Front Shiny](../assets/sprites/excadrill/front_shiny.gif) | ![Back Shiny](../assets/sprites/excadrill/back_shiny.gif) |
 
 ### Cries
 

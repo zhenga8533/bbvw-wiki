@@ -1,5 +1,9 @@
 # #296 Makuhita (Guts Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/makuhita/official_artwork.png) | ![Shiny Artwork](../assets/sprites/makuhita/official_artwork_shiny.png) |
+
 It toughens its body by slamming into thick trees. Many snapped trees can be found near its nest.
 
 ---
@@ -8,7 +12,9 @@ It toughens its body by slamming into thick trees. Many snapped trees can be fou
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/makuhita/front.gif) | ![Back](../assets/sprites/makuhita/back.gif) | ![Front Shiny](../assets/sprites/makuhita/front_shiny.gif) | ![Back Shiny](../assets/sprites/makuhita/back_shiny.gif) |
 
 ### Cries
 

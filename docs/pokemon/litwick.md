@@ -1,5 +1,9 @@
 # #607 Litwick (Candle Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/litwick/official_artwork.png) | ![Shiny Artwork](../assets/sprites/litwick/official_artwork_shiny.png) |
+
 **Blaze Black:** Litwick shines a light that absorbs the life energy of people and Pokémon, which becomes the fuel that it burns.
 
 **Volt White:** While shining a light and pretending to be a guide, it leeches off the life force of any who follow it.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/litwick/front.gif) | ![Back](../assets/sprites/litwick/back.gif) | ![Front Shiny](../assets/sprites/litwick/front_shiny.gif) | ![Back Shiny](../assets/sprites/litwick/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #352 Kecleon (Color Swap Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/kecleon/official_artwork.png) | ![Shiny Artwork](../assets/sprites/kecleon/official_artwork_shiny.png) |
+
 It can freely change its body’s color. The zigzag pattern on its belly doesn’t change, however.
 
 ---
@@ -8,7 +12,9 @@ It can freely change its body’s color. The zigzag pattern on its belly doesn�
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/kecleon/front.gif) | ![Back](../assets/sprites/kecleon/back.gif) | ![Front Shiny](../assets/sprites/kecleon/front_shiny.gif) | ![Back Shiny](../assets/sprites/kecleon/back_shiny.gif) |
 
 ### Cries
 

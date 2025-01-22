@@ -1,5 +1,9 @@
 # #313 Volbeat (Firefly Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/volbeat/official_artwork.png) | ![Shiny Artwork](../assets/sprites/volbeat/official_artwork_shiny.png) |
+
 It communicates with others by lighting up its rear at night. It loves Illumise’s sweet aroma.
 
 ---
@@ -8,7 +12,9 @@ It communicates with others by lighting up its rear at night. It loves Illumise�
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/volbeat/front.gif) | ![Back](../assets/sprites/volbeat/back.gif) | ![Front Shiny](../assets/sprites/volbeat/front_shiny.gif) | ![Back Shiny](../assets/sprites/volbeat/back_shiny.gif) |
 
 ### Cries
 

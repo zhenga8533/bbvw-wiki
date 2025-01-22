@@ -1,5 +1,9 @@
 # #256 Combusken (Young Fowl Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/combusken/official_artwork.png) | ![Shiny Artwork](../assets/sprites/combusken/official_artwork_shiny.png) |
+
 Its kicking mastery lets it loose 10 kicks per second. It emits sharp cries to intimidate foes.
 
 ---
@@ -8,7 +12,15 @@ Its kicking mastery lets it loose 10 kicks per second. It emits sharp cries to i
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/combusken/front.gif) | ![Back](../assets/sprites/combusken/back.gif) | ![Front Shiny](../assets/sprites/combusken/front_shiny.gif) | ![Back Shiny](../assets/sprites/combusken/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/combusken/front_female.gif) | ![Back](../assets/sprites/combusken/back_female.gif) | ![Front Shiny](../assets/sprites/combusken/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/combusken/back_shiny_female.gif) |
 
 ### Cries
 

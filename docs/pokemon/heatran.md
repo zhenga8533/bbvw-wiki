@@ -1,5 +1,9 @@
 # #485 Heatran (Lava Dome Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/heatran/official_artwork.png) | ![Shiny Artwork](../assets/sprites/heatran/official_artwork_shiny.png) |
+
 Its body is made of rugged steel. However, it is partially melted in spots because of its own heat.
 
 ---
@@ -8,7 +12,9 @@ Its body is made of rugged steel. However, it is partially melted in spots becau
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/heatran/front.gif) | ![Back](../assets/sprites/heatran/back.gif) | ![Front Shiny](../assets/sprites/heatran/front_shiny.gif) | ![Back Shiny](../assets/sprites/heatran/back_shiny.gif) |
 
 ### Cries
 

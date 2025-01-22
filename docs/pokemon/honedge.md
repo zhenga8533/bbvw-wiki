@@ -1,5 +1,9 @@
 # #679 Honedge (Sword Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/honedge/official_artwork.png) | ![Shiny Artwork](../assets/sprites/honedge/official_artwork_shiny.png) |
+
 The blue eye on the sword’s handguard is the true body of Honedge. With its old cloth, it drains people’s lives away.
 
 ---
@@ -8,7 +12,9 @@ The blue eye on the sword’s handguard is the true body of Honedge. With its ol
 
 ### Sprites
 
-### Female Sprites
+| Front | Front Shiny |
+| --- | --- |
+| ![Front](../assets/sprites/honedge/front.png) | ![Front Shiny](../assets/sprites/honedge/front_shiny.png) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #526 Gigalith (Compressed Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/gigalith/official_artwork.png) | ![Shiny Artwork](../assets/sprites/gigalith/official_artwork_shiny.png) |
+
 **Blaze Black:** Compressing the energy from its internal core lets it fire off an attack capable of blowing away a mountain.
 
 **Volt White:** The solar energy absorbed by its body’s orange crystals is magnified internally and fired from its mouth.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/gigalith/front.gif) | ![Back](../assets/sprites/gigalith/back.gif) | ![Front Shiny](../assets/sprites/gigalith/front_shiny.gif) | ![Back Shiny](../assets/sprites/gigalith/back_shiny.gif) |
 
 ### Cries
 

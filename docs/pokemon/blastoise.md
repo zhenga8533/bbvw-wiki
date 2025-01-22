@@ -1,5 +1,9 @@
 # #009 Blastoise (Shellfish Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/blastoise/official_artwork.png) | ![Shiny Artwork](../assets/sprites/blastoise/official_artwork_shiny.png) |
+
 The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.
 
 ---
@@ -8,7 +12,9 @@ The jets of water it spouts from the rocket cannons on its shell can punch throu
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/blastoise/front.gif) | ![Back](../assets/sprites/blastoise/back.gif) | ![Front Shiny](../assets/sprites/blastoise/front_shiny.gif) | ![Back Shiny](../assets/sprites/blastoise/back_shiny.gif) |
 
 ### Cries
 

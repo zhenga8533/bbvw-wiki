@@ -1,5 +1,9 @@
 # #333 Swablu (Cotton Bird Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/swablu/official_artwork.png) | ![Shiny Artwork](../assets/sprites/swablu/official_artwork_shiny.png) |
+
 It can’t relax if it or its surroundings are not clean. It wipes off dirt with its wings.
 
 ---
@@ -8,7 +12,9 @@ It can’t relax if it or its surroundings are not clean. It wipes off dirt with
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/swablu/front.gif) | ![Back](../assets/sprites/swablu/back.gif) | ![Front Shiny](../assets/sprites/swablu/front_shiny.gif) | ![Back Shiny](../assets/sprites/swablu/back_shiny.gif) |
 
 ### Cries
 

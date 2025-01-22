@@ -1,5 +1,9 @@
 # #501 Oshawott (Sea Otter Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/oshawott/official_artwork.png) | ![Shiny Artwork](../assets/sprites/oshawott/official_artwork_shiny.png) |
+
 **Blaze Black:** It fights using the scalchop on its stomach. In response to an attack, it retaliates immediately by slashing.
 
 **Volt White:** The scalchop on its stomach is made from the same elements as claws. It detaches the scalchop for use as a blade.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/oshawott/front.gif) | ![Back](../assets/sprites/oshawott/back.gif) | ![Front Shiny](../assets/sprites/oshawott/front_shiny.gif) | ![Back Shiny](../assets/sprites/oshawott/back_shiny.gif) |
 
 ### Cries
 

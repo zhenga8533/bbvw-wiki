@@ -1,5 +1,9 @@
 # #047 Parasect (Mushroom Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/parasect/official_artwork.png) | ![Shiny Artwork](../assets/sprites/parasect/official_artwork_shiny.png) |
+
 A mushroom grown larger than the host’s body controls Parasect. It scatters poisonous spores.
 
 ---
@@ -8,7 +12,9 @@ A mushroom grown larger than the host’s body controls Parasect. It scatters po
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/parasect/front.gif) | ![Back](../assets/sprites/parasect/back.gif) | ![Front Shiny](../assets/sprites/parasect/front_shiny.gif) | ![Back Shiny](../assets/sprites/parasect/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #10072 Steelix Mega (Iron Snake Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/steelix-mega/official_artwork.png) | ![Shiny Artwork](../assets/sprites/steelix-mega/official_artwork_shiny.png) |
+
 It is thought its body transformed as a result of iron accumulating internally from swallowing soil.
 
 ---
@@ -8,7 +12,9 @@ It is thought its body transformed as a result of iron accumulating internally f
 
 ### Sprites
 
-### Female Sprites
+| Front | Front Shiny |
+| --- | --- |
+| ![Front](../assets/sprites/steelix-mega/front.png) | ![Front Shiny](../assets/sprites/steelix-mega/front_shiny.png) |
 
 ### Cries
 

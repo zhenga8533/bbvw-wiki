@@ -1,5 +1,9 @@
 # #373 Salamence (Dragon Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/salamence/official_artwork.png) | ![Shiny Artwork](../assets/sprites/salamence/official_artwork_shiny.png) |
+
 As a result of its long-held dream of flying, its cellular structure changed, and wings grew out.
 
 ---
@@ -8,7 +12,9 @@ As a result of its long-held dream of flying, its cellular structure changed, an
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/salamence/front.gif) | ![Back](../assets/sprites/salamence/back.gif) | ![Front Shiny](../assets/sprites/salamence/front_shiny.gif) | ![Back Shiny](../assets/sprites/salamence/back_shiny.gif) |
 
 ### Cries
 

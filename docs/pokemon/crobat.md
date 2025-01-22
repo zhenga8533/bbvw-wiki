@@ -1,5 +1,9 @@
 # #169 Crobat (Bat Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/crobat/official_artwork.png) | ![Shiny Artwork](../assets/sprites/crobat/official_artwork_shiny.png) |
+
 The transformation of its legs into wings made it better at flying, but more clumsy at walking.
 
 ---
@@ -8,7 +12,9 @@ The transformation of its legs into wings made it better at flying, but more clu
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/crobat/front.gif) | ![Back](../assets/sprites/crobat/back.gif) | ![Front Shiny](../assets/sprites/crobat/front_shiny.gif) | ![Back Shiny](../assets/sprites/crobat/back_shiny.gif) |
 
 ### Cries
 

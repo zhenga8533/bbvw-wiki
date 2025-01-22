@@ -1,5 +1,9 @@
 # #316 Gulpin (Stomach Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/gulpin/official_artwork.png) | ![Shiny Artwork](../assets/sprites/gulpin/official_artwork_shiny.png) |
+
 Almost all its body is its stomach. Its harsh digestive juices quickly dissolve anything it swallows.
 
 ---
@@ -8,7 +12,15 @@ Almost all its body is its stomach. Its harsh digestive juices quickly dissolve 
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/gulpin/front.gif) | ![Back](../assets/sprites/gulpin/back.gif) | ![Front Shiny](../assets/sprites/gulpin/front_shiny.gif) | ![Back Shiny](../assets/sprites/gulpin/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/gulpin/front_female.gif) | ![Back](../assets/sprites/gulpin/back_female.gif) | ![Front Shiny](../assets/sprites/gulpin/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/gulpin/back_shiny_female.gif) |
 
 ### Cries
 

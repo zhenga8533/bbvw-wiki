@@ -1,5 +1,9 @@
 # #121 Starmie (Mysterious Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/starmie/official_artwork.png) | ![Shiny Artwork](../assets/sprites/starmie/official_artwork_shiny.png) |
+
 At the center of its body is a red core, which sends mysterious radio signals into the night sky.
 
 ---
@@ -8,7 +12,9 @@ At the center of its body is a red core, which sends mysterious radio signals in
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/starmie/front.gif) | ![Back](../assets/sprites/starmie/back.gif) | ![Front Shiny](../assets/sprites/starmie/front_shiny.gif) | ![Back Shiny](../assets/sprites/starmie/back_shiny.gif) |
 
 ### Cries
 

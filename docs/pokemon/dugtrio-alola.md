@@ -1,5 +1,9 @@
 # #10106 Dugtrio Alola (Mole Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/dugtrio-alola/official_artwork.png) | ![Shiny Artwork](../assets/sprites/dugtrio-alola/official_artwork_shiny.png) |
+
 Its three heads move alternately, driving it through tough soil to depths of over 60 miles.
 
 ---
@@ -8,7 +12,9 @@ Its three heads move alternately, driving it through tough soil to depths of ove
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/dugtrio-alola/front.png) | ![Back](../assets/sprites/dugtrio-alola/back.png) | ![Front Shiny](../assets/sprites/dugtrio-alola/front_shiny.png) | ![Back Shiny](../assets/sprites/dugtrio-alola/back_shiny.png) |
 
 ### Cries
 

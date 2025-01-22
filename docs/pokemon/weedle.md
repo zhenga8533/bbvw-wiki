@@ -1,5 +1,9 @@
 # #013 Weedle (Hairy Bug Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/weedle/official_artwork.png) | ![Shiny Artwork](../assets/sprites/weedle/official_artwork_shiny.png) |
+
 It eats its weight in leaves every day. It fends off attackers with the needle on its head.
 
 ---
@@ -8,7 +12,9 @@ It eats its weight in leaves every day. It fends off attackers with the needle o
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/weedle/front.gif) | ![Back](../assets/sprites/weedle/back.gif) | ![Front Shiny](../assets/sprites/weedle/front_shiny.gif) | ![Back Shiny](../assets/sprites/weedle/back_shiny.gif) |
 
 ### Cries
 

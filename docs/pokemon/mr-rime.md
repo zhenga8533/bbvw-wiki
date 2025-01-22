@@ -1,5 +1,9 @@
 # #866 Mr Rime (Comedian Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/mr-rime/official_artwork.png) | ![Shiny Artwork](../assets/sprites/mr-rime/official_artwork_shiny.png) |
+
 Its amusing movements make it very popular. It releases its psychic power from the pattern on its belly.
 
 ---
@@ -8,7 +12,9 @@ Its amusing movements make it very popular. It releases its psychic power from t
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/mr-rime/front.png) | ![Back](../assets/sprites/mr-rime/back.png) | ![Front Shiny](../assets/sprites/mr-rime/front_shiny.png) | ![Back Shiny](../assets/sprites/mr-rime/back_shiny.png) |
 
 ### Cries
 

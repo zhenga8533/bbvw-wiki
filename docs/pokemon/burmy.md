@@ -1,5 +1,9 @@
 # #412 Burmy (Bagworm Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/burmy/official_artwork.png) | ![Shiny Artwork](../assets/sprites/burmy/official_artwork_shiny.png) |
+
 Even if it is born where there are no cocooning materials, it somehow always ends up with a cloak.
 
 ---
@@ -8,7 +12,9 @@ Even if it is born where there are no cocooning materials, it somehow always end
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/burmy/front.gif) | ![Back](../assets/sprites/burmy/back.gif) | ![Front Shiny](../assets/sprites/burmy/front_shiny.gif) | ![Back Shiny](../assets/sprites/burmy/back_shiny.gif) |
 
 ### Cries
 

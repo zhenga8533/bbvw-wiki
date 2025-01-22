@@ -1,5 +1,9 @@
 # #558 Crustle (Stone Home Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/crustle/official_artwork.png) | ![Shiny Artwork](../assets/sprites/crustle/official_artwork_shiny.png) |
+
 **Blaze Black:** Competing for territory, Crustle fight viciously. The one whose boulder is broken is the loser of the battle.
 
 **Volt White:** It possesses legs of enormous strength, enabling it to carry heavy slabs for many days, even when crossing arid land.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/crustle/front.gif) | ![Back](../assets/sprites/crustle/back.gif) | ![Front Shiny](../assets/sprites/crustle/front_shiny.gif) | ![Back Shiny](../assets/sprites/crustle/back_shiny.gif) |
 
 ### Cries
 

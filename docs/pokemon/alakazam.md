@@ -1,5 +1,9 @@
 # #065 Alakazam (Psi Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/alakazam/official_artwork.png) | ![Shiny Artwork](../assets/sprites/alakazam/official_artwork_shiny.png) |
+
 The spoons clutched in its hands are said to have been created by its psychic powers.
 
 ---
@@ -8,7 +12,15 @@ The spoons clutched in its hands are said to have been created by its psychic po
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/alakazam/front.gif) | ![Back](../assets/sprites/alakazam/back.gif) | ![Front Shiny](../assets/sprites/alakazam/front_shiny.gif) | ![Back Shiny](../assets/sprites/alakazam/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/alakazam/front_female.gif) | ![Back](../assets/sprites/alakazam/back_female.gif) | ![Front Shiny](../assets/sprites/alakazam/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/alakazam/back_shiny_female.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #253 Grovyle (Wood Gecko Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/grovyle/official_artwork.png) | ![Shiny Artwork](../assets/sprites/grovyle/official_artwork_shiny.png) |
+
 It lives in dense jungles. While  closing in on its prey, it leaps from branch to branch.
 
 ---
@@ -8,7 +12,9 @@ It lives in dense jungles. While  closing in on its prey, it leaps from branch t
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/grovyle/front.gif) | ![Back](../assets/sprites/grovyle/back.gif) | ![Front Shiny](../assets/sprites/grovyle/front_shiny.gif) | ![Back Shiny](../assets/sprites/grovyle/back_shiny.gif) |
 
 ### Cries
 

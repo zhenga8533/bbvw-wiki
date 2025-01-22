@@ -1,5 +1,9 @@
 # #486 Regigigas (Colossal Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/regigigas/official_artwork.png) | ![Shiny Artwork](../assets/sprites/regigigas/official_artwork_shiny.png) |
+
 It is said to have made Pokémon that look like itself from a special ice mountain, rocks, and magma.
 
 ---
@@ -8,7 +12,9 @@ It is said to have made Pokémon that look like itself from a special ice mounta
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/regigigas/front.gif) | ![Back](../assets/sprites/regigigas/back.gif) | ![Front Shiny](../assets/sprites/regigigas/front_shiny.gif) | ![Back Shiny](../assets/sprites/regigigas/back_shiny.gif) |
 
 ### Cries
 

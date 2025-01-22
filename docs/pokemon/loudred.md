@@ -1,5 +1,9 @@
 # #294 Loudred (Big Voice Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/loudred/official_artwork.png) | ![Shiny Artwork](../assets/sprites/loudred/official_artwork_shiny.png) |
+
 The shock waves from its cries can tip over trucks. It stamps its feet to power up.
 
 ---
@@ -8,7 +12,9 @@ The shock waves from its cries can tip over trucks. It stamps its feet to power 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/loudred/front.gif) | ![Back](../assets/sprites/loudred/back.gif) | ![Front Shiny](../assets/sprites/loudred/front_shiny.gif) | ![Back Shiny](../assets/sprites/loudred/back_shiny.gif) |
 
 ### Cries
 

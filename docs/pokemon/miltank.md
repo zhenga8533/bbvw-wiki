@@ -1,5 +1,9 @@
 # #241 Miltank (Milk Cow Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/miltank/official_artwork.png) | ![Shiny Artwork](../assets/sprites/miltank/official_artwork_shiny.png) |
+
 It is said that kids who drink Miltank’s milk grow up to become hearty, healthy adults.
 
 ---
@@ -8,7 +12,9 @@ It is said that kids who drink Miltank’s milk grow up to become hearty, health
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/miltank/front.gif) | ![Back](../assets/sprites/miltank/back.gif) | ![Front Shiny](../assets/sprites/miltank/front_shiny.gif) | ![Back Shiny](../assets/sprites/miltank/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #018 Pidgeot (Bird Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/pidgeot/official_artwork.png) | ![Shiny Artwork](../assets/sprites/pidgeot/official_artwork_shiny.png) |
+
 By flapping its wings with all its might, Pidgeot can make a gust of wind capable of bending tall trees.
 
 ---
@@ -8,7 +12,9 @@ By flapping its wings with all its might, Pidgeot can make a gust of wind capabl
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/pidgeot/front.gif) | ![Back](../assets/sprites/pidgeot/back.gif) | ![Front Shiny](../assets/sprites/pidgeot/front_shiny.gif) | ![Back Shiny](../assets/sprites/pidgeot/back_shiny.gif) |
 
 ### Cries
 

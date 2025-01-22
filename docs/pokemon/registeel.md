@@ -1,5 +1,9 @@
 # #379 Registeel (Iron Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/registeel/official_artwork.png) | ![Shiny Artwork](../assets/sprites/registeel/official_artwork_shiny.png) |
+
 Tempered by pressure underground over tens of thousands of years, its body cannot be scratched.
 
 ---
@@ -8,7 +12,9 @@ Tempered by pressure underground over tens of thousands of years, its body canno
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/registeel/front.gif) | ![Back](../assets/sprites/registeel/back.gif) | ![Front Shiny](../assets/sprites/registeel/front_shiny.gif) | ![Back Shiny](../assets/sprites/registeel/back_shiny.gif) |
 
 ### Cries
 

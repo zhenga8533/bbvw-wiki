@@ -1,5 +1,9 @@
 # #071 Victreebel (Flycatcher Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/victreebel/official_artwork.png) | ![Shiny Artwork](../assets/sprites/victreebel/official_artwork_shiny.png) |
+
 It pools in its mouth a fluid with a honeylike scent, which is really an acid that dissolves anything.
 
 ---
@@ -8,7 +12,9 @@ It pools in its mouth a fluid with a honeylike scent, which is really an acid th
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/victreebel/front.gif) | ![Back](../assets/sprites/victreebel/back.gif) | ![Front Shiny](../assets/sprites/victreebel/front_shiny.gif) | ![Back Shiny](../assets/sprites/victreebel/back_shiny.gif) |
 
 ### Cries
 

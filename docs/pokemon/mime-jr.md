@@ -1,5 +1,9 @@
 # #439 Mime Jr (Mime Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/mime-jr/official_artwork.png) | ![Shiny Artwork](../assets/sprites/mime-jr/official_artwork_shiny.png) |
+
 It mimics the expressions and motions of those it sees to understand the feelings of others.
 
 ---
@@ -8,7 +12,9 @@ It mimics the expressions and motions of those it sees to understand the feeling
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/mime-jr/front.gif) | ![Back](../assets/sprites/mime-jr/back.gif) | ![Front Shiny](../assets/sprites/mime-jr/front_shiny.gif) | ![Back Shiny](../assets/sprites/mime-jr/back_shiny.gif) |
 
 ### Cries
 

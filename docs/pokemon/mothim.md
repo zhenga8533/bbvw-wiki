@@ -1,5 +1,9 @@
 # #414 Mothim (Moth Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/mothim/official_artwork.png) | ![Shiny Artwork](../assets/sprites/mothim/official_artwork_shiny.png) |
+
 While it loves floral honey, it won’t gather any itself. Instead, it plots to steal some from Combee.
 
 ---
@@ -8,7 +12,9 @@ While it loves floral honey, it won’t gather any itself. Instead, it plots to 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/mothim/front.gif) | ![Back](../assets/sprites/mothim/back.gif) | ![Front Shiny](../assets/sprites/mothim/front_shiny.gif) | ![Back Shiny](../assets/sprites/mothim/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #464 Rhyperior (Drill Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/rhyperior/official_artwork.png) | ![Shiny Artwork](../assets/sprites/rhyperior/official_artwork_shiny.png) |
+
 It can launch a rock held in its hand like a missile by tightening then expanding muscles instantly.
 
 ---
@@ -8,7 +12,15 @@ It can launch a rock held in its hand like a missile by tightening then expandin
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/rhyperior/front.gif) | ![Back](../assets/sprites/rhyperior/back.gif) | ![Front Shiny](../assets/sprites/rhyperior/front_shiny.gif) | ![Back Shiny](../assets/sprites/rhyperior/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/rhyperior/front_female.gif) | ![Back](../assets/sprites/rhyperior/back_female.gif) | ![Front Shiny](../assets/sprites/rhyperior/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/rhyperior/back_shiny_female.gif) |
 
 ### Cries
 

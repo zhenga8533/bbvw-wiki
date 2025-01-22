@@ -1,5 +1,9 @@
 # #514 Simisear (Ember Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/simisear/official_artwork.png) | ![Shiny Artwork](../assets/sprites/simisear/official_artwork_shiny.png) |
+
 **Blaze Black:** It loves sweets because they become energy for the fire burning inside its body.
 
 **Volt White:** A flame burns inside its body. It scatters embers from its head and tail to sear its opponents.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/simisear/front.gif) | ![Back](../assets/sprites/simisear/back.gif) | ![Front Shiny](../assets/sprites/simisear/front_shiny.gif) | ![Back Shiny](../assets/sprites/simisear/back_shiny.gif) |
 
 ### Cries
 

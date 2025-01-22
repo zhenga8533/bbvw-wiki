@@ -1,5 +1,9 @@
 # #023 Ekans (Snake Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/ekans/official_artwork.png) | ![Shiny Artwork](../assets/sprites/ekans/official_artwork_shiny.png) |
+
 It sneaks through grass without making a sound and strikes unsuspecting prey from behind.
 
 ---
@@ -8,7 +12,9 @@ It sneaks through grass without making a sound and strikes unsuspecting prey fro
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/ekans/front.gif) | ![Back](../assets/sprites/ekans/back.gif) | ![Front Shiny](../assets/sprites/ekans/front_shiny.gif) | ![Back Shiny](../assets/sprites/ekans/back_shiny.gif) |
 
 ### Cries
 

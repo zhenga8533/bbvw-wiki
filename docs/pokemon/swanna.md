@@ -1,5 +1,9 @@
 # #581 Swanna (White Bird Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/swanna/official_artwork.png) | ![Shiny Artwork](../assets/sprites/swanna/official_artwork_shiny.png) |
+
 **Blaze Black:** Swanna start to dance at dusk. The one dancing in the middle is the leader of the flock.
 
 **Volt White:** It administers sharp, powerful pecks with its bill. It whips its long neck to deliver forceful repeated strikes.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/swanna/front.gif) | ![Back](../assets/sprites/swanna/back.gif) | ![Front Shiny](../assets/sprites/swanna/front_shiny.gif) | ![Back Shiny](../assets/sprites/swanna/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #385 Jirachi (Wish Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/jirachi/official_artwork.png) | ![Shiny Artwork](../assets/sprites/jirachi/official_artwork_shiny.png) |
+
 It is said to have the ability to grant any wish for just one week every thousand years.
 
 ---
@@ -8,7 +12,9 @@ It is said to have the ability to grant any wish for just one week every thousan
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/jirachi/front.gif) | ![Back](../assets/sprites/jirachi/back.gif) | ![Front Shiny](../assets/sprites/jirachi/front_shiny.gif) | ![Back Shiny](../assets/sprites/jirachi/back_shiny.gif) |
 
 ### Cries
 

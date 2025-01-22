@@ -1,5 +1,9 @@
 # #139 Omastar (Spiral Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/omastar/official_artwork.png) | ![Shiny Artwork](../assets/sprites/omastar/official_artwork_shiny.png) |
+
 It is thought that this Pokémon became extinct because its spiral shell grew too large.
 
 ---
@@ -8,7 +12,9 @@ It is thought that this Pokémon became extinct because its spiral shell grew to
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/omastar/front.gif) | ![Back](../assets/sprites/omastar/back.gif) | ![Front Shiny](../assets/sprites/omastar/front_shiny.gif) | ![Back Shiny](../assets/sprites/omastar/back_shiny.gif) |
 
 ### Cries
 

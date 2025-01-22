@@ -1,5 +1,9 @@
 # #314 Illumise (Firefly Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/illumise/official_artwork.png) | ![Shiny Artwork](../assets/sprites/illumise/official_artwork_shiny.png) |
+
 With its sweet aroma, it guides Volbeat to draw signs with light in the night sky.
 
 ---
@@ -8,7 +12,9 @@ With its sweet aroma, it guides Volbeat to draw signs with light in the night sk
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/illumise/front.gif) | ![Back](../assets/sprites/illumise/back.gif) | ![Front Shiny](../assets/sprites/illumise/front_shiny.gif) | ![Back Shiny](../assets/sprites/illumise/back_shiny.gif) |
 
 ### Cries
 

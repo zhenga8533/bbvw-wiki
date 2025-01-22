@@ -1,5 +1,9 @@
 # #138 Omanyte (Spiral Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/omanyte/official_artwork.png) | ![Shiny Artwork](../assets/sprites/omanyte/official_artwork_shiny.png) |
+
 A Pokémon that was resurrected from a fossil using modern science. It swam in ancient seas.
 
 ---
@@ -8,7 +12,9 @@ A Pokémon that was resurrected from a fossil using modern science. It swam in a
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/omanyte/front.gif) | ![Back](../assets/sprites/omanyte/back.gif) | ![Front Shiny](../assets/sprites/omanyte/front_shiny.gif) | ![Back Shiny](../assets/sprites/omanyte/back_shiny.gif) |
 
 ### Cries
 

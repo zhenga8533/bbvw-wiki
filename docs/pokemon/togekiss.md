@@ -1,5 +1,9 @@
 # #468 Togekiss (Jubilee Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/togekiss/official_artwork.png) | ![Shiny Artwork](../assets/sprites/togekiss/official_artwork_shiny.png) |
+
 It shares many blessings with people who respect one another’s rights and avoid needless strife.
 
 ---
@@ -8,7 +12,9 @@ It shares many blessings with people who respect one another’s rights and avoi
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/togekiss/front.gif) | ![Back](../assets/sprites/togekiss/back.gif) | ![Front Shiny](../assets/sprites/togekiss/front_shiny.gif) | ![Back Shiny](../assets/sprites/togekiss/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #418 Buizel (Sea Weasel Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/buizel/official_artwork.png) | ![Shiny Artwork](../assets/sprites/buizel/official_artwork_shiny.png) |
+
 It spins its two tails like a screw to propel itself through water. The tails also slice clinging seaweed.
 
 ---
@@ -8,7 +12,15 @@ It spins its two tails like a screw to propel itself through water. The tails al
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/buizel/front.gif) | ![Back](../assets/sprites/buizel/back.gif) | ![Front Shiny](../assets/sprites/buizel/front_shiny.gif) | ![Back Shiny](../assets/sprites/buizel/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/buizel/front_female.gif) | ![Back](../assets/sprites/buizel/back_female.gif) | ![Front Shiny](../assets/sprites/buizel/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/buizel/back_shiny_female.gif) |
 
 ### Cries
 

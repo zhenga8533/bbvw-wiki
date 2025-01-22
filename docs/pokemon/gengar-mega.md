@@ -1,5 +1,9 @@
 # #10038 Gengar Mega (Shadow Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/gengar-mega/official_artwork.png) | ![Shiny Artwork](../assets/sprites/gengar-mega/official_artwork_shiny.png) |
+
 The leer that floats in darkness belongs to a Gengar delighting in casting curses on people.
 
 ---
@@ -8,7 +12,9 @@ The leer that floats in darkness belongs to a Gengar delighting in casting curse
 
 ### Sprites
 
-### Female Sprites
+| Front | Front Shiny |
+| --- | --- |
+| ![Front](../assets/sprites/gengar-mega/front.png) | ![Front Shiny](../assets/sprites/gengar-mega/front_shiny.png) |
 
 ### Cries
 

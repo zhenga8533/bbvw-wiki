@@ -1,5 +1,9 @@
 # #087 Dewgong (Sea Lion Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/dewgong/official_artwork.png) | ![Shiny Artwork](../assets/sprites/dewgong/official_artwork_shiny.png) |
+
 In snow, the pure white coat covering its body obscures it from predators.
 
 ---
@@ -8,7 +12,9 @@ In snow, the pure white coat covering its body obscures it from predators.
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/dewgong/front.gif) | ![Back](../assets/sprites/dewgong/back.gif) | ![Front Shiny](../assets/sprites/dewgong/front_shiny.gif) | ![Back Shiny](../assets/sprites/dewgong/back_shiny.gif) |
 
 ### Cries
 

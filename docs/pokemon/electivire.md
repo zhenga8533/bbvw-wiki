@@ -1,5 +1,9 @@
 # #466 Electivire (Thunderbolt Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/electivire/official_artwork.png) | ![Shiny Artwork](../assets/sprites/electivire/official_artwork_shiny.png) |
+
 Heedless of enemy attacks, it closes in, shoves its tails onto the foe, then looses high voltage.
 
 ---
@@ -8,7 +12,9 @@ Heedless of enemy attacks, it closes in, shoves its tails onto the foe, then loo
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/electivire/front.gif) | ![Back](../assets/sprites/electivire/back.gif) | ![Front Shiny](../assets/sprites/electivire/front_shiny.gif) | ![Back Shiny](../assets/sprites/electivire/back_shiny.gif) |
 
 ### Cries
 

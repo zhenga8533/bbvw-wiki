@@ -1,5 +1,9 @@
 # #153 Bayleef (Leaf Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/bayleef/official_artwork.png) | ![Shiny Artwork](../assets/sprites/bayleef/official_artwork_shiny.png) |
+
 The buds that ring its neck give off a spicy aroma that perks people up.
 
 ---
@@ -8,7 +12,9 @@ The buds that ring its neck give off a spicy aroma that perks people up.
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/bayleef/front.gif) | ![Back](../assets/sprites/bayleef/back.gif) | ![Front Shiny](../assets/sprites/bayleef/front_shiny.gif) | ![Back Shiny](../assets/sprites/bayleef/back_shiny.gif) |
 
 ### Cries
 

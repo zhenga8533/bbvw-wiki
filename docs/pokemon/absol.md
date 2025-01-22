@@ -1,5 +1,9 @@
 # #359 Absol (Disaster Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/absol/official_artwork.png) | ![Shiny Artwork](../assets/sprites/absol/official_artwork_shiny.png) |
+
 Rumored to sense disasters with its horn, it became a target. It fled deep into the mountains.
 
 ---
@@ -8,7 +12,9 @@ Rumored to sense disasters with its horn, it became a target. It fled deep into 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/absol/front.gif) | ![Back](../assets/sprites/absol/back.gif) | ![Front Shiny](../assets/sprites/absol/front_shiny.gif) | ![Back Shiny](../assets/sprites/absol/back_shiny.gif) |
 
 ### Cries
 

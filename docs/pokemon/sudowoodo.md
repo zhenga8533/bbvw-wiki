@@ -1,5 +1,9 @@
 # #185 Sudowoodo (Imitation Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/sudowoodo/official_artwork.png) | ![Shiny Artwork](../assets/sprites/sudowoodo/official_artwork_shiny.png) |
+
 To avoid being attacked, it does nothing but mimic a tree. It hates water and flees from rain.
 
 ---
@@ -8,7 +12,15 @@ To avoid being attacked, it does nothing but mimic a tree. It hates water and fl
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/sudowoodo/front.gif) | ![Back](../assets/sprites/sudowoodo/back.gif) | ![Front Shiny](../assets/sprites/sudowoodo/front_shiny.gif) | ![Back Shiny](../assets/sprites/sudowoodo/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/sudowoodo/front_female.gif) | ![Back](../assets/sprites/sudowoodo/back_female.gif) | ![Front Shiny](../assets/sprites/sudowoodo/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/sudowoodo/back_shiny_female.gif) |
 
 ### Cries
 

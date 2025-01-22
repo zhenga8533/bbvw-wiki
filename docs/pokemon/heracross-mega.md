@@ -1,5 +1,9 @@
 # #10047 Heracross Mega (Single Horn Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/heracross-mega/official_artwork.png) | ![Shiny Artwork](../assets/sprites/heracross-mega/official_artwork_shiny.png) |
+
 It loves sweet honey. To keep all the honey to itself, it hurls rivals away with its prized horn.
 
 ---
@@ -8,7 +12,9 @@ It loves sweet honey. To keep all the honey to itself, it hurls rivals away with
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/heracross-mega/front.png) | ![Back](../assets/sprites/heracross-mega/back.png) | ![Front Shiny](../assets/sprites/heracross-mega/front_shiny.png) | ![Back Shiny](../assets/sprites/heracross-mega/back_shiny.png) |
 
 ### Cries
 

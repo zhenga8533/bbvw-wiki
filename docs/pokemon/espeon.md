@@ -1,5 +1,9 @@
 # #196 Espeon (Sun Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/espeon/official_artwork.png) | ![Shiny Artwork](../assets/sprites/espeon/official_artwork_shiny.png) |
+
 Its fur is so sensitive, it can sense minute shifts in the air and predict the weather.
 
 ---
@@ -8,7 +12,9 @@ Its fur is so sensitive, it can sense minute shifts in the air and predict the w
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/espeon/front.gif) | ![Back](../assets/sprites/espeon/back.gif) | ![Front Shiny](../assets/sprites/espeon/front_shiny.gif) | ![Back Shiny](../assets/sprites/espeon/back_shiny.gif) |
 
 ### Cries
 

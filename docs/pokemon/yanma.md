@@ -1,5 +1,9 @@
 # #193 Yanma (Clear Wing Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/yanma/official_artwork.png) | ![Shiny Artwork](../assets/sprites/yanma/official_artwork_shiny.png) |
+
 It can hover in one spot by flapping its wings at high speed. It flits about to guard its territory.
 
 ---
@@ -8,7 +12,9 @@ It can hover in one spot by flapping its wings at high speed. It flits about to 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/yanma/front.gif) | ![Back](../assets/sprites/yanma/back.gif) | ![Front Shiny](../assets/sprites/yanma/front_shiny.gif) | ![Back Shiny](../assets/sprites/yanma/back_shiny.gif) |
 
 ### Cries
 

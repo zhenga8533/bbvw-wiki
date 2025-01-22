@@ -1,5 +1,9 @@
 # #10163 Rapidash Galar (Fire Horse Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/rapidash-galar/official_artwork.png) | ![Shiny Artwork](../assets/sprites/rapidash-galar/official_artwork_shiny.png) |
+
 When at an all-out gallop, its blazing mane sparkles, enhancing its beautiful appearance.
 
 ---
@@ -8,7 +12,9 @@ When at an all-out gallop, its blazing mane sparkles, enhancing its beautiful ap
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/rapidash-galar/front.png) | ![Back](../assets/sprites/rapidash-galar/back.png) | ![Front Shiny](../assets/sprites/rapidash-galar/front_shiny.png) | ![Back Shiny](../assets/sprites/rapidash-galar/back_shiny.png) |
 
 ### Cries
 

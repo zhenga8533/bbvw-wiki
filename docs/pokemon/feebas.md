@@ -1,5 +1,9 @@
 # #349 Feebas (Fish Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/feebas/official_artwork.png) | ![Shiny Artwork](../assets/sprites/feebas/official_artwork_shiny.png) |
+
 It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.
 
 ---
@@ -8,7 +12,9 @@ It is a shabby and ugly Pokémon. However, it is very hardy and can survive on l
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/feebas/front.gif) | ![Back](../assets/sprites/feebas/back.gif) | ![Front Shiny](../assets/sprites/feebas/front_shiny.gif) | ![Back Shiny](../assets/sprites/feebas/back_shiny.gif) |
 
 ### Cries
 

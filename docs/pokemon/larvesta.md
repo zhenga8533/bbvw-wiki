@@ -1,5 +1,9 @@
 # #636 Larvesta (Torch Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/larvesta/official_artwork.png) | ![Shiny Artwork](../assets/sprites/larvesta/official_artwork_shiny.png) |
+
 **Blaze Black:** This Pokémon was believed to have been born from the sun. When it evolves, its entire body is engulfed in flames.
 
 **Volt White:** The base of volcanoes is where they make their homes. They shoot fire from their five horns to repel attacking enemies.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/larvesta/front.gif) | ![Back](../assets/sprites/larvesta/back.gif) | ![Front Shiny](../assets/sprites/larvesta/front_shiny.gif) | ![Back Shiny](../assets/sprites/larvesta/back_shiny.gif) |
 
 ### Cries
 

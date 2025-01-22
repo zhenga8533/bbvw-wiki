@@ -1,5 +1,9 @@
 # #10078 Groudon Primal (Continent Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/groudon-primal/official_artwork.png) | ![Shiny Artwork](../assets/sprites/groudon-primal/official_artwork_shiny.png) |
+
 It had been asleep in underground magma ever since it fiercely fought Kyogre long ago.
 
 ---
@@ -8,7 +12,9 @@ It had been asleep in underground magma ever since it fiercely fought Kyogre lon
 
 ### Sprites
 
-### Female Sprites
+| Front | Front Shiny |
+| --- | --- |
+| ![Front](../assets/sprites/groudon-primal/front.png) | ![Front Shiny](../assets/sprites/groudon-primal/front_shiny.png) |
 
 ### Cries
 

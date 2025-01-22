@@ -1,5 +1,9 @@
 # #10053 Aggron Mega (Iron Armor Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/aggron-mega/official_artwork.png) | ![Shiny Artwork](../assets/sprites/aggron-mega/official_artwork_shiny.png) |
+
 While seeking iron for food, it digs tunnels by breaking through bedrock with its steel horns.
 
 ---
@@ -8,7 +12,9 @@ While seeking iron for food, it digs tunnels by breaking through bedrock with it
 
 ### Sprites
 
-### Female Sprites
+| Front | Front Shiny |
+| --- | --- |
+| ![Front](../assets/sprites/aggron-mega/front.png) | ![Front Shiny](../assets/sprites/aggron-mega/front_shiny.png) |
 
 ### Cries
 

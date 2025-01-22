@@ -1,5 +1,9 @@
 # #511 Pansage (Grass Monkey Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/pansage/official_artwork.png) | ![Shiny Artwork](../assets/sprites/pansage/official_artwork_shiny.png) |
+
 **Blaze Black:** This Pokémon dwells deep in the forest. Eating a leaf from its head whisks weariness away as if by magic.
 
 **Volt White:** It shares the leaf on its head with weary-looking Pokémon. These leaves are known to relieve stress.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/pansage/front.gif) | ![Back](../assets/sprites/pansage/back.gif) | ![Front Shiny](../assets/sprites/pansage/front_shiny.gif) | ![Back Shiny](../assets/sprites/pansage/back_shiny.gif) |
 
 ### Cries
 

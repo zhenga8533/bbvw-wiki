@@ -1,5 +1,9 @@
 # #472 Gliscor (Fang Scorpion Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/gliscor/official_artwork.png) | ![Shiny Artwork](../assets/sprites/gliscor/official_artwork_shiny.png) |
+
 If it succeeds in catching even a faint breeze properly, it can circle the globe without flapping once.
 
 ---
@@ -8,7 +12,9 @@ If it succeeds in catching even a faint breeze properly, it can circle the globe
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/gliscor/front.gif) | ![Back](../assets/sprites/gliscor/back.gif) | ![Front Shiny](../assets/sprites/gliscor/front_shiny.gif) | ![Back Shiny](../assets/sprites/gliscor/back_shiny.gif) |
 
 ### Cries
 

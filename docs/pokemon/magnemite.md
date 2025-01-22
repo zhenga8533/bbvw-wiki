@@ -1,5 +1,9 @@
 # #081 Magnemite (Magnet Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/magnemite/official_artwork.png) | ![Shiny Artwork](../assets/sprites/magnemite/official_artwork_shiny.png) |
+
 The faster the units at its sides rotate, the greater the magnetic force they generate.
 
 ---
@@ -8,7 +12,9 @@ The faster the units at its sides rotate, the greater the magnetic force they ge
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/magnemite/front.gif) | ![Back](../assets/sprites/magnemite/back.gif) | ![Front Shiny](../assets/sprites/magnemite/front_shiny.gif) | ![Back Shiny](../assets/sprites/magnemite/back_shiny.gif) |
 
 ### Cries
 

@@ -1,5 +1,9 @@
 # #572 Minccino (Chinchilla Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/minccino/official_artwork.png) | ![Shiny Artwork](../assets/sprites/minccino/official_artwork_shiny.png) |
+
 **Blaze Black:** They greet one another by rubbing each other with their tails, which are always kept well groomed and clean.
 
 **Volt White:** These Pokémon prefer a tidy habitat. They are always sweeping and dusting, using their tails as brooms.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/minccino/front.gif) | ![Back](../assets/sprites/minccino/back.gif) | ![Front Shiny](../assets/sprites/minccino/front_shiny.gif) | ![Back Shiny](../assets/sprites/minccino/back_shiny.gif) |
 
 ### Cries
 

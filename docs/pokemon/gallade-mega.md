@@ -1,5 +1,9 @@
 # #10068 Gallade Mega (Blade Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/gallade-mega/official_artwork.png) | ![Shiny Artwork](../assets/sprites/gallade-mega/official_artwork_shiny.png) |
+
 When trying to protect someone, it extends its elbows as if they were swords and fights savagely.
 
 ---
@@ -8,7 +12,9 @@ When trying to protect someone, it extends its elbows as if they were swords and
 
 ### Sprites
 
-### Female Sprites
+| Front | Front Shiny |
+| --- | --- |
+| ![Front](../assets/sprites/gallade-mega/front.png) | ![Front Shiny](../assets/sprites/gallade-mega/front_shiny.png) |
 
 ### Cries
 

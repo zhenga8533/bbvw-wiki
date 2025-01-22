@@ -1,5 +1,9 @@
 # #002 Ivysaur (Seed Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/ivysaur/official_artwork.png) | ![Shiny Artwork](../assets/sprites/ivysaur/official_artwork_shiny.png) |
+
 When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower’s coming bloom.
 
 ---
@@ -8,7 +12,9 @@ When the bud on its back starts swelling, a sweet aroma wafts to indicate the fl
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/ivysaur/front.gif) | ![Back](../assets/sprites/ivysaur/back.gif) | ![Front Shiny](../assets/sprites/ivysaur/front_shiny.gif) | ![Back Shiny](../assets/sprites/ivysaur/back_shiny.gif) |
 
 ### Cries
 

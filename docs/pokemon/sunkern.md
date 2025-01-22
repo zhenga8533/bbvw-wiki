@@ -1,5 +1,9 @@
 # #191 Sunkern (Seed Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/sunkern/official_artwork.png) | ![Shiny Artwork](../assets/sprites/sunkern/official_artwork_shiny.png) |
+
 It suddenly falls out of the sky in the morning. A year after a cold summer, their population explodes.
 
 ---
@@ -8,7 +12,9 @@ It suddenly falls out of the sky in the morning. A year after a cold summer, the
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/sunkern/front.gif) | ![Back](../assets/sprites/sunkern/back.gif) | ![Front Shiny](../assets/sprites/sunkern/front_shiny.gif) | ![Back Shiny](../assets/sprites/sunkern/back_shiny.gif) |
 
 ### Cries
 

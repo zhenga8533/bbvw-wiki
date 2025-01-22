@@ -1,5 +1,9 @@
 # #561 Sigilyph (Avianoid Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/sigilyph/official_artwork.png) | ![Shiny Artwork](../assets/sprites/sigilyph/official_artwork_shiny.png) |
+
 **Blaze Black:** They never vary the route they fly, because their memories of guarding an ancient city remain steadfast.
 
 **Volt White:** The guardians of an ancient city, they use their psychic power to attack enemies that invade their territory.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/sigilyph/front.gif) | ![Back](../assets/sprites/sigilyph/back.gif) | ![Front Shiny](../assets/sprites/sigilyph/front_shiny.gif) | ![Back Shiny](../assets/sprites/sigilyph/back_shiny.gif) |
 
 ### Cries
 

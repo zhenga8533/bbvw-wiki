@@ -1,5 +1,9 @@
 # #262 Mightyena (Bite Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/mightyena/official_artwork.png) | ![Shiny Artwork](../assets/sprites/mightyena/official_artwork_shiny.png) |
+
 It chases down prey in a pack. It will never disobey the commands of a skilled Trainer.
 
 ---
@@ -8,7 +12,9 @@ It chases down prey in a pack. It will never disobey the commands of a skilled T
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/mightyena/front.gif) | ![Back](../assets/sprites/mightyena/back.gif) | ![Front Shiny](../assets/sprites/mightyena/front_shiny.gif) | ![Back Shiny](../assets/sprites/mightyena/back_shiny.gif) |
 
 ### Cries
 

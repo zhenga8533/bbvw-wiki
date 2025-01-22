@@ -1,5 +1,9 @@
 # #487 Giratina Altered (Renegade Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/giratina-altered/official_artwork.png) | ![Shiny Artwork](../assets/sprites/giratina-altered/official_artwork_shiny.png) |
+
 It was banished for its violence. It silently gazed upon the old world from the Distortion World.
 
 ---
@@ -8,7 +12,9 @@ It was banished for its violence. It silently gazed upon the old world from the 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/giratina-altered/front.gif) | ![Back](../assets/sprites/giratina-altered/back.gif) | ![Front Shiny](../assets/sprites/giratina-altered/front_shiny.gif) | ![Back Shiny](../assets/sprites/giratina-altered/back_shiny.gif) |
 
 ### Cries
 

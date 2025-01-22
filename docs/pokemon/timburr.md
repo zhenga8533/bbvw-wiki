@@ -1,5 +1,9 @@
 # #532 Timburr (Muscular Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/timburr/official_artwork.png) | ![Shiny Artwork](../assets/sprites/timburr/official_artwork_shiny.png) |
+
 **Blaze Black:** It fights by swinging a piece of lumber around. It is close to evolving when it can handle the lumber without difficulty.
 
 **Volt White:** These Pokémon appear at building sites and help out with construction. They always carry squared logs.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/timburr/front.gif) | ![Back](../assets/sprites/timburr/back.gif) | ![Front Shiny](../assets/sprites/timburr/front_shiny.gif) | ![Back Shiny](../assets/sprites/timburr/back_shiny.gif) |
 
 ### Cries
 

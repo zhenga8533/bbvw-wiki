@@ -1,5 +1,9 @@
 # #420 Cherubi (Cherry Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/cherubi/official_artwork.png) | ![Shiny Artwork](../assets/sprites/cherubi/official_artwork_shiny.png) |
+
 The small ball is not only filled with nutrients, it is also tasty. Starly try to peck it off.
 
 ---
@@ -8,7 +12,9 @@ The small ball is not only filled with nutrients, it is also tasty. Starly try t
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/cherubi/front.gif) | ![Back](../assets/sprites/cherubi/back.gif) | ![Front Shiny](../assets/sprites/cherubi/front_shiny.gif) | ![Back Shiny](../assets/sprites/cherubi/back_shiny.gif) |
 
 ### Cries
 

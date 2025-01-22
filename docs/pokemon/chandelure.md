@@ -1,5 +1,9 @@
 # #609 Chandelure (Luring Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/chandelure/official_artwork.png) | ![Shiny Artwork](../assets/sprites/chandelure/official_artwork_shiny.png) |
+
 **Blaze Black:** It absorbs a spirit, which it then burns. By waving the flames on its arms, it puts its foes into a hypnotic trance.
 
 **Volt White:** Being consumed in Chandelure’s flame burns up the spirit, leaving the body behind.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/chandelure/front.gif) | ![Back](../assets/sprites/chandelure/back.gif) | ![Front Shiny](../assets/sprites/chandelure/front_shiny.gif) | ![Back Shiny](../assets/sprites/chandelure/back_shiny.gif) |
 
 ### Cries
 

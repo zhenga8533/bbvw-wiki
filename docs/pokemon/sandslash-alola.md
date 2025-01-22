@@ -1,5 +1,9 @@
 # #10102 Sandslash Alola (Mouse Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/sandslash-alola/official_artwork.png) | ![Shiny Artwork](../assets/sprites/sandslash-alola/official_artwork_shiny.png) |
+
 It curls up, then rolls into foes with its back. Its sharp spines inflict severe damage.
 
 ---
@@ -8,7 +12,9 @@ It curls up, then rolls into foes with its back. Its sharp spines inflict severe
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/sandslash-alola/front.png) | ![Back](../assets/sprites/sandslash-alola/back.png) | ![Front Shiny](../assets/sprites/sandslash-alola/front_shiny.png) | ![Back Shiny](../assets/sprites/sandslash-alola/back_shiny.png) |
 
 ### Cries
 

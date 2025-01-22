@@ -1,5 +1,9 @@
 # #10100 Raichu Alola (Mouse Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/raichu-alola/official_artwork.png) | ![Shiny Artwork](../assets/sprites/raichu-alola/official_artwork_shiny.png) |
+
 Its tail discharges electricity into the ground, protecting it from getting shocked.
 
 ---
@@ -8,7 +12,9 @@ Its tail discharges electricity into the ground, protecting it from getting shoc
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/raichu-alola/front.png) | ![Back](../assets/sprites/raichu-alola/back.png) | ![Front Shiny](../assets/sprites/raichu-alola/front_shiny.png) | ![Back Shiny](../assets/sprites/raichu-alola/back_shiny.png) |
 
 ### Cries
 

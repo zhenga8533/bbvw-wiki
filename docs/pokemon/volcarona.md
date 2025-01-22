@@ -1,5 +1,9 @@
 # #637 Volcarona (Sun Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/volcarona/official_artwork.png) | ![Shiny Artwork](../assets/sprites/volcarona/official_artwork_shiny.png) |
+
 **Blaze Black:** When volcanic ash darkened the atmosphere, it is said that Volcarona’s fire provided a replacement for the sun.
 
 **Volt White:** A sea of fire engulfs the surroundings of their battles, since they use their six wings to scatter their ember scales.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/volcarona/front.gif) | ![Back](../assets/sprites/volcarona/back.gif) | ![Front Shiny](../assets/sprites/volcarona/front_shiny.gif) | ![Back Shiny](../assets/sprites/volcarona/back_shiny.gif) |
 
 ### Cries
 

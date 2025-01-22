@@ -1,5 +1,9 @@
 # #515 Panpour (Spray Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/panpour/official_artwork.png) | ![Shiny Artwork](../assets/sprites/panpour/official_artwork_shiny.png) |
+
 **Blaze Black:** The water stored inside the tuft on its head is full of nutrients. Plants that receive its water grow large.
 
 **Volt White:** It does not thrive in dry environments. It keeps itself damp by shooting water stored in its head tuft from its tail.
@@ -10,7 +14,9 @@
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/panpour/front.gif) | ![Back](../assets/sprites/panpour/back.gif) | ![Front Shiny](../assets/sprites/panpour/front_shiny.gif) | ![Back Shiny](../assets/sprites/panpour/back_shiny.gif) |
 
 ### Cries
 

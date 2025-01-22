@@ -1,5 +1,9 @@
 # #324 Torkoal (Coal Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/torkoal/official_artwork.png) | ![Shiny Artwork](../assets/sprites/torkoal/official_artwork_shiny.png) |
+
 It burns coal inside its shell for energy. It blows out black soot if it is endangered.
 
 ---
@@ -8,7 +12,9 @@ It burns coal inside its shell for energy. It blows out black soot if it is enda
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/torkoal/front.gif) | ![Back](../assets/sprites/torkoal/back.gif) | ![Front Shiny](../assets/sprites/torkoal/front_shiny.gif) | ![Back Shiny](../assets/sprites/torkoal/back_shiny.gif) |
 
 ### Cries
 

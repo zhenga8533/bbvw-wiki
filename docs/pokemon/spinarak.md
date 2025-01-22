@@ -1,5 +1,9 @@
 # #167 Spinarak (String Spit Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/spinarak/official_artwork.png) | ![Shiny Artwork](../assets/sprites/spinarak/official_artwork_shiny.png) |
+
 It sets a trap by spinning a web with thin but strong silk. It waits motionlessly for prey to arrive.
 
 ---
@@ -8,7 +12,9 @@ It sets a trap by spinning a web with thin but strong silk. It waits motionlessl
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/spinarak/front.gif) | ![Back](../assets/sprites/spinarak/back.gif) | ![Front Shiny](../assets/sprites/spinarak/front_shiny.gif) | ![Back Shiny](../assets/sprites/spinarak/back_shiny.gif) |
 
 ### Cries
 

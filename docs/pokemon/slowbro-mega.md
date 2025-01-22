@@ -1,5 +1,9 @@
 # #10071 Slowbro Mega (Hermit Crab Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/slowbro-mega/official_artwork.png) | ![Shiny Artwork](../assets/sprites/slowbro-mega/official_artwork_shiny.png) |
+
 Though usually dim witted, it seems to become inspired if the Shellder on its tail bites down.
 
 ---
@@ -8,7 +12,9 @@ Though usually dim witted, it seems to become inspired if the Shellder on its ta
 
 ### Sprites
 
-### Female Sprites
+| Front | Front Shiny |
+| --- | --- |
+| ![Front](../assets/sprites/slowbro-mega/front.png) | ![Front Shiny](../assets/sprites/slowbro-mega/front_shiny.png) |
 
 ### Cries
 

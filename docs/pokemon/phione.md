@@ -1,5 +1,9 @@
 # #489 Phione (Sea Drifter Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/phione/official_artwork.png) | ![Shiny Artwork](../assets/sprites/phione/official_artwork_shiny.png) |
+
 It drifts in warm seas. It always returns to where it was born, no matter how far it may have drifted.
 
 ---
@@ -8,7 +12,9 @@ It drifts in warm seas. It always returns to where it was born, no matter how fa
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/phione/front.gif) | ![Back](../assets/sprites/phione/back.gif) | ![Front Shiny](../assets/sprites/phione/front_shiny.gif) | ![Back Shiny](../assets/sprites/phione/back_shiny.gif) |
 
 ### Cries
 

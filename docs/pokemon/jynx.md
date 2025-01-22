@@ -1,5 +1,9 @@
 # #124 Jynx (Human Shape Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/jynx/official_artwork.png) | ![Shiny Artwork](../assets/sprites/jynx/official_artwork_shiny.png) |
+
 Its cries sound like human speech. However, it is impossible to tell what it is trying to say.
 
 ---
@@ -8,7 +12,9 @@ Its cries sound like human speech. However, it is impossible to tell what it is 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/jynx/front.gif) | ![Back](../assets/sprites/jynx/back.gif) | ![Front Shiny](../assets/sprites/jynx/front_shiny.gif) | ![Back Shiny](../assets/sprites/jynx/back_shiny.gif) |
 
 ### Cries
 

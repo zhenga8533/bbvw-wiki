@@ -1,5 +1,9 @@
 # #366 Clamperl (Bivalve Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/clamperl/official_artwork.png) | ![Shiny Artwork](../assets/sprites/clamperl/official_artwork_shiny.png) |
+
 It makes a single pearl during its lifetime. The pearl is said to amplify psychic power.
 
 ---
@@ -8,7 +12,9 @@ It makes a single pearl during its lifetime. The pearl is said to amplify psychi
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/clamperl/front.gif) | ![Back](../assets/sprites/clamperl/back.gif) | ![Front Shiny](../assets/sprites/clamperl/front_shiny.gif) | ![Back Shiny](../assets/sprites/clamperl/back_shiny.gif) |
 
 ### Cries
 

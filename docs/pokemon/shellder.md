@@ -1,5 +1,9 @@
 # #090 Shellder (Bivalve Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/shellder/official_artwork.png) | ![Shiny Artwork](../assets/sprites/shellder/official_artwork_shiny.png) |
+
 It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.
 
 ---
@@ -8,7 +12,9 @@ It swims backward by opening and closing its two shells. Its large tongue is alw
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/shellder/front.gif) | ![Back](../assets/sprites/shellder/back.gif) | ![Front Shiny](../assets/sprites/shellder/front_shiny.gif) | ![Back Shiny](../assets/sprites/shellder/back_shiny.gif) |
 
 ### Cries
 

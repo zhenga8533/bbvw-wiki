@@ -1,5 +1,9 @@
 # #214 Heracross (Single Horn Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/heracross/official_artwork.png) | ![Shiny Artwork](../assets/sprites/heracross/official_artwork_shiny.png) |
+
 It loves sweet honey. To keep all the honey to itself, it hurls rivals away with its prized horn.
 
 ---
@@ -8,7 +12,15 @@ It loves sweet honey. To keep all the honey to itself, it hurls rivals away with
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/heracross/front.gif) | ![Back](../assets/sprites/heracross/back.gif) | ![Front Shiny](../assets/sprites/heracross/front_shiny.gif) | ![Back Shiny](../assets/sprites/heracross/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/heracross/front_female.gif) | ![Back](../assets/sprites/heracross/back_female.gif) | ![Front Shiny](../assets/sprites/heracross/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/heracross/back_shiny_female.gif) |
 
 ### Cries
 

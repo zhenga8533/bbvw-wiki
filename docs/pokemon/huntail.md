@@ -1,5 +1,9 @@
 # #367 Huntail (Deep Sea Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/huntail/official_artwork.png) | ![Shiny Artwork](../assets/sprites/huntail/official_artwork_shiny.png) |
+
 It lives deep in the sea. With a tail shaped like a small fish, it attracts unsuspecting prey.
 
 ---
@@ -8,7 +12,9 @@ It lives deep in the sea. With a tail shaped like a small fish, it attracts unsu
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/huntail/front.gif) | ![Back](../assets/sprites/huntail/back.gif) | ![Front Shiny](../assets/sprites/huntail/front_shiny.gif) | ![Back Shiny](../assets/sprites/huntail/back_shiny.gif) |
 
 ### Cries
 

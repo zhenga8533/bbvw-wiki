@@ -1,5 +1,9 @@
 # #427 Buneary (Rabbit Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/buneary/official_artwork.png) | ![Shiny Artwork](../assets/sprites/buneary/official_artwork_shiny.png) |
+
 Its ears are always rolled up. They can be forcefully extended to shatter even a large boulder.
 
 ---
@@ -8,7 +12,9 @@ Its ears are always rolled up. They can be forcefully extended to shatter even a
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/buneary/front.gif) | ![Back](../assets/sprites/buneary/back.gif) | ![Front Shiny](../assets/sprites/buneary/front_shiny.gif) | ![Back Shiny](../assets/sprites/buneary/back_shiny.gif) |
 
 ### Cries
 

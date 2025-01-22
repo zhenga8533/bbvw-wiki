@@ -1,5 +1,9 @@
 # #443 Gible (Land Shark Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/gible/official_artwork.png) | ![Shiny Artwork](../assets/sprites/gible/official_artwork_shiny.png) |
+
 It attacks using its huge mouth. While its attacks are powerful, it hurts itself out of clumsiness, too.
 
 ---
@@ -8,7 +12,15 @@ It attacks using its huge mouth. While its attacks are powerful, it hurts itself
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/gible/front.gif) | ![Back](../assets/sprites/gible/back.gif) | ![Front Shiny](../assets/sprites/gible/front_shiny.gif) | ![Back Shiny](../assets/sprites/gible/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/gible/front_female.gif) | ![Back](../assets/sprites/gible/back_female.gif) | ![Front Shiny](../assets/sprites/gible/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/gible/back_shiny_female.gif) |
 
 ### Cries
 

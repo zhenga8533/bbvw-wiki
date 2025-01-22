@@ -1,5 +1,9 @@
 # #10089 Salamence Mega (Dragon Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/salamence-mega/official_artwork.png) | ![Shiny Artwork](../assets/sprites/salamence-mega/official_artwork_shiny.png) |
+
 As a result of its long-held dream of flying, its cellular structure changed, and wings grew out.
 
 ---
@@ -8,7 +12,9 @@ As a result of its long-held dream of flying, its cellular structure changed, an
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/salamence-mega/front.png) | ![Back](../assets/sprites/salamence-mega/back.png) | ![Front Shiny](../assets/sprites/salamence-mega/front_shiny.png) | ![Back Shiny](../assets/sprites/salamence-mega/back_shiny.png) |
 
 ### Cries
 

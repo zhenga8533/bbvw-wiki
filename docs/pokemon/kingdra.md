@@ -1,5 +1,9 @@
 # #230 Kingdra (Dragon Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/kingdra/official_artwork.png) | ![Shiny Artwork](../assets/sprites/kingdra/official_artwork_shiny.png) |
+
 It lives in caves on the seafloor and creates giant whirlpools every time it moves.
 
 ---
@@ -8,7 +12,9 @@ It lives in caves on the seafloor and creates giant whirlpools every time it mov
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/kingdra/front.gif) | ![Back](../assets/sprites/kingdra/back.gif) | ![Front Shiny](../assets/sprites/kingdra/front_shiny.gif) | ![Back Shiny](../assets/sprites/kingdra/back_shiny.gif) |
 
 ### Cries
 

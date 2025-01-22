@@ -1,5 +1,9 @@
 # #404 Luxio (Spark Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/luxio/official_artwork.png) | ![Shiny Artwork](../assets/sprites/luxio/official_artwork_shiny.png) |
+
 Strong electricity courses through the tips of its sharp claws. A light scratch causes fainting in foes.
 
 ---
@@ -8,7 +12,15 @@ Strong electricity courses through the tips of its sharp claws. A light scratch 
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/luxio/front.gif) | ![Back](../assets/sprites/luxio/back.gif) | ![Front Shiny](../assets/sprites/luxio/front_shiny.gif) | ![Back Shiny](../assets/sprites/luxio/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/luxio/front_female.gif) | ![Back](../assets/sprites/luxio/back_female.gif) | ![Front Shiny](../assets/sprites/luxio/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/luxio/back_shiny_female.gif) |
 
 ### Cries
 

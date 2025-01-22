@@ -1,5 +1,9 @@
 # #291 Ninjask (Ninja Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/ninjask/official_artwork.png) | ![Shiny Artwork](../assets/sprites/ninjask/official_artwork_shiny.png) |
+
 Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.
 
 ---
@@ -8,7 +12,9 @@ Because it moves so quickly, it sometimes becomes unseeable. It congregates arou
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/ninjask/front.gif) | ![Back](../assets/sprites/ninjask/back.gif) | ![Front Shiny](../assets/sprites/ninjask/front_shiny.gif) | ![Back Shiny](../assets/sprites/ninjask/back_shiny.gif) |
 
 ### Cries
 

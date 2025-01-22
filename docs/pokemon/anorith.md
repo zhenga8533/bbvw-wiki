@@ -1,5 +1,9 @@
 # #347 Anorith (Old Shrimp Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/anorith/official_artwork.png) | ![Shiny Artwork](../assets/sprites/anorith/official_artwork_shiny.png) |
+
 A Pokémon ancestor that was reanimated from a fossil. It lived in the sea and hunted with claws.
 
 ---
@@ -8,7 +12,9 @@ A Pokémon ancestor that was reanimated from a fossil. It lived in the sea and h
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/anorith/front.gif) | ![Back](../assets/sprites/anorith/back.gif) | ![Front Shiny](../assets/sprites/anorith/front_shiny.gif) | ![Back Shiny](../assets/sprites/anorith/back_shiny.gif) |
 
 ### Cries
 

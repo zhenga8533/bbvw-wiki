@@ -1,5 +1,9 @@
 # #255 Torchic (Chick Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/torchic/official_artwork.png) | ![Shiny Artwork](../assets/sprites/torchic/official_artwork_shiny.png) |
+
 A fire burns inside, so it feels very warm to hug. It launches fireballs of 1,800 degrees F.
 
 ---
@@ -8,7 +12,15 @@ A fire burns inside, so it feels very warm to hug. It launches fireballs of 1,80
 
 ### Sprites
 
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/torchic/front.gif) | ![Back](../assets/sprites/torchic/back.gif) | ![Front Shiny](../assets/sprites/torchic/front_shiny.gif) | ![Back Shiny](../assets/sprites/torchic/back_shiny.gif) |
+
 ### Female Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/torchic/front_female.gif) | ![Back](../assets/sprites/torchic/back_female.gif) | ![Front Shiny](../assets/sprites/torchic/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/torchic/back_shiny_female.gif) |
 
 ### Cries
 

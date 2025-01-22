@@ -1,5 +1,9 @@
 # #216 Teddiursa (Little Bear Pokémon)
 
+| Official Artwork | Shiny Artwork |
+| --- | --- |
+| ![Official Artwork](../assets/sprites/teddiursa/official_artwork.png) | ![Shiny Artwork](../assets/sprites/teddiursa/official_artwork_shiny.png) |
+
 It lets honey soak into its paws so it can lick them all the time. Every set of paws tastes unique.
 
 ---
@@ -8,7 +12,9 @@ It lets honey soak into its paws so it can lick them all the time. Every set of 
 
 ### Sprites
 
-### Female Sprites
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/teddiursa/front.gif) | ![Back](../assets/sprites/teddiursa/back.gif) | ![Front Shiny](../assets/sprites/teddiursa/front_shiny.gif) | ![Back Shiny](../assets/sprites/teddiursa/back_shiny.gif) |
 
 ### Cries
 
