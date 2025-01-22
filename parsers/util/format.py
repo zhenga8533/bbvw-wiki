@@ -1,3 +1,4 @@
+from util.file import verify_asset_path
 import keyword
 import logging
 import os
@@ -26,14 +27,11 @@ def create_image_table(headings: list, images: list, logger):
         # Check if image exists
         image_path = None
         for image in images:
-            check_path = "../docs/" + image[i].lstrip("../")
-            if os.path.exists(check_path):
+            if verify_asset_path(image[i], logger):
                 image_path = image[i]
-                logger.log(logging.INFO, f"Image {i} found at {check_path}")
                 break
-            logger.log(logging.WARNING, f"Image {i} does not exist at {check_path}")
         if image_path is None:
-            logger.log(logging.ERROR, f"Image {i} does not exist")
+            logger.log(logging.WARNING, f"Image {i} does not exist")
             continue
 
         table_header += f" {headings[i]} |"
@@ -45,19 +43,30 @@ def create_image_table(headings: list, images: list, logger):
     return f"{table_header}\n{table_divider}\n{table_body}\n\n"
 
 
-def format_id(pokemon_name: str, start_index: int = 0) -> str:
-    """
-    Format a Pokémon name to a valid identifier.
+def fix_pokemon_id(pokemon_id: str) -> str:
+    fix_map = {
+        "basculin": "basculin-red-striped",
+        "darmanitan": "darmanitan-standard",
+        "keldeo": "keldeo-ordinary",
+        "meloetta": "meloetta-aria",
+        "deoxys": "deoxys-normal",
+        "shaymin": "shaymin-land",
+        "tornadus": "tornadus-incarnate",
+        "thundurus": "thundurus-incarnate",
+        "landorus": "landorus-incarnate",
+    }
 
-    :param pokemon_name: The name of the Pokémon.
-    :param start_index: The index to start splitting the Pokémon name.
-    :return: The formatted Pokémon name.
-    """
+    if pokemon_id in fix_map:
+        return fix_map[pokemon_id]
+    return pokemon_id
 
-    pokemon_name = remove_special_characters(pokemon_name)
-    pokemon_name = "-".join(pokemon_name.split(" ")[start_index:]).lower()
 
-    return pokemon_name.lower()
+def format_id(name: str, start_index: int = 0) -> str:
+    name = remove_special_characters(name)
+    name = "-".join(name.split(" ")[start_index:]).lower()
+    name = fix_pokemon_id(name)
+
+    return name
 
 
 def remove_special_characters(s: str) -> str:
@@ -68,4 +77,4 @@ def remove_special_characters(s: str) -> str:
     :return: The string without special characters.
     """
 
-    return re.sub(r"[^a-zA-Z0-9\s]", "", s)
+    return re.sub(r"[^a-zA-Z0-9\s-]", "", s)

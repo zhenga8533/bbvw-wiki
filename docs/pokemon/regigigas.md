@@ -20,13 +20,13 @@ It is said to have made Pokémon that look like itself from a special ice mounta
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/486/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/regigigas/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/486/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/regigigas/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

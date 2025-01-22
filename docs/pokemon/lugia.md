@@ -20,13 +20,13 @@ It sleeps in a deep-sea trench. If it flaps its wings, it is said to cause a 40-
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/249/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/lugia/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/249/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/lugia/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

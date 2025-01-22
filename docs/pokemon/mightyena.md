@@ -20,13 +20,13 @@ It chases down prey in a pack. It will never disobey the commands of a skilled T
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/262/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/mightyena/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/262/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/mightyena/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

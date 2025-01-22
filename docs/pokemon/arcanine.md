@@ -20,13 +20,13 @@ Its proud and regal appearance has captured the hearts of people since long ago.
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/59/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/arcanine/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/59/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/arcanine/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

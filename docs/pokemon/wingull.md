@@ -20,13 +20,13 @@ It soars high in the sky, riding on updrafts like a glider. It carries food tuck
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/278/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/wingull/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/278/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/wingull/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

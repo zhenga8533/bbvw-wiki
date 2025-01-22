@@ -20,13 +20,13 @@ It is encased in a steel shell. Its peering eyes are all that can be seen of its
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/205/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/forretress/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/205/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/forretress/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

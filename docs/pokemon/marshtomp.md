@@ -20,13 +20,13 @@ Its sturdy legs give it sure footing, even in mud. It burrows into dirt to sleep
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/259/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/marshtomp/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/259/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/marshtomp/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

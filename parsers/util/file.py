@@ -48,3 +48,22 @@ def load(file_path: str, logger: Logger) -> str:
     except Exception as e:
         logger.log(logging.ERROR, f"An error occurred while loading '{file_path}':\n{e}")
         exit(1)
+
+
+def verify_asset_path(asset_path: str, logger: Logger) -> None:
+    """
+    Verify that the asset path exists.
+
+    :param asset_path: The path to the asset.
+    :param logger: The logger object
+    :return: None
+    """
+
+    check_path = "../docs/" + asset_path.lstrip("../")
+    if os.path.exists(check_path):
+        logger.log(logging.INFO, f"Asset found at {check_path}")
+        return True
+    else:
+        logger.log(logging.WARNING, f"Asset does not exist at {check_path}")
+
+    return False

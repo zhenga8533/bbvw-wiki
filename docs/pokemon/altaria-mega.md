@@ -20,13 +20,7 @@ If it bonds with a person, it will gently envelop the friend with its soft wings
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/10067/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/10067/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/altaria-mega/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

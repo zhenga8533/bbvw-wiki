@@ -20,13 +20,7 @@ It can swim while towing a large ship. It bashes down foes with a swing of its t
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/10064/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/10064/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/swampert-mega/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

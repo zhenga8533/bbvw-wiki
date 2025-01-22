@@ -26,13 +26,13 @@ Almost all its body is its stomach. Its harsh digestive juices quickly dissolve 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/316/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/gulpin/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/316/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/gulpin/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

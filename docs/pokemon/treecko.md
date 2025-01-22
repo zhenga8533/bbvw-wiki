@@ -20,13 +20,13 @@ The soles of its feet are covered by countless tiny spikes, enabling it to walk 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/252/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/treecko/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/252/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/treecko/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

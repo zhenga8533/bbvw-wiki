@@ -26,13 +26,13 @@ It has volcanoes on its back. If magma builds up in its body, it shudders, then 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/323/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/camerupt/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/323/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/camerupt/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

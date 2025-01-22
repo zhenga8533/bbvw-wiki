@@ -20,13 +20,13 @@ The flowers all over its body burst into bloom if it is lovingly hugged and sens
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/492/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/shaymin-land/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/492/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/shaymin-land/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

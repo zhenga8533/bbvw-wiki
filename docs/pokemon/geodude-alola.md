@@ -20,13 +20,7 @@ At rest, it looks just like a rock. Carelessly stepping on it will make it swing
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/10109/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/10109/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/geodude-alola/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

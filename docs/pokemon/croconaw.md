@@ -20,13 +20,13 @@ Once it bites down, it won’t let go until it loses its fangs. New fangs quickl
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/159/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/croconaw/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/159/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/croconaw/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

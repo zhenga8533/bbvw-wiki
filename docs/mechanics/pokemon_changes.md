@@ -1515,9 +1515,9 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 <b>Ability Two:</b> Magic Guard
 </code></pre>
 
-**#174 Igglypuff**
+**#174 Igglybuff**
 
-![igglypuff](../assets/sprites/igglypuff/front.gif)
+![igglybuff](../assets/sprites/igglybuff/front.gif)
 
 <pre><code><b>Base Happiness:</b> 200
 <b>Ability One:</b> Cute Charm
@@ -2160,7 +2160,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#250 Ho-oh**
 
-![hooh](../assets/sprites/hooh/front.gif)
+![ho-oh](../assets/sprites/ho-oh/front.gif)
 
 <pre><code><b>Ability One:</b> Pressure
 <b>Ability Two:</b> Regenerator
@@ -2179,10 +2179,11 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 ## Hoenn Pokémon
 
-**#252 Treecko, #253 Grovyle #254 Sceptile**
+**#252 Treecko, #253 Grovyle, #254 Sceptile**
 
 ![treecko](../assets/sprites/treecko/front.gif)
-![grovyle-254-sceptile](../assets/sprites/grovyle-254-sceptile/front.gif)
+![grovyle](../assets/sprites/grovyle/front.gif)
+![sceptile](../assets/sprites/sceptile/front.gif)
 
 <pre><code><b>Item:</b> Miracle Seed (50%)
 <b>Ability One:</b> Overgrow
@@ -3252,7 +3253,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#386 Deoxys**
 
-![deoxys](../assets/sprites/deoxys/front.gif)
+![deoxys-normal](../assets/sprites/deoxys-normal/front.gif)
 
 <pre><code><b>Ability One:</b> Pressure
 <b>Ability Two:</b> Pressure
@@ -3937,7 +3938,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#474 Porygon-Z**
 
-![porygonz](../assets/sprites/porygonz/front.gif)
+![porygon-z](../assets/sprites/porygon-z/front.gif)
 
 <pre><code><b>Ability One:</b> Adaptability
 <b>Ability Two:</b> Download
@@ -4103,7 +4104,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#492 Shaymin**
 
-![shaymin](../assets/sprites/shaymin/front.gif)
+![shaymin-land](../assets/sprites/shaymin-land/front.gif)
 
 <pre><code><b>Item:</b> Starf Berry (100%)
 </code></pre>
@@ -4696,7 +4697,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#555 Darmanitan**
 
-![darmanitan](../assets/sprites/darmanitan/front.gif)
+![darmanitan-standard](../assets/sprites/darmanitan-standard/front.gif)
 
 <pre><code><b>Ability One:</b> Sheer Force
 <b>Ability Two:</b> Iron Fist
@@ -5368,7 +5369,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#641 Tornadus**
 
-![tornadus](../assets/sprites/tornadus/front.gif)
+![tornadus-incarnate](../assets/sprites/tornadus-incarnate/front.gif)
 
 <pre><code><b>Ability One:</b> Prankster
 <b>Ability Two:</b> Defiant
@@ -5376,7 +5377,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#642 Thundurus**
 
-![thundurus](../assets/sprites/thundurus/front.gif)
+![thundurus-incarnate](../assets/sprites/thundurus-incarnate/front.gif)
 
 <pre><code><b>Ability One:</b> Prankster
 <b>Ability Two:</b> Defiant
@@ -5402,7 +5403,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#645 Landorus**
 
-![landorus](../assets/sprites/landorus/front.gif)
+![landorus-incarnate](../assets/sprites/landorus-incarnate/front.gif)
 
 <pre><code><b>Ability One:</b> Sand Force
 <b>Ability Two:</b> Sheer Force
@@ -5419,7 +5420,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#647 Keldeo**
 
-![keldeo](../assets/sprites/keldeo/front.gif)
+![keldeo-ordinary](../assets/sprites/keldeo-ordinary/front.gif)
 
 <pre><code><b>TM:</b> Can now learn TM13 Ice Beam and TM14 Blizzard.
 <b>Ability One:</b> Justified
@@ -5428,7 +5429,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **#648 Meloetta**
 
-![meloetta](../assets/sprites/meloetta/front.gif)
+![meloetta-aria](../assets/sprites/meloetta-aria/front.gif)
 
 <pre><code><b>Ability One:</b> Serene Grace
 <b>Ability Two:</b> Magic Guard

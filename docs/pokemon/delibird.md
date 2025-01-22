@@ -20,13 +20,13 @@ It carries food rolled up in its tail. It has the habit of sharing food with peo
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/225/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/delibird/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/225/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/delibird/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
@@ -142,8 +142,12 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 | TM62 | Acrobatics | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 55 | 100 | 15 |
 | TM62 | Acrobatics | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 55 | 100 | 15 |
 | TM62 | Acrobatics | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 55 | 100 | 15 |
+| TM62 | Acrobatics | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 55 | 100 | 15 |
+| TM62 | Acrobatics | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 55 | 100 | 15 |
 | TM87 | Swagger | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 15 |
 | TM88 | Pluck | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 20 |
+| TM89 | U Turn | ![bug](../assets/types/bug.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 70 | 100 | 20 |
+| TM89 | U Turn | ![bug](../assets/types/bug.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 70 | 100 | 20 |
 | TM89 | U Turn | ![bug](../assets/types/bug.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 70 | 100 | 20 |
 | TM89 | U Turn | ![bug](../assets/types/bug.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 70 | 100 | 20 |
 | TM89 | U Turn | ![bug](../assets/types/bug.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 70 | 100 | 20 |

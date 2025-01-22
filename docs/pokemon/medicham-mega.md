@@ -20,13 +20,7 @@ It gains the ability to see the aura of its opponents by honing its mind through
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/10054/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/10054/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/medicham-mega/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

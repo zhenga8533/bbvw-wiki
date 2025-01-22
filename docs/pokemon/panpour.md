@@ -22,13 +22,13 @@
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/515/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/panpour/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/515/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/panpour/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
@@ -179,6 +179,10 @@ Move | Type | Cat. | Power | Acc. | PP
 
 Move | Type | Cat. | Power | Acc. | PP
 --- | --- | --- | --- | --- | ---
+| Water Pledge | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 100 | 100 | 10 |
+| Hydro Cannon | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 150 | 90 | 5 |
+| Water Pledge | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 100 | 100 | 10 |
+| Hydro Cannon | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 150 | 90 | 5 |
 | Water Pledge | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 100 | 100 | 10 |
 | Hydro Cannon | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 150 | 90 | 5 |
 | Water Pledge | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 100 | 100 | 10 |

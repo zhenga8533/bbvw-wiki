@@ -26,13 +26,13 @@ It becomes active at night, seeking prey that is exhausted from the day’s dese
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/332/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/cacturne/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/332/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/cacturne/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

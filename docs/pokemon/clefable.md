@@ -20,13 +20,13 @@ It is very wary and rarely shows itself to people. Its ears can hear a pin drop 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/36/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/clefable/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/36/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/clefable/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

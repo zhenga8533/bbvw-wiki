@@ -20,13 +20,13 @@ A well-trained one can sense auras to identify and take in the feelings of creat
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/448/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/lucario/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/448/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/lucario/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

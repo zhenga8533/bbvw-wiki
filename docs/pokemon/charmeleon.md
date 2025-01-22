@@ -20,13 +20,13 @@ In the rocky mountains where Charmeleon live, their fiery tails shine at night l
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/5/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/charmeleon/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/5/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/charmeleon/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

@@ -26,13 +26,13 @@ To avoid being attacked, it does nothing but mimic a tree. It hates water and fl
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/185/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/sudowoodo/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/185/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/sudowoodo/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

@@ -20,13 +20,13 @@ If agitated, it uses electricity to straighten out its fur and launch it in smal
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/135/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/jolteon/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/135/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/jolteon/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
@@ -149,6 +149,8 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 | TM72 | Volt Switch | ![electric](../assets/types/electric.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 70 | 100 | 20 |
 | TM73 | Thunder Wave | ![electric](../assets/types/electric.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 20 |
 | TM83 | Work Up | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 30 |
+| TM86 | Grass Knot | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | 100 | 20 |
+| TM86 | Grass Knot | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | 100 | 20 |
 | TM86 | Grass Knot | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | 100 | 20 |
 | TM86 | Grass Knot | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | 100 | 20 |
 | TM86 | Grass Knot | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | 100 | 20 |

@@ -20,13 +20,13 @@ It can hover in one spot by flapping its wings at high speed. It flits about to 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/193/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/yanma/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/193/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/yanma/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

@@ -26,13 +26,13 @@ It spins its two tails like a screw to propel itself through water. The tails al
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/418/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/buizel/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/418/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/buizel/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

@@ -22,13 +22,13 @@
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/644/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/zekrom/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/644/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/zekrom/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
@@ -134,6 +134,8 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 | TM21 | Frustration | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 20 |
 | TM24 | Thunderbolt | ![electric](../assets/types/electric.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
 | TM25 | Thunder | ![electric](../assets/types/electric.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 110 | 70 | 10 |
+| TM26 | Earthquake | ![ground](../assets/types/ground.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 10 |
+| TM26 | Earthquake | ![ground](../assets/types/ground.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 10 |
 | TM26 | Earthquake | ![ground](../assets/types/ground.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 10 |
 | TM26 | Earthquake | ![ground](../assets/types/ground.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 10 |
 | TM26 | Earthquake | ![ground](../assets/types/ground.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 10 |

@@ -20,13 +20,13 @@ When Azelf flew, people gained the determination to do things. It was the birth 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/482/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/azelf/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/482/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/azelf/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

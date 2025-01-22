@@ -20,13 +20,13 @@ It has a mischievous spirit. If it spots an angler, it will tug on the fishing l
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/271/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/lombre/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/271/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/lombre/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

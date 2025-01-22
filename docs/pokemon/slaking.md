@@ -20,13 +20,13 @@ The world’s laziest Pokémon. When it is lounging, it is actually saving energ
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/289/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/slaking/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/289/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/slaking/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

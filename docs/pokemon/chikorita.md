@@ -20,13 +20,13 @@ It uses the leaf on its head to determine the temperature and humidity. It loves
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/152/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/chikorita/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/152/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/chikorita/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

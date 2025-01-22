@@ -20,13 +20,13 @@ It flaps its small wings busily to fly. Using its beak, it searches in grass for
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/21/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/spearow/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/21/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/spearow/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

@@ -20,13 +20,13 @@ Its slimy body is hard to grasp. In one region, it is said to have been born fro
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/339/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/barboach/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/339/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/barboach/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

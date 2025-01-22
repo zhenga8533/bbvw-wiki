@@ -20,13 +20,13 @@ Because it can use all kinds of moves, many scientists believe Mew to be the anc
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/151/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/mew/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/151/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/mew/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

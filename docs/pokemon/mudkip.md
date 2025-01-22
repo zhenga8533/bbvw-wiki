@@ -20,13 +20,13 @@ To alert it, the fin on its head senses the flow of water. It has the strength t
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/258/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/mudkip/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/258/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/mudkip/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

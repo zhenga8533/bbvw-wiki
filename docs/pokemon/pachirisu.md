@@ -26,13 +26,13 @@ A pair may be seen rubbing their cheek pouches together in an effort to share st
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/417/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/pachirisu/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/417/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/pachirisu/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

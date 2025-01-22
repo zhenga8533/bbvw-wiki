@@ -20,13 +20,13 @@ It is called the “Mirage Pokémon” because so few have seen it. Its shed ski
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/147/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/dratini/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/147/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/dratini/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

@@ -20,13 +20,13 @@ It is said to have widened the seas by causing downpours. It had been asleep in 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/382/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/kyogre/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/382/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/kyogre/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

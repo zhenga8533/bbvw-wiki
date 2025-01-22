@@ -16,13 +16,7 @@ A legendary Pokémon of Sinnoh. It is said that time flows when Dialga’s heart
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/10245/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/10245/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/dialga-origin/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

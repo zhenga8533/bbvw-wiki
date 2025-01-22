@@ -20,13 +20,13 @@ The fire on the tip of its tail is a measure of its life. If healthy, its tail b
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/4/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/charmander/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/4/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/charmander/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

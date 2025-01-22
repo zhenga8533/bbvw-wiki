@@ -20,13 +20,13 @@ A steel-hard shell protects its tender body. It quietly endures hardships while 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/11/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/metapod/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/11/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/metapod/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

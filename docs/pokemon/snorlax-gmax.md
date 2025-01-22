@@ -20,13 +20,7 @@ When its belly is full, it becomes too lethargic to even lift a finger, so it is
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/10206/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/10206/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/snorlax-gmax/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

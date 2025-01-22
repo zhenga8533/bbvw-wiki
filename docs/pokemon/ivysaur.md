@@ -20,13 +20,13 @@ When the bud on its back starts swelling, a sweet aroma wafts to indicate the fl
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/2/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/ivysaur/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/2/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/ivysaur/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

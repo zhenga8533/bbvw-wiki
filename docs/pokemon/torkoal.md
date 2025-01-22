@@ -20,13 +20,13 @@ It burns coal inside its shell for energy. It blows out black soot if it is enda
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/324/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/torkoal/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/324/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/torkoal/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

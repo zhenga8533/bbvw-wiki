@@ -20,13 +20,13 @@ It has the peculiar power of being able to see emotions such as joy and rage in 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/447/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/riolu/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/447/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/riolu/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

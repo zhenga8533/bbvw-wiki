@@ -20,13 +20,13 @@ Its cell composition is similar to water molecules. As a result, it can melt awa
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/134/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/vaporeon/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/134/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/vaporeon/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
@@ -147,6 +147,8 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 | TM67 | Retaliate | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 70 | 100 | 5 |
 | TM68 | Giga Impact | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 150 | 90 | 5 |
 | TM83 | Work Up | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 30 |
+| TM86 | Grass Knot | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | 100 | 20 |
+| TM86 | Grass Knot | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | 100 | 20 |
 | TM86 | Grass Knot | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | 100 | 20 |
 | TM86 | Grass Knot | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | 100 | 20 |
 | TM86 | Grass Knot | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | 100 | 20 |

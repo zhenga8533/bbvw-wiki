@@ -20,13 +20,13 @@ It was upgraded to enable the exploration of other planets. However, it failed t
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/233/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/porygon2/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/233/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/porygon2/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

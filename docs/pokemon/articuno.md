@@ -20,13 +20,13 @@ A legendary bird Pokémon. It can create blizzards by freezing moisture in the a
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/144/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/articuno/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/144/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/articuno/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

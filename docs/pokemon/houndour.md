@@ -20,13 +20,13 @@ It is smart enough to hunt in packs. It uses a variety of cries for communicatin
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/228/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/houndour/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/228/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/houndour/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

@@ -20,13 +20,7 @@ It was banished for its violence. It silently gazed upon the old world from the 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/10007/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/10007/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/giratina-origin/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

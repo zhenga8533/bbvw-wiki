@@ -20,13 +20,13 @@ It mimics the expressions and motions of those it sees to understand the feeling
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/439/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/mime-jr/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/439/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/mime-jr/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

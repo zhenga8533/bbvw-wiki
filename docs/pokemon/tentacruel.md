@@ -20,13 +20,13 @@ It extends its 80 tentacles to form an encircling poisonous net that is difficul
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/73/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/tentacruel/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/73/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/tentacruel/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

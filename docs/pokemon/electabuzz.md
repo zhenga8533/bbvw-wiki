@@ -20,13 +20,13 @@ It windmills its arms to slightly boost its punches. Foes have been known to esc
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/125/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/electabuzz/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/125/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/electabuzz/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

@@ -20,13 +20,13 @@ At the center of its body is a red core, which sends mysterious radio signals in
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/121/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/starmie/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/121/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/starmie/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

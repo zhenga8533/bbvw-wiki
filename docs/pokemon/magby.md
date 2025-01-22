@@ -20,13 +20,13 @@ Its magma-like blood circulates throughout its body. Its body’s heat can top 1
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/240/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/magby/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/240/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/magby/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

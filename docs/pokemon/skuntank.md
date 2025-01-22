@@ -20,13 +20,13 @@ It attacks by spraying a horribly smelly fluid from the tip of its tail. Attacks
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/435/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/skuntank/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/435/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/skuntank/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

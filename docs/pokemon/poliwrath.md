@@ -20,13 +20,13 @@ With its extremely tough muscles, it can keep swimming in the Pacific Ocean with
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/62/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/poliwrath/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/62/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/poliwrath/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

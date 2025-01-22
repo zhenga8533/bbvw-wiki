@@ -20,13 +20,13 @@ It is thought that this Pokémon came onto land because its prey adapted to life
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/141/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/kabutops/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/141/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/kabutops/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

@@ -20,13 +20,13 @@ Its cry sounds like an incantation. It is said the cry may rarely be imbued with
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/429/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/mismagius/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/429/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/mismagius/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

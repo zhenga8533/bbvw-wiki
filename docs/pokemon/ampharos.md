@@ -20,13 +20,13 @@ The tip of its tail shines brightly. In the olden days, people sent signals usin
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/181/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/ampharos/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/181/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/ampharos/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
@@ -155,6 +155,8 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 | TM78 | Bulldoze | ![ground](../assets/types/ground.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 100 | 20 |
 | TM87 | Swagger | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 15 |
 | TM90 | Substitute | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
+| TM91 | Flash Cannon | ![steel](../assets/types/steel.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 80 | 100 | 10 |
+| TM91 | Flash Cannon | ![steel](../assets/types/steel.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 80 | 100 | 10 |
 | TM91 | Flash Cannon | ![steel](../assets/types/steel.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 80 | 100 | 10 |
 | TM91 | Flash Cannon | ![steel](../assets/types/steel.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 80 | 100 | 10 |
 | TM91 | Flash Cannon | ![steel](../assets/types/steel.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 80 | 100 | 10 |

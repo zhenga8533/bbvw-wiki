@@ -20,13 +20,13 @@ It spends nearly all its time in a day sprawled out. Just seeing it makes one dr
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/287/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/slakoth/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/287/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/slakoth/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

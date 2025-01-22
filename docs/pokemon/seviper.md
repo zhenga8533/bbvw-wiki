@@ -20,13 +20,13 @@ For many generations, it has feuded with Zangoose. It whets its bladed tail on r
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/336/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/seviper/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/336/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/seviper/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

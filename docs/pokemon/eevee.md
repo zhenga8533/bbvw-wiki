@@ -20,13 +20,13 @@ Because its genetic makeup is irregular, it quickly changes its form due to a va
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/133/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/eevee/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/133/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/eevee/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
@@ -135,6 +135,8 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 | TM49 | Echoed Voice | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 40 | 100 | 15 |
 | TM67 | Retaliate | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 70 | 100 | 5 |
 | TM83 | Work Up | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 30 |
+| TM86 | Grass Knot | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | 100 | 20 |
+| TM86 | Grass Knot | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | 100 | 20 |
 | TM86 | Grass Knot | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | 100 | 20 |
 | TM86 | Grass Knot | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | 100 | 20 |
 | TM86 | Grass Knot | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | 100 | 20 |

@@ -20,13 +20,13 @@ The biggest of all Pokémon. It can dive to a depth of almost 10,000 feet on onl
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/321/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/wailord/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/321/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/wailord/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

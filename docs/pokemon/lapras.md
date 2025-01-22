@@ -20,13 +20,13 @@ It loves crossing the sea with people and Pokémon on its back. It understands h
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/131/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/lapras/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/131/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/lapras/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

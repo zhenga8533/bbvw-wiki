@@ -20,13 +20,13 @@ It toughens its body by slamming into thick trees. Many snapped trees can be fou
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/296/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/makuhita/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/296/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/makuhita/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

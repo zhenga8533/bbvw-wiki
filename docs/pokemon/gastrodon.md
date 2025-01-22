@@ -20,13 +20,13 @@ Long ago, its entire back was shielded with a sturdy shell. There are traces of 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/423/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/gastrodon/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/423/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/gastrodon/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

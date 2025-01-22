@@ -16,13 +16,7 @@ It attacks using blasts of fire. It creates heat shimmers with intense fire to h
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/10233/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/10233/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/typhlosion-hisui/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

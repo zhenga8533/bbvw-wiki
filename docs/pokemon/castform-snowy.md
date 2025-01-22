@@ -20,13 +20,7 @@ Its appearance changes with the weather. Recently, its molecules were found to b
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/10015/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/10015/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/castform-snowy/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

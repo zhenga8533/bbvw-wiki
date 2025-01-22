@@ -20,13 +20,13 @@ At dusk, swarms of them are carried aloft on winds. When noticed, they suddenly 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/426/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/drifblim/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/426/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/drifblim/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

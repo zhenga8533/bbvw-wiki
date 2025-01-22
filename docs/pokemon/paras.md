@@ -20,13 +20,13 @@ Mushrooms named tochukaso grow on its back. They grow along with the host Paras.
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/46/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/paras/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/46/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/paras/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

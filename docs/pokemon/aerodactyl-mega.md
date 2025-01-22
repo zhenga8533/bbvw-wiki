@@ -20,13 +20,7 @@ A Pokémon that roamed the skies in the dinosaur era. Its teeth are like saw bla
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/10042/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/10042/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/aerodactyl-mega/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

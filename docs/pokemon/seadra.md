@@ -20,13 +20,13 @@ Its spines provide protection. Its fins and bones are prized as traditional medi
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/117/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/seadra/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/117/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/seadra/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
@@ -145,6 +145,8 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 | TM48 | Round | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 15 |
 | TM55 | Scald | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 80 | 100 | 15 |
 | TM68 | Giga Impact | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 150 | 90 | 5 |
+| TM79 | Frost Breath | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 90 | 10 |
+| TM79 | Frost Breath | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 90 | 10 |
 | TM79 | Frost Breath | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 90 | 10 |
 | TM79 | Frost Breath | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 90 | 10 |
 | TM79 | Frost Breath | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 90 | 10 |

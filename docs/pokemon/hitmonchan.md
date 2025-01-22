@@ -20,13 +20,13 @@ The arm-twisting punches it throws pulverize even concrete. It rests after three
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/107/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/hitmonchan/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/107/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/hitmonchan/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

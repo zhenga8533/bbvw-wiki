@@ -26,13 +26,13 @@ Its sharp fangs puncture the toughest of hides and have small holes for greedily
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/42/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/golbat/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/42/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/golbat/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

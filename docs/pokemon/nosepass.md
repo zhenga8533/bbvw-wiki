@@ -20,13 +20,13 @@ When endangered, it may protect itself by raising its magnetism and drawing iron
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/299/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/nosepass/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/299/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/nosepass/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

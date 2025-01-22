@@ -20,13 +20,13 @@ By storing water in its body, this desert dweller can survive for 30 days withou
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/331/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/cacnea/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/331/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/cacnea/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

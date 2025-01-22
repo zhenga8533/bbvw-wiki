@@ -20,13 +20,13 @@ It grows strong by pushing up against others en masse. It loves eating sweet fru
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/360/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/wynaut/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/360/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/wynaut/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

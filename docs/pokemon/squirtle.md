@@ -20,13 +20,13 @@ It shelters itself in its shell, then strikes back with spouts of water at every
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/7/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/squirtle/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/7/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/squirtle/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

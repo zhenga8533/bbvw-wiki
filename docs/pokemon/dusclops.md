@@ -20,13 +20,13 @@ It seeks drifting will-o’-the-wisps and sucks them into its empty body. What h
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/356/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/dusclops/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/356/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/dusclops/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

@@ -20,13 +20,7 @@ The spoons clutched in its hands are said to have been created by its psychic po
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/10037/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/10037/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/alakazam-mega/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

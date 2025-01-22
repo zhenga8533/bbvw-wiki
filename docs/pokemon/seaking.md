@@ -26,13 +26,13 @@ In autumn, its body becomes more fatty in preparing to propose to a mate. It tak
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/119/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/seaking/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/119/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/seaking/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

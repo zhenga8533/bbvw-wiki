@@ -18,13 +18,7 @@
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/10237/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/10237/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/lilligant-hisui/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

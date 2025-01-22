@@ -20,13 +20,13 @@ A discarded bug shell that came to life. Peering into the crack on its back is s
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/292/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/shedinja/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/292/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/shedinja/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

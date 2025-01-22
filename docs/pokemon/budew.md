@@ -20,13 +20,13 @@ Sensitive to changing temperature, the bud is said to bloom when it feels the su
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/406/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/budew/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/406/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/budew/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

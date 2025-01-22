@@ -22,13 +22,13 @@
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/647/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/keldeo-ordinary/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/647/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/keldeo-ordinary/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
@@ -139,6 +139,10 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 | TM13 | Ice Beam | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
 | TM13 | Ice Beam | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
 | TM13 | Ice Beam | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
+| TM13 | Ice Beam | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
+| TM13 | Ice Beam | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
+| TM14 | Blizzard | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 110 | 70 | 5 |
+| TM14 | Blizzard | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 110 | 70 | 5 |
 | TM14 | Blizzard | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 110 | 70 | 5 |
 | TM14 | Blizzard | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 110 | 70 | 5 |
 | TM14 | Blizzard | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 110 | 70 | 5 |

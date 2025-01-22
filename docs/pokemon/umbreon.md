@@ -20,13 +20,13 @@ When exposed to the moon’s aura, the rings on its body glow faintly and it gai
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/197/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/umbreon/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/197/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/umbreon/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
@@ -148,6 +148,8 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 | TM77 | Psych Up | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
 | TM83 | Work Up | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 30 |
 | TM85 | Dream Eater | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 100 | 100 | 15 |
+| TM86 | Grass Knot | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | 100 | 20 |
+| TM86 | Grass Knot | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | 100 | 20 |
 | TM86 | Grass Knot | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | 100 | 20 |
 | TM86 | Grass Knot | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | 100 | 20 |
 | TM86 | Grass Knot | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | 100 | 20 |

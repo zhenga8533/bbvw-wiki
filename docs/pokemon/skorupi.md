@@ -20,13 +20,13 @@ As soon as the tail claws close, its needle tips secrete poison. It can survive 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/451/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/skorupi/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/451/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/skorupi/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

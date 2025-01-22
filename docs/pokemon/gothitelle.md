@@ -22,13 +22,13 @@
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/576/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/gothitelle/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/576/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/gothitelle/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
@@ -166,9 +166,13 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 | TM52 | Focus Blast | ![fighting](../assets/types/fighting.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 120 | 70 | 5 |
 | TM52 | Focus Blast | ![fighting](../assets/types/fighting.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 120 | 70 | 5 |
 | TM52 | Focus Blast | ![fighting](../assets/types/fighting.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 120 | 70 | 5 |
+| TM52 | Focus Blast | ![fighting](../assets/types/fighting.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 120 | 70 | 5 |
+| TM52 | Focus Blast | ![fighting](../assets/types/fighting.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 120 | 70 | 5 |
 | TM53 | Energy Ball | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
 | TM56 | Fling | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 10 |
 | TM57 | Charge Beam | ![electric](../assets/types/electric.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 50 | 90 | 10 |
+| TM61 | Will O Wisp | ![fire](../assets/types/fire.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 15 |
+| TM61 | Will O Wisp | ![fire](../assets/types/fire.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 15 |
 | TM61 | Will O Wisp | ![fire](../assets/types/fire.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 15 |
 | TM61 | Will O Wisp | ![fire](../assets/types/fire.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 15 |
 | TM61 | Will O Wisp | ![fire](../assets/types/fire.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 15 |

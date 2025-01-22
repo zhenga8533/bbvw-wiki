@@ -20,13 +20,13 @@ It lives in warm seas. It is said that a couple finding this Pokémon will be bl
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/370/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/luvdisc/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/370/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/luvdisc/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

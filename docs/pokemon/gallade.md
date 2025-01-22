@@ -20,13 +20,13 @@ When trying to protect someone, it extends its elbows as if they were swords and
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/475/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/gallade/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/475/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/gallade/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

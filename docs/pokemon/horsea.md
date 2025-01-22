@@ -20,13 +20,13 @@ It makes its nest in the shade of corals. If it senses danger, it spits murky in
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/116/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/horsea/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/116/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/horsea/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
@@ -138,6 +138,8 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 | TM45 | Attract | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 15 |
 | TM48 | Round | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 15 |
 | TM55 | Scald | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 80 | 100 | 15 |
+| TM79 | Frost Breath | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 90 | 10 |
+| TM79 | Frost Breath | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 90 | 10 |
 | TM79 | Frost Breath | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 90 | 10 |
 | TM79 | Frost Breath | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 90 | 10 |
 | TM79 | Frost Breath | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 90 | 10 |

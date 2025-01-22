@@ -20,13 +20,13 @@ If it senses strong sunlight, it opens its folded petals to absorb the sun’s r
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/421/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/cherrim/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/421/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/cherrim/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

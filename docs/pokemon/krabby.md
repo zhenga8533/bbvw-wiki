@@ -20,13 +20,13 @@ It lives in burrows dug on sandy beaches. Its pincers fully grow back if they ar
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/98/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/krabby/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/98/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/krabby/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
@@ -121,6 +121,8 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 | HM01 | Cut | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 20 |
 | HM03 | Surf | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
 | HM04 | Strength | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
+| HM05 | Waterfall | ![water](../assets/types/water.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
+| HM05 | Waterfall | ![water](../assets/types/water.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
 | HM05 | Waterfall | ![water](../assets/types/water.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
 | HM05 | Waterfall | ![water](../assets/types/water.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
 | HM05 | Waterfall | ![water](../assets/types/water.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |

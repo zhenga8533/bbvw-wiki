@@ -20,13 +20,13 @@ When the heavy rainfall season ends, it is drawn out by warm sunlight to dance i
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/182/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/bellossom/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/182/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/bellossom/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

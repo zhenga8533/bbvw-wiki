@@ -26,13 +26,13 @@ Its humped back stores intensely hot magma. In rain, the magma cools, slowing it
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/322/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/numel/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/322/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/numel/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

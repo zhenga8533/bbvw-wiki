@@ -26,13 +26,13 @@ The honey it drools from its mouth smells so atrocious, it can curl noses more t
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/44/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/gloom/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/44/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/gloom/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

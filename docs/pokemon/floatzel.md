@@ -26,13 +26,13 @@ It is a common sight around fishing ports. It is known to rescue people and carr
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/419/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/floatzel/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/419/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/floatzel/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

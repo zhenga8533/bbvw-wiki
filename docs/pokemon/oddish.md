@@ -20,13 +20,13 @@ It often plants its root feet in the ground during the day and sows seeds as it 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/43/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/oddish/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/43/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/oddish/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

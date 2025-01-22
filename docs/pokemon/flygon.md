@@ -20,13 +20,13 @@ It whips up sandstorms with powerful flaps of its wings. It is known as “The D
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/330/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/flygon/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/330/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/flygon/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

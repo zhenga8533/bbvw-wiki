@@ -20,13 +20,13 @@ Its body is as hard as bedrock. By venting pressurized gas, it can launch itself
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/247/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/pupitar/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/247/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/pupitar/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

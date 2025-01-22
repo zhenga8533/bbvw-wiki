@@ -20,13 +20,13 @@ The buds that ring its neck give off a spicy aroma that perks people up.
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/153/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/bayleef/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/153/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/bayleef/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

@@ -20,13 +20,13 @@ Its fur is so sensitive, it can sense minute shifts in the air and predict the w
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/196/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/espeon/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/196/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/espeon/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

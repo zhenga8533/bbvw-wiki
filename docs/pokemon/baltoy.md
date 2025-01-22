@@ -20,13 +20,13 @@ It moves by spinning on its foot. It is a rare Pokémon that was discovered in a
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/343/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/baltoy/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/343/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/baltoy/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

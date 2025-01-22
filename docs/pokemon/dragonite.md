@@ -20,13 +20,13 @@ It is said to make its home somewhere in the sea. It guides crews of shipwrecks 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/149/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/dragonite/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/149/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/dragonite/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

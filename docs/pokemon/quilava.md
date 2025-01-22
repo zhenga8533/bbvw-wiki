@@ -20,13 +20,13 @@ It intimidates foes with the heat of its flames. The fire burns more strongly wh
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/156/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/quilava/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/156/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/quilava/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

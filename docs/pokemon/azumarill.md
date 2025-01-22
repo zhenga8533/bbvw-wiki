@@ -20,13 +20,13 @@ It can spend all day in water, since it can inhale and store a large volume of a
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/184/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/azumarill/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/184/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/azumarill/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

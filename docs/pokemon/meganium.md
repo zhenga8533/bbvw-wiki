@@ -26,13 +26,13 @@ Its breath has the fantastic ability to revive dead plants and flowers.
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/154/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/meganium/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/154/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/meganium/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

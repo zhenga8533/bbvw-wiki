@@ -26,13 +26,13 @@ The sharp scythes on its forearms become increasingly sharp by cutting through h
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/123/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/scyther/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/123/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/scyther/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
@@ -152,6 +152,8 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 | TM46 | Thief | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 25 |
 | TM48 | Round | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 15 |
 | TM54 | False Swipe | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 40 |
+| TM62 | Acrobatics | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 55 | 100 | 15 |
+| TM62 | Acrobatics | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 55 | 100 | 15 |
 | TM62 | Acrobatics | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 55 | 100 | 15 |
 | TM62 | Acrobatics | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 55 | 100 | 15 |
 | TM62 | Acrobatics | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 55 | 100 | 15 |

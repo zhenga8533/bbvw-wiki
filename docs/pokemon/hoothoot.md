@@ -20,13 +20,13 @@ It marks time precisely. Some countries consider it to be a wise friend, versed 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/163/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/hoothoot/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/163/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/hoothoot/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

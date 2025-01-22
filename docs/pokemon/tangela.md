@@ -20,13 +20,13 @@ The blue vines shrouding its body are covered in a growth of fine hair. It is kn
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/114/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/tangela/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/114/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/tangela/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

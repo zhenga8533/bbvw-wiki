@@ -20,13 +20,7 @@ From its birth, this savage Pokémon constantly holds bones. It is skilled in us
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/10115/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/10115/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/marowak-alola/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

@@ -20,13 +20,13 @@ Lighter-than-air gases in its body keep it aloft. The gases not only smell, they
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/109/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/koffing/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/109/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/koffing/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
@@ -131,6 +131,8 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 | TM27 | Return | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 20 |
 | TM30 | Shadow Ball | ![ghost](../assets/types/ghost.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
 | TM32 | Double Team | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
+| TM34 | Sludge Wave | ![poison](../assets/types/poison.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 95 | 100 | 10 |
+| TM34 | Sludge Wave | ![poison](../assets/types/poison.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 95 | 100 | 10 |
 | TM34 | Sludge Wave | ![poison](../assets/types/poison.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 95 | 100 | 10 |
 | TM34 | Sludge Wave | ![poison](../assets/types/poison.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 95 | 100 | 10 |
 | TM34 | Sludge Wave | ![poison](../assets/types/poison.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 95 | 100 | 10 |

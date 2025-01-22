@@ -20,13 +20,13 @@ It fights while spinning like a top. The centrifugal force boosts its destructiv
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/237/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/hitmontop/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/237/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/hitmontop/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

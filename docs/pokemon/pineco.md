@@ -20,13 +20,13 @@ It looks just like a pinecone. Its shell protects it from bird Pokémon that pec
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/204/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/pineco/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/204/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/pineco/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

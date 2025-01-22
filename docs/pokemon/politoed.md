@@ -26,13 +26,13 @@ It gathers groups of others as their leader. Its cries make Poliwag obey.
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/186/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/politoed/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/186/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/politoed/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

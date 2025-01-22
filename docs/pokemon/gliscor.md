@@ -20,13 +20,13 @@ If it succeeds in catching even a faint breeze properly, it can circle the globe
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/472/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/gliscor/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/472/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/gliscor/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
@@ -123,6 +123,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 TM | Move | Type | Cat. | Power | Acc. | PP
 --- | --- | --- | --- | --- | --- | ---
 | HM01 | Cut | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 20 |
+| HM02 | Fly | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 15 |
+| HM02 | Fly | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 15 |
 | HM02 | Fly | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 15 |
 | HM02 | Fly | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 15 |
 | HM02 | Fly | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 15 |

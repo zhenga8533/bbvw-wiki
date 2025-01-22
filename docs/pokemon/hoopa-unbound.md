@@ -20,13 +20,7 @@ It is said to be able to seize anything it desires with its six rings and six hu
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/10086/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/10086/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/hoopa-unbound/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

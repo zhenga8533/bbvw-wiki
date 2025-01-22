@@ -20,13 +20,13 @@ It rolls across ice floes to reach shore because its body is poorly shaped for s
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/363/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/spheal/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/363/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/spheal/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

@@ -20,13 +20,13 @@ It prefers an arid atmosphere. It leaks water that looks like tears when adjusti
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/438/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/bonsly/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/438/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/bonsly/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

@@ -20,13 +20,13 @@ Attached to its head is a huge set of jaws formed by horns. It can chew through 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/303/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/mawile/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/303/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/mawile/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

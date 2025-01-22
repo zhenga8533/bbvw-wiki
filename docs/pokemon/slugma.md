@@ -20,13 +20,13 @@ Its body is made of magma. If it doesn’t keep moving, its body will cool and h
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/218/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/slugma/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/218/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/slugma/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

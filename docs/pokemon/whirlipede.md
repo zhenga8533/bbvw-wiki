@@ -22,13 +22,13 @@
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/544/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/whirlipede/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/544/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/whirlipede/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

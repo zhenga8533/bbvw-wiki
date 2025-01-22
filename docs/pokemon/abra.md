@@ -20,13 +20,13 @@ Using its psychic power is such a strain on its brain that it needs to sleep for
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/63/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/abra/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/63/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/abra/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

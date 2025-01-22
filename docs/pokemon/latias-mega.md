@@ -20,13 +20,7 @@ Its body is covered with a down that can refract light in such a way that it bec
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/10062/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/10062/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/latias-mega/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

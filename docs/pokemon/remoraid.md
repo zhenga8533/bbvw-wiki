@@ -20,13 +20,13 @@ It forcefully squirts water. The water jet never misses prey even if the Remorai
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/223/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/remoraid/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/223/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/remoraid/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
@@ -143,6 +143,8 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 | TM57 | Charge Beam | ![electric](../assets/types/electric.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 50 | 90 | 10 |
 | TM59 | Incinerate | ![fire](../assets/types/fire.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 50 | 100 | 15 |
 | TM73 | Thunder Wave | ![electric](../assets/types/electric.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 20 |
+| TM79 | Frost Breath | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 90 | 10 |
+| TM79 | Frost Breath | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 90 | 10 |
 | TM79 | Frost Breath | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 90 | 10 |
 | TM79 | Frost Breath | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 90 | 10 |
 | TM79 | Frost Breath | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 90 | 10 |

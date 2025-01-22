@@ -2431,7 +2431,7 @@ Sinnoh Pokémon
 #479 Rotom Frost
 + Level 1 - Glaciate
 
-#479 Rotom Oven
+#479 Rotom Heat
 + Level 1 - Lava Plume
 
 #479 Rotom Wash

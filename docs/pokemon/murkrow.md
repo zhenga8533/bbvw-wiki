@@ -26,13 +26,13 @@ If spotted, it will lure an unwary person into chasing it, then lose the pursuer
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/198/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/murkrow/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/198/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/murkrow/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

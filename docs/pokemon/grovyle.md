@@ -20,13 +20,13 @@ It lives in dense jungles. While  closing in on its prey, it leaps from branch t
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/253/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/grovyle/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/253/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/grovyle/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
@@ -36,7 +36,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #253 | ![grass](../assets/types/grass.png){: width='48'} | 0.9 m | 21.6 kg | 1. Overgrow<br>2. Unburden | #N/A |
+| #253 | ![grass](../assets/types/grass.png){: width='48'} | 0.9 m | 21.6 kg | 1. Overgrow<br>2. Adaptability | #N/A |
 
 ---
 

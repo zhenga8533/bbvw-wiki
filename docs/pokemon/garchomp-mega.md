@@ -20,13 +20,7 @@ It is said that when one runs at high speed, its wings create blades of wind tha
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/10058/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/10058/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/garchomp-mega/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

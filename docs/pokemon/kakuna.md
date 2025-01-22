@@ -20,13 +20,13 @@ While awaiting evolution, it hides from predators under leaves and in nooks of b
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/14/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/kakuna/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/14/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/kakuna/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

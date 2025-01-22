@@ -20,13 +20,13 @@ It is said to take lost spirits into its pliant body and guide them home.
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/477/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/dusknoir/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/477/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/dusknoir/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

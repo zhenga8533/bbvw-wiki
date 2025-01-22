@@ -22,13 +22,13 @@
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/523/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/zebstrika/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/523/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/zebstrika/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

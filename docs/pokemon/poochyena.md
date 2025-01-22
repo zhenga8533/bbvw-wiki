@@ -20,13 +20,13 @@ A Pokémon with a persistent nature, it chases its chosen prey until the prey be
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/261/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/poochyena/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/261/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/poochyena/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

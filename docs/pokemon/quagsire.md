@@ -26,13 +26,13 @@ It has an easygoing nature. It doesn’t care if it bumps its head on boats and 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/195/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/quagsire/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/195/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/quagsire/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

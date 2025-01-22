@@ -20,13 +20,13 @@ Its tongue is just like a human’s. As a result, it can cleverly mimic human sp
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/441/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/chatot/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/441/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/chatot/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

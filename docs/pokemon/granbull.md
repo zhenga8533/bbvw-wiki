@@ -20,13 +20,13 @@ It is timid in spite of its looks. If it becomes enraged, however, it will strik
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/210/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/granbull/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/210/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/granbull/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

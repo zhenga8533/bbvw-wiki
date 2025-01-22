@@ -20,13 +20,13 @@ Delicious fruits grew out from around its neck because it always ate the same ki
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/357/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/tropius/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/357/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/tropius/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

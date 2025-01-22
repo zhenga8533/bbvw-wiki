@@ -20,13 +20,13 @@ It flutters its wings to scatter dustlike scales. The scales leach toxins if the
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/49/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/venomoth/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/49/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/venomoth/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

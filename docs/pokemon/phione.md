@@ -20,13 +20,13 @@ It drifts in warm seas. It always returns to where it was born, no matter how fa
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/489/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/phione/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/489/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/phione/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

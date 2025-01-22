@@ -20,13 +20,13 @@ A lifelong jungle dweller from 100 million years ago, it would snap obstructing 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/408/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/cranidos/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/408/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/cranidos/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

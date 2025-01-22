@@ -20,13 +20,13 @@ It can tell what people are dreaming by sniffing with its big nose. It loves fun
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/96/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/drowzee/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/96/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/drowzee/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

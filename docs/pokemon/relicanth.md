@@ -26,13 +26,13 @@ A rare Pokémon discovered during a deep-sea exploration. It has not changed in 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/369/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/relicanth/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/369/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/relicanth/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

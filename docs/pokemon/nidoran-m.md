@@ -20,13 +20,13 @@ It scans its surroundings by raising its ears out of the grass. Its toxic horn i
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/32/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/nidoran-m/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/32/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/nidoran-m/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

@@ -20,13 +20,13 @@ Because it turns active on nights of the full moon, it is said to have some link
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/337/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/lunatone/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/337/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/lunatone/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

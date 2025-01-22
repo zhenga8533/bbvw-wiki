@@ -20,13 +20,13 @@ It has a violent disposition and stabs foes with its horn, which oozes poison up
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/33/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/nidorino/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/33/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/nidorino/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

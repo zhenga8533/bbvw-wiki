@@ -20,13 +20,13 @@ It sneaks through grass without making a sound and strikes unsuspecting prey fro
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/23/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/ekans/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/23/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/ekans/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

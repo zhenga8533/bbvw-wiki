@@ -22,13 +22,13 @@
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/589/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/escavalier/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/589/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/escavalier/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
@@ -145,6 +145,8 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 | TM53 | Energy Ball | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
 | TM54 | False Swipe | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 40 |
 | TM68 | Giga Impact | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 150 | 90 | 5 |
+| TM74 | Gyro Ball | ![steel](../assets/types/steel.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 5 |
+| TM74 | Gyro Ball | ![steel](../assets/types/steel.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 5 |
 | TM74 | Gyro Ball | ![steel](../assets/types/steel.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 5 |
 | TM74 | Gyro Ball | ![steel](../assets/types/steel.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 5 |
 | TM74 | Gyro Ball | ![steel](../assets/types/steel.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 5 |

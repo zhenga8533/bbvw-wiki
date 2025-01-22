@@ -20,13 +20,13 @@ Its six eggs converse using telepathy. They can quickly gather if they become se
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/102/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/exeggcute/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/102/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/exeggcute/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

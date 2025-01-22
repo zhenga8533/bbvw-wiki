@@ -20,13 +20,13 @@ It shoots the poison spines on its body in all directions. Its round form makes 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/211/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/qwilfish/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/211/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/qwilfish/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

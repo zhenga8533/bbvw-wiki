@@ -20,13 +20,13 @@ Inhaled air is heated in the flame sac in its body to an intense fire over 3,000
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/136/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/flareon/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/136/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/flareon/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
@@ -156,6 +156,10 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 | TM71 | Stone Edge | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 80 | 5 |
 | TM71 | Stone Edge | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 80 | 5 |
 | TM71 | Stone Edge | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 80 | 5 |
+| TM71 | Stone Edge | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 80 | 5 |
+| TM71 | Stone Edge | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 80 | 5 |
+| TM80 | Rock Slide | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 95 | 10 |
+| TM80 | Rock Slide | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 95 | 10 |
 | TM80 | Rock Slide | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 95 | 10 |
 | TM80 | Rock Slide | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 95 | 10 |
 | TM80 | Rock Slide | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 95 | 10 |
@@ -175,8 +179,12 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 | TM86 | Grass Knot | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | 100 | 20 |
 | TM86 | Grass Knot | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | 100 | 20 |
 | TM86 | Grass Knot | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | 100 | 20 |
+| TM86 | Grass Knot | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | 100 | 20 |
+| TM86 | Grass Knot | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | 100 | 20 |
 | TM87 | Swagger | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 15 |
 | TM90 | Substitute | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
+| TM93 | Wild Charge | ![electric](../assets/types/electric.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 90 | 100 | 15 |
+| TM93 | Wild Charge | ![electric](../assets/types/electric.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 90 | 100 | 15 |
 | TM93 | Wild Charge | ![electric](../assets/types/electric.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 90 | 100 | 15 |
 | TM93 | Wild Charge | ![electric](../assets/types/electric.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 90 | 100 | 15 |
 | TM93 | Wild Charge | ![electric](../assets/types/electric.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 90 | 100 | 15 |

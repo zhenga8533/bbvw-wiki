@@ -26,13 +26,13 @@ Its petals are the largest in the world. As it walks, it scatters extremely alle
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/45/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/vileplume/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/45/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/vileplume/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

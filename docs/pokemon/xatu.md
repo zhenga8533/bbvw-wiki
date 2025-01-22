@@ -26,13 +26,13 @@ This odd Pokémon can see both the past and the future. It eyes the sun’s move
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/178/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/xatu/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/178/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/xatu/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

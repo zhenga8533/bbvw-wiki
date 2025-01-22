@@ -20,13 +20,7 @@ Flames spout from its wrists, enveloping its knuckles. Its punches scorch its fo
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/10050/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/10050/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/blaziken-mega/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

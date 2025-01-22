@@ -20,13 +20,13 @@ Its hardy vitality enables it to adapt to any environment. Its pincers will neve
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/341/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/corphish/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/341/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/corphish/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

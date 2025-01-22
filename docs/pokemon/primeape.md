@@ -20,13 +20,13 @@ It grows angry if you see its eyes and gets angrier if you run. If you beat it, 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/57/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/primeape/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/57/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/primeape/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

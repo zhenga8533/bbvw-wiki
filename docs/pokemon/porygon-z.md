@@ -20,13 +20,13 @@ Its programming was modified to enable work in alien dimensions. It did not work
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/474/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/porygon-z/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/474/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/porygon-z/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
@@ -36,7 +36,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #474 | ![normal](../assets/types/normal.png){: width='48'} | 0.9 m | 34.0 kg | 1. Trace<br>2. Download | #N/A |
+| #474 | ![normal](../assets/types/normal.png){: width='48'} | 0.9 m | 34.0 kg | 1. Adaptability<br>2. Download | #N/A |
 
 ---
 
@@ -122,8 +122,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 | 51 | Tri Attack | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 80 | 100 | 10 |
 | 56 | Magic Coat | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
 | 62 | Zap Cannon | ![electric](../assets/types/electric.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 120 | 50 | 5 |
-| 67 | Gravity | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
 | 67 | Hyper Beam | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 150 | 90 | 5 |
+| 72 | Gravity | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
 
 ### TM Moves
 

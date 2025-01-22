@@ -20,13 +20,7 @@ Its nine tails are said to be imbued with a mystic power. It can live for a thou
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/10104/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/10104/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/ninetales-alola/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

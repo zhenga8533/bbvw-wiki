@@ -20,13 +20,13 @@ When at an all-out gallop, its blazing mane sparkles, enhancing its beautiful ap
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/78/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/rapidash/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/78/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/rapidash/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

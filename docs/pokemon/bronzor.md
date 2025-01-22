@@ -20,13 +20,13 @@ There are researchers who believe this Pokémon reflected like a mirror in the d
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/436/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/bronzor/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/436/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/bronzor/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

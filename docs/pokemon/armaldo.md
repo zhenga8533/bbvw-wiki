@@ -20,13 +20,13 @@ It went ashore after evolving. Its entire body is clad in a sturdy armor.
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/348/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/armaldo/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/348/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/armaldo/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

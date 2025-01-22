@@ -20,13 +20,13 @@ It is said to have fallen with lightning. It can fire thunderbolts from the rain
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/243/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/raikou/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/243/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/raikou/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

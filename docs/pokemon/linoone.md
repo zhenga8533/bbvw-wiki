@@ -20,13 +20,13 @@ It charges prey at speeds over 60 mph. However, because it can only run straight
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/264/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/linoone/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/264/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/linoone/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

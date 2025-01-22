@@ -20,13 +20,13 @@ In snow, the pure white coat covering its body obscures it from predators.
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/87/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/dewgong/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/87/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/dewgong/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

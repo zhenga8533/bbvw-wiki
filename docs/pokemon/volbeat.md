@@ -20,13 +20,13 @@ It communicates with others by lighting up its rear at night. It loves Illumiseâ
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/313/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/volbeat/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/313/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/volbeat/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

@@ -20,13 +20,13 @@ It never forgets any attack it endured while in the cocoon. After evolution, it 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/268/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/cascoon/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/268/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/cascoon/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

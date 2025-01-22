@@ -20,13 +20,13 @@ To protect itself, it afflicts those around it with nightmares. However, it mean
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/491/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/darkrai/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/491/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/darkrai/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

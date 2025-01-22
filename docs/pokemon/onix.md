@@ -20,13 +20,13 @@ It burrows through the ground at a speed of 50 mph while feeding on large boulde
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/95/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/onix/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/95/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/onix/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

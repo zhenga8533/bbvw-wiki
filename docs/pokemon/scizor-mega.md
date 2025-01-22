@@ -20,13 +20,7 @@ It raises its pincers with eyelike markings for intimidation. It also swings the
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/10046/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/10046/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/scizor-mega/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

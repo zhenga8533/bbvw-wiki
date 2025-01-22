@@ -20,13 +20,13 @@ For food, it digs up iron ore. It smashes its steely body against others to figh
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/305/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/lairon/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/305/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/lairon/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

@@ -20,13 +20,13 @@ A Pokémon with a loyal nature. It will remain motionless until it is given an o
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/58/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/growlithe/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/58/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/growlithe/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

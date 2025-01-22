@@ -16,13 +16,7 @@ When walking on land, it covers its body with a poisonous film that keeps its sk
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/10253/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/10253/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/wooper-paldea/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

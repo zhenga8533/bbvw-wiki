@@ -20,13 +20,13 @@ It sets a trap by spinning a web with thin but strong silk. It waits motionlessl
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/167/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/spinarak/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/167/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/spinarak/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

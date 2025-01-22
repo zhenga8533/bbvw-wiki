@@ -20,13 +20,7 @@ It is thought its body transformed as a result of iron accumulating internally f
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/10072/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/10072/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/steelix-mega/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

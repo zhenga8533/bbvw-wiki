@@ -20,13 +20,13 @@ It is said to live 10,000 years. Its furry tail is popular as a symbol of longev
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/8/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/wartortle/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/8/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/wartortle/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

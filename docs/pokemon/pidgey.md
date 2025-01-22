@@ -20,13 +20,13 @@ It is docile and prefers to avoid conflict. If disturbed, however, it can feroci
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/16/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/pidgey/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/16/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/pidgey/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
@@ -139,6 +139,8 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 | TM45 | Attract | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 15 |
 | TM46 | Thief | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 25 |
 | TM48 | Round | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 15 |
+| TM62 | Acrobatics | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 55 | 100 | 15 |
+| TM62 | Acrobatics | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 55 | 100 | 15 |
 | TM62 | Acrobatics | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 55 | 100 | 15 |
 | TM62 | Acrobatics | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 55 | 100 | 15 |
 | TM62 | Acrobatics | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 55 | 100 | 15 |

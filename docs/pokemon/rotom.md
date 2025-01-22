@@ -20,13 +20,13 @@ Its electric-like body can enter some kinds of machines and take control in orde
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/479/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/rotom/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/479/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/rotom/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

@@ -20,13 +20,13 @@ While elegantly swimming in the sea, it ignores Remoraid that cling to its fins 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/226/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/mantine/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/226/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/mantine/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
@@ -122,6 +122,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 TM | Move | Type | Cat. | Power | Acc. | PP
 --- | --- | --- | --- | --- | --- | ---
+| HM02 | Fly | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 15 |
+| HM02 | Fly | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 15 |
 | HM02 | Fly | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 15 |
 | HM02 | Fly | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 15 |
 | HM02 | Fly | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 15 |

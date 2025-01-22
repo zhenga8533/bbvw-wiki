@@ -20,13 +20,13 @@ It can’t stop itself from chasing moving things, and it runs in a circle, chas
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/300/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/skitty/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/300/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/skitty/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

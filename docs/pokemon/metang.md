@@ -20,13 +20,13 @@ It is formed by two Beldum joining together. Its steel body won’t be scratched
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/375/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/metang/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/375/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/metang/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

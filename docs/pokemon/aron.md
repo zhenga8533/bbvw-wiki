@@ -20,13 +20,13 @@ It usually lives deep in mountains. However, hunger may drive it to eat railroad
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/304/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/aron/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/304/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/aron/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

@@ -20,13 +20,13 @@ It prevents prey from escaping by instantaneously freezing moisture in the air.
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/362/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/glalie/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/362/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/glalie/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
@@ -142,10 +142,14 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 | TM23 | Smack Down | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 50 | 100 | 15 |
 | TM23 | Smack Down | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 50 | 100 | 15 |
 | TM23 | Smack Down | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 50 | 100 | 15 |
+| TM23 | Smack Down | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 50 | 100 | 15 |
+| TM23 | Smack Down | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 50 | 100 | 15 |
 | TM26 | Earthquake | ![ground](../assets/types/ground.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 10 |
 | TM27 | Return | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 20 |
 | TM30 | Shadow Ball | ![ghost](../assets/types/ghost.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
 | TM32 | Double Team | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
+| TM37 | Sandstorm | ![rock](../assets/types/rock.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
+| TM37 | Sandstorm | ![rock](../assets/types/rock.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
 | TM37 | Sandstorm | ![rock](../assets/types/rock.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
 | TM37 | Sandstorm | ![rock](../assets/types/rock.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
 | TM37 | Sandstorm | ![rock](../assets/types/rock.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
@@ -172,7 +176,11 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 | TM69 | Rock Polish | ![rock](../assets/types/rock.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
 | TM69 | Rock Polish | ![rock](../assets/types/rock.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
 | TM69 | Rock Polish | ![rock](../assets/types/rock.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
+| TM69 | Rock Polish | ![rock](../assets/types/rock.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
+| TM69 | Rock Polish | ![rock](../assets/types/rock.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
 | TM70 | Flash | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 20 |
+| TM71 | Stone Edge | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 80 | 5 |
+| TM71 | Stone Edge | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 80 | 5 |
 | TM71 | Stone Edge | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 80 | 5 |
 | TM71 | Stone Edge | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 80 | 5 |
 | TM71 | Stone Edge | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 80 | 5 |
@@ -185,6 +193,8 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 | TM74 | Gyro Ball | ![steel](../assets/types/steel.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 5 |
 | TM78 | Bulldoze | ![ground](../assets/types/ground.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 100 | 20 |
 | TM79 | Frost Breath | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 90 | 10 |
+| TM80 | Rock Slide | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 95 | 10 |
+| TM80 | Rock Slide | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 95 | 10 |
 | TM80 | Rock Slide | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 95 | 10 |
 | TM80 | Rock Slide | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 95 | 10 |
 | TM80 | Rock Slide | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 95 | 10 |

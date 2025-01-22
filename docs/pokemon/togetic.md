@@ -20,13 +20,13 @@ To share its happiness, it flies around the world seeking kind- hearted people.
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/176/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/togetic/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/176/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/togetic/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

@@ -20,13 +20,13 @@ When it breathes deeply, heat waves form around its body, making it hard to see 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/126/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/magmar/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/126/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/magmar/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

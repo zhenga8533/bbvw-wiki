@@ -20,13 +20,13 @@ It hides its spiteful tendency of hooking its claws into the nose of its Trainer
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/431/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/glameow/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/431/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/glameow/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

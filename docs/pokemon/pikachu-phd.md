@@ -20,13 +20,7 @@ It occasionally uses an electric shock to recharge a fellow Pikachu that is in a
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/10083/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/10083/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/pikachu-phd/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

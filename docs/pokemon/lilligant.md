@@ -22,13 +22,13 @@
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/549/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/lilligant/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/549/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/lilligant/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
@@ -129,6 +129,10 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 | TM27 | Return | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 20 |
 | TM29 | Psychic | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
 | TM29 | Psychic | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
+| TM29 | Psychic | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
+| TM29 | Psychic | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
+| TM30 | Shadow Ball | ![ghost](../assets/types/ghost.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
+| TM30 | Shadow Ball | ![ghost](../assets/types/ghost.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
 | TM30 | Shadow Ball | ![ghost](../assets/types/ghost.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
 | TM30 | Shadow Ball | ![ghost](../assets/types/ghost.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
 | TM32 | Double Team | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
@@ -136,6 +140,8 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 | TM44 | Rest | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
 | TM45 | Attract | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 15 |
 | TM48 | Round | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 15 |
+| TM52 | Focus Blast | ![fighting](../assets/types/fighting.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 120 | 70 | 5 |
+| TM52 | Focus Blast | ![fighting](../assets/types/fighting.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 120 | 70 | 5 |
 | TM52 | Focus Blast | ![fighting](../assets/types/fighting.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 120 | 70 | 5 |
 | TM52 | Focus Blast | ![fighting](../assets/types/fighting.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 120 | 70 | 5 |
 | TM53 | Energy Ball | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |

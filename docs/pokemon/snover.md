@@ -26,13 +26,13 @@ Seemingly curious about people, they gather around footsteps they find on snowy 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/459/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/snover/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/459/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/snover/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

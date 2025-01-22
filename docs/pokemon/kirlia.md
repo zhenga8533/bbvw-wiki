@@ -20,13 +20,13 @@ If its Trainer becomes happy, it overflows with energy, dancing joyously while s
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/281/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/kirlia/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/281/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/kirlia/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

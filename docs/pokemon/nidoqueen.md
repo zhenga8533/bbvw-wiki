@@ -20,13 +20,13 @@ Its entire body is armored with hard scales. It will protect the young in its bu
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/31/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/nidoqueen/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/31/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/nidoqueen/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

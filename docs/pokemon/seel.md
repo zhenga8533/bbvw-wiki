@@ -20,13 +20,13 @@ A Pokémon that lives on icebergs. It swims in the sea using the point on its he
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/86/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/seel/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/86/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/seel/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

@@ -22,13 +22,13 @@
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/600/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/klang/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/600/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/klang/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
@@ -149,9 +149,13 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 | TM80 | Rock Slide | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 95 | 10 |
 | TM80 | Rock Slide | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 95 | 10 |
 | TM80 | Rock Slide | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 95 | 10 |
+| TM80 | Rock Slide | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 95 | 10 |
+| TM80 | Rock Slide | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 95 | 10 |
 | TM87 | Swagger | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 15 |
 | TM90 | Substitute | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
 | TM91 | Flash Cannon | ![steel](../assets/types/steel.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 80 | 100 | 10 |
+| TM93 | Wild Charge | ![electric](../assets/types/electric.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 90 | 100 | 15 |
+| TM93 | Wild Charge | ![electric](../assets/types/electric.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 90 | 100 | 15 |
 | TM93 | Wild Charge | ![electric](../assets/types/electric.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 90 | 100 | 15 |
 | TM93 | Wild Charge | ![electric](../assets/types/electric.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 90 | 100 | 15 |
 | TM93 | Wild Charge | ![electric](../assets/types/electric.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 90 | 100 | 15 |

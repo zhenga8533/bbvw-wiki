@@ -20,13 +20,13 @@ It is a ruffian that uses its pincers to pick up and toss out other Pokémon fro
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/342/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/crawdaunt/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/342/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/crawdaunt/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

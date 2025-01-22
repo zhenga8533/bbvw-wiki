@@ -20,13 +20,13 @@ Its eyes are specially developed to enable it to see clearly even in murky darkn
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/164/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/noctowl/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/164/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/noctowl/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

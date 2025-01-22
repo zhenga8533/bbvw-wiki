@@ -20,13 +20,13 @@ The leaves that grow on its arms can slice down thick trees. It is without peer 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/254/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/sceptile/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/254/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/sceptile/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
@@ -36,7 +36,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #254 | ![grass](../assets/types/grass.png){: width='48'} | 1.7 m | 52.2 kg | 1. Overgrow<br>2. Unburden | #N/A |
+| #254 | ![grass](../assets/types/grass.png){: width='48'} | 1.7 m | 52.2 kg | 1. Overgrow<br>2. Adaptability | #N/A |
 
 ---
 

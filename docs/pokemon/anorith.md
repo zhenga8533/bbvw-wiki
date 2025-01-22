@@ -20,13 +20,13 @@ A Pokémon ancestor that was reanimated from a fossil. It lived in the sea and h
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/347/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/anorith/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/347/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/anorith/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

@@ -20,13 +20,7 @@ The leer that floats in darkness belongs to a Gengar delighting in casting curse
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/10038/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/10038/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/gengar-mega/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

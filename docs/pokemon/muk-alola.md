@@ -20,13 +20,7 @@ A toxic fluid seeps from its body. The fluid instantly kills plants and trees on
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/10113/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/10113/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/muk-alola/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

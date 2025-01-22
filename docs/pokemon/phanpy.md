@@ -20,13 +20,13 @@ It is strong despite its compact size. It can easily pick up and carry an adult 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/231/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/phanpy/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/231/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/phanpy/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

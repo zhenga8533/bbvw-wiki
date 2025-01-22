@@ -26,13 +26,13 @@ Split into two, the tails are so adept at handling and doing things, Ambipom rar
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/424/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/ambipom/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/424/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/ambipom/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

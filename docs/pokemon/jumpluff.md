@@ -20,13 +20,13 @@ Blown by seasonal winds, it circles the globe, scattering cotton spores as it go
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/189/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/jumpluff/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/189/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/jumpluff/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

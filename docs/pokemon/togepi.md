@@ -20,13 +20,13 @@ It transforms the kindness and joy of others into happiness, which it stores in 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/175/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/togepi/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/175/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/togepi/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

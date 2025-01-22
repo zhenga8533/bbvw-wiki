@@ -26,13 +26,13 @@ It can launch a rock held in its hand like a missile by tightening then expandin
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/464/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/rhyperior/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/464/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/rhyperior/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

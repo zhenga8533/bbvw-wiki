@@ -20,13 +20,7 @@ It raises its offspring in its belly pouch. It lets the baby out to play only wh
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/10039/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/10039/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/kangaskhan-mega/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

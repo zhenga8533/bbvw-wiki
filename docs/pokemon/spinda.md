@@ -20,13 +20,13 @@ No two Spinda have the same pattern of spots. Its tottering step fouls the aim o
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/327/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/spinda/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/327/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/spinda/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

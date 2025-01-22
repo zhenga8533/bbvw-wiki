@@ -20,13 +20,13 @@ The eggs it lays are filled with happiness. Eating even one bite will bring a sm
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/242/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/blissey/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/242/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/blissey/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

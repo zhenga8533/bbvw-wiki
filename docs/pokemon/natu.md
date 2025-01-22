@@ -20,13 +20,13 @@ It picks food from cactus plants, deftly avoiding buds and spines. It seems to s
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/177/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/natu/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/177/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/natu/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

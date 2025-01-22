@@ -20,13 +20,7 @@ Cautious in the extreme, its hardy vitality lets it live in any kind of environm
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/10091/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/10091/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/rattata-alola/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

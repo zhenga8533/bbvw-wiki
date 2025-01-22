@@ -26,13 +26,13 @@ Cautious in the extreme, its hardy vitality lets it live in any kind of environm
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/19/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/rattata/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/19/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/rattata/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
@@ -127,6 +127,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 TM | Move | Type | Cat. | Power | Acc. | PP
 --- | --- | --- | --- | --- | --- | ---
 | HM01 | Cut | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 20 |
+| TM01 | Hone Claws | ![dark](../assets/types/dark.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
+| TM01 | Hone Claws | ![dark](../assets/types/dark.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
 | TM01 | Hone Claws | ![dark](../assets/types/dark.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
 | TM01 | Hone Claws | ![dark](../assets/types/dark.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
 | TM01 | Hone Claws | ![dark](../assets/types/dark.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |

@@ -20,13 +20,13 @@ It is highly popular among female Trainers for its sublime fur. It does not keep
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/301/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/delcatty/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/301/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/delcatty/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

@@ -20,13 +20,13 @@ If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/248/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/tyranitar/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/248/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/tyranitar/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

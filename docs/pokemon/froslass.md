@@ -20,13 +20,13 @@ It freezes prey by blowing its -58 degrees F breath. It is said to then secretly
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/478/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/froslass/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/478/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/froslass/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

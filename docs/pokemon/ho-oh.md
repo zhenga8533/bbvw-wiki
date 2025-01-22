@@ -20,13 +20,13 @@ Its feathers are in seven colors. It is said that anyone seeing it is promised e
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/250/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/ho-oh/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/250/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/ho-oh/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

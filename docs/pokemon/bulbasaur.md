@@ -20,13 +20,13 @@ For some time after its birth, it grows by gaining nourishment from the seed on 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/1/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/bulbasaur/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/1/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/bulbasaur/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

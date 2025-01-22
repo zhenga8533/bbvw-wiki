@@ -20,13 +20,13 @@ It skillfully controls the intensity of the fire on its tail to keep its foes at
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/391/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/monferno/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/391/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/monferno/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

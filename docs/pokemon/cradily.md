@@ -20,13 +20,13 @@ It lives in the shallows of warm seas. When the tide goes out, it digs up prey f
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/346/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/cradily/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/346/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/cradily/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

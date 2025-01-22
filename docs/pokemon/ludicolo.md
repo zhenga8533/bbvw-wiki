@@ -26,13 +26,13 @@ If it hears festive music, all its muscles fill with energy. It can’t help bre
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/272/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/ludicolo/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/272/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/ludicolo/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

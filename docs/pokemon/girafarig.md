@@ -26,13 +26,13 @@ The head on its tail contains a small brain. It can instinctively fight even whi
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/203/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/girafarig/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/203/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/girafarig/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

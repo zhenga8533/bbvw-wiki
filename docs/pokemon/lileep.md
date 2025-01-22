@@ -20,13 +20,13 @@ It lived on the seafloor 100 million years ago and was reanimated scientifically
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/345/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/lileep/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/345/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/lileep/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

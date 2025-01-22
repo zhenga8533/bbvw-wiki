@@ -20,13 +20,13 @@ When evolving, its body takes in surrounding materials. As a result, there are m
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/413/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/wormadam-plant/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/413/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/wormadam-plant/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

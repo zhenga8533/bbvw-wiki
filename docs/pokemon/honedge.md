@@ -20,13 +20,7 @@ The blue eye on the sword’s handguard is the true body of Honedge. With its ol
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/679/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/679/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/honedge/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

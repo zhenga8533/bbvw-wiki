@@ -22,13 +22,7 @@
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/10016/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/10016/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/basculin-blue-striped/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

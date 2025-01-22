@@ -20,13 +20,13 @@ It has the power to travel across time, but it is said to appear only in peacefu
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/251/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/celebi/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/251/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/celebi/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

@@ -20,13 +20,13 @@ There is an orb inside its mouth. When it hops, the orb bounces all over and mak
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/433/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/chingling/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/433/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/chingling/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

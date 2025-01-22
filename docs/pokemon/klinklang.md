@@ -22,13 +22,13 @@
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/601/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/klinklang/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/601/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/klinklang/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
@@ -141,6 +141,8 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 | TM26 | Earthquake | ![ground](../assets/types/ground.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 10 |
 | TM26 | Earthquake | ![ground](../assets/types/ground.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 10 |
 | TM26 | Earthquake | ![ground](../assets/types/ground.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 10 |
+| TM26 | Earthquake | ![ground](../assets/types/ground.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 10 |
+| TM26 | Earthquake | ![ground](../assets/types/ground.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 10 |
 | TM27 | Return | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 20 |
 | TM32 | Double Team | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
 | TM37 | Sandstorm | ![rock](../assets/types/rock.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
@@ -150,6 +152,8 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 | TM57 | Charge Beam | ![electric](../assets/types/electric.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 50 | 90 | 10 |
 | TM68 | Giga Impact | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 150 | 90 | 5 |
 | TM69 | Rock Polish | ![rock](../assets/types/rock.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
+| TM71 | Stone Edge | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 80 | 5 |
+| TM71 | Stone Edge | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 80 | 5 |
 | TM71 | Stone Edge | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 80 | 5 |
 | TM71 | Stone Edge | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 80 | 5 |
 | TM71 | Stone Edge | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 80 | 5 |
@@ -179,10 +183,18 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 | TM80 | Rock Slide | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 95 | 10 |
 | TM80 | Rock Slide | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 95 | 10 |
 | TM80 | Rock Slide | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 95 | 10 |
+| TM80 | Rock Slide | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 95 | 10 |
+| TM80 | Rock Slide | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 95 | 10 |
+| TM80 | Rock Slide | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 95 | 10 |
+| TM80 | Rock Slide | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 95 | 10 |
 | TM87 | Swagger | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 15 |
 | TM90 | Substitute | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
 | TM91 | Flash Cannon | ![steel](../assets/types/steel.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 80 | 100 | 10 |
 | TM92 | Trick Room | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
+| TM93 | Wild Charge | ![electric](../assets/types/electric.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 90 | 100 | 15 |
+| TM93 | Wild Charge | ![electric](../assets/types/electric.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 90 | 100 | 15 |
+| TM93 | Wild Charge | ![electric](../assets/types/electric.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 90 | 100 | 15 |
+| TM93 | Wild Charge | ![electric](../assets/types/electric.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 90 | 100 | 15 |
 | TM93 | Wild Charge | ![electric](../assets/types/electric.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 90 | 100 | 15 |
 | TM93 | Wild Charge | ![electric](../assets/types/electric.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 90 | 100 | 15 |
 | TM93 | Wild Charge | ![electric](../assets/types/electric.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 90 | 100 | 15 |

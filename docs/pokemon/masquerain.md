@@ -20,13 +20,13 @@ Its antennae have eye patterns on them. Its four wings enable it to hover and fl
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/284/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/masquerain/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/284/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/masquerain/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
@@ -130,6 +130,10 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 | HM03 | Surf | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
 | HM03 | Surf | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
 | HM03 | Surf | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
+| HM03 | Surf | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
+| HM03 | Surf | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
+| HM05 | Waterfall | ![water](../assets/types/water.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
+| HM05 | Waterfall | ![water](../assets/types/water.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
 | HM05 | Waterfall | ![water](../assets/types/water.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
 | HM05 | Waterfall | ![water](../assets/types/water.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
 | HM05 | Waterfall | ![water](../assets/types/water.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |

@@ -20,13 +20,13 @@ Its four muscled arms slam foes with powerful punches and chops at blinding spee
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/68/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/machamp/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/68/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/machamp/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

@@ -22,13 +22,13 @@
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/500/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/emboar/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/500/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/emboar/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

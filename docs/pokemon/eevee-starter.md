@@ -16,13 +16,7 @@ Because its genetic makeup is irregular, it quickly changes its form due to a va
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/10159/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/10159/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/eevee-starter/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

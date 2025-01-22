@@ -22,13 +22,13 @@
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/646/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/kyurem/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/646/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/kyurem/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
@@ -148,6 +148,8 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 | TM26 | Earthquake | ![ground](../assets/types/ground.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 10 |
 | TM26 | Earthquake | ![ground](../assets/types/ground.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 10 |
 | TM26 | Earthquake | ![ground](../assets/types/ground.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 10 |
+| TM26 | Earthquake | ![ground](../assets/types/ground.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 10 |
+| TM26 | Earthquake | ![ground](../assets/types/ground.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 10 |
 | TM27 | Return | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 20 |
 | TM29 | Psychic | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
 | TM30 | Shadow Ball | ![ghost](../assets/types/ghost.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
@@ -164,6 +166,8 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 | TM66 | Payback | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 50 | 100 | 10 |
 | TM68 | Giga Impact | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 150 | 90 | 5 |
 | TM71 | Stone Edge | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 80 | 5 |
+| TM79 | Frost Breath | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 90 | 10 |
+| TM79 | Frost Breath | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 90 | 10 |
 | TM79 | Frost Breath | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 90 | 10 |
 | TM79 | Frost Breath | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 90 | 10 |
 | TM79 | Frost Breath | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 90 | 10 |

@@ -20,13 +20,13 @@ Its jaw power is incredible. It is adept at biting apart foes while flying by at
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/469/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/yanmega/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/469/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/yanmega/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
@@ -125,6 +125,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 TM | Move | Type | Cat. | Power | Acc. | PP
 --- | --- | --- | --- | --- | --- | ---
+| HM02 | Fly | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 15 |
+| HM02 | Fly | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 15 |
 | HM02 | Fly | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 15 |
 | HM02 | Fly | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 15 |
 | HM02 | Fly | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 15 |

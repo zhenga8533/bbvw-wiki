@@ -20,13 +20,13 @@ When it extends its over-six-foot- long tongue, its tail quivers. There is a pos
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/108/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/lickitung/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/108/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/lickitung/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

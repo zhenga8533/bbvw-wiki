@@ -20,13 +20,13 @@ If its body is torn, it can grow back if the red core remains. The core flashes 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/120/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/staryu/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/120/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/staryu/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

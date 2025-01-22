@@ -20,13 +20,13 @@ It races around the world to purify fouled water. It dashes away with the north 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/245/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/suicune/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/245/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/suicune/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

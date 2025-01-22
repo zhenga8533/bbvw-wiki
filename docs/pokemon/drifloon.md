@@ -20,13 +20,13 @@ Because of the way it floats aimlessly, an old folktale calls it a “Signpost f
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/425/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/drifloon/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/425/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/drifloon/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

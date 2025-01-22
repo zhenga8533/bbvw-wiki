@@ -26,13 +26,13 @@ The line running down its side can store sunlight. It shines vividly at night.
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/456/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/finneon/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/456/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/finneon/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

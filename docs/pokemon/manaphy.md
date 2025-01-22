@@ -20,13 +20,13 @@ It is born with a wondrous power that lets it bond with any kind of Pokémon.
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/490/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/manaphy/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/490/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/manaphy/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

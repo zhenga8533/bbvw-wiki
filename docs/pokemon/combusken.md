@@ -26,13 +26,13 @@ Its kicking mastery lets it loose 10 kicks per second. It emits sharp cries to i
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/256/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/combusken/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/256/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/combusken/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

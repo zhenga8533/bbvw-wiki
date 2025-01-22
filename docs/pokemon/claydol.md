@@ -20,13 +20,13 @@ An ancient clay figurine that came to life as a Pokémon from exposure to a myst
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/344/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/claydol/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/344/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/claydol/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
@@ -124,6 +124,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 TM | Move | Type | Cat. | Power | Acc. | PP
 --- | --- | --- | --- | --- | --- | ---
+| HM02 | Fly | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 15 |
+| HM02 | Fly | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 15 |
 | HM02 | Fly | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 15 |
 | HM02 | Fly | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 15 |
 | HM02 | Fly | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 15 |

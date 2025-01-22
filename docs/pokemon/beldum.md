@@ -20,13 +20,13 @@ It converses with others by using magnetic pulses. In a swarm, they move in perf
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/374/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/beldum/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/374/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/beldum/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

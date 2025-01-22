@@ -20,13 +20,13 @@ Because its body is almost entirely composed of water, it shrivels up if it is w
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/72/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/tentacool/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/72/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/tentacool/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

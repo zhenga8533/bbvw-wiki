@@ -26,13 +26,13 @@ A comparison revealed that Bidoof’s front teeth grow at the same rate as Ratta
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/399/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/bidoof/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/399/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/bidoof/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

@@ -26,13 +26,13 @@ It always trains deep in mountains. It levitates when it heightens its spiritual
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/307/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/meditite/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/307/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/meditite/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

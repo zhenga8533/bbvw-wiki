@@ -20,13 +20,13 @@ It tests everything by touching with its lips, which remember what it likes and 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/238/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/smoochum/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/238/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/smoochum/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

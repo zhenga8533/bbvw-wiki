@@ -20,13 +20,13 @@ Though small in stature, it is powerful enough to easily heft and throw a number
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/66/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/machop/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/66/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/machop/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

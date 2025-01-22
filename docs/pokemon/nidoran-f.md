@@ -20,13 +20,13 @@ While it does not prefer to fight, even one drop of the poison it secretes from 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/29/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/nidoran-f/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/29/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/nidoran-f/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

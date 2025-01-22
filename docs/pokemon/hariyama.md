@@ -20,13 +20,13 @@ It loves to match power with big-bodied Pokémon. It can knock a truck flying wi
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/297/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/hariyama/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/297/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/hariyama/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

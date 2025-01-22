@@ -22,13 +22,13 @@
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/614/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/beartic/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/614/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/beartic/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
@@ -137,6 +137,8 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 | HM05 | Waterfall | ![water](../assets/types/water.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
 | HM05 | Waterfall | ![water](../assets/types/water.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
 | HM05 | Waterfall | ![water](../assets/types/water.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
+| HM05 | Waterfall | ![water](../assets/types/water.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
+| HM05 | Waterfall | ![water](../assets/types/water.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
 | HM06 | Dive | ![water](../assets/types/water.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 10 |
 | TM01 | Hone Claws | ![dark](../assets/types/dark.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
 | TM05 | Roar | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
@@ -151,6 +153,8 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 | TM17 | Protect | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
 | TM18 | Rain Dance | ![water](../assets/types/water.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
 | TM21 | Frustration | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 20 |
+| TM26 | Earthquake | ![ground](../assets/types/ground.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 10 |
+| TM26 | Earthquake | ![ground](../assets/types/ground.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 10 |
 | TM26 | Earthquake | ![ground](../assets/types/ground.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 10 |
 | TM26 | Earthquake | ![ground](../assets/types/ground.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 10 |
 | TM26 | Earthquake | ![ground](../assets/types/ground.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 10 |

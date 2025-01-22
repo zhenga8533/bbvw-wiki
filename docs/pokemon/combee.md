@@ -26,13 +26,13 @@ The trio is together from birth. It constantly gathers honey from flowers to ple
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/415/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/combee/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/415/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/combee/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

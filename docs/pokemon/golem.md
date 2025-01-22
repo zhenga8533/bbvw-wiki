@@ -20,13 +20,13 @@ Even dynamite can’t harm its hard, boulderlike body. It sheds its hide just on
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/76/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/golem/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/76/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/golem/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

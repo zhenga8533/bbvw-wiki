@@ -20,13 +20,7 @@ A doll that became a Pokémon over its grudge from being junked. It seeks the ch
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/10056/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/10056/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/banette-mega/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

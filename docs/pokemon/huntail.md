@@ -20,13 +20,13 @@ It lives deep in the sea. With a tail shaped like a small fish, it attracts unsu
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/367/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/huntail/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/367/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/huntail/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

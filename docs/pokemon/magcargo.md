@@ -20,13 +20,13 @@ Its body temperature is roughly 18,000 degrees F. Flames spout from gaps in its 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/219/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/magcargo/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/219/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/magcargo/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

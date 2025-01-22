@@ -26,13 +26,13 @@ There is a village that hosts a contest based on the amazingly variable cries of
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/402/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/kricketune/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/402/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/kricketune/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

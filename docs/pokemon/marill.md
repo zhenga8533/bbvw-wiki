@@ -20,13 +20,13 @@ The oil-filled end of its tail floats on water. It keeps Marill from drowning ev
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/183/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/marill/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/183/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/marill/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

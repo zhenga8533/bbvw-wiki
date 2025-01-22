@@ -26,13 +26,13 @@ It whittles its constantly growing fangs by gnawing on hard things. It can chew 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/20/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/raticate/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/20/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/raticate/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
@@ -136,6 +136,8 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 --- | --- | --- | --- | --- | --- | ---
 | HM01 | Cut | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 20 |
 | HM04 | Strength | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
+| TM01 | Hone Claws | ![dark](../assets/types/dark.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
+| TM01 | Hone Claws | ![dark](../assets/types/dark.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
 | TM01 | Hone Claws | ![dark](../assets/types/dark.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
 | TM01 | Hone Claws | ![dark](../assets/types/dark.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
 | TM01 | Hone Claws | ![dark](../assets/types/dark.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |

@@ -20,13 +20,13 @@ It drifts on winds. It is said that when Hoppip gather in fields and mountains, 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/187/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/hoppip/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/187/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/hoppip/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

@@ -26,13 +26,13 @@ The more healthy the Roselia, the more pleasant its flowers’ aroma. Its scent 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/315/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/roselia/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/315/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/roselia/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

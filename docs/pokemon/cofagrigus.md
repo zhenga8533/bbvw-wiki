@@ -22,13 +22,13 @@
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/563/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/cofagrigus/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/563/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/cofagrigus/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
@@ -155,6 +155,8 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 | TM86 | Grass Knot | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | 100 | 20 |
 | TM87 | Swagger | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 15 |
 | TM90 | Substitute | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
+| TM91 | Flash Cannon | ![steel](../assets/types/steel.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 80 | 100 | 10 |
+| TM91 | Flash Cannon | ![steel](../assets/types/steel.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 80 | 100 | 10 |
 | TM91 | Flash Cannon | ![steel](../assets/types/steel.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 80 | 100 | 10 |
 | TM91 | Flash Cannon | ![steel](../assets/types/steel.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 80 | 100 | 10 |
 | TM91 | Flash Cannon | ![steel](../assets/types/steel.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 80 | 100 | 10 |

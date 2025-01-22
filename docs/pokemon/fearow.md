@@ -20,13 +20,13 @@ It has the stamina to fly all day on its broad wings. It fights by using its sha
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/22/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/fearow/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/22/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/fearow/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

@@ -20,13 +20,13 @@ Tempered by pressure underground over tens of thousands of years, its body canno
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/379/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/registeel/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/379/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/registeel/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

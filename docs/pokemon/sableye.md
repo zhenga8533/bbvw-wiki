@@ -20,13 +20,13 @@ It hides in the darkness of caves. Its diet of gems has transformed its eyes int
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/302/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/sableye/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/302/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/sableye/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

@@ -20,13 +20,13 @@ A very haughty Pokémon. Among fans, the size of the jewel in its forehead is a 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/53/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/persian/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/53/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/persian/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

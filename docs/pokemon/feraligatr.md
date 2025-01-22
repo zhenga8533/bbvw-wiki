@@ -20,13 +20,13 @@ It usually moves slowly, but it goes at blinding speed when it attacks and bites
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/160/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/feraligatr/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/160/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/feraligatr/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

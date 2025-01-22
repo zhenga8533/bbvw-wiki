@@ -20,13 +20,13 @@ It loves the crying of children. It startles bad kids by passing through walls a
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/355/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/duskull/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/355/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/duskull/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

@@ -20,13 +20,13 @@ If its body takes on an aura, the weather changes instantly. It is said to live 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/148/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/dragonair/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/148/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/dragonair/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

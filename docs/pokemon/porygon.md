@@ -20,13 +20,13 @@ A man-made Pokémon created using advanced scientific means. It can move freely 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/137/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/porygon/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/137/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/porygon/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

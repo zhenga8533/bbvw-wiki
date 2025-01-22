@@ -20,13 +20,13 @@ Born from gases, anyone would faint if engulfed by its gaseous body, which conta
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/92/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/gastly/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/92/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/gastly/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
@@ -135,6 +135,8 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 | TM29 | Psychic | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
 | TM30 | Shadow Ball | ![ghost](../assets/types/ghost.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
 | TM32 | Double Team | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
+| TM34 | Sludge Wave | ![poison](../assets/types/poison.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 95 | 100 | 10 |
+| TM34 | Sludge Wave | ![poison](../assets/types/poison.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 95 | 100 | 10 |
 | TM34 | Sludge Wave | ![poison](../assets/types/poison.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 95 | 100 | 10 |
 | TM34 | Sludge Wave | ![poison](../assets/types/poison.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 95 | 100 | 10 |
 | TM34 | Sludge Wave | ![poison](../assets/types/poison.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 95 | 100 | 10 |

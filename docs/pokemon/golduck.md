@@ -20,13 +20,13 @@ It is seen swimming dynamically and elegantly using its well-developed limbs and
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/55/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/golduck/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/55/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/golduck/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

@@ -20,13 +20,13 @@ It is often seen when shooting stars fill the night skies. It’s said to arrive
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/173/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/cleffa/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/173/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/cleffa/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

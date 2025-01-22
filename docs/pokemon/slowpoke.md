@@ -20,13 +20,13 @@ Although slow, it is skilled at fishing with its tail. It does not feel pain if 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/79/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/slowpoke/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/79/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/slowpoke/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

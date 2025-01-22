@@ -22,13 +22,13 @@
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/511/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/pansage/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/511/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/pansage/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
@@ -174,6 +174,10 @@ Move | Type | Cat. | Power | Acc. | PP
 
 Move | Type | Cat. | Power | Acc. | PP
 --- | --- | --- | --- | --- | ---
+| Grass Pledge | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 100 | 100 | 10 |
+| Frenzy Plant | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 150 | 90 | 5 |
+| Grass Pledge | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 100 | 100 | 10 |
+| Frenzy Plant | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 150 | 90 | 5 |
 | Grass Pledge | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 100 | 100 | 10 |
 | Frenzy Plant | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 150 | 90 | 5 |
 | Grass Pledge | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 100 | 100 | 10 |

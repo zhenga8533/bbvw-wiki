@@ -20,13 +20,13 @@ A Pokémon that eats soil. Once it has eaten a large mountain, it goes to sleep 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/246/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/larvitar/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/246/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/larvitar/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

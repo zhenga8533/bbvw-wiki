@@ -20,13 +20,13 @@ It basically does not fight. With cells similar to those of plants, it can perfo
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/470/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/leafeon/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/470/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/leafeon/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

@@ -20,13 +20,13 @@ Possessing a sturdy build, it takes pride in its strength, taking down foes with
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/452/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/drapion/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/452/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/drapion/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

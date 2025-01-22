@@ -20,13 +20,13 @@ It is said that kids who drink Miltank’s milk grow up to become hearty, health
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/241/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/miltank/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/241/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/miltank/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

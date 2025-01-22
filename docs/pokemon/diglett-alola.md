@@ -20,13 +20,7 @@ A Pokémon that lives underground. Because of its dark habitat, it is repelled b
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/10105/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/10105/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/diglett-alola/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

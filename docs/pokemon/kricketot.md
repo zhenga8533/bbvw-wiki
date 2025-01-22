@@ -26,13 +26,13 @@ Its legs are short. Whenever it stumbles, its stiff antennae clack with a xyloph
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/401/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/kricketot/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/401/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/kricketot/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

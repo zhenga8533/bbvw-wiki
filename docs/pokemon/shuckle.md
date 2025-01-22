@@ -20,13 +20,13 @@ It stores berries in its shell. The berries eventually ferment to become delicio
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/213/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/shuckle/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/213/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/shuckle/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

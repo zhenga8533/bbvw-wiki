@@ -20,13 +20,13 @@ A legendary Pokémon of Sinnoh. It is said that space becomes more stable with P
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/484/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/palkia/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/484/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/palkia/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

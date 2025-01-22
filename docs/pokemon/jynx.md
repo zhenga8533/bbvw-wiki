@@ -20,13 +20,13 @@ Its cries sound like human speech. However, it is impossible to tell what it is 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/124/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/jynx/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/124/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/jynx/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

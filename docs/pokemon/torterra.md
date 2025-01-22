@@ -20,13 +20,13 @@ Some Pokémon are born on a Torterra’s back and spend their entire life there.
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/389/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/torterra/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/389/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/torterra/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

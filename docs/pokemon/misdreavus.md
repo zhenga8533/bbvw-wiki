@@ -20,13 +20,13 @@ A Pokémon that startles people in the middle of the night. It gathers fear as i
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/200/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/misdreavus/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/200/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/misdreavus/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

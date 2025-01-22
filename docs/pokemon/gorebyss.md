@@ -20,13 +20,13 @@ It lives at the bottom of the sea. In the springtime, its pink body turns more v
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/368/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/gorebyss/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/368/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/gorebyss/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

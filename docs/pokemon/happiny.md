@@ -20,13 +20,13 @@ It likes to carry around a small rock. It may wander around others’ feet and c
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/440/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/happiny/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/440/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/happiny/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

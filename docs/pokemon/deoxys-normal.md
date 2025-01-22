@@ -20,13 +20,13 @@ An alien virus that fell to earth on a meteor underwent a DNA mutation to become
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/386/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/deoxys-normal/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/386/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/deoxys-normal/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

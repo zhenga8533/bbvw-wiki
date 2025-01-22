@@ -20,13 +20,13 @@ Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/293/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/whismur/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/293/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/whismur/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

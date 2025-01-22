@@ -20,13 +20,13 @@ The small ball is not only filled with nutrients, it is also tasty. Starly try t
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/420/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/cherubi/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/420/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/cherubi/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

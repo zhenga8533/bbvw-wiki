@@ -26,13 +26,13 @@ It glides as if sliding. It startles foes by clamping on to their faces, then ja
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/207/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/gligar/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/207/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/gligar/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

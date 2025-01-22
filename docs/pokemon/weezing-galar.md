@@ -20,13 +20,7 @@ It grows by feeding on gases released by garbage. Though very rare, triplets hav
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/10167/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/10167/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/weezing-galar/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

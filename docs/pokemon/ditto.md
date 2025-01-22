@@ -20,13 +20,13 @@ It has the ability to reconstitute its entire cellular structure to transform in
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/132/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/ditto/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/132/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/ditto/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

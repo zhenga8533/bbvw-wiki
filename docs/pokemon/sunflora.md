@@ -20,13 +20,13 @@ It gets energy from warm sunlight and is known for its habit of moving in pursui
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/192/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/sunflora/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/192/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/sunflora/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

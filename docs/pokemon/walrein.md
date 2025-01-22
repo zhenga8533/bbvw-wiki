@@ -20,13 +20,13 @@ It shatters ice with its big tusks. Its thick blubber repels not only the cold, 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/365/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/walrein/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/365/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/walrein/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

@@ -20,13 +20,13 @@ It is said that happiness will come to those who see a gathering of Clefairy dan
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/35/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/clefairy/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/35/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/clefairy/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

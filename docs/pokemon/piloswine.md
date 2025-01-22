@@ -26,13 +26,13 @@ Covered by a shaggy coat, it is strong against the cold. Its tusks of ice thicke
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/221/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/piloswine/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/221/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/piloswine/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

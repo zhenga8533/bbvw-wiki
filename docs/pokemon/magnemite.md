@@ -20,13 +20,13 @@ The faster the units at its sides rotate, the greater the magnetic force they ge
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/81/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/magnemite/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/81/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/magnemite/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

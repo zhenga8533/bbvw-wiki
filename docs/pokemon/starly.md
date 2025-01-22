@@ -26,13 +26,13 @@ Because they are weak individually, they form groups. However, they bicker if th
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/396/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/starly/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/396/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/starly/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
@@ -138,6 +138,8 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 | TM46 | Thief | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 25 |
 | TM48 | Round | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 15 |
 | TM49 | Echoed Voice | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 40 | 100 | 15 |
+| TM62 | Acrobatics | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 55 | 100 | 15 |
+| TM62 | Acrobatics | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 55 | 100 | 15 |
 | TM62 | Acrobatics | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 55 | 100 | 15 |
 | TM62 | Acrobatics | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 55 | 100 | 15 |
 | TM62 | Acrobatics | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 55 | 100 | 15 |

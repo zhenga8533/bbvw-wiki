@@ -20,13 +20,13 @@ It lets honey soak into its paws so it can lick them all the time. Every set of 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/216/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/teddiursa/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/216/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/teddiursa/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

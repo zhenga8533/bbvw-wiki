@@ -20,13 +20,7 @@ The jets of water it spouts from the rocket cannons on its shell can punch throu
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/10197/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/10197/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/blastoise-gmax/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

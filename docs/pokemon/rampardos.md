@@ -20,13 +20,13 @@ If two were to smash their heads together, their foot-thick skulls would keep th
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/409/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/rampardos/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/409/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/rampardos/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

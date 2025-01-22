@@ -26,13 +26,13 @@ Each of its hands contains different toxins, but both hands can jab with near-fa
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/407/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/roserade/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/407/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/roserade/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

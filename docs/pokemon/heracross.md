@@ -26,13 +26,13 @@ It loves sweet honey. To keep all the honey to itself, it hurls rivals away with
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/214/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/heracross/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/214/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/heracross/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

@@ -20,13 +20,7 @@ It rolls on mountain paths to move. Once it builds momentum, no Pokémon can sto
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/10110/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/10110/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/graveler-alola/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

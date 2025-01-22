@@ -20,13 +20,13 @@ In its desperation to gulp down food, it forgets about the food it has hidden un
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/446/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/munchlax/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/446/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/munchlax/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

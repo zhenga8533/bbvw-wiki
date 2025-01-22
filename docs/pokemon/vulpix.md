@@ -20,13 +20,13 @@ It controls balls of fire. As it grows, its six tails split from their tips to m
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/37/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/vulpix/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/37/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/vulpix/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

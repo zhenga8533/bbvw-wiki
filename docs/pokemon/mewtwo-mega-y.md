@@ -20,13 +20,7 @@ A Pokémon created by recombining Mew’s genes. It’s said to have the most sa
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/10044/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/10044/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/mewtwo-mega-y/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

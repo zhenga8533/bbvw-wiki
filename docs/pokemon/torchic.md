@@ -26,13 +26,13 @@ A fire burns inside, so it feels very warm to hug. It launches fireballs of 1,80
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/255/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/torchic/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/255/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/torchic/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

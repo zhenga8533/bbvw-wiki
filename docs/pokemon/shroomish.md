@@ -20,13 +20,13 @@ It spouts poison spores from the top of its head. These spores cause pain all ov
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/285/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/shroomish/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/285/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/shroomish/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

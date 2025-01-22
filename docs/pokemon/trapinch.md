@@ -20,13 +20,13 @@ It makes a conical pit in desert sand and lies in wait at the bottom for prey to
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/328/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/trapinch/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/328/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/trapinch/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

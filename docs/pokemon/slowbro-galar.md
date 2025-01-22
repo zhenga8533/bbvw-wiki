@@ -20,13 +20,7 @@ Though usually dim witted, it seems to become inspired if the Shellder on its ta
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/10165/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/10165/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/slowbro-galar/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

@@ -20,13 +20,7 @@ It lives in the ozone layer far above the clouds and cannot be seen from the gro
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/10079/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/10079/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/rayquaza-mega/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

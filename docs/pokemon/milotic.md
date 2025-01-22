@@ -26,13 +26,13 @@ Its lovely scales are described as rainbow colored. They change color depending 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/350/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/milotic/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/350/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/milotic/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

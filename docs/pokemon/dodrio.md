@@ -26,13 +26,13 @@ When Doduo evolves into this odd breed, one of its heads splits into two. It run
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/85/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/dodrio/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/85/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/dodrio/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

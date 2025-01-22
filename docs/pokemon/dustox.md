@@ -26,13 +26,13 @@ Toxic powder is scattered with each flap. At night, it is known to strip leaves 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/269/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/dustox/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/269/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/dustox/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

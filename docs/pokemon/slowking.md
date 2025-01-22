@@ -20,13 +20,13 @@ Being bitten by Shellder gave it intelligence comparable to that of award-winnin
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/199/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/slowking/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/199/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/slowking/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

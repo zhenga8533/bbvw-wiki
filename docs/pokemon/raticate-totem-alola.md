@@ -20,13 +20,7 @@ It whittles its constantly growing fangs by gnawing on hard things. It can chew 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/10093/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/10093/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/raticate-totem-alola/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

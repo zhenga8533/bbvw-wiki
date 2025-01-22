@@ -20,13 +20,13 @@ It grips prey with its pincers until the prey is torn in half. What it can’t t
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/127/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/pinsir/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/127/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/pinsir/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

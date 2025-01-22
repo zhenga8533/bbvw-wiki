@@ -20,13 +20,13 @@ The long tongue is always soggy with slobber. The saliva contains a solvent that
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/463/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/lickilicky/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/463/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/lickilicky/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

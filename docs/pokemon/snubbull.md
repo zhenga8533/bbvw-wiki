@@ -20,13 +20,13 @@ Small Pokémon flee from its scary face. It is, however, considered by women to 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/209/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/snubbull/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/209/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/snubbull/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

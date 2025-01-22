@@ -20,13 +20,13 @@ When it wavers its big, round eyes, it begins singing a lullaby that makes every
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/39/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/jigglypuff/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/39/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/jigglypuff/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

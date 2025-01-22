@@ -20,13 +20,13 @@ It is said that Charizard’s fire burns hotter if it has experienced harsh batt
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/6/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/charizard/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/6/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/charizard/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

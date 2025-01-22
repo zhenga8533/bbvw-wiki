@@ -20,13 +20,13 @@ If it bonds with a person, it will gently envelop the friend with its soft wings
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/334/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/altaria/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/334/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/altaria/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
@@ -160,7 +160,11 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 | TM58 | Sky Drop | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 100 | 10 |
 | TM58 | Sky Drop | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 100 | 10 |
 | TM58 | Sky Drop | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 100 | 10 |
+| TM58 | Sky Drop | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 100 | 10 |
+| TM58 | Sky Drop | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 100 | 10 |
 | TM59 | Incinerate | ![fire](../assets/types/fire.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 50 | 100 | 15 |
+| TM62 | Acrobatics | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 55 | 100 | 15 |
+| TM62 | Acrobatics | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 55 | 100 | 15 |
 | TM62 | Acrobatics | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 55 | 100 | 15 |
 | TM62 | Acrobatics | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 55 | 100 | 15 |
 | TM62 | Acrobatics | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 55 | 100 | 15 |

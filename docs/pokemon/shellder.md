@@ -20,13 +20,13 @@ It swims backward by opening and closing its two shells. Its large tongue is alw
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/90/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/shellder/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/90/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/shellder/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

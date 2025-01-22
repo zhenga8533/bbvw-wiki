@@ -20,13 +20,13 @@ It fights by keeping its shell tightly shut for protection and by shooting spike
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/91/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/cloyster/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/91/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/cloyster/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

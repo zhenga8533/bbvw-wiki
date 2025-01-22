@@ -20,13 +20,13 @@ The transformation of its legs into wings made it better at flying, but more clu
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/169/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/crobat/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/169/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/crobat/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

@@ -20,13 +20,13 @@ It knows where pure water wells up. It carries fellow Pokémon there on its back
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/388/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/grotle/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/388/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/grotle/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

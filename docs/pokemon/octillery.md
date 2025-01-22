@@ -26,13 +26,13 @@ It loves to lurk inside holes in rocks. It sometimes sprays ink on prey by stick
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/224/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/octillery/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/224/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/octillery/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
@@ -160,6 +160,8 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 | TM66 | Payback | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 50 | 100 | 10 |
 | TM68 | Giga Impact | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 150 | 90 | 5 |
 | TM73 | Thunder Wave | ![electric](../assets/types/electric.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 20 |
+| TM79 | Frost Breath | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 90 | 10 |
+| TM79 | Frost Breath | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 90 | 10 |
 | TM79 | Frost Breath | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 90 | 10 |
 | TM79 | Frost Breath | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 90 | 10 |
 | TM79 | Frost Breath | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 90 | 10 |

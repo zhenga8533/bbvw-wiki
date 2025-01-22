@@ -20,13 +20,13 @@ It is outstandingly armored. As a result, it can eat grass and berries without h
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/410/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/shieldon/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/410/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/shieldon/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

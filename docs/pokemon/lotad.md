@@ -20,13 +20,13 @@ It looks like an aquatic plant and serves as a ferry to Pokémon that can’t sw
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/270/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/lotad/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/270/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/lotad/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

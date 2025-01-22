@@ -20,13 +20,13 @@ Staring at its antlers creates an odd sensation as if one were being drawn into 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/234/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/stantler/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/234/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/stantler/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

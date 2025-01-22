@@ -20,13 +20,13 @@ It is thought to have inhabited beaches 300 million years ago. It is protected b
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/140/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/kabuto/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/140/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/kabuto/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

@@ -20,13 +20,13 @@ It makes a single pearl during its lifetime. The pearl is said to amplify psychi
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/366/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/clamperl/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/366/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/clamperl/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

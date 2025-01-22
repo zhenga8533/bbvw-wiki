@@ -20,13 +20,7 @@ It discharges electricity from its mane. It creates a thundercloud overhead to d
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/10055/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/10055/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/manectric-mega/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

@@ -20,13 +20,13 @@ It has a timid nature. If it is startled, the flames on its back burn more vigor
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/155/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/cyndaquil/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/155/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/cyndaquil/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

@@ -20,13 +20,7 @@ It shapes an invisible wall in midair by minutely vibrating its fingertips to st
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/10168/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/10168/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/mr-mime-galar/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

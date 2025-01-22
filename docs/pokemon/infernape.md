@@ -20,13 +20,13 @@ It uses unique fighting moves with fire on its hands and feet. It will take on a
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/392/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/infernape/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/392/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/infernape/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

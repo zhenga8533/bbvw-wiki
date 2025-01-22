@@ -20,13 +20,13 @@ It curls up, then rolls into foes with its back. Its sharp spines inflict severe
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/28/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/sandslash/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/28/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/sandslash/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

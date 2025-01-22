@@ -20,13 +20,13 @@ While it loves floral honey, it won’t gather any itself. Instead, it plots to 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/414/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/mothim/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/414/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/mothim/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

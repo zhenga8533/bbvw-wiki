@@ -20,13 +20,13 @@ When Uxie flew, people gained the ability to solve problems. It was the birth of
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/480/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/uxie/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/480/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/uxie/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

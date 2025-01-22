@@ -969,7 +969,7 @@ Ability One: Friend Guard
 Ability Two: Magic Guard
 
 
-#174 Igglypuff
+#174 Igglybuff
 Base Happiness: 200
 Ability One: Cute Charm
 Ability Two: Friend Guard
@@ -1410,7 +1410,7 @@ Ability Two: Magic Guard
 Hoenn Pokémon
 
 
-#252 Treecko, #253 Grovyle #254 Sceptile
+#252 Treecko, #253 Grovyle, #254 Sceptile
 Item: Miracle Seed (50%)
 Ability One: Overgrow
 Ability Two: Adaptability

@@ -26,13 +26,13 @@ In its territory, it leaves scratches on trees that bear delicious berries or fr
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/217/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/ursaring/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/217/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/ursaring/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

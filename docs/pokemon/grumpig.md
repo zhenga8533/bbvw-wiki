@@ -20,13 +20,13 @@ It uses black pearls to amplify its psycho-power. It does an odd dance to gain c
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/326/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/grumpig/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/326/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/grumpig/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

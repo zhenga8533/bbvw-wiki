@@ -20,13 +20,13 @@ A highly intelligent Pokémon. By folding back its wings in flight, it can overt
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/381/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/latios/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/381/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/latios/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

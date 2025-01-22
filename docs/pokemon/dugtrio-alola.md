@@ -20,13 +20,7 @@ Its three heads move alternately, driving it through tough soil to depths of ove
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/10106/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/10106/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/dugtrio-alola/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

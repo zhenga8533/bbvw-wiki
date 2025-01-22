@@ -20,13 +20,13 @@ It discharges positive and negative electricity from its antenna tips to shock i
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/170/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/chinchou/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/170/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/chinchou/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

@@ -20,13 +20,7 @@ It can’t live without the stalk it holds. That’s why it defends the stalk fr
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/10166/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/10166/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/farfetchd-galar/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

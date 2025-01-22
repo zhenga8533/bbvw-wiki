@@ -22,13 +22,13 @@
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/514/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/simisear/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/514/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/simisear/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
@@ -158,6 +158,10 @@ Simisear cannot learn any moves by breeding.
 
 Move | Type | Cat. | Power | Acc. | PP
 --- | --- | --- | --- | --- | ---
+| Fire Pledge | ![fire](../assets/types/fire.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 100 | 100 | 10 |
+| Blast Burn | ![fire](../assets/types/fire.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 150 | 90 | 5 |
+| Fire Pledge | ![fire](../assets/types/fire.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 100 | 100 | 10 |
+| Blast Burn | ![fire](../assets/types/fire.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 150 | 90 | 5 |
 | Fire Pledge | ![fire](../assets/types/fire.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 100 | 100 | 10 |
 | Blast Burn | ![fire](../assets/types/fire.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 150 | 90 | 5 |
 | Fire Pledge | ![fire](../assets/types/fire.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 100 | 100 | 10 |

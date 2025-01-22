@@ -20,13 +20,13 @@ When it senses danger, it raises all the barbs on its body. These barbs grow slo
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/30/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/nidorina/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/30/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/nidorina/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

@@ -20,13 +20,13 @@ It sprays a foul fluid from its rear. Its stench spreads over a mile radius, dri
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/434/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/stunky/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/434/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/stunky/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

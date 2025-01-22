@@ -20,13 +20,13 @@ It is nocturnal in nature. If it spots something shiny, its eyes glitter brightl
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/52/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/meowth/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/52/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/meowth/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

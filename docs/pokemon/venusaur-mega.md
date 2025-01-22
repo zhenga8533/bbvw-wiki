@@ -26,13 +26,7 @@ After a rainy day, the flower on its back smells stronger. The scent attracts ot
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/10033/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/10033/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/venusaur-mega/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

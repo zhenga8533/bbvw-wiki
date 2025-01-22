@@ -20,13 +20,13 @@ It digs into the ground with its tail and makes a mazelike nest. It can fly just
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/206/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/dunsparce/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/206/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/dunsparce/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

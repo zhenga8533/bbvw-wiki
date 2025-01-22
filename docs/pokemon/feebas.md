@@ -20,13 +20,13 @@ It is a shabby and ugly Pokémon. However, it is very hardy and can survive on l
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/349/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/feebas/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/349/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/feebas/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

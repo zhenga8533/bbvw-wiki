@@ -20,13 +20,13 @@ It has a soft and bouncy body. Once it starts bouncing, it becomes impossible to
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/174/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/igglybuff/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/174/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/igglybuff/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
@@ -36,7 +36,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #174 | ![normal](../assets/types/normal.png){: width='48'} ![fairy](../assets/types/fairy.png){: width='48'} | 0.3 m | 1.0 kg | 1. Cute-Charm<br>2. Competitive<br>3. Friend-Guard | #N/A |
+| #174 | ![normal](../assets/types/normal.png){: width='48'} ![fairy](../assets/types/fairy.png){: width='48'} | 0.3 m | 1.0 kg | 1. Cute-Charm<br>2. Friend-Guard | #N/A |
 
 ---
 
@@ -76,7 +76,7 @@ Igglybuff has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp | 170 | 50 | 42 | Fast |  |
+| 1 Hp | 170 | 200 | 42 | Fast |  |
 
 ---
 

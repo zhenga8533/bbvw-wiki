@@ -20,13 +20,13 @@ It blooms when the weather warms. It floats in the sky to soak up as much sunlig
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/188/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/skiploom/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/188/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/skiploom/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

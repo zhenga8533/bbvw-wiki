@@ -22,13 +22,13 @@
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/585/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/deerling/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/585/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/deerling/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

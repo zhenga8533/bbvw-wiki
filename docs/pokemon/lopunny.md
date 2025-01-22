@@ -20,13 +20,13 @@ The ears appear to be delicate. If they are touched roughly, it kicks with its g
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/428/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/lopunny/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/428/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/lopunny/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

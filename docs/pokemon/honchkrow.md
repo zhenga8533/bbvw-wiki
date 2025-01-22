@@ -20,13 +20,13 @@ If one utters a deep cry, many Murkrow gather quickly. For this, it is called â€
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/430/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/honchkrow/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/430/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/honchkrow/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

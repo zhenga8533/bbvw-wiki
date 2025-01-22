@@ -20,13 +20,13 @@ When Mesprit flew, people learned the joy and sadness of living. It was the birt
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/481/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/mesprit/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/481/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/mesprit/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

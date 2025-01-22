@@ -20,13 +20,13 @@ Lanturn’s light can shine up from great depths. It is nicknamed “The Deep-Se
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/171/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/lanturn/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/171/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/lanturn/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

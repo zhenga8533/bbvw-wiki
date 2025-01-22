@@ -20,13 +20,13 @@ It is said to have the ability to grant any wish for just one week every thousan
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/385/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/jirachi/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/385/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/jirachi/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

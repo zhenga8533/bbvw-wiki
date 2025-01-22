@@ -26,13 +26,13 @@ It loves sparkly things. It seeks treasures in caves and hoards the loot in its 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/444/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/gabite/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/444/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/gabite/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

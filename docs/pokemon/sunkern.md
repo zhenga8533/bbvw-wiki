@@ -20,13 +20,13 @@ It suddenly falls out of the sky in the morning. A year after a cold summer, the
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/191/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/sunkern/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/191/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/sunkern/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

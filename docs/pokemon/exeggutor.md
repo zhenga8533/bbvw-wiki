@@ -20,13 +20,13 @@ It is called “The Walking Jungle.” If a head grows too big, it falls off and
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/103/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/exeggutor/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/103/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/exeggutor/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

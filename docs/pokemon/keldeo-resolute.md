@@ -22,13 +22,7 @@
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/10024/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/10024/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/keldeo-resolute/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

@@ -20,13 +20,13 @@ It habitually spins things on its nose. By doing so, it learns textures and odor
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/364/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/sealeo/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/364/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/sealeo/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

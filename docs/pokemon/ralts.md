@@ -20,13 +20,13 @@ If its horns capture the warm feelings of people or Pokémon, its body warms up 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/280/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/ralts/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/280/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/ralts/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

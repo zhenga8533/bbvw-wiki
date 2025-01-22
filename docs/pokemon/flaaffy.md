@@ -20,13 +20,13 @@ If its coat becomes fully charged with electricity, its tail lights up. It fires
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/180/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/flaaffy/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/180/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/flaaffy/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

@@ -20,13 +20,13 @@ It has feuded with Seviper for many generations. Its sharp claws are its biggest
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/335/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/zangoose/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/335/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/zangoose/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

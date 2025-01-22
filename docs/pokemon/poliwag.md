@@ -20,13 +20,13 @@ Its skin is so thin, its internal organs are visible. It has trouble walking on 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/60/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/poliwag/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/60/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/poliwag/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

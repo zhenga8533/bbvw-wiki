@@ -20,13 +20,13 @@ Its ears are always rolled up. They can be forcefully extended to shatter even a
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/427/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/buneary/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/427/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/buneary/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

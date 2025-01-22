@@ -16,13 +16,7 @@ A legendary Pokémon of Sinnoh. It is said that space becomes more stable with P
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/10246/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/10246/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/palkia-origin/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

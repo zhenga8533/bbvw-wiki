@@ -20,13 +20,7 @@ Its best attack involves flying around at high speed, striking with poison needl
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/10090/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/10090/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/beedrill-mega/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

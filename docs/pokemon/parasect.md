@@ -20,13 +20,13 @@ A mushroom grown larger than the host’s body controls Parasect. It scatters po
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/47/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/parasect/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/47/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/parasect/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

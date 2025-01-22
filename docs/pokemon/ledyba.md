@@ -26,13 +26,13 @@ It is so timid, it can’t move if it isn’t with a swarm of others. It conveys
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/165/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/ledyba/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/165/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/ledyba/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

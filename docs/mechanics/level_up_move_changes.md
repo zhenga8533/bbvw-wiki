@@ -363,7 +363,7 @@
 
 **#029 Nidoran-F**
 
-![nidoranf](../assets/sprites/nidoranf/front.gif)
+![nidoran-f](../assets/sprites/nidoran-f/front.gif)
 
 ```
 + Level 1 - Moonlight
@@ -382,7 +382,7 @@
 
 **#032 Nidoran-M**
 
-![nidoranm](../assets/sprites/nidoranm/front.gif)
+![nidoran-m](../assets/sprites/nidoran-m/front.gif)
 
 ```
 + Level 1 - Morning Sun
@@ -1710,7 +1710,7 @@
 
 **#474 Porygon-Z**
 
-![porygonz](../assets/sprites/porygonz/front.gif)
+![porygon-z](../assets/sprites/porygon-z/front.gif)
 
 ```
 + Level 1 - Transform
@@ -4242,9 +4242,9 @@
 + Level 1 - Glaciate
 ```
 
-**#479 Rotom Oven**
+**#479 Rotom Heat**
 
-![rotom-oven](../assets/sprites/rotom-oven/front.gif)
+![rotom-heat](../assets/sprites/rotom-heat/front.gif)
 
 ```
 + Level 1 - Lava Plume
@@ -4788,7 +4788,7 @@
 
 **#550 Basculin**
 
-![basculin](../assets/sprites/basculin/front.gif)
+![basculin-red-striped](../assets/sprites/basculin-red-striped/front.gif)
 
 ```
 + Level 1 - Revenge
@@ -4831,7 +4831,7 @@
 
 **#555 Darmanitan**
 
-![darmanitan](../assets/sprites/darmanitan/front.gif)
+![darmanitan-standard](../assets/sprites/darmanitan-standard/front.gif)
 
 ```
 + Level 1 - Yawn
@@ -5553,7 +5553,7 @@
 
 **#647 Keldeo**
 
-![keldeo](../assets/sprites/keldeo/front.gif)
+![keldeo-ordinary](../assets/sprites/keldeo-ordinary/front.gif)
 
 ```
 + Level 1 - Secret Sword
@@ -5561,8 +5561,9 @@
 
 **#648 Meloetta**
 
-![meloetta](../assets/sprites/meloetta/front.gif)
+![meloetta-aria](../assets/sprites/meloetta-aria/front.gif)
 
 ```
 + Level 1 - Relic Song
 ```
+

@@ -1,5 +1,5 @@
 from dotenv import load_dotenv
-from util.file import load, save
+from util.file import load, save, verify_asset_path
 from util.format import create_image_table
 from util.logger import Logger
 import glob
@@ -193,14 +193,23 @@ def to_md(pokemon: dict, pokemon_set: dict, logger: Logger) -> str:
 
     # Cries
     md += "### Cries\n\n"
-    md += "Latest (Gen VI+):\n<p><audio controls>\n"
-    md += f"  <source src='../assets/cries/{pokemon_id}/latest.ogg' type='audio/ogg'>\n"
-    md += "  Your browser does not support the audio element.\n"
-    md += "</audio></p>\n\n"
-    md += "Legacy:\n<p><audio controls>\n"
-    md += f"  <source src='../assets/cries/{pokemon_id}/legacy.ogg' type='audio/ogg'>\n"
-    md += "  Your browser does not support the audio element.\n"
-    md += "</audio></p>\n\n"
+    latest_cry = f"../assets/cries/{name_id}/latest.ogg"
+    legacy_cry = f"../assets/cries/{name_id}/legacy.ogg"
+    latest_exists = verify_asset_path(latest_cry, logger)
+    legacy_exists = verify_asset_path(legacy_cry, logger)
+
+    if latest_exists:
+        md += "Latest (Gen VI+):\n<p><audio controls>\n"
+        md += f"  <source src='../assets/cries/{name_id}/latest.ogg' type='audio/ogg'>\n"
+        md += "  Your browser does not support the audio element.\n"
+        md += "</audio></p>\n\n"
+    if legacy_exists:
+        md += "Legacy:\n<p><audio controls>\n"
+        md += f"  <source src='../assets/cries/{name_id}/legacy.ogg' type='audio/ogg'>\n"
+        md += "  Your browser does not support the audio element.\n"
+        md += "</audio></p>\n\n"
+    if not latest_exists and not legacy_exists:
+        md += "No cries available.\n\n"
 
     # Pokédex data
     md += "---\n\n## Pokédex Data\n\n"

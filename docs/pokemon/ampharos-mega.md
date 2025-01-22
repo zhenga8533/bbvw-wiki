@@ -20,13 +20,7 @@ The tip of its tail shines brightly. In the olden days, people sent signals usin
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/10045/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/10045/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/ampharos-mega/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

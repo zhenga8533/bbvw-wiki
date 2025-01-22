@@ -20,13 +20,13 @@ It shares many blessings with people who respect one another’s rights and avoi
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/468/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/togekiss/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/468/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/togekiss/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

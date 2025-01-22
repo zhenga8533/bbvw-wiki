@@ -20,13 +20,13 @@ Using electricity stored in its fur, it stimulates its muscles to heighten its r
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/309/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/electrike/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/309/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/electrike/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

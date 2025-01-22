@@ -26,13 +26,13 @@ Despite its looks, it is aggressive. It jabs with its long, thin mouth if distur
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/267/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/beautifly/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/267/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/beautifly/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

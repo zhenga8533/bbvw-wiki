@@ -20,13 +20,7 @@ Its fangs rip through sheet iron. It swims at 75 mph and is known as “The Bull
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/10070/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/10070/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/sharpedo-mega/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

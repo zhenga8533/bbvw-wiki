@@ -20,13 +20,13 @@ It is said to have emerged from an egg in a place where there was nothing, then 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/493/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/arceus/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/493/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/arceus/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

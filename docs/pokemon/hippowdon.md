@@ -26,13 +26,13 @@ It is surprisingly quick to anger. It holds its mouth agape as a display of its 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/450/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/hippowdon/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/450/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/hippowdon/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

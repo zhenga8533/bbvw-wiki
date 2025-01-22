@@ -20,13 +20,13 @@ Its body is made of rugged steel. However, it is partially melted in spots becau
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/485/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/heatran/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/485/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/heatran/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

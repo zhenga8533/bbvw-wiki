@@ -26,13 +26,13 @@ Though it appears very elegant when swimming with fins unfurled, it can jab powe
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/118/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/goldeen/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/118/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/goldeen/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

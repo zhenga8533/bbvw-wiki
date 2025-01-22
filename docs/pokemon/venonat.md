@@ -20,13 +20,13 @@ Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/48/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/venonat/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/48/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/venonat/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

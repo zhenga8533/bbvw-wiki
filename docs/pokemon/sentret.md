@@ -20,13 +20,13 @@ It has a very nervous nature. It stands up high on its tail so it can scan wide 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/161/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/sentret/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/161/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/sentret/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

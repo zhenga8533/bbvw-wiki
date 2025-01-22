@@ -20,13 +20,13 @@ It lives in treetop colonies. If one becomes enraged, the whole colony rampages 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/56/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/mankey/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/56/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/mankey/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

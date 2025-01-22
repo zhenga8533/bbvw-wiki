@@ -20,13 +20,13 @@ It has the habit of biting anything with its developed jaws. Even its Trainer ne
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/158/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/totodile/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/158/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/totodile/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

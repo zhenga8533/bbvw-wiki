@@ -20,13 +20,13 @@ Many mysteriously appear when more sunspots dot the sun. They stop TV sets from 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/82/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/magneton/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/82/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/magneton/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

@@ -26,13 +26,13 @@ By flapping its leafy fan, it can whip up gusts of 100 ft/second that can level 
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/275/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/shiftry/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/275/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/shiftry/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

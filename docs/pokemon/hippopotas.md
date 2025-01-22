@@ -26,13 +26,13 @@ It shuts its nostrils tight then travels through sand as if walking. They form c
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/449/latest.ogg' type='audio/ogg'>
+  <source src='../assets/cries/hippopotas/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
 Legacy:
 <p><audio controls>
-  <source src='../assets/cries/449/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/hippopotas/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 

@@ -20,13 +20,7 @@ As a result of its long-held dream of flying, its cellular structure changed, an
 
 Latest (Gen VI+):
 <p><audio controls>
-  <source src='../assets/cries/10089/latest.ogg' type='audio/ogg'>
-  Your browser does not support the audio element.
-</audio></p>
-
-Legacy:
-<p><audio controls>
-  <source src='../assets/cries/10089/legacy.ogg' type='audio/ogg'>
+  <source src='../assets/cries/salamence-mega/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
 </audio></p>
 
