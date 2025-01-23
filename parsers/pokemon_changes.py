@@ -94,7 +94,7 @@ def main():
         base_experience = None
         catch_rate = None
         base_happiness = None
-        evolution = None
+        evolution = []
         types = []
         tms = []
         hms = []
@@ -155,11 +155,11 @@ def main():
 
             # Parse new evolution
             elif line.startswith("Evolution"):
-                parts = line.split(": ")[1]
-                if evolution is None:
-                    evolution = parts
-                else:
-                    evolution += "\n" + parts
+                evo, parts = line.split(": ")
+                if evo.endswith(")"):
+                    parts = f"{evo.split(" ")[1][1:-1]}: {parts}"
+
+                evolution.append(parts)
 
             # Parse new types
             elif line.startswith("Type"):

@@ -255,7 +255,10 @@ def to_md(pokemon: dict, pokemon_set: dict, logger: Logger) -> str:
         md += f"{parse_evolution_line(evolutions[0], pokemon_set)}\n\n"
 
     if "evolution_changes" in pokemon:
-        md += f"```\n{pokemon['evolution_changes']}\n```\n\n"
+        md += f"### Evolution Changes\n\n"
+        for i, change in enumerate(pokemon["evolution_changes"]):
+            md += f"{i + 1}. {change}\n"
+        md += "\n"
 
     # Training
     md += "---\n\n## Training\n\n"
