@@ -19,16 +19,18 @@ Although slow, it is skilled at fishing with its tail. It does not feel pain if 
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/slowpoke/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/slowpoke/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 Legacy:
-<p><audio controls>
-  <source src='../assets/cries/slowpoke/legacy.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/slowpoke/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -36,11 +38,8 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #79 | ![water](../assets/types/water.png){: width='48'} ![psychic](../assets/types/psychic.png){: width='48'} | 1.2 m | 36.0 kg | 1. Regenerator<br>2. Drizzle | #N/A |
+| #79 | ![water](../assets/types/water.png){: width='48'} ![psychic](../assets/types/psychic.png){: width='48'} | 1.2 m | 36.0 kg | 1. Regenerator<br>2. Drizzle | N/A |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -58,17 +57,21 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
-1. [Slowpoke](slowpoke.md/)
-2. [Slowpoke-Galar](slowpoke-galar.md/)
+Slowpoke has no alternate forms.
 
 ### Evolution Line
 
 1. [Slowpoke](slowpoke.md/)
-1. Use Item: [Slowbro](slowbro.md/)2. Use Item: [Slowking](slowking.md/)
+    1. Use Item: [Slowbro](slowbro.md/)
+
+    2. Use Item: [Slowking](slowking.md/)
+
+
+
 
 ```
 Level 37 or Level Up with a Shellder in the party.
@@ -97,12 +100,12 @@ Level Up at Day with King's Rock.
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Curse | ![ghost](../assets/types/ghost.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
 | 1 | Tackle | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 35 |
 | 1 | Yawn | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
@@ -123,8 +126,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 ### TM Moves
 
-TM | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| TM | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | HM03 | Surf | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
 | HM04 | Strength | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
 | HM06 | Dive | ![water](../assets/types/water.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 10 |
@@ -169,8 +172,8 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 
 ### Egg Moves
 
-Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | ---
+| Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- |
 | Stomp | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 65 | 100 | 20 |
 | Snore | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 50 | 100 | 15 |
 | Belly Drum | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |

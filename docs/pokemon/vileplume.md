@@ -25,16 +25,18 @@ Its petals are the largest in the world. As it walks, it scatters extremely alle
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/vileplume/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/vileplume/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 Legacy:
-<p><audio controls>
-  <source src='../assets/cries/vileplume/legacy.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/vileplume/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -42,11 +44,8 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #45 | ![grass](../assets/types/grass.png){: width='48'} ![poison](../assets/types/poison.png){: width='48'} | 1.2 m | 18.6 kg | 1. Chlorophyll<br>2. Effect-Spore | #N/A |
+| #45 | ![grass](../assets/types/grass.png){: width='48'} ![poison](../assets/types/poison.png){: width='48'} | 1.2 m | 18.6 kg | 1. Chlorophyll<br>2. Effect-Spore | N/A |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -64,7 +63,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
@@ -73,8 +72,14 @@ Vileplume has no alternate forms.
 ### Evolution Line
 
 1. [Oddish](oddish.md/)
-1. Level Up: [Gloom](gloom.md/)
-1. Use Item: [Vileplume](vileplume.md/)2. Use Item: [Bellossom](bellossom.md/)
+    1. Level Up: [Gloom](gloom.md/)
+        1. Use Item: [Vileplume](vileplume.md/)
+
+        2. Use Item: [Bellossom](bellossom.md/)
+
+
+
+
 
 ---
 
@@ -98,12 +103,12 @@ Vileplume has no alternate forms.
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Aromatherapy | ![grass](../assets/types/grass.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
 | 1 | Mega Drain | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 50 | 100 | 15 |
 | 1 | Poison Powder | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 75 | 35 |
@@ -114,8 +119,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 ### TM Moves
 
-TM | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| TM | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | HM01 | Cut | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 20 |
 | TM06 | Toxic | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 10 |
 | TM09 | Venoshock | ![poison](../assets/types/poison.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 65 | 100 | 10 |

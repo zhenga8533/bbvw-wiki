@@ -19,16 +19,18 @@ It makes a single pearl during its lifetime. The pearl is said to amplify psychi
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/clamperl/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/clamperl/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 Legacy:
-<p><audio controls>
-  <source src='../assets/cries/clamperl/legacy.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/clamperl/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -36,11 +38,8 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #366 | ![water](../assets/types/water.png){: width='48'} | 0.4 m | 52.5 kg | 1. Shell-Armor<br>2. Rattled | #N/A |
+| #366 | ![water](../assets/types/water.png){: width='48'} | 0.4 m | 52.5 kg | 1. Shell-Armor<br>2. Rattled | N/A |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -58,7 +57,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
@@ -67,7 +66,12 @@ Clamperl has no alternate forms.
 ### Evolution Line
 
 1. [Clamperl](clamperl.md/)
-1. Trade: [Huntail](huntail.md/)2. Trade: [Gorebyss](gorebyss.md/)
+    1. Trade: [Huntail](huntail.md/)
+
+    2. Trade: [Gorebyss](gorebyss.md/)
+
+
+
 
 ```
 Level Up at Night with a Deep Sea Tooth equipped.
@@ -96,12 +100,12 @@ Level Up at Night with a Deep Sea Scale equipped.
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Clamp | ![water](../assets/types/water.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 35 | 85 | 15 |
 | 1 | Iron Defense | ![steel](../assets/types/steel.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
 | 1 | Water Gun | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 40 | 100 | 25 |
@@ -112,8 +116,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 ### TM Moves
 
-TM | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| TM | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | HM03 | Surf | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
 | HM05 | Waterfall | ![water](../assets/types/water.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
 | HM06 | Dive | ![water](../assets/types/water.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 10 |
@@ -137,8 +141,8 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 
 ### Egg Moves
 
-Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | ---
+| Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- |
 | Body Slam | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
 | Supersonic | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 55 | 20 |
 | Confuse Ray | ![ghost](../assets/types/ghost.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 10 |

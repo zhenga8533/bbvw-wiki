@@ -21,16 +21,18 @@
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/hydreigon/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/hydreigon/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 Legacy:
-<p><audio controls>
-  <source src='../assets/cries/hydreigon/legacy.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/hydreigon/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -40,9 +42,6 @@ Legacy:
 |------------|---------|--------|--------|-----------|---------|
 | #635 | ![dark](../assets/types/dark.png){: width='48'} ![dragon](../assets/types/dragon.png){: width='48'} | 1.8 m | 160.0 kg | 1. Levitate | #141 |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -60,7 +59,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
@@ -69,8 +68,12 @@ Hydreigon has no alternate forms.
 ### Evolution Line
 
 1. [Deino](deino.md/)
-1. Level Up: [Zweilous](zweilous.md/)
-1. Level Up: [Hydreigon](hydreigon.md/)
+    1. Level Up: [Zweilous](zweilous.md/)
+        1. Level Up: [Hydreigon](hydreigon.md/)
+
+
+
+
 
 ---
 
@@ -94,12 +97,12 @@ Hydreigon has no alternate forms.
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Bite | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 25 |
 | 1 | Dragon Rage | ![dragon](../assets/types/dragon.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | 100 | 10 |
 | 1 | Focus Energy | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 30 |
@@ -126,8 +129,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 ### TM Moves
 
-TM | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| TM | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | HM02 | Fly | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 15 |
 | HM03 | Surf | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
 | HM04 | Strength | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
@@ -178,7 +181,7 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 Hydreigon cannot learn any moves by breeding.
 ### Tutor Moves
 
-Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | ---
+| Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- |
 | Draco Meteor | ![dragon](../assets/types/dragon.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 130 | 90 | 5 |
 

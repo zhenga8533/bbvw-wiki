@@ -25,16 +25,18 @@ If it hears festive music, all its muscles fill with energy. It can’t help bre
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/ludicolo/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/ludicolo/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 Legacy:
-<p><audio controls>
-  <source src='../assets/cries/ludicolo/legacy.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/ludicolo/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -42,11 +44,8 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #272 | ![water](../assets/types/water.png){: width='48'} ![grass](../assets/types/grass.png){: width='48'} | 1.5 m | 55.0 kg | 1. Swift-Swim<br>2. Rain-Dish | #N/A |
+| #272 | ![water](../assets/types/water.png){: width='48'} ![grass](../assets/types/grass.png){: width='48'} | 1.5 m | 55.0 kg | 1. Swift-Swim<br>2. Rain-Dish | N/A |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -64,7 +63,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
@@ -73,8 +72,12 @@ Ludicolo has no alternate forms.
 ### Evolution Line
 
 1. [Lotad](lotad.md/)
-1. Level Up: [Lombre](lombre.md/)
-1. Use Item: [Ludicolo](ludicolo.md/)
+    1. Level Up: [Lombre](lombre.md/)
+        1. Use Item: [Ludicolo](ludicolo.md/)
+
+
+
+
 
 ---
 
@@ -98,12 +101,12 @@ Ludicolo has no alternate forms.
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Astonish | ![ghost](../assets/types/ghost.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 30 | 100 | 15 |
 | 1 | Counter | ![fighting](../assets/types/fighting.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 20 |
 | 1 | Drain Punch | ![fighting](../assets/types/fighting.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 75 | 100 | 10 |
@@ -119,8 +122,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 ### TM Moves
 
-TM | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| TM | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | HM03 | Surf | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
 | HM04 | Strength | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
 | HM05 | Waterfall | ![water](../assets/types/water.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |

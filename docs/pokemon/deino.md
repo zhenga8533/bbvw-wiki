@@ -21,16 +21,18 @@
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/deino/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/deino/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 Legacy:
-<p><audio controls>
-  <source src='../assets/cries/deino/legacy.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/deino/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -40,9 +42,6 @@ Legacy:
 |------------|---------|--------|--------|-----------|---------|
 | #633 | ![dark](../assets/types/dark.png){: width='48'} ![dragon](../assets/types/dragon.png){: width='48'} | 0.8 m | 17.3 kg | 1. Hustle<br>2. Intimidate | #139 |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -60,7 +59,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
@@ -69,8 +68,12 @@ Deino has no alternate forms.
 ### Evolution Line
 
 1. [Deino](deino.md/)
-1. Level Up: [Zweilous](zweilous.md/)
-1. Level Up: [Hydreigon](hydreigon.md/)
+    1. Level Up: [Zweilous](zweilous.md/)
+        1. Level Up: [Hydreigon](hydreigon.md/)
+
+
+
+
 
 ```
 Level 30
@@ -98,12 +101,12 @@ Level 30
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Dragon Rage | ![dragon](../assets/types/dragon.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | 100 | 10 |
 | 1 | Tackle | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 35 |
 | 4 | Focus Energy | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 30 |
@@ -125,8 +128,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 ### TM Moves
 
-TM | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| TM | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | HM04 | Strength | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
 | TM05 | Roar | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
 | TM06 | Toxic | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 10 |
@@ -155,8 +158,8 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 
 ### Egg Moves
 
-Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | ---
+| Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- |
 | Screech | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 40 |
 | Astonish | ![ghost](../assets/types/ghost.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 30 | 100 | 15 |
 | Assurance | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 10 |
@@ -168,7 +171,7 @@ Move | Type | Cat. | Power | Acc. | PP
 
 ### Tutor Moves
 
-Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | ---
+| Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- |
 | Draco Meteor | ![dragon](../assets/types/dragon.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 130 | 90 | 5 |
 

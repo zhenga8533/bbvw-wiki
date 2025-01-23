@@ -19,16 +19,18 @@ It is called the “Mirage Pokémon” because so few have seen it. Its shed ski
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/dratini/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/dratini/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 Legacy:
-<p><audio controls>
-  <source src='../assets/cries/dratini/legacy.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/dratini/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -36,11 +38,8 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #147 | ![dragon](../assets/types/dragon.png){: width='48'} | 1.8 m | 3.3 kg | 1. Shed-Skin<br>2. Marvel-Scale | #N/A |
+| #147 | ![dragon](../assets/types/dragon.png){: width='48'} | 1.8 m | 3.3 kg | 1. Shed-Skin<br>2. Marvel-Scale | N/A |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -58,7 +57,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
@@ -67,8 +66,12 @@ Dratini has no alternate forms.
 ### Evolution Line
 
 1. [Dratini](dratini.md/)
-1. Level Up: [Dragonair](dragonair.md/)
-1. Level Up: [Dragonite](dragonite.md/)
+    1. Level Up: [Dragonair](dragonair.md/)
+        1. Level Up: [Dragonite](dragonite.md/)
+
+
+
+
 
 ---
 
@@ -92,12 +95,12 @@ Dratini has no alternate forms.
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Hydro Pump | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 110 | 80 | 5 |
 | 1 | Leer | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 30 |
 | 1 | Wrap | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 15 | 90 | 20 |
@@ -117,8 +120,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 ### TM Moves
 
-TM | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| TM | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | HM03 | Surf | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
 | HM05 | Waterfall | ![water](../assets/types/water.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
 | TM06 | Toxic | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 10 |
@@ -151,8 +154,8 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 
 ### Egg Moves
 
-Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | ---
+| Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- |
 | Supersonic | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 55 | 20 |
 | Mist | ![ice](../assets/types/ice.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 30 |
 | Haze | ![ice](../assets/types/ice.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 30 |
@@ -166,7 +169,7 @@ Move | Type | Cat. | Power | Acc. | PP
 
 ### Tutor Moves
 
-Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | ---
+| Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- |
 | Draco Meteor | ![dragon](../assets/types/dragon.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 130 | 90 | 5 |
 

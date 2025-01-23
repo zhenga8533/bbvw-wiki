@@ -19,16 +19,18 @@ When Azelf flew, people gained the determination to do things. It was the birth 
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/azelf/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/azelf/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 Legacy:
-<p><audio controls>
-  <source src='../assets/cries/azelf/legacy.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/azelf/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -36,11 +38,8 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #482 | ![psychic](../assets/types/psychic.png){: width='48'} | 0.3 m | 0.3 kg | 1. Levitate | #N/A |
+| #482 | ![psychic](../assets/types/psychic.png){: width='48'} | 0.3 m | 0.3 kg | 1. Levitate | N/A |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -58,7 +57,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
@@ -67,6 +66,8 @@ Azelf has no alternate forms.
 ### Evolution Line
 
 1. [Azelf](azelf.md/)
+
+
 
 ---
 
@@ -90,12 +91,12 @@ Azelf has no alternate forms.
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Confusion | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 50 | 100 | 25 |
 | 1 | Rest | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
 | 6 | Imprison | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
@@ -111,8 +112,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 ### TM Moves
 
-TM | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| TM | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | TM03 | Psyshock | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 80 | 100 | 10 |
 | TM04 | Calm Mind | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
 | TM06 | Toxic | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 10 |

@@ -19,16 +19,18 @@ It basically does not fight. With cells similar to those of plants, it can perfo
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/leafeon/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/leafeon/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 Legacy:
-<p><audio controls>
-  <source src='../assets/cries/leafeon/legacy.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/leafeon/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -36,11 +38,8 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #470 | ![grass](../assets/types/grass.png){: width='48'} | 1.0 m | 25.5 kg | 1. Leaf-Guard<br>2. Natural-Cure | #N/A |
+| #470 | ![grass](../assets/types/grass.png){: width='48'} | 1.0 m | 25.5 kg | 1. Leaf-Guard<br>2. Natural-Cure | N/A |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -58,7 +57,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
@@ -67,7 +66,22 @@ Leafeon has no alternate forms.
 ### Evolution Line
 
 1. [Eevee](eevee.md/)
-1. Use Item: [Vaporeon](vaporeon.md/)2. Use Item: [Jolteon](jolteon.md/)3. Use Item: [Flareon](flareon.md/)4. Level Up: [Espeon](espeon.md/)5. Level Up: [Umbreon](umbreon.md/)6. Use Item: [Leafeon](leafeon.md/)7. Use Item: [Glaceon](glaceon.md/)
+    1. Use Item: [Vaporeon](vaporeon.md/)
+
+    2. Use Item: [Jolteon](jolteon.md/)
+
+    3. Use Item: [Flareon](flareon.md/)
+
+    4. Level Up: [Espeon](espeon.md/)
+
+    5. Level Up: [Umbreon](umbreon.md/)
+
+    6. Use Item: [Leafeon](leafeon.md/)
+
+    7. Use Item: [Glaceon](glaceon.md/)
+
+
+
 
 ---
 
@@ -91,12 +105,12 @@ Leafeon has no alternate forms.
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Growth | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
 | 1 | Helping Hand | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
 | 1 | Tackle | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 35 |
@@ -118,8 +132,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 ### TM Moves
 
-TM | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| TM | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | HM04 | Strength | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
 | TM05 | Roar | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
 | TM06 | Toxic | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 10 |

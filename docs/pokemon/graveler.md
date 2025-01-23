@@ -19,16 +19,18 @@ It rolls on mountain paths to move. Once it builds momentum, no Pokémon can sto
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/graveler/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/graveler/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 Legacy:
-<p><audio controls>
-  <source src='../assets/cries/graveler/legacy.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/graveler/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -36,11 +38,8 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #75 | ![rock](../assets/types/rock.png){: width='48'} ![ground](../assets/types/ground.png){: width='48'} | 1.0 m | 105.0 kg | 1. Rock-Head<br>2. Sturdy | #N/A |
+| #75 | ![rock](../assets/types/rock.png){: width='48'} ![ground](../assets/types/ground.png){: width='48'} | 1.0 m | 105.0 kg | 1. Rock-Head<br>2. Sturdy | N/A |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -58,18 +57,21 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
-1. [Graveler](graveler.md/)
-2. [Graveler-Alola](graveler-alola.md/)
+Graveler has no alternate forms.
 
 ### Evolution Line
 
 1. [Geodude](geodude.md/)
-1. Level Up: [Graveler](graveler.md/)
-1. Trade: [Golem](golem.md/)
+    1. Level Up: [Graveler](graveler.md/)
+        1. Trade: [Golem](golem.md/)
+
+
+
+
 
 ```
 Level 36.
@@ -97,12 +99,12 @@ Level 36.
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Defense Curl | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 40 |
 | 1 | Mud Sport | ![ground](../assets/types/ground.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
 | 1 | Rapid Spin | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 50 | 100 | 40 |
@@ -125,8 +127,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 ### TM Moves
 
-TM | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| TM | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | HM04 | Strength | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
 | TM06 | Toxic | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 10 |
 | TM10 | Hidden Power | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 15 |

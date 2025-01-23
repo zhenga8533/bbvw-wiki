@@ -19,16 +19,18 @@ Its six eggs converse using telepathy. They can quickly gather if they become se
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/exeggcute/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/exeggcute/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 Legacy:
-<p><audio controls>
-  <source src='../assets/cries/exeggcute/legacy.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/exeggcute/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -36,11 +38,8 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #102 | ![grass](../assets/types/grass.png){: width='48'} ![psychic](../assets/types/psychic.png){: width='48'} | 0.4 m | 2.5 kg | 1. Chlorophyll<br>2. Harvest | #N/A |
+| #102 | ![grass](../assets/types/grass.png){: width='48'} ![psychic](../assets/types/psychic.png){: width='48'} | 0.4 m | 2.5 kg | 1. Chlorophyll<br>2. Harvest | N/A |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -58,7 +57,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
@@ -67,7 +66,10 @@ Exeggcute has no alternate forms.
 ### Evolution Line
 
 1. [Exeggcute](exeggcute.md/)
-1. Use Item: [Exeggutor](exeggutor.md/)
+    1. Use Item: [Exeggutor](exeggutor.md/)
+
+
+
 
 ---
 
@@ -91,12 +93,12 @@ Exeggcute has no alternate forms.
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Barrage | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 15 | 85 | 20 |
 | 1 | Hypnosis | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 60 | 20 |
 | 1 | Sweet Scent | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 20 |
@@ -118,8 +120,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 ### TM Moves
 
-TM | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| TM | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | HM04 | Strength | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
 | TM06 | Toxic | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 10 |
 | TM10 | Hidden Power | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 15 |
@@ -152,8 +154,8 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 
 ### Egg Moves
 
-Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | ---
+| Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- |
 | Curse | ![ghost](../assets/types/ghost.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
 | Moonlight | ![fairy](../assets/types/fairy.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
 | Ancient Power | ![rock](../assets/types/rock.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 5 |

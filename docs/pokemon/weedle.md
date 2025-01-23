@@ -19,16 +19,18 @@ It eats its weight in leaves every day. It fends off attackers with the needle o
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/weedle/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/weedle/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 Legacy:
-<p><audio controls>
-  <source src='../assets/cries/weedle/legacy.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/weedle/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -36,11 +38,8 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #13 | ![bug](../assets/types/bug.png){: width='48'} ![poison](../assets/types/poison.png){: width='48'} | 0.3 m | 3.2 kg | 1. Shield-Dust<br>2. Poison-Touch | #N/A |
+| #13 | ![bug](../assets/types/bug.png){: width='48'} ![poison](../assets/types/poison.png){: width='48'} | 0.3 m | 3.2 kg | 1. Shield-Dust<br>2. Poison-Touch | N/A |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -58,7 +57,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
@@ -67,8 +66,12 @@ Weedle has no alternate forms.
 ### Evolution Line
 
 1. [Weedle](weedle.md/)
-1. Level Up: [Kakuna](kakuna.md/)
-1. Level Up: [Beedrill](beedrill.md/)
+    1. Level Up: [Kakuna](kakuna.md/)
+        1. Level Up: [Beedrill](beedrill.md/)
+
+
+
+
 
 ---
 
@@ -92,12 +95,12 @@ Weedle has no alternate forms.
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Bug Bite | ![bug](../assets/types/bug.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 20 |
 | 1 | Poison Sting | ![poison](../assets/types/poison.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 15 | 100 | 35 |
 | 1 | String Shot | ![bug](../assets/types/bug.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 95 | 40 |

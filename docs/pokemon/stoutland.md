@@ -21,16 +21,18 @@
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/stoutland/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/stoutland/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 Legacy:
-<p><audio controls>
-  <source src='../assets/cries/stoutland/legacy.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/stoutland/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -40,9 +42,6 @@ Legacy:
 |------------|---------|--------|--------|-----------|---------|
 | #508 | ![normal](../assets/types/normal.png){: width='48'} | 1.2 m | 61.0 kg | 1. Intimidate<br>2. Scrappy | #14 |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -60,7 +59,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
@@ -69,8 +68,12 @@ Stoutland has no alternate forms.
 ### Evolution Line
 
 1. [Lillipup](lillipup.md/)
-1. Level Up: [Herdier](herdier.md/)
-1. Level Up: [Stoutland](stoutland.md/)
+    1. Level Up: [Herdier](herdier.md/)
+        1. Level Up: [Stoutland](stoutland.md/)
+
+
+
+
 
 ---
 
@@ -94,12 +97,12 @@ Stoutland has no alternate forms.
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Bite | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 25 |
 | 1 | Fire Fang | ![fire](../assets/types/fire.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 75 | 95 | 15 |
 | 1 | Ice Fang | ![ice](../assets/types/ice.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 75 | 95 | 15 |
@@ -121,8 +124,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 ### TM Moves
 
-TM | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| TM | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | HM03 | Surf | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
 | HM04 | Strength | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
 | TM05 | Roar | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |

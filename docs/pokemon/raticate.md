@@ -25,16 +25,18 @@ It whittles its constantly growing fangs by gnawing on hard things. It can chew 
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/raticate/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/raticate/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 Legacy:
-<p><audio controls>
-  <source src='../assets/cries/raticate/legacy.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/raticate/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -42,11 +44,8 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #20 | ![normal](../assets/types/normal.png){: width='48'} | 0.7 m | 18.5 kg | 1. Hustle<br>2. Guts | #N/A |
+| #20 | ![normal](../assets/types/normal.png){: width='48'} | 0.7 m | 18.5 kg | 1. Hustle<br>2. Guts | N/A |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -64,18 +63,19 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
-1. [Raticate](raticate.md/)
-2. [Raticate-Alola](raticate-alola.md/)
-3. [Raticate-Totem-Alola](raticate-totem-alola.md/)
+Raticate has no alternate forms.
 
 ### Evolution Line
 
 1. [Rattata](rattata.md/)
-1. Level Up: [Raticate](raticate.md/)
+    1. Level Up: [Raticate](raticate.md/)
+
+
+
 
 ---
 
@@ -99,12 +99,12 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Bite | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 25 |
 | 1 | Focus Energy | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 30 |
 | 1 | Quick Attack | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 30 |
@@ -132,8 +132,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 ### TM Moves
 
-TM | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| TM | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | HM01 | Cut | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 20 |
 | HM04 | Strength | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
 | TM01 | Hone Claws | ![dark](../assets/types/dark.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |

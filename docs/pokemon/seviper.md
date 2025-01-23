@@ -19,16 +19,18 @@ For many generations, it has feuded with Zangoose. It whets its bladed tail on r
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/seviper/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/seviper/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 Legacy:
-<p><audio controls>
-  <source src='../assets/cries/seviper/legacy.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/seviper/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -36,11 +38,8 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #336 | ![poison](../assets/types/poison.png){: width='48'} | 2.7 m | 52.5 kg | 1. Shed-Skin<br>2. Infiltrator | #N/A |
+| #336 | ![poison](../assets/types/poison.png){: width='48'} | 2.7 m | 52.5 kg | 1. Shed-Skin<br>2. Infiltrator | N/A |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -58,7 +57,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
@@ -67,6 +66,8 @@ Seviper has no alternate forms.
 ### Evolution Line
 
 1. [Seviper](seviper.md/)
+
+
 
 ---
 
@@ -90,12 +91,12 @@ Seviper has no alternate forms.
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Wrap | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 15 | 90 | 20 |
 | 7 | Lick | ![ghost](../assets/types/ghost.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 30 | 100 | 30 |
 | 10 | Bite | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 25 |
@@ -115,8 +116,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 ### TM Moves
 
-TM | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| TM | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | HM04 | Strength | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
 | TM06 | Toxic | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 10 |
 | TM09 | Venoshock | ![poison](../assets/types/poison.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 65 | 100 | 10 |
@@ -150,8 +151,8 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 
 ### Egg Moves
 
-Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | ---
+| Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- |
 | Body Slam | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
 | Scary Face | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 10 |
 | Iron Tail | ![steel](../assets/types/steel.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 75 | 15 |

@@ -19,16 +19,18 @@ A mushroom grown larger than the host’s body controls Parasect. It scatters po
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/parasect/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/parasect/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 Legacy:
-<p><audio controls>
-  <source src='../assets/cries/parasect/legacy.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/parasect/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -36,11 +38,8 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #47 | ![bug](../assets/types/bug.png){: width='48'} ![grass](../assets/types/grass.png){: width='48'} | 1.0 m | 29.5 kg | 1. Effect-Spore<br>2. Dry-Skin | #N/A |
+| #47 | ![bug](../assets/types/bug.png){: width='48'} ![grass](../assets/types/grass.png){: width='48'} | 1.0 m | 29.5 kg | 1. Effect-Spore<br>2. Dry-Skin | N/A |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -58,7 +57,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
@@ -67,7 +66,10 @@ Parasect has no alternate forms.
 ### Evolution Line
 
 1. [Paras](paras.md/)
-1. Level Up: [Parasect](parasect.md/)
+    1. Level Up: [Parasect](parasect.md/)
+
+
+
 
 ---
 
@@ -91,12 +93,12 @@ Parasect has no alternate forms.
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Fury Cutter | ![bug](../assets/types/bug.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 95 | 20 |
 | 1 | Leech Life | ![bug](../assets/types/bug.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 100 | 10 |
 | 1 | Poison Powder | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 75 | 35 |
@@ -119,8 +121,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 ### TM Moves
 
-TM | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| TM | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | HM01 | Cut | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 20 |
 | TM01 | Hone Claws | ![dark](../assets/types/dark.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
 | TM06 | Toxic | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 10 |

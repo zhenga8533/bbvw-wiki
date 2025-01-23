@@ -19,16 +19,18 @@ It lives in burrows dug on sandy beaches. Its pincers fully grow back if they ar
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/krabby/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/krabby/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 Legacy:
-<p><audio controls>
-  <source src='../assets/cries/krabby/legacy.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/krabby/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -36,11 +38,8 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #98 | ![water](../assets/types/water.png){: width='48'} | 0.4 m | 6.5 kg | 1. Hyper-Cutter<br>2. Sheer-Force | #N/A |
+| #98 | ![water](../assets/types/water.png){: width='48'} | 0.4 m | 6.5 kg | 1. Hyper-Cutter<br>2. Sheer-Force | N/A |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -58,7 +57,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
@@ -67,7 +66,10 @@ Krabby has no alternate forms.
 ### Evolution Line
 
 1. [Krabby](krabby.md/)
-1. Level Up: [Kingler](kingler.md/)
+    1. Level Up: [Kingler](kingler.md/)
+
+
+
 
 ---
 
@@ -91,12 +93,12 @@ Krabby has no alternate forms.
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Bubble | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 40 | 100 | 30 |
 | 1 | Mud Sport | ![ground](../assets/types/ground.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
 | 5 | Vice Grip | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 55 | 100 | 30 |
@@ -116,8 +118,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 ### TM Moves
 
-TM | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| TM | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | HM01 | Cut | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 20 |
 | HM03 | Surf | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
 | HM04 | Strength | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
@@ -164,8 +166,8 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 
 ### Egg Moves
 
-Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | ---
+| Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- |
 | Slam | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 75 | 20 |
 | Agility | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 30 |
 | Haze | ![ice](../assets/types/ice.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 30 |

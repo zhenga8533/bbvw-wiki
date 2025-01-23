@@ -25,16 +25,18 @@ It gathers groups of others as their leader. Its cries make Poliwag obey.
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/politoed/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/politoed/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 Legacy:
-<p><audio controls>
-  <source src='../assets/cries/politoed/legacy.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/politoed/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -42,11 +44,8 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #186 | ![water](../assets/types/water.png){: width='48'} | 1.1 m | 33.9 kg | 1. Water-Absorb<br>2. Drizzle | #N/A |
+| #186 | ![water](../assets/types/water.png){: width='48'} | 1.1 m | 33.9 kg | 1. Water-Absorb<br>2. Drizzle | N/A |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -64,7 +63,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
@@ -73,8 +72,14 @@ Politoed has no alternate forms.
 ### Evolution Line
 
 1. [Poliwag](poliwag.md/)
-1. Level Up: [Poliwhirl](poliwhirl.md/)
-1. Use Item: [Poliwrath](poliwrath.md/)2. Trade: [Politoed](politoed.md/)
+    1. Level Up: [Poliwhirl](poliwhirl.md/)
+        1. Use Item: [Poliwrath](poliwrath.md/)
+
+        2. Trade: [Politoed](politoed.md/)
+
+
+
+
 
 ---
 
@@ -98,12 +103,12 @@ Politoed has no alternate forms.
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Bubble Beam | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 65 | 100 | 20 |
 | 1 | Double Slap | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 15 | 85 | 10 |
 | 1 | Hypnosis | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 60 | 20 |
@@ -114,8 +119,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 ### TM Moves
 
-TM | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| TM | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | HM03 | Surf | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
 | HM04 | Strength | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
 | HM05 | Waterfall | ![water](../assets/types/water.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |

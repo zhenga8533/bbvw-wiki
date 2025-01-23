@@ -19,16 +19,18 @@ It attacks using blasts of fire. It creates heat shimmers with intense fire to h
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/typhlosion/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/typhlosion/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 Legacy:
-<p><audio controls>
-  <source src='../assets/cries/typhlosion/legacy.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/typhlosion/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -36,11 +38,8 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #157 | ![fire](../assets/types/fire.png){: width='48'} | 1.7 m | 79.5 kg | 1. Blaze<br>2. Flash-Fire | #N/A |
+| #157 | ![fire](../assets/types/fire.png){: width='48'} | 1.7 m | 79.5 kg | 1. Blaze<br>2. Flash-Fire | N/A |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -58,18 +57,21 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
-1. [Typhlosion](typhlosion.md/)
-2. [Typhlosion-Hisui](typhlosion-hisui.md/)
+Typhlosion has no alternate forms.
 
 ### Evolution Line
 
 1. [Cyndaquil](cyndaquil.md/)
-1. Level Up: [Quilava](quilava.md/)
-1. Level Up: [Typhlosion](typhlosion.md/)
+    1. Level Up: [Quilava](quilava.md/)
+        1. Level Up: [Typhlosion](typhlosion.md/)
+
+
+
+
 
 ---
 
@@ -93,12 +95,12 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Earth Power | ![ground](../assets/types/ground.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
 | 1 | Ember | ![fire](../assets/types/fire.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 40 | 100 | 25 |
 | 1 | Gyro Ball | ![steel](../assets/types/steel.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 5 |
@@ -124,8 +126,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 ### TM Moves
 
-TM | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| TM | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | HM01 | Cut | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 20 |
 | HM04 | Strength | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
 | TM05 | Roar | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
@@ -170,8 +172,8 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 Typhlosion cannot learn any moves by breeding.
 ### Tutor Moves
 
-Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | ---
+| Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- |
 | Blast Burn | ![fire](../assets/types/fire.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 150 | 90 | 5 |
 | Fire Pledge | ![fire](../assets/types/fire.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 100 | 100 | 10 |
 

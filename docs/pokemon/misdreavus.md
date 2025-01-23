@@ -19,16 +19,18 @@ A Pokémon that startles people in the middle of the night. It gathers fear as i
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/misdreavus/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/misdreavus/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 Legacy:
-<p><audio controls>
-  <source src='../assets/cries/misdreavus/legacy.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/misdreavus/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -36,11 +38,8 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #200 | ![ghost](../assets/types/ghost.png){: width='48'} | 0.7 m | 1.0 kg | 1. Levitate | #N/A |
+| #200 | ![ghost](../assets/types/ghost.png){: width='48'} | 0.7 m | 1.0 kg | 1. Levitate | N/A |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -58,7 +57,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
@@ -67,7 +66,10 @@ Misdreavus has no alternate forms.
 ### Evolution Line
 
 1. [Misdreavus](misdreavus.md/)
-1. Use Item: [Mismagius](mismagius.md/)
+    1. Use Item: [Mismagius](mismagius.md/)
+
+
+
 
 ---
 
@@ -91,12 +93,12 @@ Misdreavus has no alternate forms.
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Growl | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 40 |
 | 1 | Psywave | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | 100 | 15 |
 | 5 | Spite | ![ghost](../assets/types/ghost.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 10 |
@@ -117,8 +119,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 ### TM Moves
 
-TM | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| TM | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | TM04 | Calm Mind | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
 | TM06 | Toxic | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 10 |
 | TM10 | Hidden Power | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 15 |
@@ -156,8 +158,8 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 
 ### Egg Moves
 
-Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | ---
+| Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- |
 | Screech | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 40 |
 | Curse | ![ghost](../assets/types/ghost.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
 | Spite | ![ghost](../assets/types/ghost.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 10 |

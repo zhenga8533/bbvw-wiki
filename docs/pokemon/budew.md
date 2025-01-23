@@ -19,16 +19,18 @@ Sensitive to changing temperature, the bud is said to bloom when it feels the su
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/budew/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/budew/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 Legacy:
-<p><audio controls>
-  <source src='../assets/cries/budew/legacy.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/budew/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -36,11 +38,8 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #406 | ![grass](../assets/types/grass.png){: width='48'} ![poison](../assets/types/poison.png){: width='48'} | 0.2 m | 1.2 kg | 1. Natural-Cure<br>2. Leaf-Guard | #N/A |
+| #406 | ![grass](../assets/types/grass.png){: width='48'} ![poison](../assets/types/poison.png){: width='48'} | 0.2 m | 1.2 kg | 1. Natural-Cure<br>2. Leaf-Guard | N/A |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -58,7 +57,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
@@ -67,8 +66,12 @@ Budew has no alternate forms.
 ### Evolution Line
 
 1. [Budew](budew.md/)
-1. Level Up: [Roselia](roselia.md/)
-1. Use Item: [Roserade](roserade.md/)
+    1. Level Up: [Roselia](roselia.md/)
+        1. Use Item: [Roserade](roserade.md/)
+
+
+
+
 
 ---
 
@@ -92,12 +95,12 @@ Budew has no alternate forms.
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Absorb | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 50 | 100 | 25 |
 | 4 | Growth | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
 | 7 | Water Sport | ![water](../assets/types/water.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
@@ -110,8 +113,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 ### TM Moves
 
-TM | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| TM | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | HM01 | Cut | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 20 |
 | TM06 | Toxic | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 10 |
 | TM09 | Venoshock | ![poison](../assets/types/poison.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 65 | 100 | 10 |
@@ -139,8 +142,8 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 
 ### Egg Moves
 
-Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | ---
+| Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- |
 | Pin Missile | ![bug](../assets/types/bug.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 25 | 95 | 20 |
 | Razor Leaf | ![grass](../assets/types/grass.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 55 | 95 | 25 |
 | Mind Reader | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |

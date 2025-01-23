@@ -21,16 +21,18 @@
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/pansear/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/pansear/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 Legacy:
-<p><audio controls>
-  <source src='../assets/cries/pansear/legacy.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/pansear/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -40,9 +42,6 @@ Legacy:
 |------------|---------|--------|--------|-----------|---------|
 | #513 | ![fire](../assets/types/fire.png){: width='48'} | 0.6 m | 11.0 kg | 1. Gluttony<br>2. Blaze | #19 |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -60,7 +59,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
@@ -69,7 +68,10 @@ Pansear has no alternate forms.
 ### Evolution Line
 
 1. [Pansear](pansear.md/)
-1. Use Item: [Simisear](simisear.md/)
+    1. Use Item: [Simisear](simisear.md/)
+
+
+
 
 ---
 
@@ -93,12 +95,12 @@ Pansear has no alternate forms.
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Scratch | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 35 |
 | 6 | Leer | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 30 |
 | 8 | Incinerate | ![fire](../assets/types/fire.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 50 | 100 | 15 |
@@ -126,8 +128,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 ### TM Moves
 
-TM | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| TM | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | HM01 | Cut | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 20 |
 | TM06 | Toxic | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 10 |
 | TM10 | Hidden Power | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 15 |
@@ -164,8 +166,8 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 
 ### Egg Moves
 
-Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | ---
+| Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- |
 | Fire Punch | ![fire](../assets/types/fire.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 100 | 15 |
 | Fire Spin | ![fire](../assets/types/fire.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 35 | 85 | 15 |
 | Heat Wave | ![fire](../assets/types/fire.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 95 | 90 | 10 |
@@ -176,8 +178,8 @@ Move | Type | Cat. | Power | Acc. | PP
 
 ### Tutor Moves
 
-Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | ---
+| Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- |
 | Fire Pledge | ![fire](../assets/types/fire.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 100 | 100 | 10 |
 | Blast Burn | ![fire](../assets/types/fire.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 150 | 90 | 5 |
 | Fire Pledge | ![fire](../assets/types/fire.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 100 | 100 | 10 |

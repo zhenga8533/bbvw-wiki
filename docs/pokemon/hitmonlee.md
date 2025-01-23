@@ -19,16 +19,18 @@ Its legs can stretch double. First-time foes are startled by its extensible reac
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/hitmonlee/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/hitmonlee/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 Legacy:
-<p><audio controls>
-  <source src='../assets/cries/hitmonlee/legacy.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/hitmonlee/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -36,11 +38,8 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #106 | ![fighting](../assets/types/fighting.png){: width='48'} | 1.5 m | 49.8 kg | 1. Unburden<br>2. Reckless | #N/A |
+| #106 | ![fighting](../assets/types/fighting.png){: width='48'} | 1.5 m | 49.8 kg | 1. Unburden<br>2. Reckless | N/A |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -58,7 +57,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
@@ -67,7 +66,14 @@ Hitmonlee has no alternate forms.
 ### Evolution Line
 
 1. [Tyrogue](tyrogue.md/)
-1. Level Up: [Hitmonlee](hitmonlee.md/)2. Level Up: [Hitmonchan](hitmonchan.md/)3. Level Up: [Hitmontop](hitmontop.md/)
+    1. Level Up: [Hitmonlee](hitmonlee.md/)
+
+    2. Level Up: [Hitmonchan](hitmonchan.md/)
+
+    3. Level Up: [Hitmontop](hitmontop.md/)
+
+
+
 
 ---
 
@@ -91,12 +97,12 @@ Hitmonlee has no alternate forms.
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Double Kick | ![fighting](../assets/types/fighting.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 30 | 100 | 30 |
 | 1 | Revenge | ![fighting](../assets/types/fighting.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 10 |
 | 5 | Meditate | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 40 |
@@ -118,8 +124,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 ### TM Moves
 
-TM | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| TM | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | HM04 | Strength | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
 | TM06 | Toxic | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 10 |
 | TM08 | Bulk Up | ![fighting](../assets/types/fighting.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |

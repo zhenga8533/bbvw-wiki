@@ -25,16 +25,18 @@ A smart and sneaky Pokémon. A pair may work together to steal eggs by having on
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/sneasel/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/sneasel/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 Legacy:
-<p><audio controls>
-  <source src='../assets/cries/sneasel/legacy.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/sneasel/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -42,11 +44,8 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #215 | ![dark](../assets/types/dark.png){: width='48'} ![ice](../assets/types/ice.png){: width='48'} | 0.9 m | 28.0 kg | 1. Pickpocket<br>2. Technician | #N/A |
+| #215 | ![dark](../assets/types/dark.png){: width='48'} ![ice](../assets/types/ice.png){: width='48'} | 0.9 m | 28.0 kg | 1. Pickpocket<br>2. Technician | N/A |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -64,17 +63,19 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
-1. [Sneasel](sneasel.md/)
-2. [Sneasel-Hisui](sneasel-hisui.md/)
+Sneasel has no alternate forms.
 
 ### Evolution Line
 
 1. [Sneasel](sneasel.md/)
-1. Level Up: [Weavile](weavile.md/)
+    1. Level Up: [Weavile](weavile.md/)
+
+
+
 
 ---
 
@@ -98,12 +99,12 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Leer | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 30 |
 | 1 | Moonlight | ![fairy](../assets/types/fairy.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
 | 1 | Scratch | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 35 |
@@ -124,8 +125,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 ### TM Moves
 
-TM | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| TM | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | HM01 | Cut | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 20 |
 | HM03 | Surf | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
 | HM04 | Strength | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
@@ -184,8 +185,8 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 
 ### Egg Moves
 
-Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | ---
+| Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- |
 | Bite | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 25 |
 | Counter | ![fighting](../assets/types/fighting.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 20 |
 | Spite | ![ghost](../assets/types/ghost.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 10 |

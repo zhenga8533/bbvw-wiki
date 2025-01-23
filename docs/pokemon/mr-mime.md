@@ -19,16 +19,18 @@ It shapes an invisible wall in midair by minutely vibrating its fingertips to st
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/mr-mime/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/mr-mime/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 Legacy:
-<p><audio controls>
-  <source src='../assets/cries/mr-mime/legacy.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/mr-mime/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -36,11 +38,8 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #122 | ![psychic](../assets/types/psychic.png){: width='48'} ![fairy](../assets/types/fairy.png){: width='48'} | 1.3 m | 54.5 kg | 1. Technician<br>2. Filter | #N/A |
+| #122 | ![psychic](../assets/types/psychic.png){: width='48'} ![fairy](../assets/types/fairy.png){: width='48'} | 1.3 m | 54.5 kg | 1. Technician<br>2. Filter | N/A |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -58,18 +57,19 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
-1. [Mr-Mime](mr-mime.md/)
-2. [Mr-Mime-Galar](mr-mime-galar.md/)
+Mr Mime has no alternate forms.
 
 ### Evolution Line
 
 1. [Mime-Jr](mime-jr.md/)
-1. Level Up: [Mr-Mime](mr-mime.md/)
-1. Level Up: [Mr-Rime](mr-rime.md/)
+    1. Level Up: [Mr-Mime](mr-mime.md/)
+
+
+
 
 ---
 
@@ -93,12 +93,12 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Barrier | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
 | 1 | Confusion | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 50 | 100 | 25 |
 | 1 | Guard Swap | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
@@ -124,8 +124,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 ### TM Moves
 
-TM | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| TM | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | TM03 | Psyshock | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 80 | 100 | 10 |
 | TM04 | Calm Mind | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
 | TM06 | Toxic | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 10 |
@@ -172,8 +172,8 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 
 ### Egg Moves
 
-Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | ---
+| Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- |
 | Hypnosis | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 60 | 20 |
 | Mimic | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
 | Confuse Ray | ![ghost](../assets/types/ghost.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 10 |

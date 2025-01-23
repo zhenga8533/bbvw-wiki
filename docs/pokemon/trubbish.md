@@ -21,16 +21,18 @@
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/trubbish/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/trubbish/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 Legacy:
-<p><audio controls>
-  <source src='../assets/cries/trubbish/legacy.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/trubbish/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -40,9 +42,6 @@ Legacy:
 |------------|---------|--------|--------|-----------|---------|
 | #568 | ![poison](../assets/types/poison.png){: width='48'} | 0.6 m | 31.0 kg | 1. Stench<br>2. Sticky-Hold | #74 |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -60,7 +59,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
@@ -69,7 +68,10 @@ Trubbish has no alternate forms.
 ### Evolution Line
 
 1. [Trubbish](trubbish.md/)
-1. Level Up: [Garbodor](garbodor.md/)
+    1. Level Up: [Garbodor](garbodor.md/)
+
+
+
 
 ---
 
@@ -93,12 +95,12 @@ Trubbish has no alternate forms.
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Poison Gas | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 40 |
 | 1 | Pound | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 35 |
 | 3 | Recycle | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
@@ -124,8 +126,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 ### TM Moves
 
-TM | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| TM | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | TM06 | Toxic | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 10 |
 | TM09 | Venoshock | ![poison](../assets/types/poison.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 65 | 100 | 10 |
 | TM10 | Hidden Power | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 15 |
@@ -149,8 +151,8 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 
 ### Egg Moves
 
-Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | ---
+| Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- |
 | Sand Attack | ![ground](../assets/types/ground.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 15 |
 | Haze | ![ice](../assets/types/ice.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 30 |
 | Spikes | ![ground](../assets/types/ground.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |

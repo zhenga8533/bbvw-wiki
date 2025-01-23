@@ -25,16 +25,18 @@ It desperately tries to keep its black tail hidden. It is said to be proof the t
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/wobbuffet/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/wobbuffet/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 Legacy:
-<p><audio controls>
-  <source src='../assets/cries/wobbuffet/legacy.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/wobbuffet/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -42,11 +44,8 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #202 | ![psychic](../assets/types/psychic.png){: width='48'} | 1.3 m | 28.5 kg | 1. Shadow-Tag<br>2. Telepathy | #N/A |
+| #202 | ![psychic](../assets/types/psychic.png){: width='48'} | 1.3 m | 28.5 kg | 1. Shadow-Tag<br>2. Telepathy | N/A |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -64,7 +63,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
@@ -73,7 +72,10 @@ Wobbuffet has no alternate forms.
 ### Evolution Line
 
 1. [Wynaut](wynaut.md/)
-1. Level Up: [Wobbuffet](wobbuffet.md/)
+    1. Level Up: [Wobbuffet](wobbuffet.md/)
+
+
+
 
 ---
 
@@ -97,12 +99,12 @@ Wobbuffet has no alternate forms.
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Counter | ![fighting](../assets/types/fighting.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 20 |
 | 1 | Destiny Bond | ![ghost](../assets/types/ghost.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
 | 1 | Mirror Coat | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | 100 | 20 |

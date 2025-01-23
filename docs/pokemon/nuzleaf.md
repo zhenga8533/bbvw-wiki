@@ -25,16 +25,18 @@ The sound of its grass flute makes its listeners uneasy. It lives deep in forest
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/nuzleaf/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/nuzleaf/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 Legacy:
-<p><audio controls>
-  <source src='../assets/cries/nuzleaf/legacy.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/nuzleaf/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -42,11 +44,8 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #274 | ![grass](../assets/types/grass.png){: width='48'} ![dark](../assets/types/dark.png){: width='48'} | 1.0 m | 28.0 kg | 1. Pickpocket<br>2. Early-Bird | #N/A |
+| #274 | ![grass](../assets/types/grass.png){: width='48'} ![dark](../assets/types/dark.png){: width='48'} | 1.0 m | 28.0 kg | 1. Pickpocket<br>2. Early-Bird | N/A |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -64,7 +63,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
@@ -73,8 +72,12 @@ Nuzleaf has no alternate forms.
 ### Evolution Line
 
 1. [Seedot](seedot.md/)
-1. Level Up: [Nuzleaf](nuzleaf.md/)
-1. Use Item: [Shiftry](shiftry.md/)
+    1. Level Up: [Nuzleaf](nuzleaf.md/)
+        1. Use Item: [Shiftry](shiftry.md/)
+
+
+
+
 
 ---
 
@@ -98,12 +101,12 @@ Nuzleaf has no alternate forms.
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Pound | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 35 |
 | 1 | Quick Attack | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 30 |
 | 3 | Harden | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 30 |
@@ -123,8 +126,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 ### TM Moves
 
-TM | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| TM | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | HM01 | Cut | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 20 |
 | HM04 | Strength | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
 | TM06 | Toxic | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 10 |

@@ -21,16 +21,18 @@
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/landorus-incarnate/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/landorus-incarnate/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 Legacy:
-<p><audio controls>
-  <source src='../assets/cries/landorus-incarnate/legacy.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/landorus-incarnate/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -40,9 +42,6 @@ Legacy:
 |------------|---------|--------|--------|-----------|---------|
 | #645 | ![ground](../assets/types/ground.png){: width='48'} ![flying](../assets/types/flying.png){: width='48'} | 1.5 m | 68.0 kg | 1. Sand-Force<br>2. Sheer-Force | #151 |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -60,18 +59,22 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
 1. [Landorus-Incarnate](landorus-incarnate.md/)
+
 2. [Landorus-Therian](landorus-therian.md/)
+
 
 ### Evolution Line
 
 1. [Landorus-Incarnate](landorus-incarnate.md/)
 
 1. [Landorus-Therian](landorus-therian.md/)
+
+
 
 ---
 
@@ -95,12 +98,12 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Block | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
 | 1 | Mud Shot | ![ground](../assets/types/ground.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 55 | 95 | 15 |
 | 1 | Rock Tomb | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 95 | 15 |
@@ -121,8 +124,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 ### TM Moves
 
-TM | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| TM | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | HM02 | Fly | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 15 |
 | HM04 | Strength | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
 | TM04 | Calm Mind | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |

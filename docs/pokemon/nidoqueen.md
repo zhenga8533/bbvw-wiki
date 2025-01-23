@@ -19,16 +19,18 @@ Its entire body is armored with hard scales. It will protect the young in its bu
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/nidoqueen/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/nidoqueen/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 Legacy:
-<p><audio controls>
-  <source src='../assets/cries/nidoqueen/legacy.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/nidoqueen/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -36,11 +38,8 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #31 | ![poison](../assets/types/poison.png){: width='48'} ![ground](../assets/types/ground.png){: width='48'} | 1.3 m | 60.0 kg | 1. Sheer-Force<br>2. Rivalry | #N/A |
+| #31 | ![poison](../assets/types/poison.png){: width='48'} ![ground](../assets/types/ground.png){: width='48'} | 1.3 m | 60.0 kg | 1. Sheer-Force<br>2. Rivalry | N/A |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -58,7 +57,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
@@ -67,8 +66,12 @@ Nidoqueen has no alternate forms.
 ### Evolution Line
 
 1. [Nidoran-F](nidoran-f.md/)
-1. Level Up: [Nidorina](nidorina.md/)
-1. Use Item: [Nidoqueen](nidoqueen.md/)
+    1. Level Up: [Nidorina](nidorina.md/)
+        1. Use Item: [Nidoqueen](nidoqueen.md/)
+
+
+
+
 
 ---
 
@@ -92,12 +95,12 @@ Nidoqueen has no alternate forms.
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Double Kick | ![fighting](../assets/types/fighting.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 30 | 100 | 30 |
 | 1 | Poison Sting | ![poison](../assets/types/poison.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 15 | 100 | 35 |
 | 1 | Scratch | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 35 |
@@ -109,8 +112,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 ### TM Moves
 
-TM | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| TM | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | HM01 | Cut | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 20 |
 | HM03 | Surf | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
 | HM04 | Strength | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |

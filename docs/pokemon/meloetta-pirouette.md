@@ -21,10 +21,11 @@
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/meloetta-pirouette/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/meloetta-pirouette/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -34,9 +35,6 @@ Latest (Gen VI+):
 |------------|---------|--------|--------|-----------|---------|
 | #10018 | ![normal](../assets/types/normal.png){: width='48'} ![fighting](../assets/types/fighting.png){: width='48'} | 0.6 m | 6.5 kg | 1. Serene-Grace<br>2. Magic-Guard | #154 |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -54,18 +52,22 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
 1. [Meloetta-Aria](meloetta-aria.md/)
+
 2. [Meloetta-Pirouette](meloetta-pirouette.md/)
+
 
 ### Evolution Line
 
 1. [Meloetta-Aria](meloetta-aria.md/)
 
 1. [Meloetta-Pirouette](meloetta-pirouette.md/)
+
+
 
 ---
 
@@ -89,12 +91,12 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Relic Song | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 75 | 100 | 10 |
 | 1 | Round | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 15 |
 | 6 | Quick Attack | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 30 |
@@ -114,8 +116,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 ### TM Moves
 
-TM | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| TM | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | HM04 | Strength | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
 | TM01 | Hone Claws | ![dark](../assets/types/dark.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
 | TM03 | Psyshock | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 80 | 100 | 10 |

@@ -25,16 +25,18 @@ Split into two, the tails are so adept at handling and doing things, Ambipom rar
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/ambipom/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/ambipom/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 Legacy:
-<p><audio controls>
-  <source src='../assets/cries/ambipom/legacy.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/ambipom/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -42,11 +44,8 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #424 | ![normal](../assets/types/normal.png){: width='48'} | 1.2 m | 20.3 kg | 1. Technician<br>2. Pickup | #N/A |
+| #424 | ![normal](../assets/types/normal.png){: width='48'} | 1.2 m | 20.3 kg | 1. Technician<br>2. Pickup | N/A |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -64,7 +63,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
@@ -73,7 +72,10 @@ Ambipom has no alternate forms.
 ### Evolution Line
 
 1. [Aipom](aipom.md/)
-1. Level Up: [Ambipom](ambipom.md/)
+    1. Level Up: [Ambipom](ambipom.md/)
+
+
+
 
 ---
 
@@ -97,12 +99,12 @@ Ambipom has no alternate forms.
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Astonish | ![ghost](../assets/types/ghost.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 30 | 100 | 15 |
 | 1 | Fire Punch | ![fire](../assets/types/fire.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 100 | 15 |
 | 1 | Ice Punch | ![ice](../assets/types/ice.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 100 | 15 |
@@ -126,8 +128,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 ### TM Moves
 
-TM | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| TM | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | HM01 | Cut | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 20 |
 | HM04 | Strength | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
 | TM01 | Hone Claws | ![dark](../assets/types/dark.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |

@@ -19,16 +19,18 @@ It releases various pheromones to make the grubs in its body do its bidding whil
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/vespiquen/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/vespiquen/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 Legacy:
-<p><audio controls>
-  <source src='../assets/cries/vespiquen/legacy.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/vespiquen/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -36,11 +38,8 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #416 | ![bug](../assets/types/bug.png){: width='48'} ![flying](../assets/types/flying.png){: width='48'} | 1.2 m | 38.5 kg | 1. Pressure<br>2. Intimidate | #N/A |
+| #416 | ![bug](../assets/types/bug.png){: width='48'} ![flying](../assets/types/flying.png){: width='48'} | 1.2 m | 38.5 kg | 1. Pressure<br>2. Intimidate | N/A |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -58,7 +57,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
@@ -67,7 +66,10 @@ Vespiquen has no alternate forms.
 ### Evolution Line
 
 1. [Combee](combee.md/)
-1. Level Up: [Vespiquen](vespiquen.md/)
+    1. Level Up: [Vespiquen](vespiquen.md/)
+
+
+
 
 ---
 
@@ -91,12 +93,12 @@ Vespiquen has no alternate forms.
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Gust | ![flying](../assets/types/flying.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 40 | 100 | 35 |
 | 1 | Sweet Scent | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 20 |
 | 3 | Poison Sting | ![poison](../assets/types/poison.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 15 | 100 | 35 |
@@ -118,8 +120,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 ### TM Moves
 
-TM | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| TM | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | HM01 | Cut | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 20 |
 | TM01 | Hone Claws | ![dark](../assets/types/dark.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
 | TM06 | Toxic | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 10 |

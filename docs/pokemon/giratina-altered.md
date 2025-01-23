@@ -19,16 +19,18 @@ It was banished for its violence. It silently gazed upon the old world from the 
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/giratina-altered/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/giratina-altered/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 Legacy:
-<p><audio controls>
-  <source src='../assets/cries/giratina-altered/legacy.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/giratina-altered/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -36,11 +38,8 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #487 | ![ghost](../assets/types/ghost.png){: width='48'} ![dragon](../assets/types/dragon.png){: width='48'} | 4.5 m | 750.0 kg | 1. Pressure<br>2. Telepathy | #N/A |
+| #487 | ![ghost](../assets/types/ghost.png){: width='48'} ![dragon](../assets/types/dragon.png){: width='48'} | 4.5 m | 750.0 kg | 1. Pressure<br>2. Telepathy | N/A |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -58,18 +57,22 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
 1. [Giratina-Altered](giratina-altered.md/)
+
 2. [Giratina-Origin](giratina-origin.md/)
+
 
 ### Evolution Line
 
 1. [Giratina-Altered](giratina-altered.md/)
 
 1. [Giratina-Origin](giratina-origin.md/)
+
+
 
 ---
 
@@ -93,12 +96,12 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Dragon Breath | ![dragon](../assets/types/dragon.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 20 |
 | 1 | Scary Face | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 10 |
 | 6 | Ominous Wind | ![ghost](../assets/types/ghost.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 5 |
@@ -115,8 +118,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 ### TM Moves
 
-TM | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| TM | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | HM01 | Cut | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 20 |
 | HM02 | Fly | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 15 |
 | HM04 | Strength | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
@@ -166,7 +169,7 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 Giratina Altered cannot learn any moves by breeding.
 ### Tutor Moves
 
-Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | ---
+| Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- |
 | Draco Meteor | ![dragon](../assets/types/dragon.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 130 | 90 | 5 |
 

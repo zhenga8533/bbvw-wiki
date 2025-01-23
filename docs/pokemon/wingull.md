@@ -19,16 +19,18 @@ It soars high in the sky, riding on updrafts like a glider. It carries food tuck
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/wingull/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/wingull/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 Legacy:
-<p><audio controls>
-  <source src='../assets/cries/wingull/legacy.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/wingull/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -36,11 +38,8 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #278 | ![water](../assets/types/water.png){: width='48'} ![flying](../assets/types/flying.png){: width='48'} | 0.6 m | 9.5 kg | 1. Keen-Eye<br>2. Infiltrator | #N/A |
+| #278 | ![water](../assets/types/water.png){: width='48'} ![flying](../assets/types/flying.png){: width='48'} | 0.6 m | 9.5 kg | 1. Keen-Eye<br>2. Infiltrator | N/A |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -58,7 +57,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
@@ -67,7 +66,10 @@ Wingull has no alternate forms.
 ### Evolution Line
 
 1. [Wingull](wingull.md/)
-1. Level Up: [Pelipper](pelipper.md/)
+    1. Level Up: [Pelipper](pelipper.md/)
+
+
+
 
 ---
 
@@ -91,12 +93,12 @@ Wingull has no alternate forms.
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Growl | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 40 |
 | 1 | Water Gun | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 40 | 100 | 25 |
 | 6 | Supersonic | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 55 | 20 |
@@ -113,8 +115,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 ### TM Moves
 
-TM | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| TM | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | HM02 | Fly | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 15 |
 | TM06 | Toxic | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 10 |
 | TM07 | Hail | ![ice](../assets/types/ice.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
@@ -141,8 +143,8 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 
 ### Egg Moves
 
-Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | ---
+| Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- |
 | Gust | ![flying](../assets/types/flying.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 40 | 100 | 35 |
 | Mist | ![ice](../assets/types/ice.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 30 |
 | Agility | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 30 |

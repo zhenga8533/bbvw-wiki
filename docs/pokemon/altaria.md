@@ -19,16 +19,18 @@ If it bonds with a person, it will gently envelop the friend with its soft wings
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/altaria/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/altaria/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 Legacy:
-<p><audio controls>
-  <source src='../assets/cries/altaria/legacy.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/altaria/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -36,11 +38,8 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #334 | ![dragon](../assets/types/dragon.png){: width='48'} ![flying](../assets/types/flying.png){: width='48'} | 1.1 m | 20.6 kg | 1. Natural-Cure<br>2. Cloud-Nine | #N/A |
+| #334 | ![dragon](../assets/types/dragon.png){: width='48'} ![flying](../assets/types/flying.png){: width='48'} | 1.1 m | 20.6 kg | 1. Natural-Cure<br>2. Cloud-Nine | N/A |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -58,17 +57,19 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
-1. [Altaria](altaria.md/)
-2. [Altaria-Mega](altaria-mega.md/)
+Altaria has no alternate forms.
 
 ### Evolution Line
 
 1. [Swablu](swablu.md/)
-1. Level Up: [Altaria](altaria.md/)
+    1. Level Up: [Altaria](altaria.md/)
+
+
+
 
 ---
 
@@ -92,12 +93,12 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Astonish | ![ghost](../assets/types/ghost.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 30 | 100 | 15 |
 | 1 | Growl | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 40 |
 | 1 | Peck | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 35 | 100 | 35 |
@@ -123,8 +124,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 ### TM Moves
 
-TM | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| TM | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | HM02 | Fly | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 15 |
 | TM01 | Hone Claws | ![dark](../assets/types/dark.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
 | TM02 | Dragon Claw | ![dragon](../assets/types/dragon.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 100 | 15 |
@@ -188,7 +189,7 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 Altaria cannot learn any moves by breeding.
 ### Tutor Moves
 
-Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | ---
+| Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- |
 | Draco Meteor | ![dragon](../assets/types/dragon.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 130 | 90 | 5 |
 

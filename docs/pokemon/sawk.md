@@ -21,16 +21,18 @@
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/sawk/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/sawk/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 Legacy:
-<p><audio controls>
-  <source src='../assets/cries/sawk/legacy.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/sawk/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -40,9 +42,6 @@ Legacy:
 |------------|---------|--------|--------|-----------|---------|
 | #539 | ![fighting](../assets/types/fighting.png){: width='48'} | 1.4 m | 51.0 kg | 1. Sturdy<br>2. Mold-Breaker | #45 |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -60,7 +59,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
@@ -69,6 +68,8 @@ Sawk has no alternate forms.
 ### Evolution Line
 
 1. [Sawk](sawk.md/)
+
+
 
 ---
 
@@ -92,12 +93,12 @@ Sawk has no alternate forms.
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Fire Punch | ![fire](../assets/types/fire.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 100 | 15 |
 | 1 | Ice Punch | ![ice](../assets/types/ice.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 100 | 15 |
 | 1 | Leer | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 30 |
@@ -120,8 +121,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 ### TM Moves
 
-TM | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| TM | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | HM04 | Strength | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
 | TM06 | Toxic | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 10 |
 | TM08 | Bulk Up | ![fighting](../assets/types/fighting.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |

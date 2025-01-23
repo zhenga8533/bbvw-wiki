@@ -19,16 +19,18 @@ Its three heads move alternately, driving it through tough soil to depths of ove
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/dugtrio/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/dugtrio/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 Legacy:
-<p><audio controls>
-  <source src='../assets/cries/dugtrio/legacy.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/dugtrio/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -36,11 +38,8 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #51 | ![ground](../assets/types/ground.png){: width='48'} | 0.7 m | 33.3 kg | 1. Sand-Force<br>2. Arena-Trap | #N/A |
+| #51 | ![ground](../assets/types/ground.png){: width='48'} | 0.7 m | 33.3 kg | 1. Sand-Force<br>2. Arena-Trap | N/A |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -58,17 +57,19 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
-1. [Dugtrio](dugtrio.md/)
-2. [Dugtrio-Alola](dugtrio-alola.md/)
+Dugtrio has no alternate forms.
 
 ### Evolution Line
 
 1. [Diglett](diglett.md/)
-1. Level Up: [Dugtrio](dugtrio.md/)
+    1. Level Up: [Dugtrio](dugtrio.md/)
+
+
+
 
 ---
 
@@ -92,12 +93,12 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Growl | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 40 |
 | 1 | Night Slash | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 70 | 100 | 15 |
 | 1 | Sand Attack | ![ground](../assets/types/ground.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 15 |
@@ -119,8 +120,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 ### TM Moves
 
-TM | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| TM | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | HM01 | Cut | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 20 |
 | TM01 | Hone Claws | ![dark](../assets/types/dark.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
 | TM06 | Toxic | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 10 |

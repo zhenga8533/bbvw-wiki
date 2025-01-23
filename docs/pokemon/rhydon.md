@@ -25,16 +25,18 @@ Standing on its hind legs freed its forelegs and made it smarter. It is very for
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/rhydon/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/rhydon/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 Legacy:
-<p><audio controls>
-  <source src='../assets/cries/rhydon/legacy.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/rhydon/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -42,11 +44,8 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #112 | ![ground](../assets/types/ground.png){: width='48'} ![rock](../assets/types/rock.png){: width='48'} | 1.9 m | 120.0 kg | 1. Reckless<br>2. Rock-Head | #N/A |
+| #112 | ![ground](../assets/types/ground.png){: width='48'} ![rock](../assets/types/rock.png){: width='48'} | 1.9 m | 120.0 kg | 1. Reckless<br>2. Rock-Head | N/A |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -64,7 +63,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
@@ -73,8 +72,12 @@ Rhydon has no alternate forms.
 ### Evolution Line
 
 1. [Rhyhorn](rhyhorn.md/)
-1. Level Up: [Rhydon](rhydon.md/)
-1. Trade: [Rhyperior](rhyperior.md/)
+    1. Level Up: [Rhydon](rhydon.md/)
+        1. Trade: [Rhyperior](rhyperior.md/)
+
+
+
+
 
 ```
 Use the Protector.
@@ -102,12 +105,12 @@ Use the Protector.
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Fury Attack | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 15 | 85 | 20 |
 | 1 | Horn Attack | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 65 | 100 | 25 |
 | 1 | Stomp | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 65 | 100 | 20 |
@@ -132,8 +135,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 ### TM Moves
 
-TM | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| TM | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | HM01 | Cut | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 20 |
 | HM03 | Surf | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
 | HM04 | Strength | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |

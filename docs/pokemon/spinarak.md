@@ -19,16 +19,18 @@ It sets a trap by spinning a web with thin but strong silk. It waits motionlessl
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/spinarak/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/spinarak/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 Legacy:
-<p><audio controls>
-  <source src='../assets/cries/spinarak/legacy.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/spinarak/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -36,11 +38,8 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #167 | ![bug](../assets/types/bug.png){: width='48'} ![poison](../assets/types/poison.png){: width='48'} | 0.5 m | 8.5 kg | 1. Sniper<br>2. Insomnia | #N/A |
+| #167 | ![bug](../assets/types/bug.png){: width='48'} ![poison](../assets/types/poison.png){: width='48'} | 0.5 m | 8.5 kg | 1. Sniper<br>2. Insomnia | N/A |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -58,7 +57,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
@@ -67,7 +66,10 @@ Spinarak has no alternate forms.
 ### Evolution Line
 
 1. [Spinarak](spinarak.md/)
-1. Level Up: [Ariados](ariados.md/)
+    1. Level Up: [Ariados](ariados.md/)
+
+
+
 
 ---
 
@@ -91,12 +93,12 @@ Spinarak has no alternate forms.
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Poison Sting | ![poison](../assets/types/poison.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 15 | 100 | 35 |
 | 1 | String Shot | ![bug](../assets/types/bug.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 95 | 40 |
 | 5 | Scary Face | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 10 |
@@ -117,8 +119,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 ### TM Moves
 
-TM | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| TM | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | TM01 | Hone Claws | ![dark](../assets/types/dark.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
 | TM06 | Toxic | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 10 |
 | TM09 | Venoshock | ![poison](../assets/types/poison.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 65 | 100 | 10 |
@@ -145,8 +147,8 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 
 ### Egg Moves
 
-Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | ---
+| Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- |
 | Twineedle | ![bug](../assets/types/bug.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 25 | 100 | 20 |
 | Sonic Boom | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | 90 | 20 |
 | Disable | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 20 |

@@ -19,16 +19,18 @@ Some Pokémon are born on a Torterra’s back and spend their entire life there.
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/torterra/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/torterra/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 Legacy:
-<p><audio controls>
-  <source src='../assets/cries/torterra/legacy.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/torterra/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -36,11 +38,8 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #389 | ![grass](../assets/types/grass.png){: width='48'} ![ground](../assets/types/ground.png){: width='48'} | 2.2 m | 310.0 kg | 1. Overgrow<br>2. Sturdy | #N/A |
+| #389 | ![grass](../assets/types/grass.png){: width='48'} ![ground](../assets/types/ground.png){: width='48'} | 2.2 m | 310.0 kg | 1. Overgrow<br>2. Sturdy | N/A |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -58,7 +57,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
@@ -67,8 +66,12 @@ Torterra has no alternate forms.
 ### Evolution Line
 
 1. [Turtwig](turtwig.md/)
-1. Level Up: [Grotle](grotle.md/)
-1. Level Up: [Torterra](torterra.md/)
+    1. Level Up: [Grotle](grotle.md/)
+        1. Level Up: [Torterra](torterra.md/)
+
+
+
+
 
 ---
 
@@ -92,12 +95,12 @@ Torterra has no alternate forms.
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Absorb | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 50 | 100 | 25 |
 | 1 | Razor Leaf | ![grass](../assets/types/grass.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 55 | 95 | 25 |
 | 1 | Tackle | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 35 |
@@ -120,8 +123,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 ### TM Moves
 
-TM | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| TM | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | HM01 | Cut | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 20 |
 | HM04 | Strength | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
 | TM05 | Roar | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
@@ -162,8 +165,8 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 Torterra cannot learn any moves by breeding.
 ### Tutor Moves
 
-Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | ---
+| Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- |
 | Frenzy Plant | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 150 | 90 | 5 |
 | Grass Pledge | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 100 | 100 | 10 |
 

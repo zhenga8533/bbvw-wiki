@@ -1,6 +1,6 @@
 from dotenv import load_dotenv
 from util.file import load, save, verify_asset_path
-from util.format import create_image_table
+from util.format import create_image_table, verify_pokemon_form
 from util.logger import Logger
 import glob
 import json
@@ -39,7 +39,7 @@ def parse_evolution_line(evolution, pokemon_set, level=1, index=1):
                 md += parse_evolution_line(sub_evolution, pokemon_set, level + 1, i)
         md += "\n"
 
-    return md.strip()
+    return md
 
 
 def calculate_hp(base: int, iv: int, ev: int, level: int) -> int:
@@ -85,8 +85,8 @@ def parse_stats(stats: dict) -> str:
 def parse_moves(moves: list, headers: list, move_key: str, logger: Logger) -> str:
     MOVES_PATH = os.getenv("MOVES_PATH")
 
-    md_header = " | ".join(headers).strip()
-    md_separator = " | ".join(["---"] * len(headers)).strip()
+    md_header = f"| {' | '.join(headers).strip()} |"
+    md_separator = f"| {' | '.join(['---'] * len(headers)).strip()} |"
     md_body = ""
 
     for move in moves:
@@ -199,15 +199,15 @@ def to_md(pokemon: dict, pokemon_set: dict, logger: Logger) -> str:
     legacy_exists = verify_asset_path(legacy_cry, logger)
 
     if latest_exists:
-        md += "Latest (Gen VI+):\n<p><audio controls>\n"
-        md += f"  <source src='../assets/cries/{name_id}/latest.ogg' type='audio/ogg'>\n"
+        md += "Latest (Gen VI+):\n\n<audio controls>\n"
+        md += f"<source src='../../assets/cries/{name_id}/latest.ogg' type='audio/ogg'>\n"
         md += "  Your browser does not support the audio element.\n"
-        md += "</audio></p>\n\n"
+        md += "</audio>\n\n"
     if legacy_exists:
-        md += "Legacy:\n<p><audio controls>\n"
-        md += f"  <source src='../assets/cries/{name_id}/legacy.ogg' type='audio/ogg'>\n"
+        md += "Legacy:\n\n<audio controls>\n"
+        md += f"<source src='../../assets/cries/{name_id}/legacy.ogg' type='audio/ogg'>\n"
         md += "  Your browser does not support the audio element.\n"
-        md += "</audio></p>\n\n"
+        md += "</audio>\n\n"
     if not latest_exists and not legacy_exists:
         md += "No cries available.\n\n"
 
@@ -222,28 +222,29 @@ def to_md(pokemon: dict, pokemon_set: dict, logger: Logger) -> str:
     md += (
         f"| {"<br>".join([f"{i + 1}. {ability["name"].title()}" for i, ability in enumerate(pokemon["abilities"])])} "
     )
-    md += f"| #{pokemon["pokedex_numbers"].get("original-unova", "N/A")} |\n\n"
+    local_no = pokemon["pokedex_numbers"].get("original-unova", None)
+    md += f"| {"#" + str(local_no) if local_no else "N/A"} |\n\n"
 
     # Stats
-    md += "---\n\n## Base Stats\n"
     stats = pokemon["stats"]
     md += parse_stats(stats)
 
     # Forms
     md += "---\n\n## Forms & Evolutions\n\n"
     md += '!!! warning "WARNING"\n\n'
-    md += "    Some forms may not be available in Blaze Black/Volt White."
-    md += " Also information on evolutions may not be 100% accurate;"
-    md += " it is currently quite complex to track generational evolution data.\n\n"
+    md += "    Information on evolutions may not be 100% accurate;"
+    md += " differences between evolution methods across generations are not accounted for.\n\n"
 
     md += "### Forms\n\n"
-    forms = pokemon["forms"]
+    forms = []
+
+    for i, form in enumerate(pokemon["forms"]):
+        if form in pokemon_set:
+            forms.append(f"{i + 1}. [{form.title()}]({form}.md/)\n")
     if len(forms) == 1:
         md += f"{pokemon_name} has no alternate forms.\n\n"
     else:
-        for i, form in enumerate(forms):
-            md += f"{i + 1}. [{form.title()}]({form}.md/)\n"
-        md += "\n"
+        md += "\n".join(forms) + "\n\n"
 
     # Evolutions
     md += "### Evolution Line\n\n"
@@ -318,7 +319,7 @@ def to_md(pokemon: dict, pokemon_set: dict, logger: Logger) -> str:
     md += "---\n\n## Moves\n\n"
     md += '!!! warning "WARNING"\n\n'
     md += "    Specific move information may be incorrect. "
-    md += "However, the general movepool should be accurate (including changes to learnset).\n\n"
+    md += "However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.\n\n"
 
     # Level Up Moves
     md += "### Level Up Moves\n\n"
@@ -392,12 +393,13 @@ def main():
 
         for file_path in files:
             new_name = file_path.split("\\")[-1].split(".")[0]
-            pokemon_set.add(new_name)
 
             if new_name == name:
                 species.append(new_name)
-            else:
+                pokemon_set.add(new_name)
+            elif verify_pokemon_form(new_name, logger):
                 forms.append(new_name)
+                pokemon_set.add(new_name)
 
     # Remove duplicate forms
     for form in forms[:]:
@@ -434,6 +436,10 @@ def main():
 
         for file_path in files:
             data = json.loads(load(file_path, logger))
+            form_name = data["name"]
+            if form_name not in pokemon_set:
+                continue
+
             md = to_md(data, pokemon_set, logger)
             save(f"{POKEMON_OUTPUT_PATH}{data["name"]}.md", md, logger)
 

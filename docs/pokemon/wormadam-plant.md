@@ -19,16 +19,18 @@ When evolving, its body takes in surrounding materials. As a result, there are m
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/wormadam-plant/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/wormadam-plant/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 Legacy:
-<p><audio controls>
-  <source src='../assets/cries/wormadam-plant/legacy.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/wormadam-plant/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -36,11 +38,8 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #413 | ![bug](../assets/types/bug.png){: width='48'} ![grass](../assets/types/grass.png){: width='48'} | 0.5 m | 6.5 kg | 1. Anticipation<br>2. Leaf-Guard | #N/A |
+| #413 | ![bug](../assets/types/bug.png){: width='48'} ![grass](../assets/types/grass.png){: width='48'} | 0.5 m | 6.5 kg | 1. Anticipation<br>2. Leaf-Guard | N/A |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -58,22 +57,30 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
 1. [Wormadam-Plant](wormadam-plant.md/)
+
 2. [Wormadam-Sandy](wormadam-sandy.md/)
+
 3. [Wormadam-Trash](wormadam-trash.md/)
+
 
 ### Evolution Line
 
 1. [Burmy](burmy.md/)
-1. Level Up: [Wormadam-Plant](wormadam-plant.md/)
+    1. Level Up: [Wormadam-Plant](wormadam-plant.md/)
 
     1. Level Up: [Wormadam-Sandy](wormadam-sandy.md/)
 
-    1. Level Up: [Wormadam-Trash](wormadam-trash.md/)2. Level Up: [Mothim](mothim.md/)
+    1. Level Up: [Wormadam-Trash](wormadam-trash.md/)
+
+    2. Level Up: [Mothim](mothim.md/)
+
+
+
 
 ---
 
@@ -97,12 +104,12 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Tackle | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 35 |
 | 10 | Protect | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
 | 15 | Bug Bite | ![bug](../assets/types/bug.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 20 |
@@ -119,8 +126,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 ### TM Moves
 
-TM | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| TM | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | TM06 | Toxic | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 10 |
 | TM09 | Venoshock | ![poison](../assets/types/poison.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 65 | 100 | 10 |
 | TM10 | Hidden Power | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 15 |

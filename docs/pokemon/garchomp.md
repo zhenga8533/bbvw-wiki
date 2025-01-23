@@ -25,16 +25,18 @@ It is said that when one runs at high speed, its wings create blades of wind tha
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/garchomp/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/garchomp/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 Legacy:
-<p><audio controls>
-  <source src='../assets/cries/garchomp/legacy.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/garchomp/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -42,11 +44,8 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #445 | ![dragon](../assets/types/dragon.png){: width='48'} ![ground](../assets/types/ground.png){: width='48'} | 1.9 m | 95.0 kg | 1. Sand-Veil<br>2. Rough-Skin | #N/A |
+| #445 | ![dragon](../assets/types/dragon.png){: width='48'} ![ground](../assets/types/ground.png){: width='48'} | 1.9 m | 95.0 kg | 1. Sand-Veil<br>2. Rough-Skin | N/A |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -64,18 +63,21 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
-1. [Garchomp](garchomp.md/)
-2. [Garchomp-Mega](garchomp-mega.md/)
+Garchomp has no alternate forms.
 
 ### Evolution Line
 
 1. [Gible](gible.md/)
-1. Level Up: [Gabite](gabite.md/)
-1. Level Up: [Garchomp](garchomp.md/)
+    1. Level Up: [Gabite](gabite.md/)
+        1. Level Up: [Garchomp](garchomp.md/)
+
+
+
+
 
 ---
 
@@ -99,12 +101,12 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Aqua Tail | ![water](../assets/types/water.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 90 | 90 | 10 |
 | 1 | Dragon Rage | ![dragon](../assets/types/dragon.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | 100 | 10 |
 | 1 | Fire Fang | ![fire](../assets/types/fire.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 75 | 95 | 15 |
@@ -127,8 +129,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 ### TM Moves
 
-TM | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| TM | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | HM01 | Cut | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 20 |
 | HM02 | Fly | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 15 |
 | HM02 | Fly | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 15 |
@@ -187,7 +189,7 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 Garchomp cannot learn any moves by breeding.
 ### Tutor Moves
 
-Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | ---
+| Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- |
 | Draco Meteor | ![dragon](../assets/types/dragon.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 130 | 90 | 5 |
 

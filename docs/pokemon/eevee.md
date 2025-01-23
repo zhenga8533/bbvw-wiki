@@ -19,16 +19,18 @@ Because its genetic makeup is irregular, it quickly changes its form due to a va
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/eevee/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/eevee/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 Legacy:
-<p><audio controls>
-  <source src='../assets/cries/eevee/legacy.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/eevee/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -36,11 +38,8 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #133 | ![normal](../assets/types/normal.png){: width='48'} | 0.3 m | 6.5 kg | 1. Anticipation<br>2. Adaptability | #N/A |
+| #133 | ![normal](../assets/types/normal.png){: width='48'} | 0.3 m | 6.5 kg | 1. Anticipation<br>2. Adaptability | N/A |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -58,18 +57,31 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
-1. [Eevee](eevee.md/)
-2. [Eevee-Starter](eevee-starter.md/)
-3. [Eevee-Gmax](eevee-gmax.md/)
+Eevee has no alternate forms.
 
 ### Evolution Line
 
 1. [Eevee](eevee.md/)
-1. Use Item: [Vaporeon](vaporeon.md/)2. Use Item: [Jolteon](jolteon.md/)3. Use Item: [Flareon](flareon.md/)4. Level Up: [Espeon](espeon.md/)5. Level Up: [Umbreon](umbreon.md/)6. Use Item: [Leafeon](leafeon.md/)7. Use Item: [Glaceon](glaceon.md/)
+    1. Use Item: [Vaporeon](vaporeon.md/)
+
+    2. Use Item: [Jolteon](jolteon.md/)
+
+    3. Use Item: [Flareon](flareon.md/)
+
+    4. Level Up: [Espeon](espeon.md/)
+
+    5. Level Up: [Umbreon](umbreon.md/)
+
+    6. Use Item: [Leafeon](leafeon.md/)
+
+    7. Use Item: [Glaceon](glaceon.md/)
+
+
+
 
 ---
 
@@ -93,12 +105,12 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Growth | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
 | 1 | Helping Hand | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
 | 1 | Tackle | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 35 |
@@ -116,8 +128,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 ### TM Moves
 
-TM | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| TM | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | TM06 | Toxic | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 10 |
 | TM10 | Hidden Power | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 15 |
 | TM11 | Sunny Day | ![fire](../assets/types/fire.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
@@ -151,8 +163,8 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 
 ### Egg Moves
 
-Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | ---
+| Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- |
 | Curse | ![ghost](../assets/types/ghost.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
 | Flail | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 15 |
 | Detect | ![fighting](../assets/types/fighting.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |

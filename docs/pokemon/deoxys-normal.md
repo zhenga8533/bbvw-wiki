@@ -19,16 +19,18 @@ An alien virus that fell to earth on a meteor underwent a DNA mutation to become
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/deoxys-normal/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/deoxys-normal/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 Legacy:
-<p><audio controls>
-  <source src='../assets/cries/deoxys-normal/legacy.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/deoxys-normal/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -36,11 +38,8 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #386 | ![psychic](../assets/types/psychic.png){: width='48'} | 1.7 m | 60.8 kg | 1. Pressure | #N/A |
+| #386 | ![psychic](../assets/types/psychic.png){: width='48'} | 1.7 m | 60.8 kg | 1. Pressure | N/A |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -58,14 +57,18 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
 1. [Deoxys-Normal](deoxys-normal.md/)
+
 2. [Deoxys-Attack](deoxys-attack.md/)
+
 3. [Deoxys-Defense](deoxys-defense.md/)
+
 4. [Deoxys-Speed](deoxys-speed.md/)
+
 
 ### Evolution Line
 
@@ -76,6 +79,8 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 1. [Deoxys-Normal](deoxys-normal.md/)
 
 1. [Deoxys-Speed](deoxys-speed.md/)
+
+
 
 ---
 
@@ -99,12 +104,12 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Leer | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 30 |
 | 1 | Wrap | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 15 | 90 | 20 |
 | 9 | Night Shade | ![ghost](../assets/types/ghost.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | 100 | 15 |
@@ -122,8 +127,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 ### TM Moves
 
-TM | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| TM | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | HM01 | Cut | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 20 |
 | HM04 | Strength | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
 | TM03 | Psyshock | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 80 | 100 | 10 |

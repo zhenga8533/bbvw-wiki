@@ -1,4 +1,5 @@
 from util.file import verify_asset_path
+from util.logger import Logger
 import keyword
 import logging
 import os
@@ -80,3 +81,36 @@ def remove_special_characters(s: str) -> str:
     """
 
     return re.sub(r"[^a-zA-Z0-9\s-]", "", s)
+
+
+def verify_pokemon_form(id: str, logger: Logger) -> bool:
+    pokemon_with_forms = [
+        "wormadam",
+        "shaymin",
+        "giratina",
+        "rotom",
+        "deoxys",
+        "basculin",
+        "darmanitan",
+        "keldeo",
+        "meloetta",
+        "tornadus",
+        "thundurus",
+        "landorus",
+    ]
+    illegal_forms = ["white-striped", "galar"]
+
+    # Check if the form is invalid
+    for form in illegal_forms:
+        if form in id:
+            logger.log(logging.DEBUG, f"Illegal form {id}")
+            return False
+
+    # Validate if the Pokemon has a form
+    for pokemon in pokemon_with_forms:
+        if pokemon in id:
+            logger.log(logging.DEBUG, f"Valid form {id} for {pokemon}")
+            return True
+
+    logger.log(logging.DEBUG, f"Invalid form {id}")
+    return False

@@ -19,16 +19,18 @@ It has the ability to reconstitute its entire cellular structure to transform in
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/ditto/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/ditto/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 Legacy:
-<p><audio controls>
-  <source src='../assets/cries/ditto/legacy.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/ditto/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -36,11 +38,8 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #132 | ![normal](../assets/types/normal.png){: width='48'} | 0.3 m | 4.0 kg | 1. Imposter | #N/A |
+| #132 | ![normal](../assets/types/normal.png){: width='48'} | 0.3 m | 4.0 kg | 1. Imposter | N/A |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -58,7 +57,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
@@ -67,6 +66,8 @@ Ditto has no alternate forms.
 ### Evolution Line
 
 1. [Ditto](ditto.md/)
+
+
 
 ---
 
@@ -90,12 +91,12 @@ Ditto has no alternate forms.
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Transform | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
 
 ### TM Moves

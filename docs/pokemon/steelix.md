@@ -25,16 +25,18 @@ It is thought its body transformed as a result of iron accumulating internally f
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/steelix/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/steelix/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 Legacy:
-<p><audio controls>
-  <source src='../assets/cries/steelix/legacy.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/steelix/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -42,11 +44,8 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #208 | ![steel](../assets/types/steel.png){: width='48'} ![ground](../assets/types/ground.png){: width='48'} | 9.2 m | 400.0 kg | 1. Sheer-Force<br>2. Sturdy | #N/A |
+| #208 | ![steel](../assets/types/steel.png){: width='48'} ![ground](../assets/types/ground.png){: width='48'} | 9.2 m | 400.0 kg | 1. Sheer-Force<br>2. Sturdy | N/A |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -64,17 +63,19 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
-1. [Steelix](steelix.md/)
-2. [Steelix-Mega](steelix-mega.md/)
+Steelix has no alternate forms.
 
 ### Evolution Line
 
 1. [Onix](onix.md/)
-1. Trade: [Steelix](steelix.md/)
+    1. Trade: [Steelix](steelix.md/)
+
+
+
 
 ---
 
@@ -98,12 +99,12 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Bind | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 15 | 85 | 20 |
 | 1 | Fire Fang | ![fire](../assets/types/fire.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 75 | 95 | 15 |
 | 1 | Harden | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 30 |
@@ -130,8 +131,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 ### TM Moves
 
-TM | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| TM | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | HM01 | Cut | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 20 |
 | HM04 | Strength | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
 | TM05 | Roar | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |

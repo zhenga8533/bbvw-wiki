@@ -19,16 +19,18 @@ Its cell composition is similar to water molecules. As a result, it can melt awa
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/vaporeon/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/vaporeon/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 Legacy:
-<p><audio controls>
-  <source src='../assets/cries/vaporeon/legacy.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/vaporeon/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -36,11 +38,8 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #134 | ![water](../assets/types/water.png){: width='48'} | 1.0 m | 29.0 kg | 1. Water-Absorb<br>2. Hydration | #N/A |
+| #134 | ![water](../assets/types/water.png){: width='48'} | 1.0 m | 29.0 kg | 1. Water-Absorb<br>2. Hydration | N/A |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -58,7 +57,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
@@ -67,7 +66,22 @@ Vaporeon has no alternate forms.
 ### Evolution Line
 
 1. [Eevee](eevee.md/)
-1. Use Item: [Vaporeon](vaporeon.md/)2. Use Item: [Jolteon](jolteon.md/)3. Use Item: [Flareon](flareon.md/)4. Level Up: [Espeon](espeon.md/)5. Level Up: [Umbreon](umbreon.md/)6. Use Item: [Leafeon](leafeon.md/)7. Use Item: [Glaceon](glaceon.md/)
+    1. Use Item: [Vaporeon](vaporeon.md/)
+
+    2. Use Item: [Jolteon](jolteon.md/)
+
+    3. Use Item: [Flareon](flareon.md/)
+
+    4. Level Up: [Espeon](espeon.md/)
+
+    5. Level Up: [Umbreon](umbreon.md/)
+
+    6. Use Item: [Leafeon](leafeon.md/)
+
+    7. Use Item: [Glaceon](glaceon.md/)
+
+
+
 
 ---
 
@@ -91,12 +105,12 @@ Vaporeon has no alternate forms.
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Growth | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
 | 1 | Helping Hand | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
 | 1 | Tackle | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 35 |
@@ -118,8 +132,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 ### TM Moves
 
-TM | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| TM | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | HM03 | Surf | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
 | HM04 | Strength | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
 | HM05 | Waterfall | ![water](../assets/types/water.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |

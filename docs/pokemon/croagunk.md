@@ -25,16 +25,18 @@ It rarely fights fairly, but that is strictly to ensure survival. It is popular 
 ### Cries
 
 Latest (Gen VI+):
-<p><audio controls>
-  <source src='../assets/cries/croagunk/latest.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/croagunk/latest.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 Legacy:
-<p><audio controls>
-  <source src='../assets/cries/croagunk/legacy.ogg' type='audio/ogg'>
+
+<audio controls>
+<source src='../../assets/cries/croagunk/legacy.ogg' type='audio/ogg'>
   Your browser does not support the audio element.
-</audio></p>
+</audio>
 
 ---
 
@@ -42,11 +44,8 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #453 | ![poison](../assets/types/poison.png){: width='48'} ![fighting](../assets/types/fighting.png){: width='48'} | 0.7 m | 23.0 kg | 1. Poison-Touch<br>2. Dry-Skin | #N/A |
+| #453 | ![poison](../assets/types/poison.png){: width='48'} ![fighting](../assets/types/fighting.png){: width='48'} | 0.7 m | 23.0 kg | 1. Poison-Touch<br>2. Dry-Skin | N/A |
 
----
-
-## Base Stats
 ---
 
 ## Base Stats
@@ -64,7 +63,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 !!! warning "WARNING"
 
-    Some forms may not be available in Blaze Black/Volt White. Also information on evolutions may not be 100% accurate; it is currently quite complex to track generational evolution data.
+    Information on evolutions may not be 100% accurate; differences between evolution methods across generations are not accounted for.
 
 ### Forms
 
@@ -73,7 +72,10 @@ Croagunk has no alternate forms.
 ### Evolution Line
 
 1. [Croagunk](croagunk.md/)
-1. Level Up: [Toxicroak](toxicroak.md/)
+    1. Level Up: [Toxicroak](toxicroak.md/)
+
+
+
 
 ---
 
@@ -97,12 +99,12 @@ Croagunk has no alternate forms.
 
 !!! warning "WARNING"
 
-    Specific move information may be incorrect. However, the general movepool should be accurate (including changes to learnset).
+    Specific move information may be incorrect. However, the general movepool should be accurate; this includes changes made in Blaze Black and Volt White.
 
 ### Level Up Moves
 
-Lv. | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| Lv. | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | 1 | Astonish | ![ghost](../assets/types/ghost.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 30 | 100 | 15 |
 | 3 | Mud Slap | ![ground](../assets/types/ground.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 20 | 100 | 10 |
 | 8 | Poison Sting | ![poison](../assets/types/poison.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 15 | 100 | 35 |
@@ -124,8 +126,8 @@ Lv. | Move | Type | Cat. | Power | Acc. | PP
 
 ### TM Moves
 
-TM | Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | --- | ---
+| TM | Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- | --- |
 | HM04 | Strength | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
 | TM06 | Toxic | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 10 |
 | TM08 | Bulk Up | ![fighting](../assets/types/fighting.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
@@ -168,8 +170,8 @@ TM | Move | Type | Cat. | Power | Acc. | PP
 
 ### Egg Moves
 
-Move | Type | Cat. | Power | Acc. | PP
---- | --- | --- | --- | --- | ---
+| Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- |
 | Headbutt | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 70 | 100 | 15 |
 | Counter | ![fighting](../assets/types/fighting.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 20 |
 | Meditate | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 40 |
