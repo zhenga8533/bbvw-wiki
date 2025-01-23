@@ -36,31 +36,32 @@ def main():
 
         # Empty Lines
         if line == "":
-            continue
+            listing = 0
         # Start of a new section
         elif next_line.startswith("Battle Type"):
-            # Close previous section
-            if teaming:
-                for p in pokemon_sets:
-                    md += "\n" + p.to_string()
+            if len(pokemon_sets) > 0:
+                for pokemon_set in pokemon_sets:
+                    md += pokemon_set.to_string() + "\n"
+                md = md.rstrip()
                 pokemon_sets = []
-
+            if teaming:
                 md += "</code></pre>\n\n"
-                listing = 0
 
             md += f"---\n\n## {line}\n\n<pre><code>"
             teaming = True
         elif line.startswith("Battle Type:") or line.startswith("Reward:") or line.startswith("Location:"):
-            s = line.split(": ")
-            md += f"<b>{s[0]}:</b> {s[1]}\n"
+            category, value = line.split(": ")
+            md += f"<b>{category}:</b> {value}\n"
         # Pokémon Team
         elif "’s Team" in line:
-            for p in pokemon_sets:
-                md += "\n" + p.to_string()
-            pokemon_sets = []
-            listing = 1
+            if len(pokemon_sets) > 0:
+                for pokemon_set in pokemon_sets:
+                    md += pokemon_set.to_string() + "\n"
+                md = md.rstrip()
+                pokemon_sets = []
 
-            md += f"\n<b><u>{line}</u></b>\n"
+            md += "</code></pre>\n\n<pre><code>"
+            md += f"<u><b>{line}</b></u>\n\n"
         # Pokémon Team Details
         elif (
             line.startswith("Species")
@@ -88,9 +89,7 @@ def main():
                 listing += 1
         # Misc lines
         else:
-            md += f"{line}\n"
-            if not teaming:
-                md += "\n"
+            md += f"{line}\n\n"
 
     if len(pokemon_sets) > 0:
         for p in pokemon_sets:
