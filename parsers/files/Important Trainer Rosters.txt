@@ -120,7 +120,7 @@ Blaze
 
 
                                
-Gym Leader Cilan, Gym Leader Cress, Gym Leader Chili
+Gym Leader Cilan
 Battle Type: Rotation Battle (First Fight) / Triple Battle (Rematch)
 Reward: TM83 Work Up
 
@@ -151,6 +151,10 @@ Move #2	Light Screen	Earthquake	Petal Dance	Focus Blast	Crunch	Rock Slide
 Move #3	Reflect	Power Whip	Toxic	Dragon Pulse	Wood Hammer	Shadow Claw
 Move #4	Sunny Day	Sludge Bomb	Leech Seed	Leaf Storm	Stone Edge	Low Kick
 
+Gym Leader Cress
+Battle Type: Rotation Battle (First Fight) / Triple Battle (Rematch)
+Reward: TM83 Work Up
+
  Cress’s Team – Striaton Gym
 
 			
@@ -175,6 +179,10 @@ Move #1	Shell Smash	Shell Smash	Dragon Dance	Earthquake	Hydro Pump	Hydro Pump
 Move #2	Aqua Jet	Hydro Pump	Waterfall	Waterfall	Flash Cannon	Ice Beam
 Move #3	Megahorn	Blizzard	Crunch	Avalanche	Grass Knot	Grass Knot
 Move #4	Razor Shell	Focus Blast	Earthquake	Hammer Arm	Aqua Jet	Focus Blast
+
+Gym Leader Chili
+Battle Type: Rotation Battle (First Fight) / Triple Battle (Rematch)
+Reward: TM83 Work Up
 
  Chili’s Team – Striaton Gym
 
@@ -555,8 +563,10 @@ Location: Chargestone Cave
 N’s Team
 
 			
-Species	Rotom	Rotom	Rotom	Rotom	Rotom	Rotom
+Species	Rotom	Rotom Heat	Rotom Wash	Rotom Frost	Rotom Fan	Rotom Mow
 Level	47	47	47	47	47	47
+Ability (Reg)	Levitate	Levitate	Levitate	Levitate	Levitate	Levitate
+Ability (Cln)	Levitate	Levitate	Levitate	Levitate	Levitate	Levitate
 
 
 
@@ -980,9 +990,9 @@ Earthquake
 
 
 Elite Four Shauntal
-Battle Type: Double Battle
+Battle Type: Double Battle (First Fight) / Single Battle (Rematch)
 
- Shauntal’s First Team
+ Shauntal’s Team – First Fight
 
 			
 Species	Drifblim	Golurk	Mismagius	Froslass	Jellicent	Chandelure
@@ -996,8 +1006,7 @@ Move #2	Shadow Ball	Shadow Punch	Nasty Plot	Blizzard	Hydro Pump	Fire Blast
 Move #3	Thunderbolt	Hammer Arm	Thunderbolt	Thunderbolt	Will-O-Wisp	Energy Ball
 Move #4	Hurricane	Rock Polish	Will-O-Wisp	Will-O-Wisp	Recover	Psychic
 
- Shauntal’s Second Team
-Battle Type: Single Battle
+ Shauntal’s Team – Rematch
 
 			
 Species	Cofagrigus	Gengar	Sableye	Golurk	Jellicent	Chandelure
@@ -1014,9 +1023,9 @@ Move #4	Disable	Sludge Bomb	Will-O-Wisp	Substitute	Will-O-Wisp	Calm Mind
 
 
 Elite Four Grimsley
-Battle Type: Double Battle
+Battle Type: Double Battle (First Fight) / Single Battle (Rematch)
 
- Grimsley’s First Team
+ Grimsley’s Team – First Fight
 
 			
 Species	Sharpedo	Liepard	Honchkrow	Absol	Houndoom	Bisharp
@@ -1029,8 +1038,7 @@ Move #2	Crunch	Sucker Punch	Brave Bird	Night Slash	Fire Blast	X-Scissor
 Move #3	Aqua Jet	Charm	Sucker Punch	Psycho Cut	Sucker Punch	Leaf Blade
 Move #4	Hydro Pump	Wild Charge	Heat Wave	Perish Song	Hidden Power	Stone Edge
 
- Grimsley’s Second Team
-Battle Type: Single Battle
+ Grimsley’s Team – Rematch
 
 			
 Species	Honchkrow	Sharpedo	Weavile	Houndoom	Bisharp	Zoroark
@@ -1046,9 +1054,9 @@ Move #4	Heat Wave	Aqua Jet	X-Scissor	SolarBeam	Swagger	Grass Knot
 
 
 Elite Four Marshal
-Battle Type: Double Battle
+Battle Type: Double Battle (First Fight) / Single Battle (Rematch)
 
- Marshal’s First Team
+ Marshal’s Team – First Fight
 
 			
 Species	Throh	Sawk	Breloom	Poliwrath	Mienshao	Conkeldurr
@@ -1061,8 +1069,7 @@ Move #2	Facade	Stone Edge	Bullet Seed	Brick Break	High Jump Kick	Drain Punch
 Move #3	Fling	Payback	Drain Punch	Icy Wind	U-turn	Stone Edge
 Move #4	Rock Slide	Return	Mach Punch	Vacuum Wave	Stone Edge	Rest
 
- Marshal’s Second Team
-Battle Type: Single Battle 
+ Marshal’s Team – Rematch
 
 			
 Species	Mienshao	Breloom	Scrafty	Lucario	Blaziken	Conkeldurr
@@ -1079,9 +1086,9 @@ Move #4	Hidden Power	Seed Bomb	Head Smash	Bullet Punch	Baton Pass	Drain Punch
 
 
 Elite Four Caitlin
-Battle Type: Double Battle
+Battle Type: Double Battle (First Fight) / Single Battle (Rematch)
 
- Caitlin’s First Team
+ Caitlin’s Team – First Fight
 
 			
 Species	Musharna	Sigilyph	Beheeyem	Bronzong	Gothitelle	Reuniclus
@@ -1094,8 +1101,7 @@ Move #2	Psyshock	Hurricane	Thunderbolt	Rest	Focus Blast	Thunder
 Move #3	Reflect	Psychic	Psychic	Earthquake	Psychic	Psychic
 Move #4	Light Screen	Ice Beam	Energy Ball	Gyro Ball	Thunderbolt	Energy Ball
 
- Caitlin’s Second Team
-Battle Type: Single Battle
+ Caitlin’s Team – Rematch
 
 			
 Species	Musharna	Gardevoir	Sigilyph	Gothitelle	Reuniclus	Metagross

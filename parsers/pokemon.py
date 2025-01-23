@@ -200,12 +200,12 @@ def to_md(pokemon: dict, pokemon_set: dict, logger: Logger) -> str:
 
     if latest_exists:
         md += "Latest (Gen VI+):\n\n<audio controls>\n"
-        md += f"<source src='../../assets/cries/{name_id}/latest.ogg' type='audio/ogg'>\n"
+        md += f"<source src='../{latest_cry}' type='audio/ogg'>\n"
         md += "  Your browser does not support the audio element.\n"
         md += "</audio>\n\n"
     if legacy_exists:
         md += "Legacy:\n\n<audio controls>\n"
-        md += f"<source src='../../assets/cries/{name_id}/legacy.ogg' type='audio/ogg'>\n"
+        md += f"<source src='../{legacy_cry}' type='audio/ogg'>\n"
         md += "  Your browser does not support the audio element.\n"
         md += "</audio>\n\n"
     if not latest_exists and not legacy_exists:

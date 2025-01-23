@@ -122,7 +122,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 
 ---
 
-## Gym Leader Cilan, Gym Leader Cress, Gym Leader Chili
+## Gym Leader Cilan
 
 <pre><code><b>Battle Type:</b> Rotation Battle (First Fight) / Triple Battle (Rematch)
 <b>Reward:</b> TM83 Work Up
@@ -238,6 +238,14 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 2. Rock Slide
 3. Shadow Claw
 4. Low Kick
+</code></pre>
+
+---
+
+## Gym Leader Cress
+
+<pre><code><b>Battle Type:</b> Rotation Battle (First Fight) / Triple Battle (Rematch)
+<b>Reward:</b> TM83 Work Up
 
 <b><u>Cress’s Team – Striaton Gym</u></b>
 
@@ -350,6 +358,14 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 2. Ice Beam
 3. Grass Knot
 4. Focus Blast
+</code></pre>
+
+---
+
+## Gym Leader Chili
+
+<pre><code><b>Battle Type:</b> Rotation Battle (First Fight) / Triple Battle (Rematch)
+<b>Reward:</b> TM83 Work Up
 
 <b><u>Chili’s Team – Striaton Gym</u></b>
 
@@ -1240,27 +1256,27 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 <b><u>N’s Team</u></b>
 
 <a href='/bbvw-wiki/pokemon/rotom/'><b>Rotom</b></a> @ No Item
-<b>Ability:</b> ?
+<b>Ability:</b> Levitate
 <b>Level:</b> 47
 
-<a href='/bbvw-wiki/pokemon/rotom/'><b>Rotom</b></a> @ No Item
-<b>Ability:</b> ?
+<a href='/bbvw-wiki/pokemon/rotom-heat/'><b>Rotom Heat</b></a> @ No Item
+<b>Ability:</b> Levitate
 <b>Level:</b> 47
 
-<a href='/bbvw-wiki/pokemon/rotom/'><b>Rotom</b></a> @ No Item
-<b>Ability:</b> ?
+<a href='/bbvw-wiki/pokemon/rotom-wash/'><b>Rotom Wash</b></a> @ No Item
+<b>Ability:</b> Levitate
 <b>Level:</b> 47
 
-<a href='/bbvw-wiki/pokemon/rotom/'><b>Rotom</b></a> @ No Item
-<b>Ability:</b> ?
+<a href='/bbvw-wiki/pokemon/rotom-frost/'><b>Rotom Frost</b></a> @ No Item
+<b>Ability:</b> Levitate
 <b>Level:</b> 47
 
-<a href='/bbvw-wiki/pokemon/rotom/'><b>Rotom</b></a> @ No Item
-<b>Ability:</b> ?
+<a href='/bbvw-wiki/pokemon/rotom-fan/'><b>Rotom Fan</b></a> @ No Item
+<b>Ability:</b> Levitate
 <b>Level:</b> 47
 
-<a href='/bbvw-wiki/pokemon/rotom/'><b>Rotom</b></a> @ No Item
-<b>Ability:</b> ?
+<a href='/bbvw-wiki/pokemon/rotom-mow/'><b>Rotom Mow</b></a> @ No Item
+<b>Ability:</b> Levitate
 <b>Level:</b> 47
 </code></pre>
 
@@ -2102,8 +2118,9 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 
 ## Elite Four Shauntal
 
-<pre><code><b>Battle Type:</b> Double Battle
-Shauntal’s First Team
+<pre><code><b>Battle Type:</b> Double Battle (First Fight) / Single Battle (Rematch)
+
+<b><u>Shauntal’s Team – First Fight</u></b>
 
 <a href='/bbvw-wiki/pokemon/drifblim/'><b>Drifblim</b></a> @ No Item
 <b>Ability:</b> Flare Boost
@@ -2158,13 +2175,8 @@ Shauntal’s First Team
 2. Fire Blast
 3. Energy Ball
 4. Psychic
-</code></pre>
 
----
-
-## Shauntal’s Second Team
-
-<pre><code><b>Battle Type:</b> Single Battle
+<b><u>Shauntal’s Team – Rematch</u></b>
 
 <a href='/bbvw-wiki/pokemon/cofagrigus/'><b>Cofagrigus</b></a> @ No Item
 <b>Ability:</b> Mummy
@@ -2225,8 +2237,9 @@ Shauntal’s First Team
 
 ## Elite Four Grimsley
 
-<pre><code><b>Battle Type:</b> Double Battle
-Grimsley’s First Team
+<pre><code><b>Battle Type:</b> Double Battle (First Fight) / Single Battle (Rematch)
+
+<b><u>Grimsley’s Team – First Fight</u></b>
 
 <a href='/bbvw-wiki/pokemon/sharpedo/'><b>Sharpedo</b></a> @ Rocky Helmet
 <b>Ability:</b> Speed Boost
@@ -2281,13 +2294,8 @@ Grimsley’s First Team
 2. X-Scissor
 3. Leaf Blade
 4. Stone Edge
-</code></pre>
 
----
-
-## Grimsley’s Second Team
-
-<pre><code><b>Battle Type:</b> Single Battle
+<b><u>Grimsley’s Team – Rematch</u></b>
 
 <a href='/bbvw-wiki/pokemon/honchkrow/'><b>Honchkrow</b></a> @ Flying Gem
 <b>Ability:</b> Moxie
@@ -2348,8 +2356,9 @@ Grimsley’s First Team
 
 ## Elite Four Marshal
 
-<pre><code><b>Battle Type:</b> Double Battle
-Marshal’s First Team
+<pre><code><b>Battle Type:</b> Double Battle (First Fight) / Single Battle (Rematch)
+
+<b><u>Marshal’s Team – First Fight</u></b>
 
 <a href='/bbvw-wiki/pokemon/throh/'><b>Throh</b></a> @ Flame Orb
 <b>Ability:</b> Guts
@@ -2404,13 +2413,8 @@ Marshal’s First Team
 2. Drain Punch
 3. Stone Edge
 4. Rest
-</code></pre>
 
----
-
-## Marshal’s Second Team
-
-<pre><code><b>Battle Type:</b> Single Battle
+<b><u>Marshal’s Team – Rematch</u></b>
 
 <a href='/bbvw-wiki/pokemon/mienshao/'><b>Mienshao</b></a> @ No Item
 <b>Ability:</b> Reckless
@@ -2471,8 +2475,9 @@ Marshal’s First Team
 
 ## Elite Four Caitlin
 
-<pre><code><b>Battle Type:</b> Double Battle
-Caitlin’s First Team
+<pre><code><b>Battle Type:</b> Double Battle (First Fight) / Single Battle (Rematch)
+
+<b><u>Caitlin’s Team – First Fight</u></b>
 
 <a href='/bbvw-wiki/pokemon/musharna/'><b>Musharna</b></a> @ Light Clay
 <b>Ability:</b> Telepathy
@@ -2527,13 +2532,8 @@ Caitlin’s First Team
 2. Thunder
 3. Psychic
 4. Energy Ball
-</code></pre>
 
----
-
-## Caitlin’s Second Team
-
-<pre><code><b>Battle Type:</b> Single Battle
+<b><u>Caitlin’s Team – Rematch</u></b>
 
 <a href='/bbvw-wiki/pokemon/musharna/'><b>Musharna</b></a> @ Chesto Berry
 <b>Ability:</b> Analytic

@@ -701,7 +701,7 @@ Rippling Surfing, 1%
 Giant Chasm
 
 
-Giant Chasm – Outside Area
+Giant Chasm – Outside
 Grass: Absol (20%), Drifblim (20%), Swellow (10%), Lunatone (10%), Solrock (10%), Wormadam (10%), Mothim (10%), Pelipper (10%)
 Dark Grass: Golbat (20%), Tangela (20%), Nidorino (10%), Nidorina (10%), Yanma (10%), Gloom (10%), Weepinbell (10%), Skiploom (10%)
 Rustling Grass: Audino (80%), Tangrowth (5%), Crobat (5%), Nidoking (5%), Nidoqueen (5%)
@@ -709,7 +709,7 @@ Rustling Grass: Audino (80%), Tangrowth (5%), Crobat (5%), Nidoking (5%), Nidoqu
 Legendary Encounter
 
 Deoxys, Level 70
-Giant Chasm, Outside Area
+Giant Chasm, Outside
 Dark Grass, 1%.
 * With stories of the Giant Chasm formed from a meteor, it’s not unlikely to imagine that Deoxys has made a settlement somewhere near. Perhaps you might encounter it while it searches for meteorite.
 
@@ -727,14 +727,14 @@ Rippling Fishing: Poliwhirl (65%), Basculin (30%), Poliwrath (5%)
 Legendary Encounter
 
 Dialga, Level 70
-Giant Chasm, Inside Cave (not Kyurem bit)
+Giant Chasm, Inside Cave
 Cave, 1%
 * The Giant Chasm, ruled by Kyurem, is sometimes rumoured to also be related to the powers of time. Dialga’s visits to this place mean you might just find it, or perhaps its counterpart, Palkia.
 
 Legendary Encounter
 
 Palkia, Level 70
-Giant Chasm, Inside Cave (not Kyurem bit)
+Giant Chasm, Inside Cave
 Cave, 1%
 * Equally, the distortions in space mean Palkia has taken residence in this unknown area of the world. 
 

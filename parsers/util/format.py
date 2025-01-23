@@ -44,6 +44,10 @@ def create_image_table(headings: list, images: list, logger):
     return f"{table_header}\n{table_divider}\n{table_body}\n\n"
 
 
+def compress_spaces(s: str) -> str:
+    return re.sub(r"\s+", " ", s).strip()
+
+
 def fix_pokemon_id(pokemon_id: str) -> str:
     fix_map = {
         "basculin": "basculin-red-striped",
@@ -66,6 +70,7 @@ def fix_pokemon_id(pokemon_id: str) -> str:
 
 def format_id(name: str, start_index: int = 0) -> str:
     name = remove_special_characters(name)
+    name = compress_spaces(name)
     name = "-".join(name.split(" ")[start_index:]).lower()
     name = fix_pokemon_id(name)
 

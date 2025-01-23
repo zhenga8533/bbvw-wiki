@@ -434,7 +434,7 @@ nav:
           - "#383 Groudon": pokemon/groudon.md
           - "#384 Rayquaza": pokemon/rayquaza.md
           - "#385 Jirachi": pokemon/jirachi.md
-          - "#386 Deoxys Normal": pokemon/deoxys-normal.md
+          - "#386 Deoxys": pokemon/deoxys-normal.md
       - Sinnoh:
           - "#387 Turtwig": pokemon/turtwig.md
           - "#388 Grotle": pokemon/grotle.md
@@ -691,14 +691,14 @@ nav:
           - "#638 Cobalion": pokemon/cobalion.md
           - "#639 Terrakion": pokemon/terrakion.md
           - "#640 Virizion": pokemon/virizion.md
-          - "#641 Tornadus Incarnate": pokemon/tornadus-incarnate.md
-          - "#642 Thundurus Incarnate": pokemon/thundurus-incarnate.md
+          - "#641 Tornadus": pokemon/tornadus-incarnate.md
+          - "#642 Thundurus": pokemon/thundurus-incarnate.md
           - "#643 Reshiram": pokemon/reshiram.md
           - "#644 Zekrom": pokemon/zekrom.md
-          - "#645 Landorus Incarnate": pokemon/landorus-incarnate.md
+          - "#645 Landorus": pokemon/landorus-incarnate.md
           - "#646 Kyurem": pokemon/kyurem.md
-          - "#647 Keldeo Ordinary": pokemon/keldeo-ordinary.md
-          - "#648 Meloetta Aria": pokemon/meloetta-aria.md
+          - "#647 Keldeo": pokemon/keldeo-ordinary.md
+          - "#648 Meloetta": pokemon/meloetta-aria.md
           - "#649 Genesect": pokemon/genesect.md
       - Pokémon Forms:
           - Deoxys Attack: pokemon/deoxys-attack.md
@@ -721,48 +721,142 @@ nav:
           - Keldeo Resolute: pokemon/keldeo-resolute.md
           - Meloetta Pirouette: pokemon/meloetta-pirouette.md
   - Wild Encounters:
-      - Route 1: wild_encounters/route-1.md
-      - Route 2: wild_encounters/route-2.md
-      - Striaton City: wild_encounters/striaton-city.md
-      - Dreamyard: wild_encounters/dreamyard.md
-      - Route 3: wild_encounters/route-3.md
-      - Wellspring Cave: wild_encounters/wellspring-cave.md
-      - Pinwheel Forest: wild_encounters/pinwheel-forest.md
-      - Liberty Garden: wild_encounters/liberty-garden.md
-      - Route 4: wild_encounters/route-4.md
-      - Desert Resort: wild_encounters/desert-resort.md
-      - Relic Castle: wild_encounters/relic-castle.md
-      - Route 5: wild_encounters/route-5.md
-      - Route 16: wild_encounters/route-16.md
-      - Lostlorn Forest: wild_encounters/lostlorn-forest.md
-      - Driftveil Drawbidge: wild_encounters/driftveil-drawbidge.md
-      - Driftveil City: wild_encounters/driftveil-city.md
-      - Cold Storage: wild_encounters/cold-storage.md
-      - Route 6: wild_encounters/route-6.md
-      - Chargestone Cave: wild_encounters/chargestone-cave.md
-      - Route 7: wild_encounters/route-7.md
-      - Celestial Tower: wild_encounters/celestial-tower.md
-      - Route 17: wild_encounters/route-17.md
-      - Route 18: wild_encounters/route-18.md
-      - P2 Laboratory: wild_encounters/p2-laboratory.md
-      - Mistralton Cave: wild_encounters/mistralton-cave.md
-      - Twist Mountain: wild_encounters/twist-mountain.md
-      - Route 8: wild_encounters/route-8.md
-      - Moor of Icirrus: wild_encounters/moor-of-icirrus.md
-      - Dragonspiral Tower: wild_encounters/dragonspiral-tower.md
-      - Route 9: wild_encounters/route-9.md
-      - Route 10: wild_encounters/route-10.md
-      - Victory Road: wild_encounters/victory-road.md
-      - N’s Castle: wild_encounters/n’s-castle.md
-      - Route 11: wild_encounters/route-11.md
-      - Village Bridge: wild_encounters/village-bridge.md
-      - Route 12: wild_encounters/route-12.md
-      - Route 13: wild_encounters/route-13.md
-      - Giant Chasm: wild_encounters/giant-chasm.md
-      - Undella Town: wild_encounters/undella-town.md
-      - Undella Bay: wild_encounters/undella-bay.md
-      - Route 14: wild_encounters/route-14.md
-      - Abundant Shrine: wild_encounters/abundant-shrine.md
-      - Route 15: wild_encounters/route-15.md
-      - Marvelous Bridge: wild_encounters/marvelous-bridge.md
-      - Challenger’s Cave: wild_encounters/challenger’s-cave.md
+      - Abundant Shrine:
+          - Wild Pokemon: wild_encounters/abundant_shrine/wild_pokemon.md
+      - Accumula Town:
+          - Trainer Rosters: wild_encounters/accumula_town/trainer_rosters.md
+      - Castelia City:
+          - Trainer Rosters: wild_encounters/castelia_city/trainer_rosters.md
+      - Celestial Tower:
+          - Trainer Rosters: wild_encounters/celestial_tower/trainer_rosters.md
+          - Wild Pokemon: wild_encounters/celestial_tower/wild_pokemon.md
+      - Challengers Cave:
+          - Wild Pokemon: wild_encounters/challengers_cave/wild_pokemon.md
+      - Chargestone Cave:
+          - Trainer Rosters: wild_encounters/chargestone_cave/trainer_rosters.md
+          - Wild Pokemon: wild_encounters/chargestone_cave/wild_pokemon.md
+      - Cold Storage:
+          - Trainer Rosters: wild_encounters/cold_storage/trainer_rosters.md
+          - Wild Pokemon: wild_encounters/cold_storage/wild_pokemon.md
+      - Desert Resort:
+          - Trainer Rosters: wild_encounters/desert_resort/trainer_rosters.md
+          - Wild Pokemon: wild_encounters/desert_resort/wild_pokemon.md
+      - Dragonspiral Tower:
+          - Trainer Rosters: wild_encounters/dragonspiral_tower/trainer_rosters.md
+          - Wild Pokemon: wild_encounters/dragonspiral_tower/wild_pokemon.md
+      - Dreamyard:
+          - Trainer Rosters: wild_encounters/dreamyard/trainer_rosters.md
+          - Wild Pokemon: wild_encounters/dreamyard/wild_pokemon.md
+      - Driftveil City:
+          - Trainer Rosters: wild_encounters/driftveil_city/trainer_rosters.md
+          - Wild Pokemon: wild_encounters/driftveil_city/wild_pokemon.md
+      - Driftveil Drawbidge:
+          - Wild Pokemon: wild_encounters/driftveil_drawbidge/wild_pokemon.md
+      - Giant Chasm:
+          - Wild Pokemon: wild_encounters/giant_chasm/wild_pokemon.md
+      - Icirrus City:
+          - Trainer Rosters: wild_encounters/icirrus_city/trainer_rosters.md
+      - Liberty Garden:
+          - Wild Pokemon: wild_encounters/liberty_garden/wild_pokemon.md
+      - Lostlorn Forest:
+          - Wild Pokemon: wild_encounters/lostlorn_forest/wild_pokemon.md
+      - Marvelous Bridge:
+          - Wild Pokemon: wild_encounters/marvelous_bridge/wild_pokemon.md
+      - Mistralton Cave:
+          - Trainer Rosters: wild_encounters/mistralton_cave/trainer_rosters.md
+          - Wild Pokemon: wild_encounters/mistralton_cave/wild_pokemon.md
+      - Mistralton City:
+          - Trainer Rosters: wild_encounters/mistralton_city/trainer_rosters.md
+      - Moor Of Icirrus:
+          - Trainer Rosters: wild_encounters/moor_of_icirrus/trainer_rosters.md
+          - Wild Pokemon: wild_encounters/moor_of_icirrus/wild_pokemon.md
+      - Nacrene City:
+          - Trainer Rosters: wild_encounters/nacrene_city/trainer_rosters.md
+      - Nimbasa City:
+          - Trainer Rosters: wild_encounters/nimbasa_city/trainer_rosters.md
+      - Ns Castle:
+          - Wild Pokemon: wild_encounters/ns_castle/wild_pokemon.md
+      - Nuvema Town:
+          - Trainer Rosters: wild_encounters/nuvema_town/trainer_rosters.md
+      - Opelucid City:
+          - Trainer Rosters: wild_encounters/opelucid_city/trainer_rosters.md
+      - P2 Laboratory:
+          - Wild Pokemon: wild_encounters/p2_laboratory/wild_pokemon.md
+      - Pinwheel Forest:
+          - Trainer Rosters: wild_encounters/pinwheel_forest/trainer_rosters.md
+          - Wild Pokemon: wild_encounters/pinwheel_forest/wild_pokemon.md
+      - Pokmon League:
+          - Trainer Rosters: wild_encounters/pokmon_league/trainer_rosters.md
+      - Relic Castle:
+          - Trainer Rosters: wild_encounters/relic_castle/trainer_rosters.md
+          - Wild Pokemon: wild_encounters/relic_castle/wild_pokemon.md
+      - Route 1:
+          - Trainer Rosters: wild_encounters/route_1/trainer_rosters.md
+          - Wild Pokemon: wild_encounters/route_1/wild_pokemon.md
+      - Route 10:
+          - Trainer Rosters: wild_encounters/route_10/trainer_rosters.md
+          - Wild Pokemon: wild_encounters/route_10/wild_pokemon.md
+      - Route 11:
+          - Wild Pokemon: wild_encounters/route_11/wild_pokemon.md
+      - Route 12:
+          - Wild Pokemon: wild_encounters/route_12/wild_pokemon.md
+      - Route 13:
+          - Wild Pokemon: wild_encounters/route_13/wild_pokemon.md
+      - Route 14:
+          - Wild Pokemon: wild_encounters/route_14/wild_pokemon.md
+      - Route 15:
+          - Wild Pokemon: wild_encounters/route_15/wild_pokemon.md
+      - Route 16:
+          - Trainer Rosters: wild_encounters/route_16/trainer_rosters.md
+          - Wild Pokemon: wild_encounters/route_16/wild_pokemon.md
+      - Route 17:
+          - Trainer Rosters: wild_encounters/route_17/trainer_rosters.md
+          - Wild Pokemon: wild_encounters/route_17/wild_pokemon.md
+      - Route 18:
+          - Trainer Rosters: wild_encounters/route_18/trainer_rosters.md
+          - Wild Pokemon: wild_encounters/route_18/wild_pokemon.md
+      - Route 2:
+          - Trainer Rosters: wild_encounters/route_2/trainer_rosters.md
+          - Wild Pokemon: wild_encounters/route_2/wild_pokemon.md
+      - Route 3:
+          - Trainer Rosters: wild_encounters/route_3/trainer_rosters.md
+          - Wild Pokemon: wild_encounters/route_3/wild_pokemon.md
+      - Route 4:
+          - Trainer Rosters: wild_encounters/route_4/trainer_rosters.md
+          - Wild Pokemon: wild_encounters/route_4/wild_pokemon.md
+      - Route 5:
+          - Trainer Rosters: wild_encounters/route_5/trainer_rosters.md
+          - Wild Pokemon: wild_encounters/route_5/wild_pokemon.md
+      - Route 6:
+          - Trainer Rosters: wild_encounters/route_6/trainer_rosters.md
+          - Wild Pokemon: wild_encounters/route_6/wild_pokemon.md
+      - Route 7:
+          - Trainer Rosters: wild_encounters/route_7/trainer_rosters.md
+          - Wild Pokemon: wild_encounters/route_7/wild_pokemon.md
+      - Route 8:
+          - Trainer Rosters: wild_encounters/route_8/trainer_rosters.md
+          - Wild Pokemon: wild_encounters/route_8/wild_pokemon.md
+      - Route 9:
+          - Trainer Rosters: wild_encounters/route_9/trainer_rosters.md
+          - Wild Pokemon: wild_encounters/route_9/wild_pokemon.md
+      - Striation City:
+          - Trainer Rosters: wild_encounters/striation_city/trainer_rosters.md
+      - Striaton City:
+          - Wild Pokemon: wild_encounters/striaton_city/wild_pokemon.md
+      - Tubeline Bridge:
+          - Trainer Rosters: wild_encounters/tubeline_bridge/trainer_rosters.md
+      - Twist Mountain:
+          - Trainer Rosters: wild_encounters/twist_mountain/trainer_rosters.md
+          - Wild Pokemon: wild_encounters/twist_mountain/wild_pokemon.md
+      - Undella Bay:
+          - Wild Pokemon: wild_encounters/undella_bay/wild_pokemon.md
+      - Undella Town:
+          - Wild Pokemon: wild_encounters/undella_town/wild_pokemon.md
+      - Victory Road:
+          - Trainer Rosters: wild_encounters/victory_road/trainer_rosters.md
+          - Wild Pokemon: wild_encounters/victory_road/wild_pokemon.md
+      - Village Bridge:
+          - Wild Pokemon: wild_encounters/village_bridge/wild_pokemon.md
+      - Wellspring Cave:
+          - Trainer Rosters: wild_encounters/wellspring_cave/trainer_rosters.md
+          - Wild Pokemon: wild_encounters/wellspring_cave/wild_pokemon.md

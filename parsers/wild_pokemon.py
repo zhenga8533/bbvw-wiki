@@ -2,7 +2,6 @@ from dotenv import load_dotenv
 from util.file import load, save
 from util.format import format_id
 from util.logger import Logger
-import json
 import logging
 import os
 
@@ -20,13 +19,13 @@ def parse_special_encounter(data):
     pokemon_id = format_id(pokemon)
 
     md = "| Sprite | Pokémon | Level | Encounter Type | Location | Chance |\n| :---: | --- | --- | :---: | --- | --- |\n"
-    md += f"| ![{pokemon_id}](../assets/sprites/{pokemon_id}/front.gif) "
+    md += f"| ![{pokemon_id}](../../assets/sprites/{pokemon_id}/front.gif) "
     md += f"| {pokemon} "
     md += f"| {level} "
     if encounter_id == "Set":
         md += f"| {encounter_id} "
     else:
-        md += f"| ![{encounter_id}](../assets/encounter_types/{encounter_id}.png){{: style='max-width: 24px;' }} "
+        md += f"| ![{encounter_id}](../../assets/encounter_types/{encounter_id}.png){{: style='max-width: 24px;' }} "
     md += f"| {location} "
     md += f"| {chance} "
     md += "|\n"
@@ -79,7 +78,11 @@ def main():
         elif last_line.startswith("="):
             md += f"---\n\n## {line}\n\n"
             if location_md != "" and curr_location != "Black City / White Forest":
-                save(f"{WILD_ENCOUNTER_PATH}{curr_location.lower().replace(' ', '-')}.md", location_md, logger)
+                save(
+                    f"{WILD_ENCOUNTER_PATH}{format_id(curr_location).replace("-", "_")}/wild_pokemon.md",
+                    location_md,
+                    logger,
+                )
 
             location_md = location_header
             curr_location = line
@@ -107,9 +110,9 @@ def main():
                 pokemon_id = format_id(pokemon)
                 encounter_id = format_id(encounter_type).replace("-", "_")
 
-                location_md += f"| ![{pokemon_id}](../assets/sprites/{pokemon_id}/front.gif) "
-                location_md += f"| [{pokemon}](../pokemon/{pokemon_id}.md/) "
-                location_md += f"| ![{encounter_type}](../assets/encounter_types/{encounter_id}.png){{: style='max-width: 24px;' }} "
+                location_md += f"| ![{pokemon_id}](../../assets/sprites/{pokemon_id}/front.gif) "
+                location_md += f"| [{pokemon}](../../pokemon/{pokemon_id}.md/) "
+                location_md += f"| ![{encounter_type}](../../assets/encounter_types/{encounter_id}.png){{: style='max-width: 24px;' }} "
                 location_md += f"| {chance} |\n"
 
             md += "```\n\n"
@@ -145,18 +148,7 @@ def main():
             md += line + "\n\n"
     logger.log(logging.INFO, "Wild Pokémon parsed successfully!")
 
-    # Generate nav for mkdocs.yml
-    logger.log(logging.INFO, "Generating navigation for wild encounters")
-    nav = ""
-
-    for location in locations:
-        if "/" in location:
-            continue
-        nav += f"      - {location}: wild_encounters/{location.lower().replace(' ', '-')}.md\n"
-    logger.log(logging.INFO, "Navigation generated successfully!")
-
-    save(f"{WILD_ENCOUNTER_PATH}{curr_location.lower().replace(' ', '-')}.md", location_md, logger)
-    save(f"{OUTPUT_PATH}wild_encounters_nav.md", nav.rstrip(), logger)
+    save(f"{WILD_ENCOUNTER_PATH}{format_id(curr_location).replace("-", "_")}/wild_pokemon.md", location_md, logger)
     save(f"{OUTPUT_PATH}wild_pokemon.md", md, logger)
 
 

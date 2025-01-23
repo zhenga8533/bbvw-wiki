@@ -1,8 +1,8 @@
 Nuvema Town
 ---
-* Bianca
-* Cheren
-* Bianca (Final)
+* Rival Bianca – 1
+* Rival Cheren – 1
+* Rival Bianca – Final
 
 Route 1
 ---
@@ -12,23 +12,23 @@ Fisherman Sean: Seadra L50, Seaking L50, Kingler L50
 
 Accumula Town
 ---
-* PKMN Trainer N
+* PKMN Trainer N – 1
 
 Route 2
 ---
 Youngster Jimmy: Hoothoot L7, Wurmple L7, Patrat L7
 Lass Mail: Zigzagoon L7, Meowth L7, Pidgey L7, Caterpie L7
 Youngster Roland: Lillipup L7, Bidoof L7, Kricketot L7, Weedle L7
-* Bianca
+* Rival Bianca – 2
 
 Striation City
 ---
-* Cheren
+* Rival Cheren – 2
 Waiter Maxwell: Slowpoke L11, Growlithe L11, Budew L11
 Waitress Tia: Hoppip L12, Slugma L12, Marill L12
-* Leader, Chili
-* Leader, Cress
-* Leader, Cilan
+* Gym Leader Chili
+* Gym Leader Cress
+* Gym Leader Cilan
 
 Dreamyard
 ---
@@ -39,12 +39,12 @@ Plasma Grunt: Koffing L14, Grimer L14, Cacnea L15
 
 Route 3
 ---
-Kumi & Amy D: NidoranM L14, NidoranF L14
+Twins Kumi & Amy D: Nidoran M L14, Nidoran F L14
 Nursery Aide Autumn: Togepi L14, Natu L14, Ralts L14, Munna L14
 Preschooler Doyle: Squirtle L14, Oshawott L14
 Preschooler Wendy: Totodile L14, Piplup L14
 Preschooler Tully: Mudkip L14, Psyduck L14, Shellos L14
-* Cheren
+* Rival Cheren – 3
 PKMN Breeder Adelaide: Igglybuff L12, Cleffa L12, Pichu L12, Magby L12, Elekid L12, Smoochum L12
 School Kid Al: Blitzle L15, Mareep L15, Flaaffy L15
 School Kid Marsha: Phanpy L15, Teddiursa L15, Woobat L15, Whismur L15
@@ -60,12 +60,12 @@ Plasma Grunt: Gulpin L15, Numel L15, Houndour L15
 
 Nacrene City
 ---
-* PKMN Trainer N
+* PKMN Trainer N – 2
 Lass Dye: Breloom L85
 School Kid Carter: Aipom L18, Snubbull L18, Minccino L18, Lickitung L18
 Scientist Satomi: Ditto L18, Smeargle L18, Porygon L18, Castform L18
 School Kid Lydia: Buneary L18, Clefairy L18, Jigglypuff L18, Delcatty L18
-* Leader Lenora
+* Gym Leader Lenora
 
 Pinwheel Forest
 ---
@@ -76,17 +76,16 @@ Youngster Keita: Spinarak L18, Doduo L18, Charmander L18
 Youngster Zachary: Burmy L18, Torchic L18, Ledyba L18
 Battle Girl Lee: Timburr L18, Croagunk L18, Tyrogue L18, Throh L18
 Black Belt Kentaro: Machop L18, Meditite L18, Riolu L18, Sawk L18
-
 Twins Mayo & May D: Sewaddle L20, Venipede L20, Cottonee L20, Petilil L20
-Team Plasma Grunt: Sandile L21, Skorupi L21, Foongus L21
-Team Plasma Grunt: Stunky L21, Glameow L21, Mightyena L21
+Plasma Grunt: Sandile L21, Skorupi L21, Foongus L21
+Plasma Grunt: Stunky L21, Glameow L21, Mightyena L21
 PKMN Ranger Forrest: Dunsparce L22, Chimchar L22, Heracross L22
 Youngster Nicholas: Shroomish L21, Cyndaquil L21, Treecko L21
 PKMN Ranger Audra: Tangela L22, Bulbasaur L22, Scyther L22
 PKMN Ranger Irene: Roselia L22, Chikorita L22, Pinsir L22
-Team Plasma Grunt: Murkrow L22, Liepard L22
+Plasma Grunt: Murkrow L22, Liepard L22
 PKMN Ranger Miguel: Vigoroth L22, Turtwig L22, Mothim L22
-Team Plasma Grunt: Golbat L23, Scraggy L23, Beedrill L23, Carnivine L23
+Plasma Grunt: Golbat L23, Scraggy L23, Beedrill L23, Carnivine L23
 School Kid Millie: Tranquill L22, Furret L22, Ivysaur L22
 Lass Eva: Oddish L22, Bellsprout L22, Pidgeotto L22, Wartortle L22
 School Kid Sammy: Linoone L22, Noctowl L22, Charmeleon L22, Sandshrew L22
@@ -104,23 +103,20 @@ Scientist Steve: Drifloon L23, Slugma L23, Chingling L23, Bonsly L23
 Clerk Wade: Golett L25, Clamperl L25, Poliwhirl L25, Marshtomp L25
 Janitor Geoff: Gastly L26, Skiploom L26, Cinccino L26, Lopunny L26
 * GAME FREAK Morimoto
-
 Dancer Edmond: Simipour L25
 Dancer Raymond: Simisear L25
 Dancer Mickey: Simisage L25
-
 Plasma Grunt: Combee L24, Dustox L24, Shedinja L24
 Harlequin Jack: Metapod L26, Kakuna L26, Silcoon L26, Cascoon L26, Kricketune L26
 Harlequin Kerry: Surskit L26, Butterfree L26, Beautifly L26, Volbeat L26, Illumise L26
 Harlequin Rick: Dwebble L26, Karrablast L26, Shelmet L26, Swadloon L26, Whirlipede L26
 Harlequin Louis: Paras L26, Anorith L26, Pineco L26, Yanma L26, Venonat L26
-* Leader Burgh
+* Gym Leader Burgh
 
 Route 4
 ---
-* Bianca
-* Cheren
-
+* Rival Bianca – 3
+* Rival Cheren – 4
 Backpacker Keane: Sandshrew L27, Exeggcute L27, Diglett L27, Sunkern L27, Swablu L27
 Worker Gus: Makuhita L25, Baltoy L25, Swinub L25, Cranidos L25
 Backpacker Anna: Wingull L27, Eevee L27, Spearow L27, Electrike L27, Buizel L27
@@ -157,19 +153,19 @@ Plasma Grunt: Weezing L58, Muk L58, Garbodor L58
 Plasma Grunt: Krookodile L60
 Plasma Grunt: Bisharp L59, Drapion L59
 Plasma Grunt: Scrafty L59, Liepard L59
-Plasma Grunt: Tentacruel L59, Seviper L59 
+Plasma Grunt: Tentacruel L59, Seviper L59
 
 Nimbasa City
 ---
-Dome trainers are not listed here, as they are not essential to completing the seen portion of the PokéDex.
-
 Plasma Grunt: Mawile L31, Sableye L31
-* PKMN Trainer N
+* PKMN Trainer N – 3
 Lady Magnolia: Plusle L33, Minun L33, Joltik L33, Tynamo L33, Pichu L33
 Rich Boy Cody: Pachirisu L34, Electabuzz L34, Pikachu L34, Flaaffy L34, Jolteon L34
 Rich Boy Rolan: Luxray L34, Jolteon L34, Magneton L34, Electrode L34, Lanturn L34
 Lady Colette: Stunfisk L35, Rotom L35, Emolga L35
-* Leader Elesa
+* Gym Leader Elesa
+
+Dome trainers are not listed here, as they are not essential to completing the seen portion of the PokéDex.
 
 Route 16
 ---
@@ -182,14 +178,14 @@ Backpacker Stephen: Corphish L30, Ariados L30
 
 Route 5
 ---
-* Cheren
+* Rival Cheren – 5
 Preschooler Sarah: Lunatone L35
 Preschooler Billy: Solrock L35
 Baker Jenn: Combee L33, Munchlax L33
 Harlequin Paul: Palpitoad L32, Seel L32
 Musician Preston: Wigglytuff L33
 Dancer Brian: Kirlia L33, Ludicolo L33
-Arist Horton: Smeargle L31, Smeargle L31, Smeargle L31
+Artist Horton: Smeargle L31, Smeargle L31, Smeargle L31
 Backpacker Michael: Nosepass L33
 Backpacker Lois: Shiftry L33
 
@@ -217,8 +213,8 @@ Worker Don: Larvitar L38, Onix L38, Gabite L38, Sandslash L38
 Worker Sterling: Gligar L37, Palpitoad L37, Nidoking L37, Vibrava L37
 Clerk Isaac: Camerupt L39, Whiscash L39, Torterra L39, Claydol L39
 Clerk Katie: Pupitar L38, Nidoqueen L38, Donphan L38, Dugtrio L38
-* Leader Clay
-* Bianca
+* Gym Leader Clay
+* Rival Bianca – 4
 
 Route 6
 ---
@@ -238,7 +234,7 @@ Scientist Naoko: Durant L40, Ferrothorn L40
 Hiker Hardy: Bronzong L39, Relicanth L39, Carracosta L39
 Scientist Orville: Fearow L42, Pidgeot L42
 Ace Trainer Corky: Bagon L40, Zangoose L40, Cradily L40
-* Team Plasma N
+* PKMN Trainer N – 4
 Doctor Wayne: Reuniclus L41
 Plasma Grunt: Krokorok L39, Watchog L39, Scrafty L39
 Plasma Grunt: Eelektrik L39, Banette L39, Crawdaunt L39
@@ -283,7 +279,7 @@ Worker Brady: Swoobat L51, Staraptor L51, Altaria L51, Drifblim L51, Tropius L51
 Pilot Ted: Chatot L50, Sigilyph L50, Unfezant L50, Scyther L50, Delibird L50
 Pilot Chase: Jumpluff L50, Xatu L50, Noctowl L50, Pelipper L50, Ledian L50
 Worker Arnold: Swellow L52, Farfetch'd L52, Aerodactyl L52, Archeops L52, Pidgeot L52
-* Leader Skyla
+* Gym Leader Skyla
 
 Route 17
 ---
@@ -308,7 +304,7 @@ Hiker Clarke: Bastiodon L53, Marowak L53
 
 Twist Mountain
 ---
-* Cheren
+* Rival Cheren – 6
 Hiker Terrell: Magcargo L45, Swampert L45
 Black Belt Teppei: Machamp L54
 Worker Rich: Glalie L53, Kangaskhan L53
@@ -331,7 +327,7 @@ Black Belt Kendrew: Snover L56, Sneasel L56, Cubchoo L56, Weavile L56
 Battle Girl Mikiko: Vanillish L57, Sealeo L57, Jynx L57, Walrein L57
 Battle Girl Chandra: Froslass L57, Cryogonal L57, Abomasnow L57
 Black Belt Thomas: Delibird L58, Glalie L58, Glaceon L58
-* Leader Brycen
+* Gym Leader Brycen
 
 Route 8
 ---
@@ -340,7 +336,7 @@ Parasol Lady Melita: Jellicent L58, Kingdra L58
 Fisherman Bruce: Basculin L58, Basculin L58, Kingler L58, Whiscash L58
 Parasol Lady Lumi: Flareon L58, Flygon L58
 PKMN Ranger Annie: Tropius L58, Cinccino L58, Archeops L58
-* Bianca
+* Rival Bianca – 5
 
 Moor of Icirrus
 ---
@@ -392,14 +388,15 @@ Veteran Hugo: Druddigon L63, Flygon L63, Garchomp L63
 Ace Trainer Tom: Steelix L62, Tyranitar L62, Altaria L62
 Ace Trainer Dara: Druddigon L63, Zweilous L63, Flygon L63
 Veteran Kim: Druddigon L63, Altaria L63, Salamence L63
-* Drayden / Iris
+* Gym Leader Drayden
+* Gym Leader Iris
 
 Route 10
 ---
 Battle Girl Amy: Machamp L60, Lucario L60, Conkeldurr L60, Infernape L60
 Ace Trainer Johan: Tangrowth L63, Ampharos L63, Magmortar L63, Scizor L63
 Veteran Karla: Reuniclus L63, Rhyperior L63, Escavalier L63, Beartic L63, Ninetales L63
-* Cheren
+* Rival Cheren – 7
 Black Belt Corey: Throh L60, Sawk L60
 Hiker Bret: Gigalith L60, Conkeldurr L60, Probopass L60
 Ace Trainer Cheyenne: Togekiss L63, Gyarados L63, Vanilluxe L63, Galvantula L63, Porygon-Z L63
@@ -415,6 +412,16 @@ Ace Trainer Cathy: Abomasnow L67, Pelipper L67, Jynx L67, Starmie L67, Lunatone 
 Doctor Logan: Audino L65, Musharna L65, Blissey L65, Reuniclus L65, Meganium L65
 Ace Trainer David: Tyranitar L67, Excadrill L67, Steelix L67, Golem L67, Garchomp L67
 Veteran Martell: Slaking L68, Haxorus L68, Sceptile L68, Aggron L68, Dusclops L68
-* Cheren
+* Rival Cheren – Final
+
+Pokémon League
+---
+* Elite Four Shauntal
+* Elite Four Grimsley
+* Elite Four Marshal
+* Elite Four Caitlin
+* PKMN Trainer N – Final
+* Team Plasma Ghetsis
+* Champion Alder
 
 At this point, every Pokémon except for legendaries and Unown should be seen in the PokéDex.

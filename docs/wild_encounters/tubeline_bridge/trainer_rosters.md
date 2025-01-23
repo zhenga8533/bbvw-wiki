@@ -1,0 +1,9 @@
+---
+
+## Generic Trainers</h3>
+
+| Trainer | P1 | P2 | P3 | P4 | P5 | P6 |
+|:-------:|:--:|:--:|:--:|:--:|:--:|:--:|
+| ![Biker Morgann](../../assets/trainers/biker.png)<br>Biker Morgann | ![Tauros](../../assets/sprites/tauros/front.png)<br>[Tauros](../../pokemon/tauros.wild_md/)<br>Lv. 60 |
+| ![Biker Jeremy](../../assets/trainers/biker.png)<br>Biker Jeremy | ![Bouffalant](../../assets/sprites/bouffalant/front.png)<br>[Bouffalant](../../pokemon/bouffalant.wild_md/)<br>Lv. 60 |
+
