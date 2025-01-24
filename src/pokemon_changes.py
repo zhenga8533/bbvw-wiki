@@ -228,7 +228,7 @@ def main():
         logger.log(logging.DEBUG, f"Stats: {stats}")
 
         for p in pokemon:
-            file_pattern = f"{POKEMON_INPUT_PATH}{p}*.json"
+            file_pattern = f"{POKEMON_INPUT_PATH + p}*.json"
             files = glob.glob(file_pattern)
 
             for file_path in files:

@@ -171,7 +171,7 @@ def main():
 
     # Parse wild rosters into markdown files
     for location, roster in wild_rosters.items():
-        file_path = f"{WILD_ENCOUNTER_PATH}{location.replace(' ', '_').lower()}/important_trainers.md"
+        file_path = f"{WILD_ENCOUNTER_PATH + location.replace(' ', '_').lower()}/important_trainers.md"
         save(file_path, roster, logger)
 
     save(f"{OUTPUT_PATH}important_trainer_rosters.md", md, logger)

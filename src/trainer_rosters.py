@@ -55,7 +55,7 @@ def main():
                 wild_md += "\n"
                 generic_trainers = []
             if location is not None:
-                file_path = f"{WILD_ENCOUNTER_PATH}{location.replace(' ', '_').lower()}/trainer_rosters.md"
+                file_path = f"{WILD_ENCOUNTER_PATH + location.replace(' ', '_').lower()}/trainer_rosters.md"
                 save(file_path, wild_md, logger)
                 wild_md = ""
                 location = None

@@ -1,11 +1,11 @@
 logs/
 markdown/
-parsers/cries/
-parsers/data/
-parsers/moves/
-parsers/pokemon/
-parsers/sprites/
-parsers/wild_encounters/
+src/cries/
+src/data/
+src/moves/
+src/pokemon/
+src/sprites/
+src/wild_encounters/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -67,7 +67,7 @@ def main():
                 move_name = format_id(move_name)
 
                 try:
-                    move_path = f"{MOVES_PATH}{move_name}.json"
+                    move_path = f"{MOVES_PATH + move_name}.json"
                     move_data = json.loads(load(move_path, logger))
                     move_data["power"] = int(power)
                     save(move_path, json.dumps(move_data, indent=4), logger)
@@ -90,7 +90,7 @@ def main():
     # Adjust current moveset
     logger.log(logging.INFO, "Adjusting Pokémon movesets")
     for key in move_changes:
-        file_pattern = f"{POKEMON_INPUT_PATH}{key}*.json"
+        file_pattern = f"{POKEMON_INPUT_PATH + key}*.json"
         files = glob.glob(file_pattern)
 
         for file_path in files:

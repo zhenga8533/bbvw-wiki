@@ -105,7 +105,7 @@ def main():
             category = revert_id(file_name.split(".")[0], symbol="_")
             nav += f"          - {category}: {dirpath}/{file_name}\n"
 
-    save(f"{OUTPUT_PATH}wild_encounters.md", nav, logger)
+    save(f"{OUTPUT_PATH}wild_nav.md", nav, logger)
 
 
 if __name__ == "__main__":

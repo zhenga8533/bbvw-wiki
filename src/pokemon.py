@@ -16,7 +16,7 @@ def parse_evolution_line(evolution, pokemon_set, level=1, index=1):
     for name in names[:]:
         if name not in pokemon_set:
             names.remove(name)
-            file_pattern = f"{POKEMON_INPUT_PATH}{name}*.json"
+            file_pattern = f"{POKEMON_INPUT_PATH + name}*.json"
             files = glob.glob(file_pattern)
 
             for file_path in files:
@@ -28,7 +28,7 @@ def parse_evolution_line(evolution, pokemon_set, level=1, index=1):
 
     md = ""
     for name in names:
-        md += f"{'    ' * (level - 1)}{index}. "
+        md += f"{'    ' * (level - 1) + index}. "
         evolution_details = evolution["evolution_details"]
         if len(evolution_details) > 0:
             md += revert_id(evolution_details[-1]["trigger"]["name"]) + ": "
@@ -88,26 +88,27 @@ def parse_moves(moves: list, headers: list, move_key: str, logger: Logger) -> st
     md_header = f"| {' | '.join(headers).strip()} |"
     md_separator = f"| {' | '.join(['---'] * len(headers)).strip()} |"
     md_body = ""
+    dash = "\u2014"
 
     for move in moves:
-        move_data = json.loads(load(f"{MOVES_PATH}{move['name']}.json", logger))
+        move_data = json.loads(load(f"{MOVES_PATH + move['name']}.json", logger))
         for category in headers:
             if category == "Lv.":
-                md_body += f"| {move["level_learned_at"]} "
+                md_body += f"| {move['level_learned_at']} "
             elif category == "TM":
-                md_body += f"| {move_data["machines"][move_key].upper()} "
+                md_body += f"| {move_data['machines'][move_key].upper()} "
             elif category == "Move":
-                md_body += f"| {revert_id(move_data["name"])} "
+                md_body += f"| {revert_id(move_data['name'])} "
             elif category == "Type":
-                md_body += f"| ![{move_data["type"]}](../assets/types/{move_data["type"]}.png){{: width='48'}} "
+                md_body += f"| ![{move_data['type']}](../assets/types/{move_data['type']}.png){{: width='48'}} "
             elif category == "Cat.":
-                md_body += f"| ![{move_data["damage_class"]}](../assets/move_category/{move_data["damage_class"]}.png){{: width='36'}} "
+                md_body += f"| ![{move_data['damage_class']}](../assets/move_category/{move_data['damage_class']}.png){{: width='36'}} "
             elif category == "Power":
-                md_body += f"| {move_data["power"] or "—"} "
+                md_body += f"| {move_data['power'] or dash} "
             elif category == "Acc.":
-                md_body += f"| {move_data["accuracy"] or "—"} "
+                md_body += f"| {move_data['accuracy'] or dash} "
             elif category == "PP":
-                md_body += f"| {move_data["pp"]} "
+                md_body += f"| {move_data['pp']} "
         md_body += "|\n"
 
     return f"{md_header}\n{md_separator}\n{md_body}\n"
@@ -118,7 +119,7 @@ def to_md(pokemon: dict, pokemon_set: dict, logger: Logger) -> str:
     name_id = pokemon["name"]
     pokemon_name = revert_id(name_id)
     pokemon_id = pokemon["id"]
-    md = f"# #{pokemon_id:03} {pokemon_name} ({pokemon["genus"]})\n\n"
+    md = f"# #{pokemon_id:03} {pokemon_name} ({pokemon['genus']})\n\n"
 
     # Add official artwork
     md += create_image_table(
@@ -216,14 +217,13 @@ def to_md(pokemon: dict, pokemon_set: dict, logger: Logger) -> str:
     md += f"| National № | Type(s) | Height | Weight | Abilities | Local № |\n"
     md += f"|------------|---------|--------|--------|-----------|---------|\n"
     md += f"| #{pokemon_id} "
-    md += f"| {" ".join([f"![{t}](../assets/types/{t}.png){{: width='48'}}" for t in pokemon["types"]])} "
-    md += f"| {pokemon["height"]} m "
-    md += f"| {pokemon["weight"]} kg "
-    md += (
-        f"| {"<br>".join([f"{i + 1}. {ability["name"].title()}" for i, ability in enumerate(pokemon["abilities"])])} "
-    )
+    md += " | " + " ".join([f"![{t}](../assets/types/{t}.png){{: width='48'}}" for t in pokemon["types"]])
+    md += " | {pokemon['height']} m"
+    md += " | {pokemon['weight']} kg"
+    abilities = [f"{i + 1}. {ability['name'].title()}" for i, ability in enumerate(pokemon["abilities"])]
+    md += " | " + "<br>".join(abilities)
     local_no = pokemon["pokedex_numbers"].get("original-unova", None)
-    md += f"| {"#" + str(local_no) if local_no else "N/A"} |\n\n"
+    md += f"| {'#' + str(local_no) if local_no else 'N/A'} |\n\n"
 
     # Stats
     stats = pokemon["stats"]
@@ -265,11 +265,11 @@ def to_md(pokemon: dict, pokemon_set: dict, logger: Logger) -> str:
     md += f"| EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |\n"
     md += f"|----------|------------|-----------------|-----------|-------------|------------|\n"
     ev_yield = pokemon["ev_yield"]
-    md += f"| {"<br>".join([f"{ev_yield[stat]} {revert_id(stat)}" for stat in ev_yield if ev_yield[stat] > 0])} "
-    md += f"| {pokemon["capture_rate"]} "
-    md += f"| {pokemon["base_happiness"]} "
-    md += f"| {pokemon["base_experience"]} "
-    md += f"| {pokemon["growth_rate"].title()} | "
+    md += f"| " + "<br>".join([f"{ev_yield[stat]} {revert_id(stat)}" for stat in ev_yield if ev_yield[stat] > 0])
+    md += " | " + pokemon["capture_rate"]
+    md += " | " + pokemon["base_happiness"]
+    md += " | " + pokemon["base_experience"]
+    md += " | " + pokemon["growth_rate"].title()
     held_items = [
         {
             "name": revert_id(item["name"]),
@@ -281,21 +281,27 @@ def to_md(pokemon: dict, pokemon_set: dict, logger: Logger) -> str:
         for item in pokemon["held_items"]
     ]
     if len(held_items) == 0:
-        md += f"N/A |\n\n"
+        md += f" | N/A |\n\n"
     else:
-        md += f"{"<br>".join([f"{item['name']} ({item['rarity']}%)" for item in held_items if item["rarity"]])} |\n\n"
+        items = [f"{item['name']} ({item['rarity']}%)" for item in held_items if item["rarity"]]
+        md += f" | {'<br>'.join(items)} |\n\n"
 
     # Breeding
     md += "---\n\n## Breeding\n\n"
     md += f"| Egg Groups | Egg Cycles | Gender | Dimorphic | Color | Shape |\n"
     md += f"|------------|------------|--------|-----------|-------|-------|\n"
-    md += f"| {"<br>".join([f"{i + 1}. {group.title()}" for i, group in enumerate(pokemon["egg_groups"])])} "
-    md += f"| {pokemon["hatch_counter"]} "
+    md += f"| " + "<br>".join([f"{i + 1}. {group.title()}" for i, group in enumerate(pokemon["egg_groups"])])
+    md += " | " + pokemon["hatch_counter"]
     female_rate = pokemon["female_rate"]
-    md += f"| {"Genderless" if female_rate == -1 else f"{(8 - female_rate) / 8 * 100}% Male<br>{female_rate / 8 * 100}% Female"} "
-    md += f"| {pokemon["has_gender_differences"]} "
-    md += f"| {pokemon["color"].title()} "
-    md += f"| {pokemon["shape"].title()} |\n\n"
+    md += " | " + (
+        "Genderless"
+        if female_rate == -1
+        else f"{(8 - female_rate) / 8 * 100}% Male<br>{female_rate / 8 * 100}% Female"
+    )
+    md += " | " + pokemon["has_gender_differences"]
+    md += " | " + pokemon["color"].title()
+    md += " | " + pokemon["shape"].title()
+    md += " |\n\n"
 
     # Black/White Moves
     level_up_moves = []
@@ -391,7 +397,7 @@ def main():
 
     for pokemon in pokedex:
         name = pokemon["name"]
-        file_pattern = f"{POKEMON_INPUT_PATH}{name.split("-")[0]}*.json"
+        file_pattern = f"{POKEMON_INPUT_PATH + name.split('-')[0]}*.json"
         files = glob.glob(file_pattern)
 
         for file_path in files:
@@ -421,11 +427,11 @@ def main():
             nav += f"      - {generations[pokedex_start.index(i)]}:\n"
 
         clean_name = revert_id(name)
-        nav += f'          - "#{f"{i + 1:03}"} {clean_name}": {POKEMON_OUTPUT_PATH}{name}.md\n'
+        nav += f'          - "#{f"{i + 1:03}"} {clean_name}": {POKEMON_OUTPUT_PATH + name}.md\n'
     nav += f"      - Pokémon Forms:\n"
     for name in forms:
         clean_name = revert_id(name.replace)
-        nav += f"          - {clean_name}: {POKEMON_OUTPUT_PATH}{name}.md\n"
+        nav += f"          - {clean_name}: {POKEMON_OUTPUT_PATH + name}.md\n"
 
     logger.log(logging.INFO, "Successfully generated Pokémon navigation")
     save(f"{OUTPUT_PATH}pokemon_nav.md", nav, logger)
@@ -434,7 +440,7 @@ def main():
     logger.log(logging.INFO, "Generating markdown files for each Pokémon")
     for pokemon in pokedex:
         name = pokemon["name"]
-        file_pattern = f"{POKEMON_INPUT_PATH}{name.split("-")[0]}*.json"
+        file_pattern = f"{POKEMON_INPUT_PATH + name.split('-')[0]}*.json"
         files = glob.glob(file_pattern)
 
         for file_path in files:
@@ -444,7 +450,7 @@ def main():
                 continue
 
             md = to_md(data, pokemon_set, logger)
-            save(f"{POKEMON_OUTPUT_PATH}{data["name"]}.md", md, logger)
+            save(f"{POKEMON_OUTPUT_PATH + data['name']}.md", md, logger)
 
 
 if __name__ == "__main__":
