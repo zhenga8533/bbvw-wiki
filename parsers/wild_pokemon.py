@@ -102,14 +102,10 @@ def main():
             for i, encounter in enumerate(encounters):
                 pokemon, chance = encounter.split(" (")
                 chance = chance.rstrip(")")
-
-                # Add data to base md
-                md += f"{i + 1}. {pokemon} ({chance})\n"
-
-                # Add data to wild encounter md
                 pokemon_id = format_id(pokemon)
                 encounter_id = format_id(encounter_type).replace("-", "_")
 
+                md += f"{i + 1}. [{pokemon}](../pokemon/{pokemon_id}.md/) ({chance})\n"
                 location_md += f"| ![{pokemon_id}](../../assets/sprites/{pokemon_id}/front.gif) "
                 location_md += f"| [{pokemon}](../../pokemon/{pokemon_id}.md/) "
                 location_md += f"| ![{encounter_type}](../../assets/encounter_types/{encounter_id}.png){{: style='max-width: 24px;' }} "
