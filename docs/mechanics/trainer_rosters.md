@@ -1,3 +1,6 @@
+!!! tip
+
+    For a more comprehensive list of trainers, please refer to the [Wild Encounters](../wild_encounters/nuvema_town/trainer_rosters.md) pages!
 
 ---
 

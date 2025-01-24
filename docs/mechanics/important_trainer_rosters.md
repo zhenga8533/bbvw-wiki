@@ -1,3 +1,7 @@
+!!! tip
+
+    For a more comprehensive list of important trainer rosters, please refer to the [Wild Encounters](../wild_encounters/nuvema_town/important_trainers.md) pages!
+
 Below are the rosters for the important trainers in the game, such as the Gym Leaders, Elite Four, Bianca, Cheren and N. They are detailed in terms of levels, movesets, abilities and items. Note that these constitute as spoilers, so read at your own risk.
 
 ## Main Story

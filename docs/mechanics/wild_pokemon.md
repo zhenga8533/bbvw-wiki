@@ -1,3 +1,7 @@
+!!! tip
+
+    For a more comprehensive list of wild Pokémon encounters, please refer to the [Wild Encounters](../wild_encounters/route_1/wild_pokemon.md) pages!
+
 Recall that no shaking grass will appear until after the first badge has been obtained!
 
 'Special' refers to the rare spots. Doubles refers to tall grass where double battles can occur.

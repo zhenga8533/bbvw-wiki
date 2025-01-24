@@ -1,12 +1,12 @@
 # Pokémon Blaze Black and Volt White
 
-!!! note "NOTE"
+!!! note
 
-    This site is fanmade! Much of the data in the Pokemon doc-pages was made by parsing through documents found from the official ROM hacks. All credit for the hack creation goes to [@Drayano60](https://x.com/drayano60).
+    This site is fanmade! Much of the data in the Pokemon doc-pages was made by parsing through documents found from the official ROM hacks. Specific Pokémon information was fetched from [PokéAPI](https://pokeapi.co/) using my personal [parser](https://github.com/zhenga8533/pokeapi-parser/tree/v1).
 
-!!! warning "WARNING"
+!!! warning
 
-    This site is not a viable source for the [Classic] version of this rom hack. It is recommended to play the [Full] version of either ROM Hack!
+    This site is not a viable source for the Classic version of this rom hack. It is recommended to play the Full version of either ROM Hack!
 
 ---
 
@@ -52,6 +52,10 @@ If you're looking for a challenge designed by someone who thinks they know the P
 ---
 
 ## Credits and Gratitude
+
+!!! tip
+
+    All credit for the hack creation goes to [@Drayano60](https://x.com/drayano60). The inspiration for the creation of this wiki can be accredited to the [BB/VW 2 Redux Wiki](https://smilingzero.github.io/BlazeBlack2ReduxWiki/) by [@SmilingZero](https://github.com/SmilingZero) and [Blaze Black Wiki](https://akeemallen.github.io/blaze-black-wiki/) by [@AkeemAllen](https://github.com/AkeemAllen)!
 
 elementking: It was thanks to him that I even got to start hacking B/W fully in the first place. Without him I probably wouldn't have discovered anything post Wild Pokemon editing.
 

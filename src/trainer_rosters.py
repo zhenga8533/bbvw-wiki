@@ -20,7 +20,9 @@ def main():
     # Set up variables
     lines = content.split("\n")
     n = len(lines)
-    md = ""
+    md = "!!! tip\n\n"
+    md += "    For a more comprehensive list of trainers, please refer to the "
+    md += "[Wild Encounters](../wild_encounters/nuvema_town/trainer_rosters.md) pages!\n"
     wild_md = ""
 
     list_index = 0

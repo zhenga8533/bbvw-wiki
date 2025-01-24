@@ -21,7 +21,9 @@ def main():
     # Set up variables
     lines = content.split("\n")
     n = len(lines)
-    md = ""
+    md = "!!! tip\n\n"
+    md += "    For a more comprehensive list of important trainer rosters, please refer to the "
+    md += "[Wild Encounters](../wild_encounters/nuvema_town/important_trainers.md) pages!\n\n"
 
     listing = 0
     listing_type = None

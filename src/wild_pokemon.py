@@ -47,7 +47,9 @@ def main():
     # Set up variables
     lines = content.split("\n")
     n = len(lines)
-    md = ""
+    md = "!!! tip\n\n"
+    md += "    For a more comprehensive list of wild Pokémon encounters, please refer to the "
+    md += "[Wild Encounters](../wild_encounters/route_1/wild_pokemon.md) pages!\n\n"
 
     locations = []
     encounter_header = ""
