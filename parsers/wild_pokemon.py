@@ -68,7 +68,7 @@ def main():
         # Empty Lines
         if line == "" or line.startswith("="):
             if special_encounter and not last_line.endswith("Encounter"):
-                md += "```\n\n"
+                md += "</code></pre>\n\n"
 
                 # Parse special encounter data
                 location_md += encounter_header
@@ -93,7 +93,7 @@ def main():
             encounters = encounters.split(", ")
 
             md += f"{encounter_type}\n\n"
-            md += f"```\n"
+            md += f"<pre><code>"
             location_md = location_md.rstrip(location_header) + f"\n\n### {encounter_type}\n"
 
             if not location_md.endswith(location_header):
@@ -105,22 +105,22 @@ def main():
                 pokemon_id = format_id(pokemon)
                 encounter_id = format_id(encounter_type).replace("-", "_")
 
-                md += f"{i + 1}. [{pokemon}](../pokemon/{pokemon_id}.md/) ({chance})\n"
+                md += f"{i + 1}. <a href='/bbvw-wiki/pokemon/{pokemon_id}/'>{pokemon}</a> ({chance})\n"
                 location_md += f"| ![{pokemon_id}](../../assets/sprites/{pokemon_id}/front.gif) "
                 location_md += f"| [{pokemon}](../../pokemon/{pokemon_id}.md/) "
                 location_md += f"| ![{encounter_type}](../../assets/encounter_types/{encounter_id}.png){{: style='max-width: 24px;' }} "
                 location_md += f"| {chance} |\n"
 
-            md += "```\n\n"
+            md += "</code></pre>\n\n"
         # Special encounter header
         elif line.endswith("Encounter"):
-            md += line + "\n\n```\n"
+            md += line + "\n\n<pre><code>"
             encounter_header = f"\n### {line}\n\n"
             encounter_data = ""
             special_encounter = True
         # Special encounter description
         elif line.startswith("* "):
-            md += "```\n\n"
+            md += "</code></pre>\n\n"
             md += f"<sub><sup>_{line[2:]}_</sup></sub>\n\n"
 
             if special_encounter:
