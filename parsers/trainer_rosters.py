@@ -55,7 +55,7 @@ def main():
                 wild_md += "\n"
                 generic_trainers = []
             if location is not None:
-                file_path = f"{WILD_ENCOUNTER_PATH}{location.lower().replace(" ", "_")}/trainer_rosters.md"
+                file_path = f"{WILD_ENCOUNTER_PATH}{location.lower().replace(" ", "_")}/trainer_rosters.md/"
                 save(file_path, wild_md, logger)
                 wild_md = ""
                 location = None
@@ -91,9 +91,9 @@ def main():
                 pokemon_name = " ".join(parts)
                 pokemon_id = format_id(pokemon_name)
 
-                md += f"    {i + 1}. Lv. {level} [{pokemon_name}](../../pokemon/{pokemon_id}.wild_md/)\n"
+                md += f"    {i + 1}. Lv. {level} [{pokemon_name}](../../pokemon/{pokemon_id}.md/)\n"
                 trainer_md += f" ![{pokemon_name}](../../assets/sprites/{pokemon_id}/front.png)<br>"
-                trainer_md += f"[{pokemon_name}](../../pokemon/{pokemon_id}.wild_md/)<br>Lv. {level} |"
+                trainer_md += f"[{pokemon_name}](../../pokemon/{pokemon_id}.md/)<br>Lv. {level} |"
             generic_trainers.append(trainer_md)
         else:
             md += f"\n{line}\n"

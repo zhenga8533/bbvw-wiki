@@ -43,13 +43,15 @@ def main():
             continue
         # Pokémon change header
         elif line.startswith("#"):
-            md += f"**{line}**\n\n"
             pokemon = line.split(", ")
+            links = []
+            sprites = ""
 
             for p in pokemon:
                 name = format_id(" ".join(p.split(" ")[1:]))
-                md += f"![{name}](../assets/sprites/{name}/front.gif)\n"
-            md += "\n<pre><code>"
+                links.append(f"[{p}](../../pokemon/{name}.md/)")
+                sprites += f"![{name}](../assets/sprites/{name}/front.gif)\n"
+            md += f"**{", ".join(links)}**\n\n{sprites}\n<pre><code>"
 
             curr_pokemon = line
             listing = True

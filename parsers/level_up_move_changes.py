@@ -43,8 +43,8 @@ def main():
                 listing = False
         # Pokémon
         elif line.startswith("#"):
-            md += f"**{line}**\n\n"
             name = format_id(" ".join(line.split(" ")[1:]))
+            md += f"**[{line}](../../pokemon/{name}.md/)**\n\n"
             md += f"![{name}](../assets/sprites/{name}/front.gif)\n\n```\n"
 
             curr_pokemon = format_id(line, 1)
