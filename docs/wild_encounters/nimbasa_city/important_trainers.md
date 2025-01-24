@@ -6,12 +6,12 @@
 
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|
-| ![Hippopotas](../../assets/sprites/hippopotas/front.png)<br>[Hippopotas](../../pokemon/hippopotas.md/) |**Level:** 33<br>**Item:** —<br>**Ability:** — | 1. —<br>2. —<br>3. —<br>4. — |
-| ![Maractus](../../assets/sprites/maractus/front.png)<br>[Maractus](../../pokemon/maractus.md/) |**Level:** 33<br>**Item:** —<br>**Ability:** — | 1. —<br>2. —<br>3. —<br>4. — |
-| ![Gligar](../../assets/sprites/gligar/front.png)<br>[Gligar](../../pokemon/gligar.md/) |**Level:** 33<br>**Item:** —<br>**Ability:** — | 1. —<br>2. —<br>3. —<br>4. — |
-| ![Larvesta](../../assets/sprites/larvesta/front.png)<br>[Larvesta](../../pokemon/larvesta.md/) |**Level:** 33<br>**Item:** —<br>**Ability:** — | 1. —<br>2. —<br>3. —<br>4. — |
-| ![Golett](../../assets/sprites/golett/front.png)<br>[Golett](../../pokemon/golett.md/) |**Level:** 33<br>**Item:** —<br>**Ability:** — | 1. —<br>2. —<br>3. —<br>4. — |
-| ![Sigilyph](../../assets/sprites/sigilyph/front.png)<br>[Sigilyph](../../pokemon/sigilyph.md/) |**Level:** 33<br>**Item:** —<br>**Ability:** — | 1. —<br>2. —<br>3. —<br>4. — |
+| ![Hippopotas](../../assets/sprites/hippopotas/front.png)<br>[Hippopotas](../../pokemon/hippopotas.md/) |**Level:** 33<br>**Item:** No Item<br>**Ability:** — | 1. —<br>2. —<br>3. —<br>4. — |
+| ![Maractus](../../assets/sprites/maractus/front.png)<br>[Maractus](../../pokemon/maractus.md/) |**Level:** 33<br>**Item:** No Item<br>**Ability:** — | 1. —<br>2. —<br>3. —<br>4. — |
+| ![Gligar](../../assets/sprites/gligar/front.png)<br>[Gligar](../../pokemon/gligar.md/) |**Level:** 33<br>**Item:** No Item<br>**Ability:** — | 1. —<br>2. —<br>3. —<br>4. — |
+| ![Larvesta](../../assets/sprites/larvesta/front.png)<br>[Larvesta](../../pokemon/larvesta.md/) |**Level:** 33<br>**Item:** No Item<br>**Ability:** — | 1. —<br>2. —<br>3. —<br>4. — |
+| ![Golett](../../assets/sprites/golett/front.png)<br>[Golett](../../pokemon/golett.md/) |**Level:** 33<br>**Item:** No Item<br>**Ability:** — | 1. —<br>2. —<br>3. —<br>4. — |
+| ![Sigilyph](../../assets/sprites/sigilyph/front.png)<br>[Sigilyph](../../pokemon/sigilyph.md/) |**Level:** 33<br>**Item:** No Item<br>**Ability:** — | 1. —<br>2. —<br>3. —<br>4. — |
 
 ---
 

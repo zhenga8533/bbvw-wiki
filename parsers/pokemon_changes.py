@@ -48,10 +48,10 @@ def main():
             sprites = ""
 
             for p in pokemon:
-                name = format_id(" ".join(p.split(" ")[1:]))
+                name = format_id(p, start_index=1)
                 links.append(f"[{p}](../pokemon/{name}.md/)")
                 sprites += f"![{name}](../assets/sprites/{name}/front.gif)\n"
-            md += f"**{", ".join(links)}**\n\n{sprites}\n<pre><code>"
+            md += f"**{', '.join(links)}**\n\n{sprites}\n<pre><code>"
 
             curr_pokemon = line
             listing = True
@@ -65,7 +65,7 @@ def main():
 
             pokemon = strs[1].split(", ")
             for i, p in enumerate(pokemon):
-                md += f"{i + 1}. {p.rstrip(".")}\n"
+                md += f"{i + 1}. {p.rstrip('.')}\n"
             md += "```\n\n"
         # General change header
         elif listing and ": " in line:
@@ -87,7 +87,7 @@ def main():
     # Update pokemon data
     logger.log(logging.INFO, "Updating Pokémon data")
     for key in pokemon_changes:
-        pokemon = [format_id(p, 1) for p in key.split(", ")]
+        pokemon = [format_id(p, start_index=1) for p in key.split(", ")]
         lines = pokemon_changes[key]
 
         # Parse new items
@@ -128,7 +128,7 @@ def main():
 
             # Parse new abilities
             elif line.startswith("Ability"):
-                ability_name = line.split(": ")[1].replace(" ", "-").lower()
+                ability_name = format_id(line.split(": ")[1])
                 if next((a for a in abilities if a["name"] == ability_name), None) is not None:
                     continue
 
@@ -159,7 +159,7 @@ def main():
             elif line.startswith("Evolution"):
                 evo, parts = line.split(": ")
                 if evo.endswith(")"):
-                    parts = f"{evo.split(" ")[1][1:-1]}: {parts}"
+                    parts = f"{evo.split(' ')[1][1:-1]}: {parts}"
 
                 evolution.append(parts)
 
@@ -209,7 +209,7 @@ def main():
             # Parse remaining stats
             else:
                 parts = line.split(": ")
-                stat_name = parts[0].replace(" ", "-").lower()
+                stat_name = format_id(parts[0])
                 new_value = int(parts[1].split(" → ")[1])
                 stats[stat_name] = new_value
 

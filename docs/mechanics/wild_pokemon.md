@@ -859,7 +859,7 @@ Dark Grass, 1%
 
 ---
 
-## Driftveil Drawbidge
+## Driftveil Drawbridge
 
 Bridge Shadow
 

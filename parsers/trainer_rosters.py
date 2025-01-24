@@ -55,7 +55,7 @@ def main():
                 wild_md += "\n"
                 generic_trainers = []
             if location is not None:
-                file_path = f"{WILD_ENCOUNTER_PATH}{location.lower().replace(" ", "_")}/trainer_rosters.md"
+                file_path = f"{WILD_ENCOUNTER_PATH}{location.replace(' ', '_').lower()}/trainer_rosters.md"
                 save(file_path, wild_md, logger)
                 wild_md = ""
                 location = None
@@ -75,12 +75,12 @@ def main():
             trainer, pokemon = line.split(": ")
 
             # Fetch trainer sprite
-            trainer_id = format_id(trainer).replace("-", "_")
+            trainer_id = format_id(trainer, symbol="_")
             trainer_sprite = f"../../assets/trainers/{trainer_id}.png"
             trainer_parts = trainer_id.split("_")
             trainer_i = len(trainer_parts) - 1
             while not verify_asset_path(trainer_sprite, logger) and trainer_i > 0:
-                trainer_sprite = f"../../assets/trainers/{"_".join(trainer_parts[:trainer_i])}.png"
+                trainer_sprite = f"../../assets/trainers/{'_'.join(trainer_parts[:trainer_i])}.png"
                 trainer_i -= 1
             trainer_md = f"| ![{trainer}]({trainer_sprite})<br>{trainer} |"
 

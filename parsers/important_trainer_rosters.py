@@ -54,8 +54,8 @@ def main():
                 pokemon_set.species = name[:-1]
                 if pokemon_mds[num - 1] != "":
                     pokemon_mds[num - 1] += "<br>"
-                pokemon_mds[num - 1] += f"{'\n    '.join(pokemon_set.to_string().split('\n'))}"
-                pokemon_tables[num - 1] += f"{'\n    '.join(pokemon_set.to_table().split('\n'))}\n"
+                pokemon_mds[num - 1] += "\n    ".join(pokemon_set.to_string().split("\n"))
+                pokemon_tables[num - 1] += "\n    ".join(pokemon_set.to_table().split("\n")) + "\n"
             else:
                 base_md.append(pokemon_set.to_string())
                 base_tables.append(pokemon_set.to_table())
@@ -67,7 +67,7 @@ def main():
         wild_rosters[location] += f"---\n\n## {trainer}\n\n"
 
         # Set trainer sprite
-        trainer_id = format_id(trainer).replace("-", "_")
+        trainer_id = format_id(trainer, "_")
         trainer_sprite = f"../../assets/important_trainers/{trainer_id}.png"
         trainer_parts = trainer_id.split("_")
         # Try all subarray combinations of trainer_parts
@@ -98,11 +98,10 @@ def main():
                 wild_rosters[location] += "    | Pokemon | Attributes | Moves |\n"
                 wild_rosters[location] += "    |:-------:|------------|-------|\n"
                 for table in base_tables:
-                    wild_rosters[location] += f"    {"\n    ".join(table.split('\n'))}\n"
-                wild_rosters[location] += f"    {"\n    ".join(pokemon_tables[i].split('\n'))}\n"
-                wild_rosters[location] += "\n"
+                    wild_rosters[location] += "    " + "\n    ".join(table.split("\n")) + "\n"
+                wild_rosters[location] += "    " + "\n    ".join(pokemon_tables[i].split("\n")) + "\n\n"
         else:
-            md += f"<pre><code>{'\n'.join(base_md)}</code></pre>\n\n"
+            md += "<pre><code>" + "\n".join(base_md) + "</code></pre>\n\n"
 
             # Add the table to the wild rosters
             wild_rosters[location] += "| Pokemon | Attributes | Moves |\n"
@@ -172,7 +171,7 @@ def main():
 
     # Parse wild rosters into markdown files
     for location, roster in wild_rosters.items():
-        file_path = f"{WILD_ENCOUNTER_PATH}{location.lower().replace(" ", "_")}/important_trainers.md"
+        file_path = f"{WILD_ENCOUNTER_PATH}{location.replace(' ', '_').lower()}/important_trainers.md"
         save(file_path, roster, logger)
 
     save(f"{OUTPUT_PATH}important_trainer_rosters.md", md, logger)

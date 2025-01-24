@@ -26,5 +26,5 @@
 | ![Jirachi](../../assets/sprites/jirachi/front.png)<br>[Jirachi](../../pokemon/jirachi.md/) |**Level:** 95<br>**Item:** Lum Berry Damp Rock<br>**Ability:** Serene Grace | 1. Thunder Wave<br>2. Iron Head<br>3. Water Pulse<br>4. Thunder |
 | ![Manaphy](../../assets/sprites/manaphy/front.png)<br>[Manaphy](../../pokemon/manaphy.md/) |**Level:** 95<br>**Item:** Lum Berry<br>**Ability:** Hydration | 1. Rain Dance<br>2. Rest<br>3. Hydro Pump<br>4. Tail Glow |
 | ![Shaymin](../../assets/sprites/shaymin-land/front.png)<br>[Shaymin](../../pokemon/shaymin-land.md/) |**Level:** 95<br>**Item:** Expert Belt<br>**Ability:** Natural Cure | 1. Seed Flare<br>2. Air Slash<br>3. Psychic<br>4. Earth Power |
-| ![Mew](../../assets/sprites/mew/front.png)<br>[Mew](../../pokemon/mew.md/) |**Level:** 100<br>**Item:** —<br>**Ability:** Synchronize | 1. Psychic<br>2. Fire Blast<br>3. Earth Power<br>4. Dragon Pulse |
+| ![Mew](../../assets/sprites/mew/front.png)<br>[Mew](../../pokemon/mew.md/) |**Level:** 100<br>**Item:** No Item<br>**Ability:** Synchronize | 1. Psychic<br>2. Fire Blast<br>3. Earth Power<br>4. Dragon Pulse |
 

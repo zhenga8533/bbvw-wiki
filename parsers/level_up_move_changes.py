@@ -43,11 +43,11 @@ def main():
                 listing = False
         # Pokémon
         elif line.startswith("#"):
-            name = format_id(" ".join(line.split(" ")[1:]))
+            name = format_id(line, start_index=1)
             md += f"**[{line}](../pokemon/{name}.md/)**\n\n"
             md += f"![{name}](../assets/sprites/{name}/front.gif)\n\n```\n"
 
-            curr_pokemon = format_id(line, 1)
+            curr_pokemon = format_id(line, start_index=1)
             listing = True
         # Region header
         elif line.endswith("Pokémon"):
@@ -59,6 +59,8 @@ def main():
         # General changes list
         elif line.startswith("• "):
             match = re.match(r"• (.+) is now (\d+) power\.", line)
+            md += f"{line}\n"
+
             if match:
                 move_name, power = match.groups()
                 logger.log(logging.DEBUG, f"Updating move {move_name} to power {power}")
@@ -71,7 +73,6 @@ def main():
                     save(move_path, json.dumps(move_data, indent=4), logger)
                 except:
                     continue
-            md += f"{line}\n"
         # Move changes
         elif curr_pokemon is not None:
             if curr_pokemon in move_changes:
@@ -106,7 +107,7 @@ def main():
                     (
                         i
                         for i, move in enumerate(moves)
-                        if move["name"].replace(" ", "").lower() == name.replace(" ", "").lower()
+                        if format_id(move["name"], symbol="") == format_id(name, symbol="")
                     ),
                     None,
                 )

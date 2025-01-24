@@ -1,6 +1,6 @@
 from dotenv import load_dotenv
 from util.file import load, save, verify_asset_path
-from util.format import create_image_table, verify_pokemon_form
+from util.format import create_image_table, revert_id, verify_pokemon_form
 from util.logger import Logger
 import glob
 import json
@@ -31,7 +31,7 @@ def parse_evolution_line(evolution, pokemon_set, level=1, index=1):
         md += f"{'    ' * (level - 1)}{index}. "
         evolution_details = evolution["evolution_details"]
         if len(evolution_details) > 0:
-            md += f"{evolution_details[-1]["trigger"]["name"].replace("-", " ").title()}: "
+            md += revert_id(evolution_details[-1]["trigger"]["name"]) + ": "
         md += f"[{name.title()}]({name}.md/)\n"
 
         if evolution["evolutions"]:
@@ -97,7 +97,7 @@ def parse_moves(moves: list, headers: list, move_key: str, logger: Logger) -> st
             elif category == "TM":
                 md_body += f"| {move_data["machines"][move_key].upper()} "
             elif category == "Move":
-                md_body += f"| {move_data["name"].replace("-", " ").title()} "
+                md_body += f"| {revert_id(move_data["name"])} "
             elif category == "Type":
                 md_body += f"| ![{move_data["type"]}](../assets/types/{move_data["type"]}.png){{: width='48'}} "
             elif category == "Cat.":
@@ -116,9 +116,9 @@ def parse_moves(moves: list, headers: list, move_key: str, logger: Logger) -> st
 def to_md(pokemon: dict, pokemon_set: dict, logger: Logger) -> str:
     # Basic information
     name_id = pokemon["name"]
-    pokemon_name = name_id.replace("-", " ").title()
+    pokemon_name = revert_id(name_id)
     pokemon_id = pokemon["id"]
-    md = f"# #{pokemon["id"]:03} {pokemon_name} ({pokemon["genus"]})\n\n"
+    md = f"# #{pokemon_id:03} {pokemon_name} ({pokemon["genus"]})\n\n"
 
     # Add official artwork
     md += create_image_table(
@@ -144,7 +144,7 @@ def to_md(pokemon: dict, pokemon_set: dict, logger: Logger) -> str:
             md += f"**Volt White:** {white_flavor_text}\n\n"
     else:
         flavor_text_keys = list(flavor_text_entries.keys())
-        md += f"{flavor_text_entries[flavor_text_keys[-1]].replace('\n', ' ')}\n\n"
+        md += flavor_text_entries[flavor_text_keys[-1]].replace("\n", " ") + "\n\n"
 
     # Add sprites
     md += "---\n\n## Media\n\n"
@@ -215,7 +215,7 @@ def to_md(pokemon: dict, pokemon_set: dict, logger: Logger) -> str:
     md += "---\n\n## Pokédex Data\n\n"
     md += f"| National № | Type(s) | Height | Weight | Abilities | Local № |\n"
     md += f"|------------|---------|--------|--------|-----------|---------|\n"
-    md += f"| #{pokemon["id"]} "
+    md += f"| #{pokemon_id} "
     md += f"| {" ".join([f"![{t}](../assets/types/{t}.png){{: width='48'}}" for t in pokemon["types"]])} "
     md += f"| {pokemon["height"]} m "
     md += f"| {pokemon["weight"]} kg "
@@ -265,14 +265,14 @@ def to_md(pokemon: dict, pokemon_set: dict, logger: Logger) -> str:
     md += f"| EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |\n"
     md += f"|----------|------------|-----------------|-----------|-------------|------------|\n"
     ev_yield = pokemon["ev_yield"]
-    md += f"| {"<br>".join([f"{ev_yield[stat]} {stat.replace("-", " ").title()}" for stat in ev_yield if ev_yield[stat] > 0])} "
+    md += f"| {"<br>".join([f"{ev_yield[stat]} {revert_id(stat)}" for stat in ev_yield if ev_yield[stat] > 0])} "
     md += f"| {pokemon["capture_rate"]} "
     md += f"| {pokemon["base_happiness"]} "
     md += f"| {pokemon["base_experience"]} "
     md += f"| {pokemon["growth_rate"].title()} | "
     held_items = [
         {
-            "name": item["name"].replace("-", " ").title(),
+            "name": revert_id(item["name"]),
             "rarity": next(
                 (r["rarity"] for r in item["rarity"] if r["version"] in {"black", "white"}),
                 None,
@@ -420,11 +420,11 @@ def main():
         if i in pokedex_start:
             nav += f"      - {generations[pokedex_start.index(i)]}:\n"
 
-        clean_name = name.replace("-", " ").title()
+        clean_name = revert_id(name)
         nav += f'          - "#{f"{i + 1:03}"} {clean_name}": {POKEMON_OUTPUT_PATH}{name}.md\n'
     nav += f"      - Pokémon Forms:\n"
     for name in forms:
-        clean_name = name.replace("-", " ").title()
+        clean_name = revert_id(name.replace)
         nav += f"          - {clean_name}: {POKEMON_OUTPUT_PATH}{name}.md\n"
 
     logger.log(logging.INFO, "Successfully generated Pokémon navigation")

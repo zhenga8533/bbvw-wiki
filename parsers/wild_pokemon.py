@@ -14,7 +14,7 @@ def parse_special_encounter(data):
     chance = "–"
     if len(lines) > 2:
         encounter_data = lines[2].split(", ")
-        encounter_id = "_".join(encounter_data[0:-1]).replace(" ", "_").lower()
+        encounter_id = format_id("_".join(encounter_data[0:-1]), symbol="_")
         chance = encounter_data[-1]
     pokemon_id = format_id(pokemon)
 
@@ -78,8 +78,9 @@ def main():
         elif last_line.startswith("="):
             md += f"---\n\n## {line}\n\n"
             if location_md != "" and curr_location != "Black City / White Forest":
+                curr_location = curr_location.replace(" ", "_").lower()
                 save(
-                    f"{WILD_ENCOUNTER_PATH}{curr_location.lower().replace(" ", "_")}/wild_pokemon.md",
+                    f"{WILD_ENCOUNTER_PATH}{curr_location}/wild_pokemon.md",
                     location_md,
                     logger,
                 )
@@ -103,7 +104,7 @@ def main():
                 pokemon, chance = encounter.split(" (")
                 chance = chance.rstrip(")")
                 pokemon_id = format_id(pokemon)
-                encounter_id = format_id(encounter_type).replace("-", "_")
+                encounter_id = format_id(encounter_type, symbol="_")
 
                 md += f"{i + 1}. <a href='/bbvw-wiki/pokemon/{pokemon_id}/'>{pokemon}</a> ({chance})\n"
                 location_md += f"| ![{pokemon_id}](../../assets/sprites/{pokemon_id}/front.gif) "
@@ -137,14 +138,14 @@ def main():
         elif " – " in line:
             md += f"#### <u>{line}</u>\n\n"
 
-            location_md = location_md.rstrip(location_header) + f"\n\n---\n\n## {line}\n\n"
+            location_md = location_md.rstrip(location_header) + "\n\n---\n\n## " + line.split(" \u2014 ")[-1] + "\n\n"
             location_md += location_header
         # Misc lines
         else:
             md += line + "\n\n"
     logger.log(logging.INFO, "Wild Pokémon parsed successfully!")
 
-    save(f"{WILD_ENCOUNTER_PATH}{curr_location.lower().replace(" ", "_")}/wild_pokemon.md", location_md, logger)
+    save(f"{WILD_ENCOUNTER_PATH}{curr_location.replace(' ', '_').lower()}/wild_pokemon.md", location_md, logger)
     save(f"{OUTPUT_PATH}wild_pokemon.md", md, logger)
 
 

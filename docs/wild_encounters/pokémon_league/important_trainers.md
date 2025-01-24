@@ -6,12 +6,12 @@
 
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|
-| ![Drifblim](../../assets/sprites/drifblim/front.png)<br>[Drifblim](../../pokemon/drifblim.md/) |**Level:** 71<br>**Item:** —<br>**Ability:** Flare Boost | 1. Tailwind<br>2. Shadow Ball<br>3. Thunderbolt<br>4. Hurricane |
-| ![Golurk](../../assets/sprites/golurk/front.png)<br>[Golurk](../../pokemon/golurk.md/) |**Level:** 71<br>**Item:** —<br>**Ability:** Iron Fist | 1. Earthquake<br>2. Shadow Punch<br>3. Hammer Arm<br>4. Rock Polish |
-| ![Mismagius](../../assets/sprites/mismagius/front.png)<br>[Mismagius](../../pokemon/mismagius.md/) |**Level:** 71<br>**Item:** —<br>**Ability:** Levitate | 1. Shadow Ball<br>2. Nasty Plot<br>3. Thunderbolt<br>4. Will-O-Wisp |
-| ![Froslass](../../assets/sprites/froslass/front.png)<br>[Froslass](../../pokemon/froslass.md/) |**Level:** 71<br>**Item:** —<br>**Ability:** Levitate | 1. Shadow Ball<br>2. Blizzard<br>3. Thunderbolt<br>4. Will-O-Wisp |
-| ![Jellicent](../../assets/sprites/jellicent/front.png)<br>[Jellicent](../../pokemon/jellicent.md/) |**Level:** 73<br>**Item:** —<br>**Ability:** Cursed Body | 1. Shadow Ball<br>2. Hydro Pump<br>3. Will-O-Wisp<br>4. Recover |
-| ![Chandelure](../../assets/sprites/chandelure/front.png)<br>[Chandelure](../../pokemon/chandelure.md/) |**Level:** 73<br>**Item:** —<br>**Ability:** Levitate | 1. Shadow Ball<br>2. Fire Blast<br>3. Energy Ball<br>4. Psychic |
+| ![Drifblim](../../assets/sprites/drifblim/front.png)<br>[Drifblim](../../pokemon/drifblim.md/) |**Level:** 71<br>**Item:** No Item<br>**Ability:** Flare Boost | 1. Tailwind<br>2. Shadow Ball<br>3. Thunderbolt<br>4. Hurricane |
+| ![Golurk](../../assets/sprites/golurk/front.png)<br>[Golurk](../../pokemon/golurk.md/) |**Level:** 71<br>**Item:** No Item<br>**Ability:** Iron Fist | 1. Earthquake<br>2. Shadow Punch<br>3. Hammer Arm<br>4. Rock Polish |
+| ![Mismagius](../../assets/sprites/mismagius/front.png)<br>[Mismagius](../../pokemon/mismagius.md/) |**Level:** 71<br>**Item:** No Item<br>**Ability:** Levitate | 1. Shadow Ball<br>2. Nasty Plot<br>3. Thunderbolt<br>4. Will-O-Wisp |
+| ![Froslass](../../assets/sprites/froslass/front.png)<br>[Froslass](../../pokemon/froslass.md/) |**Level:** 71<br>**Item:** No Item<br>**Ability:** Levitate | 1. Shadow Ball<br>2. Blizzard<br>3. Thunderbolt<br>4. Will-O-Wisp |
+| ![Jellicent](../../assets/sprites/jellicent/front.png)<br>[Jellicent](../../pokemon/jellicent.md/) |**Level:** 73<br>**Item:** No Item<br>**Ability:** Cursed Body | 1. Shadow Ball<br>2. Hydro Pump<br>3. Will-O-Wisp<br>4. Recover |
+| ![Chandelure](../../assets/sprites/chandelure/front.png)<br>[Chandelure](../../pokemon/chandelure.md/) |**Level:** 73<br>**Item:** No Item<br>**Ability:** Levitate | 1. Shadow Ball<br>2. Fire Blast<br>3. Energy Ball<br>4. Psychic |
 
 ---
 
@@ -111,12 +111,12 @@
 
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|
-| ![Cofagrigus](../../assets/sprites/cofagrigus/front.png)<br>[Cofagrigus](../../pokemon/cofagrigus.md/) |**Level:** 91<br>**Item:** —<br>**Ability:** Mummy | 1. Will-O-Wisp<br>2. Shadow Ball<br>3. Psychic<br>4. Disable |
-| ![Gengar](../../assets/sprites/gengar/front.png)<br>[Gengar](../../pokemon/gengar.md/) |**Level:** 91<br>**Item:** —<br>**Ability:** Levitate | 1. Focus Blast<br>2. Shadow Ball<br>3. Thunder<br>4. Sludge Bomb |
-| ![Sableye](../../assets/sprites/sableye/front.png)<br>[Sableye](../../pokemon/sableye.md/) |**Level:** 91<br>**Item:** —<br>**Ability:** Prankster | 1. Recover<br>2. Shadow Claw<br>3. Foul Play<br>4. Will-O-Wisp |
-| ![Golurk](../../assets/sprites/golurk/front.png)<br>[Golurk](../../pokemon/golurk.md/) |**Level:** 91<br>**Item:** —<br>**Ability:** No Guard | 1. Dynamic Punch<br>2. Shadow Punch<br>3. Earthquake<br>4. Substitute |
-| ![Jellicent](../../assets/sprites/jellicent/front.png)<br>[Jellicent](../../pokemon/jellicent.md/) |**Level:** 91<br>**Item:** —<br>**Ability:** Cursed Body | 1. Hydro Pump<br>2. Shadow Ball<br>3. Recover<br>4. Will-O-Wisp |
-| ![Chandelure](../../assets/sprites/chandelure/front.png)<br>[Chandelure](../../pokemon/chandelure.md/) |**Level:** 93<br>**Item:** —<br>**Ability:** Levitate | 1. Fire Blast<br>2. Shadow Ball<br>3. Hidden Power<br>4. Calm Mind |
+| ![Cofagrigus](../../assets/sprites/cofagrigus/front.png)<br>[Cofagrigus](../../pokemon/cofagrigus.md/) |**Level:** 91<br>**Item:** No Item<br>**Ability:** Mummy | 1. Will-O-Wisp<br>2. Shadow Ball<br>3. Psychic<br>4. Disable |
+| ![Gengar](../../assets/sprites/gengar/front.png)<br>[Gengar](../../pokemon/gengar.md/) |**Level:** 91<br>**Item:** No Item<br>**Ability:** Levitate | 1. Focus Blast<br>2. Shadow Ball<br>3. Thunder<br>4. Sludge Bomb |
+| ![Sableye](../../assets/sprites/sableye/front.png)<br>[Sableye](../../pokemon/sableye.md/) |**Level:** 91<br>**Item:** No Item<br>**Ability:** Prankster | 1. Recover<br>2. Shadow Claw<br>3. Foul Play<br>4. Will-O-Wisp |
+| ![Golurk](../../assets/sprites/golurk/front.png)<br>[Golurk](../../pokemon/golurk.md/) |**Level:** 91<br>**Item:** No Item<br>**Ability:** No Guard | 1. Dynamic Punch<br>2. Shadow Punch<br>3. Earthquake<br>4. Substitute |
+| ![Jellicent](../../assets/sprites/jellicent/front.png)<br>[Jellicent](../../pokemon/jellicent.md/) |**Level:** 91<br>**Item:** No Item<br>**Ability:** Cursed Body | 1. Hydro Pump<br>2. Shadow Ball<br>3. Recover<br>4. Will-O-Wisp |
+| ![Chandelure](../../assets/sprites/chandelure/front.png)<br>[Chandelure](../../pokemon/chandelure.md/) |**Level:** 93<br>**Item:** No Item<br>**Ability:** Levitate | 1. Fire Blast<br>2. Shadow Ball<br>3. Hidden Power<br>4. Calm Mind |
 
 ---
 
@@ -141,12 +141,12 @@
 
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|
-| ![Mienshao](../../assets/sprites/mienshao/front.png)<br>[Mienshao](../../pokemon/mienshao.md/) |**Level:** 91<br>**Item:** —<br>**Ability:** Reckless | 1. High Jump Kick<br>2. Stone Edge<br>3. Grass Knot<br>4. Hidden Power |
-| ![Breloom](../../assets/sprites/breloom/front.png)<br>[Breloom](../../pokemon/breloom.md/) |**Level:** 91<br>**Item:** —<br>**Ability:** Poison Heal | 1. Protect<br>2. Leech Seed<br>3. Drain Punch<br>4. Seed Bomb |
-| ![Scrafty](../../assets/sprites/scrafty/front.png)<br>[Scrafty](../../pokemon/scrafty.md/) |**Level:** 91<br>**Item:** —<br>**Ability:** Moxie | 1. Sucker Punch<br>2. High Jump Kick<br>3. Light Screen<br>4. Head Smash |
-| ![Lucario](../../assets/sprites/lucario/front.png)<br>[Lucario](../../pokemon/lucario.md/) |**Level:** 91<br>**Item:** —<br>**Ability:** Justified | 1. High Jump Kick<br>2. Dragon Pulse<br>3. Ice Punch<br>4. Bullet Punch |
-| ![Blaziken](../../assets/sprites/blaziken/front.png)<br>[Blaziken](../../pokemon/blaziken.md/) |**Level:** 91<br>**Item:** —<br>**Ability:** Speed Boost | 1. Protect<br>2. Blaze Kick<br>3. High Jump Kick<br>4. Baton Pass |
-| ![Conkeldurr](../../assets/sprites/conkeldurr/front.png)<br>[Conkeldurr](../../pokemon/conkeldurr.md/) |**Level:** 93<br>**Item:** —<br>**Ability:** Iron Fist | 1. Mach Punch<br>2. Stone Edge<br>3. Payback<br>4. Drain Punch |
+| ![Mienshao](../../assets/sprites/mienshao/front.png)<br>[Mienshao](../../pokemon/mienshao.md/) |**Level:** 91<br>**Item:** No Item<br>**Ability:** Reckless | 1. High Jump Kick<br>2. Stone Edge<br>3. Grass Knot<br>4. Hidden Power |
+| ![Breloom](../../assets/sprites/breloom/front.png)<br>[Breloom](../../pokemon/breloom.md/) |**Level:** 91<br>**Item:** No Item<br>**Ability:** Poison Heal | 1. Protect<br>2. Leech Seed<br>3. Drain Punch<br>4. Seed Bomb |
+| ![Scrafty](../../assets/sprites/scrafty/front.png)<br>[Scrafty](../../pokemon/scrafty.md/) |**Level:** 91<br>**Item:** No Item<br>**Ability:** Moxie | 1. Sucker Punch<br>2. High Jump Kick<br>3. Light Screen<br>4. Head Smash |
+| ![Lucario](../../assets/sprites/lucario/front.png)<br>[Lucario](../../pokemon/lucario.md/) |**Level:** 91<br>**Item:** No Item<br>**Ability:** Justified | 1. High Jump Kick<br>2. Dragon Pulse<br>3. Ice Punch<br>4. Bullet Punch |
+| ![Blaziken](../../assets/sprites/blaziken/front.png)<br>[Blaziken](../../pokemon/blaziken.md/) |**Level:** 91<br>**Item:** No Item<br>**Ability:** Speed Boost | 1. Protect<br>2. Blaze Kick<br>3. High Jump Kick<br>4. Baton Pass |
+| ![Conkeldurr](../../assets/sprites/conkeldurr/front.png)<br>[Conkeldurr](../../pokemon/conkeldurr.md/) |**Level:** 93<br>**Item:** No Item<br>**Ability:** Iron Fist | 1. Mach Punch<br>2. Stone Edge<br>3. Payback<br>4. Drain Punch |
 
 ---
 

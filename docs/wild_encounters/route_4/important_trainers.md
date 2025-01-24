@@ -59,7 +59,7 @@
     | ![Boldore](../../assets/sprites/boldore/front.png)<br>[Boldore](../../pokemon/boldore.md/) |**Level:** 31<br>**Item:** Hard Stone<br>**Ability:** Sturdy | 1. —<br>2. —<br>3. —<br>4. — |
     | ![Kadabra](../../assets/sprites/kadabra/front.png)<br>[Kadabra](../../pokemon/kadabra.md/) |**Level:** 31<br>**Item:** TwistedSpoon<br>**Ability:** Magic Guard | 1. —<br>2. —<br>3. —<br>4. — |
     | ![Simisage](../../assets/sprites/simisage/front.png)<br>[Simisage](../../pokemon/simisage.md/) |**Level:** 31<br>**Item:** Sitrus Berry<br>**Ability:** Blaze | 1. —<br>2. —<br>3. —<br>4. — |
-    | ![Pignite](../../assets/sprites/pignite/front.png)<br>[Pignite](../../pokemon/pignite.md/) |**Level:** 33<br>**Item:** —<br>**Ability:** Vital Spirit | 1. —<br>2. —<br>3. —<br>4. — |
+    | ![Pignite](../../assets/sprites/pignite/front.png)<br>[Pignite](../../pokemon/pignite.md/) |**Level:** 33<br>**Item:** No Item<br>**Ability:** Vital Spirit | 1. —<br>2. —<br>3. —<br>4. — |
     
 
 === "Oshawott"
@@ -70,6 +70,6 @@
     | ![Boldore](../../assets/sprites/boldore/front.png)<br>[Boldore](../../pokemon/boldore.md/) |**Level:** 31<br>**Item:** Hard Stone<br>**Ability:** Sturdy | 1. —<br>2. —<br>3. —<br>4. — |
     | ![Kadabra](../../assets/sprites/kadabra/front.png)<br>[Kadabra](../../pokemon/kadabra.md/) |**Level:** 31<br>**Item:** TwistedSpoon<br>**Ability:** Magic Guard | 1. —<br>2. —<br>3. —<br>4. — |
     | ![Simipour](../../assets/sprites/simipour/front.png)<br>[Simipour](../../pokemon/simipour.md/) |**Level:** 31<br>**Item:** Sitrus Berry<br>**Ability:** Overgrow | 1. —<br>2. —<br>3. —<br>4. — |
-    | ![Servine](../../assets/sprites/servine/front.png)<br>[Servine](../../pokemon/servine.md/) |**Level:** 33<br>**Item:** —<br>**Ability:** Adaptability | 1. —<br>2. —<br>3. —<br>4. — |
+    | ![Servine](../../assets/sprites/servine/front.png)<br>[Servine](../../pokemon/servine.md/) |**Level:** 33<br>**Item:** No Item<br>**Ability:** Adaptability | 1. —<br>2. —<br>3. —<br>4. — |
     
 

@@ -2,8 +2,8 @@ from util.file import verify_asset_path
 from util.logger import Logger
 import keyword
 import logging
-import os
 import re
+import string
 
 
 def clean_variable_name(s):
@@ -68,13 +68,17 @@ def fix_pokemon_id(pokemon_id: str) -> str:
     return pokemon_id
 
 
-def format_id(name: str, start_index: int = 0) -> str:
+def format_id(name: str, symbol: str = "-", start_index: int = 0) -> str:
     name = remove_special_characters(name)
     name = compress_spaces(name)
-    name = "-".join(name.split(" ")[start_index:]).lower()
+    name = symbol.join(name.split(" ")[start_index:]).lower()
     name = fix_pokemon_id(name)
 
     return name
+
+
+def revert_id(name: str, symbol: str = "-") -> str:
+    return string.capwords(name.replace(symbol, " "))
 
 
 def remove_special_characters(s: str) -> str:

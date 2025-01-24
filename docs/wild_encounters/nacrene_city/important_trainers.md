@@ -6,11 +6,11 @@
 
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|
-| ![Drilbur](../../assets/sprites/drilbur/front.png)<br>[Drilbur](../../pokemon/drilbur.md/) |**Level:** 19<br>**Item:** —<br>**Ability:** — | 1. —<br>2. —<br>3. —<br>4. — |
-| ![Bronzor](../../assets/sprites/bronzor/front.png)<br>[Bronzor](../../pokemon/bronzor.md/) |**Level:** 19<br>**Item:** —<br>**Ability:** — | 1. —<br>2. —<br>3. —<br>4. — |
-| ![Tympole](../../assets/sprites/tympole/front.png)<br>[Tympole](../../pokemon/tympole.md/) |**Level:** 19<br>**Item:** —<br>**Ability:** — | 1. —<br>2. —<br>3. —<br>4. — |
-| ![Vulpix](../../assets/sprites/vulpix/front.png)<br>[Vulpix](../../pokemon/vulpix.md/) |**Level:** 19<br>**Item:** —<br>**Ability:** — | 1. —<br>2. —<br>3. —<br>4. — |
-| ![Zorua](../../assets/sprites/zorua/front.png)<br>[Zorua](../../pokemon/zorua.md/) |**Level:** 19<br>**Item:** —<br>**Ability:** — | 1. —<br>2. —<br>3. —<br>4. — |
+| ![Drilbur](../../assets/sprites/drilbur/front.png)<br>[Drilbur](../../pokemon/drilbur.md/) |**Level:** 19<br>**Item:** No Item<br>**Ability:** — | 1. —<br>2. —<br>3. —<br>4. — |
+| ![Bronzor](../../assets/sprites/bronzor/front.png)<br>[Bronzor](../../pokemon/bronzor.md/) |**Level:** 19<br>**Item:** No Item<br>**Ability:** — | 1. —<br>2. —<br>3. —<br>4. — |
+| ![Tympole](../../assets/sprites/tympole/front.png)<br>[Tympole](../../pokemon/tympole.md/) |**Level:** 19<br>**Item:** No Item<br>**Ability:** — | 1. —<br>2. —<br>3. —<br>4. — |
+| ![Vulpix](../../assets/sprites/vulpix/front.png)<br>[Vulpix](../../pokemon/vulpix.md/) |**Level:** 19<br>**Item:** No Item<br>**Ability:** — | 1. —<br>2. —<br>3. —<br>4. — |
+| ![Zorua](../../assets/sprites/zorua/front.png)<br>[Zorua](../../pokemon/zorua.md/) |**Level:** 19<br>**Item:** No Item<br>**Ability:** — | 1. —<br>2. —<br>3. —<br>4. — |
 
 ---
 

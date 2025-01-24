@@ -25,7 +25,7 @@
     | ![Alakazam](../../assets/sprites/alakazam/front.png)<br>[Alakazam](../../pokemon/alakazam.md/) |**Level:** 66<br>**Item:** TwistedSpoon<br>**Ability:** Magic Guard | 1. Psychic<br>2. Shadow Ball<br>3. Energy Ball<br>4. Aura Sphere |
     | ![Gyarados](../../assets/sprites/gyarados/front.png)<br>[Gyarados](../../pokemon/gyarados.md/) |**Level:** 66<br>**Item:** Flying Gem<br>**Ability:** Prankster | 1. Leech Seed<br>2. Hurricane<br>3. Substitute<br>4. Cotton Guard |
     | ![Simisage](../../assets/sprites/simisage/front.png)<br>[Simisage](../../pokemon/simisage.md/) |**Level:** 66<br>**Item:** Sitrus Berry<br>**Ability:** Blaze | 1. Work Up<br>2. Acrobatics<br>3. Focus Blast<br>4. Fire Blast |
-    | ![Emboar](../../assets/sprites/emboar/front.png)<br>[Emboar](../../pokemon/emboar.md/) |**Level:** 68<br>**Item:** —<br>**Ability:** Vital Spirit | 1. Hydro Pump<br>2. Swords Dance<br>3. Megahorn<br>4. Secret Sword |
+    | ![Emboar](../../assets/sprites/emboar/front.png)<br>[Emboar](../../pokemon/emboar.md/) |**Level:** 68<br>**Item:** No Item<br>**Ability:** Vital Spirit | 1. Hydro Pump<br>2. Swords Dance<br>3. Megahorn<br>4. Secret Sword |
     
 
 === "Oshawott"
@@ -37,6 +37,6 @@
     | ![Alakazam](../../assets/sprites/alakazam/front.png)<br>[Alakazam](../../pokemon/alakazam.md/) |**Level:** 66<br>**Item:** TwistedSpoon<br>**Ability:** Magic Guard | 1. Psychic<br>2. Shadow Ball<br>3. Energy Ball<br>4. Aura Sphere |
     | ![Houndoom](../../assets/sprites/houndoom/front.png)<br>[Houndoom](../../pokemon/houndoom.md/) |**Level:** 66<br>**Item:** Flying Gem<br>**Ability:** Moxie | 1. Aqua Tail<br>2. Bounce<br>3. Dragon Dance<br>4. Earthquake |
     | ![Simipour](../../assets/sprites/simipour/front.png)<br>[Simipour](../../pokemon/simipour.md/) |**Level:** 66<br>**Item:** Sitrus Berry<br>**Ability:** Overgrow | 1. Work Up<br>2. Acrobatics<br>3. Focus Blast<br>4. Power Whip |
-    | ![Serperior](../../assets/sprites/serperior/front.png)<br>[Serperior](../../pokemon/serperior.md/) |**Level:** 68<br>**Item:** —<br>**Ability:** Adaptability | 1. Flare Blitz<br>2. Bulk Up<br>3. Wild Charge<br>4. Earthquake |
+    | ![Serperior](../../assets/sprites/serperior/front.png)<br>[Serperior](../../pokemon/serperior.md/) |**Level:** 68<br>**Item:** No Item<br>**Ability:** Adaptability | 1. Flare Blitz<br>2. Bulk Up<br>3. Wild Charge<br>4. Earthquake |
     
 
