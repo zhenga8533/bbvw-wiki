@@ -24,8 +24,51 @@ def main():
 
     listing = 0
     listing_type = None
-    teaming = False
     pokemon_sets = []
+
+    # Wild encounter rosters
+    wild_rosters = {}
+    location = None
+
+    def add_pokemon_sets():
+        nonlocal md
+        nonlocal pokemon_sets
+        nonlocal wild_rosters
+        nonlocal location
+
+        if len(pokemon_sets) == 0:
+            return
+
+        md += "</code></pre>\n\n"
+        base_md = []
+        pokemon_mds = ["", "", ""]
+
+        for pokemon_set in pokemon_sets:
+            name = pokemon_set.species
+            if name.endswith("1") or name.endswith("2") or name.endswith("3"):
+                num = int(name[-1])
+                pokemon_set.species = name[:-1]
+                if pokemon_mds[num - 1] != "":
+                    pokemon_mds[num - 1] += "<br>"
+                pokemon_mds[num - 1] += f"{'\n    '.join(pokemon_set.to_string().split('\n'))}"
+            else:
+                base_md.append(pokemon_set.to_string())
+        pokemon_sets = []
+
+        if pokemon_mds[0] != "":
+            br = "\n    <br>"
+            if len(base_md) > 0:
+                base_md = br.join("\n    ".join(base.split("\n")).rstrip() for base in base_md) + br
+            else:
+                base_md = ""
+
+            starters = ["Tepig", "Snivy", "Oshawott"]
+            for i in range(3):
+                md += f'=== "{starters[i]}"\n\n    <pre><code>'
+                md += base_md
+                md += pokemon_mds[i].strip() + "</code></pre>\n\n"
+        else:
+            md += f"<pre><code>{'\n'.join(base_md)}</code></pre>\n\n"
 
     # Parse the content
     logger.log(logging.INFO, "Parsing Important Trainer Rosters content")
@@ -35,33 +78,24 @@ def main():
         logger.log(logging.DEBUG, f"Processing line {i + 1}/{n}")
 
         # Empty Lines
-        if line == "":
+        if line == "" or line == "---":
             listing = 0
+        elif next_line == "---":
+            add_pokemon_sets()
+            md += f"## {line}\n\n"
         # Start of a new section
         elif next_line.startswith("Battle Type"):
-            if len(pokemon_sets) > 0:
-                for pokemon_set in pokemon_sets:
-                    md += pokemon_set.to_string() + "\n"
-                md = md.rstrip()
-                pokemon_sets = []
-            if teaming:
-                md += "</code></pre>\n\n"
-
-            md += f"---\n\n## {line}\n\n<pre><code>"
-            teaming = True
-        elif line.startswith("Battle Type:") or line.startswith("Reward:") or line.startswith("Location:"):
+            add_pokemon_sets()
+            md += f"---\n\n### {line}\n\n<pre><code>"
+        elif ": " in line:
             category, value = line.split(": ")
+            if category == "Location":
+                location = value
+
             md += f"<b>{category}:</b> {value}\n"
         # Pokémon Team
         elif "’s Team" in line:
-            if len(pokemon_sets) > 0:
-                for pokemon_set in pokemon_sets:
-                    md += pokemon_set.to_string() + "\n"
-                md = md.rstrip()
-                pokemon_sets = []
-
-            md += "</code></pre>\n\n<pre><code>"
-            md += f"<u><b>{line}</b></u>\n\n"
+            add_pokemon_sets()
         # Pokémon Team Details
         elif (
             line.startswith("Species")
@@ -91,10 +125,7 @@ def main():
         else:
             md += f"{line}\n\n"
 
-    if len(pokemon_sets) > 0:
-        for p in pokemon_sets:
-            md += "\n" + p.to_string()
-        md += "</code></pre>\n"
+    add_pokemon_sets()
     logger.log(logging.INFO, "Important Trainer Rosters content parsed successfully!")
 
     save(f"{OUTPUT_PATH}important_trainer_rosters.md", md, logger)
