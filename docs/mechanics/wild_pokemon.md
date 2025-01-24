@@ -2241,20 +2241,20 @@ Cave, Normal, 1%
 
 ---
 
-## N’s Castle
+## N's Castle
 
 Legendary Encounter
 
 ```
 Reshiram, Level 70
-N’s Castle, Blaze Black
+N's Castle, Blaze Black
 ```
 
 Legendary Encounter
 
 ```
 Zekrom, Level 70
-N’s Castle, Volt White
+N's Castle, Volt White
 ```
 
 ---
@@ -3045,9 +3045,9 @@ Bridge, Special, 1%
 
 ---
 
-## Challenger’s Cave
+## Challenger's Cave
 
-#### <u>Challenger’s Cave – 1F</u>
+#### <u>Challenger's Cave – 1F</u>
 
 Cave, Normal
 
@@ -3073,13 +3073,13 @@ Legendary Encounter
 
 ```
 Genesect, Level 75
-Challenger’s Cave, 1F
+Challenger's Cave, 1F
 Cave, Normal, 1%
 ```
 
-<sub><sup>_Though previously seen in the hands of Ghetsis, the artificial Genesect now appears in the top floors of the looming Challenger’s Cave. The threats below keep it from descending, but this insect might just drop on your head. It won’t be pretty._</sup></sub>
+<sub><sup>_Though previously seen in the hands of Ghetsis, the artificial Genesect now appears in the top floors of the looming Challenger's Cave. The threats below keep it from descending, but this insect might just drop on your head. It won’t be pretty._</sup></sub>
 
-#### <u>Challenger’s Cave – B1F</u>
+#### <u>Challenger's Cave – B1F</u>
 
 Cave, Normal
 
@@ -3105,23 +3105,23 @@ Legendary Encounter
 
 ```
 Mewtwo, Level 75
-Challenger’s Cave, B1F
+Challenger's Cave, B1F
 Cave, Normal, 1%
 ```
 
-<sub><sup>_Mewtwo returns in a post League cave once more. Challenger’s Cave is a lot like Cerulean’s Cave, but a certain Pokémon God stopped him getting into the real bottom floor. Still, the dark and damp is enough to make it feel like home._</sup></sub>
+<sub><sup>_Mewtwo returns in a post League cave once more. Challenger's Cave is a lot like Cerulean’s Cave, but a certain Pokémon God stopped him getting into the real bottom floor. Still, the dark and damp is enough to make it feel like home._</sup></sub>
 
 Legendary Encounter
 
 ```
 Darkrai, Level 70
-Challenger’s Cave, B1F
+Challenger's Cave, B1F
 Cave, Normal, 1%
 ```
 
-<sub><sup>_The dark, mid-depths of the Challenger’s Cave are also of intrigue to Darkrai, who loves the darkness and occasionally likes to taunt the people of Icirrus City and Opelucid City with nightmares. But you don’t need to hear about that._</sup></sub>
+<sub><sup>_The dark, mid-depths of the Challenger's Cave are also of intrigue to Darkrai, who loves the darkness and occasionally likes to taunt the people of Icirrus City and Opelucid City with nightmares. But you don’t need to hear about that._</sup></sub>
 
-#### <u>Challenger’s Cave – B2F</u>
+#### <u>Challenger's Cave – B2F</u>
 
 Cave, Normal
 
@@ -3178,9 +3178,8 @@ Legendary Encounter
 
 ```
 Arceus, Level 80
-Challenger’s Cave, B2F
+Challenger's Cave, B2F
 Cave, Normal, 1%
 ```
 
 <sub><sup>_Only those who reach the very bottom of the most challenging cave in Unova are able to have a chance of seeing the god of all Pokemon. Should you be lucky to come in contact with it, don’t underestimate its power._</sup></sub>
-

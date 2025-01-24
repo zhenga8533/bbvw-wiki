@@ -79,7 +79,7 @@ def main():
             md += f"---\n\n## {line}\n\n"
             if location_md != "" and curr_location != "Black City / White Forest":
                 save(
-                    f"{WILD_ENCOUNTER_PATH}{format_id(curr_location).replace("-", "_")}/wild_pokemon.md",
+                    f"{WILD_ENCOUNTER_PATH}{curr_location.lower().replace(" ", "_")}/wild_pokemon.md",
                     location_md,
                     logger,
                 )
@@ -148,7 +148,7 @@ def main():
             md += line + "\n\n"
     logger.log(logging.INFO, "Wild Pokémon parsed successfully!")
 
-    save(f"{WILD_ENCOUNTER_PATH}{format_id(curr_location).replace("-", "_")}/wild_pokemon.md", location_md, logger)
+    save(f"{WILD_ENCOUNTER_PATH}{curr_location.lower().replace(" ", "_")}/wild_pokemon.md", location_md, logger)
     save(f"{OUTPUT_PATH}wild_pokemon.md", md, logger)
 
 

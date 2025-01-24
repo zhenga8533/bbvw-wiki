@@ -617,19 +617,19 @@ Victory Road, Trial Chamber
 Cave, 1%
 * Heatran also enjoys the mountainous area, and has appeared to visit his old friend Terrakion. You might run into him if you storm the same room.
 ==================================================================
-N’s Castle
+N's Castle
 
 
 
 Legendary Encounter
 
 Reshiram, Level 70
-N’s Castle, Blaze Black
+N's Castle, Blaze Black
 
 Legendary Encounter
 
 Zekrom, Level 70
-N’s Castle, Volt White
+N's Castle, Volt White
 ==================================================================
 Route 11
 
@@ -871,38 +871,38 @@ Bridge Shadow, 1%
 
 
 ==================================================================
-Challenger’s Cave
+Challenger's Cave
 
-Challenger’s Cave – 1F
+Challenger's Cave – 1F
 Cave: Mawile (20%), Sableye (20%), Lickitung (10%), Graveler (10%), Woobat (10%), Boldore (10%), Marowak (10%), Hariyama (10%)
 Dust Cloud: Excadrill (50%), Dugtrio (50%)
 
 Legendary Encounter
 
 Genesect, Level 75
-Challenger’s Cave, 1F
+Challenger's Cave, 1F
 Cave, 1%.
-* Though previously seen in the hands of Ghetsis, the artificial Genesect now appears in the top floors of the looming Challenger’s Cave. The threats below keep it from descending, but this insect might just drop on your head. It won’t be pretty.
+* Though previously seen in the hands of Ghetsis, the artificial Genesect now appears in the top floors of the looming Challenger's Cave. The threats below keep it from descending, but this insect might just drop on your head. It won’t be pretty.
 
-Challenger’s Cave – B1F
+Challenger's Cave – B1F
 Cave: Mawile (20%), Sableye (20%), Magneton (10%), Golbat (10%), Wobbuffet (10%), Parasect (10%), Marowak (10%), Electrode (10%)
 Dust Cloud: Excadrill (50%), Dugtrio (50%)
 
 Legendary Encounter
 
 Mewtwo, Level 75
-Challenger’s Cave, B1F
+Challenger's Cave, B1F
 Cave, 1%.
-* Mewtwo returns in a post League cave once more. Challenger’s Cave is a lot like Cerulean’s Cave, but a certain Pokémon God stopped him getting into the real bottom floor. Still, the dark and damp is enough to make it feel like home.
+* Mewtwo returns in a post League cave once more. Challenger's Cave is a lot like Cerulean’s Cave, but a certain Pokémon God stopped him getting into the real bottom floor. Still, the dark and damp is enough to make it feel like home.
 
 Legendary Encounter
 
 Darkrai, Level 70
-Challenger’s Cave, B1F
+Challenger's Cave, B1F
 Cave, 1%.
-* The dark, mid-depths of the Challenger’s Cave are also of intrigue to Darkrai, who loves the darkness and occasionally likes to taunt the people of Icirrus City and Opelucid City with nightmares. But you don’t need to hear about that.
+* The dark, mid-depths of the Challenger's Cave are also of intrigue to Darkrai, who loves the darkness and occasionally likes to taunt the people of Icirrus City and Opelucid City with nightmares. But you don’t need to hear about that.
 
-Challenger’s Cave – B2F
+Challenger's Cave – B2F
 Cave: Mawile (20%), Sableye (20%), Kadabra (10%), Golbat (10%), Zweilous (10%), Medicham (10%), Ursaring (10%), Donphan (10%)
 Dust Cloud: Excadrill (50%), Dugtrio (50%)
 Surfing: Psyduck (90%), Tentacool (10%)
@@ -913,6 +913,6 @@ Rippling Fishing: Seaking (60%), Gyarados (30%), Poliwrath (5%), Politoed (5%)
 Legendary Encounter
 
 Arceus, Level 80
-Challenger’s Cave, B2F
+Challenger's Cave, B2F
 Cave, 1%.
 * Only those who reach the very bottom of the most challenging cave in Unova are able to have a chance of seeing the god of all Pokemon. Should you be lucky to come in contact with it, don’t underestimate its power.

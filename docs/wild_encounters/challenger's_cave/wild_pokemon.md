@@ -2,7 +2,7 @@
 
 ---
 
-## Challenger’s Cave – 1F
+## Challenger's Cave – 1F
 
 ### Cave
 
@@ -28,11 +28,11 @@
 
 | Sprite | Pokémon | Level | Encounter Type | Location | Chance |
 | :---: | --- | --- | :---: | --- | --- |
-| ![genesect](../../assets/sprites/genesect/front.gif) | Genesect | Level 75 | ![cave](../../assets/encounter_types/cave.png){: style='max-width: 24px;' } | Challenger’s Cave,<br>1F | 1%
+| ![genesect](../../assets/sprites/genesect/front.gif) | Genesect | Level 75 | ![cave](../../assets/encounter_types/cave.png){: style='max-width: 24px;' } | Challenger's Cave,<br>1F | 1%
 
 ---
 
-## Challenger’s Cave – B1F
+## Challenger's Cave – B1F
 
 ### Cave
 
@@ -58,17 +58,17 @@
 
 | Sprite | Pokémon | Level | Encounter Type | Location | Chance |
 | :---: | --- | --- | :---: | --- | --- |
-| ![mewtwo](../../assets/sprites/mewtwo/front.gif) | Mewtwo | Level 75 | ![cave](../../assets/encounter_types/cave.png){: style='max-width: 24px;' } | Challenger’s Cave,<br>B1F | 1% |
+| ![mewtwo](../../assets/sprites/mewtwo/front.gif) | Mewtwo | Level 75 | ![cave](../../assets/encounter_types/cave.png){: style='max-width: 24px;' } | Challenger's Cave,<br>B1F | 1% |
 
 ### Legendary Encounter
 
 | Sprite | Pokémon | Level | Encounter Type | Location | Chance |
 | :---: | --- | --- | :---: | --- | --- |
-| ![darkrai](../../assets/sprites/darkrai/front.gif) | Darkrai | Level 70 | ![cave](../../assets/encounter_types/cave.png){: style='max-width: 24px;' } | Challenger’s Cave,<br>B1F | 1%
+| ![darkrai](../../assets/sprites/darkrai/front.gif) | Darkrai | Level 70 | ![cave](../../assets/encounter_types/cave.png){: style='max-width: 24px;' } | Challenger's Cave,<br>B1F | 1%
 
 ---
 
-## Challenger’s Cave – B2F
+## Challenger's Cave – B2F
 
 ### Cave
 
@@ -125,4 +125,4 @@
 
 | Sprite | Pokémon | Level | Encounter Type | Location | Chance |
 | :---: | --- | --- | :---: | --- | --- |
-| ![arceus](../../assets/sprites/arceus/front.gif) | Arceus | Level 80 | ![cave](../../assets/encounter_types/cave.png){: style='max-width: 24px;' } | Challenger’s Cave,<br>B2F | 1% |
+| ![arceus](../../assets/sprites/arceus/front.gif) | Arceus | Level 80 | ![cave](../../assets/encounter_types/cave.png){: style='max-width: 24px;' } | Challenger's Cave,<br>B2F | 1% |

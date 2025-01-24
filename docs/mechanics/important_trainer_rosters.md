@@ -3054,7 +3054,7 @@ Ghetsis’ Team
 ### Veteran Drayden
 
 <pre><code><b>Battle Type:</b> Rotation Battle
-<b>Location:</b> Challenger’s Cave
+<b>Location:</b> Challenger's Cave
 </code></pre>
 
 <pre><code><a href='/bbvw-wiki/pokemon/salamence/'><b>Salamence</b></a> @ White Herb
@@ -3614,4 +3614,3 @@ Ghetsis’ Team
 3. Earth Power
 4. Dragon Pulse
 </code></pre>
-

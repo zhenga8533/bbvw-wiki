@@ -1364,7 +1364,7 @@ Move #4	Earthquake	Perish Song	Stone Edge	Sheer Cold	Energy Ball	Close Combat
 
 Veteran Drayden
 Battle Type: Rotation Battle
-Location: Challenger’s Cave
+Location: Challenger's Cave
 
 Drayden’s Team
 

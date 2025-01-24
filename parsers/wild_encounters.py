@@ -1,9 +1,9 @@
 from dotenv import load_dotenv
-from util.file import load, save
-from util.format import format_id
+from util.file import save
 from util.logger import Logger
 import logging
 import os
+import string
 
 
 def main():
@@ -24,11 +24,11 @@ def main():
         logger.log(logging.INFO, f"Processing {dirpath}...")
         logger.log(logging.DEBUG, f"Files found: {filenames}")
 
-        location = dirpath.rsplit("/", 1)[-1].replace("_", " ").title()
+        location = string.capwords(dirpath.rsplit("/", 1)[-1].replace("_", " "))
         nav += f"      - {location}:\n"
 
         for file_name in filenames:
-            category = file_name.split(".")[0].replace("_", " ").title()
+            category = string.capwords(file_name.split(".")[0].replace("_", " "))
             nav += f"          - {category}: {dirpath}/{file_name}\n"
 
     save(f"{OUTPUT_PATH}wild_encounters.md", nav, logger)
