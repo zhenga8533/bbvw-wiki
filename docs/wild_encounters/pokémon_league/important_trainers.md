@@ -62,7 +62,7 @@
 
 ## PKMN Trainer N – Final
 
-![PKMN Trainer N – Final](../../assets/important_trainers/trainer_n_final.png)
+![PKMN Trainer N – Final](../../assets/important_trainers/n.png)
 
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|
@@ -77,7 +77,7 @@
 
 ## PKMN Trainer N – Final
 
-![PKMN Trainer N – Final](../../assets/important_trainers/trainer_n_final.png)
+![PKMN Trainer N – Final](../../assets/important_trainers/n.png)
 
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|
@@ -107,7 +107,7 @@
 
 ## Elite Four Shauntal – Rematch
 
-![Elite Four Shauntal – Rematch](../../assets/important_trainers/four_shauntal_rematch.png)
+![Elite Four Shauntal – Rematch](../../assets/important_trainers/shauntal.png)
 
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|
@@ -122,7 +122,7 @@
 
 ## Elite Four Grimsley – Rematch
 
-![Elite Four Grimsley – Rematch](../../assets/important_trainers/four_grimsley_rematch.png)
+![Elite Four Grimsley – Rematch](../../assets/important_trainers/grimsley.png)
 
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|
@@ -137,7 +137,7 @@
 
 ## Elite Four Marshal – Rematch
 
-![Elite Four Marshal – Rematch](../../assets/important_trainers/four_marshal_rematch.png)
+![Elite Four Marshal – Rematch](../../assets/important_trainers/marshal.png)
 
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|
@@ -152,7 +152,7 @@
 
 ## Elite Four Caitlin – Rematch
 
-![Elite Four Caitlin – Rematch](../../assets/important_trainers/four_caitlin_rematch.png)
+![Elite Four Caitlin – Rematch](../../assets/important_trainers/caitlin.png)
 
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|

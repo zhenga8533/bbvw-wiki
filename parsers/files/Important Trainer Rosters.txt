@@ -266,7 +266,7 @@ Move #4	Icy Wind	U-turn	Night Slash	Signal Beam	Rock Slide	GrassWhistle
 
 Rival Bianca – 3
 Battle Type: Double Battle
-Location: Castelia City-Route 4 Gatehouse
+Location: Route 4
 
 Bianca’s Team
 
@@ -1017,7 +1017,7 @@ Simipour3	Samurott1
 Emboar2
 Serperior3
 Level	88	88	88	88	88	88	88	88	88	90	90	90
-Item	Life Orb	Custap Berry	Life Orb	Leftovers Leftovers Leftovers	Flying Gem	Flying Gem	Flying Gem	Life Orb	Life Orb	Life Orb
+Item	Life Orb	Custap Berry	Life Orb	Leftovers	Leftovers	Leftovers	Flying Gem	Flying Gem	Flying Gem	Life Orb	Life Orb	Life Orb
 
 Ability (Reg)	
 Reckless	

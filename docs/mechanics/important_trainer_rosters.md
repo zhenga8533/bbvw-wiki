@@ -185,7 +185,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 <b>Ability:</b> Overgrow
 <b>Level:</b> 12
 <b>Moves:</b>
-1. GrassWhistle
+1. Grass Whistle
 2. Leech Seed
 3. Absorb
 4. Quick Attack
@@ -544,7 +544,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 1. Protect
 2. Leaf Blade
 3. X-Scissor
-4. GrassWhistle
+4. Grass Whistle
 </code></pre>
 
 ---
@@ -552,7 +552,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 ### Rival Bianca – 3
 
 <pre><code><b>Battle Type:</b> Double Battle
-<b>Location:</b> Castelia City-Route 4 Gatehouse
+<b>Location:</b> Route 4
 </code></pre>
 
 === "Tepig"
@@ -2194,7 +2194,7 @@ Ghetsis’ Team
     2. Shadow Ball
     3. Energy Ball
     4. Focus Blast
-    <br><a href='/bbvw-wiki/pokemon/whimsicott/'><b>Whimsicott</b></a> @ Leftovers Leftovers Leftovers
+    <br><a href='/bbvw-wiki/pokemon/whimsicott/'><b>Whimsicott</b></a> @ Leftovers
     <b>Ability:</b> Intimidate
     <b>Level:</b> 88
     <b>Moves:</b>
@@ -2245,7 +2245,7 @@ Ghetsis’ Team
     2. Shadow Ball
     3. Energy Ball
     4. Focus Blast
-    <br><a href='/bbvw-wiki/pokemon/gyarados/'><b>Gyarados</b></a> @ Flying Gem
+    <br><a href='/bbvw-wiki/pokemon/gyarados/'><b>Gyarados</b></a> @ Leftovers
     <b>Ability:</b> Prankster
     <b>Level:</b> 88
     <b>Moves:</b>
@@ -2253,7 +2253,7 @@ Ghetsis’ Team
     2. Hurricane
     3. Substitute
     4. Cotton Guard
-    <br><a href='/bbvw-wiki/pokemon/simisage/'><b>Simisage</b></a> @ Life Orb
+    <br><a href='/bbvw-wiki/pokemon/simisage/'><b>Simisage</b></a> @ Flying Gem
     <b>Ability:</b> Blaze
     <b>Level:</b> 88
     <b>Moves:</b>
@@ -2261,7 +2261,7 @@ Ghetsis’ Team
     2. Acrobatics
     3. Focus Blast
     4. Fire Blast
-    <br><a href='/bbvw-wiki/pokemon/emboar/'><b>Emboar</b></a> @ No Item
+    <br><a href='/bbvw-wiki/pokemon/emboar/'><b>Emboar</b></a> @ Life Orb
     <b>Ability:</b> Vital Spirit
     <b>Level:</b> 90
     <b>Moves:</b>
@@ -2296,7 +2296,7 @@ Ghetsis’ Team
     2. Shadow Ball
     3. Energy Ball
     4. Focus Blast
-    <br><a href='/bbvw-wiki/pokemon/houndoom/'><b>Houndoom</b></a> @ Flying Gem
+    <br><a href='/bbvw-wiki/pokemon/houndoom/'><b>Houndoom</b></a> @ Leftovers
     <b>Ability:</b> Moxie
     <b>Level:</b> 88
     <b>Moves:</b>
@@ -2304,7 +2304,7 @@ Ghetsis’ Team
     2. Bounce
     3. Dragon Dance
     4. Earthquake
-    <br><a href='/bbvw-wiki/pokemon/simipour/'><b>Simipour</b></a> @ Life Orb
+    <br><a href='/bbvw-wiki/pokemon/simipour/'><b>Simipour</b></a> @ Flying Gem
     <b>Ability:</b> Overgrow
     <b>Level:</b> 88
     <b>Moves:</b>
@@ -2312,7 +2312,7 @@ Ghetsis’ Team
     2. Acrobatics
     3. Focus Blast
     4. Power Whip
-    <br><a href='/bbvw-wiki/pokemon/serperior/'><b>Serperior</b></a> @ No Item
+    <br><a href='/bbvw-wiki/pokemon/serperior/'><b>Serperior</b></a> @ Life Orb
     <b>Ability:</b> Adaptability
     <b>Level:</b> 90
     <b>Moves:</b>
@@ -2640,8 +2640,8 @@ Ghetsis’ Team
 <b>Moves:</b>
 1. Eruption
 2. Focus Blast
-3. SolarBeam
-4. ThunderPunch
+3. Solar Beam
+4. Thunder Punch
 
 <a href='/bbvw-wiki/pokemon/blaziken/'><b>Blaziken</b></a> @ Payapa Berry
 <b>Ability:</b> Speed Boost
@@ -2650,7 +2650,7 @@ Ghetsis’ Team
 1. High Jump Kick
 2. Flare Blitz
 3. Stone Edge
-4. ThunderPunch
+4. Thunder Punch
 
 <a href='/bbvw-wiki/pokemon/infernape/'><b>Infernape</b></a> @ Coba Berry
 <b>Ability:</b> Iron Fist
@@ -2659,7 +2659,7 @@ Ghetsis’ Team
 1. Overheat
 2. Close Combat
 3. Grass Knot
-4. ThunderPunch
+4. Thunder Punch
 
 <a href='/bbvw-wiki/pokemon/simisear/'><b>Simisear</b></a> @ Petaya Berry
 <b>Ability:</b> Unburden
@@ -3072,7 +3072,7 @@ Ghetsis’ Team
 <b>Moves:</b>
 1. Sunny Day
 2. Fire Blast
-3. SolarBeam
+3. Solar Beam
 4. Dragon Pulse
 
 <a href='/bbvw-wiki/pokemon/druddigon/'><b>Druddigon</b></a> @ Life Orb
@@ -3213,7 +3213,7 @@ Ghetsis’ Team
 <b>Ability:</b> No Guard
 <b>Level:</b> 91
 <b>Moves:</b>
-1. DynamicPunch
+1. Dynamic Punch
 2. Shadow Punch
 3. Earthquake
 4. Substitute
@@ -3279,7 +3279,7 @@ Ghetsis’ Team
 1. Nasty Plot
 2. Fire Blast
 3. Dark Pulse
-4. SolarBeam
+4. Solar Beam
 
 <a href='/bbvw-wiki/pokemon/bisharp/'><b>Bisharp</b></a> @ Air Balloon
 <b>Ability:</b> Defiant
@@ -3614,3 +3614,4 @@ Ghetsis’ Team
 3. Earth Power
 4. Dragon Pulse
 </code></pre>
+

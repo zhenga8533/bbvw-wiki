@@ -45,6 +45,7 @@ def main():
         base_md = []
         base_tables = []
         pokemon_mds = ["", "", ""]
+        pokemon_tables = ["", "", ""]
 
         for pokemon_set in pokemon_sets:
             name = pokemon_set.species
@@ -54,10 +55,30 @@ def main():
                 if pokemon_mds[num - 1] != "":
                     pokemon_mds[num - 1] += "<br>"
                 pokemon_mds[num - 1] += f"{'\n    '.join(pokemon_set.to_string().split('\n'))}"
+                pokemon_tables[num - 1] += f"{'\n    '.join(pokemon_set.to_table().split('\n'))}\n"
             else:
                 base_md.append(pokemon_set.to_string())
                 base_tables.append(pokemon_set.to_table())
         pokemon_sets = []
+
+        # Wild roster header
+        if location not in wild_rosters:
+            wild_rosters[location] = ""
+        wild_rosters[location] += f"---\n\n## {trainer}\n\n"
+
+        # Set trainer sprite
+        trainer_id = format_id(trainer).replace("-", "_")
+        trainer_sprite = f"../../assets/important_trainers/{trainer_id}.png"
+        trainer_parts = trainer_id.split("_")
+        # Try all subarray combinations of trainer_parts
+        for start_index in range(len(trainer_parts)):
+            for end_index in range(start_index + 1, len(trainer_parts) + 1):
+                subarray = trainer_parts[start_index:end_index]
+                trainer_sprite = f"../../assets/important_trainers/{'_'.join(subarray)}.png"
+
+                if verify_asset_path(trainer_sprite, logger):
+                    wild_rosters[location] += f"![{trainer}]({trainer_sprite})\n\n"
+                    break
 
         if pokemon_mds[0] != "":
             br = "\n    <br>"
@@ -71,22 +92,17 @@ def main():
                 md += f'=== "{starters[i]}"\n\n    <pre><code>'
                 md += base_md
                 md += pokemon_mds[i].strip() + "</code></pre>\n\n"
+
+                # Add the table to the wild rosters
+                wild_rosters[location] += f'=== "{starters[i]}"\n\n'
+                wild_rosters[location] += "    | Pokemon | Attributes | Moves |\n"
+                wild_rosters[location] += "    |:-------:|------------|-------|\n"
+                for table in base_tables:
+                    wild_rosters[location] += f"    {"\n    ".join(table.split('\n'))}\n"
+                wild_rosters[location] += f"    {"\n    ".join(pokemon_tables[i].split('\n'))}\n"
+                wild_rosters[location] += "\n"
         else:
             md += f"<pre><code>{'\n'.join(base_md)}</code></pre>\n\n"
-
-            if location not in wild_rosters:
-                wild_rosters[location] = ""
-            wild_rosters[location] += f"---\n\n## {trainer}\n\n"
-
-            # Set trainer sprite
-            trainer_id = format_id(trainer).replace("-", "_")
-            trainer_sprite = f"../../assets/important_trainers/{trainer_id}.png"
-            trainer_parts = trainer_id.split("_")
-            trainer_i = len(trainer_parts) - 1
-            while not verify_asset_path(trainer_sprite, logger) and trainer_i > 0:
-                trainer_sprite = f"../../assets/important_trainers/{"_".join(trainer_parts[trainer_i:])}.png"
-                trainer_i -= 1
-            wild_rosters[location] += f"![{trainer}]({trainer_sprite})\n\n"
 
             # Add the table to the wild rosters
             wild_rosters[location] += "| Pokemon | Attributes | Moves |\n"

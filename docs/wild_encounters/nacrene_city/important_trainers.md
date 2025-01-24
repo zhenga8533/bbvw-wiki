@@ -2,7 +2,7 @@
 
 ## PKMN Trainer N – 2
 
-![PKMN Trainer N – 2](../../assets/important_trainers/trainer_n_2.png)
+![PKMN Trainer N – 2](../../assets/important_trainers/n.png)
 
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|

@@ -49,7 +49,7 @@ def main():
 
             for p in pokemon:
                 name = format_id(" ".join(p.split(" ")[1:]))
-                links.append(f"[{p}](../../pokemon/{name}.md/)")
+                links.append(f"[{p}](../pokemon/{name}.md/)")
                 sprites += f"![{name}](../assets/sprites/{name}/front.gif)\n"
             md += f"**{", ".join(links)}**\n\n{sprites}\n<pre><code>"
 

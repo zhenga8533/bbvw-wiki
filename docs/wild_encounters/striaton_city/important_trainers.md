@@ -1,5 +1,35 @@
 ---
 
+## Rival Cheren – 2
+
+![Rival Cheren – 2](../../assets/important_trainers/cheren.png)
+
+=== "Tepig"
+
+    | Pokemon | Attributes | Moves |
+    |:-------:|------------|-------|
+    | ![Starly](../../assets/sprites/starly/front.png)<br>[Starly](../../pokemon/starly.md/) |**Level:** 11<br>**Item:** -<br>**Ability:** Keen Eye | 1. —<br>2. —<br>3. —<br>4. — |
+    | ![Oshawott](../../assets/sprites/oshawott/front.png)<br>[Oshawott](../../pokemon/oshawott.md/) |**Level:** 12<br>**Item:** Oran Berry<br>**Ability:** Contrary | 1. —<br>2. —<br>3. —<br>4. — |
+    
+
+=== "Snivy"
+
+    | Pokemon | Attributes | Moves |
+    |:-------:|------------|-------|
+    | ![Starly](../../assets/sprites/starly/front.png)<br>[Starly](../../pokemon/starly.md/) |**Level:** 11<br>**Item:** -<br>**Ability:** Keen Eye | 1. —<br>2. —<br>3. —<br>4. — |
+    | ![Tepig](../../assets/sprites/tepig/front.png)<br>[Tepig](../../pokemon/tepig.md/) |**Level:** 12<br>**Item:** Oran Berry<br>**Ability:** Vital Spirit | 1. —<br>2. —<br>3. —<br>4. — |
+    
+
+=== "Oshawott"
+
+    | Pokemon | Attributes | Moves |
+    |:-------:|------------|-------|
+    | ![Starly](../../assets/sprites/starly/front.png)<br>[Starly](../../pokemon/starly.md/) |**Level:** 11<br>**Item:** -<br>**Ability:** Keen Eye | 1. —<br>2. —<br>3. —<br>4. — |
+    | ![Snivy](../../assets/sprites/snivy/front.png)<br>[Snivy](../../pokemon/snivy.md/) |**Level:** 12<br>**Item:** Oran Berry<br>**Ability:** Adaptability | 1. —<br>2. —<br>3. —<br>4. — |
+    
+
+---
+
 ## Gym Leader Cilan
 
 ![Gym Leader Cilan](../../assets/important_trainers/cilan.png)

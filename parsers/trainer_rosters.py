@@ -43,7 +43,7 @@ def main():
             if len(important_trainers) > 0:
                 wild_md += "---\n\n## Important Trainers\n\n"
                 for i, trainer in enumerate(important_trainers):
-                    wild_md += f"{i + 1}. [{trainer}](../important_trainers#{format_id(trainer)})\n"
+                    wild_md += f"{i + 1}. [{trainer}](important_trainers.md#{format_id(trainer)})\n"
                 wild_md += "\n"
                 important_trainers = []
             if len(generic_trainers) > 0:
@@ -55,7 +55,7 @@ def main():
                 wild_md += "\n"
                 generic_trainers = []
             if location is not None:
-                file_path = f"{WILD_ENCOUNTER_PATH}{location.lower().replace(" ", "_")}/trainer_rosters.md/"
+                file_path = f"{WILD_ENCOUNTER_PATH}{location.lower().replace(" ", "_")}/trainer_rosters.md"
                 save(file_path, wild_md, logger)
                 wild_md = ""
                 location = None
@@ -91,7 +91,7 @@ def main():
                 pokemon_name = " ".join(parts)
                 pokemon_id = format_id(pokemon_name)
 
-                md += f"    {i + 1}. Lv. {level} [{pokemon_name}](../../pokemon/{pokemon_id}.md/)\n"
+                md += f"    {i + 1}. Lv. {level} [{pokemon_name}](../pokemon/{pokemon_id}.md/)\n"
                 trainer_md += f" ![{pokemon_name}](../../assets/sprites/{pokemon_id}/front.png)<br>"
                 trainer_md += f"[{pokemon_name}](../../pokemon/{pokemon_id}.md/)<br>Lv. {level} |"
             generic_trainers.append(trainer_md)
