@@ -66,9 +66,19 @@ $PYTHON wild_pokemon.py
 
 $PYTHON pokemon.py
 $PYTHON wild_encounters.py
+$PYTHON nav.py
 echo "All parsers ran successfully"
+echo ""
 
-# Replace existing files with new ones
+# Give option to update markdown files
+read -p "Would you like to update the markdown files in docs? (y/n) " -n 1 -r
+if [[ $REPLY =~ ^[Nn]$ ]]; then
+  echo "Markdown files not updated"
+  exit 0
+fi
+
+echo ""
+echo "Updating Markdown files in docs"
 rm $OUTPUT_PATH/pokemon_nav.md
 rm $OUTPUT_PATH/wild_nav.md
 
@@ -79,3 +89,4 @@ mkdir -p ../docs/wild_encounters
 cp -r -f -u $OUTPUT_PATH/* ../docs/mechanics
 cp -r -f -u $POKEMON_OUTPUT_PATH/* ../docs/pokemon
 cp -r -f -u $WILD_ENCOUNTER_PATH/* ../docs/wild_encounters
+echo "Markdown files updated"
