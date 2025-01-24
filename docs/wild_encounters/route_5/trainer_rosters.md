@@ -2,7 +2,7 @@
 
 ## Important Trainers
 
-1. [Rival Cheren – 5](important_trainer_rosters.wild_md#rival-cheren-5)
+1. [Rival Cheren – 5](../important_trainers#rival-cheren-5)
 
 ---
 

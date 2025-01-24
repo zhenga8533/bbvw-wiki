@@ -2,7 +2,7 @@
 
 ## Important Trainers
 
-1. [Gym Leader Brycen](important_trainer_rosters.wild_md#gym-leader-brycen)
+1. [Gym Leader Brycen](../important_trainers#gym-leader-brycen)
 
 ---
 

@@ -88,6 +88,10 @@ def remove_special_characters(s: str) -> str:
     return re.sub(r"[^a-zA-Z0-9\s-]", "", s)
 
 
+def split_camel_case(s: str) -> str:
+    return re.sub(r"([a-z])([A-Z])", r"\1 \2", s)
+
+
 def verify_pokemon_form(id: str, logger: Logger) -> bool:
     pokemon_with_forms = [
         "wormadam",

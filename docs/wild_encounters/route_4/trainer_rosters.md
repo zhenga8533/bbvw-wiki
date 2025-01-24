@@ -2,8 +2,8 @@
 
 ## Important Trainers
 
-1. [Rival Bianca – 3](important_trainer_rosters.wild_md#rival-bianca-3)
-2. [Rival Cheren – 4](important_trainer_rosters.wild_md#rival-cheren-4)
+1. [Rival Bianca – 3](../important_trainers#rival-bianca-3)
+2. [Rival Cheren – 4](../important_trainers#rival-cheren-4)
 
 ---
 

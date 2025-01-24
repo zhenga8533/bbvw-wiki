@@ -10,8 +10,8 @@ theme:
   features:
     - navigation.footer
     - navigation.instant.progress
-    - navigation.prune
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.top
   palette:
     # Palette toggle for light mode
@@ -725,17 +725,22 @@ nav:
           - Meloetta Pirouette: pokemon/meloetta-pirouette.md
   - Wild Encounters:
       - Abundant Shrine:
+          - Important Trainers: wild_encounters/abundant_shrine/important_trainers.md
           - Wild Pokemon: wild_encounters/abundant_shrine/wild_pokemon.md
       - Accumula Town:
+          - Important Trainers: wild_encounters/accumula_town/important_trainers.md
           - Trainer Rosters: wild_encounters/accumula_town/trainer_rosters.md
       - Castelia City:
+          - Important Trainers: wild_encounters/castelia_city/important_trainers.md
           - Trainer Rosters: wild_encounters/castelia_city/trainer_rosters.md
       - Celestial Tower:
           - Trainer Rosters: wild_encounters/celestial_tower/trainer_rosters.md
           - Wild Pokemon: wild_encounters/celestial_tower/wild_pokemon.md
       - Challenger's Cave:
+          - Important Trainers: wild_encounters/challenger's_cave/important_trainers.md
           - Wild Pokemon: wild_encounters/challenger's_cave/wild_pokemon.md
       - Chargestone Cave:
+          - Important Trainers: wild_encounters/chargestone_cave/important_trainers.md
           - Trainer Rosters: wild_encounters/chargestone_cave/trainer_rosters.md
           - Wild Pokemon: wild_encounters/chargestone_cave/wild_pokemon.md
       - Cold Storage:
@@ -751,6 +756,7 @@ nav:
           - Trainer Rosters: wild_encounters/dreamyard/trainer_rosters.md
           - Wild Pokemon: wild_encounters/dreamyard/wild_pokemon.md
       - Driftveil City:
+          - Important Trainers: wild_encounters/driftveil_city/important_trainers.md
           - Trainer Rosters: wild_encounters/driftveil_city/trainer_rosters.md
           - Wild Pokemon: wild_encounters/driftveil_city/wild_pokemon.md
       - Driftveil Drawbidge:
@@ -758,6 +764,7 @@ nav:
       - Giant Chasm:
           - Wild Pokemon: wild_encounters/giant_chasm/wild_pokemon.md
       - Icirrus City:
+          - Important Trainers: wild_encounters/icirrus_city/important_trainers.md
           - Trainer Rosters: wild_encounters/icirrus_city/trainer_rosters.md
       - Liberty Garden:
           - Wild Pokemon: wild_encounters/liberty_garden/wild_pokemon.md
@@ -769,19 +776,23 @@ nav:
           - Trainer Rosters: wild_encounters/mistralton_cave/trainer_rosters.md
           - Wild Pokemon: wild_encounters/mistralton_cave/wild_pokemon.md
       - Mistralton City:
+          - Important Trainers: wild_encounters/mistralton_city/important_trainers.md
           - Trainer Rosters: wild_encounters/mistralton_city/trainer_rosters.md
       - Moor Of Icirrus:
           - Trainer Rosters: wild_encounters/moor_of_icirrus/trainer_rosters.md
           - Wild Pokemon: wild_encounters/moor_of_icirrus/wild_pokemon.md
+      - N's Castle:
+          - Wild Pokemon: wild_encounters/n's_castle/wild_pokemon.md
       - Nacrene City:
+          - Important Trainers: wild_encounters/nacrene_city/important_trainers.md
           - Trainer Rosters: wild_encounters/nacrene_city/trainer_rosters.md
       - Nimbasa City:
+          - Important Trainers: wild_encounters/nimbasa_city/important_trainers.md
           - Trainer Rosters: wild_encounters/nimbasa_city/trainer_rosters.md
       - Nuvema Town:
           - Trainer Rosters: wild_encounters/nuvema_town/trainer_rosters.md
-      - N's Castle:
-          - Wild Pokemon: wild_encounters/n's_castle/wild_pokemon.md
       - Opelucid City:
+          - Important Trainers: wild_encounters/opelucid_city/important_trainers.md
           - Trainer Rosters: wild_encounters/opelucid_city/trainer_rosters.md
       - P2 Laboratory:
           - Wild Pokemon: wild_encounters/p2_laboratory/wild_pokemon.md
@@ -789,6 +800,7 @@ nav:
           - Trainer Rosters: wild_encounters/pinwheel_forest/trainer_rosters.md
           - Wild Pokemon: wild_encounters/pinwheel_forest/wild_pokemon.md
       - Pokémon League:
+          - Important Trainers: wild_encounters/pokémon_league/important_trainers.md
           - Trainer Rosters: wild_encounters/pokémon_league/trainer_rosters.md
       - Relic Castle:
           - Trainer Rosters: wild_encounters/relic_castle/trainer_rosters.md
@@ -796,28 +808,6 @@ nav:
       - Route 1:
           - Trainer Rosters: wild_encounters/route_1/trainer_rosters.md
           - Wild Pokemon: wild_encounters/route_1/wild_pokemon.md
-      - Route 10:
-          - Trainer Rosters: wild_encounters/route_10/trainer_rosters.md
-          - Wild Pokemon: wild_encounters/route_10/wild_pokemon.md
-      - Route 11:
-          - Wild Pokemon: wild_encounters/route_11/wild_pokemon.md
-      - Route 12:
-          - Wild Pokemon: wild_encounters/route_12/wild_pokemon.md
-      - Route 13:
-          - Wild Pokemon: wild_encounters/route_13/wild_pokemon.md
-      - Route 14:
-          - Wild Pokemon: wild_encounters/route_14/wild_pokemon.md
-      - Route 15:
-          - Wild Pokemon: wild_encounters/route_15/wild_pokemon.md
-      - Route 16:
-          - Trainer Rosters: wild_encounters/route_16/trainer_rosters.md
-          - Wild Pokemon: wild_encounters/route_16/wild_pokemon.md
-      - Route 17:
-          - Trainer Rosters: wild_encounters/route_17/trainer_rosters.md
-          - Wild Pokemon: wild_encounters/route_17/wild_pokemon.md
-      - Route 18:
-          - Trainer Rosters: wild_encounters/route_18/trainer_rosters.md
-          - Wild Pokemon: wild_encounters/route_18/wild_pokemon.md
       - Route 2:
           - Trainer Rosters: wild_encounters/route_2/trainer_rosters.md
           - Wild Pokemon: wild_encounters/route_2/wild_pokemon.md
@@ -842,9 +832,35 @@ nav:
       - Route 9:
           - Trainer Rosters: wild_encounters/route_9/trainer_rosters.md
           - Wild Pokemon: wild_encounters/route_9/wild_pokemon.md
+      - Route 10:
+          - Trainer Rosters: wild_encounters/route_10/trainer_rosters.md
+          - Wild Pokemon: wild_encounters/route_10/wild_pokemon.md
+      - Route 11:
+          - Important Trainers: wild_encounters/route_11/important_trainers.md
+          - Wild Pokemon: wild_encounters/route_11/wild_pokemon.md
+      - Route 12:
+          - Wild Pokemon: wild_encounters/route_12/wild_pokemon.md
+      - Route 13:
+          - Important Trainers: wild_encounters/route_13/important_trainers.md
+          - Wild Pokemon: wild_encounters/route_13/wild_pokemon.md
+      - Route 14:
+          - Important Trainers: wild_encounters/route_14/important_trainers.md
+          - Wild Pokemon: wild_encounters/route_14/wild_pokemon.md
+      - Route 15:
+          - Wild Pokemon: wild_encounters/route_15/wild_pokemon.md
+      - Route 16:
+          - Trainer Rosters: wild_encounters/route_16/trainer_rosters.md
+          - Wild Pokemon: wild_encounters/route_16/wild_pokemon.md
+      - Route 17:
+          - Trainer Rosters: wild_encounters/route_17/trainer_rosters.md
+          - Wild Pokemon: wild_encounters/route_17/wild_pokemon.md
+      - Route 18:
+          - Trainer Rosters: wild_encounters/route_18/trainer_rosters.md
+          - Wild Pokemon: wild_encounters/route_18/wild_pokemon.md
       - Striation City:
           - Trainer Rosters: wild_encounters/striation_city/trainer_rosters.md
       - Striaton City:
+          - Important Trainers: wild_encounters/striaton_city/important_trainers.md
           - Wild Pokemon: wild_encounters/striaton_city/wild_pokemon.md
       - Tubeline Bridge:
           - Trainer Rosters: wild_encounters/tubeline_bridge/trainer_rosters.md
@@ -854,11 +870,13 @@ nav:
       - Undella Bay:
           - Wild Pokemon: wild_encounters/undella_bay/wild_pokemon.md
       - Undella Town:
+          - Important Trainers: wild_encounters/undella_town/important_trainers.md
           - Wild Pokemon: wild_encounters/undella_town/wild_pokemon.md
       - Victory Road:
           - Trainer Rosters: wild_encounters/victory_road/trainer_rosters.md
           - Wild Pokemon: wild_encounters/victory_road/wild_pokemon.md
       - Village Bridge:
+          - Important Trainers: wild_encounters/village_bridge/important_trainers.md
           - Wild Pokemon: wild_encounters/village_bridge/wild_pokemon.md
       - Wellspring Cave:
           - Trainer Rosters: wild_encounters/wellspring_cave/trainer_rosters.md

@@ -2,8 +2,8 @@
 
 ## Important Trainers
 
-1. [Gym Leader Clay](important_trainer_rosters.wild_md#gym-leader-clay)
-2. [Rival Bianca – 4](important_trainer_rosters.wild_md#rival-bianca-4)
+1. [Gym Leader Clay](../important_trainers#gym-leader-clay)
+2. [Rival Bianca – 4](../important_trainers#rival-bianca-4)
 
 ---
 

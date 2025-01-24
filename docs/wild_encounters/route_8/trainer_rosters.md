@@ -2,7 +2,7 @@
 
 ## Important Trainers
 
-1. [Rival Bianca – 5](important_trainer_rosters.wild_md#rival-bianca-5)
+1. [Rival Bianca – 5](../important_trainers#rival-bianca-5)
 
 ---
 

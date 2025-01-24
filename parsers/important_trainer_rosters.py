@@ -1,6 +1,6 @@
 from dotenv import load_dotenv
 from util.file import load, save
-from util.format import clean_variable_name
+from util.format import clean_variable_name, format_id, verify_asset_path
 from util.pokemon_set import PokemonSet
 from util.logger import Logger
 import logging
@@ -13,6 +13,7 @@ def main():
     LOG = os.getenv("LOG")
     INPUT_PATH = os.getenv("INPUT_PATH")
     OUTPUT_PATH = os.getenv("OUTPUT_PATH")
+    WILD_ENCOUNTER_PATH = os.getenv("WILD_ENCOUNTER_PATH")
     LOG_PATH = os.getenv("LOG_PATH")
     logger = Logger("Important Trainer Rosters Parser", f"{LOG_PATH}important_trainer_rosters.log", LOG)
     content = load(f"{INPUT_PATH}Important Trainer Rosters.txt", logger)
@@ -29,6 +30,7 @@ def main():
     # Wild encounter rosters
     wild_rosters = {}
     location = None
+    trainer = None
 
     def add_pokemon_sets():
         nonlocal md
@@ -41,6 +43,7 @@ def main():
 
         md += "</code></pre>\n\n"
         base_md = []
+        base_tables = []
         pokemon_mds = ["", "", ""]
 
         for pokemon_set in pokemon_sets:
@@ -53,6 +56,7 @@ def main():
                 pokemon_mds[num - 1] += f"{'\n    '.join(pokemon_set.to_string().split('\n'))}"
             else:
                 base_md.append(pokemon_set.to_string())
+                base_tables.append(pokemon_set.to_table())
         pokemon_sets = []
 
         if pokemon_mds[0] != "":
@@ -69,6 +73,27 @@ def main():
                 md += pokemon_mds[i].strip() + "</code></pre>\n\n"
         else:
             md += f"<pre><code>{'\n'.join(base_md)}</code></pre>\n\n"
+
+            if location not in wild_rosters:
+                wild_rosters[location] = ""
+            wild_rosters[location] += f"---\n\n## {trainer}\n\n"
+
+            # Set trainer sprite
+            trainer_id = format_id(trainer).replace("-", "_")
+            trainer_sprite = f"../../assets/important_trainers/{trainer_id}.png"
+            trainer_parts = trainer_id.split("_")
+            trainer_i = len(trainer_parts) - 1
+            while not verify_asset_path(trainer_sprite, logger) and trainer_i > 0:
+                trainer_sprite = f"../../assets/important_trainers/{"_".join(trainer_parts[trainer_i:])}.png"
+                trainer_i -= 1
+            wild_rosters[location] += f"![{trainer}]({trainer_sprite})\n\n"
+
+            # Add the table to the wild rosters
+            wild_rosters[location] += "| Pokemon | Attributes | Moves |\n"
+            wild_rosters[location] += "|:-------:|------------|-------|\n"
+            for table in base_tables:
+                wild_rosters[location] += table + "\n"
+            wild_rosters[location] += "\n"
 
     # Parse the content
     logger.log(logging.INFO, "Parsing Important Trainer Rosters content")
@@ -87,6 +112,7 @@ def main():
         elif next_line.startswith("Battle Type"):
             add_pokemon_sets()
             md += f"---\n\n### {line}\n\n<pre><code>"
+            trainer = line
         elif ": " in line:
             category, value = line.split(": ")
             if category == "Location":
@@ -127,6 +153,11 @@ def main():
 
     add_pokemon_sets()
     logger.log(logging.INFO, "Important Trainer Rosters content parsed successfully!")
+
+    # Parse wild rosters into markdown files
+    for location, roster in wild_rosters.items():
+        file_path = f"{WILD_ENCOUNTER_PATH}{location.lower().replace(" ", "_")}/important_trainers.md"
+        save(file_path, roster, logger)
 
     save(f"{OUTPUT_PATH}important_trainer_rosters.md", md, logger)
 

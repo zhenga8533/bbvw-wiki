@@ -2,7 +2,7 @@
 
 ## Important Trainers
 
-1. [Gym Leader Skyla](important_trainer_rosters.wild_md#gym-leader-skyla)
+1. [Gym Leader Skyla](../important_trainers#gym-leader-skyla)
 
 ---
 

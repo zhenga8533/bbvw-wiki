@@ -2,8 +2,8 @@
 
 ## Important Trainers
 
-1. [PKMN Trainer N – 3](important_trainer_rosters.wild_md#pkmn-trainer-n-3)
-2. [Gym Leader Elesa](important_trainer_rosters.wild_md#gym-leader-elesa)
+1. [PKMN Trainer N – 3](../important_trainers#pkmn-trainer-n-3)
+2. [Gym Leader Elesa](../important_trainers#gym-leader-elesa)
 
 ---
 

@@ -2,10 +2,10 @@
 
 ## Important Trainers
 
-1. [Rival Cheren – 2](important_trainer_rosters.wild_md#rival-cheren-2)
-2. [Gym Leader Chili](important_trainer_rosters.wild_md#gym-leader-chili)
-3. [Gym Leader Cress](important_trainer_rosters.wild_md#gym-leader-cress)
-4. [Gym Leader Cilan](important_trainer_rosters.wild_md#gym-leader-cilan)
+1. [Rival Cheren – 2](../important_trainers#rival-cheren-2)
+2. [Gym Leader Chili](../important_trainers#gym-leader-chili)
+3. [Gym Leader Cress](../important_trainers#gym-leader-cress)
+4. [Gym Leader Cilan](../important_trainers#gym-leader-cilan)
 
 ---
 

@@ -2,7 +2,7 @@
 
 ## Important Trainers
 
-1. [PKMN Trainer N – 4](important_trainer_rosters.wild_md#pkmn-trainer-n-4)
+1. [PKMN Trainer N – 4](../important_trainers#pkmn-trainer-n-4)
 
 ---
 

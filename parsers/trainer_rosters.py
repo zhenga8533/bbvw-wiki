@@ -43,7 +43,7 @@ def main():
             if len(important_trainers) > 0:
                 wild_md += "---\n\n## Important Trainers\n\n"
                 for i, trainer in enumerate(important_trainers):
-                    wild_md += f"{i + 1}. [{trainer}](important_trainer_rosters.wild_md#{format_id(trainer)})\n"
+                    wild_md += f"{i + 1}. [{trainer}](../important_trainers#{format_id(trainer)})\n"
                 wild_md += "\n"
                 important_trainers = []
             if len(generic_trainers) > 0:

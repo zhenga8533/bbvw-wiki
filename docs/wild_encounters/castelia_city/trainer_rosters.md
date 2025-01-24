@@ -2,8 +2,8 @@
 
 ## Important Trainers
 
-1. [GAME FREAK Morimoto](important_trainer_rosters.wild_md#game-freak-morimoto)
-2. [Gym Leader Burgh](important_trainer_rosters.wild_md#gym-leader-burgh)
+1. [GAME FREAK Morimoto](../important_trainers#game-freak-morimoto)
+2. [Gym Leader Burgh](../important_trainers#gym-leader-burgh)
 
 ---
 

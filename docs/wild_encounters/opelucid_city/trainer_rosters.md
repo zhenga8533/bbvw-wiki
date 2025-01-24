@@ -2,8 +2,8 @@
 
 ## Important Trainers
 
-1. [Gym Leader Drayden](important_trainer_rosters.wild_md#gym-leader-drayden)
-2. [Gym Leader Iris](important_trainer_rosters.wild_md#gym-leader-iris)
+1. [Gym Leader Drayden](../important_trainers#gym-leader-drayden)
+2. [Gym Leader Iris](../important_trainers#gym-leader-iris)
 
 ---
 
