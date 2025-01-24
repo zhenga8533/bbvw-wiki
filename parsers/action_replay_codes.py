@@ -77,10 +77,10 @@ def main():
     logger.log(logging.INFO, "Action Replay Code content parsed successfully!")
 
     # Save the parsed content
-    md += "---\n\n## Game IDs\n\n"
+    md += "## Game IDs\n\n---\n\n"
     md += game_ids["blaze_black"]
     md += game_ids["volt_white"]
-    md += "---\n\n## Action Replay Codes\n\n"
+    md += "## Action Replay Codes\n\n"
 
     # Format codes into Markdown tables
     for code in codes:
@@ -90,7 +90,7 @@ def main():
         code_bb = code_data["blaze_black"]
         code_vw = code_data["volt_white"]
 
-        md += f"### {code_name}\n\n"
+        md += f"---\n\n### {code_name}\n\n"
         if code_desc is not None:
             md += f"{code_desc}\n\n"
         md += "| Blaze Black | Volt White |\n"
