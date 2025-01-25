@@ -66,7 +66,6 @@ $PYTHON wild_pokemon.py
 
 $PYTHON pokemon.py
 $PYTHON wild_encounters.py
-$PYTHON nav.py
 echo "All parsers ran successfully"
 echo ""
 
