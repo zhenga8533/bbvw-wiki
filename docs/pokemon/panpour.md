@@ -187,4 +187,7 @@ Panpour has no alternate forms.
 
 ### Tutor Moves
 
-Panpour cannot learn any moves from tutors.
+| Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- |
+| Hydro Cannon | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 150 | 90 | 5 |
+

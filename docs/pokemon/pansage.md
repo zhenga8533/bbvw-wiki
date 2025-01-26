@@ -183,4 +183,7 @@ Pansage has no alternate forms.
 
 ### Tutor Moves
 
-Pansage cannot learn any moves from tutors.
+| Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- |
+| Frenzy Plant | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 150 | 90 | 5 |
+
