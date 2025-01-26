@@ -158,6 +158,7 @@ Carnivine has no alternate forms.
 | Leech Seed | ![grass](../assets/types/grass.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 10 |
 | Razor Leaf | ![grass](../assets/types/grass.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 55 | 95 | 25 |
 | Stun Spore | ![grass](../assets/types/grass.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 75 | 30 |
+| Sleep Powder | ![grass](../assets/types/grass.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 75 | 15 |
 | Giga Drain | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 75 | 100 | 10 |
 | Synthesis | ![grass](../assets/types/grass.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
 | Grass Whistle | ![grass](../assets/types/grass.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 55 | 15 |

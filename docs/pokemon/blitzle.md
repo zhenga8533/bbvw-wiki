@@ -151,6 +151,7 @@ Blitzle has no alternate forms.
 
 | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- |
+| Double Kick | ![fighting](../assets/types/fighting.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 30 | 100 | 30 |
 | Sand Attack | ![ground](../assets/types/ground.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 15 |
 | Take Down | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 90 | 85 | 20 |
 | Double Edge | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 120 | 100 | 15 |

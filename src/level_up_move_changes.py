@@ -102,7 +102,8 @@ def main():
             for line in move_changes[key]:
                 parts = line.split(" ")
                 level = int(parts[2])
-                name = "-".join(parts[4:]).lower()
+                name = " ".join(parts[4:])
+                id = format_id(name)
                 move_index = next(
                     (
                         i
@@ -119,7 +120,7 @@ def main():
                         moves[move_index]["learn_method"] = "level-up"
                         logger.log(logging.DEBUG, f"Updated move {name} to level {level} for {key}")
                     else:
-                        moves.append({"name": name, "level_learned_at": level, "learn_method": "level-up"})
+                        moves.append({"name": id, "level_learned_at": level, "learn_method": "level-up"})
                         logger.log(logging.DEBUG, f"Added move {name} at level {level} for {key}")
                 elif line.startswith("-"):
                     logger.log(logging.DEBUG, f"Replacing move at level {level} for {key} (-)")

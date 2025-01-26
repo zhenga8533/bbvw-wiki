@@ -31,7 +31,7 @@ Latest (Gen VI+):
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #10007 | ![ghost](../assets/types/ghost.png){: width='48'} ![dragon](../assets/types/dragon.png){: width='48'} | 6.9 m | 650.0 kg | 1. Pressure-(Altered)-/-Levitate-(Origin)<br>2. Telepathy-(Altered)-/-Levitate-(Origin) | N/A |
+| #10007 | ![ghost](../assets/types/ghost.png){: width='48'} ![dragon](../assets/types/dragon.png){: width='48'} | 6.9 m | 650.0 kg | 1. Levitate | N/A |
 
 ---
 

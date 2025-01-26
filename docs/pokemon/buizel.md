@@ -171,6 +171,7 @@ Buizel has no alternate forms.
 | Aqua Ring | ![water](../assets/types/water.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
 | Aqua Tail | ![water](../assets/types/water.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 90 | 90 | 10 |
 | Switcheroo | ![dark](../assets/types/dark.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 10 |
+| Tail Slap | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 25 | 85 | 10 |
 
 ### Tutor Moves
 

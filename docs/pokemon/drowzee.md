@@ -177,6 +177,7 @@ Drowzee has no alternate forms.
 | Secret Power | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 70 | 100 | 20 |
 | Guard Swap | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
 | Nasty Plot | ![dark](../assets/types/dark.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
+| Psycho Cut | ![psychic](../assets/types/psychic.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 70 | 100 | 20 |
 
 ### Tutor Moves
 

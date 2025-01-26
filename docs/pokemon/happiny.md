@@ -163,6 +163,7 @@ Happiny has no alternate forms.
 | Aromatherapy | ![grass](../assets/types/grass.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
 | Gravity | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
 | Natural Gift | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 15 |
+| Last Resort | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 140 | 100 | 5 |
 | Mud Bomb | ![ground](../assets/types/ground.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 65 | 85 | 10 |
 
 ### Tutor Moves

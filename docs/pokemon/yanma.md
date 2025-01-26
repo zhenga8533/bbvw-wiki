@@ -161,6 +161,7 @@ Yanma has no alternate forms.
 | Pursuit | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 20 |
 | Secret Power | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 70 | 100 | 20 |
 | Silver Wind | ![bug](../assets/types/bug.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 5 |
+| Signal Beam | ![bug](../assets/types/bug.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 75 | 100 | 15 |
 | Feint | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 30 | 100 | 10 |
 
 ### Tutor Moves

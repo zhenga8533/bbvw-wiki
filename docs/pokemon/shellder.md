@@ -106,7 +106,6 @@ Shellder has no alternate forms.
 | 4 | Withdraw | ![water](../assets/types/water.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 40 |
 | 7 | Supersonic | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 55 | 20 |
 | 10 | Bubble Beam | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 65 | 100 | 20 |
-| 10 | Bubble Beam | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 65 | 100 | 20 |
 | 13 | Icicle Spear | ![ice](../assets/types/ice.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 25 | 100 | 30 |
 | 16 | Protect | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
 | 20 | Leer | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 30 |
@@ -152,6 +151,7 @@ Shellder has no alternate forms.
 | --- | --- | --- | --- | --- | --- |
 | Take Down | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 90 | 85 | 20 |
 | Twineedle | ![bug](../assets/types/bug.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 25 | 100 | 20 |
+| Bubble Beam | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 65 | 100 | 20 |
 | Screech | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 40 |
 | Barrier | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
 | Rapid Spin | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 50 | 100 | 40 |

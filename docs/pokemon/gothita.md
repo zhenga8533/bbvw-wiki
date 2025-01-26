@@ -159,23 +159,6 @@ Gothita has no alternate forms.
 | TM56 | Fling | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 10 |
 | TM57 | Charge Beam | ![electric](../assets/types/electric.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 50 | 90 | 10 |
 | TM61 | Will O Wisp | ![fire](../assets/types/fire.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 15 |
-| TM61 | Will O Wisp | ![fire](../assets/types/fire.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 15 |
-| TM61 | Will O Wisp | ![fire](../assets/types/fire.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 15 |
-| TM61 | Will O Wisp | ![fire](../assets/types/fire.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 15 |
-| TM61 | Will O Wisp | ![fire](../assets/types/fire.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 15 |
-| TM61 | Will O Wisp | ![fire](../assets/types/fire.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 15 |
-| TM61 | Will O Wisp | ![fire](../assets/types/fire.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 15 |
-| TM61 | Will O Wisp | ![fire](../assets/types/fire.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 15 |
-| TM61 | Will O Wisp | ![fire](../assets/types/fire.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 15 |
-| TM61 | Will O Wisp | ![fire](../assets/types/fire.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 15 |
-| TM61 | Will O Wisp | ![fire](../assets/types/fire.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 15 |
-| TM61 | Will O Wisp | ![fire](../assets/types/fire.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 15 |
-| TM61 | Will O Wisp | ![fire](../assets/types/fire.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 15 |
-| TM61 | Will O Wisp | ![fire](../assets/types/fire.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 15 |
-| TM61 | Will O Wisp | ![fire](../assets/types/fire.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 15 |
-| TM61 | Will O Wisp | ![fire](../assets/types/fire.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 15 |
-| TM61 | Will O Wisp | ![fire](../assets/types/fire.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 15 |
-| TM61 | Will O Wisp | ![fire](../assets/types/fire.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 15 |
 | TM63 | Embargo | ![dark](../assets/types/dark.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 15 |
 | TM66 | Payback | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 50 | 100 | 10 |
 | TM70 | Flash | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 20 |
@@ -193,8 +176,10 @@ Gothita has no alternate forms.
 | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- |
 | Mean Look | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
+| Mirror Coat | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | 100 | 20 |
 | Uproar | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
 | Miracle Eye | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 40 |
+| Dark Pulse | ![dark](../assets/types/dark.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
 | Captivate | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 20 |
 
 ### Tutor Moves

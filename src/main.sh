@@ -18,7 +18,7 @@ OUTPUT_PATH=$(grep "^OUTPUT_PATH" .env | cut -d '=' -f2- | tr -d ' "')
 POKEMON_INPUT_PATH=$(grep "^POKEMON_INPUT_PATH" .env | cut -d '=' -f2- | tr -d ' "')
 POKEMON_OUTPUT_PATH=$(grep "^POKEMON_OUTPUT_PATH" .env | cut -d '=' -f2- | tr -d ' "')
 WILD_ENCOUNTER_PATH=$(grep "^WILD_ENCOUNTER_PATH" .env | cut -d '=' -f2- | tr -d ' "')
-if [ -f $POKEMON_INPUT_PATH ]; then
+if [ -d $POKEMON_INPUT_PATH ]; then
   echo "Pokemon input data found"
 else
   echo "Pokemon input data not found"
@@ -66,11 +66,12 @@ $PYTHON wild_pokemon.py
 
 $PYTHON pokemon.py
 $PYTHON wild_encounters.py
-echo "All parsers ran successfully"
+echo "Finished running all parsers"
 echo ""
 
 # Give option to update markdown files
 read -p "Would you like to update the markdown files in docs? (y/n) " -n 1 -r
+echo ""
 if [[ $REPLY =~ ^[Nn]$ ]]; then
   echo "Markdown files not updated"
   exit 0

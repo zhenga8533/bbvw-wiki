@@ -174,6 +174,7 @@ Meowth has no alternate forms.
 | Odor Sleuth | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 40 |
 | Punishment | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 5 |
 | Last Resort | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 140 | 100 | 5 |
+| Foul Play | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 95 | 100 | 15 |
 
 ### Tutor Moves
 

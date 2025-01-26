@@ -100,7 +100,6 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Revenge | ![fighting](../assets/types/fighting.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 10 |
 | 1 | Tackle | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 35 |
 | 1 | Water Gun | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 40 | 100 | 25 |
 | 4 | Uproar | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
@@ -117,7 +116,6 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 | 46 | Flail | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 15 |
 | 51 | Final Gambit | ![fighting](../assets/types/fighting.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | 100 | 5 |
 | 56 | Thrash | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 120 | 100 | 10 |
-| 61 | Super Fang | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 90 | 10 |
 
 ### TM Moves
 
@@ -154,6 +152,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 | Rage | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 20 | 100 | 20 |
 | Swift | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | — | 20 |
 | Whirlpool | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 35 | 85 | 15 |
+| Revenge | ![fighting](../assets/types/fighting.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 10 |
 | Muddy Water | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 85 | 10 |
 | Mud Shot | ![ground](../assets/types/ground.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 55 | 95 | 15 |
 | Brine | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 65 | 100 | 10 |

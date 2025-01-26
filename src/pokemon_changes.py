@@ -8,6 +8,10 @@ import logging
 import os
 
 
+def parse_moves(lines, n, logger):
+    pass
+
+
 def main():
     # Load environment variables and logger
     load_dotenv()
@@ -252,13 +256,22 @@ def main():
                 if len(types) > 0:
                     pokemon_data["types"] = types
                 if len(tms) > 0:
-                    moves.extend([{"name": tm, "level_learned_at": 0, "learn_method": "machine"} for tm in tms])
+                    for tm in tms:
+                        tm_index = next((i for i, move in enumerate(moves) if format_id(move["name"]) == tm), None)
+                        if tm_index is None:
+                            moves.append({"name": tm, "level_learned_at": 0, "learn_method": "machine"})
                 if len(hms) > 0:
-                    moves.extend([{"name": hm, "level_learned_at": 0, "learn_method": "machine"} for hm in hms])
+                    for hm in hms:
+                        hm_index = next((i for i, move in enumerate(moves) if format_id(move["name"]) == hm), None)
+                        if hm_index is None:
+                            moves.append({"name": hm, "level_learned_at": 0, "learn_method": "machine"})
                 if len(tutor_moves) > 0:
-                    moves.extend(
-                        [{"name": move, "level_learned_at": 0, "learn_method": "tutor"} for move in tutor_moves]
-                    )
+                    for tutor_move in tutor_moves:
+                        tutor_index = next(
+                            (i for i, move in enumerate(moves) if format_id(move["name"]) == tutor_move), None
+                        )
+                        if tutor_index is None:
+                            moves.append({"name": tutor_move, "level_learned_at": 0, "learn_method": "tutor"})
                 for stat in stats:
                     pokemon_data["stats"][stat] = stats[stat]
 

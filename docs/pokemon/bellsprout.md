@@ -119,6 +119,7 @@ Bellsprout has no alternate forms.
 | 27 | Knock Off | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 65 | 100 | 20 |
 | 29 | Sweet Scent | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 20 |
 | 35 | Gastro Acid | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 10 |
+| 39 | Razor Leaf | ![grass](../assets/types/grass.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 55 | 95 | 25 |
 | 41 | Slam | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 75 | 20 |
 | 47 | Wring Out | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | 100 | 5 |
 | 51 | Power Whip | ![grass](../assets/types/grass.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 120 | 85 | 10 |
@@ -155,6 +156,7 @@ Bellsprout has no alternate forms.
 
 | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- |
+| Leech Life | ![bug](../assets/types/bug.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 100 | 10 |
 | Giga Drain | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 75 | 100 | 10 |
 | Encore | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 5 |
 | Synthesis | ![grass](../assets/types/grass.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
@@ -165,6 +167,8 @@ Bellsprout has no alternate forms.
 | Magical Leaf | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | — | 20 |
 | Natural Gift | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 15 |
 | Worry Seed | ![grass](../assets/types/grass.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 10 |
+| Power Whip | ![grass](../assets/types/grass.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 120 | 85 | 10 |
+| Clear Smog | ![poison](../assets/types/poison.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 50 | — | 15 |
 
 ### Tutor Moves
 

@@ -33,7 +33,7 @@ Latest (Gen VI+):
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #10018 | ![normal](../assets/types/normal.png){: width='48'} ![fighting](../assets/types/fighting.png){: width='48'} | 0.6 m | 6.5 kg | 1. Serene-Grace<br>2. Magic-Guard | #154 |
+| #10018 | ![normal](../assets/types/normal.png){: width='48'} ![fighting](../assets/types/fighting.png){: width='48'} | 0.6 m | 6.5 kg | 1. Serene-Grace | #154 |
 
 ---
 
@@ -97,7 +97,6 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Relic Song | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 75 | 100 | 10 |
 | 1 | Round | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 15 |
 | 6 | Quick Attack | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 30 |
 | 11 | Confusion | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 50 | 100 | 25 |
@@ -172,4 +171,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 Meloetta Pirouette cannot learn any moves by breeding.
 ### Tutor Moves
 
-Meloetta Pirouette cannot learn any moves from tutors.
+| Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- |
+| Relic Song | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 75 | 100 | 10 |
+

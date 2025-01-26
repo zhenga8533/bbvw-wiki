@@ -158,6 +158,7 @@ Chatot has no alternate forms.
 | Sleep Talk | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
 | Encore | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 5 |
 | Air Cutter | ![flying](../assets/types/flying.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 95 | 25 |
+| Nasty Plot | ![dark](../assets/types/dark.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
 | Defog | ![flying](../assets/types/flying.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
 
 ### Tutor Moves

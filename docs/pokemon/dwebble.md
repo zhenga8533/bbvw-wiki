@@ -169,6 +169,7 @@ Dwebble has no alternate forms.
 | Sand Tomb | ![ground](../assets/types/ground.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 35 | 85 | 15 |
 | Iron Defense | ![steel](../assets/types/steel.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
 | Block | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
+| Night Slash | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 70 | 100 | 15 |
 
 ### Tutor Moves
 

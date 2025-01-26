@@ -104,11 +104,11 @@ Caterpie has no alternate forms.
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Bug Bite | ![bug](../assets/types/bug.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 20 |
 | 1 | Snore | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 50 | 100 | 15 |
 | 1 | String Shot | ![bug](../assets/types/bug.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 95 | 40 |
 | 1 | Tackle | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 35 |
 | 6 | Struggle Bug | ![bug](../assets/types/bug.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 50 | 100 | 20 |
+| 15 | Bug Bite | ![bug](../assets/types/bug.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 20 |
 
 ### TM Moves
 

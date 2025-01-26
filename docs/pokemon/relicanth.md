@@ -175,6 +175,7 @@ Relicanth has no alternate forms.
 | Water Sport | ![water](../assets/types/water.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
 | Brine | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 65 | 100 | 10 |
 | Aqua Tail | ![water](../assets/types/water.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 90 | 90 | 10 |
+| Zen Headbutt | ![psychic](../assets/types/psychic.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 90 | 15 |
 
 ### Tutor Moves
 

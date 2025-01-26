@@ -173,6 +173,8 @@ Sigilyph has no alternate forms.
 | Steel Wing | ![steel](../assets/types/steel.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 70 | 90 | 25 |
 | Ancient Power | ![rock](../assets/types/rock.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 5 |
 | Skill Swap | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
+| Psycho Shift | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 10 |
+| Stored Power | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 20 | 100 | 10 |
 
 ### Tutor Moves
 

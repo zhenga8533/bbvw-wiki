@@ -175,6 +175,8 @@ Pawniard has no alternate forms.
 | Mean Look | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
 | Pursuit | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 20 |
 | Revenge | ![fighting](../assets/types/fighting.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 10 |
+| Sucker Punch | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 70 | 100 | 5 |
+| Psycho Cut | ![psychic](../assets/types/psychic.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 70 | 100 | 20 |
 | Stealth Rock | ![rock](../assets/types/rock.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
 
 ### Tutor Moves

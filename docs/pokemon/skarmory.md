@@ -109,7 +109,7 @@ Skarmory has no alternate forms.
 | 17 | Fury Attack | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 15 | 85 | 20 |
 | 20 | Feint | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 30 | 100 | 10 |
 | 22 | Sky Drop | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 100 | 10 |
-| 24 | Air Cutter | ![flying](../assets/types/flying.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 95 | 25 |
+| 23 | Air Cutter | ![flying](../assets/types/flying.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 95 | 25 |
 | 26 | Roost | ![flying](../assets/types/flying.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
 | 28 | Spikes | ![ground](../assets/types/ground.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
 | 31 | Metal Sound | ![steel](../assets/types/steel.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 40 |
@@ -145,6 +145,7 @@ Skarmory has no alternate forms.
 | TM45 | Attract | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 15 |
 | TM46 | Thief | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 25 |
 | TM48 | Round | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 15 |
+| TM58 | Sky Drop | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 100 | 10 |
 | TM66 | Payback | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 50 | 100 | 10 |
 | TM70 | Flash | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 20 |
 | TM75 | Swords Dance | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
@@ -161,12 +162,14 @@ Skarmory has no alternate forms.
 | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- |
 | Whirlwind | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
+| Drill Peck | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 100 | 20 |
 | Sky Attack | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 140 | 90 | 5 |
 | Curse | ![ghost](../assets/types/ghost.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
 | Endure | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
 | Pursuit | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 20 |
 | Assurance | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 10 |
 | Guard Swap | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
+| Brave Bird | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 120 | 100 | 15 |
 | Stealth Rock | ![rock](../assets/types/rock.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
 
 ### Tutor Moves

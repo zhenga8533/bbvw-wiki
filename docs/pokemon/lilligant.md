@@ -132,42 +132,12 @@ Lilligant has no alternate forms.
 | TM22 | Solar Beam | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 120 | 100 | 10 |
 | TM27 | Return | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 20 |
 | TM29 | Psychic | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
-| TM29 | Psychic | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
-| TM29 | Psychic | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
-| TM29 | Psychic | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
-| TM29 | Psychic | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
-| TM29 | Psychic | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
-| TM29 | Psychic | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
-| TM29 | Psychic | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
-| TM29 | Psychic | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
-| TM29 | Psychic | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
-| TM29 | Psychic | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
-| TM30 | Shadow Ball | ![ghost](../assets/types/ghost.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
-| TM30 | Shadow Ball | ![ghost](../assets/types/ghost.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
-| TM30 | Shadow Ball | ![ghost](../assets/types/ghost.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
-| TM30 | Shadow Ball | ![ghost](../assets/types/ghost.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
-| TM30 | Shadow Ball | ![ghost](../assets/types/ghost.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
-| TM30 | Shadow Ball | ![ghost](../assets/types/ghost.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
-| TM30 | Shadow Ball | ![ghost](../assets/types/ghost.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
-| TM30 | Shadow Ball | ![ghost](../assets/types/ghost.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
-| TM30 | Shadow Ball | ![ghost](../assets/types/ghost.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
-| TM30 | Shadow Ball | ![ghost](../assets/types/ghost.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
 | TM30 | Shadow Ball | ![ghost](../assets/types/ghost.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
 | TM32 | Double Team | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
 | TM42 | Facade | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 70 | 100 | 20 |
 | TM44 | Rest | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
 | TM45 | Attract | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 15 |
 | TM48 | Round | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 15 |
-| TM52 | Focus Blast | ![fighting](../assets/types/fighting.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 120 | 70 | 5 |
-| TM52 | Focus Blast | ![fighting](../assets/types/fighting.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 120 | 70 | 5 |
-| TM52 | Focus Blast | ![fighting](../assets/types/fighting.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 120 | 70 | 5 |
-| TM52 | Focus Blast | ![fighting](../assets/types/fighting.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 120 | 70 | 5 |
-| TM52 | Focus Blast | ![fighting](../assets/types/fighting.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 120 | 70 | 5 |
-| TM52 | Focus Blast | ![fighting](../assets/types/fighting.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 120 | 70 | 5 |
-| TM52 | Focus Blast | ![fighting](../assets/types/fighting.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 120 | 70 | 5 |
-| TM52 | Focus Blast | ![fighting](../assets/types/fighting.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 120 | 70 | 5 |
-| TM52 | Focus Blast | ![fighting](../assets/types/fighting.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 120 | 70 | 5 |
-| TM52 | Focus Blast | ![fighting](../assets/types/fighting.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 120 | 70 | 5 |
 | TM52 | Focus Blast | ![fighting](../assets/types/fighting.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 120 | 70 | 5 |
 | TM53 | Energy Ball | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
 | TM68 | Giga Impact | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 150 | 90 | 5 |

@@ -185,7 +185,9 @@ Zangoose has no alternate forms.
 | Iron Tail | ![steel](../assets/types/steel.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 75 | 15 |
 | Metal Claw | ![steel](../assets/types/steel.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 50 | 95 | 35 |
 | Feint | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 30 | 100 | 10 |
+| Night Slash | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 70 | 100 | 15 |
 | Double Hit | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 35 | 90 | 10 |
+| Final Gambit | ![fighting](../assets/types/fighting.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | 100 | 5 |
 
 ### Tutor Moves
 

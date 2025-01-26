@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #492 | ![grass](../assets/types/grass.png){: width='48'} | 0.2 m | 2.1 kg | 1. Natural-Cure-(Land)-/-Serene-Grace-(Sky) | N/A |
+| #492 | ![grass](../assets/types/grass.png){: width='48'} | 0.2 m | 2.1 kg | 1. Natural-Cure | N/A |
 
 ---
 

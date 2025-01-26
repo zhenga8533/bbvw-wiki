@@ -125,7 +125,6 @@ Trubbish has no alternate forms.
 | 45 | Gunk Shot | ![poison](../assets/types/poison.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 120 | 80 | 5 |
 | 47 | Explosion | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 250 | 100 | 5 |
 | 49 | Self Destruct | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 200 | 100 | 5 |
-| 49 | Self Destruct | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 200 | 100 | 5 |
 
 ### TM Moves
 
@@ -158,8 +157,10 @@ Trubbish has no alternate forms.
 | --- | --- | --- | --- | --- | --- |
 | Sand Attack | ![ground](../assets/types/ground.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 15 |
 | Haze | ![ice](../assets/types/ice.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 30 |
+| Self Destruct | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 200 | 100 | 5 |
 | Spikes | ![ground](../assets/types/ground.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
 | Mud Sport | ![ground](../assets/types/ground.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
+| Rock Blast | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 25 | 90 | 10 |
 
 ### Tutor Moves
 

@@ -117,8 +117,8 @@ Aerodactyl has no alternate forms.
 | 65 | Hyper Beam | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 150 | 90 | 5 |
 | 73 | Rock Slide | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 95 | 10 |
 | 81 | Dragon Dance | ![dragon](../assets/types/dragon.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
+| 81 | Giga Impact | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 150 | 90 | 5 |
 | 89 | Head Smash | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 150 | 80 | 5 |
-| 97 | Giga Impact | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 150 | 90 | 5 |
 
 ### TM Moves
 

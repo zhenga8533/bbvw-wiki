@@ -119,10 +119,10 @@ Mandibuzz has no alternate forms.
 | 28 | Punishment | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 5 |
 | 32 | Defog | ![flying](../assets/types/flying.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
 | 37 | Tailwind | ![flying](../assets/types/flying.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
-| 44 | Air Slash | ![flying](../assets/types/flying.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 75 | 95 | 15 |
-| 48 | Dark Pulse | ![dark](../assets/types/dark.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
+| 41 | Air Slash | ![flying](../assets/types/flying.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 75 | 95 | 15 |
+| 46 | Dark Pulse | ![dark](../assets/types/dark.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
+| 51 | Bone Rush | ![ground](../assets/types/ground.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 25 | 90 | 10 |
 | 52 | Embargo | ![dark](../assets/types/dark.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 15 |
-| 55 | Bone Rush | ![ground](../assets/types/ground.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 25 | 90 | 10 |
 | 57 | Whirlwind | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
 | 63 | Brave Bird | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 120 | 100 | 15 |
 | 70 | Mirror Move | ![flying](../assets/types/flying.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |

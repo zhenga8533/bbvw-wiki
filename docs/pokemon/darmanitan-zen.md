@@ -33,7 +33,7 @@ Latest (Gen VI+):
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #10017 | ![fire](../assets/types/fire.png){: width='48'} ![psychic](../assets/types/psychic.png){: width='48'} | 1.3 m | 92.9 kg | 1. Sheer-Force<br>2. Iron-Fist | #61 |
+| #10017 | ![fire](../assets/types/fire.png){: width='48'} ![psychic](../assets/types/psychic.png){: width='48'} | 1.3 m | 92.9 kg | 1. Sheer-Force<br>2. Zen-Mode | #61 |
 
 ---
 
@@ -103,7 +103,6 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 | 1 | Rage | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 20 | 100 | 20 |
 | 1 | Rollout | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 30 | 90 | 20 |
 | 1 | Tackle | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 35 |
-| 1 | Yawn | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
 | 3 | Rollout | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 30 | 90 | 20 |
 | 6 | Incinerate | ![fire](../assets/types/fire.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 50 | 100 | 15 |
 | 9 | Rage | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 20 | 100 | 20 |
@@ -120,7 +119,6 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 | 39 | Taunt | ![dark](../assets/types/dark.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 20 |
 | 47 | Superpower | ![fighting](../assets/types/fighting.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 120 | 100 | 5 |
 | 54 | Overheat | ![fire](../assets/types/fire.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 130 | 90 | 5 |
-| 61 | Focus Punch | ![fighting](../assets/types/fighting.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 150 | 100 | 20 |
 
 ### TM Moves
 

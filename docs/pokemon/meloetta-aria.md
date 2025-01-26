@@ -182,4 +182,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 Meloetta Aria cannot learn any moves by breeding.
 ### Tutor Moves
 
-Meloetta Aria cannot learn any moves from tutors.
+| Move | Type | Cat. | Power | Acc. | PP |
+| --- | --- | --- | --- | --- | --- |
+| Relic Song | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 75 | 100 | 10 |
+

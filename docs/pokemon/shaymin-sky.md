@@ -31,7 +31,7 @@ Latest (Gen VI+):
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #10006 | ![grass](../assets/types/grass.png){: width='48'} ![flying](../assets/types/flying.png){: width='48'} | 0.4 m | 5.2 kg | 1. Natural-Cure-(Land)-/-Serene-Grace-(Sky) | N/A |
+| #10006 | ![grass](../assets/types/grass.png){: width='48'} ![flying](../assets/types/flying.png){: width='48'} | 0.4 m | 5.2 kg | 1. Serene-Grace | N/A |
 
 ---
 
