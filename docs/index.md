@@ -2,7 +2,7 @@
 
 !!! note
 
-    This site is fanmade! Much of the data in the Pokemon doc-pages was made by parsing through documents found from the official ROM hacks. Specific Pokémon information was fetched from [PokéAPI](https://pokeapi.co/) using a [parser](https://github.com/zhenga8533/pokeapi-parser/tree/v1).
+    This site is fanmade! Much of the data in the Pokemon doc-pages was made by parsing through documents found from the official ROM hacks. Specific Pokémon information was fetched from [PokéAPI](https://pokeapi.co/){:target="\_blank"} using a [parser](https://github.com/zhenga8533/pokeapi-parser/tree/v1){:target="\_blank"}.
 
 !!! warning
 
@@ -12,7 +12,7 @@
 
 ## Summary
 
-Pokémon Blaze Black and Pokémon Volt White are edits of the regular Pokémon Black and White versions which self-contain all 649 Pokémon, allowing a player a large amount of variety. In addition, BB/VW also have edited trainers, an increased difficulty level, improvements to many Pokémon and more. They are the spiritual successor of my two other hacks, Pokémon Fire Red Omega and Pokémon Spirit Gold. Blaze Black and Volt White were also - with one minor exception - the first of their kind to be made.
+Pokémon Blaze Black and Pokémon Volt White are edits of the regular Pokémon Black and White versions which self-contain all 649 Pokémon, allowing a player a large amount of variety. In addition, BB/VW also have edited trainers, an increased difficulty level, improvements to many Pokémon and more. They are the spiritual successor of [@Drayano60](https://x.com/drayano60){:target="\_blank"}'s two other hacks, Pokémon Fire Red Omega and Pokémon Spirit Gold. Blaze Black and Volt White were also - with one minor exception - the first of their kind to be made.
 
 I should mention that with the exception of things normally different between Black and White such as Black City, White Forest, the legendary focus and the appearance of Opelucid City, the two games are identical.
 
@@ -47,7 +47,7 @@ The game also tries to have as many Pokémon available early as possible, while 
 
 Blaze Black and Volt White also offer a 'clean' version, which is a relatively blank slate, keeping the 649 hack but eliminating all of the Pokémon changes. This is useful for the purist, and it's something no other hack has, as far as I'm aware.
 
-If you're looking for a challenge designed by someone who thinks they know the Pokémon games in and out (and considering my ridiculous amount of knowledge about them and my three walkthroughs, I certainly hope I do!) then this is the hack to try. If you're looking for an incredibly difficult challenge... I'd recommend a different one. Although this one has its fair share of annoyances, too.
+If you're looking for a challenge designed by someone who thinks they know the Pokémon games in and out, then this is the hack to try. If you're looking for an incredibly difficult challenge... I'd recommend a different one. Although this one has its fair share of annoyances, too.
 
 ---
 
@@ -55,7 +55,7 @@ If you're looking for a challenge designed by someone who thinks they know the P
 
 !!! tip
 
-    All credit for the hack creation goes to [@Drayano60](https://x.com/drayano60). The inspiration for the creation of this wiki can be accredited to the [BB/VW 2 Redux Wiki](https://smilingzero.github.io/BlazeBlack2ReduxWiki/) by [@SmilingZero](https://github.com/SmilingZero) and [Blaze Black Wiki](https://akeemallen.github.io/blaze-black-wiki/) by [@AkeemAllen](https://github.com/AkeemAllen)!
+    All credit for the hack creation goes to [@Drayano60](https://x.com/drayano60){:target="\_blank"}. The creation of this wiki was inspired greatly by [BB/VW 2 Redux Wiki](https://smilingzero.github.io/BlazeBlack2ReduxWiki/){:target="\_blank"} by [@SmilingZero](https://github.com/SmilingZero){:target="\_blank"} and [Blaze Black Wiki](https://akeemallen.github.io/blaze-black-wiki/){:target="\_blank"} by [@AkeemAllen](https://github.com/AkeemAllen){:target="\_blank"}!
 
 elementking: It was thanks to him that I even got to start hacking B/W fully in the first place. Without him I probably wouldn't have discovered anything post Wild Pokemon editing.
 
