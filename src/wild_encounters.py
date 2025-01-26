@@ -46,15 +46,11 @@ def main():
         "mistralton_city",
         "route_7",
         "celestial_tower",
-        "route_17",
-        "route_18",
-        "p2_laboratory",
         "mistralton_cave",
         "rumination_field",
         "twist_mountain",
         "icirrus_city",
         "dragonspiral_tower",
-        "relic_castle",
         "route_8",
         "moor_of_icirrus",
         "tubeline_bridge",
@@ -84,6 +80,9 @@ def main():
         "marvelous_bridge",
         "route_16",
         "lostlorn_forest",
+        "route_17",
+        "route_18",
+        "p2_laboratory",
     ]
     os_walk = os.walk(WILD_ENCOUNTER_PATH)
     locations = sorted(

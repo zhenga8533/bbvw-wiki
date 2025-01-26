@@ -804,14 +804,6 @@ nav:
       - Celestial Tower:
           - Trainer Rosters: wild_encounters/celestial_tower/trainer_rosters.md
           - Wild Pokemon: wild_encounters/celestial_tower/wild_pokemon.md
-      - Route 17:
-          - Trainer Rosters: wild_encounters/route_17/trainer_rosters.md
-          - Wild Pokemon: wild_encounters/route_17/wild_pokemon.md
-      - Route 18:
-          - Trainer Rosters: wild_encounters/route_18/trainer_rosters.md
-          - Wild Pokemon: wild_encounters/route_18/wild_pokemon.md
-      - P2 Laboratory:
-          - Wild Pokemon: wild_encounters/p2_laboratory/wild_pokemon.md
       - Mistralton Cave:
           - Trainer Rosters: wild_encounters/mistralton_cave/trainer_rosters.md
           - Wild Pokemon: wild_encounters/mistralton_cave/wild_pokemon.md
@@ -889,3 +881,11 @@ nav:
           - Wild Pokemon: wild_encounters/route_16/wild_pokemon.md
       - Lostlorn Forest:
           - Wild Pokemon: wild_encounters/lostlorn_forest/wild_pokemon.md
+      - Route 17:
+          - Trainer Rosters: wild_encounters/route_17/trainer_rosters.md
+          - Wild Pokemon: wild_encounters/route_17/wild_pokemon.md
+      - Route 18:
+          - Trainer Rosters: wild_encounters/route_18/trainer_rosters.md
+          - Wild Pokemon: wild_encounters/route_18/wild_pokemon.md
+      - P2 Laboratory:
+          - Wild Pokemon: wild_encounters/p2_laboratory/wild_pokemon.md
