@@ -6,11 +6,11 @@
 
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|
-| ![Drilbur](../../assets/sprites/drilbur/front.png)<br>[Drilbur](../../pokemon/drilbur.md/) |**Level:** 19<br>**Item:** No Item<br>**Ability:** ? | 1. —<br>2. —<br>3. —<br>4. — |
-| ![Bronzor](../../assets/sprites/bronzor/front.png)<br>[Bronzor](../../pokemon/bronzor.md/) |**Level:** 19<br>**Item:** No Item<br>**Ability:** ? | 1. —<br>2. —<br>3. —<br>4. — |
-| ![Tympole](../../assets/sprites/tympole/front.png)<br>[Tympole](../../pokemon/tympole.md/) |**Level:** 19<br>**Item:** No Item<br>**Ability:** ? | 1. —<br>2. —<br>3. —<br>4. — |
-| ![Vulpix](../../assets/sprites/vulpix/front.png)<br>[Vulpix](../../pokemon/vulpix.md/) |**Level:** 19<br>**Item:** No Item<br>**Ability:** ? | 1. —<br>2. —<br>3. —<br>4. — |
-| ![Zorua](../../assets/sprites/zorua/front.png)<br>[Zorua](../../pokemon/zorua.md/) |**Level:** 19<br>**Item:** No Item<br>**Ability:** ? | 1. —<br>2. —<br>3. —<br>4. — |
+| ![Drilbur](../../assets/sprites/drilbur/front.png) |**Lv. 19** [Drilbur](../../pokemon/drilbur.md/)<br>**Item:** No Item<br>**Ability:** ? | 1. —<br>2. —<br>3. —<br>4. — |
+| ![Bronzor](../../assets/sprites/bronzor/front.png) |**Lv. 19** [Bronzor](../../pokemon/bronzor.md/)<br>**Item:** No Item<br>**Ability:** ? | 1. —<br>2. —<br>3. —<br>4. — |
+| ![Tympole](../../assets/sprites/tympole/front.png) |**Lv. 19** [Tympole](../../pokemon/tympole.md/)<br>**Item:** No Item<br>**Ability:** ? | 1. —<br>2. —<br>3. —<br>4. — |
+| ![Vulpix](../../assets/sprites/vulpix/front.png) |**Lv. 19** [Vulpix](../../pokemon/vulpix.md/)<br>**Item:** No Item<br>**Ability:** ? | 1. —<br>2. —<br>3. —<br>4. — |
+| ![Zorua](../../assets/sprites/zorua/front.png) |**Lv. 19** [Zorua](../../pokemon/zorua.md/)<br>**Item:** No Item<br>**Ability:** ? | 1. —<br>2. —<br>3. —<br>4. — |
 
 ---
 
@@ -20,10 +20,10 @@
 
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|
-| ![Stantler](../../assets/sprites/stantler/front.png)<br>[Stantler](../../pokemon/stantler.md/) |**Level:** 18<br>**Item:** No Item<br>**Ability:** Intimidate | 1. Retaliate<br>2. Hypnosis<br>3. Disable<br>4. Extrasensory |
-| ![Herdier](../../assets/sprites/herdier/front.png)<br>[Herdier](../../pokemon/herdier.md/) |**Level:** 18<br>**Item:** No Item<br>**Ability:** Intimidate | 1. Retaliate<br>2. Bite<br>3. Helping Hand<br>4. Charm |
-| ![Furret](../../assets/sprites/furret/front.png)<br>[Furret](../../pokemon/furret.md/) |**Level:** 18<br>**Item:** No Item<br>**Ability:** Keen Eye | 1. Retaliate<br>2. Follow Me<br>3. Thunderbolt<br>4. Reversal |
-| ![Bibarel](../../assets/sprites/bibarel/front.png)<br>[Bibarel](../../pokemon/bibarel.md/) |**Level:** 18<br>**Item:** No Item<br>**Ability:** Moody | 1. Retaliate<br>2. Curse<br>3. Aqua Tail<br>4. Amnesia |
-| ![Watchog](../../assets/sprites/watchog/front.png)<br>[Watchog](../../pokemon/watchog.md/) |**Level:** 20<br>**Item:** Sitrus Berry<br>**Ability:** Analytic | 1. Retaliate<br>2. Hypnosis<br>3. Super Fang<br>4. Crunch |
-| ![Bouffalant](../../assets/sprites/bouffalant/front.png)<br>[Bouffalant](../../pokemon/bouffalant.md/) |**Level:** 20<br>**Item:** Sitrus Berry<br>**Ability:** Sap Sipper | 1. Retaliate<br>2. Aerial Ace<br>3. Rock Tomb<br>4. Revenge |
+| ![Stantler](../../assets/sprites/stantler/front.png) |**Lv. 18** [Stantler](../../pokemon/stantler.md/)<br>**Item:** No Item<br>**Ability:** Intimidate | 1. Retaliate<br>2. Hypnosis<br>3. Disable<br>4. Extrasensory |
+| ![Herdier](../../assets/sprites/herdier/front.png) |**Lv. 18** [Herdier](../../pokemon/herdier.md/)<br>**Item:** No Item<br>**Ability:** Intimidate | 1. Retaliate<br>2. Bite<br>3. Helping Hand<br>4. Charm |
+| ![Furret](../../assets/sprites/furret/front.png) |**Lv. 18** [Furret](../../pokemon/furret.md/)<br>**Item:** No Item<br>**Ability:** Keen Eye | 1. Retaliate<br>2. Follow Me<br>3. Thunderbolt<br>4. Reversal |
+| ![Bibarel](../../assets/sprites/bibarel/front.png) |**Lv. 18** [Bibarel](../../pokemon/bibarel.md/)<br>**Item:** No Item<br>**Ability:** Moody | 1. Retaliate<br>2. Curse<br>3. Aqua Tail<br>4. Amnesia |
+| ![Watchog](../../assets/sprites/watchog/front.png) |**Lv. 20** [Watchog](../../pokemon/watchog.md/)<br>**Item:** Sitrus Berry<br>**Ability:** Analytic | 1. Retaliate<br>2. Hypnosis<br>3. Super Fang<br>4. Crunch |
+| ![Bouffalant](../../assets/sprites/bouffalant/front.png) |**Lv. 20** [Bouffalant](../../pokemon/bouffalant.md/)<br>**Item:** Sitrus Berry<br>**Ability:** Sap Sipper | 1. Retaliate<br>2. Aerial Ace<br>3. Rock Tomb<br>4. Revenge |
 

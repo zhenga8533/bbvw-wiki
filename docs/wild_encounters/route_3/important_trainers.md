@@ -8,29 +8,29 @@
 
     | Pokemon | Attributes | Moves |
     |:-------:|------------|-------|
-    | ![Staravia](../../assets/sprites/staravia/front.png)<br>[Staravia](../../pokemon/staravia.md/) |**Level:** 14<br>**Item:** No Item<br>**Ability:** Reckless | 1. —<br>2. —<br>3. —<br>4. — |
-    | ![Roggenrola](../../assets/sprites/roggenrola/front.png)<br>[Roggenrola](../../pokemon/roggenrola.md/) |**Level:** 14<br>**Item:** No Item<br>**Ability:** Sturdy | 1. —<br>2. —<br>3. —<br>4. — |
-    | ![Pansear](../../assets/sprites/pansear/front.png)<br>[Pansear](../../pokemon/pansear.md/) |**Level:** 14<br>**Item:** No Item<br>**Ability:** Torrent | 1. —<br>2. —<br>3. —<br>4. — |
-    | ![Oshawott](../../assets/sprites/oshawott/front.png)<br>[Oshawott](../../pokemon/oshawott.md/) |**Level:** 16<br>**Item:** Sitrus Berry<br>**Ability:** Contrary | 1. —<br>2. —<br>3. —<br>4. — |
+    | ![Staravia](../../assets/sprites/staravia/front.png) |**Lv. 14** [Staravia](../../pokemon/staravia.md/)<br>**Item:** No Item<br>**Ability:** Reckless | 1. —<br>2. —<br>3. —<br>4. — |
+    | ![Roggenrola](../../assets/sprites/roggenrola/front.png) |**Lv. 14** [Roggenrola](../../pokemon/roggenrola.md/)<br>**Item:** No Item<br>**Ability:** Sturdy | 1. —<br>2. —<br>3. —<br>4. — |
+    | ![Pansear](../../assets/sprites/pansear/front.png) |**Lv. 14** [Pansear](../../pokemon/pansear.md/)<br>**Item:** No Item<br>**Ability:** Torrent | 1. —<br>2. —<br>3. —<br>4. — |
+    | ![Oshawott](../../assets/sprites/oshawott/front.png) |**Lv. 16** [Oshawott](../../pokemon/oshawott.md/)<br>**Item:** Sitrus Berry<br>**Ability:** Contrary | 1. —<br>2. —<br>3. —<br>4. — |
     
 
 === "Snivy"
 
     | Pokemon | Attributes | Moves |
     |:-------:|------------|-------|
-    | ![Staravia](../../assets/sprites/staravia/front.png)<br>[Staravia](../../pokemon/staravia.md/) |**Level:** 14<br>**Item:** No Item<br>**Ability:** Reckless | 1. —<br>2. —<br>3. —<br>4. — |
-    | ![Roggenrola](../../assets/sprites/roggenrola/front.png)<br>[Roggenrola](../../pokemon/roggenrola.md/) |**Level:** 14<br>**Item:** No Item<br>**Ability:** Sturdy | 1. —<br>2. —<br>3. —<br>4. — |
-    | ![Pansage](../../assets/sprites/pansage/front.png)<br>[Pansage](../../pokemon/pansage.md/) |**Level:** 14<br>**Item:** No Item<br>**Ability:** Blaze | 1. —<br>2. —<br>3. —<br>4. — |
-    | ![Tepig](../../assets/sprites/tepig/front.png)<br>[Tepig](../../pokemon/tepig.md/) |**Level:** 16<br>**Item:** Sitrus Berry<br>**Ability:** Vital Spirit | 1. —<br>2. —<br>3. —<br>4. — |
+    | ![Staravia](../../assets/sprites/staravia/front.png) |**Lv. 14** [Staravia](../../pokemon/staravia.md/)<br>**Item:** No Item<br>**Ability:** Reckless | 1. —<br>2. —<br>3. —<br>4. — |
+    | ![Roggenrola](../../assets/sprites/roggenrola/front.png) |**Lv. 14** [Roggenrola](../../pokemon/roggenrola.md/)<br>**Item:** No Item<br>**Ability:** Sturdy | 1. —<br>2. —<br>3. —<br>4. — |
+    | ![Pansage](../../assets/sprites/pansage/front.png) |**Lv. 14** [Pansage](../../pokemon/pansage.md/)<br>**Item:** No Item<br>**Ability:** Blaze | 1. —<br>2. —<br>3. —<br>4. — |
+    | ![Tepig](../../assets/sprites/tepig/front.png) |**Lv. 16** [Tepig](../../pokemon/tepig.md/)<br>**Item:** Sitrus Berry<br>**Ability:** Vital Spirit | 1. —<br>2. —<br>3. —<br>4. — |
     
 
 === "Oshawott"
 
     | Pokemon | Attributes | Moves |
     |:-------:|------------|-------|
-    | ![Staravia](../../assets/sprites/staravia/front.png)<br>[Staravia](../../pokemon/staravia.md/) |**Level:** 14<br>**Item:** No Item<br>**Ability:** Reckless | 1. —<br>2. —<br>3. —<br>4. — |
-    | ![Roggenrola](../../assets/sprites/roggenrola/front.png)<br>[Roggenrola](../../pokemon/roggenrola.md/) |**Level:** 14<br>**Item:** No Item<br>**Ability:** Sturdy | 1. —<br>2. —<br>3. —<br>4. — |
-    | ![Panpour](../../assets/sprites/panpour/front.png)<br>[Panpour](../../pokemon/panpour.md/) |**Level:** 14<br>**Item:** No Item<br>**Ability:** Overgrow | 1. —<br>2. —<br>3. —<br>4. — |
-    | ![Snivy](../../assets/sprites/snivy/front.png)<br>[Snivy](../../pokemon/snivy.md/) |**Level:** 16<br>**Item:** Sitrus Berry<br>**Ability:** Adaptability | 1. —<br>2. —<br>3. —<br>4. — |
+    | ![Staravia](../../assets/sprites/staravia/front.png) |**Lv. 14** [Staravia](../../pokemon/staravia.md/)<br>**Item:** No Item<br>**Ability:** Reckless | 1. —<br>2. —<br>3. —<br>4. — |
+    | ![Roggenrola](../../assets/sprites/roggenrola/front.png) |**Lv. 14** [Roggenrola](../../pokemon/roggenrola.md/)<br>**Item:** No Item<br>**Ability:** Sturdy | 1. —<br>2. —<br>3. —<br>4. — |
+    | ![Panpour](../../assets/sprites/panpour/front.png) |**Lv. 14** [Panpour](../../pokemon/panpour.md/)<br>**Item:** No Item<br>**Ability:** Overgrow | 1. —<br>2. —<br>3. —<br>4. — |
+    | ![Snivy](../../assets/sprites/snivy/front.png) |**Lv. 16** [Snivy](../../pokemon/snivy.md/)<br>**Item:** Sitrus Berry<br>**Ability:** Adaptability | 1. —<br>2. —<br>3. —<br>4. — |
     
 

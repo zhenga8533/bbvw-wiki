@@ -48,7 +48,7 @@ class PokemonSet:
 
         id = format_id(self.species)
         table = f"| ![{self.species}](../../assets/sprites/{id}/front.png) |"
-        table += f"[{self.species}](../../pokemon/{id}.md/) Lv. {self.level}<br>"
+        table += f"**Lv. {self.level}** [{self.species}](../../pokemon/{id}.md/)<br>"
         item = split_camel_case(self.item) if self.item != "-" else "No Item"
         table += f"**Item:** {item}<br>"
         table += f"**Ability:** {split_camel_case(self.ability_reg)} | "
