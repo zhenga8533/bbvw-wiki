@@ -3,6 +3,12 @@ from util.format import format_id, split_camel_case
 
 class PokemonSet:
     def __init__(self):
+        """
+        Track the details of a Pokemon set to format into a markdown element.
+
+        :return: None
+        """
+
         self.species = "—"
         self.level = "0"
         self.item = "No Item"
@@ -14,6 +20,12 @@ class PokemonSet:
         self.move_4 = "—"
 
     def to_string(self):
+        """
+        Convert the PokemonSet object to a string.
+
+        :return: The PokemonSet object as a string.
+        """
+
         id = format_id(self.species)
         s = f"<a href='/bbvw-wiki/pokemon/{id}/'><b>{self.species}</b></a> @ "
         s += f"{split_camel_case(self.item)}\n"
@@ -28,6 +40,12 @@ class PokemonSet:
         return s
 
     def to_table(self):
+        """
+        Convert the PokemonSet object to a table.
+
+        :return: The PokemonSet object as a table.
+        """
+
         id = format_id(self.species)
         table = (
             f"| ![{self.species}](../../assets/sprites/{id}/front.png)<br>[{self.species}](../../pokemon/{id}.md/) |"

@@ -72,7 +72,7 @@ echo ""
 # Give option to update markdown files
 read -p "Would you like to update the markdown files in docs? (y/n) " -n 1 -r
 echo ""
-if [[ $REPLY =~ ^[Nn]$ ]]; then
+if ! [[ $REPLY =~ ^[Yy]$ ]]; then
   echo "Markdown files not updated"
   exit 0
 fi

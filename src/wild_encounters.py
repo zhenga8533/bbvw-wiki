@@ -4,10 +4,15 @@ from util.format import revert_id
 from util.logger import Logger
 import logging
 import os
-import string
 
 
 def main():
+    """
+    Parse the Wild Encounters content and save it as a Markdown file.
+
+    :return: None
+    """
+
     # Load environment variables and logger
     load_dotenv()
     OUTPUT_PATH = os.getenv("OUTPUT_PATH")
@@ -84,7 +89,8 @@ def main():
         "route_18",
         "p2_laboratory",
     ]
-    os_walk = os.walk(WILD_ENCOUNTER_PATH)
+
+    # Sort locations by order
     locations = sorted(
         os.walk(WILD_ENCOUNTER_PATH),
         key=lambda x: location_order.index(x[0].split("/")[-1]),

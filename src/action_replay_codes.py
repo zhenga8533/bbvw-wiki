@@ -6,6 +6,12 @@ import os
 
 
 def main():
+    """
+    Parse the Action Replay Codes content and save it as a Markdown file.
+
+    :return: None
+    """
+
     # Load environment variables and logger
     load_dotenv()
     LOG = os.getenv("LOG")
@@ -38,10 +44,11 @@ def main():
         line = lines[i].strip()
         logger.log(logging.DEBUG, f"Processing line {i + 1}/{n}")
 
-        # Empty Lines
+        # Empty lines
         if line == "":
             code_name = code_data["name"]
             if code_data["name"] is not None:
+                # Add the code to the dictionary
                 if code_data["name"] not in codes:
                     codes[code_name] = code_data
                 else:

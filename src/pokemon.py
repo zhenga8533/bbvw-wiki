@@ -9,10 +9,21 @@ import os
 import requests
 
 
-def parse_evolution_line(evolution, pokemon_set, level=1, index=1):
+def parse_evolution_line(evolution: dict, pokemon_set: set, level: int = 1, index: int = 1) -> str:
+    """
+    Parse the evolution line for a Pokémon.
+
+    :param evolution: The evolution data to parse.
+    :param pokemon_set: The set of valid Pokémon names.
+    :param level: The current level of the evolution.
+    :param index: The current index of the evolution.
+    :return: The parsed evolution line.
+    """
+
     POKEMON_INPUT_PATH = os.getenv("POKEMON_INPUT_PATH")
     names = [evolution["name"]]
 
+    # Add alternate forms to the evolution line
     for name in names[:]:
         if name not in pokemon_set:
             names.remove(name)
@@ -26,6 +37,7 @@ def parse_evolution_line(evolution, pokemon_set, level=1, index=1):
     if len(names) == 0:
         return ""
 
+    # Recursively parse the full evolution line
     md = ""
     for name in names:
         md += f"{'    ' * (level - 1)}{index}. "
@@ -43,14 +55,42 @@ def parse_evolution_line(evolution, pokemon_set, level=1, index=1):
 
 
 def calculate_hp(base: int, iv: int, ev: int, level: int) -> int:
+    """
+    Calculate the HP stat for a Pokémon.
+
+    :param base: The base HP stat.
+    :param iv: The IVs of the Pokémon.
+    :param ev: The EVs of the Pokémon.
+    :param level: The level of the Pokémon.
+    :return: The calculated HP stat
+    """
+
     return int(((2 * base + iv + ev // 4) * level) // 100 + level + 10)
 
 
 def calculate_stat(base: int, iv: int, ev: int, level: int, nature: float) -> int:
+    """
+    Calculate a stat for a Pokémon besides HP.
+
+    :param base: The base stat.
+    :param iv: The IVs of the Pokémon.
+    :param ev: The EVs of the Pokémon.
+    :param level: The level of the Pokémon.
+    :param nature: The nature multiplier.
+    :return: The calculated stat
+    """
+
     return int((((2 * base + iv + ev // 4) * level) // 100 + 5) * nature)
 
 
 def parse_stats(stats: dict) -> str:
+    """
+    Parse the base stats for a Pokémon.
+
+    :param stats: The base stats to parse.
+    :return: The parsed base stats.
+    """
+
     md = "---\n\n## Base Stats\n"
     hp = stats["hp"]
     attack = stats["attack"]
@@ -83,6 +123,16 @@ def parse_stats(stats: dict) -> str:
 
 
 def parse_moves(moves: list, headers: list, move_key: str, logger: Logger) -> str:
+    """
+    Parse the moves for a Pokémon.
+
+    :param moves: The moves to parse.
+    :param headers: The headers for the move table.
+    :param move_key: The key for the move data.
+    :param logger: The logger to use.
+    :return: The parsed moves.
+    """
+
     MOVES_PATH = os.getenv("MOVES_PATH")
 
     md_header = f"| {' | '.join(headers).strip()} |"
@@ -90,6 +140,7 @@ def parse_moves(moves: list, headers: list, move_key: str, logger: Logger) -> st
     md_body = ""
     dash = "\u2014"
 
+    # Parse each move into Markdown table format
     for move in moves:
         move_id = format_id(move["name"])
         move_data = json.loads(load(f"{MOVES_PATH + move_id}.json", logger))
@@ -116,6 +167,15 @@ def parse_moves(moves: list, headers: list, move_key: str, logger: Logger) -> st
 
 
 def to_md(pokemon: dict, pokemon_set: dict, logger: Logger) -> str:
+    """
+    Convert Pokémon data to a readable Markdown format.
+
+    :param pokemon: The Pokémon data to convert.
+    :param pokemon_set: The set of valid Pokémon names.
+    :param logger: The logger to use.
+    :return: The Pokémon data in Markdown format.
+    """
+
     # Basic information
     name_id = pokemon["name"]
     pokemon_name = revert_id(name_id)
@@ -148,7 +208,7 @@ def to_md(pokemon: dict, pokemon_set: dict, logger: Logger) -> str:
         flavor_text_keys = list(flavor_text_entries.keys())
         md += flavor_text_entries[flavor_text_keys[-1]].replace("\n", " ") + "\n\n"
 
-    # Add sprites
+    # Add sprite tables
     md += "---\n\n## Media\n\n"
     md += "### Sprites\n\n"
     image_headers = ["Front", "Back", "Front Shiny", "Back Shiny"]
@@ -369,6 +429,12 @@ def to_md(pokemon: dict, pokemon_set: dict, logger: Logger) -> str:
 
 
 def main():
+    """
+    Main function for the Pokémon parser.
+
+    :return: None
+    """
+
     # Load environment variables and logger
     load_dotenv()
     LOG = os.getenv("LOG")

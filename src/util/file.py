@@ -13,11 +13,13 @@ def save(file_path: str, content: str, logger: Logger) -> None:
     :return: None
     """
 
+    # Create the directory if it does not exist
     directory = file_path.rsplit("/", 1)[0]
     if not os.path.exists(directory):
         os.makedirs(directory)
         logger.log(logging.INFO, f"Created directory '{directory}'.")
 
+    # Save the content to the file
     try:
         with open(file_path, "w", encoding="utf-8") as file:
             file.write(content)
@@ -37,6 +39,7 @@ def load(file_path: str, logger: Logger) -> str:
     """
 
     try:
+        # Load the content of the file into a string
         with open(file_path, "r", encoding="utf-8") as file:
             content = file.read()
             logger.log(logging.INFO, f"The content was loaded from '{file_path}'.")

@@ -6,7 +6,15 @@ import logging
 import os
 
 
-def parse_special_encounter(data):
+def parse_special_encounter(data: str) -> str:
+    """
+    Parse the special encounter data to add to the markdown content.
+
+    :param data: The special encounter data to parse.
+    :return: The updated markdown content.
+    """
+
+    # Split the data into lines and setup variables
     lines = data.strip().split("\n")
     pokemon, level = lines[0].split(", ")
     location = ",<br>".join(lines[1].split(", "))
@@ -18,6 +26,7 @@ def parse_special_encounter(data):
         chance = encounter_data[-1]
     pokemon_id = format_id(pokemon)
 
+    # Create the table based on the data
     md = "| Sprite | Pokémon | Level | Encounter Type | Location | Chance |\n| :---: | --- | --- | :---: | --- | --- |\n"
     md += f"| ![{pokemon_id}](../../assets/sprites/{pokemon_id}/front.gif) "
     md += f"| {pokemon} "
@@ -34,6 +43,12 @@ def parse_special_encounter(data):
 
 
 def main():
+    """
+    Parse the Wild Pokémon content and save it as a Markdown file.
+
+    :return: None
+    """
+
     # Load environment variables and logger
     load_dotenv()
     LOG = os.getenv("LOG")
@@ -102,12 +117,14 @@ def main():
             if not location_md.endswith(location_header):
                 location_md += f"\n{location_header}"
 
+            # Parse each encounter
             for i, encounter in enumerate(encounters):
                 pokemon, chance = encounter.split(" (")
                 chance = chance.rstrip(")")
                 pokemon_id = format_id(pokemon)
                 encounter_id = format_id(encounter_type, symbol="_")
 
+                # Convert encounter data into markdown table
                 md += f"{i + 1}. <a href='/bbvw-wiki/pokemon/{pokemon_id}/'>{pokemon}</a> ({chance})\n"
                 location_md += f"| ![{pokemon_id}](../../assets/sprites/{pokemon_id}/front.gif) "
                 location_md += f"| [{pokemon}](../../pokemon/{pokemon_id}.md/) "

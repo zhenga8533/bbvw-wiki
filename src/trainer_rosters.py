@@ -7,6 +7,12 @@ import os
 
 
 def main():
+    """
+    Parse the Trainer Rosters content and save it as a Markdown file.
+
+    :return: None
+    """
+
     # Load environment variables and logger
     load_dotenv()
     LOG = os.getenv("LOG")
@@ -86,6 +92,7 @@ def main():
                 trainer_i -= 1
             trainer_md = f"| ![{trainer}]({trainer_sprite})<br>{trainer} |"
 
+            # Add each Pokémon table cell to the row
             md += f"{list_index}. {trainer}:\n"
             for i, p in enumerate(pokemon.split(", ")):
                 parts = p.split(" ")

@@ -1,13 +1,111 @@
 from dotenv import load_dotenv
 from util.file import load, save
-from util.format import clean_variable_name, format_id, verify_asset_path
+from util.format import format_id, verify_asset_path
 from util.pokemon_set import PokemonSet
 from util.logger import Logger
 import logging
 import os
 
 
+def parse_pokemon_sets(
+    pokemon_sets: list[PokemonSet], wild_rosters: dict[str, str], location: str, trainer: str, logger: Logger
+):
+    """
+    Parse the Pokemon sets to add to the markdown content.
+
+    :param pokemon_sets: The list of Pokemon sets to add.
+    :param wild_rosters: The dictionary of wild rosters to add to.
+    :param location: The current location.
+    :param trainer: The current trainer.
+    :param logger: The logger to use.
+    :return: The updated markdown content.
+    """
+
+    if len(pokemon_sets) == 0:
+        return ""
+
+    md = "</code></pre>\n\n"
+    base_md = []
+    base_tables = []
+    pokemon_mds = ["", "", ""]
+    pokemon_tables = ["", "", ""]
+
+    # Create tables based on if team is dependent on starter or version
+    for pokemon_set in pokemon_sets:
+        name = pokemon_set.species
+        if name.endswith("1") or name.endswith("2") or name.endswith("3"):
+            num = int(name[-1])
+            pokemon_set.species = name[:-1]
+            if pokemon_mds[num - 1] != "":
+                pokemon_mds[num - 1] += "<br>"
+            pokemon_mds[num - 1] += "\n    ".join(pokemon_set.to_string().split("\n"))
+            pokemon_tables[num - 1] += "\n    ".join(pokemon_set.to_table().split("\n")) + "\n"
+        else:
+            base_md.append(pokemon_set.to_string())
+            base_tables.append(pokemon_set.to_table())
+    pokemon_sets.clear()
+
+    # Wild roster header
+    if location not in wild_rosters:
+        wild_rosters[location] = ""
+    wild_rosters[location] += f"---\n\n## {trainer}\n\n"
+
+    # Set trainer sprite
+    trainer_id = format_id(trainer, "_")
+    trainer_sprite = f"../../assets/important_trainers/{trainer_id}.png"
+    trainer_parts = trainer_id.split("_")
+    # Try all subarray combinations of trainer_parts
+    for start_index in range(len(trainer_parts)):
+        for end_index in range(start_index + 1, len(trainer_parts) + 1):
+            subarray = trainer_parts[start_index:end_index]
+            trainer_sprite = f"../../assets/important_trainers/{'_'.join(subarray)}.png"
+
+            if verify_asset_path(trainer_sprite, logger):
+                wild_rosters[location] += f"![{trainer}]({trainer_sprite})\n\n"
+                break
+
+    # Add teams that differ based on starter or version
+    if pokemon_mds[0] != "":
+        br = "\n    <br>"
+        if len(base_md) > 0:
+            base_md = br.join("\n    ".join(base.split("\n")).rstrip() for base in base_md) + br
+        else:
+            base_md = ""
+
+        blocks = ["Tepig", "Snivy", "Oshawott"] if pokemon_mds[2] != "" else ["Blaze Black", "Volt White"]
+        for i in range(len(blocks)):
+            md += f'=== "{blocks[i]}"\n\n    <pre><code>'
+            md += base_md
+            md += pokemon_mds[i].strip() + "</code></pre>\n\n"
+
+            # Add the table to the wild rosters
+            wild_rosters[location] += f'=== "{blocks[i]}"\n\n'
+            wild_rosters[location] += "    | Pokemon | Attributes | Moves |\n"
+            wild_rosters[location] += "    |:-------:|------------|-------|\n"
+            for table in base_tables:
+                wild_rosters[location] += "    " + "\n    ".join(table.split("\n")) + "\n"
+            wild_rosters[location] += "    " + "\n    ".join(pokemon_tables[i].split("\n")) + "\n\n"
+    # Add teams that do not differ based on starter or version
+    else:
+        md += "<pre><code>" + "\n".join(base_md) + "</code></pre>\n\n"
+
+        # Add the table to the wild rosters
+        wild_rosters[location] += "| Pokemon | Attributes | Moves |\n"
+        wild_rosters[location] += "|:-------:|------------|-------|\n"
+        for table in base_tables:
+            wild_rosters[location] += table + "\n"
+        wild_rosters[location] += "\n"
+
+    return md
+
+
 def main():
+    """
+    Parse the Important Trainer Rosters content and save it as a Markdown file.
+
+    :return: None
+    """
+
     # Load environment variables and logger
     load_dotenv()
     LOG = os.getenv("LOG")
@@ -34,84 +132,6 @@ def main():
     location = None
     trainer = None
 
-    def add_pokemon_sets():
-        nonlocal md
-        nonlocal pokemon_sets
-        nonlocal wild_rosters
-        nonlocal location
-
-        if len(pokemon_sets) == 0:
-            return
-
-        md += "</code></pre>\n\n"
-        base_md = []
-        base_tables = []
-        pokemon_mds = ["", "", ""]
-        pokemon_tables = ["", "", ""]
-
-        for pokemon_set in pokemon_sets:
-            name = pokemon_set.species
-            if name.endswith("1") or name.endswith("2") or name.endswith("3"):
-                num = int(name[-1])
-                pokemon_set.species = name[:-1]
-                if pokemon_mds[num - 1] != "":
-                    pokemon_mds[num - 1] += "<br>"
-                pokemon_mds[num - 1] += "\n    ".join(pokemon_set.to_string().split("\n"))
-                pokemon_tables[num - 1] += "\n    ".join(pokemon_set.to_table().split("\n")) + "\n"
-            else:
-                base_md.append(pokemon_set.to_string())
-                base_tables.append(pokemon_set.to_table())
-        pokemon_sets = []
-
-        # Wild roster header
-        if location not in wild_rosters:
-            wild_rosters[location] = ""
-        wild_rosters[location] += f"---\n\n## {trainer}\n\n"
-
-        # Set trainer sprite
-        trainer_id = format_id(trainer, "_")
-        trainer_sprite = f"../../assets/important_trainers/{trainer_id}.png"
-        trainer_parts = trainer_id.split("_")
-        # Try all subarray combinations of trainer_parts
-        for start_index in range(len(trainer_parts)):
-            for end_index in range(start_index + 1, len(trainer_parts) + 1):
-                subarray = trainer_parts[start_index:end_index]
-                trainer_sprite = f"../../assets/important_trainers/{'_'.join(subarray)}.png"
-
-                if verify_asset_path(trainer_sprite, logger):
-                    wild_rosters[location] += f"![{trainer}]({trainer_sprite})\n\n"
-                    break
-
-        if pokemon_mds[0] != "":
-            br = "\n    <br>"
-            if len(base_md) > 0:
-                base_md = br.join("\n    ".join(base.split("\n")).rstrip() for base in base_md) + br
-            else:
-                base_md = ""
-
-            starters = ["Tepig", "Snivy", "Oshawott"]
-            for i in range(3):
-                md += f'=== "{starters[i]}"\n\n    <pre><code>'
-                md += base_md
-                md += pokemon_mds[i].strip() + "</code></pre>\n\n"
-
-                # Add the table to the wild rosters
-                wild_rosters[location] += f'=== "{starters[i]}"\n\n'
-                wild_rosters[location] += "    | Pokemon | Attributes | Moves |\n"
-                wild_rosters[location] += "    |:-------:|------------|-------|\n"
-                for table in base_tables:
-                    wild_rosters[location] += "    " + "\n    ".join(table.split("\n")) + "\n"
-                wild_rosters[location] += "    " + "\n    ".join(pokemon_tables[i].split("\n")) + "\n\n"
-        else:
-            md += "<pre><code>" + "\n".join(base_md) + "</code></pre>\n\n"
-
-            # Add the table to the wild rosters
-            wild_rosters[location] += "| Pokemon | Attributes | Moves |\n"
-            wild_rosters[location] += "|:-------:|------------|-------|\n"
-            for table in base_tables:
-                wild_rosters[location] += table + "\n"
-            wild_rosters[location] += "\n"
-
     # Parse the content
     logger.log(logging.INFO, "Parsing Important Trainer Rosters content")
     for i in range(n):
@@ -119,15 +139,15 @@ def main():
         line = lines[i].strip()
         logger.log(logging.DEBUG, f"Processing line {i + 1}/{n}")
 
-        # Empty Lines
+        # Empty lines
         if line == "" or line == "---":
             listing = 0
         elif next_line == "---":
-            add_pokemon_sets()
+            md += parse_pokemon_sets(pokemon_sets, wild_rosters, location, trainer, logger)
             md += f"## {line}\n\n"
         # Start of a new section
         elif next_line.startswith("Battle Type"):
-            add_pokemon_sets()
+            md += parse_pokemon_sets(pokemon_sets, wild_rosters, location, trainer, logger)
             md += f"---\n\n### {line}\n\n<pre><code>"
             trainer = line
         elif ": " in line:
@@ -138,7 +158,7 @@ def main():
             md += f"<b>{category}:</b> {value}\n"
         # Pokémon Team
         elif "’s Team" in line:
-            add_pokemon_sets()
+            md += parse_pokemon_sets(pokemon_sets, wild_rosters, location, trainer, logger)
         # Pokémon Team Details
         elif (
             line.startswith("Species")
@@ -149,7 +169,7 @@ def main():
         ):
             strs = line.split("\t")
             listing = 1
-            listing_type = clean_variable_name(strs[0].lower())
+            listing_type = format_id(strs[0], "_")
 
             for s in strs[1:]:
                 if listing > len(pokemon_sets):
@@ -168,7 +188,7 @@ def main():
         else:
             md += f"{line}\n\n"
 
-    add_pokemon_sets()
+    md += parse_pokemon_sets(pokemon_sets, wild_rosters, location, trainer, logger)
     logger.log(logging.INFO, "Important Trainer Rosters content parsed successfully!")
 
     # Parse wild rosters into markdown files

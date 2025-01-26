@@ -10,6 +10,12 @@ import re
 
 
 def main():
+    """
+    Parse the level up move changes content and save it as a Markdown file.
+
+    :return: None
+    """
+
     # Load environment variables and logger
     load_dotenv()
     LOG = os.getenv("LOG")
@@ -93,12 +99,14 @@ def main():
         file_pattern = f"{POKEMON_INPUT_PATH + key}*.json"
         files = glob.glob(file_pattern)
 
+        # Loop through each Pokémon file
         for file_path in files:
             pokemon_data = json.loads(load(file_path, logger))
             moves = pokemon_data["moves"].get("black-white", None)
             if moves is None:
                 continue
 
+            # Loop through each move change and adjust the moveset
             for line in move_changes[key]:
                 parts = line.split(" ")
                 level = int(parts[2])
@@ -113,31 +121,42 @@ def main():
                     None,
                 )
 
+                # Add move to learnset
                 if line.startswith("+"):
                     logger.log(logging.DEBUG, f"Adding move {name} at level {level} for {key} (+)")
+
+                    # Replace move if it already exists
                     if move_index is not None:
                         moves[move_index]["level_learned_at"] = level
                         moves[move_index]["learn_method"] = "level-up"
                         logger.log(logging.DEBUG, f"Updated move {name} to level {level} for {key}")
+                    # Add move to learnset if it doesn't exist
                     else:
                         moves.append({"name": id, "level_learned_at": level, "learn_method": "level-up"})
                         logger.log(logging.DEBUG, f"Added move {name} at level {level} for {key}")
+                # Remove move from learnset
                 elif line.startswith("-"):
                     logger.log(logging.DEBUG, f"Replacing move at level {level} for {key} (-)")
                     replace_index = next(
                         (i for i, move in enumerate(moves) if move["level_learned_at"] == level), None
                     )
+
+                    # Replace move if it exists
                     if replace_index is not None:
                         moves[replace_index]["name"] = name
                         moves[replace_index]["learn_method"] = "level-up"
                         logger.log(logging.DEBUG, f"Replaced move at level {level} with {name} for {key}")
+                    # Add move to learnset if it doesn't exist
                     else:
                         logger.log(logging.DEBUG, f"Could not find move at level {level} for {key}")
                 elif line.startswith("="):
                     logger.log(logging.DEBUG, f"Updating move {name} to level {level} for {key} (=)")
+
+                    # Update move if it exists
                     if move_index is not None:
                         moves[move_index]["level_learned_at"] = level
                         logger.log(logging.DEBUG, f"Updated move {name} to level {level} for {key}")
+                    # Add move to learnset if it doesn't exist
                     else:
                         logger.log(logging.DEBUG, f"Could not find move {name} for {key}")
 

@@ -6,6 +6,12 @@ import os
 
 
 def main():
+    """
+    Parse the Item & Trade Changes content and save it as a Markdown file.
+
+    :return: None
+    """
+
     # Load environment variables and logger
     load_dotenv()
     LOG = os.getenv("LOG")

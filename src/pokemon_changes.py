@@ -8,11 +8,35 @@ import logging
 import os
 
 
-def parse_moves(lines, n, logger):
-    pass
+def parse_moves(line: str, split_key: str):
+    """
+    Parse the moves from a line of text.
+
+    :param line: The line of text to parse.
+    :param split_key: The key to split the line by.
+    :return: The list of moves parsed from the line.
+    """
+
+    parts = line.split(": ")[1]
+    move_parts = parts.split(split_key)[1:]
+    moves = [
+        "-".join(move for move in move_part.split(" ") if len(move) > 0 and move[0].isupper())
+        .lower()
+        .rstrip(".")
+        .rstrip(",")
+        for move_part in move_parts
+    ]
+
+    return moves
 
 
 def main():
+    """
+    Parse the Pokémon Changes content and save it as a Markdown file.
+
+    :return: None
+    """
+
     # Load environment variables and logger
     load_dotenv()
     LOG = os.getenv("LOG")
@@ -94,7 +118,7 @@ def main():
         pokemon = [format_id(p, start_index=1) for p in key.split(", ")]
         lines = pokemon_changes[key]
 
-        # Parse new items
+        # All variables that can be updated
         items = []
         abilities = []
         base_experience = None
@@ -107,6 +131,7 @@ def main():
         tutor_moves = []
         stats = {}
 
+        # Parse the changes
         for line in lines:
             # Parse new items
             if line.startswith("Item"):
@@ -172,43 +197,13 @@ def main():
                 parts = line.split(": ")[1].lower().split(" / ")
                 types = parts
 
-            # Parse new TMs
+            # Parse changed moves
             elif line.startswith("TM"):
-                parts = line.split(": ")[1]
-                tm_parts = parts.split("TM")[1:]
-                tms = [
-                    "-".join(tm for tm in tm_part.split(" ") if len(tm) > 0 and tm[0].isupper())
-                    .lower()
-                    .rstrip(".")
-                    .rstrip(",")
-                    for tm_part in tm_parts
-                ]
-
-            # Parse new HMs
+                tms = parse_moves(line, "TM")
             elif line.startswith("HM"):
-                parts = line.split(": ")[1]
-                hm_parts = parts.split("HM")[1:]
-                hms = [
-                    "-".join(hm for hm in hm_part.split(" ") if len(hm) > 0 and hm[0].isupper())
-                    .lower()
-                    .rstrip(".")
-                    .rstrip(",")
-                    for hm_part in hm_parts
-                ]
-
-            # Parse new tutor moves
+                hms = parse_moves(line, "HM")
             elif line.startswith("Tutor"):
-                parts = line.split(": ")[1]
-                move_parts = parts.split("and")
-                tutor_moves = [
-                    "-".join(
-                        move for move in move_part.split(" ") if len(move) > 0 and move[0].isupper() and move != "Can"
-                    )
-                    .lower()
-                    .rstrip(".")
-                    .rstrip(",")
-                    for move_part in move_parts
-                ]
+                tutor_moves = parse_moves(line, "and")
 
             # Parse remaining stats
             else:
@@ -231,16 +226,19 @@ def main():
         logger.log(logging.DEBUG, f"Tutor Moves: {tutor_moves}")
         logger.log(logging.DEBUG, f"Stats: {stats}")
 
+        # Update Pokémon data with changes
         for p in pokemon:
             file_pattern = f"{POKEMON_INPUT_PATH + p}*.json"
             files = glob.glob(file_pattern)
 
+            # Loop through each Pokémon file
             for file_path in files:
                 pokemon_data = json.loads(load(file_path, logger))
                 moves = pokemon_data["moves"].get("black-white", None)
                 if moves is None:
                     continue
 
+                # Update Pokémon data
                 if len(items) > 0:
                     pokemon_data["items"] = items
                 if len(abilities) > 0:
@@ -257,18 +255,37 @@ def main():
                     pokemon_data["types"] = types
                 if len(tms) > 0:
                     for tm in tms:
-                        tm_index = next((i for i, move in enumerate(moves) if format_id(move["name"]) == tm), None)
+                        tm_index = next(
+                            (
+                                i
+                                for i, move in enumerate(moves)
+                                if format_id(move["name"]) == tm and move["learn_method"] == "machine"
+                            ),
+                            None,
+                        )
                         if tm_index is None:
                             moves.append({"name": tm, "level_learned_at": 0, "learn_method": "machine"})
                 if len(hms) > 0:
                     for hm in hms:
-                        hm_index = next((i for i, move in enumerate(moves) if format_id(move["name"]) == hm), None)
+                        hm_index = next(
+                            (
+                                i
+                                for i, move in enumerate(moves)
+                                if format_id(move["name"]) == hm and move["learn_method"] == "machine"
+                            ),
+                            None,
+                        )
                         if hm_index is None:
                             moves.append({"name": hm, "level_learned_at": 0, "learn_method": "machine"})
                 if len(tutor_moves) > 0:
                     for tutor_move in tutor_moves:
                         tutor_index = next(
-                            (i for i, move in enumerate(moves) if format_id(move["name"]) == tutor_move), None
+                            (
+                                i
+                                for i, move in enumerate(moves)
+                                if format_id(move["name"]) == tutor_move and move["learn_method"] == "tutor"
+                            ),
+                            None,
                         )
                         if tutor_index is None:
                             moves.append({"name": tutor_move, "level_learned_at": 0, "learn_method": "tutor"})
