@@ -26,7 +26,7 @@
 | ![Honchkrow](../../assets/sprites/honchkrow/front.png)<br>[Honchkrow](../../pokemon/honchkrow.md/) |**Level:** 71<br>**Item:** Scope Lens<br>**Ability:** Moxie | 1. Thunder Wave<br>2. Brave Bird<br>3. Sucker Punch<br>4. Heat Wave |
 | ![Absol](../../assets/sprites/absol/front.png)<br>[Absol](../../pokemon/absol.md/) |**Level:** 71<br>**Item:** Scope Lens<br>**Ability:** Super Luck | 1. Megahorn<br>2. Night Slash<br>3. Psycho Cut<br>4. Perish Song |
 | ![Houndoom](../../assets/sprites/houndoom/front.png)<br>[Houndoom](../../pokemon/houndoom.md/) |**Level:** 73<br>**Item:** Focus Sash<br>**Ability:** Intimidate | 1. Dark Pulse<br>2. Fire Blast<br>3. Sucker Punch<br>4. Hidden Power |
-| ![Bisharp](../../assets/sprites/bisharp/front.png)<br>[Bisharp](../../pokemon/bisharp.md/) |**Level:** 73<br>**Item:** BlackGlasses<br>**Ability:** Defiant | 1. Sucker Punch<br>2. X-Scissor<br>3. Leaf Blade<br>4. Stone Edge |
+| ![Bisharp](../../assets/sprites/bisharp/front.png)<br>[Bisharp](../../pokemon/bisharp.md/) |**Level:** 73<br>**Item:** Black Glasses<br>**Ability:** Defiant | 1. Sucker Punch<br>2. X-Scissor<br>3. Leaf Blade<br>4. Stone Edge |
 
 ---
 
@@ -64,29 +64,29 @@
 
 ![PKMN Trainer N – Final](../../assets/important_trainers/n.png)
 
-| Pokemon | Attributes | Moves |
-|:-------:|------------|-------|
-| ![Zoroark](../../assets/sprites/zoroark/front.png)<br>[Zoroark](../../pokemon/zoroark.md/) |**Level:** 73<br>**Item:** Dark Gem<br>**Ability:** Illusion | 1. Night Daze<br>2. Focus Blast<br>3. Flamethrower<br>4. Grass Knot |
-| ![Magmortar](../../assets/sprites/magmortar/front.png)<br>[Magmortar](../../pokemon/magmortar.md/) |**Level:** 73<br>**Item:** Fire Gem<br>**Ability:** Flash Fire | 1. Thunderbolt<br>2. Focus Blast<br>3. Nasty Plot<br>4. Magma Storm |
-| ![Slowbro](../../assets/sprites/slowbro/front.png)<br>[Slowbro](../../pokemon/slowbro.md/) |**Level:** 73<br>**Item:** Water Gem<br>**Ability:** Regenerator | 1. Surf<br>2. Psychic<br>3. Flamethrower<br>4. Slack Off |
-| ![Aerodactyl](../../assets/sprites/aerodactyl/front.png)<br>[Aerodactyl](../../pokemon/aerodactyl.md/) |**Level:** 73<br>**Item:** Rock Gem<br>**Ability:** Rock Head | 1. Earthquake<br>2. Thunder Fang<br>3. Head Smash<br>4. Dragon Dance |
-| ![Porygon-Z](../../assets/sprites/porygon-z/front.png)<br>[Porygon-Z](../../pokemon/porygon-z.md/) |**Level:** 73<br>**Item:** Normal Gem<br>**Ability:** Adaptability | 1. Tri Attack<br>2. Ice Beam<br>3. Dark Pulse<br>4. Thunderbolt |
-| ![Zekrom](../../assets/sprites/zekrom/front.png)<br>[Zekrom](../../pokemon/zekrom.md/) |**Level:** 75<br>**Item:** Life Orb<br>**Ability:** Teravolt | 1. Dragon Claw<br>2. Bolt Strike<br>3. Light Screen<br>4. Hone Claws |
+=== "Blaze Black"
 
----
+    | Pokemon | Attributes | Moves |
+    |:-------:|------------|-------|
+    | ![Zoroark](../../assets/sprites/zoroark/front.png)<br>[Zoroark](../../pokemon/zoroark.md/) |**Level:** 73<br>**Item:** Dark Gem<br>**Ability:** Illusion | 1. Night Daze<br>2. Focus Blast<br>3. Flamethrower<br>4. Grass Knot |
+    | ![Aerodactyl](../../assets/sprites/aerodactyl/front.png)<br>[Aerodactyl](../../pokemon/aerodactyl.md/) |**Level:** 73<br>**Item:** Rock Gem<br>**Ability:** Rock Head | 1. Earthquake<br>2. Thunder Fang<br>3. Head Smash<br>4. Dragon Dance |
+    | ![Porygon-Z](../../assets/sprites/porygon-z/front.png)<br>[Porygon-Z](../../pokemon/porygon-z.md/) |**Level:** 73<br>**Item:** Normal Gem<br>**Ability:** Adaptability | 1. Tri Attack<br>2. Ice Beam<br>3. Dark Pulse<br>4. Thunderbolt |
+    | ![Magmortar](../../assets/sprites/magmortar/front.png)<br>[Magmortar](../../pokemon/magmortar.md/) |**Level:** 73<br>**Item:** Fire Gem<br>**Ability:** Flash Fire | 1. Thunderbolt<br>2. Focus Blast<br>3. Nasty Plot<br>4. Magma Storm |
+    | ![Slowbro](../../assets/sprites/slowbro/front.png)<br>[Slowbro](../../pokemon/slowbro.md/) |**Level:** 73<br>**Item:** Water Gem<br>**Ability:** Regenerator | 1. Surf<br>2. Psychic<br>3. Flamethrower<br>4. Slack Off |
+    | ![Zekrom](../../assets/sprites/zekrom/front.png)<br>[Zekrom](../../pokemon/zekrom.md/) |**Level:** 75<br>**Item:** Life Orb<br>**Ability:** Teravolt | 1. Dragon Claw<br>2. Bolt Strike<br>3. Light Screen<br>4. Hone Claws |
+    
 
-## PKMN Trainer N – Final
+=== "Volt White"
 
-![PKMN Trainer N – Final](../../assets/important_trainers/n.png)
-
-| Pokemon | Attributes | Moves |
-|:-------:|------------|-------|
-| ![Zoroark](../../assets/sprites/zoroark/front.png)<br>[Zoroark](../../pokemon/zoroark.md/) |**Level:** 73<br>**Item:** Dark Gem<br>**Ability:** Illusion | 1. Night Daze<br>2. Focus Blast<br>3. Flamethrower<br>4. Grass Knot |
-| ![Electivire](../../assets/sprites/electivire/front.png)<br>[Electivire](../../pokemon/electivire.md/) |**Level:** 73<br>**Item:** Electric Gem<br>**Ability:** Vital Spirit | 1. Earthquake<br>2. Close Combat<br>3. Volt Tackle<br>4. Ice Punch |
-| ![Slowking](../../assets/sprites/slowking/front.png)<br>[Slowking](../../pokemon/slowking.md/) |**Level:** 73<br>**Item:** Water Gem<br>**Ability:** Regenerator | 1. Surf<br>2. Psychic<br>3. Aura Sphere<br>4. Slack Off |
-| ![Aerodactyl](../../assets/sprites/aerodactyl/front.png)<br>[Aerodactyl](../../pokemon/aerodactyl.md/) |**Level:** 73<br>**Item:** Rock Gem<br>**Ability:** Rock Head | 1. Earthquake<br>2. Thunder Fang<br>3. Head Smash<br>4. Dragon Dance |
-| ![Porygon-Z](../../assets/sprites/porygon-z/front.png)<br>[Porygon-Z](../../pokemon/porygon-z.md/) |**Level:** 73<br>**Item:** Normal Gem<br>**Ability:** Adaptability | 1. Tri Attack<br>2. Ice Beam<br>3. Dark Pulse<br>4. Thunderbolt |
-| ![Reshiram](../../assets/sprites/reshiram/front.png)<br>[Reshiram](../../pokemon/reshiram.md/) |**Level:** 75<br>**Item:** White Herb<br>**Ability:** Turboblaze | 1. Dragon Pulse<br>2. Blue Flare<br>3. Reflect<br>4. Draco Meteor |
+    | Pokemon | Attributes | Moves |
+    |:-------:|------------|-------|
+    | ![Zoroark](../../assets/sprites/zoroark/front.png)<br>[Zoroark](../../pokemon/zoroark.md/) |**Level:** 73<br>**Item:** Dark Gem<br>**Ability:** Illusion | 1. Night Daze<br>2. Focus Blast<br>3. Flamethrower<br>4. Grass Knot |
+    | ![Aerodactyl](../../assets/sprites/aerodactyl/front.png)<br>[Aerodactyl](../../pokemon/aerodactyl.md/) |**Level:** 73<br>**Item:** Rock Gem<br>**Ability:** Rock Head | 1. Earthquake<br>2. Thunder Fang<br>3. Head Smash<br>4. Dragon Dance |
+    | ![Porygon-Z](../../assets/sprites/porygon-z/front.png)<br>[Porygon-Z](../../pokemon/porygon-z.md/) |**Level:** 73<br>**Item:** Normal Gem<br>**Ability:** Adaptability | 1. Tri Attack<br>2. Ice Beam<br>3. Dark Pulse<br>4. Thunderbolt |
+    | ![Electivire](../../assets/sprites/electivire/front.png)<br>[Electivire](../../pokemon/electivire.md/) |**Level:** 73<br>**Item:** Electric Gem<br>**Ability:** Vital Spirit | 1. Earthquake<br>2. Close Combat<br>3. Volt Tackle<br>4. Ice Punch |
+    | ![Slowking](../../assets/sprites/slowking/front.png)<br>[Slowking](../../pokemon/slowking.md/) |**Level:** 73<br>**Item:** Water Gem<br>**Ability:** Regenerator | 1. Surf<br>2. Psychic<br>3. Aura Sphere<br>4. Slack Off |
+    | ![Reshiram](../../assets/sprites/reshiram/front.png)<br>[Reshiram](../../pokemon/reshiram.md/) |**Level:** 75<br>**Item:** White Herb<br>**Ability:** Turboblaze | 1. Dragon Pulse<br>2. Blue Flare<br>3. Reflect<br>4. Draco Meteor |
+    
 
 ---
 

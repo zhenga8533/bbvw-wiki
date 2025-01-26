@@ -16,8 +16,8 @@ class PokemonSet:
     def to_string(self):
         id = format_id(self.species)
         s = f"<a href='/bbvw-wiki/pokemon/{id}/'><b>{self.species}</b></a> @ "
-        s += f"{self.item}\n"
-        s += f"<b>Ability:</b> " + (self.ability_reg if self.ability_reg != "\u2014" else "?") + "\n"
+        s += f"{split_camel_case(self.item)}\n"
+        s += f"<b>Ability:</b> " + (split_camel_case(self.ability_reg) if self.ability_reg != "\u2014" else "?") + "\n"
         s += f"<b>Level:</b> {self.level}\n"
         if self.move_1 != "\u2014" or self.move_2 != "\u2014" or self.move_3 != "\u2014" or self.move_4 != "\u2014":
             s += f"<b>Moves:</b>\n"
@@ -33,9 +33,9 @@ class PokemonSet:
             f"| ![{self.species}](../../assets/sprites/{id}/front.png)<br>[{self.species}](../../pokemon/{id}.md/) |"
         )
         table += f"**Level:** {self.level}<br>"
-        item = self.item if self.item != "\u2014" else "No Item"
-        table += f"**Item:** {self.item}<br>"
-        table += f"**Ability:** {self.ability_reg} | "
+        item = split_camel_case(self.item) if self.item != "\u2014" else "No Item"
+        table += f"**Item:** {item}<br>"
+        table += f"**Ability:** {split_camel_case(self.ability_reg)} | "
         table += f"1. {split_camel_case(self.move_1)}<br>"
         table += f"2. {split_camel_case(self.move_2)}<br>"
         table += f"3. {split_camel_case(self.move_3)}<br>"

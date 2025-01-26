@@ -108,7 +108,7 @@ def main():
                     (
                         i
                         for i, move in enumerate(moves)
-                        if format_id(move["name"], symbol="") == format_id(name, symbol="")
+                        if move["name"] == format_id(name) and move["learn_method"] == "level-up"
                     ),
                     None,
                 )

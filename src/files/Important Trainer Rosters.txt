@@ -946,29 +946,15 @@ N’s Team – Blaze Black
 
 
 			
-Species	Zoroark	Magmortar	Slowbro	Aerodactyl	Porygon-Z	Zekrom
-Level	73	73	73	73	73	75
-Item	Dark Gem	Fire Gem	Water Gem	Rock Gem	Normal Gem	Life Orb
-Ability (Reg)	Illusion	Flash Fire	Regenerator	Rock Head	Adaptability	Teravolt
-Ability (Cln)	Illusion	Flame Body	Own Tempo	Rock Head	Adaptability	Teravolt
-Move #1	Night Daze	Thunderbolt	Surf	Earthquake	Tri Attack	Dragon Claw
-Move #2	Focus Blast	Focus Blast	Psychic	Thunder Fang	Ice Beam	Bolt Strike
-Move #3	Flamethrower	Nasty Plot	Flamethrower	Head Smash	Dark Pulse	Light Screen
-Move #4	Grass Knot	Magma Storm	Slack Off	Dragon Dance	Thunderbolt	Hone Claws
-
-N’s Team – Volt White
-
-
-			
-Species	Zoroark	Electivire	Slowking	Aerodactyl	Porygon-Z	Reshiram
-Level	73	73	73	73	73	75
-Item	Dark Gem	Electric Gem	Water Gem	Rock Gem	Normal Gem	White Herb
-Ability (Reg)	Illusion	Vital Spirit	Regenerator	Rock Head	Adaptability	Turboblaze
-Ability (Cln)	Illusion	Motor Drive	Own Tempo	Rock Head	Adaptability	Turboblaze
-Move #1	Night Daze	Earthquake	Surf	Earthquake	Tri Attack	Dragon Pulse
-Move #2	Focus Blast	Close Combat	Psychic	Thunder Fang	Ice Beam	Blue Flare
-Move #3	Flamethrower	Volt Tackle	Aura Sphere	Head Smash	Dark Pulse	Reflect
-Move #4	Grass Knot	Ice Punch	Slack Off	Dragon Dance	Thunderbolt	Draco Meteor
+Species	Zoroark	Magmortar1	Electivire2	Slowbro1	Slowking2	Aerodactyl	Porygon-Z	Zekrom1	Reshiram2
+Level	73	73	73	73	73	73	73	75	75
+Item	Dark Gem	Fire Gem	Electric Gem	Water Gem	Water Gem	Rock Gem	Normal Gem	Life Orb	White Herb
+Ability (Reg)	Illusion	Flash Fire	Vital Spirit	Regenerator	Regenerator	Rock Head	Adaptability	Teravolt	Turboblaze
+Ability (Cln)	Illusion	Flame Body	Motor Drive	Own Tempo	Own Tempo	Rock Head	Adaptability	Teravolt	Turboblaze
+Move #1	Night Daze	Thunderbolt	Earthquake	Surf	Surf	Earthquake	Tri Attack	Dragon Claw	Dragon Pulse
+Move #2	Focus Blast	Focus Blast	Close Combat	Psychic	Psychic	Thunder Fang	Ice Beam	Bolt Strike	Blue Flare
+Move #3	Flamethrower	Nasty Plot	Volt Tackle	Flamethrower	Aura Sphere	Head Smash	Dark Pulse	Light Screen	Reflect
+Move #4	Grass Knot	Magma Storm	Ice Punch	Slack Off	Slack Off	Dragon Dance	Thunderbolt	Hone Claws	Draco Meteor
 
 
 

@@ -620,7 +620,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
     <br><a href='/bbvw-wiki/pokemon/boldore/'><b>Boldore</b></a> @ Hard Stone
     <b>Ability:</b> Sturdy
     <b>Level:</b> 31
-    <br><a href='/bbvw-wiki/pokemon/kadabra/'><b>Kadabra</b></a> @ TwistedSpoon
+    <br><a href='/bbvw-wiki/pokemon/kadabra/'><b>Kadabra</b></a> @ Twisted Spoon
     <b>Ability:</b> Magic Guard
     <b>Level:</b> 31
     <br><a href='/bbvw-wiki/pokemon/simisear/'><b>Simisear</b></a> @ Expert Belt Expert Belt Expert Belt
@@ -638,7 +638,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
     <br><a href='/bbvw-wiki/pokemon/boldore/'><b>Boldore</b></a> @ Hard Stone
     <b>Ability:</b> Sturdy
     <b>Level:</b> 31
-    <br><a href='/bbvw-wiki/pokemon/kadabra/'><b>Kadabra</b></a> @ TwistedSpoon
+    <br><a href='/bbvw-wiki/pokemon/kadabra/'><b>Kadabra</b></a> @ Twisted Spoon
     <b>Ability:</b> Magic Guard
     <b>Level:</b> 31
     <br><a href='/bbvw-wiki/pokemon/simisage/'><b>Simisage</b></a> @ Sitrus Berry
@@ -656,7 +656,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
     <br><a href='/bbvw-wiki/pokemon/boldore/'><b>Boldore</b></a> @ Hard Stone
     <b>Ability:</b> Sturdy
     <b>Level:</b> 31
-    <br><a href='/bbvw-wiki/pokemon/kadabra/'><b>Kadabra</b></a> @ TwistedSpoon
+    <br><a href='/bbvw-wiki/pokemon/kadabra/'><b>Kadabra</b></a> @ Twisted Spoon
     <b>Ability:</b> Magic Guard
     <b>Level:</b> 31
     <br><a href='/bbvw-wiki/pokemon/simipour/'><b>Simipour</b></a> @ Sitrus Berry
@@ -779,7 +779,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
     <br><a href='/bbvw-wiki/pokemon/gigalith/'><b>Gigalith</b></a> @ Hard Stone
     <b>Ability:</b> Sturdy
     <b>Level:</b> 36
-    <br><a href='/bbvw-wiki/pokemon/alakazam/'><b>Alakazam</b></a> @ TwistedSpoon
+    <br><a href='/bbvw-wiki/pokemon/alakazam/'><b>Alakazam</b></a> @ Twisted Spoon
     <b>Ability:</b> Magic Guard
     <b>Level:</b> 36
     <br><a href='/bbvw-wiki/pokemon/simisear/'><b>Simisear</b></a> @ Expert Belt
@@ -797,7 +797,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
     <br><a href='/bbvw-wiki/pokemon/gigalith/'><b>Gigalith</b></a> @ Hard Stone
     <b>Ability:</b> Sturdy
     <b>Level:</b> 36
-    <br><a href='/bbvw-wiki/pokemon/alakazam/'><b>Alakazam</b></a> @ TwistedSpoon
+    <br><a href='/bbvw-wiki/pokemon/alakazam/'><b>Alakazam</b></a> @ Twisted Spoon
     <b>Ability:</b> Magic Guard
     <b>Level:</b> 36
     <br><a href='/bbvw-wiki/pokemon/simisage/'><b>Simisage</b></a> @ Expert Belt
@@ -815,7 +815,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
     <br><a href='/bbvw-wiki/pokemon/gigalith/'><b>Gigalith</b></a> @ Hard Stone
     <b>Ability:</b> Sturdy
     <b>Level:</b> 36
-    <br><a href='/bbvw-wiki/pokemon/alakazam/'><b>Alakazam</b></a> @ TwistedSpoon
+    <br><a href='/bbvw-wiki/pokemon/alakazam/'><b>Alakazam</b></a> @ Twisted Spoon
     <b>Ability:</b> Magic Guard
     <b>Level:</b> 36
     <br><a href='/bbvw-wiki/pokemon/simipour/'><b>Simipour</b></a> @ Expert Belt
@@ -1074,7 +1074,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
     2. Stealth Rock
     3. Earthquake
     4. Explosion
-    <br><a href='/bbvw-wiki/pokemon/alakazam/'><b>Alakazam</b></a> @ TwistedSpoon
+    <br><a href='/bbvw-wiki/pokemon/alakazam/'><b>Alakazam</b></a> @ Twisted Spoon
     <b>Ability:</b> Magic Guard
     <b>Level:</b> 53
     <b>Moves:</b>
@@ -1125,7 +1125,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
     2. Stealth Rock
     3. Earthquake
     4. Explosion
-    <br><a href='/bbvw-wiki/pokemon/alakazam/'><b>Alakazam</b></a> @ TwistedSpoon
+    <br><a href='/bbvw-wiki/pokemon/alakazam/'><b>Alakazam</b></a> @ Twisted Spoon
     <b>Ability:</b> Magic Guard
     <b>Level:</b> 53
     <b>Moves:</b>
@@ -1176,7 +1176,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
     2. Stealth Rock
     3. Earthquake
     4. Explosion
-    <br><a href='/bbvw-wiki/pokemon/alakazam/'><b>Alakazam</b></a> @ TwistedSpoon
+    <br><a href='/bbvw-wiki/pokemon/alakazam/'><b>Alakazam</b></a> @ Twisted Spoon
     <b>Ability:</b> Magic Guard
     <b>Level:</b> 53
     <b>Moves:</b>
@@ -1245,7 +1245,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 3. Shadow Ball
 4. Disable
 
-<a href='/bbvw-wiki/pokemon/vanilluxe/'><b>Vanilluxe</b></a> @ NeverMeltIce
+<a href='/bbvw-wiki/pokemon/vanilluxe/'><b>Vanilluxe</b></a> @ Never Melt Ice
 <b>Ability:</b> Weak Armor
 <b>Level:</b> 63
 <b>Moves:</b>
@@ -1590,7 +1590,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
     2. Stealth Rock
     3. Earthquake
     4. Explosion
-    <br><a href='/bbvw-wiki/pokemon/alakazam/'><b>Alakazam</b></a> @ TwistedSpoon
+    <br><a href='/bbvw-wiki/pokemon/alakazam/'><b>Alakazam</b></a> @ Twisted Spoon
     <b>Ability:</b> Magic Guard
     <b>Level:</b> 66
     <b>Moves:</b>
@@ -1641,7 +1641,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
     2. Stealth Rock
     3. Earthquake
     4. Explosion
-    <br><a href='/bbvw-wiki/pokemon/alakazam/'><b>Alakazam</b></a> @ TwistedSpoon
+    <br><a href='/bbvw-wiki/pokemon/alakazam/'><b>Alakazam</b></a> @ Twisted Spoon
     <b>Ability:</b> Magic Guard
     <b>Level:</b> 66
     <b>Moves:</b>
@@ -1692,7 +1692,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
     2. Stealth Rock
     3. Earthquake
     4. Explosion
-    <br><a href='/bbvw-wiki/pokemon/alakazam/'><b>Alakazam</b></a> @ TwistedSpoon
+    <br><a href='/bbvw-wiki/pokemon/alakazam/'><b>Alakazam</b></a> @ Twisted Spoon
     <b>Ability:</b> Magic Guard
     <b>Level:</b> 66
     <b>Moves:</b>
@@ -1841,7 +1841,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 3. Sucker Punch
 4. Hidden Power
 
-<a href='/bbvw-wiki/pokemon/bisharp/'><b>Bisharp</b></a> @ BlackGlasses
+<a href='/bbvw-wiki/pokemon/bisharp/'><b>Bisharp</b></a> @ Black Glasses
 <b>Ability:</b> Defiant
 <b>Level:</b> 73
 <b>Moves:</b>
@@ -1985,117 +1985,107 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 <b>Location:</b> Pokémon League
 </code></pre>
 
-<pre><code><a href='/bbvw-wiki/pokemon/zoroark/'><b>Zoroark</b></a> @ Dark Gem
-<b>Ability:</b> Illusion
-<b>Level:</b> 73
-<b>Moves:</b>
-1. Night Daze
-2. Focus Blast
-3. Flamethrower
-4. Grass Knot
+=== "Blaze Black"
 
-<a href='/bbvw-wiki/pokemon/magmortar/'><b>Magmortar</b></a> @ Fire Gem
-<b>Ability:</b> Flash Fire
-<b>Level:</b> 73
-<b>Moves:</b>
-1. Thunderbolt
-2. Focus Blast
-3. Nasty Plot
-4. Magma Storm
+    <pre><code><a href='/bbvw-wiki/pokemon/zoroark/'><b>Zoroark</b></a> @ Dark Gem
+    <b>Ability:</b> Illusion
+    <b>Level:</b> 73
+    <b>Moves:</b>
+    1. Night Daze
+    2. Focus Blast
+    3. Flamethrower
+    4. Grass Knot
+    <br><a href='/bbvw-wiki/pokemon/aerodactyl/'><b>Aerodactyl</b></a> @ Rock Gem
+    <b>Ability:</b> Rock Head
+    <b>Level:</b> 73
+    <b>Moves:</b>
+    1. Earthquake
+    2. Thunder Fang
+    3. Head Smash
+    4. Dragon Dance
+    <br><a href='/bbvw-wiki/pokemon/porygon-z/'><b>Porygon-Z</b></a> @ Normal Gem
+    <b>Ability:</b> Adaptability
+    <b>Level:</b> 73
+    <b>Moves:</b>
+    1. Tri Attack
+    2. Ice Beam
+    3. Dark Pulse
+    4. Thunderbolt
+    <br><a href='/bbvw-wiki/pokemon/magmortar/'><b>Magmortar</b></a> @ Fire Gem
+    <b>Ability:</b> Flash Fire
+    <b>Level:</b> 73
+    <b>Moves:</b>
+    1. Thunderbolt
+    2. Focus Blast
+    3. Nasty Plot
+    4. Magma Storm
+    <br><a href='/bbvw-wiki/pokemon/slowbro/'><b>Slowbro</b></a> @ Water Gem
+    <b>Ability:</b> Regenerator
+    <b>Level:</b> 73
+    <b>Moves:</b>
+    1. Surf
+    2. Psychic
+    3. Flamethrower
+    4. Slack Off
+    <br><a href='/bbvw-wiki/pokemon/zekrom/'><b>Zekrom</b></a> @ Life Orb
+    <b>Ability:</b> Teravolt
+    <b>Level:</b> 75
+    <b>Moves:</b>
+    1. Dragon Claw
+    2. Bolt Strike
+    3. Light Screen
+    4. Hone Claws</code></pre>
 
-<a href='/bbvw-wiki/pokemon/slowbro/'><b>Slowbro</b></a> @ Water Gem
-<b>Ability:</b> Regenerator
-<b>Level:</b> 73
-<b>Moves:</b>
-1. Surf
-2. Psychic
-3. Flamethrower
-4. Slack Off
+=== "Volt White"
 
-<a href='/bbvw-wiki/pokemon/aerodactyl/'><b>Aerodactyl</b></a> @ Rock Gem
-<b>Ability:</b> Rock Head
-<b>Level:</b> 73
-<b>Moves:</b>
-1. Earthquake
-2. Thunder Fang
-3. Head Smash
-4. Dragon Dance
-
-<a href='/bbvw-wiki/pokemon/porygon-z/'><b>Porygon-Z</b></a> @ Normal Gem
-<b>Ability:</b> Adaptability
-<b>Level:</b> 73
-<b>Moves:</b>
-1. Tri Attack
-2. Ice Beam
-3. Dark Pulse
-4. Thunderbolt
-
-<a href='/bbvw-wiki/pokemon/zekrom/'><b>Zekrom</b></a> @ Life Orb
-<b>Ability:</b> Teravolt
-<b>Level:</b> 75
-<b>Moves:</b>
-1. Dragon Claw
-2. Bolt Strike
-3. Light Screen
-4. Hone Claws
-</code></pre>
-
-</code></pre>
-
-<pre><code><a href='/bbvw-wiki/pokemon/zoroark/'><b>Zoroark</b></a> @ Dark Gem
-<b>Ability:</b> Illusion
-<b>Level:</b> 73
-<b>Moves:</b>
-1. Night Daze
-2. Focus Blast
-3. Flamethrower
-4. Grass Knot
-
-<a href='/bbvw-wiki/pokemon/electivire/'><b>Electivire</b></a> @ Electric Gem
-<b>Ability:</b> Vital Spirit
-<b>Level:</b> 73
-<b>Moves:</b>
-1. Earthquake
-2. Close Combat
-3. Volt Tackle
-4. Ice Punch
-
-<a href='/bbvw-wiki/pokemon/slowking/'><b>Slowking</b></a> @ Water Gem
-<b>Ability:</b> Regenerator
-<b>Level:</b> 73
-<b>Moves:</b>
-1. Surf
-2. Psychic
-3. Aura Sphere
-4. Slack Off
-
-<a href='/bbvw-wiki/pokemon/aerodactyl/'><b>Aerodactyl</b></a> @ Rock Gem
-<b>Ability:</b> Rock Head
-<b>Level:</b> 73
-<b>Moves:</b>
-1. Earthquake
-2. Thunder Fang
-3. Head Smash
-4. Dragon Dance
-
-<a href='/bbvw-wiki/pokemon/porygon-z/'><b>Porygon-Z</b></a> @ Normal Gem
-<b>Ability:</b> Adaptability
-<b>Level:</b> 73
-<b>Moves:</b>
-1. Tri Attack
-2. Ice Beam
-3. Dark Pulse
-4. Thunderbolt
-
-<a href='/bbvw-wiki/pokemon/reshiram/'><b>Reshiram</b></a> @ White Herb
-<b>Ability:</b> Turboblaze
-<b>Level:</b> 75
-<b>Moves:</b>
-1. Dragon Pulse
-2. Blue Flare
-3. Reflect
-4. Draco Meteor
-</code></pre>
+    <pre><code><a href='/bbvw-wiki/pokemon/zoroark/'><b>Zoroark</b></a> @ Dark Gem
+    <b>Ability:</b> Illusion
+    <b>Level:</b> 73
+    <b>Moves:</b>
+    1. Night Daze
+    2. Focus Blast
+    3. Flamethrower
+    4. Grass Knot
+    <br><a href='/bbvw-wiki/pokemon/aerodactyl/'><b>Aerodactyl</b></a> @ Rock Gem
+    <b>Ability:</b> Rock Head
+    <b>Level:</b> 73
+    <b>Moves:</b>
+    1. Earthquake
+    2. Thunder Fang
+    3. Head Smash
+    4. Dragon Dance
+    <br><a href='/bbvw-wiki/pokemon/porygon-z/'><b>Porygon-Z</b></a> @ Normal Gem
+    <b>Ability:</b> Adaptability
+    <b>Level:</b> 73
+    <b>Moves:</b>
+    1. Tri Attack
+    2. Ice Beam
+    3. Dark Pulse
+    4. Thunderbolt
+    <br><a href='/bbvw-wiki/pokemon/electivire/'><b>Electivire</b></a> @ Electric Gem
+    <b>Ability:</b> Vital Spirit
+    <b>Level:</b> 73
+    <b>Moves:</b>
+    1. Earthquake
+    2. Close Combat
+    3. Volt Tackle
+    4. Ice Punch
+    <br><a href='/bbvw-wiki/pokemon/slowking/'><b>Slowking</b></a> @ Water Gem
+    <b>Ability:</b> Regenerator
+    <b>Level:</b> 73
+    <b>Moves:</b>
+    1. Surf
+    2. Psychic
+    3. Aura Sphere
+    4. Slack Off
+    <br><a href='/bbvw-wiki/pokemon/reshiram/'><b>Reshiram</b></a> @ White Herb
+    <b>Ability:</b> Turboblaze
+    <b>Level:</b> 75
+    <b>Moves:</b>
+    1. Dragon Pulse
+    2. Blue Flare
+    3. Reflect
+    4. Draco Meteor</code></pre>
 
 ---
 
