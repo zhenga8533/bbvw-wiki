@@ -4,6 +4,8 @@
 
 ![Rival Bianca – 3](../../assets/important_trainers/bianca.png)
 
+**Battle Type:** Double Battle
+
 === "Tepig"
 
     | Pokemon | Attributes | Moves |
@@ -39,6 +41,8 @@
 ## Rival Cheren – 4
 
 ![Rival Cheren – 4](../../assets/important_trainers/cheren.png)
+
+**Battle Type:** Rotation Battle
 
 === "Tepig"
 

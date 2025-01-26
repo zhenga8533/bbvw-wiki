@@ -4,6 +4,8 @@
 
 ![PKMN Trainer N – 3](../../assets/important_trainers/n.png)
 
+**Battle Type:** Double Battle
+
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|
 | ![Hippopotas](../../assets/sprites/hippopotas/front.png) |**Lv. 33** [Hippopotas](../../pokemon/hippopotas.md/)<br>**Item:** No Item<br>**Ability:** ? | 1. —<br>2. —<br>3. —<br>4. — |
@@ -18,6 +20,10 @@
 ## Gym Leader Elesa
 
 ![Gym Leader Elesa](../../assets/important_trainers/elesa.png)
+
+**Battle Type:** Single Battle
+
+**Reward:** TM93 Wild Charge
 
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|

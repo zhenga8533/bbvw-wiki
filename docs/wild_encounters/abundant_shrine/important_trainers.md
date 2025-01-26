@@ -4,6 +4,8 @@
 
 ![Youngster Chili](../../assets/important_trainers/chili.png)
 
+**Battle Type:** Triple Battle
+
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|
 | ![Emboar](../../assets/sprites/emboar/front.png) |**Lv. 86** [Emboar](../../pokemon/emboar.md/)<br>**Item:** Passho Berry<br>**Ability:** Adaptability | 1. Flare Blitz<br>2. Earthquake<br>3. Hammer Arm<br>4. Scald |

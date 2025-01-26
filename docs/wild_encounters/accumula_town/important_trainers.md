@@ -4,6 +4,8 @@
 
 ![PKMN Trainer N – 1](../../assets/important_trainers/n.png)
 
+**Battle Type:** Single Battle
+
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|
 | ![Nincada](../../assets/sprites/nincada/front.png) |**Lv. 6** [Nincada](../../pokemon/nincada.md/)<br>**Item:** No Item<br>**Ability:** ? | 1. —<br>2. —<br>3. —<br>4. — |

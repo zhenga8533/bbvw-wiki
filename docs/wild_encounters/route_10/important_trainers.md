@@ -4,6 +4,8 @@
 
 ![Rival Cheren – 7](../../assets/important_trainers/cheren.png)
 
+**Battle Type:** Single Battle
+
 === "Tepig"
 
     | Pokemon | Attributes | Moves |

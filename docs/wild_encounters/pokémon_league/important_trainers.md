@@ -4,6 +4,8 @@
 
 ![Elite Four Shauntal](../../assets/important_trainers/shauntal.png)
 
+**Battle Type:** Double Battle
+
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|
 | ![Drifblim](../../assets/sprites/drifblim/front.png) |**Lv. 71** [Drifblim](../../pokemon/drifblim.md/)<br>**Item:** No Item<br>**Ability:** Flare Boost | 1. Tailwind<br>2. Shadow Ball<br>3. Thunderbolt<br>4. Hurricane |
@@ -18,6 +20,8 @@
 ## Elite Four Grimsley
 
 ![Elite Four Grimsley](../../assets/important_trainers/grimsley.png)
+
+**Battle Type:** Double Battle
 
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|
@@ -34,6 +38,8 @@
 
 ![Elite Four Marshal](../../assets/important_trainers/marshal.png)
 
+**Battle Type:** Double Battle
+
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|
 | ![Throh](../../assets/sprites/throh/front.png) |**Lv. 71** [Throh](../../pokemon/throh.md/)<br>**Item:** Flame Orb<br>**Ability:** Guts | 1. Superpower<br>2. Facade<br>3. Fling<br>4. Rock Slide |
@@ -49,6 +55,8 @@
 
 ![Elite Four Caitlin](../../assets/important_trainers/caitlin.png)
 
+**Battle Type:** Double Battle (First Fight) / Single Battle (Rematch)
+
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|
 | ![Musharna](../../assets/sprites/musharna/front.png) |**Lv. 71** [Musharna](../../pokemon/musharna.md/)<br>**Item:** Light Clay<br>**Ability:** Telepathy | 1. Trick Room<br>2. Psyshock<br>3. Reflect<br>4. Light Screen |
@@ -63,6 +71,8 @@
 ## PKMN Trainer N – Final
 
 ![PKMN Trainer N – Final](../../assets/important_trainers/n.png)
+
+**Battle Type:** Single Battle
 
 === "Blaze Black"
 
@@ -94,6 +104,8 @@
 
 ![Team Plasma Ghetsis](../../assets/important_trainers/ghetsis.png)
 
+**Battle Type:** Single Battle
+
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|
 | ![Drapion](../../assets/sprites/drapion/front.png) |**Lv. 75** [Drapion](../../pokemon/drapion.md/)<br>**Item:** Scope Lens<br>**Ability:** Sniper | 1. Night Slash<br>2. Cross Poison<br>3. Storm Throw<br>4. Toxic Spikes |
@@ -108,6 +120,8 @@
 ## Elite Four Shauntal – Rematch
 
 ![Elite Four Shauntal – Rematch](../../assets/important_trainers/shauntal.png)
+
+**Battle Type:** Single Battle
 
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|
@@ -124,6 +138,8 @@
 
 ![Elite Four Grimsley – Rematch](../../assets/important_trainers/grimsley.png)
 
+**Battle Type:** Single Battle
+
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|
 | ![Honchkrow](../../assets/sprites/honchkrow/front.png) |**Lv. 91** [Honchkrow](../../pokemon/honchkrow.md/)<br>**Item:** Flying Gem<br>**Ability:** Moxie | 1. Brave Bird<br>2. Sucker Punch<br>3. Superpower<br>4. Heat Wave |
@@ -138,6 +154,8 @@
 ## Elite Four Marshal – Rematch
 
 ![Elite Four Marshal – Rematch](../../assets/important_trainers/marshal.png)
+
+**Battle Type:** Single Battle
 
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|
@@ -154,6 +172,8 @@
 
 ![Elite Four Caitlin – Rematch](../../assets/important_trainers/caitlin.png)
 
+**Battle Type:** Single Battle
+
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|
 | ![Musharna](../../assets/sprites/musharna/front.png) |**Lv. 91** [Musharna](../../pokemon/musharna.md/)<br>**Item:** Chesto Berry<br>**Ability:** Analytic | 1. Yawn<br>2. Psyshock<br>3. Rest<br>4. Shadow Ball |
@@ -168,6 +188,8 @@
 ## Champion Alder
 
 ![Champion Alder](../../assets/important_trainers/alder.png)
+
+**Battle Type:** Single Battle
 
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|

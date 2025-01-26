@@ -4,6 +4,8 @@
 
 ![Hiker Clay](../../assets/important_trainers/clay.png)
 
+**Battle Type:** Single Battle
+
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|
 | ![Hippowdon](../../assets/sprites/hippowdon/front.png) |**Lv. 88** [Hippowdon](../../pokemon/hippowdon.md/)<br>**Item:** Passho Berry<br>**Ability:** Sand Stream | 1. Earthquake<br>2. Slack Off<br>3. Stone Edge<br>4. Crunch |
@@ -19,6 +21,8 @@
 
 ![Ace Trainer Skyla](../../assets/important_trainers/skyla.png)
 
+**Battle Type:** Triple Battle
+
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|
 | ![Swoobat](../../assets/sprites/swoobat/front.png) |**Lv. 88** [Swoobat](../../pokemon/swoobat.md/)<br>**Item:** Focus Sash<br>**Ability:** Simple | 1. Psychic<br>2. Stored Power<br>3. Air Slash<br>4. Calm Mind |
@@ -33,6 +37,8 @@
 ## Ace Trainer Brycen
 
 ![Ace Trainer Brycen](../../assets/important_trainers/brycen.png)
+
+**Battle Type:** Triple Battle
 
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|

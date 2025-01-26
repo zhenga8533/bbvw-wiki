@@ -4,6 +4,8 @@
 
 ![Rival Bianca – 1](../../assets/important_trainers/bianca.png)
 
+**Battle Type:** Single Battle
+
 === "Tepig"
 
     | Pokemon | Attributes | Moves |
@@ -31,6 +33,8 @@
 
 ![Rival Cheren – 1](../../assets/important_trainers/cheren.png)
 
+**Battle Type:** Single Battle
+
 === "Tepig"
 
     | Pokemon | Attributes | Moves |
@@ -57,6 +61,8 @@
 ## Rival Bianca – Final
 
 ![Rival Bianca – Final](../../assets/important_trainers/bianca.png)
+
+**Battle Type:** Rotation Battle
 
 === "Tepig"
 

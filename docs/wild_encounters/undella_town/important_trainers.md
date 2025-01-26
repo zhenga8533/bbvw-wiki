@@ -4,6 +4,8 @@
 
 ![PKMN Trainer Cynthia](../../assets/important_trainers/cynthia.png)
 
+**Battle Type:** Single Battle
+
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|
 | ![Spiritomb](../../assets/sprites/spiritomb/front.png) |**Lv. 95** [Spiritomb](../../pokemon/spiritomb.md/)<br>**Item:** Lax Incense<br>**Ability:** Pressure | 1. Nasty Plot<br>2. Dark Pulse<br>3. Will-O-Wisp<br>4. Pain Split |

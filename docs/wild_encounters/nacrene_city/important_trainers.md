@@ -4,6 +4,8 @@
 
 ![PKMN Trainer N – 2](../../assets/important_trainers/n.png)
 
+**Battle Type:** Double Battle
+
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|
 | ![Drilbur](../../assets/sprites/drilbur/front.png) |**Lv. 19** [Drilbur](../../pokemon/drilbur.md/)<br>**Item:** No Item<br>**Ability:** ? | 1. —<br>2. —<br>3. —<br>4. — |
@@ -17,6 +19,10 @@
 ## Gym Leader Lenora
 
 ![Gym Leader Lenora](../../assets/important_trainers/lenora.png)
+
+**Battle Type:** Double Battle
+
+**Reward:** TM67 Retaliate
 
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|

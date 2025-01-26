@@ -4,6 +4,10 @@
 
 ![Gym Leader Skyla](../../assets/important_trainers/skyla.png)
 
+**Battle Type:** Triple Battle
+
+**Reward:** TM62 Acrobatics
+
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|
 | ![Mandibuzz](../../assets/sprites/mandibuzz/front.png) |**Lv. 54** [Mandibuzz](../../pokemon/mandibuzz.md/)<br>**Item:** No Item<br>**Ability:** Big Pecks | 1. Brave Bird<br>2. Torment<br>3. Tailwind<br>4. Rest |

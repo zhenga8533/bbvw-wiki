@@ -4,6 +4,8 @@
 
 ![Rival Cheren – 6](../../assets/important_trainers/cheren.png)
 
+**Battle Type:** Rotation Battle
+
 === "Tepig"
 
     | Pokemon | Attributes | Moves |

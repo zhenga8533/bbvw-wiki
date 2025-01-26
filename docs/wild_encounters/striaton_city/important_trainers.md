@@ -4,6 +4,8 @@
 
 ![Rival Cheren – 2](../../assets/important_trainers/cheren.png)
 
+**Battle Type:** Single Battle
+
 === "Tepig"
 
     | Pokemon | Attributes | Moves |
@@ -34,6 +36,10 @@
 
 ![Gym Leader Cilan](../../assets/important_trainers/cilan.png)
 
+**Battle Type:** Rotation Battle
+
+**Reward:** TM83 Work Up
+
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|
 | ![Snivy](../../assets/sprites/snivy/front.png) |**Lv. 12** [Snivy](../../pokemon/snivy.md/)<br>**Item:** No Item<br>**Ability:** Overgrow | 1. Tackle<br>2. Growth<br>3. Magical Leaf<br>4. Twister |
@@ -49,6 +55,10 @@
 
 ![Gym Leader Cress](../../assets/important_trainers/cress.png)
 
+**Battle Type:** Rotation Battle
+
+**Reward:** TM83 Work Up
+
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|
 | ![Oshawott](../../assets/sprites/oshawott/front.png) |**Lv. 12** [Oshawott](../../pokemon/oshawott.md/)<br>**Item:** No Item<br>**Ability:** Torrent | 1. Tackle<br>2. Screech<br>3. Brine<br>4. Air Slash |
@@ -63,6 +73,10 @@
 ## Gym Leader Chili
 
 ![Gym Leader Chili](../../assets/important_trainers/chili.png)
+
+**Battle Type:** Rotation Battle
+
+**Reward:** TM83 Work Up
 
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|

@@ -4,6 +4,8 @@
 
 ![Rival Cheren – Final](../../assets/important_trainers/cheren.png)
 
+**Battle Type:** Triple Battle
+
 === "Tepig"
 
     | Pokemon | Attributes | Moves |

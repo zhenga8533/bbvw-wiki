@@ -4,6 +4,8 @@
 
 ![Artist Burgh](../../assets/important_trainers/burgh.png)
 
+**Battle Type:** Single Battle
+
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|
 | ![Yanmega](../../assets/sprites/yanmega/front.png) |**Lv. 87** [Yanmega](../../pokemon/yanmega.md/)<br>**Item:** Occa Berry<br>**Ability:** Speed Boost | 1. Bug Buzz<br>2. Air Slash<br>3. Psychic<br>4. Shadow Ball |
@@ -18,6 +20,8 @@
 ## Lady Elesa
 
 ![Lady Elesa](../../assets/important_trainers/elesa.png)
+
+**Battle Type:** Single Battle
 
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|

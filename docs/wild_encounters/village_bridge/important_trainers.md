@@ -4,6 +4,8 @@
 
 ![Scientist Lenora](../../assets/important_trainers/lenora.png)
 
+**Battle Type:** Single Battle
+
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|
 | ![Stoutland](../../assets/sprites/stoutland/front.png) |**Lv. 87** [Stoutland](../../pokemon/stoutland.md/)<br>**Item:** Air Balloon<br>**Ability:** Intimidate | 1. Return<br>2. Crunch<br>3. Fire Fang<br>4. Wild Charge |

@@ -4,6 +4,12 @@
 
 ![Gym Leader Drayden](../../assets/important_trainers/drayden.png)
 
+**Battle Type:** Rotation Battle
+
+**Reward:** TM82 Dragon Tail
+
+**Version:** Blaze Black
+
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|
 | ![Druddigon](../../assets/sprites/druddigon/front.png) |**Lv. 64** [Druddigon](../../pokemon/druddigon.md/)<br>**Item:** Rocky Helmet<br>**Ability:** Rough Skin | 1. Outrage<br>2. Revenge<br>3. Earthquake<br>4. Dragon Tail |
@@ -18,6 +24,12 @@
 ## Gym Leader Iris
 
 ![Gym Leader Iris](../../assets/important_trainers/iris.png)
+
+**Battle Type:** Triple Battle
+
+**Reward:** TM82 Dragon Tail
+
+**Version:** Volt White
 
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|

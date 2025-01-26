@@ -4,6 +4,8 @@
 
 ![Rival Bianca – 2](../../assets/important_trainers/bianca.png)
 
+**Battle Type:** Single Battle
+
 === "Tepig"
 
     | Pokemon | Attributes | Moves |

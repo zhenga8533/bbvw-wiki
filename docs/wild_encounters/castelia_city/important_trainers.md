@@ -4,6 +4,10 @@
 
 ![Gym Leader Burgh](../../assets/important_trainers/burgh.png)
 
+**Battle Type:** Double Battle
+
+**Reward:** TM89 U-turn
+
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|
 | ![Masquerain](../../assets/sprites/masquerain/front.png) |**Lv. 28** [Masquerain](../../pokemon/masquerain.md/)<br>**Item:** No Item<br>**Ability:** Levitate | 1. Scald<br>2. Silver Wind<br>3. Stun Spore<br>4. Icy Wind |
@@ -18,6 +22,8 @@
 ## GAME Freak Morimoto
 
 ![GAME Freak Morimoto](../../assets/important_trainers/morimoto.png)
+
+**Battle Type:** Triple Battle
 
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|

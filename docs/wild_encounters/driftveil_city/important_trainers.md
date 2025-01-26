@@ -4,6 +4,10 @@
 
 ![Gym Leader Clay](../../assets/important_trainers/clay.png)
 
+**Battle Type:** Single Battle
+
+**Reward:** TM78 Bulldoze
+
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|
 | ![Hippowdon](../../assets/sprites/hippowdon/front.png) |**Lv. 42** [Hippowdon](../../pokemon/hippowdon.md/)<br>**Item:** No Item<br>**Ability:** Sand Stream | 1. Bulldoze<br>2. Slack Off<br>3. Stealth Rock<br>4. Stone Edge |
@@ -18,6 +22,8 @@
 ## Rival Bianca – 4
 
 ![Rival Bianca – 4](../../assets/important_trainers/bianca.png)
+
+**Battle Type:** Single Battle
 
 === "Tepig"
 

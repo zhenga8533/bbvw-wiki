@@ -4,6 +4,10 @@
 
 ![Gym Leader Brycen](../../assets/important_trainers/brycen.png)
 
+**Battle Type:** Double Battle
+
+**Reward:** TM13 Ice Beam
+
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|
 | ![Abomasnow](../../assets/sprites/abomasnow/front.png) |**Lv. 61** [Abomasnow](../../pokemon/abomasnow.md/)<br>**Item:** Expert Belt<br>**Ability:** Snow Warning | 1. Blizzard<br>2. Wood Hammer<br>3. Focus Blast<br>4. Ice Shard |

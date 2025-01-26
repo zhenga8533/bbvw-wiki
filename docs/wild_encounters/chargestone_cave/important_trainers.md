@@ -4,6 +4,8 @@
 
 ![PKMN Trainer N – 4](../../assets/important_trainers/n.png)
 
+**Battle Type:** Single Battle
+
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|
 | ![Rotom](../../assets/sprites/rotom/front.png) |**Lv. 47** [Rotom](../../pokemon/rotom.md/)<br>**Item:** No Item<br>**Ability:** Levitate | 1. —<br>2. —<br>3. —<br>4. — |

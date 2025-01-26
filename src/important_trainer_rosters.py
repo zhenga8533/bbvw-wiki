@@ -8,15 +8,14 @@ import os
 
 
 def parse_pokemon_sets(
-    pokemon_sets: list[PokemonSet], wild_rosters: dict[str, str], location: str, trainer: str, logger: Logger
+    pokemon_sets: list[PokemonSet], wild_rosters: dict[str, str], wild_data: dict[str, str], logger: Logger
 ):
     """
     Parse the Pokemon sets to add to the markdown content.
 
     :param pokemon_sets: The list of Pokemon sets to add.
     :param wild_rosters: The dictionary of wild rosters to add to.
-    :param location: The current location.
-    :param trainer: The current trainer.
+    :param wild_data: The dictionary of wild data to use.
     :param logger: The logger to use.
     :return: The updated markdown content.
     """
@@ -45,13 +44,22 @@ def parse_pokemon_sets(
             base_tables.append(pokemon_set.to_table())
     pokemon_sets.clear()
 
+    # Unpack wild data
+    location = wild_data["location"]
+    trainer = wild_data["trainer"]
+    trainer_id = format_id(trainer, "_")
+    battle_type = wild_data.get("battle_type", "")
+    reward = wild_data.get("reward", "")
+    version = wild_data.get("version", "")
+    logger.log(logging.DEBUG, f"Unpacked wild data: {location} - {trainer} - {battle_type} - {reward} - {version}")
+    wild_data.clear()
+
     # Wild roster header
     if location not in wild_rosters:
         wild_rosters[location] = ""
     wild_rosters[location] += f"---\n\n## {trainer}\n\n"
 
     # Set trainer sprite
-    trainer_id = format_id(trainer, "_")
     trainer_sprite = f"../../assets/important_trainers/{trainer_id}.png"
     trainer_parts = trainer_id.split("_")
     # Try all subarray combinations of trainer_parts
@@ -63,6 +71,14 @@ def parse_pokemon_sets(
             if verify_asset_path(trainer_sprite, logger):
                 wild_rosters[location] += f"![{trainer}]({trainer_sprite})\n\n"
                 break
+
+    # Add battle type, reward, and version
+    if battle_type:
+        wild_rosters[location] += f"**Battle Type:** {battle_type}\n\n"
+    if reward:
+        wild_rosters[location] += f"**Reward:** {reward}\n\n"
+    if version:
+        wild_rosters[location] += f"**Version:** {version}\n\n"
 
     # Add teams that differ based on starter or version
     if pokemon_mds[0] != "":
@@ -129,8 +145,7 @@ def main():
 
     # Wild encounter rosters
     wild_rosters = {}
-    location = None
-    trainer = None
+    wild_data = {}
 
     # Parse the content
     logger.log(logging.INFO, "Parsing Important Trainer Rosters content")
@@ -143,22 +158,22 @@ def main():
         if line == "" or line == "---":
             listing = 0
         elif next_line == "---":
-            md += parse_pokemon_sets(pokemon_sets, wild_rosters, location, trainer, logger)
+            md += parse_pokemon_sets(pokemon_sets, wild_rosters, wild_data, logger)
             md += f"## {line}\n\n"
         # Start of a new section
         elif next_line.startswith("Battle Type"):
-            md += parse_pokemon_sets(pokemon_sets, wild_rosters, location, trainer, logger)
+            md += parse_pokemon_sets(pokemon_sets, wild_rosters, wild_data, logger)
             md += f"---\n\n### {line}\n\n<pre><code>"
-            trainer = line
+            wild_data["trainer"] = line
         elif ": " in line:
             category, value = line.split(": ")
-            if category == "Location":
-                location = value
+            wild_data[format_id(category, symbol="_")] = value
+            logger.log(logging.DEBUG, f"Found wild data: {category} - {value}")
 
             md += f"<b>{category}:</b> {value}\n"
         # Pokémon Team
         elif "’s Team" in line:
-            md += parse_pokemon_sets(pokemon_sets, wild_rosters, location, trainer, logger)
+            md += parse_pokemon_sets(pokemon_sets, wild_rosters, wild_data, logger)
         # Pokémon Team Details
         elif (
             line.startswith("Species")
@@ -188,7 +203,7 @@ def main():
         else:
             md += f"{line}\n\n"
 
-    md += parse_pokemon_sets(pokemon_sets, wild_rosters, location, trainer, logger)
+    md += parse_pokemon_sets(pokemon_sets, wild_rosters, wild_data, logger)
     logger.log(logging.INFO, "Important Trainer Rosters content parsed successfully!")
 
     # Parse wild rosters into markdown files

@@ -4,6 +4,8 @@
 
 ![Rival Bianca – 5](../../assets/important_trainers/bianca.png)
 
+**Battle Type:** Triple Battle
+
 === "Tepig"
 
     | Pokemon | Attributes | Moves |

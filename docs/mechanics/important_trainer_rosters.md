@@ -3111,6 +3111,7 @@ Ghetsis’ Team
 ### Battle Girl Iris
 
 <pre><code><b>Battle Type:</b> Triple Battle
+<b>Location:</b> Route 11
 </code></pre>
 
 <pre><code><a href='/bbvw-wiki/pokemon/kingdra/'><b>Kingdra</b></a> @ Damp Rock
