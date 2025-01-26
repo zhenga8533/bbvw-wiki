@@ -16,19 +16,19 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 
 === "Tepig"
 
-    <pre><code><a href='/bbvw-wiki/pokemon/snivy/'><b>Snivy</b></a> @ -
+    <pre><code><a href='/bbvw-wiki/pokemon/snivy/'><b>Snivy</b></a> @ No Item
     <b>Ability:</b> Contrary
     <b>Level:</b> 5</code></pre>
 
 === "Snivy"
 
-    <pre><code><a href='/bbvw-wiki/pokemon/oshawott/'><b>Oshawott</b></a> @ -
+    <pre><code><a href='/bbvw-wiki/pokemon/oshawott/'><b>Oshawott</b></a> @ No Item
     <b>Ability:</b> Vital Spirit
     <b>Level:</b> 5</code></pre>
 
 === "Oshawott"
 
-    <pre><code><a href='/bbvw-wiki/pokemon/tepig/'><b>Tepig</b></a> @ -
+    <pre><code><a href='/bbvw-wiki/pokemon/tepig/'><b>Tepig</b></a> @ No Item
     <b>Ability:</b> Adaptability
     <b>Level:</b> 5</code></pre>
 
@@ -42,19 +42,19 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 
 === "Tepig"
 
-    <pre><code><a href='/bbvw-wiki/pokemon/oshawott/'><b>Oshawott</b></a> @ -
+    <pre><code><a href='/bbvw-wiki/pokemon/oshawott/'><b>Oshawott</b></a> @ No Item
     <b>Ability:</b> Contrary
     <b>Level:</b> 5</code></pre>
 
 === "Snivy"
 
-    <pre><code><a href='/bbvw-wiki/pokemon/tepig/'><b>Tepig</b></a> @ -
+    <pre><code><a href='/bbvw-wiki/pokemon/tepig/'><b>Tepig</b></a> @ No Item
     <b>Ability:</b> Vital Spirit
     <b>Level:</b> 5</code></pre>
 
 === "Oshawott"
 
-    <pre><code><a href='/bbvw-wiki/pokemon/snivy/'><b>Snivy</b></a> @ -
+    <pre><code><a href='/bbvw-wiki/pokemon/snivy/'><b>Snivy</b></a> @ No Item
     <b>Ability:</b> Adaptability
     <b>Level:</b> 5</code></pre>
 
@@ -89,28 +89,28 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 
 === "Tepig"
 
-    <pre><code><a href='/bbvw-wiki/pokemon/meowth/'><b>Meowth</b></a> @ -
+    <pre><code><a href='/bbvw-wiki/pokemon/meowth/'><b>Meowth</b></a> @ No Item
     <b>Ability:</b> Technician
     <b>Level:</b> 9
-    <br><a href='/bbvw-wiki/pokemon/snivy/'><b>Snivy</b></a> @ -
+    <br><a href='/bbvw-wiki/pokemon/snivy/'><b>Snivy</b></a> @ No Item
     <b>Ability:</b> Contrary
     <b>Level:</b> 10</code></pre>
 
 === "Snivy"
 
-    <pre><code><a href='/bbvw-wiki/pokemon/meowth/'><b>Meowth</b></a> @ -
+    <pre><code><a href='/bbvw-wiki/pokemon/meowth/'><b>Meowth</b></a> @ No Item
     <b>Ability:</b> Technician
     <b>Level:</b> 9
-    <br><a href='/bbvw-wiki/pokemon/oshawott/'><b>Oshawott</b></a> @ -
+    <br><a href='/bbvw-wiki/pokemon/oshawott/'><b>Oshawott</b></a> @ No Item
     <b>Ability:</b> Vital Spirit
     <b>Level:</b> 10</code></pre>
 
 === "Oshawott"
 
-    <pre><code><a href='/bbvw-wiki/pokemon/meowth/'><b>Meowth</b></a> @ -
+    <pre><code><a href='/bbvw-wiki/pokemon/meowth/'><b>Meowth</b></a> @ No Item
     <b>Ability:</b> Technician
     <b>Level:</b> 9
-    <br><a href='/bbvw-wiki/pokemon/tepig/'><b>Tepig</b></a> @ -
+    <br><a href='/bbvw-wiki/pokemon/tepig/'><b>Tepig</b></a> @ No Item
     <b>Ability:</b> Adaptability
     <b>Level:</b> 10</code></pre>
 
@@ -124,7 +124,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 
 === "Tepig"
 
-    <pre><code><a href='/bbvw-wiki/pokemon/starly/'><b>Starly</b></a> @ -
+    <pre><code><a href='/bbvw-wiki/pokemon/starly/'><b>Starly</b></a> @ No Item
     <b>Ability:</b> Keen Eye
     <b>Level:</b> 11
     <br><a href='/bbvw-wiki/pokemon/oshawott/'><b>Oshawott</b></a> @ Oran Berry
@@ -133,7 +133,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 
 === "Snivy"
 
-    <pre><code><a href='/bbvw-wiki/pokemon/starly/'><b>Starly</b></a> @ -
+    <pre><code><a href='/bbvw-wiki/pokemon/starly/'><b>Starly</b></a> @ No Item
     <b>Ability:</b> Keen Eye
     <b>Level:</b> 11
     <br><a href='/bbvw-wiki/pokemon/tepig/'><b>Tepig</b></a> @ Oran Berry
@@ -142,7 +142,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 
 === "Oshawott"
 
-    <pre><code><a href='/bbvw-wiki/pokemon/starly/'><b>Starly</b></a> @ -
+    <pre><code><a href='/bbvw-wiki/pokemon/starly/'><b>Starly</b></a> @ No Item
     <b>Ability:</b> Keen Eye
     <b>Level:</b> 11
     <br><a href='/bbvw-wiki/pokemon/snivy/'><b>Snivy</b></a> @ Oran Berry
@@ -158,7 +158,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 <b>Reward:</b> TM83 Work Up
 </code></pre>
 
-<pre><code><a href='/bbvw-wiki/pokemon/snivy/'><b>Snivy</b></a> @ -
+<pre><code><a href='/bbvw-wiki/pokemon/snivy/'><b>Snivy</b></a> @ No Item
 <b>Ability:</b> Overgrow
 <b>Level:</b> 12
 <b>Moves:</b>
@@ -167,7 +167,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 3. Magical Leaf
 4. Twister
 
-<a href='/bbvw-wiki/pokemon/bulbasaur/'><b>Bulbasaur</b></a> @ -
+<a href='/bbvw-wiki/pokemon/bulbasaur/'><b>Bulbasaur</b></a> @ No Item
 <b>Ability:</b> Overgrow
 <b>Level:</b> 12
 <b>Moves:</b>
@@ -176,7 +176,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 3. Leech Seed
 4. Vine Whip
 
-<a href='/bbvw-wiki/pokemon/chikorita/'><b>Chikorita</b></a> @ -
+<a href='/bbvw-wiki/pokemon/chikorita/'><b>Chikorita</b></a> @ No Item
 <b>Ability:</b> Overgrow
 <b>Level:</b> 12
 <b>Moves:</b>
@@ -185,7 +185,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 3. Razor Leaf
 4. Poison Powder
 
-<a href='/bbvw-wiki/pokemon/treecko/'><b>Treecko</b></a> @ -
+<a href='/bbvw-wiki/pokemon/treecko/'><b>Treecko</b></a> @ No Item
 <b>Ability:</b> Overgrow
 <b>Level:</b> 12
 <b>Moves:</b>
@@ -194,7 +194,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 3. Absorb
 4. Quick Attack
 
-<a href='/bbvw-wiki/pokemon/turtwig/'><b>Turtwig</b></a> @ -
+<a href='/bbvw-wiki/pokemon/turtwig/'><b>Turtwig</b></a> @ No Item
 <b>Ability:</b> Overgrow
 <b>Level:</b> 12
 <b>Moves:</b>
@@ -222,7 +222,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 <b>Reward:</b> TM83 Work Up
 </code></pre>
 
-<pre><code><a href='/bbvw-wiki/pokemon/oshawott/'><b>Oshawott</b></a> @ -
+<pre><code><a href='/bbvw-wiki/pokemon/oshawott/'><b>Oshawott</b></a> @ No Item
 <b>Ability:</b> Torrent
 <b>Level:</b> 12
 <b>Moves:</b>
@@ -231,7 +231,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 3. Brine
 4. Air Slash
 
-<a href='/bbvw-wiki/pokemon/squirtle/'><b>Squirtle</b></a> @ -
+<a href='/bbvw-wiki/pokemon/squirtle/'><b>Squirtle</b></a> @ No Item
 <b>Ability:</b> Torrent
 <b>Level:</b> 12
 <b>Moves:</b>
@@ -240,7 +240,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 3. Aqua Jet
 4. Fake Out
 
-<a href='/bbvw-wiki/pokemon/totodile/'><b>Totodile</b></a> @ -
+<a href='/bbvw-wiki/pokemon/totodile/'><b>Totodile</b></a> @ No Item
 <b>Ability:</b> Torrent
 <b>Level:</b> 12
 <b>Moves:</b>
@@ -249,7 +249,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 3. Aqua Jet
 4. Bite
 
-<a href='/bbvw-wiki/pokemon/mudkip/'><b>Mudkip</b></a> @ -
+<a href='/bbvw-wiki/pokemon/mudkip/'><b>Mudkip</b></a> @ No Item
 <b>Ability:</b> Torrent
 <b>Level:</b> 12
 <b>Moves:</b>
@@ -258,7 +258,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 3. Mud Bomb
 4. Water Gun
 
-<a href='/bbvw-wiki/pokemon/piplup/'><b>Piplup</b></a> @ -
+<a href='/bbvw-wiki/pokemon/piplup/'><b>Piplup</b></a> @ No Item
 <b>Ability:</b> Torrent
 <b>Level:</b> 12
 <b>Moves:</b>
@@ -286,7 +286,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 <b>Reward:</b> TM83 Work Up
 </code></pre>
 
-<pre><code><a href='/bbvw-wiki/pokemon/tepig/'><b>Tepig</b></a> @ -
+<pre><code><a href='/bbvw-wiki/pokemon/tepig/'><b>Tepig</b></a> @ No Item
 <b>Ability:</b> Blaze
 <b>Level:</b> 12
 <b>Moves:</b>
@@ -295,7 +295,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 3. Ember
 4. Magnitude
 
-<a href='/bbvw-wiki/pokemon/charmander/'><b>Charmander</b></a> @ -
+<a href='/bbvw-wiki/pokemon/charmander/'><b>Charmander</b></a> @ No Item
 <b>Ability:</b> Blaze
 <b>Level:</b> 12
 <b>Moves:</b>
@@ -304,7 +304,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 3. Ember
 4. Smokescreen
 
-<a href='/bbvw-wiki/pokemon/cyndaquil/'><b>Cyndaquil</b></a> @ -
+<a href='/bbvw-wiki/pokemon/cyndaquil/'><b>Cyndaquil</b></a> @ No Item
 <b>Ability:</b> Blaze
 <b>Level:</b> 12
 <b>Moves:</b>
@@ -313,7 +313,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 3. Smokescreen
 4. Flame Burst
 
-<a href='/bbvw-wiki/pokemon/torchic/'><b>Torchic</b></a> @ -
+<a href='/bbvw-wiki/pokemon/torchic/'><b>Torchic</b></a> @ No Item
 <b>Ability:</b> Blaze
 <b>Level:</b> 12
 <b>Moves:</b>
@@ -322,7 +322,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 3. Ember
 4. Featherdance
 
-<a href='/bbvw-wiki/pokemon/chimchar/'><b>Chimchar</b></a> @ -
+<a href='/bbvw-wiki/pokemon/chimchar/'><b>Chimchar</b></a> @ No Item
 <b>Ability:</b> Blaze
 <b>Level:</b> 12
 <b>Moves:</b>
@@ -351,13 +351,13 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 
 === "Tepig"
 
-    <pre><code><a href='/bbvw-wiki/pokemon/staravia/'><b>Staravia</b></a> @ -
+    <pre><code><a href='/bbvw-wiki/pokemon/staravia/'><b>Staravia</b></a> @ No Item
     <b>Ability:</b> Reckless
     <b>Level:</b> 14
-    <br><a href='/bbvw-wiki/pokemon/roggenrola/'><b>Roggenrola</b></a> @ -
+    <br><a href='/bbvw-wiki/pokemon/roggenrola/'><b>Roggenrola</b></a> @ No Item
     <b>Ability:</b> Sturdy
     <b>Level:</b> 14
-    <br><a href='/bbvw-wiki/pokemon/pansear/'><b>Pansear</b></a> @ -
+    <br><a href='/bbvw-wiki/pokemon/pansear/'><b>Pansear</b></a> @ No Item
     <b>Ability:</b> Torrent
     <b>Level:</b> 14
     <br><a href='/bbvw-wiki/pokemon/oshawott/'><b>Oshawott</b></a> @ Sitrus Berry
@@ -366,13 +366,13 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 
 === "Snivy"
 
-    <pre><code><a href='/bbvw-wiki/pokemon/staravia/'><b>Staravia</b></a> @ -
+    <pre><code><a href='/bbvw-wiki/pokemon/staravia/'><b>Staravia</b></a> @ No Item
     <b>Ability:</b> Reckless
     <b>Level:</b> 14
-    <br><a href='/bbvw-wiki/pokemon/roggenrola/'><b>Roggenrola</b></a> @ -
+    <br><a href='/bbvw-wiki/pokemon/roggenrola/'><b>Roggenrola</b></a> @ No Item
     <b>Ability:</b> Sturdy
     <b>Level:</b> 14
-    <br><a href='/bbvw-wiki/pokemon/pansage/'><b>Pansage</b></a> @ -
+    <br><a href='/bbvw-wiki/pokemon/pansage/'><b>Pansage</b></a> @ No Item
     <b>Ability:</b> Blaze
     <b>Level:</b> 14
     <br><a href='/bbvw-wiki/pokemon/tepig/'><b>Tepig</b></a> @ Sitrus Berry
@@ -381,13 +381,13 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 
 === "Oshawott"
 
-    <pre><code><a href='/bbvw-wiki/pokemon/staravia/'><b>Staravia</b></a> @ -
+    <pre><code><a href='/bbvw-wiki/pokemon/staravia/'><b>Staravia</b></a> @ No Item
     <b>Ability:</b> Reckless
     <b>Level:</b> 14
-    <br><a href='/bbvw-wiki/pokemon/roggenrola/'><b>Roggenrola</b></a> @ -
+    <br><a href='/bbvw-wiki/pokemon/roggenrola/'><b>Roggenrola</b></a> @ No Item
     <b>Ability:</b> Sturdy
     <b>Level:</b> 14
-    <br><a href='/bbvw-wiki/pokemon/panpour/'><b>Panpour</b></a> @ -
+    <br><a href='/bbvw-wiki/pokemon/panpour/'><b>Panpour</b></a> @ No Item
     <b>Ability:</b> Overgrow
     <b>Level:</b> 14
     <br><a href='/bbvw-wiki/pokemon/snivy/'><b>Snivy</b></a> @ Sitrus Berry
@@ -432,7 +432,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 <b>Reward:</b> TM67 Retaliate
 </code></pre>
 
-<pre><code><a href='/bbvw-wiki/pokemon/stantler/'><b>Stantler</b></a> @ -
+<pre><code><a href='/bbvw-wiki/pokemon/stantler/'><b>Stantler</b></a> @ No Item
 <b>Ability:</b> Intimidate
 <b>Level:</b> 18
 <b>Moves:</b>
@@ -441,7 +441,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 3. Disable
 4. Extrasensory
 
-<a href='/bbvw-wiki/pokemon/herdier/'><b>Herdier</b></a> @ -
+<a href='/bbvw-wiki/pokemon/herdier/'><b>Herdier</b></a> @ No Item
 <b>Ability:</b> Intimidate
 <b>Level:</b> 18
 <b>Moves:</b>
@@ -450,7 +450,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 3. Helping Hand
 4. Charm
 
-<a href='/bbvw-wiki/pokemon/furret/'><b>Furret</b></a> @ -
+<a href='/bbvw-wiki/pokemon/furret/'><b>Furret</b></a> @ No Item
 <b>Ability:</b> Keen Eye
 <b>Level:</b> 18
 <b>Moves:</b>
@@ -459,7 +459,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 3. Thunderbolt
 4. Reversal
 
-<a href='/bbvw-wiki/pokemon/bibarel/'><b>Bibarel</b></a> @ -
+<a href='/bbvw-wiki/pokemon/bibarel/'><b>Bibarel</b></a> @ No Item
 <b>Ability:</b> Moody
 <b>Level:</b> 18
 <b>Moves:</b>
@@ -496,7 +496,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 <b>Reward:</b> TM89 U-turn
 </code></pre>
 
-<pre><code><a href='/bbvw-wiki/pokemon/masquerain/'><b>Masquerain</b></a> @ -
+<pre><code><a href='/bbvw-wiki/pokemon/masquerain/'><b>Masquerain</b></a> @ No Item
 <b>Ability:</b> Levitate
 <b>Level:</b> 28
 <b>Moves:</b>
@@ -505,7 +505,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 3. Stun Spore
 4. Icy Wind
 
-<a href='/bbvw-wiki/pokemon/vespiquen/'><b>Vespiquen</b></a> @ -
+<a href='/bbvw-wiki/pokemon/vespiquen/'><b>Vespiquen</b></a> @ No Item
 <b>Ability:</b> Intimidate
 <b>Level:</b> 28
 <b>Moves:</b>
@@ -523,7 +523,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 3. Bug Bite
 4. Night Slash
 
-<a href='/bbvw-wiki/pokemon/yanmega/'><b>Yanmega</b></a> @ -
+<a href='/bbvw-wiki/pokemon/yanmega/'><b>Yanmega</b></a> @ No Item
 <b>Ability:</b> Speed Boost
 <b>Level:</b> 28
 <b>Moves:</b>
@@ -561,13 +561,13 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 
 === "Tepig"
 
-    <pre><code><a href='/bbvw-wiki/pokemon/munna/'><b>Munna</b></a> @ -
+    <pre><code><a href='/bbvw-wiki/pokemon/munna/'><b>Munna</b></a> @ No Item
     <b>Ability:</b> Analytic
     <b>Level:</b> 29
-    <br><a href='/bbvw-wiki/pokemon/persian/'><b>Persian</b></a> @ -
+    <br><a href='/bbvw-wiki/pokemon/persian/'><b>Persian</b></a> @ No Item
     <b>Ability:</b> Technician
     <b>Level:</b> 31
-    <br><a href='/bbvw-wiki/pokemon/simipour/'><b>Simipour</b></a> @ -
+    <br><a href='/bbvw-wiki/pokemon/simipour/'><b>Simipour</b></a> @ No Item
     <b>Ability:</b> Unburden
     <b>Level:</b> 29
     <br><a href='/bbvw-wiki/pokemon/servine/'><b>Servine</b></a> @ Sitrus Berry
@@ -576,13 +576,13 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 
 === "Snivy"
 
-    <pre><code><a href='/bbvw-wiki/pokemon/munna/'><b>Munna</b></a> @ -
+    <pre><code><a href='/bbvw-wiki/pokemon/munna/'><b>Munna</b></a> @ No Item
     <b>Ability:</b> Analytic
     <b>Level:</b> 29
-    <br><a href='/bbvw-wiki/pokemon/persian/'><b>Persian</b></a> @ -
+    <br><a href='/bbvw-wiki/pokemon/persian/'><b>Persian</b></a> @ No Item
     <b>Ability:</b> Technician
     <b>Level:</b> 31
-    <br><a href='/bbvw-wiki/pokemon/simisear/'><b>Simisear</b></a> @ -
+    <br><a href='/bbvw-wiki/pokemon/simisear/'><b>Simisear</b></a> @ No Item
     <b>Ability:</b> Technician
     <b>Level:</b> 29
     <br><a href='/bbvw-wiki/pokemon/dewott/'><b>Dewott</b></a> @ Sitrus Berry
@@ -591,13 +591,13 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 
 === "Oshawott"
 
-    <pre><code><a href='/bbvw-wiki/pokemon/munna/'><b>Munna</b></a> @ -
+    <pre><code><a href='/bbvw-wiki/pokemon/munna/'><b>Munna</b></a> @ No Item
     <b>Ability:</b> Analytic
     <b>Level:</b> 29
-    <br><a href='/bbvw-wiki/pokemon/persian/'><b>Persian</b></a> @ -
+    <br><a href='/bbvw-wiki/pokemon/persian/'><b>Persian</b></a> @ No Item
     <b>Ability:</b> Technician
     <b>Level:</b> 31
-    <br><a href='/bbvw-wiki/pokemon/simisage/'><b>Simisage</b></a> @ -
+    <br><a href='/bbvw-wiki/pokemon/simisage/'><b>Simisage</b></a> @ No Item
     <b>Ability:</b> Technician
     <b>Level:</b> 29
     <br><a href='/bbvw-wiki/pokemon/pignite/'><b>Pignite</b></a> @ Sitrus Berry
@@ -708,7 +708,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 <b>Reward:</b> TM93 Wild Charge
 </code></pre>
 
-<pre><code><a href='/bbvw-wiki/pokemon/emolga/'><b>Emolga</b></a> @ -
+<pre><code><a href='/bbvw-wiki/pokemon/emolga/'><b>Emolga</b></a> @ No Item
 <b>Ability:</b> Static
 <b>Level:</b> 36
 <b>Moves:</b>
@@ -717,7 +717,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 3. Acrobatics
 4. Roost
 
-<a href='/bbvw-wiki/pokemon/manectric/'><b>Manectric</b></a> @ -
+<a href='/bbvw-wiki/pokemon/manectric/'><b>Manectric</b></a> @ No Item
 <b>Ability:</b> Static
 <b>Level:</b> 36
 <b>Moves:</b>
@@ -726,7 +726,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 3. Flamethrower
 4. Attract
 
-<a href='/bbvw-wiki/pokemon/ampharos/'><b>Ampharos</b></a> @ -
+<a href='/bbvw-wiki/pokemon/ampharos/'><b>Ampharos</b></a> @ No Item
 <b>Ability:</b> Static
 <b>Level:</b> 36
 <b>Moves:</b>
@@ -735,7 +735,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 3. Focus Blast
 4. Cotton Guard
 
-<a href='/bbvw-wiki/pokemon/raichu/'><b>Raichu</b></a> @ -
+<a href='/bbvw-wiki/pokemon/raichu/'><b>Raichu</b></a> @ No Item
 <b>Ability:</b> Static
 <b>Level:</b> 36
 <b>Moves:</b>
@@ -744,7 +744,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 3. Grass Knot
 4. Focus Blast
 
-<a href='/bbvw-wiki/pokemon/galvantula/'><b>Galvantula</b></a> @ -
+<a href='/bbvw-wiki/pokemon/galvantula/'><b>Galvantula</b></a> @ No Item
 <b>Ability:</b> Compoundeyes
 <b>Level:</b> 36
 <b>Moves:</b>
@@ -834,7 +834,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 <b>Reward:</b> TM78 Bulldoze
 </code></pre>
 
-<pre><code><a href='/bbvw-wiki/pokemon/hippowdon/'><b>Hippowdon</b></a> @ -
+<pre><code><a href='/bbvw-wiki/pokemon/hippowdon/'><b>Hippowdon</b></a> @ No Item
 <b>Ability:</b> Sand Stream
 <b>Level:</b> 42
 <b>Moves:</b>
@@ -899,16 +899,16 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 
 === "Tepig"
 
-    <pre><code><a href='/bbvw-wiki/pokemon/mienfoo/'><b>Mienfoo</b></a> @ -
+    <pre><code><a href='/bbvw-wiki/pokemon/mienfoo/'><b>Mienfoo</b></a> @ No Item
     <b>Ability:</b> Reckless
     <b>Level:</b> 41
-    <br><a href='/bbvw-wiki/pokemon/musharna/'><b>Musharna</b></a> @ -
+    <br><a href='/bbvw-wiki/pokemon/musharna/'><b>Musharna</b></a> @ No Item
     <b>Ability:</b> Analytic
     <b>Level:</b> 41
-    <br><a href='/bbvw-wiki/pokemon/persian/'><b>Persian</b></a> @ -
+    <br><a href='/bbvw-wiki/pokemon/persian/'><b>Persian</b></a> @ No Item
     <b>Ability:</b> Technician
     <b>Level:</b> 41
-    <br><a href='/bbvw-wiki/pokemon/simipour/'><b>Simipour</b></a> @ -
+    <br><a href='/bbvw-wiki/pokemon/simipour/'><b>Simipour</b></a> @ No Item
     <b>Ability:</b> Unburden
     <b>Level:</b> 41
     <br><a href='/bbvw-wiki/pokemon/serperior/'><b>Serperior</b></a> @ Sitrus Berry
@@ -917,16 +917,16 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 
 === "Snivy"
 
-    <pre><code><a href='/bbvw-wiki/pokemon/mienfoo/'><b>Mienfoo</b></a> @ -
+    <pre><code><a href='/bbvw-wiki/pokemon/mienfoo/'><b>Mienfoo</b></a> @ No Item
     <b>Ability:</b> Reckless
     <b>Level:</b> 41
-    <br><a href='/bbvw-wiki/pokemon/musharna/'><b>Musharna</b></a> @ -
+    <br><a href='/bbvw-wiki/pokemon/musharna/'><b>Musharna</b></a> @ No Item
     <b>Ability:</b> Analytic
     <b>Level:</b> 41
-    <br><a href='/bbvw-wiki/pokemon/persian/'><b>Persian</b></a> @ -
+    <br><a href='/bbvw-wiki/pokemon/persian/'><b>Persian</b></a> @ No Item
     <b>Ability:</b> Technician
     <b>Level:</b> 41
-    <br><a href='/bbvw-wiki/pokemon/simisear/'><b>Simisear</b></a> @ -
+    <br><a href='/bbvw-wiki/pokemon/simisear/'><b>Simisear</b></a> @ No Item
     <b>Ability:</b> Unburden
     <b>Level:</b> 41
     <br><a href='/bbvw-wiki/pokemon/samurott/'><b>Samurott</b></a> @ Sitrus Berry
@@ -935,16 +935,16 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 
 === "Oshawott"
 
-    <pre><code><a href='/bbvw-wiki/pokemon/mienfoo/'><b>Mienfoo</b></a> @ -
+    <pre><code><a href='/bbvw-wiki/pokemon/mienfoo/'><b>Mienfoo</b></a> @ No Item
     <b>Ability:</b> Reckless
     <b>Level:</b> 41
-    <br><a href='/bbvw-wiki/pokemon/musharna/'><b>Musharna</b></a> @ -
+    <br><a href='/bbvw-wiki/pokemon/musharna/'><b>Musharna</b></a> @ No Item
     <b>Ability:</b> Analytic
     <b>Level:</b> 41
-    <br><a href='/bbvw-wiki/pokemon/persian/'><b>Persian</b></a> @ -
+    <br><a href='/bbvw-wiki/pokemon/persian/'><b>Persian</b></a> @ No Item
     <b>Ability:</b> Technician
     <b>Level:</b> 41
-    <br><a href='/bbvw-wiki/pokemon/simisage/'><b>Simisage</b></a> @ -
+    <br><a href='/bbvw-wiki/pokemon/simisage/'><b>Simisage</b></a> @ No Item
     <b>Ability:</b> Unburden
     <b>Level:</b> 41
     <br><a href='/bbvw-wiki/pokemon/emboar/'><b>Emboar</b></a> @ Sitrus Berry

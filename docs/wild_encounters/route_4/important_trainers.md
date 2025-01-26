@@ -8,9 +8,9 @@
 
     | Pokemon | Attributes | Moves |
     |:-------:|------------|-------|
-    | ![Munna](../../assets/sprites/munna/front.png)<br>[Munna](../../pokemon/munna.md/) |**Level:** 29<br>**Item:** -<br>**Ability:** Analytic | 1. —<br>2. —<br>3. —<br>4. — |
-    | ![Persian](../../assets/sprites/persian/front.png)<br>[Persian](../../pokemon/persian.md/) |**Level:** 31<br>**Item:** -<br>**Ability:** Technician | 1. —<br>2. —<br>3. —<br>4. — |
-    | ![Simipour](../../assets/sprites/simipour/front.png)<br>[Simipour](../../pokemon/simipour.md/) |**Level:** 29<br>**Item:** -<br>**Ability:** Unburden | 1. —<br>2. —<br>3. —<br>4. — |
+    | ![Munna](../../assets/sprites/munna/front.png)<br>[Munna](../../pokemon/munna.md/) |**Level:** 29<br>**Item:** No Item<br>**Ability:** Analytic | 1. —<br>2. —<br>3. —<br>4. — |
+    | ![Persian](../../assets/sprites/persian/front.png)<br>[Persian](../../pokemon/persian.md/) |**Level:** 31<br>**Item:** No Item<br>**Ability:** Technician | 1. —<br>2. —<br>3. —<br>4. — |
+    | ![Simipour](../../assets/sprites/simipour/front.png)<br>[Simipour](../../pokemon/simipour.md/) |**Level:** 29<br>**Item:** No Item<br>**Ability:** Unburden | 1. —<br>2. —<br>3. —<br>4. — |
     | ![Servine](../../assets/sprites/servine/front.png)<br>[Servine](../../pokemon/servine.md/) |**Level:** 31<br>**Item:** Sitrus Berry<br>**Ability:** Contrary | 1. —<br>2. —<br>3. —<br>4. — |
     
 
@@ -18,9 +18,9 @@
 
     | Pokemon | Attributes | Moves |
     |:-------:|------------|-------|
-    | ![Munna](../../assets/sprites/munna/front.png)<br>[Munna](../../pokemon/munna.md/) |**Level:** 29<br>**Item:** -<br>**Ability:** Analytic | 1. —<br>2. —<br>3. —<br>4. — |
-    | ![Persian](../../assets/sprites/persian/front.png)<br>[Persian](../../pokemon/persian.md/) |**Level:** 31<br>**Item:** -<br>**Ability:** Technician | 1. —<br>2. —<br>3. —<br>4. — |
-    | ![Simisear](../../assets/sprites/simisear/front.png)<br>[Simisear](../../pokemon/simisear.md/) |**Level:** 29<br>**Item:** -<br>**Ability:** Technician | 1. —<br>2. —<br>3. —<br>4. — |
+    | ![Munna](../../assets/sprites/munna/front.png)<br>[Munna](../../pokemon/munna.md/) |**Level:** 29<br>**Item:** No Item<br>**Ability:** Analytic | 1. —<br>2. —<br>3. —<br>4. — |
+    | ![Persian](../../assets/sprites/persian/front.png)<br>[Persian](../../pokemon/persian.md/) |**Level:** 31<br>**Item:** No Item<br>**Ability:** Technician | 1. —<br>2. —<br>3. —<br>4. — |
+    | ![Simisear](../../assets/sprites/simisear/front.png)<br>[Simisear](../../pokemon/simisear.md/) |**Level:** 29<br>**Item:** No Item<br>**Ability:** Technician | 1. —<br>2. —<br>3. —<br>4. — |
     | ![Dewott](../../assets/sprites/dewott/front.png)<br>[Dewott](../../pokemon/dewott.md/) |**Level:** 31<br>**Item:** Sitrus Berry<br>**Ability:** Vital Spirit | 1. —<br>2. —<br>3. —<br>4. — |
     
 
@@ -28,9 +28,9 @@
 
     | Pokemon | Attributes | Moves |
     |:-------:|------------|-------|
-    | ![Munna](../../assets/sprites/munna/front.png)<br>[Munna](../../pokemon/munna.md/) |**Level:** 29<br>**Item:** -<br>**Ability:** Analytic | 1. —<br>2. —<br>3. —<br>4. — |
-    | ![Persian](../../assets/sprites/persian/front.png)<br>[Persian](../../pokemon/persian.md/) |**Level:** 31<br>**Item:** -<br>**Ability:** Technician | 1. —<br>2. —<br>3. —<br>4. — |
-    | ![Simisage](../../assets/sprites/simisage/front.png)<br>[Simisage](../../pokemon/simisage.md/) |**Level:** 29<br>**Item:** -<br>**Ability:** Technician | 1. —<br>2. —<br>3. —<br>4. — |
+    | ![Munna](../../assets/sprites/munna/front.png)<br>[Munna](../../pokemon/munna.md/) |**Level:** 29<br>**Item:** No Item<br>**Ability:** Analytic | 1. —<br>2. —<br>3. —<br>4. — |
+    | ![Persian](../../assets/sprites/persian/front.png)<br>[Persian](../../pokemon/persian.md/) |**Level:** 31<br>**Item:** No Item<br>**Ability:** Technician | 1. —<br>2. —<br>3. —<br>4. — |
+    | ![Simisage](../../assets/sprites/simisage/front.png)<br>[Simisage](../../pokemon/simisage.md/) |**Level:** 29<br>**Item:** No Item<br>**Ability:** Technician | 1. —<br>2. —<br>3. —<br>4. — |
     | ![Pignite](../../assets/sprites/pignite/front.png)<br>[Pignite](../../pokemon/pignite.md/) |**Level:** 31<br>**Item:** Sitrus Berry<br>**Ability:** Adaptability | 1. —<br>2. —<br>3. —<br>4. — |
     
 

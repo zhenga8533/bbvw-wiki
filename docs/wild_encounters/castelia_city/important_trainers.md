@@ -6,10 +6,10 @@
 
 | Pokemon | Attributes | Moves |
 |:-------:|------------|-------|
-| ![Masquerain](../../assets/sprites/masquerain/front.png)<br>[Masquerain](../../pokemon/masquerain.md/) |**Level:** 28<br>**Item:** -<br>**Ability:** Levitate | 1. Scald<br>2. Silver Wind<br>3. Stun Spore<br>4. Icy Wind |
-| ![Vespiquen](../../assets/sprites/vespiquen/front.png)<br>[Vespiquen](../../pokemon/vespiquen.md/) |**Level:** 28<br>**Item:** -<br>**Ability:** Intimidate | 1. Acrobatics<br>2. Toxic<br>3. Heal Order<br>4. U-turn |
+| ![Masquerain](../../assets/sprites/masquerain/front.png)<br>[Masquerain](../../pokemon/masquerain.md/) |**Level:** 28<br>**Item:** No Item<br>**Ability:** Levitate | 1. Scald<br>2. Silver Wind<br>3. Stun Spore<br>4. Icy Wind |
+| ![Vespiquen](../../assets/sprites/vespiquen/front.png)<br>[Vespiquen](../../pokemon/vespiquen.md/) |**Level:** 28<br>**Item:** No Item<br>**Ability:** Intimidate | 1. Acrobatics<br>2. Toxic<br>3. Heal Order<br>4. U-turn |
 | ![Heracross](../../assets/sprites/heracross/front.png)<br>[Heracross](../../pokemon/heracross.md/) |**Level:** 28<br>**Item:** Flame Orb<br>**Ability:** Guts | 1. Brick Break<br>2. Aerial Ace<br>3. Bug Bite<br>4. Night Slash |
-| ![Yanmega](../../assets/sprites/yanmega/front.png)<br>[Yanmega](../../pokemon/yanmega.md/) |**Level:** 28<br>**Item:** -<br>**Ability:** Speed Boost | 1. Protect<br>2. U-turn<br>3. Air Slash<br>4. Signal Beam |
+| ![Yanmega](../../assets/sprites/yanmega/front.png)<br>[Yanmega](../../pokemon/yanmega.md/) |**Level:** 28<br>**Item:** No Item<br>**Ability:** Speed Boost | 1. Protect<br>2. U-turn<br>3. Air Slash<br>4. Signal Beam |
 | ![Scolipede](../../assets/sprites/scolipede/front.png)<br>[Scolipede](../../pokemon/scolipede.md/) |**Level:** 30<br>**Item:** Sitrus Berry<br>**Ability:** Poison Touch | 1. Toxic<br>2. Rock Climb<br>3. Megahorn<br>4. Rock Slide |
 | ![Leavanny](../../assets/sprites/leavanny/front.png)<br>[Leavanny](../../pokemon/leavanny.md/) |**Level:** 30<br>**Item:** Sitrus Berry<br>**Ability:** Swarm | 1. Protect<br>2. Leaf Blade<br>3. X-Scissor<br>4. Grass Whistle |
 
