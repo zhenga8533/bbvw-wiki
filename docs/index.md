@@ -2,11 +2,11 @@
 
 !!! note
 
-    This site is fanmade! Much of the data in the Pokemon doc-pages was made by parsing through documents found from the official ROM hacks. Specific Pokémon information was fetched from [PokéAPI](https://pokeapi.co/) using my personal [parser](https://github.com/zhenga8533/pokeapi-parser/tree/v1).
+    This site is fanmade! Much of the data in the Pokemon doc-pages was made by parsing through documents found from the official ROM hacks. Specific Pokémon information was fetched from [PokéAPI](https://pokeapi.co/) using a [parser](https://github.com/zhenga8533/pokeapi-parser/tree/v1).
 
 !!! warning
 
-    This site is not a viable source for the [Classic](https://zhenga8533.github.io/bbvw-wiki/getting_started/patching_guide/) version of this rom hack. It is recommended to play the [Full](https://zhenga8533.github.io/bbvw-wiki/getting_started/patching_guide/) version of either ROM Hack!
+    This site is not a viable source for the [Classic](getting_started/patching_guide.md/) version of this rom hack. It is recommended to play the [Full](getting_started/patching_guide.md/) version of either ROM Hack for the full experience!
 
 ---
 
