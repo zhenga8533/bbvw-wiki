@@ -6,7 +6,7 @@
 
 !!! warning
 
-    This site is not a viable source for the Classic version of this rom hack. It is recommended to play the Full version of either ROM Hack!
+    This site is not a viable source for the [Classic](https://zhenga8533.github.io/bbvw-wiki/getting_started/patching_guide/) version of this rom hack. It is recommended to play the [Full](https://zhenga8533.github.io/bbvw-wiki/getting_started/patching_guide/) version of either ROM Hack!
 
 ---
 

@@ -13,9 +13,3 @@ Full Version: Everything including changes to Pokemon.
 
 Clean Version: Just the basics (Wild, Trainer, Evolution, Items) changed.
 ```
-
-<div style="text-align: right">
-  Enjoy playing!
-  <br>
-  <b>- Dray</b>
-</div>
