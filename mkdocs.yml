@@ -6,7 +6,7 @@ repo_url: https://github.com/zhenga8533/bbvw-wiki
 
 theme:
   name: material
-  favicon: assets/logo.png
+  favicon: assets/favicon.png
   features:
     - navigation.footer
     - navigation.instant.progress

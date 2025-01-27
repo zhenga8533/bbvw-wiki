@@ -1,4 +1,9 @@
-# Pokémon Blaze Black and Volt White
+# Pokémon Blaze Black/Volt White Wiki
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <img src="assets/blaze_black_logo.png" alt="Blaze Black Logo" style="max-width: 50%; height: auto;">
+    <img src="assets/volt_white_logo.png" alt="Volt White Logo" style="max-width: 50%; height: auto;">
+</div>
 
 !!! note
 
@@ -73,7 +78,7 @@ Various Members of GBAtemp and GameFAQs: For ideas on additions/changes to make.
 
 ---
 
-## Bugs
+## Known Bugs
 
 - The exp is weirdly low from certain high levelled opponents. This is to do with the game, though, and is not fixable.
 
