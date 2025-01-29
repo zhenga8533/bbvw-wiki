@@ -1,4 +1,4 @@
-# #177 Natu (Tiny Bird Pokémon)
+# Natu (Tiny Bird Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ It picks food from cactus plants, deftly avoiding buds and spines. It seems to s
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -69,9 +69,6 @@ Natu has no alternate forms.
     1. Level Up: [Xatu](xatu.md/)
 
 
-
-
-### Evolution Changes
 
 
 ---

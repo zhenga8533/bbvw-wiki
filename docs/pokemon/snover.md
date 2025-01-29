@@ -1,4 +1,4 @@
-# #459 Snover (Frost Tree Pokémon)
+# Snover (Frost Tree Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ Seemingly curious about people, they gather around footsteps they find on snowy 
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -77,16 +77,13 @@ Snover has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 120 | 50 | 67 | Slow | Never Melt Ice (5%) |
+| 1 Attack | 120 | 50 | 67 | Slow | never-melt-ice (5%) |
 
 ---
 

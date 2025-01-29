@@ -1,4 +1,4 @@
-# #456 Finneon (Wing Fish Pokémon)
+# Finneon (Wing Fish Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ The line running down its side can store sunlight. It shines vividly at night.
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -77,16 +77,13 @@ Finneon has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 190 | 70 | 66 | Slow-Then-Very-Fast | Rindo Berry (5%) |
+| 1 Speed | 190 | 70 | 66 | Slow-Then-Very-Fast | rindo-berry (5%) |
 
 ---
 
@@ -129,7 +126,7 @@ Finneon has no alternate forms.
 | --- | --- | --- | --- | --- | --- | --- |
 | HM03 | Surf | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
 | HM05 | Waterfall | ![water](../assets/types/water.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
-| HM06 | Dive | ![water](../assets/types/water.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 10 |
+| HM06 | Dive | ![water](../assets/types/water.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 100 | 10 |
 | TM06 | Toxic | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 10 |
 | TM07 | Hail | ![ice](../assets/types/ice.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
 | TM10 | Hidden Power | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 15 |

@@ -1,4 +1,4 @@
-# #325 Spoink (Bounce Pokémon)
+# Spoink (Bounce Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ It bounces constantly, using its tail like a spring. The shock of bouncing keeps
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -71,16 +71,13 @@ Spoink has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense | 255 | 70 | 66 | Fast | Tanga Berry (5%) |
+| 1 Special Defense | 255 | 70 | 66 | Fast | tanga-berry (5%) |
 
 ---
 

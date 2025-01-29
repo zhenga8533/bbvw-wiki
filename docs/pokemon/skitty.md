@@ -1,4 +1,4 @@
-# #300 Skitty (Kitten Pokémon)
+# Skitty (Kitten Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ It can’t stop itself from chasing moving things, and it runs in a circle, chas
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -71,16 +71,13 @@ Skitty has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 255 | 70 | 52 | Fast | Leppa Berry (5%) |
+| 1 Speed | 255 | 70 | 52 | Fast | leppa-berry (5%) |
 
 ---
 

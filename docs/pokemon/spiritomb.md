@@ -1,4 +1,4 @@
-# #442 Spiritomb (Forbidden Pokémon)
+# Spiritomb (Forbidden Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -67,9 +67,6 @@ Spiritomb has no alternate forms.
 
 1. [Spiritomb](spiritomb.md/)
 
-
-
-### Evolution Changes
 
 
 ---

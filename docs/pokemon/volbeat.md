@@ -1,4 +1,4 @@
-# #313 Volbeat (Firefly Pokémon)
+# Volbeat (Firefly Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ It communicates with others by lighting up its rear at night. It loves Illumise�
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -67,9 +67,6 @@ Volbeat has no alternate forms.
 
 1. [Volbeat](volbeat.md/)
 
-
-
-### Evolution Changes
 
 
 ---

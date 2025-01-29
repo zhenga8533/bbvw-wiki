@@ -1,4 +1,4 @@
-# #586 Sawsbuck (Season Pokémon)
+# Sawsbuck (Season Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -12,11 +12,29 @@
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
 | ![Front](../assets/sprites/sawsbuck/front.gif) | ![Back](../assets/sprites/sawsbuck/back.gif) | ![Front Shiny](../assets/sprites/sawsbuck/front_shiny.gif) | ![Back Shiny](../assets/sprites/sawsbuck/back_shiny.gif) |
+
+### Sawsbuck Summer Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/sawsbuck-summer/front.gif) | ![Back](../assets/sprites/sawsbuck-summer/back.gif) | ![Front Shiny](../assets/sprites/sawsbuck-summer/front_shiny.gif) | ![Back Shiny](../assets/sprites/sawsbuck-summer/back_shiny.gif) |
+
+### Sawsbuck Autumn Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/sawsbuck-autumn/front.gif) | ![Back](../assets/sprites/sawsbuck-autumn/back.gif) | ![Front Shiny](../assets/sprites/sawsbuck-autumn/front_shiny.gif) | ![Back Shiny](../assets/sprites/sawsbuck-autumn/back_shiny.gif) |
+
+### Sawsbuck Winter Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/sawsbuck-winter/front.gif) | ![Back](../assets/sprites/sawsbuck-winter/back.gif) | ![Front Shiny](../assets/sprites/sawsbuck-winter/front_shiny.gif) | ![Back Shiny](../assets/sprites/sawsbuck-winter/back_shiny.gif) |
 
 ### Cries
 
@@ -73,9 +91,6 @@ Sawsbuck has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
@@ -129,7 +144,7 @@ Sawsbuck has no alternate forms.
 
 | TM | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| HM01 | Cut | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 20 |
+| HM01 | Cut | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 50 | 95 | 30 |
 | TM06 | Toxic | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 10 |
 | TM10 | Hidden Power | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 15 |
 | TM11 | Sunny Day | ![fire](../assets/types/fire.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |

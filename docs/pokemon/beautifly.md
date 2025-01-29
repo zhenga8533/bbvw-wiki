@@ -1,4 +1,4 @@
-# #267 Beautifly (Butterfly Pokémon)
+# Beautifly (Butterfly Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ Despite its looks, it is aggressive. It jabs with its long, thin mouth if distur
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -83,16 +83,13 @@ Beautifly has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Attack | 45 | 70 | 178 | Medium | Shed Shell (5%) |
+| 3 Special Attack | 45 | 70 | 178 | Medium | shed-shell (5%) |
 
 ---
 

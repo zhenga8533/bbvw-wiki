@@ -1,4 +1,4 @@
-# #003 Venusaur (Seed Pokémon)
+# Venusaur (Seed Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ After a rainy day, the flower on its back smells stronger. The scent attracts ot
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -21,6 +21,18 @@ After a rainy day, the flower on its back smells stronger. The scent attracts ot
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
 | ![Front](../assets/sprites/venusaur/front_female.gif) | ![Back](../assets/sprites/venusaur/back_female.gif) | ![Front Shiny](../assets/sprites/venusaur/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/venusaur/back_shiny_female.gif) |
+
+### Venusaur Mega Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/venusaur-mega/front.png) | ![Back](../assets/sprites/venusaur-mega/back.png) | ![Front Shiny](../assets/sprites/venusaur-mega/front_shiny.png) | ![Back Shiny](../assets/sprites/venusaur-mega/back_shiny.png) |
+
+### Venusaur Gmax Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/venusaur-gmax/front.png) | ![Back](../assets/sprites/venusaur-gmax/back.png) | ![Front Shiny](../assets/sprites/venusaur-gmax/front_shiny.png) | ![Back Shiny](../assets/sprites/venusaur-gmax/back_shiny.png) |
 
 ### Cries
 
@@ -79,9 +91,6 @@ Venusaur has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
@@ -137,8 +146,8 @@ Venusaur has no alternate forms.
 
 | TM | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| HM01 | Cut | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 20 |
-| HM04 | Strength | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
+| HM01 | Cut | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 50 | 95 | 30 |
+| HM04 | Strength | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 100 | 15 |
 | TM05 | Roar | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
 | TM06 | Toxic | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 10 |
 | TM09 | Venoshock | ![poison](../assets/types/poison.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 65 | 100 | 10 |
@@ -178,5 +187,5 @@ Venusaur cannot learn any moves by breeding.
 | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- |
 | Frenzy Plant | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 150 | 90 | 5 |
-| Grass Pledge | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 100 | 100 | 10 |
+| Grass Pledge | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 80 | 100 | 10 |
 

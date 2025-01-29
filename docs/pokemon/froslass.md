@@ -1,4 +1,4 @@
-# #478 Froslass (Snow Land Pokémon)
+# Froslass (Snow Land Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ It freezes prey by blowing its -58 degrees F breath. It is said to then secretly
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -73,16 +73,13 @@ Froslass has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 75 | 50 | 168 | Medium | Babiri Berry (5%) |
+| 2 Speed | 75 | 50 | 168 | Medium | babiri-berry (5%) |
 
 ---
 

@@ -1,4 +1,4 @@
-# #270 Lotad (Water Weed Pokémon)
+# Lotad (Water Weed Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ It looks like an aquatic plant and serves as a ferry to Pokémon that can’t sw
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -71,9 +71,6 @@ Lotad has no alternate forms.
 
 
 
-
-
-### Evolution Changes
 
 
 ---

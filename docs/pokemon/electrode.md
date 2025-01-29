@@ -1,4 +1,4 @@
-# #101 Electrode (Ball Pokémon)
+# Electrode (Ball Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ It is known to drift on winds if it is bloated to bursting with stored electrici
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -69,9 +69,6 @@ Electrode has no alternate forms.
     1. Level Up: [Electrode](electrode.md/)
 
 
-
-
-### Evolution Changes
 
 
 ---

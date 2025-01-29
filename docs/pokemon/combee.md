@@ -1,4 +1,4 @@
-# #415 Combee (Tiny Bee Pokémon)
+# Combee (Tiny Bee Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ The trio is together from birth. It constantly gathers honey from flowers to ple
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -77,16 +77,13 @@ Combee has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 120 | 50 | 49 | Medium-Slow | Honey (100%) |
+| 1 Speed | 120 | 50 | 49 | Medium-Slow | honey (100%) |
 
 ---
 

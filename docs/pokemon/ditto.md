@@ -1,4 +1,4 @@
-# #132 Ditto (Transform Pokémon)
+# Ditto (Transform Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ It has the ability to reconstitute its entire cellular structure to transform in
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -69,16 +69,13 @@ Ditto has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp | 35 | 50 | 101 | Medium | Metal Powder (5%)<br>Quick Powder (50%) |
+| 1 Hp | 35 | 50 | 101 | Medium | metal-powder (5%)<br>quick-powder (50%) |
 
 ---
 

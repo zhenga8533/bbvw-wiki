@@ -1,4 +1,4 @@
-# #110 Weezing (Poison Gas Pokémon)
+# Weezing (Poison Gas Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ It grows by feeding on gases released by garbage. Though very rare, triplets hav
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -71,16 +71,13 @@ Weezing has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Defense | 60 | 50 | 172 | Medium | Smoke Ball (5%) |
+| 2 Defense | 60 | 50 | 172 | Medium | smoke-ball (5%) |
 
 ---
 

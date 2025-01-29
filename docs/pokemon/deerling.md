@@ -1,4 +1,4 @@
-# #585 Deerling (Season Pokémon)
+# Deerling (Season Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -12,11 +12,29 @@
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
 | ![Front](../assets/sprites/deerling/front.gif) | ![Back](../assets/sprites/deerling/back.gif) | ![Front Shiny](../assets/sprites/deerling/front_shiny.gif) | ![Back Shiny](../assets/sprites/deerling/back_shiny.gif) |
+
+### Deerling Summer Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/deerling-summer/front.gif) | ![Back](../assets/sprites/deerling-summer/back.gif) | ![Front Shiny](../assets/sprites/deerling-summer/front_shiny.gif) | ![Back Shiny](../assets/sprites/deerling-summer/back_shiny.gif) |
+
+### Deerling Autumn Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/deerling-autumn/front.gif) | ![Back](../assets/sprites/deerling-autumn/back.gif) | ![Front Shiny](../assets/sprites/deerling-autumn/front_shiny.gif) | ![Back Shiny](../assets/sprites/deerling-autumn/back_shiny.gif) |
+
+### Deerling Winter Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/deerling-winter/front.gif) | ![Back](../assets/sprites/deerling-winter/back.gif) | ![Front Shiny](../assets/sprites/deerling-winter/front_shiny.gif) | ![Back Shiny](../assets/sprites/deerling-winter/back_shiny.gif) |
 
 ### Cries
 
@@ -71,9 +89,6 @@ Deerling has no alternate forms.
     1. Level Up: [Sawsbuck](sawsbuck.md/)
 
 
-
-
-### Evolution Changes
 
 
 ---

@@ -1,4 +1,4 @@
-# #583 Vanillish (Icy Snow Pokémon)
+# Vanillish (Icy Snow Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -12,7 +12,7 @@
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -73,9 +73,6 @@ Vanillish has no alternate forms.
 
 
 
-
-
-### Evolution Changes
 
 
 ---

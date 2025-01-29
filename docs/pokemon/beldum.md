@@ -1,4 +1,4 @@
-# #374 Beldum (Iron Ball Pokémon)
+# Beldum (Iron Ball Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ It converses with others by using magnetic pulses. In a swarm, they move in perf
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -73,16 +73,13 @@ Beldum has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 3 | 35 | 60 | Slow | Metal Coat (5%) |
+| 1 Defense | 3 | 35 | 60 | Slow | metal-coat (5%) |
 
 ---
 

@@ -1,4 +1,4 @@
-# #269 Dustox (Poison Moth Pokémon)
+# Dustox (Poison Moth Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ Toxic powder is scattered with each flap. At night, it is known to strip leaves 
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -83,16 +83,13 @@ Dustox has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Defense | 45 | 70 | 173 | Medium | Shed Shell (5%) |
+| 3 Special Defense | 45 | 70 | 173 | Medium | shed-shell (5%) |
 
 ---
 

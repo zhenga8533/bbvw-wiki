@@ -1,4 +1,4 @@
-# #100 Voltorb (Ball Pokémon)
+# Voltorb (Ball Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ It looks just like a Poké Ball. It is dangerous because it may electrocute or e
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -69,9 +69,6 @@ Voltorb has no alternate forms.
     1. Level Up: [Electrode](electrode.md/)
 
 
-
-
-### Evolution Changes
 
 
 ---

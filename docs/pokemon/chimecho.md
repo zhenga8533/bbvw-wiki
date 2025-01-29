@@ -1,4 +1,4 @@
-# #358 Chimecho (Wind Chime Pokémon)
+# Chimecho (Wind Chime Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ Its cries echo inside its hollow body to emerge as beautiful notes for startling
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -71,16 +71,13 @@ Chimecho has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack<br>1 Special Defense | 45 | 70 | 159 | Fast | Colbur Berry (5%) |
+| 1 Special Attack<br>1 Special Defense | 45 | 70 | 159 | Fast | colbur-berry (5%) |
 
 ---
 

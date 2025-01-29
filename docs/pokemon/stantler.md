@@ -1,4 +1,4 @@
-# #234 Stantler (Big Horn Pokémon)
+# Stantler (Big Horn Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ Staring at its antlers creates an odd sensation as if one were being drawn into 
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -67,9 +67,6 @@ Stantler has no alternate forms.
 
 1. [Stantler](stantler.md/)
 
-
-
-### Evolution Changes
 
 
 ---

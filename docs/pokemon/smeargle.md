@@ -1,4 +1,4 @@
-# #235 Smeargle (Painter Pokémon)
+# Smeargle (Painter Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ It marks its territory by using its tail like a paintbrush. There are more than 
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -67,9 +67,6 @@ Smeargle has no alternate forms.
 
 1. [Smeargle](smeargle.md/)
 
-
-
-### Evolution Changes
 
 
 ---

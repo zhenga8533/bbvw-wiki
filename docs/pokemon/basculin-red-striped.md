@@ -1,4 +1,4 @@
-# #550 Basculin Red Striped (Hostile Pokémon)
+# Basculin Red Striped (Hostile Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -12,7 +12,7 @@
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -63,20 +63,17 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Basculin-Red-Striped](basculin-red-striped.md/)
+1. [Basculin Red Striped](basculin-red-striped.md/)
 
-2. [Basculin-Blue-Striped](basculin-blue-striped.md/)
+2. [Basculin Blue Striped](basculin-blue-striped.md/)
 
 
 ### Evolution Line
 
-1. [Basculin-Blue-Striped](basculin-blue-striped.md/)
+1. [Basculin Blue Striped](basculin-blue-striped.md/)
 
-1. [Basculin-Red-Striped](basculin-red-striped.md/)
+1. [Basculin Red Striped](basculin-red-striped.md/)
 
-
-
-### Evolution Changes
 
 
 ---
@@ -85,7 +82,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 25 | 50 | 161 | Medium | Deep Sea Tooth (5%) |
+| 2 Speed | 25 | 50 | 161 | Medium | deep-sea-tooth (5%) |
 
 ---
 
@@ -130,10 +127,10 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 | TM | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| HM01 | Cut | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 20 |
+| HM01 | Cut | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 50 | 95 | 30 |
 | HM03 | Surf | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
 | HM05 | Waterfall | ![water](../assets/types/water.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
-| HM06 | Dive | ![water](../assets/types/water.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 10 |
+| HM06 | Dive | ![water](../assets/types/water.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 100 | 10 |
 | TM06 | Toxic | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 10 |
 | TM07 | Hail | ![ice](../assets/types/ice.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
 | TM10 | Hidden Power | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 15 |

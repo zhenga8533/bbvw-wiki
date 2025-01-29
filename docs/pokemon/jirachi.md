@@ -1,4 +1,4 @@
-# #385 Jirachi (Wish Pokémon)
+# Jirachi (Wish Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ It is said to have the ability to grant any wish for just one week every thousan
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -69,16 +69,13 @@ Jirachi has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Hp | 3 | 100 | 300 | Slow | Star Piece (100%) |
+| 3 Hp | 3 | 100 | 300 | Slow | star-piece (100%) |
 
 ---
 

@@ -704,6 +704,9 @@ nav:
           - "#648 Meloetta": pokemon/meloetta-aria.md
           - "#649 Genesect": pokemon/genesect.md
       - Pokémon Forms:
+          - Castform Rainy: pokemon/castform-rainy.md
+          - Castform Snowy: pokemon/castform-snowy.md
+          - Castform Sunny: pokemon/castform-sunny.md
           - Deoxys Attack: pokemon/deoxys-attack.md
           - Deoxys Defense: pokemon/deoxys-defense.md
           - Deoxys Speed: pokemon/deoxys-speed.md
@@ -721,6 +724,8 @@ nav:
           - Tornadus Therian: pokemon/tornadus-therian.md
           - Thundurus Therian: pokemon/thundurus-therian.md
           - Landorus Therian: pokemon/landorus-therian.md
+          - Kyurem Black: pokemon/kyurem-black.md
+          - Kyurem White: pokemon/kyurem-white.md
           - Keldeo Resolute: pokemon/keldeo-resolute.md
           - Meloetta Pirouette: pokemon/meloetta-pirouette.md
   - Wild Encounters:

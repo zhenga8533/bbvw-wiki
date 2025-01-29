@@ -1,4 +1,4 @@
-# #582 Vanillite (Fresh Snow Pokémon)
+# Vanillite (Fresh Snow Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -12,7 +12,7 @@
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -73,9 +73,6 @@ Vanillite has no alternate forms.
 
 
 
-
-
-### Evolution Changes
 
 
 ---

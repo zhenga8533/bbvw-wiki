@@ -1,4 +1,4 @@
-# #429 Mismagius (Magical Pokémon)
+# Mismagius (Magical Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ Its cry sounds like an incantation. It is said the cry may rarely be imbued with
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -69,9 +69,6 @@ Mismagius has no alternate forms.
     1. Use Item: [Mismagius](mismagius.md/)
 
 
-
-
-### Evolution Changes
 
 
 ---

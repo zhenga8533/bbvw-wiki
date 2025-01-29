@@ -1,4 +1,4 @@
-# #187 Hoppip (Cottonweed Pokémon)
+# Hoppip (Cottonweed Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ It drifts on winds. It is said that when Hoppip gather in fields and mountains, 
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -71,9 +71,6 @@ Hoppip has no alternate forms.
 
 
 
-
-
-### Evolution Changes
 
 
 ---

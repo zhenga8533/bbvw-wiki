@@ -1,4 +1,4 @@
-# #228 Houndour (Dark Pokémon)
+# Houndour (Dark Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ It is smart enough to hunt in packs. It uses a variety of cries for communicatin
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -69,9 +69,6 @@ Houndour has no alternate forms.
     1. Level Up: [Houndoom](houndoom.md/)
 
 
-
-
-### Evolution Changes
 
 
 ---

@@ -1,4 +1,4 @@
-# #556 Maractus (Cactus Pokémon)
+# Maractus (Cactus Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -12,7 +12,7 @@
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -71,16 +71,13 @@ Maractus has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Attack | 255 | 50 | 161 | Medium | Miracle Seed (5%) |
+| 2 Special Attack | 255 | 50 | 161 | Medium | miracle-seed (5%) |
 
 ---
 

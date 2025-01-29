@@ -1,4 +1,4 @@
-# #326 Grumpig (Manipulate Pokémon)
+# Grumpig (Manipulate Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ It uses black pearls to amplify its psycho-power. It does an odd dance to gain c
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -71,16 +71,13 @@ Grumpig has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Defense | 60 | 70 | 165 | Fast | Tanga Berry (5%) |
+| 2 Special Defense | 60 | 70 | 165 | Fast | tanga-berry (5%) |
 
 ---
 

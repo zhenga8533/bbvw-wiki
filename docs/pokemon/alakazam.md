@@ -1,4 +1,4 @@
-# #065 Alakazam (Psi Pokémon)
+# Alakazam (Psi Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ The spoons clutched in its hands are said to have been created by its psychic po
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -79,16 +79,13 @@ Alakazam has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Attack | 50 | 50 | 250 | Medium-Slow | Twisted Spoon (5%) |
+| 3 Special Attack | 50 | 50 | 250 | Medium-Slow | twisted-spoon (5%) |
 
 ---
 

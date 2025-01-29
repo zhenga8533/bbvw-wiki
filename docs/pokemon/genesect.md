@@ -1,4 +1,4 @@
-# #649 Genesect (Paleozoic Pokémon)
+# Genesect (Paleozoic Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -12,11 +12,35 @@
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
 | ![Front](../assets/sprites/genesect/front.gif) | ![Back](../assets/sprites/genesect/back.gif) | ![Front Shiny](../assets/sprites/genesect/front_shiny.gif) | ![Back Shiny](../assets/sprites/genesect/back_shiny.gif) |
+
+### Genesect Douse Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/genesect-douse/front.gif) | ![Back](../assets/sprites/genesect-douse/back.gif) | ![Front Shiny](../assets/sprites/genesect-douse/front_shiny.gif) | ![Back Shiny](../assets/sprites/genesect-douse/back_shiny.gif) |
+
+### Genesect Shock Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/genesect-shock/front.gif) | ![Back](../assets/sprites/genesect-shock/back.gif) | ![Front Shiny](../assets/sprites/genesect-shock/front_shiny.gif) | ![Back Shiny](../assets/sprites/genesect-shock/back_shiny.gif) |
+
+### Genesect Burn Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/genesect-burn/front.gif) | ![Back](../assets/sprites/genesect-burn/back.gif) | ![Front Shiny](../assets/sprites/genesect-burn/front_shiny.gif) | ![Back Shiny](../assets/sprites/genesect-burn/back_shiny.gif) |
+
+### Genesect Chill Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/genesect-chill/front.gif) | ![Back](../assets/sprites/genesect-chill/back.gif) | ![Front Shiny](../assets/sprites/genesect-chill/front_shiny.gif) | ![Back Shiny](../assets/sprites/genesect-chill/back_shiny.gif) |
 
 ### Cries
 
@@ -71,9 +95,6 @@ Genesect has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
@@ -126,7 +147,7 @@ Genesect has no alternate forms.
 
 | TM | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| HM02 | Fly | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 15 |
+| HM02 | Fly | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 90 | 95 | 15 |
 | TM01 | Hone Claws | ![dark](../assets/types/dark.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
 | TM06 | Toxic | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 10 |
 | TM10 | Hidden Power | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 15 |

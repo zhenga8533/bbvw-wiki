@@ -1,4 +1,4 @@
-# #353 Shuppet (Puppet Pokémon)
+# Shuppet (Puppet Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ It loves vengeful emotions and hangs in rows under the eaves of houses where ven
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -71,16 +71,13 @@ Shuppet has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 225 | 35 | 59 | Fast | Spell Tag (5%) |
+| 1 Attack | 225 | 35 | 59 | Fast | spell-tag (5%) |
 
 ---
 

@@ -1,4 +1,4 @@
-# #202 Wobbuffet (Patient Pokémon)
+# Wobbuffet (Patient Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ It desperately tries to keep its black tail hidden. It is said to be proof the t
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -75,9 +75,6 @@ Wobbuffet has no alternate forms.
     1. Level Up: [Wobbuffet](wobbuffet.md/)
 
 
-
-
-### Evolution Changes
 
 
 ---

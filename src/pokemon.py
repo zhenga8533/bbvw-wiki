@@ -9,6 +9,50 @@ import os
 import requests
 
 
+def parse_sprite_tables(
+    title: str,
+    name: str,
+    extension: str,
+    logger: Logger,
+):
+    """
+    Parse the sprite tables for a Pokémon.
+
+    :param title: The title of the sprite tables.
+    :param name: The name of the Pokémon.
+    :param extension: The extension of the sprite files.
+    :param logger: The logger to use.
+    :return: The parsed sprite tables.
+    """
+
+    image_headers = ["Front", "Back", "Front Shiny", "Back Shiny"]
+    md = ""
+
+    image_table = create_image_table(
+        image_headers,
+        [
+            [
+                f"../assets/sprites/{name}/front{extension}.gif",
+                f"../assets/sprites/{name}/back{extension}.gif",
+                f"../assets/sprites/{name}/front_shiny{extension}.gif",
+                f"../assets/sprites/{name}/back_shiny{extension}.gif",
+            ],
+            [
+                f"../assets/sprites/{name}/front{extension}.png",
+                f"../assets/sprites/{name}/back{extension}.png",
+                f"../assets/sprites/{name}/front_shiny{extension}.png",
+                f"../assets/sprites/{name}/back_shiny{extension}.png",
+            ],
+        ],
+        logger,
+    )
+    if image_table != "":
+        md += "### " + title + "\n\n"
+        md += image_table
+
+    return md
+
+
 def parse_evolution_line(evolution: dict, pokemon_set: set, level: int = 1, index: int = 1) -> str:
     """
     Parse the evolution line for a Pokémon.
@@ -44,7 +88,7 @@ def parse_evolution_line(evolution: dict, pokemon_set: set, level: int = 1, inde
         evolution_details = evolution["evolution_details"]
         if len(evolution_details) > 0:
             md += revert_id(evolution_details[-1]["trigger"]["name"]) + ": "
-        md += f"[{name.title()}]({name}.md/)\n"
+        md += f"[{revert_id(name)}]({name}.md/)\n"
 
         if evolution["evolutions"]:
             for i, sub_evolution in enumerate(evolution["evolutions"], 1):
@@ -180,7 +224,11 @@ def to_md(pokemon: dict, pokemon_set: dict, logger: Logger) -> str:
     name_id = pokemon["name"]
     pokemon_name = revert_id(name_id)
     pokemon_id = pokemon["id"]
-    md = f"# #{pokemon_id:03} {pokemon_name} ({pokemon['genus']})\n\n"
+    md = (
+        f"# {pokemon_name} ({pokemon['genus']})\n\n"
+        if pokemon_id < 10000
+        else f"# #{pokemon_id:03} {pokemon_name} ({pokemon['genus']})\n\n"
+    )
 
     # Add official artwork
     md += create_image_table(
@@ -210,48 +258,12 @@ def to_md(pokemon: dict, pokemon_set: dict, logger: Logger) -> str:
 
     # Add sprite tables
     md += "---\n\n## Media\n\n"
-    md += "### Sprites\n\n"
-    image_headers = ["Front", "Back", "Front Shiny", "Back Shiny"]
-    md += create_image_table(
-        image_headers,
-        [
-            [
-                f"../assets/sprites/{name_id}/front.gif",
-                f"../assets/sprites/{name_id}/back.gif",
-                f"../assets/sprites/{name_id}/front_shiny.gif",
-                f"../assets/sprites/{name_id}/back_shiny.gif",
-            ],
-            [
-                f"../assets/sprites/{name_id}/front.png",
-                f"../assets/sprites/{name_id}/back.png",
-                f"../assets/sprites/{name_id}/front_shiny.png",
-                f"../assets/sprites/{name_id}/back_shiny.png",
-            ],
-        ],
-        logger,
-    )
-
-    female_sprite_table = create_image_table(
-        image_headers,
-        [
-            [
-                f"../assets/sprites/{name_id}/front_female.gif",
-                f"../assets/sprites/{name_id}/back_female.gif",
-                f"../assets/sprites/{name_id}/front_shiny_female.gif",
-                f"../assets/sprites/{name_id}/back_shiny_female.gif",
-            ],
-            [
-                f"../assets/sprites/{name_id}/front_female.png",
-                f"../assets/sprites/{name_id}/back_female.png",
-                f"../assets/sprites/{name_id}/front_shiny_female.png",
-                f"../assets/sprites/{name_id}/back_shiny_female.png",
-            ],
-        ],
-        logger,
-    )
-    if female_sprite_table != "":
-        md += "### Female Sprites\n\n"
-        md += female_sprite_table
+    md += parse_sprite_tables("Default Sprites", name_id, "", logger)
+    md += parse_sprite_tables("Female Sprites", name_id, "_female", logger)
+    for form in pokemon["forms"]:
+        if form == name_id or form in pokemon_set:
+            continue
+        md += parse_sprite_tables(f"{revert_id(form)} Sprites", form, "", logger)
 
     # Cries
     md += "### Cries\n\n"
@@ -301,7 +313,7 @@ def to_md(pokemon: dict, pokemon_set: dict, logger: Logger) -> str:
 
     for i, form in enumerate(pokemon["forms"]):
         if form in pokemon_set:
-            forms.append(f"{i + 1}. [{form.title()}]({form}.md/)\n")
+            forms.append(f"{i + 1}. [{revert_id(form)}]({form}.md/)\n")
     if len(forms) == 1:
         md += f"{pokemon_name} has no alternate forms.\n\n"
     else:
@@ -315,7 +327,7 @@ def to_md(pokemon: dict, pokemon_set: dict, logger: Logger) -> str:
     else:
         md += f"{parse_evolution_line(evolutions[0], pokemon_set)}\n\n"
 
-    if "evolution_changes" in pokemon:
+    if "evolution_changes" in pokemon and len(pokemon["evolution_changes"]) > 0:
         md += f"### Evolution Changes\n\n"
         for i, change in enumerate(pokemon["evolution_changes"]):
             md += f"{i + 1}. {change}\n"
@@ -331,20 +343,11 @@ def to_md(pokemon: dict, pokemon_set: dict, logger: Logger) -> str:
     md += " | " + str(pokemon["base_happiness"])
     md += " | " + str(pokemon["base_experience"])
     md += " | " + pokemon["growth_rate"].title()
-    held_items = [
-        {
-            "name": revert_id(item["name"]),
-            "rarity": next(
-                (r["rarity"] for r in item["rarity"] if r["version"] in {"black", "white"}),
-                None,
-            ),
-        }
-        for item in pokemon["held_items"]
-    ]
+    held_items = pokemon["held_items"]
     if len(held_items) == 0:
         md += f" | N/A |\n\n"
     else:
-        items = [f"{item['name']} ({item['rarity']}%)" for item in held_items if item["rarity"]]
+        items = [f"{item['name']} ({item['rarity']['black']}%)" for item in held_items if "black" in item["rarity"]]
         md += f" | {'<br>'.join(items)} |\n\n"
 
     # Breeding

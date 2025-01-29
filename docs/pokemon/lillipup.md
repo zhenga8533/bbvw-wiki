@@ -1,4 +1,4 @@
-# #506 Lillipup (Puppy Pokémon)
+# Lillipup (Puppy Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -12,7 +12,7 @@
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -73,9 +73,6 @@ Lillipup has no alternate forms.
 
 
 
-
-
-### Evolution Changes
 
 
 ---

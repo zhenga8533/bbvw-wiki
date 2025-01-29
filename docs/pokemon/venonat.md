@@ -1,4 +1,4 @@
-# #048 Venonat (Insect Pokémon)
+# Venonat (Insect Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by 
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -69,9 +69,6 @@ Venonat has no alternate forms.
     1. Level Up: [Venomoth](venomoth.md/)
 
 
-
-
-### Evolution Changes
 
 
 ---

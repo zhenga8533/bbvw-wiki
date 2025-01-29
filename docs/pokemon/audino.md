@@ -1,4 +1,4 @@
-# #531 Audino (Hearing Pokémon)
+# Audino (Hearing Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -12,7 +12,7 @@
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -71,16 +71,13 @@ Audino has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 255 | 50 | 390 | Fast | Oran Berry (50%)<br>Sitrus Berry (5%) |
+| 2 Hp | 255 | 50 | 390 | Fast | oran-berry (50%)<br>sitrus-berry (5%) |
 
 ---
 

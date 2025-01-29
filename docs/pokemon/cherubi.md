@@ -1,4 +1,4 @@
-# #420 Cherubi (Cherry Pokémon)
+# Cherubi (Cherry Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ The small ball is not only filled with nutrients, it is also tasty. Starly try t
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -71,16 +71,13 @@ Cherubi has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack | 190 | 50 | 55 | Medium | Miracle Seed (5%) |
+| 1 Special Attack | 190 | 50 | 55 | Medium | miracle-seed (5%) |
 
 ---
 

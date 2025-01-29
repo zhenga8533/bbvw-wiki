@@ -1,4 +1,4 @@
-# #173 Cleffa (Star Shape Pokémon)
+# Cleffa (Star Shape Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ It is often seen when shooting stars fill the night skies. It’s said to arrive
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -73,16 +73,13 @@ Cleffa has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense | 150 | 200 | 44 | Fast | Moon Stone (5%)<br>Leppa Berry (50%)<br>Comet Shard (1%) |
+| 1 Special Defense | 150 | 200 | 44 | Fast | moon-stone (5%)<br>leppa-berry (50%)<br>comet-shard (1%) |
 
 ---
 

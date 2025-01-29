@@ -1,4 +1,4 @@
-# #172 Pichu (Tiny Mouse Pokémon)
+# Pichu (Tiny Mouse Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ The electric sacs in its cheeks are small. If even a little electricity leaks, i
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -73,16 +73,13 @@ Pichu has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 190 | 200 | 41 | Medium | Oran Berry (50%) |
+| 1 Speed | 190 | 200 | 41 | Medium | oran-berry (50%) |
 
 ---
 

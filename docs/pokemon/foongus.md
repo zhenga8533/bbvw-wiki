@@ -1,4 +1,4 @@
-# #590 Foongus (Mushroom Pokémon)
+# Foongus (Mushroom Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -12,7 +12,7 @@
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -73,16 +73,13 @@ Foongus has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp | 190 | 50 | 59 | Medium | Tiny Mushroom (50%)<br>Big Mushroom (5%)<br>Balm Mushroom (1%) |
+| 1 Hp | 190 | 50 | 59 | Medium | tiny-mushroom (50%)<br>big-mushroom (5%)<br>balm-mushroom (1%) |
 
 ---
 

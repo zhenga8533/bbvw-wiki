@@ -1,4 +1,4 @@
-# #283 Surskit (Pond Skater Pokémon)
+# Surskit (Pond Skater Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ It appears as if it is skating on water. It draws prey with a sweet scent from t
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -69,9 +69,6 @@ Surskit has no alternate forms.
     1. Level Up: [Masquerain](masquerain.md/)
 
 
-
-
-### Evolution Changes
 
 
 ---

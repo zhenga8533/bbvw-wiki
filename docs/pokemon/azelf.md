@@ -1,4 +1,4 @@
-# #482 Azelf (Willpower Pokémon)
+# Azelf (Willpower Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ When Azelf flew, people gained the determination to do things. It was the birth 
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -67,9 +67,6 @@ Azelf has no alternate forms.
 
 1. [Azelf](azelf.md/)
 
-
-
-### Evolution Changes
 
 
 ---

@@ -1,4 +1,4 @@
-# #265 Wurmple (Worm Pokémon)
+# Wurmple (Worm Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ Often targeted by bird Pokémon, it desperately resists by releasing poison from
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -75,9 +75,6 @@ Wurmple has no alternate forms.
 
 
 
-
-
-### Evolution Changes
 
 
 ---

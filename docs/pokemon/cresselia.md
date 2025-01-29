@@ -1,4 +1,4 @@
-# #488 Cresselia (Lunar Pokémon)
+# Cresselia (Lunar Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ On nights around the quarter moon, the aurora from its tail extends and undulate
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -67,9 +67,6 @@ Cresselia has no alternate forms.
 
 1. [Cresselia](cresselia.md/)
 
-
-
-### Evolution Changes
 
 
 ---

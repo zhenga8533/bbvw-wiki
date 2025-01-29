@@ -1,4 +1,4 @@
-# #535 Tympole (Tadpole Pokémon)
+# Tympole (Tadpole Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -12,7 +12,7 @@
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -75,16 +75,13 @@ Tympole has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 255 | 50 | 59 | Medium-Slow | Persim Berry (50%) |
+| 1 Speed | 255 | 50 | 59 | Medium-Slow | persim-berry (50%) |
 
 ---
 

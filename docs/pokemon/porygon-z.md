@@ -1,4 +1,4 @@
-# #474 Porygon Z (Virtual Pokémon)
+# Porygon Z (Virtual Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ Its programming was modified to enable work in alien dimensions. It did not work
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -67,13 +67,10 @@ Porygon Z has no alternate forms.
 
 1. [Porygon](porygon.md/)
     1. Trade: [Porygon2](porygon2.md/)
-        1. Trade: [Porygon-Z](porygon-z.md/)
+        1. Trade: [Porygon Z](porygon-z.md/)
 
 
 
-
-
-### Evolution Changes
 
 
 ---

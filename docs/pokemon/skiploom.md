@@ -1,4 +1,4 @@
-# #188 Skiploom (Cottonweed Pokémon)
+# Skiploom (Cottonweed Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ It blooms when the weather warms. It floats in the sky to soak up as much sunlig
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -71,9 +71,6 @@ Skiploom has no alternate forms.
 
 
 
-
-
-### Evolution Changes
 
 
 ---

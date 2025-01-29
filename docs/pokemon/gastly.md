@@ -1,4 +1,4 @@
-# #092 Gastly (Gas Pokémon)
+# Gastly (Gas Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ Born from gases, anyone would faint if engulfed by its gaseous body, which conta
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -71,9 +71,6 @@ Gastly has no alternate forms.
 
 
 
-
-
-### Evolution Changes
 
 
 ---

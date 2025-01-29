@@ -1,4 +1,4 @@
-# #480 Uxie (Knowledge Pokémon)
+# Uxie (Knowledge Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ When Uxie flew, people gained the ability to solve problems. It was the birth of
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -67,9 +67,6 @@ Uxie has no alternate forms.
 
 1. [Uxie](uxie.md/)
 
-
-
-### Evolution Changes
 
 
 ---

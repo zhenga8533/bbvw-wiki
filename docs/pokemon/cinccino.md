@@ -1,4 +1,4 @@
-# #573 Cinccino (Scarf Pokémon)
+# Cinccino (Scarf Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -12,7 +12,7 @@
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -73,16 +73,13 @@ Cinccino has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 60 | 50 | 165 | Fast | Chesto Berry (50%) |
+| 2 Speed | 60 | 50 | 165 | Fast | chesto-berry (50%) |
 
 ---
 

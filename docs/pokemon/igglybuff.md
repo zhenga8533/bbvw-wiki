@@ -1,4 +1,4 @@
-# #174 Igglybuff (Balloon Pokémon)
+# Igglybuff (Balloon Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ It has a soft and bouncy body. Once it starts bouncing, it becomes impossible to
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -71,9 +71,6 @@ Igglybuff has no alternate forms.
 
 
 
-
-
-### Evolution Changes
 
 
 ---

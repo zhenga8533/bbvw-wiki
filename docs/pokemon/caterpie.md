@@ -1,4 +1,4 @@
-# #010 Caterpie (Worm Pokémon)
+# Caterpie (Worm Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ It releases a stench from its red antenna to repel enemies. It grows by molting 
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -71,9 +71,6 @@ Caterpie has no alternate forms.
 
 
 
-
-
-### Evolution Changes
 
 
 ---

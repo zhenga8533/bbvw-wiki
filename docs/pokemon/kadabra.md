@@ -1,4 +1,4 @@
-# #064 Kadabra (Psi Pokémon)
+# Kadabra (Psi Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ It stares at its silver spoon to focus its mind. It emits more alpha waves while
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -89,7 +89,7 @@ Kadabra has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Attack | 100 | 50 | 140 | Medium-Slow | Twisted Spoon (5%) |
+| 2 Special Attack | 100 | 50 | 140 | Medium-Slow | twisted-spoon (5%) |
 
 ---
 

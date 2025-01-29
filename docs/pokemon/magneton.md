@@ -1,4 +1,4 @@
-# #082 Magneton (Magnet Pokémon)
+# Magneton (Magnet Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ Many mysteriously appear when more sunspots dot the sun. They stop TV sets from 
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -73,16 +73,13 @@ Magneton has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Attack | 60 | 50 | 163 | Medium | Metal Coat (5%) |
+| 2 Special Attack | 60 | 50 | 163 | Medium | metal-coat (5%) |
 
 ---
 

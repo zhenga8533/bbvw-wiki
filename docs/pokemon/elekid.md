@@ -1,4 +1,4 @@
-# #239 Elekid (Electric Pokémon)
+# Elekid (Electric Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ A weak electric current flows between its horns. Sticking a hand there shocks th
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -71,9 +71,6 @@ Elekid has no alternate forms.
 
 
 
-
-
-### Evolution Changes
 
 
 ---

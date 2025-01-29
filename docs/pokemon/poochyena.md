@@ -1,4 +1,4 @@
-# #261 Poochyena (Bite Pokémon)
+# Poochyena (Bite Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ A Pokémon with a persistent nature, it chases its chosen prey until the prey be
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -71,16 +71,13 @@ Poochyena has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 255 | 70 | 56 | Medium | Pecha Berry (5%) |
+| 1 Attack | 255 | 70 | 56 | Medium | pecha-berry (5%) |
 
 ---
 

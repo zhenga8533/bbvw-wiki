@@ -1,4 +1,4 @@
-# #414 Mothim (Moth Pokémon)
+# Mothim (Moth Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ While it loves floral honey, it won’t gather any itself. Instead, it plots to 
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -66,18 +66,15 @@ Mothim has no alternate forms.
 ### Evolution Line
 
 1. [Burmy](burmy.md/)
-    1. Level Up: [Wormadam-Plant](wormadam-plant.md/)
+    1. Level Up: [Wormadam Plant](wormadam-plant.md/)
 
-    1. Level Up: [Wormadam-Sandy](wormadam-sandy.md/)
+    1. Level Up: [Wormadam Sandy](wormadam-sandy.md/)
 
-    1. Level Up: [Wormadam-Trash](wormadam-trash.md/)
+    1. Level Up: [Wormadam Trash](wormadam-trash.md/)
 
     2. Level Up: [Mothim](mothim.md/)
 
 
-
-
-### Evolution Changes
 
 
 ---
@@ -86,7 +83,7 @@ Mothim has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack<br>1 Special Attack | 45 | 70 | 148 | Medium | Silver Powder (5%) |
+| 1 Attack<br>1 Special Attack | 45 | 70 | 148 | Medium | silver-powder (5%) |
 
 ---
 

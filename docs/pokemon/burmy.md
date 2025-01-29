@@ -1,4 +1,4 @@
-# #412 Burmy (Bagworm Pokémon)
+# Burmy (Bagworm Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,11 +10,23 @@ Even if it is born where there are no cocooning materials, it somehow always end
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
 | ![Front](../assets/sprites/burmy/front.gif) | ![Back](../assets/sprites/burmy/back.gif) | ![Front Shiny](../assets/sprites/burmy/front_shiny.gif) | ![Back Shiny](../assets/sprites/burmy/back_shiny.gif) |
+
+### Burmy Sandy Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/burmy-sandy/front.gif) | ![Back](../assets/sprites/burmy-sandy/back.gif) | ![Front Shiny](../assets/sprites/burmy-sandy/front_shiny.gif) | ![Back Shiny](../assets/sprites/burmy-sandy/back_shiny.gif) |
+
+### Burmy Trash Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/burmy-trash/front.gif) | ![Back](../assets/sprites/burmy-trash/back.gif) | ![Front Shiny](../assets/sprites/burmy-trash/front_shiny.gif) | ![Back Shiny](../assets/sprites/burmy-trash/back_shiny.gif) |
 
 ### Cries
 
@@ -66,18 +78,15 @@ Burmy has no alternate forms.
 ### Evolution Line
 
 1. [Burmy](burmy.md/)
-    1. Level Up: [Wormadam-Plant](wormadam-plant.md/)
+    1. Level Up: [Wormadam Plant](wormadam-plant.md/)
 
-    1. Level Up: [Wormadam-Sandy](wormadam-sandy.md/)
+    1. Level Up: [Wormadam Sandy](wormadam-sandy.md/)
 
-    1. Level Up: [Wormadam-Trash](wormadam-trash.md/)
+    1. Level Up: [Wormadam Trash](wormadam-trash.md/)
 
     2. Level Up: [Mothim](mothim.md/)
 
 
-
-
-### Evolution Changes
 
 
 ---

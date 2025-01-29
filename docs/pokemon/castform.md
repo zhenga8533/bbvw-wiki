@@ -1,4 +1,4 @@
-# #351 Castform (Weather Pokémon)
+# Castform (Weather Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ Its appearance changes with the weather. Recently, its molecules were found to b
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -61,15 +61,19 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-Castform has no alternate forms.
+1. [Castform](castform.md/)
+
+2. [Castform Sunny](castform-sunny.md/)
+
+3. [Castform Rainy](castform-rainy.md/)
+
+4. [Castform Snowy](castform-snowy.md/)
+
 
 ### Evolution Line
 
 1. [Castform](castform.md/)
 
-
-
-### Evolution Changes
 
 
 ---
@@ -78,7 +82,7 @@ Castform has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp | 45 | 70 | 147 | Medium | Mystic Water (100%) |
+| 1 Hp | 45 | 70 | 147 | Medium | mystic-water (100%) |
 
 ---
 

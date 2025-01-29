@@ -1,4 +1,4 @@
-# #189 Jumpluff (Cottonweed Pokémon)
+# Jumpluff (Cottonweed Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ Blown by seasonal winds, it circles the globe, scattering cotton spores as it go
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -71,9 +71,6 @@ Jumpluff has no alternate forms.
 
 
 
-
-
-### Evolution Changes
 
 
 ---

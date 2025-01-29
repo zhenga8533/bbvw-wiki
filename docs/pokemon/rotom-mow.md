@@ -10,7 +10,7 @@ Its electric-like body can enter some kinds of machines and take control in orde
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -56,24 +56,21 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 1. [Rotom](rotom.md/)
 
-2. [Rotom-Heat](rotom-heat.md/)
+2. [Rotom Heat](rotom-heat.md/)
 
-3. [Rotom-Wash](rotom-wash.md/)
+3. [Rotom Wash](rotom-wash.md/)
 
-4. [Rotom-Frost](rotom-frost.md/)
+4. [Rotom Frost](rotom-frost.md/)
 
-5. [Rotom-Fan](rotom-fan.md/)
+5. [Rotom Fan](rotom-fan.md/)
 
-6. [Rotom-Mow](rotom-mow.md/)
+6. [Rotom Mow](rotom-mow.md/)
 
 
 ### Evolution Line
 
 1. [Rotom](rotom.md/)
 
-
-
-### Evolution Changes
 
 
 ---

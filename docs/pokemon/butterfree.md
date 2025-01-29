@@ -1,4 +1,4 @@
-# #012 Butterfree (Butterfly Pokémon)
+# Butterfree (Butterfly Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ It loves the honey of flowers and can locate flower patches that have even tiny 
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -79,16 +79,13 @@ Butterfree has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Attack<br>1 Special Defense | 45 | 50 | 198 | Medium | Silver Powder (5%) |
+| 2 Special Attack<br>1 Special Defense | 45 | 50 | 198 | Medium | silver-powder (5%) |
 
 ---
 

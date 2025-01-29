@@ -1,4 +1,4 @@
-# #133 Eevee (Evolution Pokémon)
+# Eevee (Evolution Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ Because its genetic makeup is irregular, it quickly changes its form due to a va
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -81,9 +81,6 @@ Eevee has no alternate forms.
     7. Use Item: [Glaceon](glaceon.md/)
 
 
-
-
-### Evolution Changes
 
 
 ---

@@ -1,4 +1,4 @@
-# #536 Palpitoad (Vibration Pokémon)
+# Palpitoad (Vibration Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -12,7 +12,7 @@
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -75,16 +75,13 @@ Palpitoad has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 120 | 50 | 134 | Medium-Slow | Persim Berry (50%) |
+| 2 Hp | 120 | 50 | 134 | Medium-Slow | persim-berry (50%) |
 
 ---
 

@@ -1,4 +1,4 @@
-# #522 Blitzle (Electrified Pokémon)
+# Blitzle (Electrified Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -12,7 +12,7 @@
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -73,16 +73,13 @@ Blitzle has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 190 | 70 | 59 | Medium | Cheri Berry (50%) |
+| 1 Speed | 190 | 70 | 59 | Medium | cheri-berry (50%) |
 
 ---
 

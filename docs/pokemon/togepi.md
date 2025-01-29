@@ -1,4 +1,4 @@
-# #175 Togepi (Spike Ball Pokémon)
+# Togepi (Spike Ball Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ It transforms the kindness and joy of others into happiness, which it stores in 
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -71,9 +71,6 @@ Togepi has no alternate forms.
 
 
 
-
-
-### Evolution Changes
 
 
 ---

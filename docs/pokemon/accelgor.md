@@ -1,4 +1,4 @@
-# #617 Accelgor (Shell Out Pokémon)
+# Accelgor (Shell Out Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -12,7 +12,7 @@
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -71,9 +71,6 @@ Accelgor has no alternate forms.
     1. Trade: [Accelgor](accelgor.md/)
 
 
-
-
-### Evolution Changes
 
 
 ---

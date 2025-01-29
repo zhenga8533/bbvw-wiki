@@ -1,4 +1,4 @@
-# #285 Shroomish (Mushroom Pokémon)
+# Shroomish (Mushroom Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ It spouts poison spores from the top of its head. These spores cause pain all ov
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -71,16 +71,13 @@ Shroomish has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp | 255 | 70 | 59 | Fast-Then-Very-Slow | Kebia Berry (5%) |
+| 1 Hp | 255 | 70 | 59 | Fast-Then-Very-Slow | kebia-berry (5%) |
 
 ---
 

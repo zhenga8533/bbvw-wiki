@@ -1,4 +1,4 @@
-# #572 Minccino (Chinchilla Pokémon)
+# Minccino (Chinchilla Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -12,7 +12,7 @@
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -73,16 +73,13 @@ Minccino has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 255 | 50 | 60 | Fast | Chesto Berry (50%) |
+| 1 Speed | 255 | 50 | 60 | Fast | chesto-berry (50%) |
 
 ---
 

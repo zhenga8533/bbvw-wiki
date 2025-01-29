@@ -1,4 +1,4 @@
-# #097 Hypno (Hypnosis Pokémon)
+# Hypno (Hypnosis Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ Seeing its swinging pendulum can induce sleep in three seconds, even in someone 
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -75,9 +75,6 @@ Hypno has no alternate forms.
     1. Level Up: [Hypno](hypno.md/)
 
 
-
-
-### Evolution Changes
 
 
 ---

@@ -1,4 +1,4 @@
-# #193 Yanma (Clear Wing Pokémon)
+# Yanma (Clear Wing Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ It can hover in one spot by flapping its wings at high speed. It flits about to 
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -71,16 +71,13 @@ Yanma has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 75 | 70 | 78 | Medium | Wide Lens (5%) |
+| 1 Speed | 75 | 70 | 78 | Medium | wide-lens (5%) |
 
 ---
 

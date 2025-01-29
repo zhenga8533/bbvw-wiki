@@ -1,4 +1,4 @@
-# #615 Cryogonal (Crystallizing Pokémon)
+# Cryogonal (Crystallizing Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -12,7 +12,7 @@
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -71,16 +71,13 @@ Cryogonal has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Defense | 25 | 50 | 180 | Medium | Never Melt Ice (5%) |
+| 2 Special Defense | 25 | 50 | 180 | Medium | never-melt-ice (5%) |
 
 ---
 

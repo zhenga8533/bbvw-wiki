@@ -1,4 +1,4 @@
-# #147 Dratini (Dragon Pokémon)
+# Dratini (Dragon Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ It is called the “Mirage Pokémon” because so few have seen it. Its shed ski
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -73,16 +73,13 @@ Dratini has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 45 | 35 | 60 | Slow | Dragon Scale (5%) |
+| 1 Attack | 45 | 35 | 60 | Slow | dragon-scale (5%) |
 
 ---
 

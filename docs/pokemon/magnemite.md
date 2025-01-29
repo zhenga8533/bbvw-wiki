@@ -1,4 +1,4 @@
-# #081 Magnemite (Magnet Pokémon)
+# Magnemite (Magnet Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ The faster the units at its sides rotate, the greater the magnetic force they ge
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -73,16 +73,13 @@ Magnemite has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack | 190 | 50 | 65 | Medium | Metal Coat (5%) |
+| 1 Special Attack | 190 | 50 | 65 | Medium | metal-coat (5%) |
 
 ---
 

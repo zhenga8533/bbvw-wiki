@@ -1,4 +1,4 @@
-# #038 Ninetales (Fox Pokémon)
+# Ninetales (Fox Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ Its nine tails are said to be imbued with a mystic power. It can live for a thou
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -71,16 +71,13 @@ Ninetales has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense<br>1 Speed | 75 | 50 | 177 | Medium | Rawst Berry (100%) |
+| 1 Special Defense<br>1 Speed | 75 | 50 | 177 | Medium | rawst-berry (100%) |
 
 ---
 

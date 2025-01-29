@@ -1,4 +1,4 @@
-# #179 Mareep (Wool Pokémon)
+# Mareep (Wool Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ Its fluffy coat swells to double when static electricity builds up. Touching it 
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -71,9 +71,6 @@ Mareep has no alternate forms.
 
 
 
-
-
-### Evolution Changes
 
 
 ---

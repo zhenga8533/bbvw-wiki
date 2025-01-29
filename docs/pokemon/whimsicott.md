@@ -1,4 +1,4 @@
-# #547 Whimsicott (Windveiled Pokémon)
+# Whimsicott (Windveiled Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -12,7 +12,7 @@
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -71,9 +71,6 @@ Whimsicott has no alternate forms.
     1. Use Item: [Whimsicott](whimsicott.md/)
 
 
-
-
-### Evolution Changes
 
 
 ---

@@ -1,4 +1,4 @@
-# #355 Duskull (Requiem Pokémon)
+# Duskull (Requiem Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ It loves the crying of children. It startles bad kids by passing through walls a
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -73,16 +73,13 @@ Duskull has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense | 190 | 35 | 59 | Fast | Kasib Berry (5%) |
+| 1 Special Defense | 190 | 35 | 59 | Fast | kasib-berry (5%) |
 
 ---
 

@@ -1,4 +1,4 @@
-# #401 Kricketot (Cricket Pokémon)
+# Kricketot (Cricket Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ Its legs are short. Whenever it stumbles, its stiff antennae clack with a xyloph
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -77,16 +77,13 @@ Kricketot has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 255 | 70 | 39 | Medium-Slow | Metronome (5%) |
+| 1 Defense | 255 | 70 | 39 | Medium-Slow | metronome (5%) |
 
 ---
 

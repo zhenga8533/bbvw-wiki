@@ -1,4 +1,4 @@
-# #481 Mesprit (Emotion Pokémon)
+# Mesprit (Emotion Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ When Mesprit flew, people learned the joy and sadness of living. It was the birt
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -67,9 +67,6 @@ Mesprit has no alternate forms.
 
 1. [Mesprit](mesprit.md/)
 
-
-
-### Evolution Changes
 
 
 ---

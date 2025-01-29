@@ -1,4 +1,4 @@
-# #124 Jynx (Human Shape Pokémon)
+# Jynx (Human Shape Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ Its cries sound like human speech. However, it is impossible to tell what it is 
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -71,16 +71,13 @@ Jynx has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Attack | 45 | 50 | 159 | Medium | Aspear Berry (100%) |
+| 2 Special Attack | 45 | 50 | 159 | Medium | aspear-berry (100%) |
 
 ---
 

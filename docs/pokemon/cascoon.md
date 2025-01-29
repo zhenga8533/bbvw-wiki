@@ -1,4 +1,4 @@
-# #268 Cascoon (Cocoon Pokémon)
+# Cascoon (Cocoon Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ It never forgets any attack it endured while in the cocoon. After evolution, it 
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |

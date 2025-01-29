@@ -1,4 +1,4 @@
-# #354 Banette (Marionette Pokémon)
+# Banette (Marionette Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ A doll that became a Pokémon over its grudge from being junked. It seeks the ch
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -71,16 +71,13 @@ Banette has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 45 | 35 | 159 | Fast | Spell Tag (5%) |
+| 2 Attack | 45 | 35 | 159 | Fast | spell-tag (5%) |
 
 ---
 

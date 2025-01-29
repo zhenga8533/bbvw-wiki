@@ -1,4 +1,4 @@
-# #360 Wynaut (Bright Pokémon)
+# Wynaut (Bright Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ It grows strong by pushing up against others en masse. It loves eating sweet fru
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -69,9 +69,6 @@ Wynaut has no alternate forms.
     1. Level Up: [Wobbuffet](wobbuffet.md/)
 
 
-
-
-### Evolution Changes
 
 
 ---

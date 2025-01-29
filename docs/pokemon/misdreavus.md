@@ -1,4 +1,4 @@
-# #200 Misdreavus (Screech Pokémon)
+# Misdreavus (Screech Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ A Pokémon that startles people in the middle of the night. It gathers fear as i
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -69,9 +69,6 @@ Misdreavus has no alternate forms.
     1. Use Item: [Mismagius](mismagius.md/)
 
 
-
-
-### Evolution Changes
 
 
 ---

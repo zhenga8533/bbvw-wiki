@@ -1,4 +1,4 @@
-# #011 Metapod (Cocoon Pokémon)
+# Metapod (Cocoon Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ A steel-hard shell protects its tender body. It quietly endures hardships while 
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -71,9 +71,6 @@ Metapod has no alternate forms.
 
 
 
-
-
-### Evolution Changes
 
 
 ---

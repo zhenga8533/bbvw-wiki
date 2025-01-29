@@ -1,4 +1,4 @@
-# #563 Cofagrigus (Coffin Pokémon)
+# Cofagrigus (Coffin Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -12,7 +12,7 @@
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -73,16 +73,13 @@ Cofagrigus has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Defense | 90 | 50 | 169 | Medium | Spell Tag (5%) |
+| 2 Defense | 90 | 50 | 169 | Medium | spell-tag (5%) |
 
 ---
 

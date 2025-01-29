@@ -1,4 +1,4 @@
-# #569 Garbodor (Trash Heap Pokémon)
+# Garbodor (Trash Heap Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -12,7 +12,7 @@
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -73,16 +73,13 @@ Garbodor has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 60 | 50 | 166 | Medium | Nugget (5%)<br>Black Sludge (50%)<br>Big Nugget (1%) |
+| 2 Attack | 60 | 50 | 166 | Medium | nugget (5%)<br>black-sludge (50%)<br>big-nugget (1%) |
 
 ---
 

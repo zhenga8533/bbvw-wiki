@@ -1,4 +1,4 @@
-# #063 Abra (Psi Pokémon)
+# Abra (Psi Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ Using its psychic power is such a strain on its brain that it needs to sleep for
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -73,16 +73,13 @@ Abra has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack | 200 | 50 | 62 | Medium-Slow | Twisted Spoon (5%) |
+| 1 Special Attack | 200 | 50 | 62 | Medium-Slow | twisted-spoon (5%) |
 
 ---
 

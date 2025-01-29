@@ -1,4 +1,4 @@
-# #544 Whirlipede (Curlipede Pokémon)
+# Whirlipede (Curlipede Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -12,7 +12,7 @@
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -75,16 +75,13 @@ Whirlipede has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Defense | 120 | 50 | 126 | Medium-Slow | Pecha Berry (50%)<br>Poison Barb (5%) |
+| 2 Defense | 120 | 50 | 126 | Medium-Slow | pecha-berry (50%)<br>poison-barb (5%) |
 
 ---
 

@@ -1,4 +1,4 @@
-# #492 Shaymin Land (Gratitude Pokémon)
+# Shaymin Land (Gratitude Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ The flowers all over its body burst into bloom if it is lovingly hugged and sens
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -61,20 +61,17 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Shaymin-Land](shaymin-land.md/)
+1. [Shaymin Land](shaymin-land.md/)
 
-2. [Shaymin-Sky](shaymin-sky.md/)
+2. [Shaymin Sky](shaymin-sky.md/)
 
 
 ### Evolution Line
 
-1. [Shaymin-Land](shaymin-land.md/)
+1. [Shaymin Land](shaymin-land.md/)
 
-1. [Shaymin-Sky](shaymin-sky.md/)
+1. [Shaymin Sky](shaymin-sky.md/)
 
-
-
-### Evolution Changes
 
 
 ---
@@ -83,7 +80,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Hp | 45 | 100 | 270 | Medium-Slow | Lum Berry (100%) |
+| 3 Hp | 45 | 100 | 270 | Medium-Slow | lum-berry (100%) |
 
 ---
 

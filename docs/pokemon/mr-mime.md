@@ -1,4 +1,4 @@
-# #122 Mr Mime (Barrier Pokémon)
+# Mr Mime (Barrier Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ It shapes an invisible wall in midair by minutely vibrating its fingertips to st
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -65,13 +65,10 @@ Mr Mime has no alternate forms.
 
 ### Evolution Line
 
-1. [Mime-Jr](mime-jr.md/)
-    1. Level Up: [Mr-Mime](mr-mime.md/)
+1. [Mime Jr](mime-jr.md/)
+    1. Level Up: [Mr Mime](mr-mime.md/)
 
 
-
-
-### Evolution Changes
 
 
 ---
@@ -80,7 +77,7 @@ Mr Mime has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Defense | 45 | 50 | 161 | Medium | Leppa Berry (5%) |
+| 2 Special Defense | 45 | 50 | 161 | Medium | leppa-berry (5%) |
 
 ---
 

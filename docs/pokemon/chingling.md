@@ -1,4 +1,4 @@
-# #433 Chingling (Bell Pokémon)
+# Chingling (Bell Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ There is an orb inside its mouth. When it hops, the orb bounces all over and mak
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -71,16 +71,13 @@ Chingling has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack | 120 | 200 | 57 | Fast | Colbur Berry (5%) |
+| 1 Special Attack | 120 | 200 | 57 | Fast | colbur-berry (5%) |
 
 ---
 

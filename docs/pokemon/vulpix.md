@@ -1,4 +1,4 @@
-# #037 Vulpix (Fox Pokémon)
+# Vulpix (Fox Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ It controls balls of fire. As it grows, its six tails split from their tips to m
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -71,16 +71,13 @@ Vulpix has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 190 | 50 | 60 | Medium | Rawst Berry (100%) |
+| 1 Speed | 190 | 50 | 60 | Medium | rawst-berry (100%) |
 
 ---
 

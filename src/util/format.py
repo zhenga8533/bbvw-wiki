@@ -130,18 +130,30 @@ def verify_pokemon_form(id: str, logger: Logger) -> bool:
     """
 
     pokemon_with_forms = [
-        "wormadam",
-        "shaymin",
-        "giratina",
-        "rotom",
+        "unown",
         "deoxys",
+        "castform",
+        "burmy",
+        "wormadam",
+        "cherrim",
+        "shellos",
+        "gastrodon",
+        "rotom",
+        "giratina",
+        "shaymin",
+        "arceus",
         "basculin",
         "darmanitan",
-        "keldeo",
-        "meloetta",
+        "deerling",
+        "sawsbuck",
         "tornadus",
         "thundurus",
         "landorus",
+        "keldeo",
+        "meloetta",
+        "genesect",
+        "kyurem",
+        "darmanitan",
     ]
     illegal_forms = ["white-striped", "galar"]
 

@@ -10,7 +10,7 @@ When evolving, its body takes in surrounding materials. As a result, there are m
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -54,28 +54,25 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 ### Forms
 
-1. [Wormadam-Plant](wormadam-plant.md/)
+1. [Wormadam Plant](wormadam-plant.md/)
 
-2. [Wormadam-Sandy](wormadam-sandy.md/)
+2. [Wormadam Sandy](wormadam-sandy.md/)
 
-3. [Wormadam-Trash](wormadam-trash.md/)
+3. [Wormadam Trash](wormadam-trash.md/)
 
 
 ### Evolution Line
 
 1. [Burmy](burmy.md/)
-    1. Level Up: [Wormadam-Plant](wormadam-plant.md/)
+    1. Level Up: [Wormadam Plant](wormadam-plant.md/)
 
-    1. Level Up: [Wormadam-Sandy](wormadam-sandy.md/)
+    1. Level Up: [Wormadam Sandy](wormadam-sandy.md/)
 
-    1. Level Up: [Wormadam-Trash](wormadam-trash.md/)
+    1. Level Up: [Wormadam Trash](wormadam-trash.md/)
 
     2. Level Up: [Mothim](mothim.md/)
 
 
-
-
-### Evolution Changes
 
 
 ---
@@ -84,7 +81,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense<br>1 Special Defense | 45 | 70 | 148 | Medium | Silver Powder (5%) |
+| 1 Defense<br>1 Special Defense | 45 | 70 | 148 | Medium | silver-powder (5%) |
 
 ---
 

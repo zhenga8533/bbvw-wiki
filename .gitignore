@@ -1,9 +1,9 @@
 logs/
 markdown/
 src/cries/
-src/data/
 src/moves/
 src/pokemon/
+src/pokemon_markdown/
 src/sprites/
 src/wild_encounters/
 

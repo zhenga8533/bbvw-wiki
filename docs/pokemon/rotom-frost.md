@@ -10,7 +10,7 @@ Its electric-like body can enter some kinds of machines and take control in orde
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -56,24 +56,21 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 1. [Rotom](rotom.md/)
 
-2. [Rotom-Heat](rotom-heat.md/)
+2. [Rotom Heat](rotom-heat.md/)
 
-3. [Rotom-Wash](rotom-wash.md/)
+3. [Rotom Wash](rotom-wash.md/)
 
-4. [Rotom-Frost](rotom-frost.md/)
+4. [Rotom Frost](rotom-frost.md/)
 
-5. [Rotom-Fan](rotom-fan.md/)
+5. [Rotom Fan](rotom-fan.md/)
 
-6. [Rotom-Mow](rotom-mow.md/)
+6. [Rotom Mow](rotom-mow.md/)
 
 
 ### Evolution Line
 
 1. [Rotom](rotom.md/)
 
-
-
-### Evolution Changes
 
 
 ---
@@ -106,7 +103,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Astonish | ![ghost](../assets/types/ghost.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 30 | 100 | 15 |
 | 1 | Confuse Ray | ![ghost](../assets/types/ghost.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 10 |
-| 1 | Glaciate | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 100 | 100 | 10 |
+| 1 | Glaciate | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 65 | 95 | 10 |
 | 1 | Signal Beam | ![bug](../assets/types/bug.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 75 | 100 | 15 |
 | 1 | Thunder Shock | ![electric](../assets/types/electric.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 40 | 100 | 30 |
 | 1 | Thunder Wave | ![electric](../assets/types/electric.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 20 |

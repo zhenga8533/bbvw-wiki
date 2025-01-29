@@ -1,4 +1,4 @@
-# #167 Spinarak (String Spit Pokémon)
+# Spinarak (String Spit Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ It sets a trap by spinning a web with thin but strong silk. It waits motionlessl
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -69,9 +69,6 @@ Spinarak has no alternate forms.
     1. Level Up: [Ariados](ariados.md/)
 
 
-
-
-### Evolution Changes
 
 
 ---

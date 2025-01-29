@@ -1,4 +1,4 @@
-# #421 Cherrim (Blossom Pokémon)
+# Cherrim (Blossom Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,11 +10,17 @@ If it senses strong sunlight, it opens its folded petals to absorb the sun’s r
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
 | ![Front](../assets/sprites/cherrim/front.gif) | ![Back](../assets/sprites/cherrim/back.gif) | ![Front Shiny](../assets/sprites/cherrim/front_shiny.gif) | ![Back Shiny](../assets/sprites/cherrim/back_shiny.gif) |
+
+### Cherrim Sunshine Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/cherrim-sunshine/front.gif) | ![Back](../assets/sprites/cherrim-sunshine/back.gif) | ![Front Shiny](../assets/sprites/cherrim-sunshine/front_shiny.gif) | ![Back Shiny](../assets/sprites/cherrim-sunshine/back_shiny.gif) |
 
 ### Cries
 
@@ -71,16 +77,13 @@ Cherrim has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Attack | 75 | 50 | 158 | Medium | Miracle Seed (5%) |
+| 2 Special Attack | 75 | 50 | 158 | Medium | miracle-seed (5%) |
 
 ---
 

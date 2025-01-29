@@ -1,4 +1,4 @@
-# #129 Magikarp (Fish Pokémon)
+# Magikarp (Fish Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ A Magikarp living for many years can leap a mountain using Splash. The move rema
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -75,9 +75,6 @@ Magikarp has no alternate forms.
     1. Level Up: [Gyarados](gyarados.md/)
 
 
-
-
-### Evolution Changes
 
 
 ---

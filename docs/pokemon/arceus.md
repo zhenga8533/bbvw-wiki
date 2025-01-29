@@ -1,4 +1,4 @@
-# #493 Arceus (Alpha Pokémon)
+# Arceus (Alpha Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,11 +10,113 @@ It is said to have emerged from an egg in a place where there was nothing, then 
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
 | ![Front](../assets/sprites/arceus/front.gif) | ![Back](../assets/sprites/arceus/back.gif) | ![Front Shiny](../assets/sprites/arceus/front_shiny.gif) | ![Back Shiny](../assets/sprites/arceus/back_shiny.gif) |
+
+### Arceus Bug Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/arceus-bug/front.gif) | ![Back](../assets/sprites/arceus-bug/back.gif) | ![Front Shiny](../assets/sprites/arceus-bug/front_shiny.gif) | ![Back Shiny](../assets/sprites/arceus-bug/back_shiny.gif) |
+
+### Arceus Dark Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/arceus-dark/front.gif) | ![Back](../assets/sprites/arceus-dark/back.gif) | ![Front Shiny](../assets/sprites/arceus-dark/front_shiny.gif) | ![Back Shiny](../assets/sprites/arceus-dark/back_shiny.gif) |
+
+### Arceus Dragon Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/arceus-dragon/front.gif) | ![Back](../assets/sprites/arceus-dragon/back.gif) | ![Front Shiny](../assets/sprites/arceus-dragon/front_shiny.gif) | ![Back Shiny](../assets/sprites/arceus-dragon/back_shiny.gif) |
+
+### Arceus Electric Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/arceus-electric/front.gif) | ![Back](../assets/sprites/arceus-electric/back.gif) | ![Front Shiny](../assets/sprites/arceus-electric/front_shiny.gif) | ![Back Shiny](../assets/sprites/arceus-electric/back_shiny.gif) |
+
+### Arceus Fighting Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/arceus-fighting/front.gif) | ![Back](../assets/sprites/arceus-fighting/back.gif) | ![Front Shiny](../assets/sprites/arceus-fighting/front_shiny.gif) | ![Back Shiny](../assets/sprites/arceus-fighting/back_shiny.gif) |
+
+### Arceus Fire Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/arceus-fire/front.gif) | ![Back](../assets/sprites/arceus-fire/back.gif) | ![Front Shiny](../assets/sprites/arceus-fire/front_shiny.gif) | ![Back Shiny](../assets/sprites/arceus-fire/back_shiny.gif) |
+
+### Arceus Flying Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/arceus-flying/front.gif) | ![Back](../assets/sprites/arceus-flying/back.gif) | ![Front Shiny](../assets/sprites/arceus-flying/front_shiny.gif) | ![Back Shiny](../assets/sprites/arceus-flying/back_shiny.gif) |
+
+### Arceus Ghost Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/arceus-ghost/front.gif) | ![Back](../assets/sprites/arceus-ghost/back.gif) | ![Front Shiny](../assets/sprites/arceus-ghost/front_shiny.gif) | ![Back Shiny](../assets/sprites/arceus-ghost/back_shiny.gif) |
+
+### Arceus Grass Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/arceus-grass/front.gif) | ![Back](../assets/sprites/arceus-grass/back.gif) | ![Front Shiny](../assets/sprites/arceus-grass/front_shiny.gif) | ![Back Shiny](../assets/sprites/arceus-grass/back_shiny.gif) |
+
+### Arceus Ground Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/arceus-ground/front.gif) | ![Back](../assets/sprites/arceus-ground/back.gif) | ![Front Shiny](../assets/sprites/arceus-ground/front_shiny.gif) | ![Back Shiny](../assets/sprites/arceus-ground/back_shiny.gif) |
+
+### Arceus Ice Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/arceus-ice/front.gif) | ![Back](../assets/sprites/arceus-ice/back.gif) | ![Front Shiny](../assets/sprites/arceus-ice/front_shiny.gif) | ![Back Shiny](../assets/sprites/arceus-ice/back_shiny.gif) |
+
+### Arceus Poison Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/arceus-poison/front.gif) | ![Back](../assets/sprites/arceus-poison/back.gif) | ![Front Shiny](../assets/sprites/arceus-poison/front_shiny.gif) | ![Back Shiny](../assets/sprites/arceus-poison/back_shiny.gif) |
+
+### Arceus Psychic Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/arceus-psychic/front.gif) | ![Back](../assets/sprites/arceus-psychic/back.gif) | ![Front Shiny](../assets/sprites/arceus-psychic/front_shiny.gif) | ![Back Shiny](../assets/sprites/arceus-psychic/back_shiny.gif) |
+
+### Arceus Rock Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/arceus-rock/front.gif) | ![Back](../assets/sprites/arceus-rock/back.gif) | ![Front Shiny](../assets/sprites/arceus-rock/front_shiny.gif) | ![Back Shiny](../assets/sprites/arceus-rock/back_shiny.gif) |
+
+### Arceus Steel Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/arceus-steel/front.gif) | ![Back](../assets/sprites/arceus-steel/back.gif) | ![Front Shiny](../assets/sprites/arceus-steel/front_shiny.gif) | ![Back Shiny](../assets/sprites/arceus-steel/back_shiny.gif) |
+
+### Arceus Water Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/arceus-water/front.gif) | ![Back](../assets/sprites/arceus-water/back.gif) | ![Front Shiny](../assets/sprites/arceus-water/front_shiny.gif) | ![Back Shiny](../assets/sprites/arceus-water/back_shiny.gif) |
+
+### Arceus Fairy Sprites
+
+| Front | Back | Front Shiny | Back Shiny |
+| --- | --- | --- | --- |
+| ![Front](../assets/sprites/arceus-fairy/front.gif) | ![Back](../assets/sprites/arceus-fairy/back.gif) | ![Front Shiny](../assets/sprites/arceus-fairy/front_shiny.gif) | ![Back Shiny](../assets/sprites/arceus-fairy/back_shiny.gif) |
 
 ### Cries
 
@@ -69,9 +171,6 @@ Arceus has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
@@ -119,10 +218,10 @@ Arceus has no alternate forms.
 
 | TM | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| HM01 | Cut | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 20 |
-| HM02 | Fly | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 15 |
+| HM01 | Cut | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 50 | 95 | 30 |
+| HM02 | Fly | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 90 | 95 | 15 |
 | HM03 | Surf | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
-| HM04 | Strength | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
+| HM04 | Strength | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 100 | 15 |
 | HM05 | Waterfall | ![water](../assets/types/water.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
 | TM01 | Hone Claws | ![dark](../assets/types/dark.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
 | TM02 | Dragon Claw | ![dragon](../assets/types/dragon.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 100 | 15 |
@@ -179,7 +278,7 @@ Arceus has no alternate forms.
 | TM75 | Swords Dance | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
 | TM77 | Psych Up | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
 | TM78 | Bulldoze | ![ground](../assets/types/ground.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 100 | 20 |
-| TM80 | Rock Slide | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 95 | 10 |
+| TM80 | Rock Slide | ![rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 75 | 90 | 10 |
 | TM81 | X Scissor | ![bug](../assets/types/bug.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 100 | 15 |
 | TM83 | Work Up | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 30 |
 | TM84 | Poison Jab | ![poison](../assets/types/poison.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 100 | 20 |

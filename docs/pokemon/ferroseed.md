@@ -1,4 +1,4 @@
-# #597 Ferroseed (Thorn Seed Pokémon)
+# Ferroseed (Thorn Seed Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -12,7 +12,7 @@
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -73,16 +73,13 @@ Ferroseed has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 255 | 50 | 61 | Medium | Sticky Barb (5%) |
+| 1 Defense | 255 | 50 | 61 | Medium | sticky-barb (5%) |
 
 ---
 

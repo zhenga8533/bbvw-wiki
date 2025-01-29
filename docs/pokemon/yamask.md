@@ -1,4 +1,4 @@
-# #562 Yamask (Spirit Pokémon)
+# Yamask (Spirit Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -12,7 +12,7 @@
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -73,16 +73,13 @@ Yamask has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 190 | 50 | 61 | Medium | Spell Tag (5%) |
+| 1 Defense | 190 | 50 | 61 | Medium | spell-tag (5%) |
 
 ---
 

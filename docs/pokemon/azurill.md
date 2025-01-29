@@ -1,4 +1,4 @@
-# #298 Azurill (Polka Dot Pokémon)
+# Azurill (Polka Dot Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ Its tail bounces like a rubber ball. It flings that tail around to fight opponen
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -71,9 +71,6 @@ Azurill has no alternate forms.
 
 
 
-
-
-### Evolution Changes
 
 
 ---

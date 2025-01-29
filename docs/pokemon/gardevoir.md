@@ -1,4 +1,4 @@
-# #282 Gardevoir (Embrace Pokémon)
+# Gardevoir (Embrace Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ To protect its Trainer, it will expend all its psychic power to create a small b
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -73,9 +73,6 @@ Gardevoir has no alternate forms.
 
 
 
-
-
-### Evolution Changes
 
 
 ---

@@ -1,4 +1,4 @@
-# #013 Weedle (Hairy Bug Pokémon)
+# Weedle (Hairy Bug Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ It eats its weight in leaves every day. It fends off attackers with the needle o
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -71,9 +71,6 @@ Weedle has no alternate forms.
 
 
 
-
-
-### Evolution Changes
 
 
 ---

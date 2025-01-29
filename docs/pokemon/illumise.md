@@ -1,4 +1,4 @@
-# #314 Illumise (Firefly Pokémon)
+# Illumise (Firefly Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ With its sweet aroma, it guides Volbeat to draw signs with light in the night sk
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -67,9 +67,6 @@ Illumise has no alternate forms.
 
 1. [Illumise](illumise.md/)
 
-
-
-### Evolution Changes
 
 
 ---

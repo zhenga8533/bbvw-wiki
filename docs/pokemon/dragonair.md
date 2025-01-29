@@ -1,4 +1,4 @@
-# #148 Dragonair (Dragon Pokémon)
+# Dragonair (Dragon Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ If its body takes on an aura, the weather changes instantly. It is said to live 
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -73,16 +73,13 @@ Dragonair has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 45 | 35 | 147 | Slow | Dragon Scale (5%) |
+| 2 Attack | 45 | 35 | 147 | Slow | dragon-scale (5%) |
 
 ---
 

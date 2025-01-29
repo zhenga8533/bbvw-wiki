@@ -1,4 +1,4 @@
-# #280 Ralts (Feeling Pokémon)
+# Ralts (Feeling Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ If its horns capture the warm feelings of people or Pokémon, its body warms up 
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -73,9 +73,6 @@ Ralts has no alternate forms.
 
 
 
-
-
-### Evolution Changes
 
 
 ---

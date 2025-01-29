@@ -1,4 +1,4 @@
-# #494 Victini (Victory Pokémon)
+# Victini (Victory Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -12,7 +12,7 @@
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -69,9 +69,6 @@ Victini has no alternate forms.
 
 1. [Victini](victini.md/)
 
-
-
-### Evolution Changes
 
 
 ---

@@ -1,4 +1,4 @@
-# #440 Happiny (Playhouse Pokémon)
+# Happiny (Playhouse Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ It likes to carry around a small rock. It may wander around others’ feet and c
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -83,7 +83,7 @@ Happiny has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp | 130 | 160 | 110 | Fast | Oval Stone (50%)<br>Lucky Egg (5%) |
+| 1 Hp | 130 | 160 | 110 | Fast | oval-stone (50%)<br>lucky-egg (5%) |
 
 ---
 

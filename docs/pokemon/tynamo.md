@@ -1,4 +1,4 @@
-# #602 Tynamo (EleFish Pokémon)
+# Tynamo (EleFish Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -12,7 +12,7 @@
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -73,9 +73,6 @@ Tynamo has no alternate forms.
 
 
 
-
-
-### Evolution Changes
 
 
 ---

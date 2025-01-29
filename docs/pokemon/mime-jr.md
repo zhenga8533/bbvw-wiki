@@ -1,4 +1,4 @@
-# #439 Mime Jr (Mime Pokémon)
+# Mime Jr (Mime Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ It mimics the expressions and motions of those it sees to understand the feeling
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -65,13 +65,10 @@ Mime Jr has no alternate forms.
 
 ### Evolution Line
 
-1. [Mime-Jr](mime-jr.md/)
-    1. Level Up: [Mr-Mime](mr-mime.md/)
+1. [Mime Jr](mime-jr.md/)
+    1. Level Up: [Mr Mime](mr-mime.md/)
 
 
-
-
-### Evolution Changes
 
 
 ---
@@ -80,7 +77,7 @@ Mime Jr has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense | 145 | 50 | 62 | Medium | Leppa Berry (5%) |
+| 1 Special Defense | 145 | 50 | 62 | Medium | leppa-berry (5%) |
 
 ---
 

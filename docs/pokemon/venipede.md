@@ -1,4 +1,4 @@
-# #543 Venipede (Centipede Pokémon)
+# Venipede (Centipede Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -12,7 +12,7 @@
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -75,16 +75,13 @@ Venipede has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 255 | 50 | 52 | Medium-Slow | Pecha Berry (50%)<br>Poison Barb (5%) |
+| 1 Defense | 255 | 50 | 52 | Medium-Slow | pecha-berry (50%)<br>poison-barb (5%) |
 
 ---
 

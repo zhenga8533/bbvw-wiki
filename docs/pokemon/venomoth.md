@@ -1,4 +1,4 @@
-# #049 Venomoth (Poison Moth Pokémon)
+# Venomoth (Poison Moth Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ It flutters its wings to scatter dustlike scales. The scales leach toxins if the
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -71,16 +71,13 @@ Venomoth has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack<br>1 Speed | 75 | 70 | 158 | Medium | Shed Shell (5%) |
+| 1 Special Attack<br>1 Speed | 75 | 70 | 158 | Medium | shed-shell (5%) |
 
 ---
 

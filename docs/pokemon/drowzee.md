@@ -1,4 +1,4 @@
-# #096 Drowzee (Hypnosis Pokémon)
+# Drowzee (Hypnosis Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ It can tell what people are dreaming by sniffing with its big nose. It loves fun
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -69,9 +69,6 @@ Drowzee has no alternate forms.
     1. Level Up: [Hypno](hypno.md/)
 
 
-
-
-### Evolution Changes
 
 
 ---

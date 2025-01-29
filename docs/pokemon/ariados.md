@@ -1,4 +1,4 @@
-# #168 Ariados (Long Leg Pokémon)
+# Ariados (Long Leg Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ It attaches silk to its prey and sets it free. Later, it tracks the silk to the 
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -69,9 +69,6 @@ Ariados has no alternate forms.
     1. Level Up: [Ariados](ariados.md/)
 
 
-
-
-### Evolution Changes
 
 
 ---

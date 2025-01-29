@@ -1,4 +1,4 @@
-# #273 Seedot (Acorn Pokémon)
+# Seedot (Acorn Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ When it dangles from a tree branch, it looks just like an acorn. It enjoys scari
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -71,9 +71,6 @@ Seedot has no alternate forms.
 
 
 
-
-
-### Evolution Changes
 
 
 ---

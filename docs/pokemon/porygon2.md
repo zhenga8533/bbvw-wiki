@@ -1,4 +1,4 @@
-# #233 Porygon2 (Virtual Pokémon)
+# Porygon2 (Virtual Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ It was upgraded to enable the exploration of other planets. However, it failed t
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -67,7 +67,7 @@ Porygon2 has no alternate forms.
 
 1. [Porygon](porygon.md/)
     1. Trade: [Porygon2](porygon2.md/)
-        1. Trade: [Porygon-Z](porygon-z.md/)
+        1. Trade: [Porygon Z](porygon-z.md/)
 
 
 

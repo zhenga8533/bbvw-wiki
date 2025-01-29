@@ -1,4 +1,4 @@
-# #311 Plusle (Cheering Pokémon)
+# Plusle (Cheering Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ It cheers on friends with pom-poms made of sparks. It drains power from telephon
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -67,9 +67,6 @@ Plusle has no alternate forms.
 
 1. [Plusle](plusle.md/)
 
-
-
-### Evolution Changes
 
 
 ---

@@ -1,4 +1,4 @@
-# #014 Kakuna (Cocoon Pokémon)
+# Kakuna (Cocoon Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ While awaiting evolution, it hides from predators under leaves and in nooks of b
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -71,9 +71,6 @@ Kakuna has no alternate forms.
 
 
 
-
-
-### Evolution Changes
 
 
 ---

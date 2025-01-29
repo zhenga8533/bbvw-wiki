@@ -1,4 +1,4 @@
-# #361 Snorunt (Snow Hat Pokémon)
+# Snorunt (Snow Hat Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ It is said that several Snorunt gather under giant leaves and live together in h
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -73,16 +73,13 @@ Snorunt has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp | 190 | 50 | 60 | Medium | Babiri Berry (5%) |
+| 1 Hp | 190 | 50 | 60 | Medium | babiri-berry (5%) |
 
 ---
 

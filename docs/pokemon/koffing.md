@@ -1,4 +1,4 @@
-# #109 Koffing (Poison Gas Pokémon)
+# Koffing (Poison Gas Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ Lighter-than-air gases in its body keep it aloft. The gases not only smell, they
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -71,16 +71,13 @@ Koffing has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 190 | 50 | 68 | Medium | Smoke Ball (5%) |
+| 1 Defense | 190 | 50 | 68 | Medium | smoke-ball (5%) |
 
 ---
 

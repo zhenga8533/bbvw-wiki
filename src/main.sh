@@ -86,7 +86,14 @@ mkdir -p ../docs/mechanics
 mkdir -p ../docs/pokemon
 mkdir -p ../docs/wild_encounters
 
-cp -r -f -u $OUTPUT_PATH/* ../docs/mechanics
-cp -r -f -u $POKEMON_OUTPUT_PATH/* ../docs/pokemon
-cp -r -f -u $WILD_ENCOUNTER_PATH/* ../docs/wild_encounters
+# Check for rsync
+if ! command -v rsync &> /dev/null; then
+  cp -r -f -u $OUTPUT_PATH/* ../docs/mechanics
+  cp -r -f -u $POKEMON_OUTPUT_PATH/* ../docs/pokemon
+  cp -r -f -u $WILD_ENCOUNTER_PATH/* ../docs/wild_encounters
+else
+  rsync -av --update $OUTPUT_PATH/ ../docs/mechanics
+  rsync -av --update $POKEMON_OUTPUT_PATH/ ../docs/pokemon
+  rsync -av --update $WILD_ENCOUNTER_PATH/ ../docs/wild_encounters
+fi
 echo "Markdown files updated"

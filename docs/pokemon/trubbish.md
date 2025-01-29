@@ -1,4 +1,4 @@
-# #568 Trubbish (Trash Bag Pokémon)
+# Trubbish (Trash Bag Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -12,7 +12,7 @@
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -73,16 +73,13 @@ Trubbish has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 190 | 50 | 66 | Medium | Nugget (1%)<br>Black Sludge (5%) |
+| 1 Speed | 190 | 50 | 66 | Medium | nugget (1%)<br>black-sludge (5%) |
 
 ---
 

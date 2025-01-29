@@ -1,4 +1,4 @@
-# #093 Haunter (Gas Pokémon)
+# Haunter (Gas Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch ca
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |

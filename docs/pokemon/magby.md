@@ -1,4 +1,4 @@
-# #240 Magby (Live Coal Pokémon)
+# Magby (Live Coal Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ Its magma-like blood circulates throughout its body. Its body’s heat can top 1
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -71,9 +71,6 @@ Magby has no alternate forms.
 
 
 
-
-
-### Evolution Changes
 
 
 ---

@@ -1,4 +1,4 @@
-# #238 Smoochum (Kiss Pokémon)
+# Smoochum (Kiss Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ It tests everything by touching with its lips, which remember what it likes and 
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -71,16 +71,13 @@ Smoochum has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack | 45 | 50 | 61 | Medium | Aspear Berry (100%) |
+| 1 Special Attack | 45 | 50 | 61 | Medium | aspear-berry (100%) |
 
 ---
 

@@ -1,4 +1,4 @@
-# #523 Zebstrika (Thunderbolt Pokémon)
+# Zebstrika (Thunderbolt Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -12,7 +12,7 @@
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -73,16 +73,13 @@ Zebstrika has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 75 | 70 | 174 | Medium | Cheri Berry (50%) |
+| 2 Speed | 75 | 70 | 174 | Medium | cheri-berry (50%) |
 
 ---
 

@@ -1,4 +1,4 @@
-# #312 Minun (Cheering Pokémon)
+# Minun (Cheering Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ It cheers on friends. If its friends are losing, its body lets off more and more
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -67,9 +67,6 @@ Minun has no alternate forms.
 
 1. [Minun](minun.md/)
 
-
-
-### Evolution Changes
 
 
 ---

@@ -1,4 +1,4 @@
-# #284 Masquerain (Eyeball Pokémon)
+# Masquerain (Eyeball Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ Its antennae have eye patterns on them. Its four wings enable it to hover and fl
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -71,16 +71,13 @@ Masquerain has no alternate forms.
 
 
 
-### Evolution Changes
-
-
 ---
 
 ## Training
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack<br>1 Special Defense | 75 | 70 | 159 | Medium | Silver Powder (5%) |
+| 1 Special Attack<br>1 Special Defense | 75 | 70 | 159 | Medium | silver-powder (5%) |
 
 ---
 

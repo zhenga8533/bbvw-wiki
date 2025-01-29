@@ -1,4 +1,4 @@
-# #137 Porygon (Virtual Pokémon)
+# Porygon (Virtual Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ A man-made Pokémon created using advanced scientific means. It can move freely 
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -67,7 +67,7 @@ Porygon has no alternate forms.
 
 1. [Porygon](porygon.md/)
     1. Trade: [Porygon2](porygon2.md/)
-        1. Trade: [Porygon-Z](porygon-z.md/)
+        1. Trade: [Porygon Z](porygon-z.md/)
 
 
 

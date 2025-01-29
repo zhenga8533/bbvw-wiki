@@ -1,4 +1,4 @@
-# #165 Ledyba (Five Star Pokémon)
+# Ledyba (Five Star Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ It is so timid, it can’t move if it isn’t with a swarm of others. It conveys
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -75,9 +75,6 @@ Ledyba has no alternate forms.
     1. Level Up: [Ledian](ledian.md/)
 
 
-
-
-### Evolution Changes
 
 
 ---

@@ -1,4 +1,4 @@
-# #281 Kirlia (Emotion Pokémon)
+# Kirlia (Emotion Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -10,7 +10,7 @@ If its Trainer becomes happy, it overflows with energy, dancing joyously while s
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -73,9 +73,6 @@ Kirlia has no alternate forms.
 
 
 
-
-
-### Evolution Changes
 
 
 ---

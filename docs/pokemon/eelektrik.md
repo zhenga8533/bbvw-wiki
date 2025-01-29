@@ -1,4 +1,4 @@
-# #603 Eelektrik (EleFish Pokémon)
+# Eelektrik (EleFish Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
@@ -12,7 +12,7 @@
 
 ## Media
 
-### Sprites
+### Default Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
@@ -73,9 +73,6 @@ Eelektrik has no alternate forms.
 
 
 
-
-
-### Evolution Changes
 
 
 ---
