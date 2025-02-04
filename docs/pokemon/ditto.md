@@ -2,7 +2,7 @@
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
-| ![Official Artwork](../assets/sprites/ditto/official_artwork.png) | ![Shiny Artwork](../assets/sprites/ditto/official_artwork_shiny.png) |
+| ![Official Artwork](../assets/sprites/ditto/official_artwork.png "Ditto") | ![Shiny Artwork](../assets/sprites/ditto/official_artwork_shiny.png "Ditto") |
 
 It has the ability to reconstitute its entire cellular structure to transform into whatever it sees.
 
@@ -14,7 +14,7 @@ It has the ability to reconstitute its entire cellular structure to transform in
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
-| ![Front](../assets/sprites/ditto/front.gif) | ![Back](../assets/sprites/ditto/back.gif) | ![Front Shiny](../assets/sprites/ditto/front_shiny.gif) | ![Back Shiny](../assets/sprites/ditto/back_shiny.gif) |
+| ![Front](../assets/sprites/ditto/front.gif "Ditto") | ![Back](../assets/sprites/ditto/back.gif "Ditto") | ![Front Shiny](../assets/sprites/ditto/front_shiny.gif "Ditto") | ![Back Shiny](../assets/sprites/ditto/back_shiny.gif "Ditto") |
 
 ### Cries
 
@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #132 | ![normal](../assets/types/normal.png){: width='48'} | 0.3 m /<br>1.0 ft | 4.0 kg /<br>8.8 lbs | <span class="tooltip" title="It transforms itself into the Pokémon it is facing.">Imposter</span> | N/A |
+| #132 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.3 m /<br>1.0 ft | 4.0 kg /<br>8.8 lbs | <span class="tooltip" title="It transforms itself into the Pokémon it is facing.">Imposter</span> | N/A |
 
 ---
 
@@ -97,7 +97,7 @@ Ditto has no alternate forms.
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <span class="tooltip" title="The user transforms into a copy of the foe right down to having the same move set.">Transform</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
+| 1 | <span class="tooltip" title="The user transforms into a copy of the foe right down to having the same move set.">Transform</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 10 |
 
 ### TM Moves
 

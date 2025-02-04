@@ -200,11 +200,11 @@ def parse_moves(moves: list, headers: list, move_key: str) -> str:
                 move_effect = move_data["flavor_text_entries"].get("platinum", move_data["effect"]).replace("\n", " ")
                 md_body += f'| <span class="tooltip" title="{move_effect}">{revert_id(move_id)}</span> '
             elif category == "Type":
-                md_body += (
-                    f"| ![{move_data['type']}](../assets/types/{format_id(move_data['type'])}.png){{: width='48'}} "
-                )
+                move_type = move_data["type"]
+                md_body += f'| ![{move_type}](../assets/types/{format_id(move_type)}.png "{move_type.title()}"){{: width="48"}} '
             elif category == "Cat.":
-                md_body += f"| ![{move_data['damage_class']}](../assets/move_category/{move_data['damage_class']}.png){{: width='36'}} "
+                damage_class = move_data["damage_class"]
+                md_body += f'| ![{damage_class}](../assets/move_category/{damage_class}.png "{damage_class.title()}"){{: width="36"}} '
             elif category == "Power":
                 md_body += f"| {move_data['power'] or dash} "
             elif category == "Acc.":
@@ -297,7 +297,9 @@ def to_md(pokemon: dict, pokemon_set: dict, move_path: str, logger: Logger) -> s
     md += f"| National № | Type(s) | Height | Weight | Abilities | Local № |\n"
     md += f"|------------|---------|--------|--------|-----------|---------|\n"
     md += f"| #{pokemon_id}"
-    md += f" | " + " ".join([f"![{t}](../assets/types/{format_id(t)}.png){{: width='48'}}" for t in pokemon["types"]])
+    md += f" | " + " ".join(
+        [f'![{t}](../assets/types/{format_id(t)}.png "{t.title()}"){{: width="48"}}' for t in pokemon["types"]]
+    )
     md += f" | {pokemon['height']} m /<br>{pokemon['height'] * 3.28084:.1f} ft"
     md += f" | {pokemon['weight']} kg /<br>{pokemon['weight'] * 2.20462:.1f} lbs | "
 

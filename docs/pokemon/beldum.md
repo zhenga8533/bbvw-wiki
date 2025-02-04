@@ -2,7 +2,7 @@
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
-| ![Official Artwork](../assets/sprites/beldum/official_artwork.png) | ![Shiny Artwork](../assets/sprites/beldum/official_artwork_shiny.png) |
+| ![Official Artwork](../assets/sprites/beldum/official_artwork.png "Beldum") | ![Shiny Artwork](../assets/sprites/beldum/official_artwork_shiny.png "Beldum") |
 
 It converses with others by using magnetic pulses. In a swarm, they move in perfect unison.
 
@@ -14,7 +14,7 @@ It converses with others by using magnetic pulses. In a swarm, they move in perf
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
-| ![Front](../assets/sprites/beldum/front.gif) | ![Back](../assets/sprites/beldum/back.gif) | ![Front Shiny](../assets/sprites/beldum/front_shiny.gif) | ![Back Shiny](../assets/sprites/beldum/back_shiny.gif) |
+| ![Front](../assets/sprites/beldum/front.gif "Beldum") | ![Back](../assets/sprites/beldum/back.gif "Beldum") | ![Front Shiny](../assets/sprites/beldum/front_shiny.gif "Beldum") | ![Back Shiny](../assets/sprites/beldum/back_shiny.gif "Beldum") |
 
 ### Cries
 
@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #374 | ![steel](../assets/types/steel.png){: width='48'} ![psychic](../assets/types/psychic.png){: width='48'} | 0.6 m /<br>2.0 ft | 95.2 kg /<br>209.9 lbs | <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
+| #374 | ![steel](../assets/types/steel.png "Steel"){: width="48"} ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 0.6 m /<br>2.0 ft | 95.2 kg /<br>209.9 lbs | <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
 
 ---
 
@@ -101,10 +101,10 @@ Beldum has no alternate forms.
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <span class="tooltip" title="The user sticks its head out and rams straight forward. It may make the foe flinch.">Headbutt</span> | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 70 | 100 | 15 |
-| 1 | <span class="tooltip" title="The foe slams the target with its steel-hard head. It may also make the target flinch.">Iron Head</span> | ![steel](../assets/types/steel.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 100 | 15 |
-| 1 | <span class="tooltip" title="A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.">Take Down</span> | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 90 | 85 | 20 |
-| 1 | <span class="tooltip" title="The user focuses its willpower to its head and rams the foe. It may also make the target flinch.">Zen Headbutt</span> | ![psychic](../assets/types/psychic.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 90 | 15 |
+| 1 | <span class="tooltip" title="The user sticks its head out and rams straight forward. It may make the foe flinch.">Headbutt</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 70 | 100 | 15 |
+| 1 | <span class="tooltip" title="The foe slams the target with its steel-hard head. It may also make the target flinch.">Iron Head</span> | ![steel](../assets/types/steel.png "Steel"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 80 | 100 | 15 |
+| 1 | <span class="tooltip" title="A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.">Take Down</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 90 | 85 | 20 |
+| 1 | <span class="tooltip" title="The user focuses its willpower to its head and rams the foe. It may also make the target flinch.">Zen Headbutt</span> | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 80 | 90 | 15 |
 
 ### TM Moves
 

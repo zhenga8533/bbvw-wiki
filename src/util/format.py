@@ -32,9 +32,10 @@ def create_image_table(headings: list[str], images: list[list[str]], logger: Log
             continue
 
         # Add image to table
+        name = image_path.split("/")[-2]
         table_header += f" {headings[i]} |"
         table_divider += " --- |"
-        table_body += f" ![{headings[i]}]({image_path}) |"
+        table_body += f' ![{headings[i]}]({image_path} "{revert_id(name)}") |'
     if table_header + table_divider + table_body == "|||":
         return ""
 

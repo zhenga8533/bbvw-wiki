@@ -2,7 +2,7 @@
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
-| ![Official Artwork](../assets/sprites/caterpie/official_artwork.png) | ![Shiny Artwork](../assets/sprites/caterpie/official_artwork_shiny.png) |
+| ![Official Artwork](../assets/sprites/caterpie/official_artwork.png "Caterpie") | ![Shiny Artwork](../assets/sprites/caterpie/official_artwork_shiny.png "Caterpie") |
 
 It releases a stench from its red antenna to repel enemies. It grows by molting repeatedly.
 
@@ -14,7 +14,7 @@ It releases a stench from its red antenna to repel enemies. It grows by molting 
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
-| ![Front](../assets/sprites/caterpie/front.gif) | ![Back](../assets/sprites/caterpie/back.gif) | ![Front Shiny](../assets/sprites/caterpie/front_shiny.gif) | ![Back Shiny](../assets/sprites/caterpie/back_shiny.gif) |
+| ![Front](../assets/sprites/caterpie/front.gif "Caterpie") | ![Back](../assets/sprites/caterpie/back.gif "Caterpie") | ![Front Shiny](../assets/sprites/caterpie/front_shiny.gif "Caterpie") | ![Back Shiny](../assets/sprites/caterpie/back_shiny.gif "Caterpie") |
 
 ### Cries
 
@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #10 | ![bug](../assets/types/bug.png){: width='48'} | 0.3 m /<br>1.0 ft | 2.9 kg /<br>6.4 lbs | <span class="tooltip" title="Blocks the added effects of attacks taken.">Shield Dust</span><br><span class="tooltip" title="Negates all moves that force switching out.">Suction Cups</span> | N/A |
+| #10 | ![bug](../assets/types/bug.png "Bug"){: width="48"} | 0.3 m /<br>1.0 ft | 2.9 kg /<br>6.4 lbs | <span class="tooltip" title="Blocks the added effects of attacks taken.">Shield Dust</span><br><span class="tooltip" title="Negates all moves that force switching out.">Suction Cups</span> | N/A |
 
 ---
 
@@ -101,11 +101,11 @@ Caterpie has no alternate forms.
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <span class="tooltip" title="The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.">Bug Bite</span> | ![bug](../assets/types/bug.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 20 |
-| 1 | <span class="tooltip" title="An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.">Snore</span> | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 50 | 100 | 15 |
-| 1 | <span class="tooltip" title="The foe is bound with silk blown from the user’s mouth. It reduces the target’s Speed stat.">String Shot</span> | ![bug](../assets/types/bug.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 95 | 40 |
-| 1 | <span class="tooltip" title="A physical attack in which the user charges and slams into the foe with its whole body.">Tackle</span> | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 35 |
-| 6 | <span class="tooltip" title="Inflicts regular damage.  Has a 100% chance to lower the target's Special Attack by one stage.">Struggle Bug</span> | ![bug](../assets/types/bug.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 50 | 100 | 20 |
+| 1 | <span class="tooltip" title="The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.">Bug Bite</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 60 | 100 | 20 |
+| 1 | <span class="tooltip" title="An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.">Snore</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 50 | 100 | 15 |
+| 1 | <span class="tooltip" title="The foe is bound with silk blown from the user’s mouth. It reduces the target’s Speed stat.">String Shot</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 95 | 40 |
+| 1 | <span class="tooltip" title="A physical attack in which the user charges and slams into the foe with its whole body.">Tackle</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 40 | 100 | 35 |
+| 6 | <span class="tooltip" title="Inflicts regular damage.  Has a 100% chance to lower the target's Special Attack by one stage.">Struggle Bug</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 50 | 100 | 20 |
 
 ### TM Moves
 

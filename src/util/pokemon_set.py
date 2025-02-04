@@ -1,5 +1,5 @@
 from util.ability import get_ability
-from util.format import format_id
+from util.format import format_id, revert_id
 from util.item import get_item
 from util.move import get_move
 
@@ -50,7 +50,7 @@ class PokemonSet:
         """
 
         id = format_id(self.species)
-        table = f"| ![{self.species}](../../assets/sprites/{id}/front.png) |"
+        table = f'| ![{self.species}](../../assets/sprites/{id}/front.png "{revert_id(id)}") |'
         table += f"**Lv. {self.level}** [{self.species}](../../pokemon/{id}.md/)<br>"
 
         # Item tooltip

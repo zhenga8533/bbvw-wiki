@@ -2,7 +2,7 @@
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
-| ![Official Artwork](../assets/sprites/tynamo/official_artwork.png) | ![Shiny Artwork](../assets/sprites/tynamo/official_artwork_shiny.png) |
+| ![Official Artwork](../assets/sprites/tynamo/official_artwork.png "Tynamo") | ![Shiny Artwork](../assets/sprites/tynamo/official_artwork_shiny.png "Tynamo") |
 
 **Blaze Black:** While one alone doesn’t have much power, a chain of many Tynamo can be as powerful as lightning.
 
@@ -16,7 +16,7 @@
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
-| ![Front](../assets/sprites/tynamo/front.gif) | ![Back](../assets/sprites/tynamo/back.gif) | ![Front Shiny](../assets/sprites/tynamo/front_shiny.gif) | ![Back Shiny](../assets/sprites/tynamo/back_shiny.gif) |
+| ![Front](../assets/sprites/tynamo/front.gif "Tynamo") | ![Back](../assets/sprites/tynamo/back.gif "Tynamo") | ![Front Shiny](../assets/sprites/tynamo/front_shiny.gif "Tynamo") | ![Back Shiny](../assets/sprites/tynamo/back_shiny.gif "Tynamo") |
 
 ### Cries
 
@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #602 | ![electric](../assets/types/electric.png){: width='48'} | 0.2 m /<br>0.7 ft | 0.3 kg /<br>0.7 lbs | <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | #108 |
+| #602 | ![electric](../assets/types/electric.png "Electric"){: width="48"} | 0.2 m /<br>0.7 ft | 0.3 kg /<br>0.7 lbs | <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | #108 |
 
 ---
 
@@ -103,10 +103,10 @@ Tynamo has no alternate forms.
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <span class="tooltip" title="The user fires a concentrated bundle of electricity. It may also raise the user’s Sp. Atk stat.">Charge Beam</span> | ![electric](../assets/types/electric.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 50 | 90 | 10 |
-| 1 | <span class="tooltip" title="The user throws an electrically charged tackle at the foe. It may also leave the target paralyzed.">Spark</span> | ![electric](../assets/types/electric.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 65 | 100 | 20 |
-| 1 | <span class="tooltip" title="A physical attack in which the user charges and slams into the foe with its whole body.">Tackle</span> | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 35 |
-| 1 | <span class="tooltip" title="A weak electric charge is launched at the foe. It causes paralysis if it hits.">Thunder Wave</span> | ![electric](../assets/types/electric.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 20 |
+| 1 | <span class="tooltip" title="The user fires a concentrated bundle of electricity. It may also raise the user’s Sp. Atk stat.">Charge Beam</span> | ![electric](../assets/types/electric.png "Electric"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 50 | 90 | 10 |
+| 1 | <span class="tooltip" title="The user throws an electrically charged tackle at the foe. It may also leave the target paralyzed.">Spark</span> | ![electric](../assets/types/electric.png "Electric"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 65 | 100 | 20 |
+| 1 | <span class="tooltip" title="A physical attack in which the user charges and slams into the foe with its whole body.">Tackle</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 40 | 100 | 35 |
+| 1 | <span class="tooltip" title="A weak electric charge is launched at the foe. It causes paralysis if it hits.">Thunder Wave</span> | ![electric](../assets/types/electric.png "Electric"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 90 | 20 |
 
 ### TM Moves
 

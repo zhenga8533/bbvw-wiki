@@ -2,7 +2,7 @@
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
-| ![Official Artwork](../assets/sprites/vileplume/official_artwork.png) | ![Shiny Artwork](../assets/sprites/vileplume/official_artwork_shiny.png) |
+| ![Official Artwork](../assets/sprites/vileplume/official_artwork.png "Vileplume") | ![Shiny Artwork](../assets/sprites/vileplume/official_artwork_shiny.png "Vileplume") |
 
 Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen.
 
@@ -14,13 +14,13 @@ Its petals are the largest in the world. As it walks, it scatters extremely alle
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
-| ![Front](../assets/sprites/vileplume/front.gif) | ![Back](../assets/sprites/vileplume/back.gif) | ![Front Shiny](../assets/sprites/vileplume/front_shiny.gif) | ![Back Shiny](../assets/sprites/vileplume/back_shiny.gif) |
+| ![Front](../assets/sprites/vileplume/front.gif "Vileplume") | ![Back](../assets/sprites/vileplume/back.gif "Vileplume") | ![Front Shiny](../assets/sprites/vileplume/front_shiny.gif "Vileplume") | ![Back Shiny](../assets/sprites/vileplume/back_shiny.gif "Vileplume") |
 
 ### Female Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
-| ![Front](../assets/sprites/vileplume/front_female.gif) | ![Back](../assets/sprites/vileplume/back_female.gif) | ![Front Shiny](../assets/sprites/vileplume/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/vileplume/back_shiny_female.gif) |
+| ![Front](../assets/sprites/vileplume/front_female.gif "Vileplume") | ![Back](../assets/sprites/vileplume/back_female.gif "Vileplume") | ![Front Shiny](../assets/sprites/vileplume/front_shiny_female.gif "Vileplume") | ![Back Shiny](../assets/sprites/vileplume/back_shiny_female.gif "Vileplume") |
 
 ### Cries
 
@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #45 | ![grass](../assets/types/grass.png){: width='48'} ![poison](../assets/types/poison.png){: width='48'} | 1.2 m /<br>3.9 ft | 18.6 kg /<br>41.0 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br><span class="tooltip" title="Contact may poison or cause paralysis or sleep.">Effect Spore</span> | N/A |
+| #45 | ![grass](../assets/types/grass.png "Grass"){: width="48"} ![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.2 m /<br>3.9 ft | 18.6 kg /<br>41.0 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br><span class="tooltip" title="Contact may poison or cause paralysis or sleep.">Effect Spore</span> | N/A |
 
 ---
 
@@ -109,42 +109,42 @@ Vileplume has no alternate forms.
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <span class="tooltip" title="The user releases a soothing scent that heals all status problems affecting the user’s party.">Aromatherapy</span> | ![grass](../assets/types/grass.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
-| 1 | <span class="tooltip" title="A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.">Mega Drain</span> | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 50 | 100 | 15 |
-| 1 | <span class="tooltip" title="A cloud of poisonous dust is scattered on the foe. It may poison the target.">Poison Powder</span> | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 75 | 35 |
-| 1 | <span class="tooltip" title="The user scatters a cloud of paralyzing powder. It may paralyze the target.">Stun Spore</span> | ![grass](../assets/types/grass.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 75 | 30 |
-| 38 | <span class="tooltip" title="The user makes the ground under the foe erupt with power. It may also lower the target’s Sp. Def.">Earth Power</span> | ![ground](../assets/types/ground.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
-| 53 | <span class="tooltip" title="The user attacks by scattering petals for two to three turns. The user then becomes confused.">Petal Dance</span> | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 120 | 100 | 10 |
-| 65 | <span class="tooltip" title="A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.">Solar Beam</span> | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 120 | 100 | 10 |
+| 1 | <span class="tooltip" title="The user releases a soothing scent that heals all status problems affecting the user’s party.">Aromatherapy</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 5 |
+| 1 | <span class="tooltip" title="A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.">Mega Drain</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 50 | 100 | 15 |
+| 1 | <span class="tooltip" title="A cloud of poisonous dust is scattered on the foe. It may poison the target.">Poison Powder</span> | ![poison](../assets/types/poison.png "Poison"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 75 | 35 |
+| 1 | <span class="tooltip" title="The user scatters a cloud of paralyzing powder. It may paralyze the target.">Stun Spore</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 75 | 30 |
+| 38 | <span class="tooltip" title="The user makes the ground under the foe erupt with power. It may also lower the target’s Sp. Def.">Earth Power</span> | ![ground](../assets/types/ground.png "Ground"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 90 | 100 | 10 |
+| 53 | <span class="tooltip" title="The user attacks by scattering petals for two to three turns. The user then becomes confused.">Petal Dance</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 120 | 100 | 10 |
+| 65 | <span class="tooltip" title="A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.">Solar Beam</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 120 | 100 | 10 |
 
 ### TM Moves
 
 | TM | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| HM01 | <span class="tooltip" title="The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.">Cut</span> | ![Grass](../assets/types/grass.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100% | 25 |
-| TM06 | <span class="tooltip" title="A move that leaves the target badly poisoned. Its poison damage worsens every turn.">Toxic</span> | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 10 |
-| TM09 | <span class="tooltip" title="Inflicts regular damage.  If the target is poisoned, this move has double power.">Venoshock</span> | ![poison](../assets/types/poison.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 65 | 100 | 10 |
-| TM10 | <span class="tooltip" title="A unique attack that varies in type and intensity depending on the Pokémon using it.">Hidden Power</span> | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 15 |
-| TM11 | <span class="tooltip" title="The user intensifies the sun for five turns, powering up Fire-type moves. ">Sunny Day</span> | ![fire](../assets/types/fire.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
-| TM15 | <span class="tooltip" title="The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.">Hyper Beam</span> | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 150 | 90 | 5 |
-| TM17 | <span class="tooltip" title="It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.">Protect</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
-| TM21 | <span class="tooltip" title="A full-power attack that grows more powerful the less the user likes its Trainer.">Frustration</span> | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 20 |
-| TM22 | <span class="tooltip" title="A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.">Solar Beam</span> | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 120 | 100 | 10 |
-| TM27 | <span class="tooltip" title="A full-power attack that grows more powerful the more the user likes its Trainer.">Return</span> | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 20 |
-| TM32 | <span class="tooltip" title="By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. ">Double Team</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
-| TM36 | <span class="tooltip" title="The user attacks by hurling filthy sludge at the foe. It may also poison the target.">Sludge Bomb</span> | ![poison](../assets/types/poison.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
-| TM42 | <span class="tooltip" title="An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.">Facade</span> | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 70 | 100 | 20 |
-| TM44 | <span class="tooltip" title="The user goes to sleep for two turns. It fully restores the user’s HP and heals any status problem.">Rest</span> | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
-| TM45 | <span class="tooltip" title="If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.">Attract</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 15 |
-| TM48 | <span class="tooltip" title="Inflicts regular damage.  If round has already been used this turn, this move's power is doubled.  After this move is used, any other Pokémon using it this turn will immediately do so (in the order they would otherwise act), regardless of Speed or priority.  Pokémon using other moves will then continue to act as usual.">Round</span> | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 15 |
-| TM53 | <span class="tooltip" title="The user draws power from nature and fires it at the foe. It may also lower the target’s Sp. Def.">Energy Ball</span> | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
-| TM56 | <span class="tooltip" title="The user flings its held item at the foe to attack. Its power and effects depend on the item.">Fling</span> | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 10 |
-| TM68 | <span class="tooltip" title="The user charges at the foe using every bit of its power. The user must rest on the next turn.">Giga Impact</span> | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 150 | 90 | 5 |
-| TM70 | <span class="tooltip" title="The user flashes a light that cuts the foe’s accuracy. It can also be used to illuminate caves.">Flash</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 20 |
-| TM75 | <span class="tooltip" title="A frenetic dance to uplift the fighting spirit. It sharply raises the user’s Attack stat.">Swords Dance</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
-| TM86 | <span class="tooltip" title="The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.">Grass Knot</span> | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | 100 | 20 |
-| TM87 | <span class="tooltip" title="The user enrages the foe into confusion. However, it also sharply raises the foe’s Attack stat.">Swagger</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 15 |
-| TM90 | <span class="tooltip" title="The user makes a copy of itself using some of its HP. The copy serves as the user’s decoy.">Substitute</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
+| HM01 | <span class="tooltip" title="The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.">Cut</span> | ![Grass](../assets/types/grass.png "Grass"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 60 | 100% | 25 |
+| TM06 | <span class="tooltip" title="A move that leaves the target badly poisoned. Its poison damage worsens every turn.">Toxic</span> | ![poison](../assets/types/poison.png "Poison"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 90 | 10 |
+| TM09 | <span class="tooltip" title="Inflicts regular damage.  If the target is poisoned, this move has double power.">Venoshock</span> | ![poison](../assets/types/poison.png "Poison"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 65 | 100 | 10 |
+| TM10 | <span class="tooltip" title="A unique attack that varies in type and intensity depending on the Pokémon using it.">Hidden Power</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 60 | 100 | 15 |
+| TM11 | <span class="tooltip" title="The user intensifies the sun for five turns, powering up Fire-type moves. ">Sunny Day</span> | ![fire](../assets/types/fire.png "Fire"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 5 |
+| TM15 | <span class="tooltip" title="The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.">Hyper Beam</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 150 | 90 | 5 |
+| TM17 | <span class="tooltip" title="It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.">Protect</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 10 |
+| TM21 | <span class="tooltip" title="A full-power attack that grows more powerful the less the user likes its Trainer.">Frustration</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | — | 100 | 20 |
+| TM22 | <span class="tooltip" title="A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.">Solar Beam</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 120 | 100 | 10 |
+| TM27 | <span class="tooltip" title="A full-power attack that grows more powerful the more the user likes its Trainer.">Return</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | — | 100 | 20 |
+| TM32 | <span class="tooltip" title="By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. ">Double Team</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 15 |
+| TM36 | <span class="tooltip" title="The user attacks by hurling filthy sludge at the foe. It may also poison the target.">Sludge Bomb</span> | ![poison](../assets/types/poison.png "Poison"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 90 | 100 | 10 |
+| TM42 | <span class="tooltip" title="An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.">Facade</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 70 | 100 | 20 |
+| TM44 | <span class="tooltip" title="The user goes to sleep for two turns. It fully restores the user’s HP and heals any status problem.">Rest</span> | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 5 |
+| TM45 | <span class="tooltip" title="If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.">Attract</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 100 | 15 |
+| TM48 | <span class="tooltip" title="Inflicts regular damage.  If round has already been used this turn, this move's power is doubled.  After this move is used, any other Pokémon using it this turn will immediately do so (in the order they would otherwise act), regardless of Speed or priority.  Pokémon using other moves will then continue to act as usual.">Round</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 60 | 100 | 15 |
+| TM53 | <span class="tooltip" title="The user draws power from nature and fires it at the foe. It may also lower the target’s Sp. Def.">Energy Ball</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 90 | 100 | 10 |
+| TM56 | <span class="tooltip" title="The user flings its held item at the foe to attack. Its power and effects depend on the item.">Fling</span> | ![dark](../assets/types/dark.png "Dark"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | — | 100 | 10 |
+| TM68 | <span class="tooltip" title="The user charges at the foe using every bit of its power. The user must rest on the next turn.">Giga Impact</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 150 | 90 | 5 |
+| TM70 | <span class="tooltip" title="The user flashes a light that cuts the foe’s accuracy. It can also be used to illuminate caves.">Flash</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 100 | 20 |
+| TM75 | <span class="tooltip" title="A frenetic dance to uplift the fighting spirit. It sharply raises the user’s Attack stat.">Swords Dance</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 20 |
+| TM86 | <span class="tooltip" title="The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.">Grass Knot</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | — | 100 | 20 |
+| TM87 | <span class="tooltip" title="The user enrages the foe into confusion. However, it also sharply raises the foe’s Attack stat.">Swagger</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 85 | 15 |
+| TM90 | <span class="tooltip" title="The user makes a copy of itself using some of its HP. The copy serves as the user’s decoy.">Substitute</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 10 |
 
 ### Egg Moves
 

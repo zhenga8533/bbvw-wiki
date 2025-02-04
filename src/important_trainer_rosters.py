@@ -69,7 +69,7 @@ def parse_pokemon_sets(
             trainer_sprite = f"../../assets/important_trainers/{'_'.join(subarray)}.png"
 
             if verify_asset_path(trainer_sprite, logger):
-                wild_rosters[location] += f"![{trainer}]({trainer_sprite})\n\n"
+                wild_rosters[location] += f'![{trainer}]({trainer_sprite} "{trainer}")\n\n'
                 break
 
     # Add battle type, reward, and version

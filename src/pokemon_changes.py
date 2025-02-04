@@ -1,6 +1,6 @@
 from dotenv import load_dotenv
 from util.file import load, save
-from util.format import format_id
+from util.format import format_id, revert_id
 from util.logger import Logger
 import glob
 import json
@@ -78,7 +78,7 @@ def main():
             for p in pokemon:
                 name = format_id(p, start_index=1)
                 links.append(f"[{p}](../pokemon/{name}.md/)")
-                sprites += f"![{name}](../assets/sprites/{name}/front.gif)\n"
+                sprites += f'![{name}](../assets/sprites/{name}/front.gif "{revert_id(name)}")\n'
             md += f"**{', '.join(links)}**\n\n{sprites}\n<pre><code>"
 
             curr_pokemon = line

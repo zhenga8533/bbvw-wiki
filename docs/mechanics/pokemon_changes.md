@@ -77,8 +77,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#001 Bulbasaur](../pokemon/bulbasaur.md/), [#002 Ivysaur](../pokemon/ivysaur.md/)**
 
-![bulbasaur](../assets/sprites/bulbasaur/front.gif)
-![ivysaur](../assets/sprites/ivysaur/front.gif)
+![bulbasaur](../assets/sprites/bulbasaur/front.gif "Bulbasaur")
+![ivysaur](../assets/sprites/ivysaur/front.gif "Ivysaur")
 
 <pre><code><b>Item:</b> Miracle Seed (50%)
 <b>Ability One:</b> Overgrow
@@ -87,7 +87,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#003 Venusaur](../pokemon/venusaur.md/)**
 
-![venusaur](../assets/sprites/venusaur/front.gif)
+![venusaur](../assets/sprites/venusaur/front.gif "Venusaur")
 
 <pre><code><b>Item:</b> Miracle Seed (50%)
 <b>TM:</b> Can now learn TM34, Sludge Wave.
@@ -97,9 +97,9 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#004 Charmander](../pokemon/charmander.md/), [#005 Charmeleon](../pokemon/charmeleon.md/), [#006 Charizard](../pokemon/charizard.md/)**
 
-![charmander](../assets/sprites/charmander/front.gif)
-![charmeleon](../assets/sprites/charmeleon/front.gif)
-![charizard](../assets/sprites/charizard/front.gif)
+![charmander](../assets/sprites/charmander/front.gif "Charmander")
+![charmeleon](../assets/sprites/charmeleon/front.gif "Charmeleon")
+![charizard](../assets/sprites/charizard/front.gif "Charizard")
 
 <pre><code><b>Item:</b> Charcoal (50%)
 <b>Ability One:</b> Blaze
@@ -108,9 +108,9 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#007 Squirtle](../pokemon/squirtle.md/), [#008 Wartortle](../pokemon/wartortle.md/), [#009 Blastoise](../pokemon/blastoise.md/)**
 
-![squirtle](../assets/sprites/squirtle/front.gif)
-![wartortle](../assets/sprites/wartortle/front.gif)
-![blastoise](../assets/sprites/blastoise/front.gif)
+![squirtle](../assets/sprites/squirtle/front.gif "Squirtle")
+![wartortle](../assets/sprites/wartortle/front.gif "Wartortle")
+![blastoise](../assets/sprites/blastoise/front.gif "Blastoise")
 
 <pre><code><b>Item:</b> Mystic Water (50%)
 <b>Ability One:</b> Torrent
@@ -119,7 +119,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#010 Caterpie](../pokemon/caterpie.md/)**
 
-![caterpie](../assets/sprites/caterpie/front.gif)
+![caterpie](../assets/sprites/caterpie/front.gif "Caterpie")
 
 <pre><code><b>Ability One:</b> Shield Dust
 <b>Ability Two:</b> Suction Cups
@@ -127,7 +127,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#011 Metapod](../pokemon/metapod.md/)**
 
-![metapod](../assets/sprites/metapod/front.gif)
+![metapod](../assets/sprites/metapod/front.gif "Metapod")
 
 <pre><code><b>Ability One:</b> Shed Skin
 <b>Ability Two:</b> Battle Armor
@@ -135,7 +135,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#012 Butterfree](../pokemon/butterfree.md/)**
 
-![butterfree](../assets/sprites/butterfree/front.gif)
+![butterfree](../assets/sprites/butterfree/front.gif "Butterfree")
 
 <pre><code><b>Special Attack:</b> 80 → 95
 <b>Speed:</b> 70 → 90
@@ -146,7 +146,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#013 Weedle](../pokemon/weedle.md/)**
 
-![weedle](../assets/sprites/weedle/front.gif)
+![weedle](../assets/sprites/weedle/front.gif "Weedle")
 
 <pre><code><b>Ability One:</b> Shield Dust
 <b>Ability Two:</b> Poison Touch
@@ -154,7 +154,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#014 Kakuna](../pokemon/kakuna.md/)**
 
-![kakuna](../assets/sprites/kakuna/front.gif)
+![kakuna](../assets/sprites/kakuna/front.gif "Kakuna")
 
 <pre><code><b>Ability One:</b> Shed Skin
 <b>Ability Two:</b> Battle Armor
@@ -162,7 +162,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#015 Beedrill](../pokemon/beedrill.md/)**
 
-![beedrill](../assets/sprites/beedrill/front.gif)
+![beedrill](../assets/sprites/beedrill/front.gif "Beedrill")
 
 <pre><code><b>Attack:</b> 80 → 95
 <b>Speed:</b> 75 → 95
@@ -173,7 +173,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#016 Pidgey](../pokemon/pidgey.md/)**
 
-![pidgey](../assets/sprites/pidgey/front.gif)
+![pidgey](../assets/sprites/pidgey/front.gif "Pidgey")
 
 <pre><code><b>Items:</b> Oran Berry (5%)
 <b>TM:</b> Now able to learn TM62, Acrobatics.
@@ -183,7 +183,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#017 Pidgeotto](../pokemon/pidgeotto.md/)**
 
-![pidgeotto](../assets/sprites/pidgeotto/front.gif)
+![pidgeotto](../assets/sprites/pidgeotto/front.gif "Pidgeotto")
 
 <pre><code><b>Items:</b> Oran Berry (50%), Sitrus Berry (5%)
 <b>TM:</b> Now able to learn TM62, Acrobatics.
@@ -193,7 +193,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#018 Pidgeot](../pokemon/pidgeot.md/)**
 
-![pidgeot](../assets/sprites/pidgeot/front.gif)
+![pidgeot](../assets/sprites/pidgeot/front.gif "Pidgeot")
 
 <pre><code><b>HP:</b> 83 → 105
 <b>Attack:</b> 80 → 90
@@ -207,7 +207,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#019 Rattata](../pokemon/rattata.md/)**
 
-![rattata](../assets/sprites/rattata/front.gif)
+![rattata](../assets/sprites/rattata/front.gif "Rattata")
 
 <pre><code><b>Ability One:</b> Hustle
 <b>Ability Two:</b> Guts
@@ -216,7 +216,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#020 Raticate](../pokemon/raticate.md/)**
 
-![raticate](../assets/sprites/raticate/front.gif)
+![raticate](../assets/sprites/raticate/front.gif "Raticate")
 
 <pre><code><b>HP:</b> 55 → 60
 <b>Attack:</b> 81 → 87
@@ -230,7 +230,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#021 Spearow](../pokemon/spearow.md/)**
 
-![spearow](../assets/sprites/spearow/front.gif)
+![spearow](../assets/sprites/spearow/front.gif "Spearow")
 
 <pre><code><b>Item:</b> Sharp Beak (5%)
 <b>Ability One:</b> Keen Eye
@@ -239,7 +239,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#022 Fearow](../pokemon/fearow.md/)**
 
-![fearow](../assets/sprites/fearow/front.gif)
+![fearow](../assets/sprites/fearow/front.gif "Fearow")
 
 <pre><code><b>Attack:</b> 90 → 100
 <b>Total:</b> 442 → 452
@@ -250,7 +250,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#023 Ekans](../pokemon/ekans.md/)**
 
-![ekans](../assets/sprites/ekans/front.gif)
+![ekans](../assets/sprites/ekans/front.gif "Ekans")
 
 <pre><code><b>Catch Rate:</b> 200
 <b>Item:</b> Kebia Berry (5%)
@@ -260,7 +260,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#024 Arbok](../pokemon/arbok.md/)**
 
-![arbok](../assets/sprites/arbok/front.gif)
+![arbok](../assets/sprites/arbok/front.gif "Arbok")
 
 <pre><code><b>Attack:</b> 85 → 96
 <b>Speed:</b> 80 → 87
@@ -273,7 +273,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#025 Pikachu](../pokemon/pikachu.md/)**
 
-![pikachu](../assets/sprites/pikachu/front.gif)
+![pikachu](../assets/sprites/pikachu/front.gif "Pikachu")
 
 <pre><code><b>Attack:</b> 55 → 80
 <b>Speed:</b> 90 → 110
@@ -287,7 +287,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#026 Raichu](../pokemon/raichu.md/)**
 
-![raichu](../assets/sprites/raichu/front.gif)
+![raichu](../assets/sprites/raichu/front.gif "Raichu")
 
 <pre><code><b>Attack:</b> 90 → 100
 <b>Speed:</b> 100 → 120
@@ -301,8 +301,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#027 Sandshrew](../pokemon/sandshrew.md/), [#028 Sandslash](../pokemon/sandslash.md/)**
 
-![sandshrew](../assets/sprites/sandshrew/front.gif)
-![sandslash](../assets/sprites/sandslash/front.gif)
+![sandshrew](../assets/sprites/sandshrew/front.gif "Sandshrew")
+![sandslash](../assets/sprites/sandslash/front.gif "Sandslash")
 
 <pre><code><b>Ability One:</b> Sand Veil
 <b>Ability Two:</b> Sand Rush
@@ -310,7 +310,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#029 Nidoran F](../pokemon/nidoran-f.md/)**
 
-![nidoran-f](../assets/sprites/nidoran-f/front.gif)
+![nidoran-f](../assets/sprites/nidoran-f/front.gif "Nidoran F")
 
 <pre><code><b>Item:</b> Pecha Berry (50%)
 <b>Ability One:</b> Poison Point
@@ -319,7 +319,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#030 Nidorina](../pokemon/nidorina.md/)**
 
-![nidorina](../assets/sprites/nidorina/front.gif)
+![nidorina](../assets/sprites/nidorina/front.gif "Nidorina")
 
 <pre><code><b>Ability One:</b> Hustle
 <b>Ability Two:</b> Rivalry
@@ -327,7 +327,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#031 Nidoqueen](../pokemon/nidoqueen.md/)**
 
-![nidoqueen](../assets/sprites/nidoqueen/front.gif)
+![nidoqueen](../assets/sprites/nidoqueen/front.gif "Nidoqueen")
 
 <pre><code><b>Attack:</b> 82 → 92
 <b>Special Attack:</b> 75 → 90
@@ -338,7 +338,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#032 Nidoran M](../pokemon/nidoran-m.md/)**
 
-![nidoran-m](../assets/sprites/nidoran-m/front.gif)
+![nidoran-m](../assets/sprites/nidoran-m/front.gif "Nidoran M")
 
 <pre><code><b>Item:</b> Pecha Berry (50%)
 <b>Ability One:</b> Poison Point
@@ -347,7 +347,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#033 Nidorino](../pokemon/nidorino.md/)**
 
-![nidorino](../assets/sprites/nidorino/front.gif)
+![nidorino](../assets/sprites/nidorino/front.gif "Nidorino")
 
 <pre><code><b>Ability One:</b> Hustle
 <b>Ability Two:</b> Rivalry
@@ -355,7 +355,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#034 Nidoking](../pokemon/nidoking.md/)**
 
-![nidoking](../assets/sprites/nidoking/front.gif)
+![nidoking](../assets/sprites/nidoking/front.gif "Nidoking")
 
 <pre><code><b>Attack:</b> 92 → 102
 <b>Special Attack:</b> 85 → 95
@@ -366,7 +366,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#035 Clefairy](../pokemon/clefairy.md/)**
 
-![clefairy](../assets/sprites/clefairy/front.gif)
+![clefairy](../assets/sprites/clefairy/front.gif "Clefairy")
 
 <pre><code><b>Ability One:</b> Cute Charm
 <b>Ability Two:</b> Magic Guard
@@ -374,7 +374,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#036 Clefable](../pokemon/clefable.md/)**
 
-![clefable](../assets/sprites/clefable/front.gif)
+![clefable](../assets/sprites/clefable/front.gif "Clefable")
 
 <pre><code><b>HP:</b> 95 → 105
 <b>Special Attack:</b> 83 → 93
@@ -386,7 +386,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#037 Vulpix](../pokemon/vulpix.md/)**
 
-![vulpix](../assets/sprites/vulpix/front.gif)
+![vulpix](../assets/sprites/vulpix/front.gif "Vulpix")
 
 <pre><code><b>Items:</b> Rawst Berry (50%), Occa Berry (5%)
 <b>Ability One:</b> Flash Fire
@@ -395,7 +395,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#038 Ninetales](../pokemon/ninetales.md/)**
 
-![ninetales](../assets/sprites/ninetales/front.gif)
+![ninetales](../assets/sprites/ninetales/front.gif "Ninetales")
 
 <pre><code><b>Items:</b> Rawst Berry (50%), Occa Berry (5%)
 <b>Ability One:</b> Flash Fire
@@ -404,7 +404,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#039 Jigglypuff](../pokemon/jigglypuff.md/)**
 
-![jigglypuff](../assets/sprites/jigglypuff/front.gif)
+![jigglypuff](../assets/sprites/jigglypuff/front.gif "Jigglypuff")
 
 <pre><code><b>HP:</b> 115 → 128
 <b>Attack:</b> 45 → 65
@@ -416,7 +416,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#040 Wigglytuff](../pokemon/wigglytuff.md/)**
 
-![wigglytuff](../assets/sprites/wigglytuff/front.gif)
+![wigglytuff](../assets/sprites/wigglytuff/front.gif "Wigglytuff")
 
 <pre><code><b>Attack:</b> 70 → 83
 <b>Defense:</b> 45 → 60
@@ -429,7 +429,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#041 Zubat](../pokemon/zubat.md/)**
 
-![zubat](../assets/sprites/zubat/front.gif)
+![zubat](../assets/sprites/zubat/front.gif "Zubat")
 
 <pre><code><b>Base Happiness:</b> 140
 <b>Ability One:</b> Inner Focus
@@ -438,7 +438,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#042 Golbat](../pokemon/golbat.md/)**
 
-![golbat](../assets/sprites/golbat/front.gif)
+![golbat](../assets/sprites/golbat/front.gif "Golbat")
 
 <pre><code><b>Base Happiness:</b> 140
 <b>Ability One:</b> Inner Focus
@@ -447,7 +447,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#043 Oddish](../pokemon/oddish.md/)**
 
-![oddish](../assets/sprites/oddish/front.gif)
+![oddish](../assets/sprites/oddish/front.gif "Oddish")
 
 <pre><code><b>Ability One:</b> Chlorophyll
 <b>Ability Two:</b> Run Away
@@ -455,7 +455,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#044 Gloom](../pokemon/gloom.md/)**
 
-![gloom](../assets/sprites/gloom/front.gif)
+![gloom](../assets/sprites/gloom/front.gif "Gloom")
 
 <pre><code><b>Ability One:</b> Chlorophyll
 <b>Ability Two:</b> Stench
@@ -463,7 +463,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#045 Vileplume](../pokemon/vileplume.md/)**
 
-![vileplume](../assets/sprites/vileplume/front.gif)
+![vileplume](../assets/sprites/vileplume/front.gif "Vileplume")
 
 <pre><code><b>HP:</b> 75 → 85
 <b>Special Attack:</b> 100 → 110
@@ -475,7 +475,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#046 Paras](../pokemon/paras.md/)**
 
-![paras](../assets/sprites/paras/front.gif)
+![paras](../assets/sprites/paras/front.gif "Paras")
 
 <pre><code><b>Ability One:</b> Effect Spore
 <b>Ability Two:</b> Dry Skin
@@ -483,7 +483,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#047 Parasect](../pokemon/parasect.md/)**
 
-![parasect](../assets/sprites/parasect/front.gif)
+![parasect](../assets/sprites/parasect/front.gif "Parasect")
 
 <pre><code><b>HP:</b> 60 → 80
 <b>Attack:</b> 95 → 110
@@ -497,7 +497,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#048 Venonat](../pokemon/venonat.md/)**
 
-![venonat](../assets/sprites/venonat/front.gif)
+![venonat](../assets/sprites/venonat/front.gif "Venonat")
 
 <pre><code><b>Ability One:</b> Compound Eyes
 <b>Ability Two:</b> Tinted Lens
@@ -505,7 +505,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#049 Venomoth](../pokemon/venomoth.md/)**
 
-![venomoth](../assets/sprites/venomoth/front.gif)
+![venomoth](../assets/sprites/venomoth/front.gif "Venomoth")
 
 <pre><code><b>Special Attack:</b> 90 → 100
 <b>Speed:</b> 90 → 100
@@ -516,7 +516,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#050 Diglett](../pokemon/diglett.md/)**
 
-![diglett](../assets/sprites/diglett/front.gif)
+![diglett](../assets/sprites/diglett/front.gif "Diglett")
 
 <pre><code><b>Ability One:</b> Sand Force
 <b>Ability Two:</b> Arena Trap
@@ -524,7 +524,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#051 Dugtrio](../pokemon/dugtrio.md/)**
 
-![dugtrio](../assets/sprites/dugtrio/front.gif)
+![dugtrio](../assets/sprites/dugtrio/front.gif "Dugtrio")
 
 <pre><code><b>Attack:</b> 80 → 105
 <b>Total:</b> 405 → 430
@@ -534,7 +534,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#052 Meowth](../pokemon/meowth.md/)**
 
-![meowth](../assets/sprites/meowth/front.gif)
+![meowth](../assets/sprites/meowth/front.gif "Meowth")
 
 <pre><code><b>Ability One:</b> Pickup
 <b>Ability Two:</b> Technician
@@ -542,7 +542,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#053 Persian](../pokemon/persian.md/)**
 
-![persian](../assets/sprites/persian/front.gif)
+![persian](../assets/sprites/persian/front.gif "Persian")
 
 <pre><code><b>Special Attack:</b> 65 → 85
 <b>Total:</b> 440 → 460
@@ -552,8 +552,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#054 Psyduck](../pokemon/psyduck.md/), [#055 Golduck](../pokemon/golduck.md/)**
 
-![psyduck](../assets/sprites/psyduck/front.gif)
-![golduck](../assets/sprites/golduck/front.gif)
+![psyduck](../assets/sprites/psyduck/front.gif "Psyduck")
+![golduck](../assets/sprites/golduck/front.gif "Golduck")
 
 <pre><code><b>Ability One:</b> Swift Swim
 <b>Ability Two:</b> Cloud Nine
@@ -561,7 +561,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#056 Mankey](../pokemon/mankey.md/)**
 
-![mankey](../assets/sprites/mankey/front.gif)
+![mankey](../assets/sprites/mankey/front.gif "Mankey")
 
 <pre><code><b>Ability One:</b> Defiant
 <b>Ability Two:</b> Anger Point
@@ -569,7 +569,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#057 Primeape](../pokemon/primeape.md/)**
 
-![primeape](../assets/sprites/primeape/front.gif)
+![primeape](../assets/sprites/primeape/front.gif "Primeape")
 
 <pre><code><b>Attack:</b> 105 → 115
 <b>Speed:</b> 95 → 110
@@ -580,7 +580,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#058 Growlithe](../pokemon/growlithe.md/)**
 
-![growlithe](../assets/sprites/growlithe/front.gif)
+![growlithe](../assets/sprites/growlithe/front.gif "Growlithe")
 
 <pre><code><b>Ability One:</b> Intimidate
 <b>Ability Two:</b> Justified
@@ -588,7 +588,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#059 Arcanine](../pokemon/arcanine.md/)**
 
-![arcanine](../assets/sprites/arcanine/front.gif)
+![arcanine](../assets/sprites/arcanine/front.gif "Arcanine")
 
 <pre><code><b>Ability One:</b> Intimidate
 <b>Ability Two:</b> Justified
@@ -596,7 +596,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#060 Poliwag](../pokemon/poliwag.md/)**
 
-![poliwag](../assets/sprites/poliwag/front.gif)
+![poliwag](../assets/sprites/poliwag/front.gif "Poliwag")
 
 <pre><code><b>Ability One:</b> Water Absorb
 <b>Ability Two:</b> Swift Swim
@@ -604,7 +604,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#061 Poliwhirl](../pokemon/poliwhirl.md/)**
 
-![poliwhirl](../assets/sprites/poliwhirl/front.gif)
+![poliwhirl](../assets/sprites/poliwhirl/front.gif "Poliwhirl")
 
 <pre><code><b>Evolution (Politoed):</b> Level Up at Night with King's Rock equipped.
 <b>Ability One:</b> Water Absorb
@@ -613,7 +613,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#062 Poliwrath](../pokemon/poliwrath.md/)**
 
-![poliwrath](../assets/sprites/poliwrath/front.gif)
+![poliwrath](../assets/sprites/poliwrath/front.gif "Poliwrath")
 
 <pre><code><b>Attack:</b> 85 → 105
 <b>Total:</b> 500 → 520
@@ -623,7 +623,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#063 Abra](../pokemon/abra.md/)**
 
-![abra](../assets/sprites/abra/front.gif)
+![abra](../assets/sprites/abra/front.gif "Abra")
 
 <pre><code><b>Ability One:</b> Synchronize
 <b>Ability Two:</b> Magic Guard
@@ -631,7 +631,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#064 Kadabra](../pokemon/kadabra.md/)**
 
-![kadabra](../assets/sprites/kadabra/front.gif)
+![kadabra](../assets/sprites/kadabra/front.gif "Kadabra")
 
 <pre><code><b>Evolution:</b> Level 36.
 <b>Ability One:</b> Synchronize
@@ -640,7 +640,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#065 Alakazam](../pokemon/alakazam.md/)**
 
-![alakazam](../assets/sprites/alakazam/front.gif)
+![alakazam](../assets/sprites/alakazam/front.gif "Alakazam")
 
 <pre><code><b>Ability One:</b> Synchronize
 <b>Ability Two:</b> Magic Guard
@@ -648,7 +648,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#066 Machop](../pokemon/machop.md/)**
 
-![machop](../assets/sprites/machop/front.gif)
+![machop](../assets/sprites/machop/front.gif "Machop")
 
 <pre><code><b>Ability One:</b> Guts
 <b>Ability Two:</b> No Guard
@@ -656,7 +656,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#067 Machoke](../pokemon/machoke.md/)**
 
-![machoke](../assets/sprites/machoke/front.gif)
+![machoke](../assets/sprites/machoke/front.gif "Machoke")
 
 <pre><code><b>Evolution:</b> Level 39.
 <b>Ability One:</b> Guts
@@ -665,7 +665,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#068 Machamp](../pokemon/machamp.md/)**
 
-![machamp](../assets/sprites/machamp/front.gif)
+![machamp](../assets/sprites/machamp/front.gif "Machamp")
 
 <pre><code><b>Ability One:</b> Guts
 <b>Ability Two:</b> No Guard
@@ -673,7 +673,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#069 Bellsprout](../pokemon/bellsprout.md/)**
 
-![bellsprout](../assets/sprites/bellsprout/front.gif)
+![bellsprout](../assets/sprites/bellsprout/front.gif "Bellsprout")
 
 <pre><code><b>Ability One:</b> Chlorophyll
 <b>Ability Two:</b> Limber
@@ -681,7 +681,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#070 Weepinbell](../pokemon/weepinbell.md/)**
 
-![weepinbell](../assets/sprites/weepinbell/front.gif)
+![weepinbell](../assets/sprites/weepinbell/front.gif "Weepinbell")
 
 <pre><code><b>Ability One:</b> Chlorophyll
 <b>Ability Two:</b> Gluttony
@@ -689,7 +689,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#071 Victreebel](../pokemon/victreebel.md/)**
 
-![victreebel](../assets/sprites/victreebel/front.gif)
+![victreebel](../assets/sprites/victreebel/front.gif "Victreebel")
 
 <pre><code><b>HP:</b> 80 → 90
 <b>Attack:</b> 105 → 115
@@ -701,8 +701,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#072 Tentacool](../pokemon/tentacool.md/), [#073 Tentacruel](../pokemon/tentacruel.md/)**
 
-![tentacool](../assets/sprites/tentacool/front.gif)
-![tentacruel](../assets/sprites/tentacruel/front.gif)
+![tentacool](../assets/sprites/tentacool/front.gif "Tentacool")
+![tentacruel](../assets/sprites/tentacruel/front.gif "Tentacruel")
 
 <pre><code><b>Ability One:</b> Clear Body
 <b>Ability Two:</b> Liquid Ooze
@@ -710,7 +710,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#074 Geodude](../pokemon/geodude.md/)**
 
-![geodude](../assets/sprites/geodude/front.gif)
+![geodude](../assets/sprites/geodude/front.gif "Geodude")
 
 <pre><code><b>Ability One:</b> Rock Head
 <b>Ability Two:</b> Sturdy
@@ -718,7 +718,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#075 Graveler](../pokemon/graveler.md/)**
 
-![graveler](../assets/sprites/graveler/front.gif)
+![graveler](../assets/sprites/graveler/front.gif "Graveler")
 
 <pre><code><b>Evolution:</b> Level 36.
 <b>Ability One:</b> Rock Head
@@ -727,7 +727,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#076 Golem](../pokemon/golem.md/)**
 
-![golem](../assets/sprites/golem/front.gif)
+![golem](../assets/sprites/golem/front.gif "Golem")
 
 <pre><code><b>HP:</b> 80 → 90
 <b>Total:</b> 485 → 495
@@ -737,8 +737,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#077 Ponyta](../pokemon/ponyta.md/), [#078 Rapidash](../pokemon/rapidash.md/)**
 
-![ponyta](../assets/sprites/ponyta/front.gif)
-![rapidash](../assets/sprites/rapidash/front.gif)
+![ponyta](../assets/sprites/ponyta/front.gif "Ponyta")
+![rapidash](../assets/sprites/rapidash/front.gif "Rapidash")
 
 <pre><code><b>Ability One:</b> Flame Body
 <b>Ability Two:</b> Flash Fire
@@ -746,7 +746,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#079 Slowpoke](../pokemon/slowpoke.md/)**
 
-![slowpoke](../assets/sprites/slowpoke/front.gif)
+![slowpoke](../assets/sprites/slowpoke/front.gif "Slowpoke")
 
 <pre><code><b>Evolution (Slowbro):</b> Level 37 or Level Up with a Shellder in the party.
 <b>Evolution (Slowking):</b> Level Up at Day with King's Rock.
@@ -756,7 +756,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#080 Slowbro](../pokemon/slowbro.md/)**
 
-![slowbro](../assets/sprites/slowbro/front.gif)
+![slowbro](../assets/sprites/slowbro/front.gif "Slowbro")
 
 <pre><code><b>Ability One:</b> Regenerator
 <b>Ability Two:</b> Drizzle
@@ -764,8 +764,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#081 Magnemite](../pokemon/magnemite.md/), [#082 Magneton](../pokemon/magneton.md/)**
 
-![magnemite](../assets/sprites/magnemite/front.gif)
-![magneton](../assets/sprites/magneton/front.gif)
+![magnemite](../assets/sprites/magnemite/front.gif "Magnemite")
+![magneton](../assets/sprites/magneton/front.gif "Magneton")
 
 <pre><code><b>Ability One:</b> Magnet Pull
 <b>Ability Two:</b> Analytic
@@ -773,7 +773,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#083 Farfetch'd](../pokemon/farfetchd.md/)**
 
-![farfetchd](../assets/sprites/farfetchd/front.gif)
+![farfetchd](../assets/sprites/farfetchd/front.gif "Farfetchd")
 
 <pre><code><b>Type:</b> Fighting / Flying
 <b>HP:</b> 52 → 70
@@ -791,7 +791,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#084 Doduo](../pokemon/doduo.md/)**
 
-![doduo](../assets/sprites/doduo/front.gif)
+![doduo](../assets/sprites/doduo/front.gif "Doduo")
 
 <pre><code><b>Ability One:</b> Tangled Feet
 <b>Ability Two:</b> Early Bird
@@ -799,7 +799,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#085 Dodrio](../pokemon/dodrio.md/)**
 
-![dodrio](../assets/sprites/dodrio/front.gif)
+![dodrio](../assets/sprites/dodrio/front.gif "Dodrio")
 
 <pre><code><b>Ability One:</b> Anger Point
 <b>Ability Two:</b> Early Bird
@@ -807,7 +807,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#086 Seel](../pokemon/seel.md/)**
 
-![seel](../assets/sprites/seel/front.gif)
+![seel](../assets/sprites/seel/front.gif "Seel")
 
 <pre><code><b>Ability One:</b> Thick Fat
 <b>Ability Two:</b> Hydration
@@ -815,7 +815,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#087 Dewgong](../pokemon/dewgong.md/)**
 
-![dewgong](../assets/sprites/dewgong/front.gif)
+![dewgong](../assets/sprites/dewgong/front.gif "Dewgong")
 
 <pre><code><b>Special Attack:</b> 70 → 85
 <b>Total:</b> 475 → 490
@@ -825,8 +825,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#088 Grimer](../pokemon/grimer.md/), [#089 Muk](../pokemon/muk.md/)**
 
-![grimer](../assets/sprites/grimer/front.gif)
-![muk](../assets/sprites/muk/front.gif)
+![grimer](../assets/sprites/grimer/front.gif "Grimer")
+![muk](../assets/sprites/muk/front.gif "Muk")
 
 <pre><code><b>Item:</b> Toxic Orb (50%)
 <b>Ability One:</b> Stench
@@ -835,7 +835,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#090 Shellder](../pokemon/shellder.md/)**
 
-![shellder](../assets/sprites/shellder/front.gif)
+![shellder](../assets/sprites/shellder/front.gif "Shellder")
 
 <pre><code><b>Ability One:</b> Overcoat
 <b>Ability Two:</b> Skill Link
@@ -843,7 +843,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#091 Cloyster](../pokemon/cloyster.md/)**
 
-![cloyster](../assets/sprites/cloyster/front.gif)
+![cloyster](../assets/sprites/cloyster/front.gif "Cloyster")
 
 <pre><code><b>Ability One:</b> Overcoat
 <b>Ability Two:</b> Skill Link
@@ -851,7 +851,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#092 Gastly](../pokemon/gastly.md/)**
 
-![gastly](../assets/sprites/gastly/front.gif)
+![gastly](../assets/sprites/gastly/front.gif "Gastly")
 
 <pre><code><b>TM:</b> Can now learn TM34, Sludge Wave.
 <b>Ability One:</b> Levitate
@@ -860,7 +860,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#093 Haunter](../pokemon/haunter.md/)**
 
-![haunter](../assets/sprites/haunter/front.gif)
+![haunter](../assets/sprites/haunter/front.gif "Haunter")
 
 <pre><code><b>TM:</b> Can now learn TM34, Sludge Wave.
 <b>Evolution:</b> Level 36.
@@ -870,7 +870,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#094 Gengar](../pokemon/gengar.md/)**
 
-![gengar](../assets/sprites/gengar/front.gif)
+![gengar](../assets/sprites/gengar/front.gif "Gengar")
 
 <pre><code><b>TM:</b> Can now learn TM34, Sludge Wave.
 <b>Ability One:</b> Levitate
@@ -879,7 +879,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#095 Onix](../pokemon/onix.md/)**
 
-![onix](../assets/sprites/onix/front.gif)
+![onix](../assets/sprites/onix/front.gif "Onix")
 
 <pre><code><b>Attack:</b> 45 → 70
 <b>Total:</b> 385 → 410
@@ -890,8 +890,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#096 Drowzee](../pokemon/drowzee.md/), [#097 Hypno](../pokemon/hypno.md/)**
 
-![drowzee](../assets/sprites/drowzee/front.gif)
-![hypno](../assets/sprites/hypno/front.gif)
+![drowzee](../assets/sprites/drowzee/front.gif "Drowzee")
+![hypno](../assets/sprites/hypno/front.gif "Hypno")
 
 <pre><code><b>Ability One:</b> Insomnia
 <b>Ability Two:</b> Forewarn
@@ -899,8 +899,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#098 Krabby](../pokemon/krabby.md/), [#099 Kingler](../pokemon/kingler.md/)**
 
-![krabby](../assets/sprites/krabby/front.gif)
-![kingler](../assets/sprites/kingler/front.gif)
+![krabby](../assets/sprites/krabby/front.gif "Krabby")
+![kingler](../assets/sprites/kingler/front.gif "Kingler")
 
 <pre><code><b>HM:</b> Can now learn HM05, Waterfall.
 <b>Ability One:</b> Hyper Cutter
@@ -909,8 +909,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#100 Voltorb](../pokemon/voltorb.md/), [#101 Electrode](../pokemon/electrode.md/)**
 
-![voltorb](../assets/sprites/voltorb/front.gif)
-![electrode](../assets/sprites/electrode/front.gif)
+![voltorb](../assets/sprites/voltorb/front.gif "Voltorb")
+![electrode](../assets/sprites/electrode/front.gif "Electrode")
 
 <pre><code><b>Ability One:</b> Aftermath
 <b>Ability Two:</b> Static
@@ -918,7 +918,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#102 Exeggcute](../pokemon/exeggcute.md/)**
 
-![exeggcute](../assets/sprites/exeggcute/front.gif)
+![exeggcute](../assets/sprites/exeggcute/front.gif "Exeggcute")
 
 <pre><code><b>Ability One:</b> Chlorophyll
 <b>Ability Two:</b> Harvest
@@ -926,7 +926,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#103 Exeggutor](../pokemon/exeggutor.md/)**
 
-![exeggutor](../assets/sprites/exeggutor/front.gif)
+![exeggutor](../assets/sprites/exeggutor/front.gif "Exeggutor")
 
 <pre><code><b>Ability One:</b> Chlorophyll
 <b>Ability Two:</b> Harvest
@@ -934,7 +934,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#104 Cubone](../pokemon/cubone.md/)**
 
-![cubone](../assets/sprites/cubone/front.gif)
+![cubone](../assets/sprites/cubone/front.gif "Cubone")
 
 <pre><code><b>Item:</b> Thick Club (50%)
 <b>Ability One:</b> Rock Head
@@ -943,7 +943,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#105 Marowak](../pokemon/marowak.md/)**
 
-![marowak](../assets/sprites/marowak/front.gif)
+![marowak](../assets/sprites/marowak/front.gif "Marowak")
 
 <pre><code><b>Speed:</b> 45 → 70
 <b>Total:</b> 425 → 450
@@ -953,7 +953,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#106 Hitmonlee](../pokemon/hitmonlee.md/)**
 
-![hitmonlee](../assets/sprites/hitmonlee/front.gif)
+![hitmonlee](../assets/sprites/hitmonlee/front.gif "Hitmonlee")
 
 <pre><code><b>Ability One:</b> Unburden
 <b>Ability Two:</b> Reckless
@@ -961,7 +961,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#107 Hitmonchan](../pokemon/hitmonchan.md/)**
 
-![hitmonchan](../assets/sprites/hitmonchan/front.gif)
+![hitmonchan](../assets/sprites/hitmonchan/front.gif "Hitmonchan")
 
 <pre><code><b>Ability One:</b> Inner Focus
 <b>Ability Two:</b> Iron Fist
@@ -969,7 +969,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#108 Lickitung](../pokemon/lickitung.md/)**
 
-![lickitung](../assets/sprites/lickitung/front.gif)
+![lickitung](../assets/sprites/lickitung/front.gif "Lickitung")
 
 <pre><code><b>Ability One:</b> Cloud Nine
 <b>Ability Two:</b> Gluttony
@@ -977,7 +977,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#109 Koffing](../pokemon/koffing.md/)**
 
-![koffing](../assets/sprites/koffing/front.gif)
+![koffing](../assets/sprites/koffing/front.gif "Koffing")
 
 <pre><code><b>TM:</b> Can now learn TM34, Sludge Wave.
 <b>Ability One:</b> Levitate
@@ -986,7 +986,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#110 Weezing](../pokemon/weezing.md/)**
 
-![weezing](../assets/sprites/weezing/front.gif)
+![weezing](../assets/sprites/weezing/front.gif "Weezing")
 
 <pre><code><b>TM:</b> Can now learn TM34, Sludge Wave.
 <b>Special Attack:</b> 85 → 95
@@ -997,7 +997,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#111 Rhyhorn](../pokemon/rhyhorn.md/)**
 
-![rhyhorn](../assets/sprites/rhyhorn/front.gif)
+![rhyhorn](../assets/sprites/rhyhorn/front.gif "Rhyhorn")
 
 <pre><code><b>Ability One:</b> Reckless
 <b>Ability Two:</b> Rock Head
@@ -1005,7 +1005,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#112 Rhydon](../pokemon/rhydon.md/)**
 
-![rhydon](../assets/sprites/rhydon/front.gif)
+![rhydon](../assets/sprites/rhydon/front.gif "Rhydon")
 
 <pre><code><b>Evolution:</b> Use the Protector.
 <b>Ability One:</b> Reckless
@@ -1014,7 +1014,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#113 Chansey](../pokemon/chansey.md/)**
 
-![chansey](../assets/sprites/chansey/front.gif)
+![chansey](../assets/sprites/chansey/front.gif "Chansey")
 
 <pre><code><b>Item:</b> Lucky Egg (0%)
 <b>Base Happiness:</b> 160
@@ -1024,7 +1024,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#114 Tangela](../pokemon/tangela.md/)**
 
-![tangela](../assets/sprites/tangela/front.gif)
+![tangela](../assets/sprites/tangela/front.gif "Tangela")
 
 <pre><code><b>Ability One:</b> Chlorophyll
 <b>Ability Two:</b> Regenerator
@@ -1032,7 +1032,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#115 Kangaskhan](../pokemon/kangaskhan.md/)**
 
-![kangaskhan](../assets/sprites/kangaskhan/front.gif)
+![kangaskhan](../assets/sprites/kangaskhan/front.gif "Kangaskhan")
 
 <pre><code><b>Ability One:</b> Early Bird
 <b>Ability Two:</b> Scrappy
@@ -1040,7 +1040,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#116 Horsea](../pokemon/horsea.md/)**
 
-![horsea](../assets/sprites/horsea/front.gif)
+![horsea](../assets/sprites/horsea/front.gif "Horsea")
 
 <pre><code><b>TM:</b> Now learns TM79, Frost Breath.
 <b>Ability One:</b> Swift Swim
@@ -1049,7 +1049,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#117 Seadra](../pokemon/seadra.md/)**
 
-![seadra](../assets/sprites/seadra/front.gif)
+![seadra](../assets/sprites/seadra/front.gif "Seadra")
 
 <pre><code><b>TM:</b> Now learns TM79, Frost Breath.
 <b>Evolution:</b> Use the Dragon Scale.
@@ -1059,7 +1059,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#118 Goldeen](../pokemon/goldeen.md/)**
 
-![goldeen](../assets/sprites/goldeen/front.gif)
+![goldeen](../assets/sprites/goldeen/front.gif "Goldeen")
 
 <pre><code><b>Ability One:</b> Swift Swim
 <b>Ability Two:</b> Lightning Rod
@@ -1067,7 +1067,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#119 Seaking](../pokemon/seaking.md/)**
 
-![seaking](../assets/sprites/seaking/front.gif)
+![seaking](../assets/sprites/seaking/front.gif "Seaking")
 
 <pre><code><b>Attack:</b> 92 → 112
 <b>Speed:</b> 68 → 88
@@ -1078,8 +1078,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#120 Staryu](../pokemon/staryu.md/), [#121 Starmie](../pokemon/starmie.md/)**
 
-![staryu](../assets/sprites/staryu/front.gif)
-![starmie](../assets/sprites/starmie/front.gif)
+![staryu](../assets/sprites/staryu/front.gif "Staryu")
+![starmie](../assets/sprites/starmie/front.gif "Starmie")
 
 <pre><code><b>Ability One:</b> Regenerator
 <b>Ability Two:</b> Natural Cure
@@ -1087,7 +1087,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#122 Mr. Mime](../pokemon/mr-mime.md/)**
 
-![mr-mime](../assets/sprites/mr-mime/front.gif)
+![mr-mime](../assets/sprites/mr-mime/front.gif "Mr Mime")
 
 <pre><code><b>Speed:</b> 90 → 100
 <b>Total:</b> 460 → 470
@@ -1097,7 +1097,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#123 Scyther](../pokemon/scyther.md/)**
 
-![scyther](../assets/sprites/scyther/front.gif)
+![scyther](../assets/sprites/scyther/front.gif "Scyther")
 
 <pre><code><b>Evolution:</b> Level Up at Day with a Metal Coat equipped.
 <b>TM:</b> Can now learn TM62, Acrobatics.
@@ -1107,7 +1107,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#124 Jynx](../pokemon/jynx.md/)**
 
-![jynx](../assets/sprites/jynx/front.gif)
+![jynx](../assets/sprites/jynx/front.gif "Jynx")
 
 <pre><code><b>Special Attack:</b> 115 → 125
 <b>Speed:</b> 95 → 100
@@ -1118,7 +1118,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#125 Electabuzz](../pokemon/electabuzz.md/)**
 
-![electabuzz](../assets/sprites/electabuzz/front.gif)
+![electabuzz](../assets/sprites/electabuzz/front.gif "Electabuzz")
 
 <pre><code><b>Evolution:</b> Use the Electirizer.
 <b>Ability One:</b> Static
@@ -1127,7 +1127,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#126 Magmar](../pokemon/magmar.md/)**
 
-![magmar](../assets/sprites/magmar/front.gif)
+![magmar](../assets/sprites/magmar/front.gif "Magmar")
 
 <pre><code><b>Evolution:</b> Use the Magmarizer.
 <b>Ability One:</b> Flame Body
@@ -1136,7 +1136,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#127 Pinsir](../pokemon/pinsir.md/)**
 
-![pinsir](../assets/sprites/pinsir/front.gif)
+![pinsir](../assets/sprites/pinsir/front.gif "Pinsir")
 
 <pre><code><b>Ability One:</b> Moxie
 <b>Ability Two:</b> Mold Breaker
@@ -1144,7 +1144,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#128 Tauros](../pokemon/tauros.md/)**
 
-![tauros](../assets/sprites/tauros/front.gif)
+![tauros](../assets/sprites/tauros/front.gif "Tauros")
 
 <pre><code><b>Attack:</b> 100 → 110
 <b>Total:</b> 490 → 500
@@ -1154,7 +1154,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#129 Magikarp](../pokemon/magikarp.md/)**
 
-![magikarp](../assets/sprites/magikarp/front.gif)
+![magikarp](../assets/sprites/magikarp/front.gif "Magikarp")
 
 <pre><code><b>Ability One:</b> Swift Swim
 <b>Ability Two:</b> Rattled
@@ -1162,7 +1162,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#130 Gyarados](../pokemon/gyarados.md/)**
 
-![gyarados](../assets/sprites/gyarados/front.gif)
+![gyarados](../assets/sprites/gyarados/front.gif "Gyarados")
 
 <pre><code><b>Ability One:</b> Intimidate
 <b>Ability Two:</b> Moxie
@@ -1170,7 +1170,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#131 Lapras](../pokemon/lapras.md/)**
 
-![lapras](../assets/sprites/lapras/front.gif)
+![lapras](../assets/sprites/lapras/front.gif "Lapras")
 
 <pre><code><b>Ability One:</b> Water Absorb
 <b>Ability Two:</b> Shell Armor
@@ -1178,7 +1178,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#132 Ditto](../pokemon/ditto.md/)**
 
-![ditto](../assets/sprites/ditto/front.gif)
+![ditto](../assets/sprites/ditto/front.gif "Ditto")
 
 <pre><code><b>Ability One:</b> Imposter
 <b>Ability Two:</b> Imposter
@@ -1186,7 +1186,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#133 Eevee](../pokemon/eevee.md/)**
 
-![eevee](../assets/sprites/eevee/front.gif)
+![eevee](../assets/sprites/eevee/front.gif "Eevee")
 
 <pre><code><b>Base Happiness:</b> 200
 <b>TM:</b> Can now learn TM86, Grass Knot.
@@ -1196,7 +1196,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#134 Vaporeon](../pokemon/vaporeon.md/)**
 
-![vaporeon](../assets/sprites/vaporeon/front.gif)
+![vaporeon](../assets/sprites/vaporeon/front.gif "Vaporeon")
 
 <pre><code><b>Base Happiness:</b> 200
 <b>TM:</b> Can now learn TM86, Grass Knot.
@@ -1206,7 +1206,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#135 Jolteon](../pokemon/jolteon.md/)**
 
-![jolteon](../assets/sprites/jolteon/front.gif)
+![jolteon](../assets/sprites/jolteon/front.gif "Jolteon")
 
 <pre><code><b>Base Happiness:</b> 200
 <b>TM:</b> Can now learn TM86, Grass Knot.
@@ -1216,7 +1216,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#136 Flareon](../pokemon/flareon.md/)**
 
-![flareon](../assets/sprites/flareon/front.gif)
+![flareon](../assets/sprites/flareon/front.gif "Flareon")
 
 <pre><code><b>Base Happiness:</b> 200
 <b>HP:</b> 65 → 110
@@ -1232,7 +1232,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#137 Porygon](../pokemon/porygon.md/)**
 
-![porygon](../assets/sprites/porygon/front.gif)
+![porygon](../assets/sprites/porygon/front.gif "Porygon")
 
 <pre><code><b>Evolution:</b> Use the Up-Grade.
 <b>Ability One:</b> Trace
@@ -1241,7 +1241,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#138 Omanyte](../pokemon/omanyte.md/)**
 
-![omanyte](../assets/sprites/omanyte/front.gif)
+![omanyte](../assets/sprites/omanyte/front.gif "Omanyte")
 
 <pre><code><b>Ability One:</b> Swift Swim
 <b>Ability Two:</b> Shell Armor
@@ -1249,7 +1249,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#139 Omastar](../pokemon/omastar.md/)**
 
-![omastar](../assets/sprites/omastar/front.gif)
+![omastar](../assets/sprites/omastar/front.gif "Omastar")
 
 <pre><code><b>Ability One:</b> Swift Swim
 <b>Ability Two:</b> Iron Barbs
@@ -1257,7 +1257,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#140 Kabuto](../pokemon/kabuto.md/)**
 
-![kabuto](../assets/sprites/kabuto/front.gif)
+![kabuto](../assets/sprites/kabuto/front.gif "Kabuto")
 
 <pre><code><b>Ability One:</b> Swift Swim
 <b>Ability Two:</b> Battle Armor
@@ -1265,7 +1265,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#141 Kabutops](../pokemon/kabutops.md/)**
 
-![kabutops](../assets/sprites/kabutops/front.gif)
+![kabutops](../assets/sprites/kabutops/front.gif "Kabutops")
 
 <pre><code><b>Ability One:</b> Swift Swim
 <b>Ability Two:</b> Hyper Cutter
@@ -1273,7 +1273,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#142 Aerodactyl](../pokemon/aerodactyl.md/)**
 
-![aerodactyl](../assets/sprites/aerodactyl/front.gif)
+![aerodactyl](../assets/sprites/aerodactyl/front.gif "Aerodactyl")
 
 <pre><code><b>Ability One:</b> Rock Head
 <b>Ability Two:</b> Pressure
@@ -1281,7 +1281,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#143 Snorlax](../pokemon/snorlax.md/)**
 
-![snorlax](../assets/sprites/snorlax/front.gif)
+![snorlax](../assets/sprites/snorlax/front.gif "Snorlax")
 
 <pre><code><b>Ability One:</b> Gluttony
 <b>Ability Two:</b> Thick Fat
@@ -1289,7 +1289,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#144 Articuno](../pokemon/articuno.md/)**
 
-![articuno](../assets/sprites/articuno/front.gif)
+![articuno](../assets/sprites/articuno/front.gif "Articuno")
 
 <pre><code><b>Item:</b> Petaya Berry (100%)
 <b>Ability One:</b> Pressure
@@ -1298,7 +1298,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#145 Zapdos](../pokemon/zapdos.md/)**
 
-![zapdos](../assets/sprites/zapdos/front.gif)
+![zapdos](../assets/sprites/zapdos/front.gif "Zapdos")
 
 <pre><code><b>Item:</b> Salac Berry (100%)
 <b>Ability One:</b> Pressure
@@ -1307,7 +1307,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#146 Moltres](../pokemon/moltres.md/)**
 
-![moltres](../assets/sprites/moltres/front.gif)
+![moltres](../assets/sprites/moltres/front.gif "Moltres")
 
 <pre><code><b>Item:</b> Liechi Berry (100%)
 <b>Ability One:</b> Pressure
@@ -1316,7 +1316,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#147 Dratini](../pokemon/dratini.md/)**
 
-![dratini](../assets/sprites/dratini/front.gif)
+![dratini](../assets/sprites/dratini/front.gif "Dratini")
 
 <pre><code><b>Ability One:</b> Shed Skin
 <b>Ability Two:</b> Marvel Scale
@@ -1324,7 +1324,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#148 Dragonair](../pokemon/dragonair.md/)**
 
-![dragonair](../assets/sprites/dragonair/front.gif)
+![dragonair](../assets/sprites/dragonair/front.gif "Dragonair")
 
 <pre><code><b>Ability One:</b> Shed Skin
 <b>Ability Two:</b> Marvel Scale
@@ -1332,7 +1332,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#149 Dragonite](../pokemon/dragonite.md/)**
 
-![dragonite](../assets/sprites/dragonite/front.gif)
+![dragonite](../assets/sprites/dragonite/front.gif "Dragonite")
 
 <pre><code><b>Ability One:</b> Multiscale
 <b>Ability Two:</b> Marvel Scale
@@ -1340,7 +1340,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#150 Mewtwo](../pokemon/mewtwo.md/)**
 
-![mewtwo](../assets/sprites/mewtwo/front.gif)
+![mewtwo](../assets/sprites/mewtwo/front.gif "Mewtwo")
 
 <pre><code><b>Item:</b> Apicot Berry (100%)
 <b>Ability One:</b> Pressure
@@ -1349,7 +1349,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#151 Mew](../pokemon/mew.md/)**
 
-![mew](../assets/sprites/mew/front.gif)
+![mew](../assets/sprites/mew/front.gif "Mew")
 
 <pre><code><b>Ability One:</b> Synchronize
 <b>Ability Two:</b> Magic Guard
@@ -1361,9 +1361,9 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#152 Chikorita](../pokemon/chikorita.md/), [#153 Bayleef](../pokemon/bayleef.md/), [#154 Meganium](../pokemon/meganium.md/)**
 
-![chikorita](../assets/sprites/chikorita/front.gif)
-![bayleef](../assets/sprites/bayleef/front.gif)
-![meganium](../assets/sprites/meganium/front.gif)
+![chikorita](../assets/sprites/chikorita/front.gif "Chikorita")
+![bayleef](../assets/sprites/bayleef/front.gif "Bayleef")
+![meganium](../assets/sprites/meganium/front.gif "Meganium")
 
 <pre><code><b>Item:</b> Miracle Seed (50%)
 <b>Ability One:</b> Overgrow
@@ -1372,9 +1372,9 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#155 Cyndaquil](../pokemon/cyndaquil.md/), [#156 Quilava](../pokemon/quilava.md/), [#157 Typhlosion](../pokemon/typhlosion.md/)**
 
-![cyndaquil](../assets/sprites/cyndaquil/front.gif)
-![quilava](../assets/sprites/quilava/front.gif)
-![typhlosion](../assets/sprites/typhlosion/front.gif)
+![cyndaquil](../assets/sprites/cyndaquil/front.gif "Cyndaquil")
+![quilava](../assets/sprites/quilava/front.gif "Quilava")
+![typhlosion](../assets/sprites/typhlosion/front.gif "Typhlosion")
 
 <pre><code><b>Item:</b> Charcoal (50%)
 <b>Ability One:</b> Blaze
@@ -1383,9 +1383,9 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#158 Totodile](../pokemon/totodile.md/), [#159 Croconaw](../pokemon/croconaw.md/), [#160 Feraligatr.](../pokemon/feraligatr.md/)**
 
-![totodile](../assets/sprites/totodile/front.gif)
-![croconaw](../assets/sprites/croconaw/front.gif)
-![feraligatr](../assets/sprites/feraligatr/front.gif)
+![totodile](../assets/sprites/totodile/front.gif "Totodile")
+![croconaw](../assets/sprites/croconaw/front.gif "Croconaw")
+![feraligatr](../assets/sprites/feraligatr/front.gif "Feraligatr")
 
 <pre><code><b>Item:</b> Mystic Water (50%)
 <b>Ability One:</b> Torrent
@@ -1394,7 +1394,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#161 Sentret](../pokemon/sentret.md/)**
 
-![sentret](../assets/sprites/sentret/front.gif)
+![sentret](../assets/sprites/sentret/front.gif "Sentret")
 
 <pre><code><b>Ability One:</b> Frisk
 <b>Ability Two:</b> Keen Eye
@@ -1402,7 +1402,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#162 Furret](../pokemon/furret.md/)**
 
-![furret](../assets/sprites/furret/front.gif)
+![furret](../assets/sprites/furret/front.gif "Furret")
 
 <pre><code><b>Attack:</b> 76 → 86
 <b>Speed:</b> 90 → 100
@@ -1413,7 +1413,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#163 Hoothoot](../pokemon/hoothoot.md/)**
 
-![hoothoot](../assets/sprites/hoothoot/front.gif)
+![hoothoot](../assets/sprites/hoothoot/front.gif "Hoothoot")
 
 <pre><code><b>Ability One:</b> Insomnia
 <b>Ability Two:</b> Tinted Lens
@@ -1421,7 +1421,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#164 Noctowl](../pokemon/noctowl.md/)**
 
-![noctowl](../assets/sprites/noctowl/front.gif)
+![noctowl](../assets/sprites/noctowl/front.gif "Noctowl")
 
 <pre><code><b>Special Attack:</b> 76 → 96
 <b>Total:</b> 442 → 462
@@ -1431,7 +1431,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#165 Ledyba](../pokemon/ledyba.md/)**
 
-![ledyba](../assets/sprites/ledyba/front.gif)
+![ledyba](../assets/sprites/ledyba/front.gif "Ledyba")
 
 <pre><code><b>Attack:</b> 20 → 40
 <b>Special Attack:</b> 40 → 20
@@ -1441,7 +1441,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#166 Ledian](../pokemon/ledian.md/)**
 
-![ledian](../assets/sprites/ledian/front.gif)
+![ledian](../assets/sprites/ledian/front.gif "Ledian")
 
 <pre><code><b>Attack:</b> 35 → 95
 <b>Special Attack:</b> 55 → 35
@@ -1452,7 +1452,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#167 Spinarak](../pokemon/spinarak.md/)**
 
-![spinarak](../assets/sprites/spinarak/front.gif)
+![spinarak](../assets/sprites/spinarak/front.gif "Spinarak")
 
 <pre><code><b>Ability One:</b> Sniper
 <b>Ability Two:</b> Insomnia
@@ -1460,7 +1460,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#168 Ariados](../pokemon/ariados.md/)**
 
-![ariados](../assets/sprites/ariados/front.gif)
+![ariados](../assets/sprites/ariados/front.gif "Ariados")
 
 <pre><code><b>Speed:</b> 40 → 80
 <b>Total:</b> 390 → 430
@@ -1470,7 +1470,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#169 Crobat](../pokemon/crobat.md/)**
 
-![crobat](../assets/sprites/crobat/front.gif)
+![crobat](../assets/sprites/crobat/front.gif "Crobat")
 
 <pre><code><b>Base Happiness:</b> 140
 <b>Ability One:</b> Inner Focus
@@ -1479,7 +1479,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#170 Chinchou](../pokemon/chinchou.md/)**
 
-![chinchou](../assets/sprites/chinchou/front.gif)
+![chinchou](../assets/sprites/chinchou/front.gif "Chinchou")
 
 <pre><code><b>Ability One:</b> Volt Absorb
 <b>Ability Two:</b> Water Absorb
@@ -1487,7 +1487,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#171 Lanturn](../pokemon/lanturn.md/)**
 
-![lanturn](../assets/sprites/lanturn/front.gif)
+![lanturn](../assets/sprites/lanturn/front.gif "Lanturn")
 
 <pre><code><b>Special Attack:</b> 76 → 86
 <b>Special Defense:</b> 76 → 86
@@ -1498,7 +1498,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#172 Pichu](../pokemon/pichu.md/)**
 
-![pichu](../assets/sprites/pichu/front.gif)
+![pichu](../assets/sprites/pichu/front.gif "Pichu")
 
 <pre><code><b>Base Happiness:</b> 200
 <b>HM:</b> Can now learn HM03, Surf.
@@ -1508,7 +1508,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#173 Cleffa](../pokemon/cleffa.md/)**
 
-![cleffa](../assets/sprites/cleffa/front.gif)
+![cleffa](../assets/sprites/cleffa/front.gif "Cleffa")
 
 <pre><code><b>Base Happiness:</b> 200
 <b>Ability One:</b> Friend Guard
@@ -1517,7 +1517,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#174 Igglybuff](../pokemon/igglybuff.md/)**
 
-![igglybuff](../assets/sprites/igglybuff/front.gif)
+![igglybuff](../assets/sprites/igglybuff/front.gif "Igglybuff")
 
 <pre><code><b>Base Happiness:</b> 200
 <b>Ability One:</b> Cute Charm
@@ -1526,7 +1526,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#175 Togepi](../pokemon/togepi.md/)**
 
-![togepi](../assets/sprites/togepi/front.gif)
+![togepi](../assets/sprites/togepi/front.gif "Togepi")
 
 <pre><code><b>Base Happiness:</b> 200
 <b>Ability One:</b> Super Luck
@@ -1535,7 +1535,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#176 Togetic](../pokemon/togetic.md/)**
 
-![togetic](../assets/sprites/togetic/front.gif)
+![togetic](../assets/sprites/togetic/front.gif "Togetic")
 
 <pre><code><b>Ability One:</b> Super Luck
 <b>Ability Two:</b> Serene Grace
@@ -1543,7 +1543,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#177 Natu](../pokemon/natu.md/)**
 
-![natu](../assets/sprites/natu/front.gif)
+![natu](../assets/sprites/natu/front.gif "Natu")
 
 <pre><code><b>Ability One:</b> Synchronize
 <b>Ability Two:</b> Magic Bounce
@@ -1551,7 +1551,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#178 Xatu](../pokemon/xatu.md/)**
 
-![xatu](../assets/sprites/xatu/front.gif)
+![xatu](../assets/sprites/xatu/front.gif "Xatu")
 
 <pre><code><b>Special Attack:</b> 95 → 100
 <b>Speed:</b> 95 → 100
@@ -1562,8 +1562,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#179 Mareep](../pokemon/mareep.md/), [#180 Flaaffy](../pokemon/flaaffy.md/)**
 
-![mareep](../assets/sprites/mareep/front.gif)
-![flaaffy](../assets/sprites/flaaffy/front.gif)
+![mareep](../assets/sprites/mareep/front.gif "Mareep")
+![flaaffy](../assets/sprites/flaaffy/front.gif "Flaaffy")
 
 <pre><code><b>Ability One:</b> Static
 <b>Ability Two:</b> Overcoat
@@ -1571,7 +1571,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#181 Ampharos](../pokemon/ampharos.md/)**
 
-![ampharos](../assets/sprites/ampharos/front.gif)
+![ampharos](../assets/sprites/ampharos/front.gif "Ampharos")
 
 <pre><code><b>TM:</b> Can now learn TM91, Flash Cannon.
 <b>Ability One:</b> Static
@@ -1580,7 +1580,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#182 Bellossom](../pokemon/bellossom.md/)**
 
-![bellossom](../assets/sprites/bellossom/front.gif)
+![bellossom](../assets/sprites/bellossom/front.gif "Bellossom")
 
 <pre><code><b>HP:</b> 75 → 85
 <b>Special Attack:</b> 90 → 100
@@ -1592,7 +1592,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#183 Marill](../pokemon/marill.md/)**
 
-![marill](../assets/sprites/marill/front.gif)
+![marill](../assets/sprites/marill/front.gif "Marill")
 
 <pre><code><b>Special Attack:</b> 20 → 50
 <b>Total:</b> 250 → 280
@@ -1602,7 +1602,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#184 Azumarill](../pokemon/azumarill.md/)**
 
-![azumarill](../assets/sprites/azumarill/front.gif)
+![azumarill](../assets/sprites/azumarill/front.gif "Azumarill")
 
 <pre><code><b>HP:</b> 100 → 110
 <b>Special Attack:</b> 50 → 90
@@ -1613,7 +1613,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#185 Sudowoodo](../pokemon/sudowoodo.md/)**
 
-![sudowoodo](../assets/sprites/sudowoodo/front.gif)
+![sudowoodo](../assets/sprites/sudowoodo/front.gif "Sudowoodo")
 
 <pre><code><b>HP:</b> 70 → 85
 <b>Attack:</b> 100 → 115
@@ -1626,7 +1626,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#186 Politoed](../pokemon/politoed.md/)**
 
-![politoed](../assets/sprites/politoed/front.gif)
+![politoed](../assets/sprites/politoed/front.gif "Politoed")
 
 <pre><code><b>Ability One:</b> Water Absorb
 <b>Ability Two:</b> Drizzle
@@ -1634,9 +1634,9 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#187 Hoppip](../pokemon/hoppip.md/), [#188 Skiploom](../pokemon/skiploom.md/), [#189 Jumpluff](../pokemon/jumpluff.md/)**
 
-![hoppip](../assets/sprites/hoppip/front.gif)
-![skiploom](../assets/sprites/skiploom/front.gif)
-![jumpluff](../assets/sprites/jumpluff/front.gif)
+![hoppip](../assets/sprites/hoppip/front.gif "Hoppip")
+![skiploom](../assets/sprites/skiploom/front.gif "Skiploom")
+![jumpluff](../assets/sprites/jumpluff/front.gif "Jumpluff")
 
 <pre><code><b>Ability One:</b> Chlorophyll
 <b>Ability Two:</b> Prankster
@@ -1644,7 +1644,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#190 Aipom](../pokemon/aipom.md/)**
 
-![aipom](../assets/sprites/aipom/front.gif)
+![aipom](../assets/sprites/aipom/front.gif "Aipom")
 
 <pre><code><b>Ability One:</b> Skill Link
 <b>Ability Two:</b> Pickup
@@ -1652,7 +1652,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#191 Sunkern](../pokemon/sunkern.md/)**
 
-![sunkern](../assets/sprites/sunkern/front.gif)
+![sunkern](../assets/sprites/sunkern/front.gif "Sunkern")
 
 <pre><code><b>Ability One:</b> Chlorophyll
 <b>Ability Two:</b> Simple
@@ -1660,7 +1660,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#192 Sunflora](../pokemon/sunflora.md/)**
 
-![sunflora](../assets/sprites/sunflora/front.gif)
+![sunflora](../assets/sprites/sunflora/front.gif "Sunflora")
 
 <pre><code><b>Defense:</b> 55 → 85
 <b>Special Attack:</b> 105 → 135
@@ -1673,7 +1673,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#193 Yanma](../pokemon/yanma.md/)**
 
-![yanma](../assets/sprites/yanma/front.gif)
+![yanma](../assets/sprites/yanma/front.gif "Yanma")
 
 <pre><code><b>Ability One:</b> Speed Boost
 <b>Ability Two:</b> Compound Eyes
@@ -1681,7 +1681,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#194 Wooper](../pokemon/wooper.md/)**
 
-![wooper](../assets/sprites/wooper/front.gif)
+![wooper](../assets/sprites/wooper/front.gif "Wooper")
 
 <pre><code><b>Ability One:</b> Unaware
 <b>Ability Two:</b> Water Absorb
@@ -1689,7 +1689,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#195 Quagsire](../pokemon/quagsire.md/)**
 
-![quagsire](../assets/sprites/quagsire/front.gif)
+![quagsire](../assets/sprites/quagsire/front.gif "Quagsire")
 
 <pre><code><b>Attack:</b> 85 → 95
 <b>Defense:</b> 85 → 95
@@ -1700,7 +1700,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#196 Espeon](../pokemon/espeon.md/)**
 
-![espeon](../assets/sprites/espeon/front.gif)
+![espeon](../assets/sprites/espeon/front.gif "Espeon")
 
 <pre><code><b>Ability One:</b> Synchronize
 <b>Ability Two:</b> Magic Bounce
@@ -1708,7 +1708,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#197 Umbreon](../pokemon/umbreon.md/)**
 
-![umbreon](../assets/sprites/umbreon/front.gif)
+![umbreon](../assets/sprites/umbreon/front.gif "Umbreon")
 
 <pre><code><b>TM:</b> Can now learn TM86, Grass Knot.
 <b>Ability One:</b> Synchronize
@@ -1717,7 +1717,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#198 Murkrow](../pokemon/murkrow.md/)**
 
-![murkrow](../assets/sprites/murkrow/front.gif)
+![murkrow](../assets/sprites/murkrow/front.gif "Murkrow")
 
 <pre><code><b>Ability One:</b> Prankster
 <b>Ability Two:</b> Super Luck
@@ -1725,7 +1725,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#199 Slowking](../pokemon/slowking.md/)**
 
-![slowking](../assets/sprites/slowking/front.gif)
+![slowking](../assets/sprites/slowking/front.gif "Slowking")
 
 <pre><code><b>Ability One:</b> Regenerator
 <b>Ability Two:</b> Drizzle
@@ -1733,7 +1733,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#200 Misdreavus](../pokemon/misdreavus.md/)**
 
-![misdreavus](../assets/sprites/misdreavus/front.gif)
+![misdreavus](../assets/sprites/misdreavus/front.gif "Misdreavus")
 
 <pre><code><b>Ability One:</b> Levitate
 <b>Ability Two:</b> Levitate
@@ -1741,7 +1741,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#201 Unown](../pokemon/unown.md/)**
 
-![unown](../assets/sprites/unown/front.gif)
+![unown](../assets/sprites/unown/front.gif "Unown")
 
 <pre><code><b>Attack:</b> 72 → 112
 <b>Special Attack:</b> 72 → 112
@@ -1754,7 +1754,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#202 Wobbuffet](../pokemon/wobbuffet.md/)**
 
-![wobbuffet](../assets/sprites/wobbuffet/front.gif)
+![wobbuffet](../assets/sprites/wobbuffet/front.gif "Wobbuffet")
 
 <pre><code><b>Ability One:</b> Shadow Tag
 <b>Ability Two:</b> Telepathy
@@ -1762,7 +1762,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#203 Girafarig](../pokemon/girafarig.md/)**
 
-![girafarig](../assets/sprites/girafarig/front.gif)
+![girafarig](../assets/sprites/girafarig/front.gif "Girafarig")
 
 <pre><code><b>Special Attack:</b> 90 → 110
 <b>Speed:</b> 85 → 105
@@ -1774,8 +1774,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#204 Pineco](../pokemon/pineco.md/), [#205 Forretress](../pokemon/forretress.md/)**
 
-![pineco](../assets/sprites/pineco/front.gif)
-![forretress](../assets/sprites/forretress/front.gif)
+![pineco](../assets/sprites/pineco/front.gif "Pineco")
+![forretress](../assets/sprites/forretress/front.gif "Forretress")
 
 <pre><code><b>Ability One:</b> Sturdy
 <b>Ability Two:</b> Overcoat
@@ -1783,7 +1783,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#206 Dunsparce](../pokemon/dunsparce.md/)**
 
-![dunsparce](../assets/sprites/dunsparce/front.gif)
+![dunsparce](../assets/sprites/dunsparce/front.gif "Dunsparce")
 
 <pre><code><b>HP:</b> 100 → 120
 <b>Attack:</b> 70 → 90
@@ -1794,7 +1794,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#207 Gligar](../pokemon/gligar.md/)**
 
-![gligar](../assets/sprites/gligar/front.gif)
+![gligar](../assets/sprites/gligar/front.gif "Gligar")
 
 <pre><code><b>Ability One:</b> Hyper Cutter
 <b>Ability Two:</b> Immunity
@@ -1802,7 +1802,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#208 Steelix](../pokemon/steelix.md/)**
 
-![steelix](../assets/sprites/steelix/front.gif)
+![steelix](../assets/sprites/steelix/front.gif "Steelix")
 
 <pre><code><b>Attack:</b> 85 → 90
 <b>Total:</b> 510 → 515
@@ -1812,7 +1812,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#209 Snubbull](../pokemon/snubbull.md/)**
 
-![snubbull](../assets/sprites/snubbull/front.gif)
+![snubbull](../assets/sprites/snubbull/front.gif "Snubbull")
 
 <pre><code><b>Ability One:</b> Intimidate
 <b>Ability Two:</b> Rattled
@@ -1820,7 +1820,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#210 Granbull](../pokemon/granbull.md/)**
 
-![granbull](../assets/sprites/granbull/front.gif)
+![granbull](../assets/sprites/granbull/front.gif "Granbull")
 
 <pre><code><b>HP:</b> 90 → 105
 <b>Total:</b> 450 → 465
@@ -1830,7 +1830,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#211 Qwilfish](../pokemon/qwilfish.md/)**
 
-![qwilfish](../assets/sprites/qwilfish/front.gif)
+![qwilfish](../assets/sprites/qwilfish/front.gif "Qwilfish")
 
 <pre><code><b>Special Attack:</b> 55 → 95
 <b>Total:</b> 430 → 470
@@ -1840,7 +1840,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#212 Scizor](../pokemon/scizor.md/)**
 
-![scizor](../assets/sprites/scizor/front.gif)
+![scizor](../assets/sprites/scizor/front.gif "Scizor")
 
 <pre><code><b>Ability One:</b> Swarm
 <b>Ability Two:</b> Technician
@@ -1848,7 +1848,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#213 Shuckle](../pokemon/shuckle.md/)**
 
-![shuckle](../assets/sprites/shuckle/front.gif)
+![shuckle](../assets/sprites/shuckle/front.gif "Shuckle")
 
 <pre><code><b>Ability One:</b> Sturdy
 <b>Ability Two:</b> Solid Rock
@@ -1856,7 +1856,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#214 Heracross](../pokemon/heracross.md/)**
 
-![heracross](../assets/sprites/heracross/front.gif)
+![heracross](../assets/sprites/heracross/front.gif "Heracross")
 
 <pre><code><b>Ability One:</b> Moxie
 <b>Ability Two:</b> Guts
@@ -1864,7 +1864,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#215 Sneasel](../pokemon/sneasel.md/)**
 
-![sneasel](../assets/sprites/sneasel/front.gif)
+![sneasel](../assets/sprites/sneasel/front.gif "Sneasel")
 
 <pre><code><b>TM:</b> Now learns TM79, Frost Breath.
 <b>Ability One:</b> Pickpocket
@@ -1873,7 +1873,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#216 Teddiursa](../pokemon/teddiursa.md/)**
 
-![teddiursa](../assets/sprites/teddiursa/front.gif)
+![teddiursa](../assets/sprites/teddiursa/front.gif "Teddiursa")
 
 <pre><code><b>Ability One:</b> Pickup
 <b>Ability Two:</b> Honey Gather
@@ -1881,7 +1881,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#217 Ursaring](../pokemon/ursaring.md/)**
 
-![ursaring](../assets/sprites/ursaring/front.gif)
+![ursaring](../assets/sprites/ursaring/front.gif "Ursaring")
 
 <pre><code><b>Ability One:</b> Pickup
 <b>Ability Two:</b> Sheer Force
@@ -1889,7 +1889,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#218 Slugma](../pokemon/slugma.md/)**
 
-![slugma](../assets/sprites/slugma/front.gif)
+![slugma](../assets/sprites/slugma/front.gif "Slugma")
 
 <pre><code><b>Item:</b> Flame Orb (50%)
 <b>Ability One:</b> Magma Armor
@@ -1898,7 +1898,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#219 Magcargo](../pokemon/magcargo.md/)**
 
-![magcargo](../assets/sprites/magcargo/front.gif)
+![magcargo](../assets/sprites/magcargo/front.gif "Magcargo")
 
 <pre><code><b>Item:</b> Flame Orb (50%)
 <b>Defense:</b> 120 → 135
@@ -1912,8 +1912,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#220 Swinub](../pokemon/swinub.md/), [#221 Piloswine](../pokemon/piloswine.md/)**
 
-![swinub](../assets/sprites/swinub/front.gif)
-![piloswine](../assets/sprites/piloswine/front.gif)
+![swinub](../assets/sprites/swinub/front.gif "Swinub")
+![piloswine](../assets/sprites/piloswine/front.gif "Piloswine")
 
 <pre><code><b>Ability One:</b> Thick Fat
 <b>Ability Two:</b> Snow Cloak
@@ -1921,7 +1921,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#222 Corsola](../pokemon/corsola.md/)**
 
-![corsola](../assets/sprites/corsola/front.gif)
+![corsola](../assets/sprites/corsola/front.gif "Corsola")
 
 <pre><code><b>Defense:</b> 85 → 115
 <b>Special Attack:</b> 65 → 105
@@ -1934,8 +1934,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#223 Remoraid](../pokemon/remoraid.md/), [#224 Octillery](../pokemon/octillery.md/)**
 
-![remoraid](../assets/sprites/remoraid/front.gif)
-![octillery](../assets/sprites/octillery/front.gif)
+![remoraid](../assets/sprites/remoraid/front.gif "Remoraid")
+![octillery](../assets/sprites/octillery/front.gif "Octillery")
 
 <pre><code><b>TM:</b> Now learn TM79, Frost Breath.
 <b>Ability One:</b> Moody
@@ -1944,7 +1944,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#225 Delibird](../pokemon/delibird.md/)**
 
-![delibird](../assets/sprites/delibird/front.gif)
+![delibird](../assets/sprites/delibird/front.gif "Delibird")
 
 <pre><code><b>HP:</b> 45 → 50
 <b>Attack:</b> 55 → 95
@@ -1961,7 +1961,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#226 Mantine](../pokemon/mantine.md/)**
 
-![mantine](../assets/sprites/mantine/front.gif)
+![mantine](../assets/sprites/mantine/front.gif "Mantine")
 
 <pre><code><b>HM:</b> Can now learn HM02, Fly.
 <b>Ability One:</b> Swift Swim
@@ -1970,7 +1970,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#227 Skarmory](../pokemon/skarmory.md/)**
 
-![skarmory](../assets/sprites/skarmory/front.gif)
+![skarmory](../assets/sprites/skarmory/front.gif "Skarmory")
 
 <pre><code><b>Ability One:</b> Light Metal
 <b>Ability Two:</b> Sturdy
@@ -1978,8 +1978,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#228 Houndour](../pokemon/houndour.md/), [#229 Houndoom](../pokemon/houndoom.md/)**
 
-![houndour](../assets/sprites/houndour/front.gif)
-![houndoom](../assets/sprites/houndoom/front.gif)
+![houndour](../assets/sprites/houndour/front.gif "Houndour")
+![houndoom](../assets/sprites/houndoom/front.gif "Houndoom")
 
 <pre><code><b>Ability One:</b> Intimidate
 <b>Ability Two:</b> Flash Fire
@@ -1987,7 +1987,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#230 Kingdra](../pokemon/kingdra.md/)**
 
-![kingdra](../assets/sprites/kingdra/front.gif)
+![kingdra](../assets/sprites/kingdra/front.gif "Kingdra")
 
 <pre><code><b>TM:</b> Now learns TM79, Frost Breath.
 <b>Ability One:</b> Swift Swim
@@ -1996,7 +1996,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#231 Phanpy](../pokemon/phanpy.md/)**
 
-![phanpy](../assets/sprites/phanpy/front.gif)
+![phanpy](../assets/sprites/phanpy/front.gif "Phanpy")
 
 <pre><code><b>Ability One:</b> Pickup
 <b>Ability Two:</b> Sand Veil
@@ -2004,7 +2004,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#232 Donphan](../pokemon/donphan.md/)**
 
-![donphan](../assets/sprites/donphan/front.gif)
+![donphan](../assets/sprites/donphan/front.gif "Donphan")
 
 <pre><code><b>Ability One:</b> Sturdy
 <b>Ability Two:</b> Sand Force
@@ -2012,7 +2012,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#233 Porygon2](../pokemon/porygon2.md/)**
 
-![porygon2](../assets/sprites/porygon2/front.gif)
+![porygon2](../assets/sprites/porygon2/front.gif "Porygon2")
 
 <pre><code><b>Evolution:</b> Use the Dubious Disc.
 <b>Ability One:</b> Trace
@@ -2021,7 +2021,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#234 Stantler](../pokemon/stantler.md/)**
 
-![stantler](../assets/sprites/stantler/front.gif)
+![stantler](../assets/sprites/stantler/front.gif "Stantler")
 
 <pre><code><b>Attack:</b> 95 → 100
 <b>Total:</b> 465 → 470
@@ -2031,7 +2031,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#235 Smeargle](../pokemon/smeargle.md/)**
 
-![smeargle](../assets/sprites/smeargle/front.gif)
+![smeargle](../assets/sprites/smeargle/front.gif "Smeargle")
 
 <pre><code><b>Speed:</b> 75 → 115
 <b>Total:</b> 250 → 290
@@ -2042,7 +2042,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#236 Tyrogue](../pokemon/tyrogue.md/)**
 
-![tyrogue](../assets/sprites/tyrogue/front.gif)
+![tyrogue](../assets/sprites/tyrogue/front.gif "Tyrogue")
 
 <pre><code><b>Ability One:</b> Guts
 <b>Ability Two:</b> Vital Spirit
@@ -2050,7 +2050,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#237 Hitmontop](../pokemon/hitmontop.md/)**
 
-![hitmontop](../assets/sprites/hitmontop/front.gif)
+![hitmontop](../assets/sprites/hitmontop/front.gif "Hitmontop")
 
 <pre><code><b>Ability One:</b> Intimidate
 <b>Ability Two:</b> Technician
@@ -2058,7 +2058,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#238 Smoochum](../pokemon/smoochum.md/)**
 
-![smoochum](../assets/sprites/smoochum/front.gif)
+![smoochum](../assets/sprites/smoochum/front.gif "Smoochum")
 
 <pre><code><b>Ability One:</b> Trace
 <b>Ability Two:</b> Hydration
@@ -2066,7 +2066,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#239 Elekid](../pokemon/elekid.md/)**
 
-![elekid](../assets/sprites/elekid/front.gif)
+![elekid](../assets/sprites/elekid/front.gif "Elekid")
 
 <pre><code><b>Ability One:</b> Static
 <b>Ability Two:</b> Vital Spirit
@@ -2074,7 +2074,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#240 Magby](../pokemon/magby.md/)**
 
-![magby](../assets/sprites/magby/front.gif)
+![magby](../assets/sprites/magby/front.gif "Magby")
 
 <pre><code><b>Ability One:</b> Flame Body
 <b>Ability Two:</b> Vital Spirit
@@ -2082,7 +2082,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#241 Miltank](../pokemon/miltank.md/)**
 
-![miltank](../assets/sprites/miltank/front.gif)
+![miltank](../assets/sprites/miltank/front.gif "Miltank")
 
 <pre><code><b>Attack:</b> 80 → 90
 <b>Total:</b> 490 → 500
@@ -2092,7 +2092,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#242 Blissey](../pokemon/blissey.md/)**
 
-![blissey](../assets/sprites/blissey/front.gif)
+![blissey](../assets/sprites/blissey/front.gif "Blissey")
 
 <pre><code><b>Ability One:</b> Natural Cure
 <b>Ability Two:</b> Serene Grace
@@ -2100,7 +2100,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#243 Raikou](../pokemon/raikou.md/)**
 
-![raikou](../assets/sprites/raikou/front.gif)
+![raikou](../assets/sprites/raikou/front.gif "Raikou")
 
 <pre><code><b>Item:</b> Micle Berry (100%)
 <b>Ability One:</b> Pressure
@@ -2109,7 +2109,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#244 Entei](../pokemon/entei.md/)**
 
-![entei](../assets/sprites/entei/front.gif)
+![entei](../assets/sprites/entei/front.gif "Entei")
 
 <pre><code><b>Item:</b> Custap Berry (100%)
 <b>Ability One:</b> Pressure
@@ -2118,7 +2118,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#245 Suicune](../pokemon/suicune.md/)**
 
-![suicune](../assets/sprites/suicune/front.gif)
+![suicune](../assets/sprites/suicune/front.gif "Suicune")
 
 <pre><code><b>Item:</b> Rowap Berry (100%)
 <b>Ability One:</b> Pressure
@@ -2127,7 +2127,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#246 Larvitar](../pokemon/larvitar.md/)**
 
-![larvitar](../assets/sprites/larvitar/front.gif)
+![larvitar](../assets/sprites/larvitar/front.gif "Larvitar")
 
 <pre><code><b>Ability One:</b> Guts
 <b>Ability Two:</b> Hustle
@@ -2135,7 +2135,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#247 Pupitar](../pokemon/pupitar.md/)**
 
-![pupitar](../assets/sprites/pupitar/front.gif)
+![pupitar](../assets/sprites/pupitar/front.gif "Pupitar")
 
 <pre><code><b>Ability One:</b> Shed Skin
 <b>Ability Two:</b> Battle Armor
@@ -2143,7 +2143,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#248 Tyranitar](../pokemon/tyranitar.md/)**
 
-![tyranitar](../assets/sprites/tyranitar/front.gif)
+![tyranitar](../assets/sprites/tyranitar/front.gif "Tyranitar")
 
 <pre><code><b>Ability One:</b> Sand Stream
 <b>Ability Two:</b> Battle Armor
@@ -2151,7 +2151,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#249 Lugia](../pokemon/lugia.md/)**
 
-![lugia](../assets/sprites/lugia/front.gif)
+![lugia](../assets/sprites/lugia/front.gif "Lugia")
 
 <pre><code><b>Item:</b> Ganlon Berry (100%)
 <b>Ability One:</b> Pressure
@@ -2160,7 +2160,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#250 Ho-oh](../pokemon/ho-oh.md/)**
 
-![ho-oh](../assets/sprites/ho-oh/front.gif)
+![ho-oh](../assets/sprites/ho-oh/front.gif "Ho Oh")
 
 <pre><code><b>Ability One:</b> Pressure
 <b>Ability Two:</b> Regenerator
@@ -2168,7 +2168,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#251 Celebi](../pokemon/celebi.md/)**
 
-![celebi](../assets/sprites/celebi/front.gif)
+![celebi](../assets/sprites/celebi/front.gif "Celebi")
 
 <pre><code><b>Item:</b> Jaboca Berry (100%)
 <b>Ability One:</b> Natural Cure
@@ -2181,9 +2181,9 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#252 Treecko](../pokemon/treecko.md/), [#253 Grovyle](../pokemon/grovyle.md/), [#254 Sceptile](../pokemon/sceptile.md/)**
 
-![treecko](../assets/sprites/treecko/front.gif)
-![grovyle](../assets/sprites/grovyle/front.gif)
-![sceptile](../assets/sprites/sceptile/front.gif)
+![treecko](../assets/sprites/treecko/front.gif "Treecko")
+![grovyle](../assets/sprites/grovyle/front.gif "Grovyle")
+![sceptile](../assets/sprites/sceptile/front.gif "Sceptile")
 
 <pre><code><b>Item:</b> Miracle Seed (50%)
 <b>Ability One:</b> Overgrow
@@ -2192,9 +2192,9 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#255 Torchic](../pokemon/torchic.md/), [#256 Combusken](../pokemon/combusken.md/), [#257 Blaziken](../pokemon/blaziken.md/)**
 
-![torchic](../assets/sprites/torchic/front.gif)
-![combusken](../assets/sprites/combusken/front.gif)
-![blaziken](../assets/sprites/blaziken/front.gif)
+![torchic](../assets/sprites/torchic/front.gif "Torchic")
+![combusken](../assets/sprites/combusken/front.gif "Combusken")
+![blaziken](../assets/sprites/blaziken/front.gif "Blaziken")
 
 <pre><code><b>Item:</b> Charcoal (50%)
 <b>Ability One:</b> Blaze
@@ -2203,9 +2203,9 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#258 Mudkip](../pokemon/mudkip.md/), [#259 Marshtomp](../pokemon/marshtomp.md/), [#260 Swampert](../pokemon/swampert.md/)**
 
-![mudkip](../assets/sprites/mudkip/front.gif)
-![marshtomp](../assets/sprites/marshtomp/front.gif)
-![swampert](../assets/sprites/swampert/front.gif)
+![mudkip](../assets/sprites/mudkip/front.gif "Mudkip")
+![marshtomp](../assets/sprites/marshtomp/front.gif "Marshtomp")
+![swampert](../assets/sprites/swampert/front.gif "Swampert")
 
 <pre><code><b>Item:</b> Mystic Water (50%)
 <b>Ability One:</b> Torrent
@@ -2214,7 +2214,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#261 Poochyena](../pokemon/poochyena.md/)**
 
-![poochyena](../assets/sprites/poochyena/front.gif)
+![poochyena](../assets/sprites/poochyena/front.gif "Poochyena")
 
 <pre><code><b>Ability One:</b> Rattled
 <b>Ability Two:</b> Quick Feet
@@ -2222,7 +2222,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#262 Mightyena](../pokemon/mightyena.md/)**
 
-![mightyena](../assets/sprites/mightyena/front.gif)
+![mightyena](../assets/sprites/mightyena/front.gif "Mightyena")
 
 <pre><code><b>Attack:</b> 90 → 105
 <b>Total:</b> 420 → 435
@@ -2232,7 +2232,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#263 Zigzagoon](../pokemon/zigzagoon.md/)**
 
-![zigzagoon](../assets/sprites/zigzagoon/front.gif)
+![zigzagoon](../assets/sprites/zigzagoon/front.gif "Zigzagoon")
 
 <pre><code><b>Ability One:</b> Pickup
 <b>Ability Two:</b> Gluttony
@@ -2240,7 +2240,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#264 Linoone](../pokemon/linoone.md/)**
 
-![linoone](../assets/sprites/linoone/front.gif)
+![linoone](../assets/sprites/linoone/front.gif "Linoone")
 
 <pre><code><b>Attack:</b> 70 → 85
 <b>Total:</b> 420 → 435
@@ -2250,7 +2250,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#265 Wurmple](../pokemon/wurmple.md/)**
 
-![wurmple](../assets/sprites/wurmple/front.gif)
+![wurmple](../assets/sprites/wurmple/front.gif "Wurmple")
 
 <pre><code><b>Ability One:</b> Shield Dust
 <b>Ability Two:</b> Run Away
@@ -2258,7 +2258,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#266 Silcoon](../pokemon/silcoon.md/)**
 
-![silcoon](../assets/sprites/silcoon/front.gif)
+![silcoon](../assets/sprites/silcoon/front.gif "Silcoon")
 
 <pre><code><b>Ability One:</b> Shed Skin
 <b>Ability Two:</b> Battle Armor
@@ -2266,7 +2266,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#267 Beautifly](../pokemon/beautifly.md/)**
 
-![beautifly](../assets/sprites/beautifly/front.gif)
+![beautifly](../assets/sprites/beautifly/front.gif "Beautifly")
 
 <pre><code><b>Special Attack:</b> 90 → 105
 <b>Speed:</b> 65 → 85
@@ -2277,7 +2277,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#268 Silcoon](../pokemon/silcoon.md/)**
 
-![silcoon](../assets/sprites/silcoon/front.gif)
+![silcoon](../assets/sprites/silcoon/front.gif "Silcoon")
 
 <pre><code><b>Ability One:</b> Shed Skin
 <b>Ability Two:</b> Battle Armor
@@ -2285,7 +2285,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#269 Dustox](../pokemon/dustox.md/)**
 
-![dustox](../assets/sprites/dustox/front.gif)
+![dustox](../assets/sprites/dustox/front.gif "Dustox")
 
 <pre><code><b>Special Defense:</b> 90 → 105
 <b>Speed:</b> 65 → 85
@@ -2296,7 +2296,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#270 Lotad](../pokemon/lotad.md/)**
 
-![lotad](../assets/sprites/lotad/front.gif)
+![lotad](../assets/sprites/lotad/front.gif "Lotad")
 
 <pre><code><b>Ability One:</b> Swift Swim
 <b>Ability Two:</b> Rain Dish
@@ -2304,7 +2304,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#271 Lombre](../pokemon/lombre.md/)**
 
-![lombre](../assets/sprites/lombre/front.gif)
+![lombre](../assets/sprites/lombre/front.gif "Lombre")
 
 <pre><code><b>Ability One:</b> Swift Swim
 <b>Ability Two:</b> Rain Dish
@@ -2312,7 +2312,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#272 Ludicolo](../pokemon/ludicolo.md/)**
 
-![ludicolo](../assets/sprites/ludicolo/front.gif)
+![ludicolo](../assets/sprites/ludicolo/front.gif "Ludicolo")
 
 <pre><code><b>Ability One:</b> Swift Swim
 <b>Ability Two:</b> Rain Dish
@@ -2320,7 +2320,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#273 Seedot](../pokemon/seedot.md/)**
 
-![seedot](../assets/sprites/seedot/front.gif)
+![seedot](../assets/sprites/seedot/front.gif "Seedot")
 
 <pre><code><b>Ability One:</b> Pickpocket
 <b>Ability Two:</b> Early Bird
@@ -2328,7 +2328,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#274 Nuzleaf](../pokemon/nuzleaf.md/)**
 
-![nuzleaf](../assets/sprites/nuzleaf/front.gif)
+![nuzleaf](../assets/sprites/nuzleaf/front.gif "Nuzleaf")
 
 <pre><code><b>Ability One:</b> Pickpocket
 <b>Ability Two:</b> Early Bird
@@ -2336,7 +2336,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#275 Shiftry](../pokemon/shiftry.md/)**
 
-![shiftry](../assets/sprites/shiftry/front.gif)
+![shiftry](../assets/sprites/shiftry/front.gif "Shiftry")
 
 <pre><code><b>Ability One:</b> Pickpocket
 <b>Ability Two:</b> Early Bird
@@ -2344,7 +2344,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#276 Taillow](../pokemon/taillow.md/)**
 
-![taillow](../assets/sprites/taillow/front.gif)
+![taillow](../assets/sprites/taillow/front.gif "Taillow")
 
 <pre><code><b>TM:</b> Now learns TM62 Acrobatics.
 <b>Ability One:</b> Unburden
@@ -2353,7 +2353,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#277 Swellow](../pokemon/swellow.md/)**
 
-![swellow](../assets/sprites/swellow/front.gif)
+![swellow](../assets/sprites/swellow/front.gif "Swellow")
 
 <pre><code><b>HP:</b> 60 → 70
 <b>Attack:</b> 85 → 100
@@ -2365,7 +2365,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#278 Wingull](../pokemon/wingull.md/)**
 
-![wingull](../assets/sprites/wingull/front.gif)
+![wingull](../assets/sprites/wingull/front.gif "Wingull")
 
 <pre><code><b>Ability One:</b> Keen Eye
 <b>Ability Two:</b> Infiltrator
@@ -2373,7 +2373,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#279 Pelipper](../pokemon/pelipper.md/)**
 
-![pelipper](../assets/sprites/pelipper/front.gif)
+![pelipper](../assets/sprites/pelipper/front.gif "Pelipper")
 
 <pre><code><b>Defense:</b> 100 → 120
 <b>Special Attack:</b> 85 → 100
@@ -2384,7 +2384,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#280 Ralts](../pokemon/ralts.md/)**
 
-![ralts](../assets/sprites/ralts/front.gif)
+![ralts](../assets/sprites/ralts/front.gif "Ralts")
 
 <pre><code><b>Special Attack:</b> 45 → 65
 <b>Total:</b> 198 → 218
@@ -2394,7 +2394,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#281 Kirlia](../pokemon/kirlia.md/)**
 
-![kirlia](../assets/sprites/kirlia/front.gif)
+![kirlia](../assets/sprites/kirlia/front.gif "Kirlia")
 
 <pre><code><b>Special Attack:</b> 65 → 95
 <b>Total:</b> 278 → 308
@@ -2404,7 +2404,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#282 Gardevoir](../pokemon/gardevoir.md/)**
 
-![gardevoir](../assets/sprites/gardevoir/front.gif)
+![gardevoir](../assets/sprites/gardevoir/front.gif "Gardevoir")
 
 <pre><code><b>Ability One:</b> Synchronize
 <b>Ability Two:</b> Trace
@@ -2412,7 +2412,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#283 Surskit](../pokemon/surskit.md/)**
 
-![surskit](../assets/sprites/surskit/front.gif)
+![surskit](../assets/sprites/surskit/front.gif "Surskit")
 
 <pre><code><b>Ability One:</b> Swift Swim
 <b>Ability Two:</b> Rain Dish
@@ -2421,7 +2421,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#284 Masquerain](../pokemon/masquerain.md/)**
 
-![masquerain](../assets/sprites/masquerain/front.gif)
+![masquerain](../assets/sprites/masquerain/front.gif "Masquerain")
 
 <pre><code><b>Type:</b> Bug / Water
 <b>HP:</b> 70 → 70
@@ -2439,7 +2439,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#285 Shroomish](../pokemon/shroomish.md/)**
 
-![shroomish](../assets/sprites/shroomish/front.gif)
+![shroomish](../assets/sprites/shroomish/front.gif "Shroomish")
 
 <pre><code><b>Ability One:</b> Effect Spore
 <b>Ability Two:</b> Poison Heal
@@ -2447,7 +2447,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#286 Breloom](../pokemon/breloom.md/)**
 
-![breloom](../assets/sprites/breloom/front.gif)
+![breloom](../assets/sprites/breloom/front.gif "Breloom")
 
 <pre><code><b>Ability One:</b> Technician
 <b>Ability Two:</b> Poison Heal
@@ -2455,7 +2455,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#287 Slakoth](../pokemon/slakoth.md/)**
 
-![slakoth](../assets/sprites/slakoth/front.gif)
+![slakoth](../assets/sprites/slakoth/front.gif "Slakoth")
 
 <pre><code><b>Ability One:</b> Truant
 <b>Ability Two:</b> Slow Start
@@ -2463,7 +2463,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#288 Vigoroth](../pokemon/vigoroth.md/)**
 
-![vigoroth](../assets/sprites/vigoroth/front.gif)
+![vigoroth](../assets/sprites/vigoroth/front.gif "Vigoroth")
 
 <pre><code><b>Attack:</b> 80 → 100
 <b>Total:</b> 440 → 460
@@ -2473,7 +2473,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#289 Slaking](../pokemon/slaking.md/)**
 
-![slaking](../assets/sprites/slaking/front.gif)
+![slaking](../assets/sprites/slaking/front.gif "Slaking")
 
 <pre><code><b>Ability One:</b> Truant
 <b>Ability Two:</b> Slow Start
@@ -2481,7 +2481,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#290 Nincada](../pokemon/nincada.md/)**
 
-![nincada](../assets/sprites/nincada/front.gif)
+![nincada](../assets/sprites/nincada/front.gif "Nincada")
 
 <pre><code><b>Ability One:</b> Compound Eyes
 <b>Ability Two:</b> Anticipation
@@ -2489,7 +2489,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#291 Ninjask](../pokemon/ninjask.md/)**
 
-![ninjask](../assets/sprites/ninjask/front.gif)
+![ninjask](../assets/sprites/ninjask/front.gif "Ninjask")
 
 <pre><code><b>Ability One:</b> Speed Boost
 <b>Ability Two:</b> Infiltrator
@@ -2497,7 +2497,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#292 Shedinja](../pokemon/shedinja.md/)**
 
-![shedinja](../assets/sprites/shedinja/front.gif)
+![shedinja](../assets/sprites/shedinja/front.gif "Shedinja")
 
 <pre><code><b>Ability One:</b> Wonder Guard
 <b>Ability Two:</b> Wonder Guard
@@ -2505,7 +2505,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#293 Whismur](../pokemon/whismur.md/)**
 
-![whismur](../assets/sprites/whismur/front.gif)
+![whismur](../assets/sprites/whismur/front.gif "Whismur")
 
 <pre><code><b>Ability One:</b> Soundproof
 <b>Ability Two:</b> Rattled
@@ -2513,8 +2513,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#294 Loudred](../pokemon/loudred.md/), [#295 Exploud](../pokemon/exploud.md/)**
 
-![loudred](../assets/sprites/loudred/front.gif)
-![exploud](../assets/sprites/exploud/front.gif)
+![loudred](../assets/sprites/loudred/front.gif "Loudred")
+![exploud](../assets/sprites/exploud/front.gif "Exploud")
 
 <pre><code><b>Ability One:</b> Soundproof
 <b>Ability Two:</b> Scrappy
@@ -2522,8 +2522,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#296 Makuhita](../pokemon/makuhita.md/), [#297 Hariyama](../pokemon/hariyama.md/)**
 
-![makuhita](../assets/sprites/makuhita/front.gif)
-![hariyama](../assets/sprites/hariyama/front.gif)
+![makuhita](../assets/sprites/makuhita/front.gif "Makuhita")
+![hariyama](../assets/sprites/hariyama/front.gif "Hariyama")
 
 <pre><code><b>Ability One:</b> Thick Fat
 <b>Ability Two:</b> Sheer Force
@@ -2531,7 +2531,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#298 Azurill](../pokemon/azurill.md/)**
 
-![azurill](../assets/sprites/azurill/front.gif)
+![azurill](../assets/sprites/azurill/front.gif "Azurill")
 
 <pre><code><b>Ability One:</b> Sap Sipper
 <b>Ability Two:</b> Huge Power
@@ -2539,7 +2539,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#299 Nosepass](../pokemon/nosepass.md/)**
 
-![nosepass](../assets/sprites/nosepass/front.gif)
+![nosepass](../assets/sprites/nosepass/front.gif "Nosepass")
 
 <pre><code><b>Ability One:</b> Sturdy
 <b>Ability Two:</b> Magnet Pull
@@ -2547,7 +2547,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#300 Skitty](../pokemon/skitty.md/)**
 
-![skitty](../assets/sprites/skitty/front.gif)
+![skitty](../assets/sprites/skitty/front.gif "Skitty")
 
 <pre><code><b>Ability One:</b> Normalize
 <b>Ability Two:</b> Wonder Skin
@@ -2555,7 +2555,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#301 Delcatty](../pokemon/delcatty.md/)**
 
-![delcatty](../assets/sprites/delcatty/front.gif)
+![delcatty](../assets/sprites/delcatty/front.gif "Delcatty")
 
 <pre><code><b>Attack:</b> 65 → 75
 <b>Special Attack:</b> 55 → 95
@@ -2567,7 +2567,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#302 Sableye](../pokemon/sableye.md/)**
 
-![sableye](../assets/sprites/sableye/front.gif)
+![sableye](../assets/sprites/sableye/front.gif "Sableye")
 
 <pre><code><b>HP:</b> 50 → 70
 <b>Attack:</b> 75 → 95
@@ -2581,7 +2581,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#303 Mawile](../pokemon/mawile.md/)**
 
-![mawile](../assets/sprites/mawile/front.gif)
+![mawile](../assets/sprites/mawile/front.gif "Mawile")
 
 <pre><code><b>HP:</b> 50 → 70
 <b>Attack:</b> 85 → 105
@@ -2595,9 +2595,9 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#304 Aron](../pokemon/aron.md/), [#305 Lairon](../pokemon/lairon.md/), [#306 Aggron](../pokemon/aggron.md/)**
 
-![aron](../assets/sprites/aron/front.gif)
-![lairon](../assets/sprites/lairon/front.gif)
-![aggron](../assets/sprites/aggron/front.gif)
+![aron](../assets/sprites/aron/front.gif "Aron")
+![lairon](../assets/sprites/lairon/front.gif "Lairon")
+![aggron](../assets/sprites/aggron/front.gif "Aggron")
 
 <pre><code><b>Ability One:</b> Sturdy
 <b>Ability Two:</b> Rock Head
@@ -2605,8 +2605,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#307 Meditite](../pokemon/meditite.md/), [#308 Medicham](../pokemon/medicham.md/)**
 
-![meditite](../assets/sprites/meditite/front.gif)
-![medicham](../assets/sprites/medicham/front.gif)
+![meditite](../assets/sprites/meditite/front.gif "Meditite")
+![medicham](../assets/sprites/medicham/front.gif "Medicham")
 
 <pre><code><b>Ability One:</b> Pure Power
 <b>Ability Two:</b> Telepathy
@@ -2614,8 +2614,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#309 Electrike](../pokemon/electrike.md/), [#310 Manectric](../pokemon/manectric.md/)**
 
-![electrike](../assets/sprites/electrike/front.gif)
-![manectric](../assets/sprites/manectric/front.gif)
+![electrike](../assets/sprites/electrike/front.gif "Electrike")
+![manectric](../assets/sprites/manectric/front.gif "Manectric")
 
 <pre><code><b>Ability One:</b> Static
 <b>Ability Two:</b> Lightning Rod
@@ -2623,7 +2623,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#311 Plusle](../pokemon/plusle.md/)**
 
-![plusle](../assets/sprites/plusle/front.gif)
+![plusle](../assets/sprites/plusle/front.gif "Plusle")
 
 <pre><code><b>Ability One:</b> Plus
 <b>Ability Two:</b> Plus
@@ -2631,7 +2631,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#312 Minun](../pokemon/minun.md/)**
 
-![minun](../assets/sprites/minun/front.gif)
+![minun](../assets/sprites/minun/front.gif "Minun")
 
 <pre><code><b>Ability One:</b> Minus
 <b>Ability Two:</b> Minus
@@ -2639,7 +2639,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#313 Volbeat](../pokemon/volbeat.md/)**
 
-![volbeat](../assets/sprites/volbeat/front.gif)
+![volbeat](../assets/sprites/volbeat/front.gif "Volbeat")
 
 <pre><code><b>Type:</b> Bug / Electric
 <b>HP:</b> 65 → 80
@@ -2656,7 +2656,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#314 Illumise](../pokemon/illumise.md/)**
 
-![illumise](../assets/sprites/illumise/front.gif)
+![illumise](../assets/sprites/illumise/front.gif "Illumise")
 
 <pre><code><b>Type:</b> Bug / Electric
 <b>HP:</b> 65 → 80
@@ -2673,7 +2673,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#315 Roselia](../pokemon/roselia.md/)**
 
-![roselia](../assets/sprites/roselia/front.gif)
+![roselia](../assets/sprites/roselia/front.gif "Roselia")
 
 <pre><code><b>Ability One:</b> Natural Cure
 <b>Ability Two:</b> Poison Point
@@ -2681,7 +2681,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#316 Gulpin](../pokemon/gulpin.md/)**
 
-![gulpin](../assets/sprites/gulpin/front.gif)
+![gulpin](../assets/sprites/gulpin/front.gif "Gulpin")
 
 <pre><code><b>Ability One:</b> Liquid Ooze
 <b>Ability Two:</b> Gluttony
@@ -2689,7 +2689,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#317 Swalot](../pokemon/swalot.md/)**
 
-![swalot](../assets/sprites/swalot/front.gif)
+![swalot](../assets/sprites/swalot/front.gif "Swalot")
 
 <pre><code><b>Special Attack:</b> 73 → 103
 <b>Total:</b> 467 → 497
@@ -2699,8 +2699,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#318 Carvanha](../pokemon/carvanha.md/), [#319 Sharpedo](../pokemon/sharpedo.md/)**
 
-![carvanha](../assets/sprites/carvanha/front.gif)
-![sharpedo](../assets/sprites/sharpedo/front.gif)
+![carvanha](../assets/sprites/carvanha/front.gif "Carvanha")
+![sharpedo](../assets/sprites/sharpedo/front.gif "Sharpedo")
 
 <pre><code><b>Ability One:</b> Rough Skin
 <b>Ability Two:</b> Speed Boost
@@ -2708,8 +2708,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#320 Wailmer](../pokemon/wailmer.md/), [#321 Wailord](../pokemon/wailord.md/)**
 
-![wailmer](../assets/sprites/wailmer/front.gif)
-![wailord](../assets/sprites/wailord/front.gif)
+![wailmer](../assets/sprites/wailmer/front.gif "Wailmer")
+![wailord](../assets/sprites/wailord/front.gif "Wailord")
 
 <pre><code><b>Ability One:</b> Thick Fat
 <b>Ability Two:</b> Drizzle
@@ -2717,7 +2717,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#322 Numel](../pokemon/numel.md/)**
 
-![numel](../assets/sprites/numel/front.gif)
+![numel](../assets/sprites/numel/front.gif "Numel")
 
 <pre><code><b>Ability One:</b> Own Tempo
 <b>Ability Two:</b> Simple
@@ -2725,7 +2725,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#323 Camerupt](../pokemon/camerupt.md/)**
 
-![camerupt](../assets/sprites/camerupt/front.gif)
+![camerupt](../assets/sprites/camerupt/front.gif "Camerupt")
 
 <pre><code><b>Ability One:</b> Drought
 <b>Ability Two:</b> Solid Rock
@@ -2733,7 +2733,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#324 Torkoal](../pokemon/torkoal.md/)**
 
-![torkoal](../assets/sprites/torkoal/front.gif)
+![torkoal](../assets/sprites/torkoal/front.gif "Torkoal")
 
 <pre><code><b>Attack:</b> 85 → 100
 <b>Special Attack:</b> 85 → 100
@@ -2744,8 +2744,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#325 Spoink](../pokemon/spoink.md/), [#326 Grumpig](../pokemon/grumpig.md/)**
 
-![spoink](../assets/sprites/spoink/front.gif)
-![grumpig](../assets/sprites/grumpig/front.gif)
+![spoink](../assets/sprites/spoink/front.gif "Spoink")
+![grumpig](../assets/sprites/grumpig/front.gif "Grumpig")
 
 <pre><code><b>Ability One:</b> Thick Fat
 <b>Ability Two:</b> Own Tempo
@@ -2753,7 +2753,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#327 Spinda](../pokemon/spinda.md/)**
 
-![spinda](../assets/sprites/spinda/front.gif)
+![spinda](../assets/sprites/spinda/front.gif "Spinda")
 
 <pre><code><b>HP:</b> 60 → 80
 <b>Attack:</b> 60 → 80
@@ -2769,7 +2769,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#328 Trapinch](../pokemon/trapinch.md/)**
 
-![trapinch](../assets/sprites/trapinch/front.gif)
+![trapinch](../assets/sprites/trapinch/front.gif "Trapinch")
 
 <pre><code><b>Ability One:</b> Hyper Cutter
 <b>Ability Two:</b> Sheer Force
@@ -2777,7 +2777,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#329 Vibrava](../pokemon/vibrava.md/)**
 
-![vibrava](../assets/sprites/vibrava/front.gif)
+![vibrava](../assets/sprites/vibrava/front.gif "Vibrava")
 
 <pre><code><b>Ability One:</b> Levitate
 <b>Ability Two:</b> Levitate
@@ -2785,7 +2785,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#330 Flygon](../pokemon/flygon.md/)**
 
-![flygon](../assets/sprites/flygon/front.gif)
+![flygon](../assets/sprites/flygon/front.gif "Flygon")
 
 <pre><code><b>Attack:</b> 100 → 110
 <b>Defense:</b> 80 → 75
@@ -2799,8 +2799,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#331 Cacnea](../pokemon/cacnea.md/), [#332 Cacturne](../pokemon/cacturne.md/)**
 
-![cacnea](../assets/sprites/cacnea/front.gif)
-![cacturne](../assets/sprites/cacturne/front.gif)
+![cacnea](../assets/sprites/cacnea/front.gif "Cacnea")
+![cacturne](../assets/sprites/cacturne/front.gif "Cacturne")
 
 <pre><code><b>Ability One:</b> Sand Veil
 <b>Ability Two:</b> Water Absorb
@@ -2808,7 +2808,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#333 Swablu](../pokemon/swablu.md/)**
 
-![swablu](../assets/sprites/swablu/front.gif)
+![swablu](../assets/sprites/swablu/front.gif "Swablu")
 
 <pre><code><b>TM:</b> Now learns TM62 Acrobatics.
 <b>Ability One:</b> Natural Cure
@@ -2817,7 +2817,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#334 Altaria](../pokemon/altaria.md/)**
 
-![altaria](../assets/sprites/altaria/front.gif)
+![altaria](../assets/sprites/altaria/front.gif "Altaria")
 
 <pre><code><b>Special Attack:</b> 70 → 100
 <b>Total:</b> 490 → 520
@@ -2829,7 +2829,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#335 Zangoose](../pokemon/zangoose.md/)**
 
-![zangoose](../assets/sprites/zangoose/front.gif)
+![zangoose](../assets/sprites/zangoose/front.gif "Zangoose")
 
 <pre><code><b>Ability One:</b> Immunity
 <b>Ability Two:</b> Toxic Boost
@@ -2837,7 +2837,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#336 Seviper](../pokemon/seviper.md/)**
 
-![seviper](../assets/sprites/seviper/front.gif)
+![seviper](../assets/sprites/seviper/front.gif "Seviper")
 
 <pre><code><b>Ability One:</b> Shed Skin
 <b>Ability Two:</b> Infiltrator
@@ -2845,7 +2845,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#337 Lunatone](../pokemon/lunatone.md/)**
 
-![lunatone](../assets/sprites/lunatone/front.gif)
+![lunatone](../assets/sprites/lunatone/front.gif "Lunatone")
 
 <pre><code><b>Special Attack:</b> 95 → 115
 <b>Total:</b> 440 → 460
@@ -2855,7 +2855,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#338 Solrock](../pokemon/solrock.md/)**
 
-![solrock](../assets/sprites/solrock/front.gif)
+![solrock](../assets/sprites/solrock/front.gif "Solrock")
 
 <pre><code><b>Attack:</b> 95 → 115
 <b>Total:</b> 440 → 460
@@ -2865,7 +2865,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#339 Barboach](../pokemon/barboach.md/)**
 
-![barboach](../assets/sprites/barboach/front.gif)
+![barboach](../assets/sprites/barboach/front.gif "Barboach")
 
 <pre><code><b>Ability One:</b> Forewarn
 <b>Ability Two:</b> Simple
@@ -2873,7 +2873,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#340 Whiscash](../pokemon/whiscash.md/)**
 
-![whiscash](../assets/sprites/whiscash/front.gif)
+![whiscash](../assets/sprites/whiscash/front.gif "Whiscash")
 
 <pre><code><b>Attack:</b> 78 → 98
 <b>Total:</b> 468 → 488
@@ -2883,8 +2883,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#341 Corphish](../pokemon/corphish.md/), [#342 Crawdaunt](../pokemon/crawdaunt.md/)**
 
-![corphish](../assets/sprites/corphish/front.gif)
-![crawdaunt](../assets/sprites/crawdaunt/front.gif)
+![corphish](../assets/sprites/corphish/front.gif "Corphish")
+![crawdaunt](../assets/sprites/crawdaunt/front.gif "Crawdaunt")
 
 <pre><code><b>Ability One:</b> Hyper Cutter
 <b>Ability Two:</b> Adaptability
@@ -2892,7 +2892,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#343 Baltoy](../pokemon/baltoy.md/)**
 
-![baltoy](../assets/sprites/baltoy/front.gif)
+![baltoy](../assets/sprites/baltoy/front.gif "Baltoy")
 
 <pre><code><b>Ability One:</b> Levitate
 <b>Ability Two:</b> Levitate
@@ -2900,7 +2900,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#344 Claydol](../pokemon/claydol.md/)**
 
-![claydol](../assets/sprites/claydol/front.gif)
+![claydol](../assets/sprites/claydol/front.gif "Claydol")
 
 <pre><code><b>Item:</b> Life Orb (5%)
 <b>HM:</b> Can now learn HM02, Fly.
@@ -2910,8 +2910,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#345 Lileep](../pokemon/lileep.md/), [#346 Cradily](../pokemon/cradily.md/)**
 
-![lileep](../assets/sprites/lileep/front.gif)
-![cradily](../assets/sprites/cradily/front.gif)
+![lileep](../assets/sprites/lileep/front.gif "Lileep")
+![cradily](../assets/sprites/cradily/front.gif "Cradily")
 
 <pre><code><b>Ability One:</b> Suction Cups
 <b>Ability Two:</b> Storm Drain
@@ -2919,8 +2919,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#347 Anorith](../pokemon/anorith.md/), [#348 Armaldo](../pokemon/armaldo.md/)**
 
-![anorith](../assets/sprites/anorith/front.gif)
-![armaldo](../assets/sprites/armaldo/front.gif)
+![anorith](../assets/sprites/anorith/front.gif "Anorith")
+![armaldo](../assets/sprites/armaldo/front.gif "Armaldo")
 
 <pre><code><b>Ability One:</b> Battle Armor
 <b>Ability Two:</b> Swift Swim
@@ -2928,7 +2928,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#349 Feebas](../pokemon/feebas.md/)**
 
-![feebas](../assets/sprites/feebas/front.gif)
+![feebas](../assets/sprites/feebas/front.gif "Feebas")
 
 <pre><code><b>Evolution:</b> Use the Prism Scale.
 <b>Ability One:</b> Swift Swim
@@ -2937,7 +2937,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#350 Milotic](../pokemon/milotic.md/)**
 
-![milotic](../assets/sprites/milotic/front.gif)
+![milotic](../assets/sprites/milotic/front.gif "Milotic")
 
 <pre><code><b>Ability One:</b> Marvel Scale
 <b>Ability Two:</b> Multiscale
@@ -2945,7 +2945,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#351 Castform](../pokemon/castform.md/)**
 
-![castform](../assets/sprites/castform/front.gif)
+![castform](../assets/sprites/castform/front.gif "Castform")
 
 <pre><code><b>HP:</b> 60 → 80
 <b>Attack:</b> 60 → 80
@@ -2959,7 +2959,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#352 Kecleon](../pokemon/kecleon.md/)**
 
-![kecleon](../assets/sprites/kecleon/front.gif)
+![kecleon](../assets/sprites/kecleon/front.gif "Kecleon")
 
 <pre><code><b>HP:</b> 60 → 100
 <b>Total:</b> 440 → 480
@@ -2969,7 +2969,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#353 Shuppet](../pokemon/shuppet.md/)**
 
-![shuppet](../assets/sprites/shuppet/front.gif)
+![shuppet](../assets/sprites/shuppet/front.gif "Shuppet")
 
 <pre><code><b>Ability One:</b> Insomnia
 <b>Ability Two:</b> Cursed Body
@@ -2977,7 +2977,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#354 Banette](../pokemon/banette.md/)**
 
-![banette](../assets/sprites/banette/front.gif)
+![banette](../assets/sprites/banette/front.gif "Banette")
 
 <pre><code><b>Attack:</b> 115 → 130
 <b>Speed:</b> 65 → 80
@@ -2988,7 +2988,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#355 Duskull](../pokemon/duskull.md/)**
 
-![duskull](../assets/sprites/duskull/front.gif)
+![duskull](../assets/sprites/duskull/front.gif "Duskull")
 
 <pre><code><b>Ability One:</b> Levitate
 <b>Ability Two:</b> Levitate
@@ -2996,7 +2996,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#356 Dusclops](../pokemon/dusclops.md/)**
 
-![dusclops](../assets/sprites/dusclops/front.gif)
+![dusclops](../assets/sprites/dusclops/front.gif "Dusclops")
 
 <pre><code><b>Evolution:</b> Use the Reaper Cloth.
 <b>Ability One:</b> Pressure
@@ -3005,7 +3005,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#357 Tropius](../pokemon/tropius.md/)**
 
-![tropius](../assets/sprites/tropius/front.gif)
+![tropius](../assets/sprites/tropius/front.gif "Tropius")
 
 <pre><code><b>HP:</b> 99 → 110
 <b>Attack:</b> 68 → 85
@@ -3021,7 +3021,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#358 Chimecho](../pokemon/chimecho.md/)**
 
-![chimecho](../assets/sprites/chimecho/front.gif)
+![chimecho](../assets/sprites/chimecho/front.gif "Chimecho")
 
 <pre><code><b>HP:</b> 65 → 70
 <b>Defense:</b> 70 → 80
@@ -3036,7 +3036,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#359 Absol](../pokemon/absol.md/)**
 
-![absol](../assets/sprites/absol/front.gif)
+![absol](../assets/sprites/absol/front.gif "Absol")
 
 <pre><code><b>Ability One:</b> Justified
 <b>Ability Two:</b> Super Luck
@@ -3044,7 +3044,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#360 Wynaut](../pokemon/wynaut.md/)**
 
-![wynaut](../assets/sprites/wynaut/front.gif)
+![wynaut](../assets/sprites/wynaut/front.gif "Wynaut")
 
 <pre><code><b>Ability One:</b> Shadow Tag
 <b>Ability Two:</b> Telepathy
@@ -3052,7 +3052,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#361 Snorunt](../pokemon/snorunt.md/)**
 
-![snorunt](../assets/sprites/snorunt/front.gif)
+![snorunt](../assets/sprites/snorunt/front.gif "Snorunt")
 
 <pre><code><b>Ability One:</b> Ice Body
 <b>Ability Two:</b> Moody
@@ -3060,7 +3060,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#362 Glalie](../pokemon/glalie.md/)**
 
-![glalie](../assets/sprites/glalie/front.gif)
+![glalie](../assets/sprites/glalie/front.gif "Glalie")
 
 <pre><code><b>Type:</b> Ice / Rock
 <b>TM:</b> Can now learn TM23 Smack Down, TM37 Sandstorm, TM69 Rock Polish, TM71 Stone Edge and TM80 Rock Slide.
@@ -3078,9 +3078,9 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#363 Spheal](../pokemon/spheal.md/), [#364 Sealeo](../pokemon/sealeo.md/), [#365 Walrein](../pokemon/walrein.md/)**
 
-![spheal](../assets/sprites/spheal/front.gif)
-![sealeo](../assets/sprites/sealeo/front.gif)
-![walrein](../assets/sprites/walrein/front.gif)
+![spheal](../assets/sprites/spheal/front.gif "Spheal")
+![sealeo](../assets/sprites/sealeo/front.gif "Sealeo")
+![walrein](../assets/sprites/walrein/front.gif "Walrein")
 
 <pre><code><b>Ability One:</b> Thick Fat
 <b>Ability Two:</b> Ice Body
@@ -3088,7 +3088,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#366 Clamperl](../pokemon/clamperl.md/)**
 
-![clamperl](../assets/sprites/clamperl/front.gif)
+![clamperl](../assets/sprites/clamperl/front.gif "Clamperl")
 
 <pre><code><b>Evolution (Huntail):</b> Level Up at Night with a Deep Sea Tooth equipped.
 <b>Evolution (Gorebyss):</b> Level Up at Night with a Deep Sea Scale equipped.
@@ -3098,7 +3098,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#367 Huntail](../pokemon/huntail.md/)**
 
-![huntail](../assets/sprites/huntail/front.gif)
+![huntail](../assets/sprites/huntail/front.gif "Huntail")
 
 <pre><code><b>Ability One:</b> Swift Swim
 <b>Ability Two:</b> Sheer Force
@@ -3106,7 +3106,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#368 Gorebyss](../pokemon/gorebyss.md/)**
 
-![gorebyss](../assets/sprites/gorebyss/front.gif)
+![gorebyss](../assets/sprites/gorebyss/front.gif "Gorebyss")
 
 <pre><code><b>Ability One:</b> Swift Swim
 <b>Ability Two:</b> Storm Drain
@@ -3114,7 +3114,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#369 Relicanth](../pokemon/relicanth.md/)**
 
-![relicanth](../assets/sprites/relicanth/front.gif)
+![relicanth](../assets/sprites/relicanth/front.gif "Relicanth")
 
 <pre><code><b>Ability One:</b> Sturdy
 <b>Ability Two:</b> Rock Head
@@ -3122,7 +3122,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#370 Luvdisc](../pokemon/luvdisc.md/)**
 
-![luvdisc](../assets/sprites/luvdisc/front.gif)
+![luvdisc](../assets/sprites/luvdisc/front.gif "Luvdisc")
 
 <pre><code><b>HP:</b> 43 → 50
 <b>Attack:</b> 30 → 35
@@ -3139,7 +3139,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#371 Bagon](../pokemon/bagon.md/)**
 
-![bagon](../assets/sprites/bagon/front.gif)
+![bagon](../assets/sprites/bagon/front.gif "Bagon")
 
 <pre><code><b>Ability One:</b> Rock Head
 <b>Ability Two:</b> Sheer Force
@@ -3147,7 +3147,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#372 Shelgon](../pokemon/shelgon.md/)**
 
-![shelgon](../assets/sprites/shelgon/front.gif)
+![shelgon](../assets/sprites/shelgon/front.gif "Shelgon")
 
 <pre><code><b>Ability One:</b> Rock Head
 <b>Ability Two:</b> Overcoat
@@ -3155,7 +3155,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#373 Salamence](../pokemon/salamence.md/)**
 
-![salamence](../assets/sprites/salamence/front.gif)
+![salamence](../assets/sprites/salamence/front.gif "Salamence")
 
 <pre><code><b>Ability One:</b> Intimidate
 <b>Ability Two:</b> Moxie
@@ -3163,8 +3163,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#374 Beldum](../pokemon/beldum.md/), [#375 Metang](../pokemon/metang.md/)**
 
-![beldum](../assets/sprites/beldum/front.gif)
-![metang](../assets/sprites/metang/front.gif)
+![beldum](../assets/sprites/beldum/front.gif "Beldum")
+![metang](../assets/sprites/metang/front.gif "Metang")
 
 <pre><code><b>Ability One:</b> Levitate
 <b>Ability Two:</b> Levitate
@@ -3172,7 +3172,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#376 Metagross](../pokemon/metagross.md/)**
 
-![metagross](../assets/sprites/metagross/front.gif)
+![metagross](../assets/sprites/metagross/front.gif "Metagross")
 
 <pre><code><b>HM:</b> Can now learn HM02, Fly.
 <b>Ability One:</b> Iron Fist
@@ -3181,7 +3181,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#377 Regirock](../pokemon/regirock.md/)**
 
-![regirock](../assets/sprites/regirock/front.gif)
+![regirock](../assets/sprites/regirock/front.gif "Regirock")
 
 <pre><code><b>Ability One:</b> Clear Body
 <b>Ability Two:</b> Solid Rock
@@ -3189,7 +3189,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#378 Regice](../pokemon/regice.md/)**
 
-![regice](../assets/sprites/regice/front.gif)
+![regice](../assets/sprites/regice/front.gif "Regice")
 
 <pre><code><b>Ability One:</b> Clear Body
 <b>Ability Two:</b> Heatproof
@@ -3197,7 +3197,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#379 Registeel](../pokemon/registeel.md/)**
 
-![registeel](../assets/sprites/registeel/front.gif)
+![registeel](../assets/sprites/registeel/front.gif "Registeel")
 
 <pre><code><b>Ability One:</b> Clear Body
 <b>Ability Two:</b> Sturdy
@@ -3205,7 +3205,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#380 Latias](../pokemon/latias.md/)**
 
-![latias](../assets/sprites/latias/front.gif)
+![latias](../assets/sprites/latias/front.gif "Latias")
 
 <pre><code><b>Ability One:</b> Levitate
 <b>Ability Two:</b> Levitate
@@ -3213,7 +3213,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#381 Latios](../pokemon/latios.md/)**
 
-![latios](../assets/sprites/latios/front.gif)
+![latios](../assets/sprites/latios/front.gif "Latios")
 
 <pre><code><b>Ability One:</b> Levitate
 <b>Ability Two:</b> Levitate
@@ -3221,7 +3221,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#382 Kyogre](../pokemon/kyogre.md/)**
 
-![kyogre](../assets/sprites/kyogre/front.gif)
+![kyogre](../assets/sprites/kyogre/front.gif "Kyogre")
 
 <pre><code><b>Ability One:</b> Drizzle
 <b>Ability Two:</b> Drizzle
@@ -3229,7 +3229,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#383 Groudon](../pokemon/groudon.md/)**
 
-![groudon](../assets/sprites/groudon/front.gif)
+![groudon](../assets/sprites/groudon/front.gif "Groudon")
 
 <pre><code><b>Ability One:</b> Drought
 <b>Ability Two:</b> Drought
@@ -3237,7 +3237,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#384 Rayquaza](../pokemon/rayquaza.md/)**
 
-![rayquaza](../assets/sprites/rayquaza/front.gif)
+![rayquaza](../assets/sprites/rayquaza/front.gif "Rayquaza")
 
 <pre><code><b>Ability One:</b> Air Lock
 <b>Ability Two:</b> Air Lock
@@ -3245,7 +3245,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#385 Jirachi](../pokemon/jirachi.md/)**
 
-![jirachi](../assets/sprites/jirachi/front.gif)
+![jirachi](../assets/sprites/jirachi/front.gif "Jirachi")
 
 <pre><code><b>Ability One:</b> Serene Grace
 <b>Ability Two:</b> Magic Guard
@@ -3253,7 +3253,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#386 Deoxys](../pokemon/deoxys-normal.md/)**
 
-![deoxys-normal](../assets/sprites/deoxys-normal/front.gif)
+![deoxys-normal](../assets/sprites/deoxys-normal/front.gif "Deoxys Normal")
 
 <pre><code><b>Ability One:</b> Pressure
 <b>Ability Two:</b> Pressure
@@ -3265,9 +3265,9 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#387 Turtwig](../pokemon/turtwig.md/), [#388 Grotle](../pokemon/grotle.md/), [#389 Torterra](../pokemon/torterra.md/)**
 
-![turtwig](../assets/sprites/turtwig/front.gif)
-![grotle](../assets/sprites/grotle/front.gif)
-![torterra](../assets/sprites/torterra/front.gif)
+![turtwig](../assets/sprites/turtwig/front.gif "Turtwig")
+![grotle](../assets/sprites/grotle/front.gif "Grotle")
+![torterra](../assets/sprites/torterra/front.gif "Torterra")
 
 <pre><code><b>Item:</b> Miracle Seed (50%)
 <b>Ability One:</b> Overgrow
@@ -3276,9 +3276,9 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#390 Chimchar](../pokemon/chimchar.md/), [#391 Monferno](../pokemon/monferno.md/), [#392 Infernape](../pokemon/infernape.md/)**
 
-![chimchar](../assets/sprites/chimchar/front.gif)
-![monferno](../assets/sprites/monferno/front.gif)
-![infernape](../assets/sprites/infernape/front.gif)
+![chimchar](../assets/sprites/chimchar/front.gif "Chimchar")
+![monferno](../assets/sprites/monferno/front.gif "Monferno")
+![infernape](../assets/sprites/infernape/front.gif "Infernape")
 
 <pre><code><b>Item:</b> Charcoal (50%)
 <b>Ability One:</b> Blaze
@@ -3287,9 +3287,9 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#393 Piplup](../pokemon/piplup.md/), [#394 Prinplup](../pokemon/prinplup.md/), [#395 Empoleon](../pokemon/empoleon.md/)**
 
-![piplup](../assets/sprites/piplup/front.gif)
-![prinplup](../assets/sprites/prinplup/front.gif)
-![empoleon](../assets/sprites/empoleon/front.gif)
+![piplup](../assets/sprites/piplup/front.gif "Piplup")
+![prinplup](../assets/sprites/prinplup/front.gif "Prinplup")
+![empoleon](../assets/sprites/empoleon/front.gif "Empoleon")
 
 <pre><code><b>Item:</b> Mystic Water (50%)
 <b>Ability One:</b> Torrent
@@ -3298,7 +3298,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#396 Starly](../pokemon/starly.md/)**
 
-![starly](../assets/sprites/starly/front.gif)
+![starly](../assets/sprites/starly/front.gif "Starly")
 
 <pre><code><b>TM:</b> Now learns TM62, Acrobatics.
 <b>Ability One:</b> Keen Eye
@@ -3307,7 +3307,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#397 Staravia](../pokemon/staravia.md/)**
 
-![staravia](../assets/sprites/staravia/front.gif)
+![staravia](../assets/sprites/staravia/front.gif "Staravia")
 
 <pre><code><b>TM:</b> Now learns TM62, Acrobatics.
 <b>Ability One:</b> Intimidate
@@ -3316,7 +3316,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#398 Staraptor](../pokemon/staraptor.md/)**
 
-![staraptor](../assets/sprites/staraptor/front.gif)
+![staraptor](../assets/sprites/staraptor/front.gif "Staraptor")
 
 <pre><code><b>TM:</b> Now learns TM62, Acrobatics.
 <b>HP:</b> 85 → 100
@@ -3328,7 +3328,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#399 Bidoof](../pokemon/bidoof.md/)**
 
-![bidoof](../assets/sprites/bidoof/front.gif)
+![bidoof](../assets/sprites/bidoof/front.gif "Bidoof")
 
 <pre><code><b>Ability One:</b> Simple
 <b>Ability Two:</b> Moody
@@ -3336,7 +3336,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#400 Bibarel](../pokemon/bibarel.md/)**
 
-![bibarel](../assets/sprites/bibarel/front.gif)
+![bibarel](../assets/sprites/bibarel/front.gif "Bibarel")
 
 <pre><code><b>HP:</b> 79 → 89
 <b>Attack:</b> 85 → 95
@@ -3348,7 +3348,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#401 Kricketot](../pokemon/kricketot.md/)**
 
-![kricketot](../assets/sprites/kricketot/front.gif)
+![kricketot](../assets/sprites/kricketot/front.gif "Kricketot")
 
 <pre><code><b>Ability One:</b> Shed Skin
 <b>Ability Two:</b> Run Away
@@ -3356,7 +3356,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#402 Kricketune](../pokemon/kricketune.md/)**
 
-![kricketune](../assets/sprites/kricketune/front.gif)
+![kricketune](../assets/sprites/kricketune/front.gif "Kricketune")
 
 <pre><code><b>Attack:</b> 85 → 104
 <b>Speed:</b> 65 → 87
@@ -3368,7 +3368,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#403 Shinx](../pokemon/shinx.md/)**
 
-![shinx](../assets/sprites/shinx/front.gif)
+![shinx](../assets/sprites/shinx/front.gif "Shinx")
 
 <pre><code><b>Ability One:</b> Guts
 <b>Ability Two:</b> Intimidate
@@ -3376,7 +3376,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#404 Luxio](../pokemon/luxio.md/)**
 
-![luxio](../assets/sprites/luxio/front.gif)
+![luxio](../assets/sprites/luxio/front.gif "Luxio")
 
 <pre><code><b>Type:</b> Electric / Dark
 <b>Ability One:</b> Guts
@@ -3385,7 +3385,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#405 Luxray](../pokemon/luxray.md/)**
 
-![luxray](../assets/sprites/luxray/front.gif)
+![luxray](../assets/sprites/luxray/front.gif "Luxray")
 
 <pre><code><b>Type:</b> Electric / Dark
 <b>Speed:</b> 70 → 82
@@ -3396,7 +3396,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#406 Budew](../pokemon/budew.md/)**
 
-![budew](../assets/sprites/budew/front.gif)
+![budew](../assets/sprites/budew/front.gif "Budew")
 
 <pre><code><b>Base Happiness:</b> 200
 <b>Ability One:</b> Natural Cure
@@ -3405,7 +3405,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#407 Roserade](../pokemon/roserade.md/)**
 
-![roserade](../assets/sprites/roserade/front.gif)
+![roserade](../assets/sprites/roserade/front.gif "Roserade")
 
 <pre><code><b>Defense:</b> 55 → 65
 <b>Speed:</b> 90 → 100
@@ -3416,8 +3416,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#408 Cranidos](../pokemon/cranidos.md/), [#409 Rampardos](../pokemon/rampardos.md/)**
 
-![cranidos](../assets/sprites/cranidos/front.gif)
-![rampardos](../assets/sprites/rampardos/front.gif)
+![cranidos](../assets/sprites/cranidos/front.gif "Cranidos")
+![rampardos](../assets/sprites/rampardos/front.gif "Rampardos")
 
 <pre><code><b>Ability One:</b> Mold Breaker
 <b>Ability Two:</b> Sheer Force
@@ -3425,8 +3425,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#410 Shieldon](../pokemon/shieldon.md/), [#411 Bastiodon](../pokemon/bastiodon.md/)**
 
-![shieldon](../assets/sprites/shieldon/front.gif)
-![bastiodon](../assets/sprites/bastiodon/front.gif)
+![shieldon](../assets/sprites/shieldon/front.gif "Shieldon")
+![bastiodon](../assets/sprites/bastiodon/front.gif "Bastiodon")
 
 <pre><code><b>Ability One:</b> Sturdy
 <b>Ability Two:</b> Soundproof
@@ -3434,7 +3434,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#412 Burmy](../pokemon/burmy.md/)**
 
-![burmy](../assets/sprites/burmy/front.gif)
+![burmy](../assets/sprites/burmy/front.gif "Burmy")
 
 <pre><code><b>Ability One:</b> Shed Skin
 <b>Ability Two:</b> Overcoat
@@ -3442,7 +3442,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#413 Wormadam (Plant)](../pokemon/wormadam-plant.md/)**
 
-![wormadam-plant](../assets/sprites/wormadam-plant/front.gif)
+![wormadam-plant](../assets/sprites/wormadam-plant/front.gif "Wormadam Plant")
 
 <pre><code><b>Special Attack:</b> 79 → 99
 <b>Special Defense:</b> 105 → 125
@@ -3453,7 +3453,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#413 Wormadam (Sandy)](../pokemon/wormadam-sandy.md/)**
 
-![wormadam-sandy](../assets/sprites/wormadam-sandy/front.gif)
+![wormadam-sandy](../assets/sprites/wormadam-sandy/front.gif "Wormadam Sandy")
 
 <pre><code><b>Attack:</b> 79 → 99
 <b>Defense:</b> 105 → 125
@@ -3464,7 +3464,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#413 Wormadam (Trash)](../pokemon/wormadam-trash.md/)**
 
-![wormadam-trash](../assets/sprites/wormadam-trash/front.gif)
+![wormadam-trash](../assets/sprites/wormadam-trash/front.gif "Wormadam Trash")
 
 <pre><code><b>Defense:</b> 95 → 115
 <b>Special Defense:</b> 95 → 115
@@ -3475,7 +3475,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#414 Mothim](../pokemon/mothim.md/)**
 
-![mothim](../assets/sprites/mothim/front.gif)
+![mothim](../assets/sprites/mothim/front.gif "Mothim")
 
 <pre><code><b>Special Attack:</b> 94 → 104
 <b>Special Defense:</b> 66 → 96
@@ -3486,7 +3486,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#415 Combee](../pokemon/combee.md/)**
 
-![combee](../assets/sprites/combee/front.gif)
+![combee](../assets/sprites/combee/front.gif "Combee")
 
 <pre><code><b>Ability One:</b> Honey Gather
 <b>Ability Two:</b> Hustle
@@ -3494,7 +3494,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#416 Vespiquen](../pokemon/vespiquen.md/)**
 
-![vespiquen](../assets/sprites/vespiquen/front.gif)
+![vespiquen](../assets/sprites/vespiquen/front.gif "Vespiquen")
 
 <pre><code><b>Ability One:</b> Pressure
 <b>Ability Two:</b> Intimidate
@@ -3502,7 +3502,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#417 Pachirisu](../pokemon/pachirisu.md/)**
 
-![pachirisu](../assets/sprites/pachirisu/front.gif)
+![pachirisu](../assets/sprites/pachirisu/front.gif "Pachirisu")
 
 <pre><code><b>Special Attack:</b> 45 → 100
 <b>Total:</b> 405 → 460
@@ -3513,8 +3513,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#418 Buizel](../pokemon/buizel.md/), [#419 Floatzel](../pokemon/floatzel.md/)**
 
-![buizel](../assets/sprites/buizel/front.gif)
-![floatzel](../assets/sprites/floatzel/front.gif)
+![buizel](../assets/sprites/buizel/front.gif "Buizel")
+![floatzel](../assets/sprites/floatzel/front.gif "Floatzel")
 
 <pre><code><b>Ability One:</b> Swift Swim
 <b>Ability Two:</b> Technician
@@ -3522,7 +3522,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#420 Cherubi](../pokemon/cherubi.md/)**
 
-![cherubi](../assets/sprites/cherubi/front.gif)
+![cherubi](../assets/sprites/cherubi/front.gif "Cherubi")
 
 <pre><code><b>Ability One:</b> Chlorophyll
 <b>Ability Two:</b> Healer
@@ -3530,7 +3530,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#421 Cherrim](../pokemon/cherrim.md/)**
 
-![cherrim](../assets/sprites/cherrim/front.gif)
+![cherrim](../assets/sprites/cherrim/front.gif "Cherrim")
 
 <pre><code><b>Special Attack:</b> 87 → 107
 <b>Speed:</b> 85 → 95
@@ -3541,8 +3541,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#422 Shellos](../pokemon/shellos.md/), [#423 Gastrodon](../pokemon/gastrodon.md/)**
 
-![shellos](../assets/sprites/shellos/front.gif)
-![gastrodon](../assets/sprites/gastrodon/front.gif)
+![shellos](../assets/sprites/shellos/front.gif "Shellos")
+![gastrodon](../assets/sprites/gastrodon/front.gif "Gastrodon")
 
 <pre><code><b>Ability One:</b> Sticky Hold
 <b>Ability Two:</b> Storm Drain
@@ -3550,7 +3550,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#424 Ambipom](../pokemon/ambipom.md/)**
 
-![ambipom](../assets/sprites/ambipom/front.gif)
+![ambipom](../assets/sprites/ambipom/front.gif "Ambipom")
 
 <pre><code><b>Ability One:</b> Technician
 <b>Ability Two:</b> Pickup
@@ -3558,8 +3558,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#425 Drifloon](../pokemon/drifloon.md/), [#426 Drifblim](../pokemon/drifblim.md/)**
 
-![drifloon](../assets/sprites/drifloon/front.gif)
-![drifblim](../assets/sprites/drifblim/front.gif)
+![drifloon](../assets/sprites/drifloon/front.gif "Drifloon")
+![drifblim](../assets/sprites/drifblim/front.gif "Drifblim")
 
 <pre><code><b>Ability One:</b> Flare Boost
 <b>Ability Two:</b> Unburden
@@ -3567,7 +3567,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#427 Buneary](../pokemon/buneary.md/)**
 
-![buneary](../assets/sprites/buneary/front.gif)
+![buneary](../assets/sprites/buneary/front.gif "Buneary")
 
 <pre><code><b>Base Happiness:</b> 140
 <b>Ability One:</b> Klutz
@@ -3576,7 +3576,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#428 Lopunny](../pokemon/lopunny.md/)**
 
-![lopunny](../assets/sprites/lopunny/front.gif)
+![lopunny](../assets/sprites/lopunny/front.gif "Lopunny")
 
 <pre><code><b>Ability One:</b> Cute Charm
 <b>Ability Two:</b> Limber
@@ -3584,7 +3584,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#429 Mismagius](../pokemon/mismagius.md/)**
 
-![mismagius](../assets/sprites/mismagius/front.gif)
+![mismagius](../assets/sprites/mismagius/front.gif "Mismagius")
 
 <pre><code><b>HP:</b> 60 → 70
 <b>Attack:</b> 60 → 70
@@ -3597,7 +3597,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#430 Honchkrow](../pokemon/honchkrow.md/)**
 
-![honchkrow](../assets/sprites/honchkrow/front.gif)
+![honchkrow](../assets/sprites/honchkrow/front.gif "Honchkrow")
 
 <pre><code><b>HP:</b> 100 → 120
 <b>Total:</b> 505 → 525
@@ -3608,7 +3608,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#431 Glameow](../pokemon/glameow.md/)**
 
-![glameow](../assets/sprites/glameow/front.gif)
+![glameow](../assets/sprites/glameow/front.gif "Glameow")
 
 <pre><code><b>Ability One:</b> Limber
 <b>Ability Two:</b> Own Tempo
@@ -3616,7 +3616,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#432 Purugly](../pokemon/purugly.md/)**
 
-![purugly](../assets/sprites/purugly/front.gif)
+![purugly](../assets/sprites/purugly/front.gif "Purugly")
 
 <pre><code><b>HP:</b> 71 → 89
 <b>Attack:</b> 82 → 91
@@ -3628,7 +3628,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#433 Chingling](../pokemon/chingling.md/)**
 
-![chingling](../assets/sprites/chingling/front.gif)
+![chingling](../assets/sprites/chingling/front.gif "Chingling")
 
 <pre><code><b>Base Happiness:</b> 200
 <b>Ability One:</b> Levitate
@@ -3637,8 +3637,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#434 Stunky](../pokemon/stunky.md/), [#435 Skuntank](../pokemon/skuntank.md/)**
 
-![stunky](../assets/sprites/stunky/front.gif)
-![skuntank](../assets/sprites/skuntank/front.gif)
+![stunky](../assets/sprites/stunky/front.gif "Stunky")
+![skuntank](../assets/sprites/skuntank/front.gif "Skuntank")
 
 <pre><code><b>Ability One:</b> Stench
 <b>Ability Two:</b> Aftermath
@@ -3646,7 +3646,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#436 Bronzor](../pokemon/bronzor.md/)**
 
-![bronzor](../assets/sprites/bronzor/front.gif)
+![bronzor](../assets/sprites/bronzor/front.gif "Bronzor")
 
 <pre><code><b>Ability One:</b> Levitate
 <b>Ability Two:</b> Heatproof
@@ -3654,7 +3654,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#437 Bronzong](../pokemon/bronzong.md/)**
 
-![bronzong](../assets/sprites/bronzong/front.gif)
+![bronzong](../assets/sprites/bronzong/front.gif "Bronzong")
 
 <pre><code><b>HM:</b> Can now learn HM02, Fly.
 <b>Ability One:</b> Levitate
@@ -3663,7 +3663,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#438 Bonsly](../pokemon/bonsly.md/)**
 
-![bonsly](../assets/sprites/bonsly/front.gif)
+![bonsly](../assets/sprites/bonsly/front.gif "Bonsly")
 
 <pre><code><b>Ability One:</b> Sturdy
 <b>Ability Two:</b> Rattled
@@ -3671,7 +3671,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#439 Mime Jr.](../pokemon/mime-jr.md/)**
 
-![mime-jr](../assets/sprites/mime-jr/front.gif)
+![mime-jr](../assets/sprites/mime-jr/front.gif "Mime Jr")
 
 <pre><code><b>Ability One:</b> Technician
 <b>Ability Two:</b> Filter
@@ -3679,7 +3679,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#440 Happiny](../pokemon/happiny.md/)**
 
-![happiny](../assets/sprites/happiny/front.gif)
+![happiny](../assets/sprites/happiny/front.gif "Happiny")
 
 <pre><code><b>Evolution:</b> Use the Oval Stone.
 <b>Base Happiness:</b> 160
@@ -3689,7 +3689,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#441 Chatot](../pokemon/chatot.md/)**
 
-![chatot](../assets/sprites/chatot/front.gif)
+![chatot](../assets/sprites/chatot/front.gif "Chatot")
 
 <pre><code><b>Defense:</b> 45 → 56
 <b>Special Attack:</b> 92 → 112
@@ -3703,7 +3703,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#442 Spiritomb](../pokemon/spiritomb.md/)**
 
-![spiritomb](../assets/sprites/spiritomb/front.gif)
+![spiritomb](../assets/sprites/spiritomb/front.gif "Spiritomb")
 
 <pre><code><b>Ability One:</b> Pressure
 <b>Ability Two:</b> Cursed Body
@@ -3711,8 +3711,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#443 Gible](../pokemon/gible.md/), [#444 Gabite](../pokemon/gabite.md/)**
 
-![gible](../assets/sprites/gible/front.gif)
-![gabite](../assets/sprites/gabite/front.gif)
+![gible](../assets/sprites/gible/front.gif "Gible")
+![gabite](../assets/sprites/gabite/front.gif "Gabite")
 
 <pre><code><b>Ability One:</b> Sand Veil
 <b>Ability Two:</b> Rough Skin
@@ -3720,7 +3720,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#445 Garchomp](../pokemon/garchomp.md/)**
 
-![garchomp](../assets/sprites/garchomp/front.gif)
+![garchomp](../assets/sprites/garchomp/front.gif "Garchomp")
 
 <pre><code><b>HM:</b> Can now learn HM02, Fly.
 <b>Ability One:</b> Sand Veil
@@ -3729,7 +3729,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#446 Munchlax](../pokemon/munchlax.md/)**
 
-![munchlax](../assets/sprites/munchlax/front.gif)
+![munchlax](../assets/sprites/munchlax/front.gif "Munchlax")
 
 <pre><code><b>Base Happiness:</b> 180
 <b>Ability One:</b> Gluttony
@@ -3738,7 +3738,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#447 Riolu](../pokemon/riolu.md/)**
 
-![riolu](../assets/sprites/riolu/front.gif)
+![riolu](../assets/sprites/riolu/front.gif "Riolu")
 
 <pre><code><b>Base Happiness:</b> 180
 <b>Ability One:</b> Steadfast
@@ -3747,7 +3747,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#448 Lucario](../pokemon/lucario.md/)**
 
-![lucario](../assets/sprites/lucario/front.gif)
+![lucario](../assets/sprites/lucario/front.gif "Lucario")
 
 <pre><code><b>Ability One:</b> Steadfast
 <b>Ability Two:</b> Justified
@@ -3755,8 +3755,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#449 Hippopotas](../pokemon/hippopotas.md/), [#450 Hippowdon](../pokemon/hippowdon.md/)**
 
-![hippopotas](../assets/sprites/hippopotas/front.gif)
-![hippowdon](../assets/sprites/hippowdon/front.gif)
+![hippopotas](../assets/sprites/hippopotas/front.gif "Hippopotas")
+![hippowdon](../assets/sprites/hippowdon/front.gif "Hippowdon")
 
 <pre><code><b>Ability One:</b> Sand Stream
 <b>Ability Two:</b> Sand Force
@@ -3764,8 +3764,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#451 Skorupi](../pokemon/skorupi.md/), [#452 Drapion](../pokemon/drapion.md/)**
 
-![skorupi](../assets/sprites/skorupi/front.gif)
-![drapion](../assets/sprites/drapion/front.gif)
+![skorupi](../assets/sprites/skorupi/front.gif "Skorupi")
+![drapion](../assets/sprites/drapion/front.gif "Drapion")
 
 <pre><code><b>Ability One:</b> Battle Armor
 <b>Ability Two:</b> Sniper
@@ -3773,8 +3773,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#453 Croagunk](../pokemon/croagunk.md/), [#454 Toxicroak](../pokemon/toxicroak.md/)**
 
-![croagunk](../assets/sprites/croagunk/front.gif)
-![toxicroak](../assets/sprites/toxicroak/front.gif)
+![croagunk](../assets/sprites/croagunk/front.gif "Croagunk")
+![toxicroak](../assets/sprites/toxicroak/front.gif "Toxicroak")
 
 <pre><code><b>Ability One:</b> Poison Touch
 <b>Ability Two:</b> Dry Skin
@@ -3782,7 +3782,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#455 Carnivine](../pokemon/carnivine.md/)**
 
-![carnivine](../assets/sprites/carnivine/front.gif)
+![carnivine](../assets/sprites/carnivine/front.gif "Carnivine")
 
 <pre><code><b>Attack:</b> 100 → 120
 <b>Speed:</b> 46 → 86
@@ -3793,7 +3793,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#456 Finneon](../pokemon/finneon.md/)**
 
-![finneon](../assets/sprites/finneon/front.gif)
+![finneon](../assets/sprites/finneon/front.gif "Finneon")
 
 <pre><code><b>Ability One:</b> Swift Swim
 <b>Ability Two:</b> Storm Drain
@@ -3801,7 +3801,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#457 Lumineon](../pokemon/lumineon.md/)**
 
-![lumineon](../assets/sprites/lumineon/front.gif)
+![lumineon](../assets/sprites/lumineon/front.gif "Lumineon")
 
 <pre><code><b>Special Attack:</b> 69 → 89
 <b>Speed:</b> 91 → 101
@@ -3812,7 +3812,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#458 Mantyke](../pokemon/mantyke.md/)**
 
-![mantyke](../assets/sprites/mantyke/front.gif)
+![mantyke](../assets/sprites/mantyke/front.gif "Mantyke")
 
 <pre><code><b>Ability One:</b> Swift Swim
 <b>Ability Two:</b> Water Absorb
@@ -3820,8 +3820,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#459 Snover](../pokemon/snover.md/), [#460 Abomasnow](../pokemon/abomasnow.md/)**
 
-![snover](../assets/sprites/snover/front.gif)
-![abomasnow](../assets/sprites/abomasnow/front.gif)
+![snover](../assets/sprites/snover/front.gif "Snover")
+![abomasnow](../assets/sprites/abomasnow/front.gif "Abomasnow")
 
 <pre><code><b>Ability One:</b> Snow Warning
 <b>Ability Two:</b> Soundproof
@@ -3829,7 +3829,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#461 Weavile](../pokemon/weavile.md/)**
 
-![weavile](../assets/sprites/weavile/front.gif)
+![weavile](../assets/sprites/weavile/front.gif "Weavile")
 
 <pre><code><b>TM:</b> Now learns TM79, Frost Breath.
 <b>Ability One:</b> Pickpocket
@@ -3838,7 +3838,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#462 Magnezone](../pokemon/magnezone.md/)**
 
-![magnezone](../assets/sprites/magnezone/front.gif)
+![magnezone](../assets/sprites/magnezone/front.gif "Magnezone")
 
 <pre><code><b>Ability One:</b> Magnet Pull
 <b>Ability Two:</b> Analytic
@@ -3846,7 +3846,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#463 Lickilicky](../pokemon/lickilicky.md/)**
 
-![lickilicky](../assets/sprites/lickilicky/front.gif)
+![lickilicky](../assets/sprites/lickilicky/front.gif "Lickilicky")
 
 <pre><code><b>Ability One:</b> Thick Fat
 <b>Ability Two:</b> Gluttony
@@ -3854,7 +3854,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#464 Rhyperior](../pokemon/rhyperior.md/)**
 
-![rhyperior](../assets/sprites/rhyperior/front.gif)
+![rhyperior](../assets/sprites/rhyperior/front.gif "Rhyperior")
 
 <pre><code><b>Ability One:</b> Reckless
 <b>Ability Two:</b> Solid Rock
@@ -3862,7 +3862,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#465 Tangrowth](../pokemon/tangrowth.md/)**
 
-![tangrowth](../assets/sprites/tangrowth/front.gif)
+![tangrowth](../assets/sprites/tangrowth/front.gif "Tangrowth")
 
 <pre><code><b>Ability One:</b> Chlorophyll
 <b>Ability Two:</b> Regenerator
@@ -3870,7 +3870,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#466 Electivire](../pokemon/electivire.md/)**
 
-![electivire](../assets/sprites/electivire/front.gif)
+![electivire](../assets/sprites/electivire/front.gif "Electivire")
 
 <pre><code><b>Type:</b> Electric / Fighting
 <b>Ability One:</b> Motor Drive
@@ -3879,7 +3879,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#467 Magmortar](../pokemon/magmortar.md/)**
 
-![magmortar](../assets/sprites/magmortar/front.gif)
+![magmortar](../assets/sprites/magmortar/front.gif "Magmortar")
 
 <pre><code><b>Ability One:</b> Flame Body
 <b>Ability Two:</b> Vital Spirit
@@ -3887,7 +3887,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#468 Togekiss](../pokemon/togekiss.md/)**
 
-![togekiss](../assets/sprites/togekiss/front.gif)
+![togekiss](../assets/sprites/togekiss/front.gif "Togekiss")
 
 <pre><code><b>Ability One:</b> Super Luck
 <b>Ability Two:</b> Serene Grace
@@ -3895,7 +3895,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#469 Yanmega](../pokemon/yanmega.md/)**
 
-![yanmega](../assets/sprites/yanmega/front.gif)
+![yanmega](../assets/sprites/yanmega/front.gif "Yanmega")
 
 <pre><code><b>HM:</b> Can now learn HM02, Fly.
 <b>Ability One:</b> Speed Boost
@@ -3904,7 +3904,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#470 Leafeon](../pokemon/leafeon.md/)**
 
-![leafeon](../assets/sprites/leafeon/front.gif)
+![leafeon](../assets/sprites/leafeon/front.gif "Leafeon")
 
 <pre><code><b>Ability One:</b> Leaf Guard
 <b>Ability Two:</b> Natural Cure
@@ -3912,7 +3912,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#471 Glaceon](../pokemon/glaceon.md/)**
 
-![glaceon](../assets/sprites/glaceon/front.gif)
+![glaceon](../assets/sprites/glaceon/front.gif "Glaceon")
 
 <pre><code><b>TM:</b> Can now learn TM86, Grass Knot.
 <b>Ability One:</b> Snow Cloak
@@ -3921,7 +3921,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#472 Gliscor](../pokemon/gliscor.md/)**
 
-![gliscor](../assets/sprites/gliscor/front.gif)
+![gliscor](../assets/sprites/gliscor/front.gif "Gliscor")
 
 <pre><code><b>HM:</b> Can now learn HM02, Fly.
 <b>Ability One:</b> Hyper Cutter
@@ -3930,7 +3930,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#473 Mamoswine](../pokemon/mamoswine.md/)**
 
-![mamoswine](../assets/sprites/mamoswine/front.gif)
+![mamoswine](../assets/sprites/mamoswine/front.gif "Mamoswine")
 
 <pre><code><b>Ability One:</b> Thick Fat
 <b>Ability Two:</b> Snow Cloak
@@ -3938,7 +3938,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#474 Porygon-Z](../pokemon/porygon-z.md/)**
 
-![porygon-z](../assets/sprites/porygon-z/front.gif)
+![porygon-z](../assets/sprites/porygon-z/front.gif "Porygon Z")
 
 <pre><code><b>Ability One:</b> Adaptability
 <b>Ability Two:</b> Download
@@ -3946,7 +3946,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#475 Gallade](../pokemon/gallade.md/)**
 
-![gallade](../assets/sprites/gallade/front.gif)
+![gallade](../assets/sprites/gallade/front.gif "Gallade")
 
 <pre><code><b>Ability One:</b> Justified
 <b>Ability Two:</b> Trace
@@ -3954,7 +3954,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#476 Probopass](../pokemon/probopass.md/)**
 
-![probopass](../assets/sprites/probopass/front.gif)
+![probopass](../assets/sprites/probopass/front.gif "Probopass")
 
 <pre><code><b>Ability One:</b> Sturdy
 <b>Ability Two:</b> Magnet Pull
@@ -3962,7 +3962,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#477 Dusknoir](../pokemon/dusknoir.md/)**
 
-![dusknoir](../assets/sprites/dusknoir/front.gif)
+![dusknoir](../assets/sprites/dusknoir/front.gif "Dusknoir")
 
 <pre><code><b>Ability One:</b> Pressure
 <b>Ability Two:</b> Cursed Body
@@ -3970,7 +3970,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#478 Froslass](../pokemon/froslass.md/)**
 
-![froslass](../assets/sprites/froslass/front.gif)
+![froslass](../assets/sprites/froslass/front.gif "Froslass")
 
 <pre><code><b>Special Attack:</b> 80 → 100
 <b>Total:</b> 480 → 500
@@ -3981,7 +3981,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#479 Rotom](../pokemon/rotom.md/)**
 
-![rotom](../assets/sprites/rotom/front.gif)
+![rotom](../assets/sprites/rotom/front.gif "Rotom")
 
 <pre><code><b>Speed:</b> 91 → 111
 <b>Total:</b> 440 → 460
@@ -3991,7 +3991,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#479 Rotom Fan](../pokemon/rotom-fan.md/)**
 
-![rotom-fan](../assets/sprites/rotom-fan/front.gif)
+![rotom-fan](../assets/sprites/rotom-fan/front.gif "Rotom Fan")
 
 <pre><code><b>Ability One:</b> Speed Boost
 <b>Ability Two:</b> Motor Drive
@@ -3999,7 +3999,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#480 Uxie](../pokemon/uxie.md/)**
 
-![uxie](../assets/sprites/uxie/front.gif)
+![uxie](../assets/sprites/uxie/front.gif "Uxie")
 
 <pre><code><b>Ability One:</b> Levitate
 <b>Ability Two:</b> Levitate
@@ -4007,7 +4007,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#481 Mesprit](../pokemon/mesprit.md/)**
 
-![mesprit](../assets/sprites/mesprit/front.gif)
+![mesprit](../assets/sprites/mesprit/front.gif "Mesprit")
 
 <pre><code><b>Ability One:</b> Levitate
 <b>Ability Two:</b> Levitate
@@ -4015,7 +4015,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#482 Azelf](../pokemon/azelf.md/)**
 
-![azelf](../assets/sprites/azelf/front.gif)
+![azelf](../assets/sprites/azelf/front.gif "Azelf")
 
 <pre><code><b>Ability One:</b> Levitate
 <b>Ability Two:</b> Levitate
@@ -4023,7 +4023,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#483 Dialga](../pokemon/dialga.md/)**
 
-![dialga](../assets/sprites/dialga/front.gif)
+![dialga](../assets/sprites/dialga/front.gif "Dialga")
 
 <pre><code><b>Ability One:</b> Pressure
 <b>Ability Two:</b> Telepathy
@@ -4031,7 +4031,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#484 Palkia](../pokemon/palkia.md/)**
 
-![palkia](../assets/sprites/palkia/front.gif)
+![palkia](../assets/sprites/palkia/front.gif "Palkia")
 
 <pre><code><b>Ability One:</b> Pressure
 <b>Ability Two:</b> Telepathy
@@ -4039,7 +4039,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#485 Heatran](../pokemon/heatran.md/)**
 
-![heatran](../assets/sprites/heatran/front.gif)
+![heatran](../assets/sprites/heatran/front.gif "Heatran")
 
 <pre><code><b>Ability One:</b> Flash Fire
 <b>Ability Two:</b> Flame Body
@@ -4047,7 +4047,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#486 Regigigas](../pokemon/regigigas.md/)**
 
-![regigigas](../assets/sprites/regigigas/front.gif)
+![regigigas](../assets/sprites/regigigas/front.gif "Regigigas")
 
 <pre><code><b>Ability One:</b> Sheer Force
 <b>Ability Two:</b> Sheer Force
@@ -4055,7 +4055,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#487 Giratina (Altered)](../pokemon/giratina-altered.md/)**
 
-![giratina-altered](../assets/sprites/giratina-altered/front.gif)
+![giratina-altered](../assets/sprites/giratina-altered/front.gif "Giratina Altered")
 
 <pre><code><b>Ability One:</b> Pressure
 <b>Ability Two:</b> Telepathy
@@ -4063,7 +4063,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#488 Cresselia](../pokemon/cresselia.md/)**
 
-![cresselia](../assets/sprites/cresselia/front.gif)
+![cresselia](../assets/sprites/cresselia/front.gif "Cresselia")
 
 <pre><code><b>Ability One:</b> Levitate
 <b>Ability Two:</b> Levitate
@@ -4071,7 +4071,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#489 Phione](../pokemon/phione.md/)**
 
-![phione](../assets/sprites/phione/front.gif)
+![phione](../assets/sprites/phione/front.gif "Phione")
 
 <pre><code><b>HP:</b> 80 → 90
 <b>Attack:</b> 80 → 90
@@ -4087,7 +4087,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#490 Manaphy](../pokemon/manaphy.md/)**
 
-![manaphy](../assets/sprites/manaphy/front.gif)
+![manaphy](../assets/sprites/manaphy/front.gif "Manaphy")
 
 <pre><code><b>Item:</b> Lansat Berry (100%)
 <b>Ability One:</b> Hydration
@@ -4096,7 +4096,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#491 Darkrai](../pokemon/darkrai.md/)**
 
-![darkrai](../assets/sprites/darkrai/front.gif)
+![darkrai](../assets/sprites/darkrai/front.gif "Darkrai")
 
 <pre><code><b>Ability One:</b> Bad Dreams
 <b>Ability Two:</b> Bad Dreams
@@ -4104,14 +4104,14 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#492 Shaymin](../pokemon/shaymin-land.md/)**
 
-![shaymin-land](../assets/sprites/shaymin-land/front.gif)
+![shaymin-land](../assets/sprites/shaymin-land/front.gif "Shaymin Land")
 
 <pre><code><b>Item:</b> Starf Berry (100%)
 </code></pre>
 
 **[#493 Arceus](../pokemon/arceus.md/)**
 
-![arceus](../assets/sprites/arceus/front.gif)
+![arceus](../assets/sprites/arceus/front.gif "Arceus")
 
 <pre><code><b>Item:</b> Enigma Berry (100%)
 <b>Base EXP:</b> 324 → 511
@@ -4125,7 +4125,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#494 Victini](../pokemon/victini.md/)**
 
-![victini](../assets/sprites/victini/front.gif)
+![victini](../assets/sprites/victini/front.gif "Victini")
 
 <pre><code><b>Ability One:</b> Victory Star
 <b>Ability Two:</b> Victory Star
@@ -4133,7 +4133,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#495 Snivy](../pokemon/snivy.md/)**
 
-![snivy](../assets/sprites/snivy/front.gif)
+![snivy](../assets/sprites/snivy/front.gif "Snivy")
 
 <pre><code><b>Item:</b> Miracle Seed (50%)
 <b>Base EXP:</b> 28 → 50
@@ -4144,7 +4144,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#496 Servine](../pokemon/servine.md/)**
 
-![servine](../assets/sprites/servine/front.gif)
+![servine](../assets/sprites/servine/front.gif "Servine")
 
 <pre><code><b>Item:</b> Miracle Seed (50%)
 <b>Base Happiness:</b> 0
@@ -4154,7 +4154,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#497 Serperior](../pokemon/serperior.md/)**
 
-![serperior](../assets/sprites/serperior/front.gif)
+![serperior](../assets/sprites/serperior/front.gif "Serperior")
 
 <pre><code><b>TM:</b> Can now learn TM26 Earthquake.
 <b>Tutor:</b> Can now learn Draco Meteor.
@@ -4169,7 +4169,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#498 Tepig](../pokemon/tepig.md/)**
 
-![tepig](../assets/sprites/tepig/front.gif)
+![tepig](../assets/sprites/tepig/front.gif "Tepig")
 
 <pre><code><b>Item:</b> Charcoal (50%)
 <b>Base EXP:</b> 28 → 50
@@ -4179,7 +4179,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#499 Pignite](../pokemon/pignite.md/)**
 
-![pignite](../assets/sprites/pignite/front.gif)
+![pignite](../assets/sprites/pignite/front.gif "Pignite")
 
 <pre><code><b>Item:</b> Charcoal (50%)
 <b>Type:</b> Fire / Ground
@@ -4189,7 +4189,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#500 Emboar](../pokemon/emboar.md/)**
 
-![emboar](../assets/sprites/emboar/front.gif)
+![emboar](../assets/sprites/emboar/front.gif "Emboar")
 
 <pre><code><b>Item:</b> Charcoal (50%)
 <b>HP:</b> 110 → 120
@@ -4206,7 +4206,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#501 Oshawott](../pokemon/oshawott.md/)**
 
-![oshawott](../assets/sprites/oshawott/front.gif)
+![oshawott](../assets/sprites/oshawott/front.gif "Oshawott")
 
 <pre><code><b>Item:</b> Mystic Water (50%)
 <b>Base EXP:</b> 28 → 50
@@ -4216,7 +4216,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#502 Dewott](../pokemon/dewott.md/)**
 
-![dewott](../assets/sprites/dewott/front.gif)
+![dewott](../assets/sprites/dewott/front.gif "Dewott")
 
 <pre><code><b>Item:</b> Mystic Water (50%)
 <b>Type:</b> Water / Fighting
@@ -4226,7 +4226,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#503 Samurott](../pokemon/samurott.md/)**
 
-![samurott](../assets/sprites/samurott/front.gif)
+![samurott](../assets/sprites/samurott/front.gif "Samurott")
 
 <pre><code><b>TM:</b> Can now learn TM26 Earthquake.
 <b>Item:</b> Mystic Water (50%)
@@ -4240,7 +4240,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#504 Patrat](../pokemon/patrat.md/)**
 
-![patrat](../assets/sprites/patrat/front.gif)
+![patrat](../assets/sprites/patrat/front.gif "Patrat")
 
 <pre><code><b>Ability One:</b> Analytic
 <b>Ability Two:</b> Keen Eye
@@ -4248,7 +4248,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#505 Watchog](../pokemon/watchog.md/)**
 
-![watchog](../assets/sprites/watchog/front.gif)
+![watchog](../assets/sprites/watchog/front.gif "Watchog")
 
 <pre><code><b>Special Attack:</b> 60 → 85
 <b>Total:</b> 420 → 435
@@ -4258,7 +4258,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#506 Lillipup](../pokemon/lillipup.md/)**
 
-![lillipup](../assets/sprites/lillipup/front.gif)
+![lillipup](../assets/sprites/lillipup/front.gif "Lillipup")
 
 <pre><code><b>Ability One:</b> Vital Spirit
 <b>Ability Two:</b> Pickup
@@ -4266,7 +4266,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#507 Herdier](../pokemon/herdier.md/)**
 
-![herdier](../assets/sprites/herdier/front.gif)
+![herdier](../assets/sprites/herdier/front.gif "Herdier")
 
 <pre><code><b>Ability One:</b> Intimidate
 <b>Ability Two:</b> Scrappy
@@ -4274,7 +4274,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#508 Stoutland](../pokemon/stoutland.md/)**
 
-![stoutland](../assets/sprites/stoutland/front.gif)
+![stoutland](../assets/sprites/stoutland/front.gif "Stoutland")
 
 <pre><code><b>HP:</b> 85 → 105
 <b>Attack:</b> 100 → 110
@@ -4285,7 +4285,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#509 Purrloin](../pokemon/purrloin.md/)**
 
-![purrloin](../assets/sprites/purrloin/front.gif)
+![purrloin](../assets/sprites/purrloin/front.gif "Purrloin")
 
 <pre><code><b>Ability One:</b> Limber
 <b>Ability Two:</b> Prankster
@@ -4293,7 +4293,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#510 Liepard](../pokemon/liepard.md/)**
 
-![liepard](../assets/sprites/liepard/front.gif)
+![liepard](../assets/sprites/liepard/front.gif "Liepard")
 
 <pre><code><b>TM:</b> Can now learn TM43, Flame Charge and TM93, Wild Charge.
 <b>Attack:</b> 88 → 98
@@ -4305,7 +4305,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#511 Pansage](../pokemon/pansage.md/)**
 
-![pansage](../assets/sprites/pansage/front.gif)
+![pansage](../assets/sprites/pansage/front.gif "Pansage")
 
 <pre><code><b>Tutor:</b> Can now learn Grass Pledge and Frenzy Plant.
 <b>Ability One:</b> Gluttony
@@ -4314,7 +4314,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#512 Simisage](../pokemon/simisage.md/)**
 
-![simisage](../assets/sprites/simisage/front.gif)
+![simisage](../assets/sprites/simisage/front.gif "Simisage")
 
 <pre><code><b>Tutor:</b> Can now learn Grass Pledge and Frenzy Plant.
 <b>Ability One:</b> Unburden
@@ -4323,7 +4323,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#513 Pansear](../pokemon/pansear.md/)**
 
-![pansear](../assets/sprites/pansear/front.gif)
+![pansear](../assets/sprites/pansear/front.gif "Pansear")
 
 <pre><code><b>Tutor:</b> Can now learn Fire Pledge and Blast Burn.
 <b>Ability One:</b> Gluttony
@@ -4332,7 +4332,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#514 Simisear](../pokemon/simisear.md/)**
 
-![simisear](../assets/sprites/simisear/front.gif)
+![simisear](../assets/sprites/simisear/front.gif "Simisear")
 
 <pre><code><b>Tutor:</b> Can now learn Fire Pledge and Blast Burn.
 <b>Ability One:</b> Unburden
@@ -4341,7 +4341,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#515 Panpour](../pokemon/panpour.md/)**
 
-![panpour](../assets/sprites/panpour/front.gif)
+![panpour](../assets/sprites/panpour/front.gif "Panpour")
 
 <pre><code><b>Tutor:</b> Can now learn Water Pledge and Hydro Cannon.
 <b>Ability One:</b> Gluttony
@@ -4350,7 +4350,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#516 Simipour](../pokemon/simipour.md/)**
 
-![simipour](../assets/sprites/simipour/front.gif)
+![simipour](../assets/sprites/simipour/front.gif "Simipour")
 
 <pre><code><b>Tutor:</b> Can now learn Water Pledge and Hydro Cannon.
 <b>Ability One:</b> Unburden
@@ -4359,7 +4359,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#517 Munna](../pokemon/munna.md/)**
 
-![munna](../assets/sprites/munna/front.gif)
+![munna](../assets/sprites/munna/front.gif "Munna")
 
 <pre><code><b>Ability One:</b> Telepathy
 <b>Ability Two:</b> Analytic
@@ -4368,7 +4368,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#518 Musharna](../pokemon/musharna.md/)**
 
-![musharna](../assets/sprites/musharna/front.gif)
+![musharna](../assets/sprites/musharna/front.gif "Musharna")
 
 <pre><code><b>Ability One:</b> Telepathy
 <b>Ability Two:</b> Analytic
@@ -4377,7 +4377,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#519 Pidove](../pokemon/pidove.md/)**
 
-![pidove](../assets/sprites/pidove/front.gif)
+![pidove](../assets/sprites/pidove/front.gif "Pidove")
 
 <pre><code><b>Attack:</b> 55 → 36
 <b>Defense:</b> 50 → 30
@@ -4389,7 +4389,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#520 Tranquill](../pokemon/tranquill.md/)**
 
-![tranquill](../assets/sprites/tranquill/front.gif)
+![tranquill](../assets/sprites/tranquill/front.gif "Tranquill")
 
 <pre><code><b>Attack:</b> 77 → 50
 <b>Defense:</b> 62 → 42
@@ -4401,7 +4401,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#521 Unfezant](../pokemon/unfezant.md/)**
 
-![unfezant](../assets/sprites/unfezant/front.gif)
+![unfezant](../assets/sprites/unfezant/front.gif "Unfezant")
 
 <pre><code><b>Attack:</b> 105 → 65
 <b>Defense:</b> 80 → 55
@@ -4415,7 +4415,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#522 Blitzle](../pokemon/blitzle.md/)**
 
-![blitzle](../assets/sprites/blitzle/front.gif)
+![blitzle](../assets/sprites/blitzle/front.gif "Blitzle")
 
 <pre><code><b>Ability One:</b> Lightning Rod
 <b>Ability Two:</b> Sap Sipper
@@ -4423,7 +4423,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#523 Zebstrika](../pokemon/zebstrika.md/)**
 
-![zebstrika](../assets/sprites/zebstrika/front.gif)
+![zebstrika](../assets/sprites/zebstrika/front.gif "Zebstrika")
 
 <pre><code><b>Ability One:</b> Lightning Rod
 <b>Ability Two:</b> Sap Sipper
@@ -4431,7 +4431,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#524 Roggenrola](../pokemon/roggenrola.md/)**
 
-![roggenrola](../assets/sprites/roggenrola/front.gif)
+![roggenrola](../assets/sprites/roggenrola/front.gif "Roggenrola")
 
 <pre><code><b>Ability One:</b> Sturdy
 <b>Ability Two:</b> Sand Force
@@ -4439,7 +4439,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#525 Boldore](../pokemon/boldore.md/)**
 
-![boldore](../assets/sprites/boldore/front.gif)
+![boldore](../assets/sprites/boldore/front.gif "Boldore")
 
 <pre><code><b>Evolution:</b> Level 36.
 <b>Ability One:</b> Sturdy
@@ -4448,7 +4448,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#526 Gigalith](../pokemon/gigalith.md/)**
 
-![gigalith](../assets/sprites/gigalith/front.gif)
+![gigalith](../assets/sprites/gigalith/front.gif "Gigalith")
 
 <pre><code><b>Ability One:</b> Sturdy
 <b>Ability Two:</b> Sand Force
@@ -4456,7 +4456,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#527 Woobat](../pokemon/woobat.md/)**
 
-![woobat](../assets/sprites/woobat/front.gif)
+![woobat](../assets/sprites/woobat/front.gif "Woobat")
 
 <pre><code><b>Base Happiness:</b> 180
 <b>Ability One:</b> Unaware
@@ -4465,7 +4465,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#528 Swoobat](../pokemon/swoobat.md/)**
 
-![swoobat](../assets/sprites/swoobat/front.gif)
+![swoobat](../assets/sprites/swoobat/front.gif "Swoobat")
 
 <pre><code><b>Base Happiness:</b> 180
 <b>HP:</b> 67 → 77
@@ -4480,8 +4480,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#529 Drilbur](../pokemon/drilbur.md/), [#530 Excadrill](../pokemon/excadrill.md/)**
 
-![drilbur](../assets/sprites/drilbur/front.gif)
-![excadrill](../assets/sprites/excadrill/front.gif)
+![drilbur](../assets/sprites/drilbur/front.gif "Drilbur")
+![excadrill](../assets/sprites/excadrill/front.gif "Excadrill")
 
 <pre><code><b>Ability One:</b> Sand Rush
 <b>Ability Two:</b> Mold Breaker
@@ -4489,7 +4489,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#531 Audino](../pokemon/audino.md/)**
 
-![audino](../assets/sprites/audino/front.gif)
+![audino](../assets/sprites/audino/front.gif "Audino")
 
 <pre><code><b>Base EXP:</b> 390 → 400
 <b>Ability One:</b> Serene Grace
@@ -4498,7 +4498,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#532 Timburr](../pokemon/timburr.md/)**
 
-![timburr](../assets/sprites/timburr/front.gif)
+![timburr](../assets/sprites/timburr/front.gif "Timburr")
 
 <pre><code><b>Ability One:</b> Guts
 <b>Ability Two:</b> Iron Fist
@@ -4506,7 +4506,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#533 Gurdurr](../pokemon/gurdurr.md/)**
 
-![gurdurr](../assets/sprites/gurdurr/front.gif)
+![gurdurr](../assets/sprites/gurdurr/front.gif "Gurdurr")
 
 <pre><code><b>Evolution:</b> Level 36.
 <b>Ability One:</b> Guts
@@ -4515,7 +4515,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#534 Conkeldurr](../pokemon/conkeldurr.md/)**
 
-![conkeldurr](../assets/sprites/conkeldurr/front.gif)
+![conkeldurr](../assets/sprites/conkeldurr/front.gif "Conkeldurr")
 
 <pre><code><b>Ability One:</b> Guts
 <b>Ability Two:</b> Iron Fist
@@ -4523,8 +4523,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#535 Tympole](../pokemon/tympole.md/), [#536 Palpitoad](../pokemon/palpitoad.md/)**
 
-![tympole](../assets/sprites/tympole/front.gif)
-![palpitoad](../assets/sprites/palpitoad/front.gif)
+![tympole](../assets/sprites/tympole/front.gif "Tympole")
+![palpitoad](../assets/sprites/palpitoad/front.gif "Palpitoad")
 
 <pre><code><b>TM:</b> Can now learn TM13 Ice Beam and TM14 Blizzard.
 <b>Ability One:</b> Water Absorb
@@ -4533,7 +4533,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#537 Seismitoad](../pokemon/seismitoad.md/)**
 
-![seismitoad](../assets/sprites/seismitoad/front.gif)
+![seismitoad](../assets/sprites/seismitoad/front.gif "Seismitoad")
 
 <pre><code><b>TM:</b> Can now learn TM13 Ice Beam and TM14 Blizzard.
 <b>Attack:</b> 85 → 95
@@ -4545,7 +4545,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#538 Throh](../pokemon/throh.md/)**
 
-![throh](../assets/sprites/throh/front.gif)
+![throh](../assets/sprites/throh/front.gif "Throh")
 
 <pre><code><b>Item:</b> Black Belt (50%)
 <b>Item:</b> Expert Belt (5%)
@@ -4555,7 +4555,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#539 Sawk](../pokemon/sawk.md/)**
 
-![sawk](../assets/sprites/sawk/front.gif)
+![sawk](../assets/sprites/sawk/front.gif "Sawk")
 
 <pre><code><b>Item:</b> Black Belt (50%)
 <b>Item:</b> Expert Belt (5%)
@@ -4565,7 +4565,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#540 Sewaddle](../pokemon/sewaddle.md/)**
 
-![sewaddle](../assets/sprites/sewaddle/front.gif)
+![sewaddle](../assets/sprites/sewaddle/front.gif "Sewaddle")
 
 <pre><code><b>Base Happiness:</b> 180
 <b>Ability One:</b> Swarm
@@ -4574,7 +4574,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#541 Swadloon](../pokemon/swadloon.md/)**
 
-![swadloon](../assets/sprites/swadloon/front.gif)
+![swadloon](../assets/sprites/swadloon/front.gif "Swadloon")
 
 <pre><code><b>Base Happiness:</b> 180
 <b>Ability One:</b> Leaf Guard
@@ -4583,7 +4583,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#542 Leavanny](../pokemon/leavanny.md/)**
 
-![leavanny](../assets/sprites/leavanny/front.gif)
+![leavanny](../assets/sprites/leavanny/front.gif "Leavanny")
 
 <pre><code><b>Base Happiness:</b> 180
 <b>Ability One:</b> Swarm
@@ -4592,7 +4592,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#543 Venipede](../pokemon/venipede.md/)**
 
-![venipede](../assets/sprites/venipede/front.gif)
+![venipede](../assets/sprites/venipede/front.gif "Venipede")
 
 <pre><code><b>Ability One:</b> Poison Point
 <b>Ability Two:</b> Swarm
@@ -4600,7 +4600,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#544 Whirlipede](../pokemon/whirlipede.md/)**
 
-![whirlipede](../assets/sprites/whirlipede/front.gif)
+![whirlipede](../assets/sprites/whirlipede/front.gif "Whirlipede")
 
 <pre><code><b>Ability One:</b> Battle Armor
 <b>Ability Two:</b> Swarm
@@ -4608,7 +4608,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#545 Scolipede](../pokemon/scolipede.md/)**
 
-![scolipede](../assets/sprites/scolipede/front.gif)
+![scolipede](../assets/sprites/scolipede/front.gif "Scolipede")
 
 <pre><code><b>Ability One:</b> Poison Touch
 <b>Ability Two:</b> Swarm
@@ -4616,8 +4616,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#546 Cottonee](../pokemon/cottonee.md/), [#547 Whimsicott](../pokemon/whimsicott.md/)**
 
-![cottonee](../assets/sprites/cottonee/front.gif)
-![whimsicott](../assets/sprites/whimsicott/front.gif)
+![cottonee](../assets/sprites/cottonee/front.gif "Cottonee")
+![whimsicott](../assets/sprites/whimsicott/front.gif "Whimsicott")
 
 <pre><code><b>Ability One:</b> Prankster
 <b>Ability Two:</b> Infiltrator
@@ -4625,7 +4625,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#548 Petilil](../pokemon/petilil.md/)**
 
-![petilil](../assets/sprites/petilil/front.gif)
+![petilil](../assets/sprites/petilil/front.gif "Petilil")
 
 <pre><code><b>TM:</b> Now learns TM29 Psychic and TM30 Shadow Ball.
 <b>Ability One:</b> Chlorophyll
@@ -4634,7 +4634,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#549 Lilligant](../pokemon/lilligant.md/)**
 
-![lilligant](../assets/sprites/lilligant/front.gif)
+![lilligant](../assets/sprites/lilligant/front.gif "Lilligant")
 
 <pre><code><b>TM:</b> Now learns TM29 Psychic, TM30 Shadow Ball, and TM52 Focus Blast.
 <b>Ability One:</b> Chlorophyll
@@ -4643,7 +4643,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#550 Basculin (Red Striped)](../pokemon/basculin-red-striped.md/)**
 
-![basculin-red-striped](../assets/sprites/basculin-red-striped/front.gif)
+![basculin-red-striped](../assets/sprites/basculin-red-striped/front.gif "Basculin Red Striped")
 
 <pre><code><b>Attack:</b> 92 → 102
 <b>Speed:</b> 98 → 108
@@ -4654,7 +4654,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#550 Basculin (Blue Striped)](../pokemon/basculin-blue-striped.md/)**
 
-![basculin-blue-striped](../assets/sprites/basculin-blue-striped/front.gif)
+![basculin-blue-striped](../assets/sprites/basculin-blue-striped/front.gif "Basculin Blue Striped")
 
 <pre><code><b>Attack:</b> 92 → 102
 <b>Speed:</b> 98 → 108
@@ -4665,7 +4665,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#551 Sandile](../pokemon/sandile.md/)**
 
-![sandile](../assets/sprites/sandile/front.gif)
+![sandile](../assets/sprites/sandile/front.gif "Sandile")
 
 <pre><code><b>Ability One:</b> Anger Point
 <b>Ability Two:</b> Moxie
@@ -4673,7 +4673,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#552 Krokorok](../pokemon/krokorok.md/)**
 
-![krokorok](../assets/sprites/krokorok/front.gif)
+![krokorok](../assets/sprites/krokorok/front.gif "Krokorok")
 
 <pre><code><b>Ability One:</b> Anger Point
 <b>Ability Two:</b> Moxie
@@ -4681,7 +4681,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#553 Krookodile](../pokemon/krookodile.md/)**
 
-![krookodile](../assets/sprites/krookodile/front.gif)
+![krookodile](../assets/sprites/krookodile/front.gif "Krookodile")
 
 <pre><code><b>Ability One:</b> Intimidate
 <b>Ability Two:</b> Moxie
@@ -4689,7 +4689,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#554 Darumaka](../pokemon/darumaka.md/)**
 
-![darumaka](../assets/sprites/darumaka/front.gif)
+![darumaka](../assets/sprites/darumaka/front.gif "Darumaka")
 
 <pre><code><b>Ability One:</b> Hustle
 <b>Ability Two:</b> Rattled
@@ -4697,7 +4697,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#555 Darmanitan](../pokemon/darmanitan-standard.md/)**
 
-![darmanitan-standard](../assets/sprites/darmanitan-standard/front.gif)
+![darmanitan-standard](../assets/sprites/darmanitan-standard/front.gif "Darmanitan Standard")
 
 <pre><code><b>Ability One:</b> Sheer Force
 <b>Ability Two:</b> Iron Fist
@@ -4705,7 +4705,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#556 Maractus](../pokemon/maractus.md/)**
 
-![maractus](../assets/sprites/maractus/front.gif)
+![maractus](../assets/sprites/maractus/front.gif "Maractus")
 
 <pre><code><b>TM:</b> Can now learn TM55, Scald.
 <b>Attack:</b> 86 → 101
@@ -4717,8 +4717,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#557 Dwebble](../pokemon/dwebble.md/), [#558 Crustle](../pokemon/crustle.md/)**
 
-![dwebble](../assets/sprites/dwebble/front.gif)
-![crustle](../assets/sprites/crustle/front.gif)
+![dwebble](../assets/sprites/dwebble/front.gif "Dwebble")
+![crustle](../assets/sprites/crustle/front.gif "Crustle")
 
 <pre><code><b>Ability One:</b> Sturdy
 <b>Ability Two:</b> Shell Armor
@@ -4726,8 +4726,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#559 Scraggy](../pokemon/scraggy.md/), [#560 Scrafty](../pokemon/scrafty.md/)**
 
-![scraggy](../assets/sprites/scraggy/front.gif)
-![scrafty](../assets/sprites/scrafty/front.gif)
+![scraggy](../assets/sprites/scraggy/front.gif "Scraggy")
+![scrafty](../assets/sprites/scrafty/front.gif "Scrafty")
 
 <pre><code><b>Ability One:</b> Shed Skin
 <b>Ability Two:</b> Moxie
@@ -4736,7 +4736,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#561 Sigilyph](../pokemon/sigilyph.md/)**
 
-![sigilyph](../assets/sprites/sigilyph/front.gif)
+![sigilyph](../assets/sprites/sigilyph/front.gif "Sigilyph")
 
 <pre><code><b>Special Attack:</b> 103 → 108
 <b>Speed:</b> 97 → 102
@@ -4748,7 +4748,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#562 Yamask](../pokemon/yamask.md/)**
 
-![yamask](../assets/sprites/yamask/front.gif)
+![yamask](../assets/sprites/yamask/front.gif "Yamask")
 
 <pre><code><b>Ability One:</b> Mummy
 <b>Ability Two:</b> Mummy
@@ -4756,7 +4756,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#563 Cofagrigus](../pokemon/cofagrigus.md/)**
 
-![cofagrigus](../assets/sprites/cofagrigus/front.gif)
+![cofagrigus](../assets/sprites/cofagrigus/front.gif "Cofagrigus")
 
 <pre><code><b>Type:</b> Ghost / Steel
 <b>TM:</b> Can now learn TM91, Flash Cannon.
@@ -4766,8 +4766,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#564 Tirtouga](../pokemon/tirtouga.md/), [#565 Carracosta](../pokemon/carracosta.md/)**
 
-![tirtouga](../assets/sprites/tirtouga/front.gif)
-![carracosta](../assets/sprites/carracosta/front.gif)
+![tirtouga](../assets/sprites/tirtouga/front.gif "Tirtouga")
+![carracosta](../assets/sprites/carracosta/front.gif "Carracosta")
 
 <pre><code><b>Ability One:</b> Solid Rock
 <b>Ability Two:</b> Sturdy
@@ -4775,8 +4775,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#566 Archen](../pokemon/archen.md/), [#567 Archeops](../pokemon/archeops.md/)**
 
-![archen](../assets/sprites/archen/front.gif)
-![archeops](../assets/sprites/archeops/front.gif)
+![archen](../assets/sprites/archen/front.gif "Archen")
+![archeops](../assets/sprites/archeops/front.gif "Archeops")
 
 <pre><code><b>Ability One:</b> Defeatist
 <b>Ability Two:</b> Defeatist
@@ -4784,7 +4784,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#568 Trubbish](../pokemon/trubbish.md/)**
 
-![trubbish](../assets/sprites/trubbish/front.gif)
+![trubbish](../assets/sprites/trubbish/front.gif "Trubbish")
 
 <pre><code><b>Ability One:</b> Stench
 <b>Ability Two:</b> Sticky Hold
@@ -4792,7 +4792,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#569 Garbodor](../pokemon/garbodor.md/)**
 
-![garbodor](../assets/sprites/garbodor/front.gif)
+![garbodor](../assets/sprites/garbodor/front.gif "Garbodor")
 
 <pre><code><b>Special Attack:</b> 60 → 80
 <b>Total:</b> 474 → 494
@@ -4802,7 +4802,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#570 Zorua](../pokemon/zorua.md/)**
 
-![zorua](../assets/sprites/zorua/front.gif)
+![zorua](../assets/sprites/zorua/front.gif "Zorua")
 
 <pre><code><b>Ability One:</b> Illusion
 <b>Ability Two:</b> Illusion
@@ -4810,7 +4810,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#571 Zoroark](../pokemon/zoroark.md/)**
 
-![zoroark](../assets/sprites/zoroark/front.gif)
+![zoroark](../assets/sprites/zoroark/front.gif "Zoroark")
 
 <pre><code><b>Ability One:</b> Illusion
 <b>Ability Two:</b> Illusion
@@ -4818,7 +4818,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#572 Minccino](../pokemon/minccino.md/)**
 
-![minccino](../assets/sprites/minccino/front.gif)
+![minccino](../assets/sprites/minccino/front.gif "Minccino")
 
 <pre><code><b>Ability One:</b> Skill Link
 <b>Ability Two:</b> Technician
@@ -4826,7 +4826,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#573 Cinccino](../pokemon/cinccino.md/)**
 
-![cinccino](../assets/sprites/cinccino/front.gif)
+![cinccino](../assets/sprites/cinccino/front.gif "Cinccino")
 
 <pre><code><b>Attack:</b> 95 → 105
 <b>Total:</b> 470 → 480
@@ -4836,7 +4836,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#574 Gothita](../pokemon/gothita.md/)**
 
-![gothita](../assets/sprites/gothita/front.gif)
+![gothita](../assets/sprites/gothita/front.gif "Gothita")
 
 <pre><code><b>Type:</b> Psychic / Dark
 <b>TM:</b> Now learns TM61 Will-O-Wisp.
@@ -4846,7 +4846,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#575 Gothorita](../pokemon/gothorita.md/)**
 
-![gothorita](../assets/sprites/gothorita/front.gif)
+![gothorita](../assets/sprites/gothorita/front.gif "Gothorita")
 
 <pre><code><b>Type:</b> Psychic / Dark
 <b>TM:</b> Now learns TM61 Will-O-Wisp.
@@ -4856,7 +4856,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#576 Gothitelle](../pokemon/gothitelle.md/)**
 
-![gothitelle](../assets/sprites/gothitelle/front.gif)
+![gothitelle](../assets/sprites/gothitelle/front.gif "Gothitelle")
 
 <pre><code><b>Type:</b> Psychic / Dark
 <b>Attack:</b> 55 → 45
@@ -4869,8 +4869,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#577 Solosis](../pokemon/solosis.md/), [#578 Duosion](../pokemon/duosion.md/)**
 
-![solosis](../assets/sprites/solosis/front.gif)
-![duosion](../assets/sprites/duosion/front.gif)
+![solosis](../assets/sprites/solosis/front.gif "Solosis")
+![duosion](../assets/sprites/duosion/front.gif "Duosion")
 
 <pre><code><b>Ability One:</b> Regenerator
 <b>Ability Two:</b> Magic Guard
@@ -4878,7 +4878,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#579 Reuniclus](../pokemon/reuniclus.md/)**
 
-![reuniclus](../assets/sprites/reuniclus/front.gif)
+![reuniclus](../assets/sprites/reuniclus/front.gif "Reuniclus")
 
 <pre><code><b>Defense:</b> 75 → 85
 <b>Total:</b> 490 → 500
@@ -4888,7 +4888,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#580 Ducklett](../pokemon/ducklett.md/)**
 
-![ducklett](../assets/sprites/ducklett/front.gif)
+![ducklett](../assets/sprites/ducklett/front.gif "Ducklett")
 
 <pre><code><b>Ability One:</b> Hydration
 <b>Ability Two:</b> Big Pecks
@@ -4896,7 +4896,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#581 Swanna](../pokemon/swanna.md/)**
 
-![swanna](../assets/sprites/swanna/front.gif)
+![swanna](../assets/sprites/swanna/front.gif "Swanna")
 
 <pre><code><b>Attack:</b> 87 → 97
 <b>Special Attack:</b> 87 → 97
@@ -4909,8 +4909,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#582 Vanillite](../pokemon/vanillite.md/), [#583 Vanillish](../pokemon/vanillish.md/)**
 
-![vanillite](../assets/sprites/vanillite/front.gif)
-![vanillish](../assets/sprites/vanillish/front.gif)
+![vanillite](../assets/sprites/vanillite/front.gif "Vanillite")
+![vanillish](../assets/sprites/vanillish/front.gif "Vanillish")
 
 <pre><code><b>TM:</b> Can now learn TM30, Shadow Ball, TM53, Energy Ball and TM86, Grass Knot.
 <b>Ability One:</b> Ice Body
@@ -4919,7 +4919,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#584 Vanilluxe](../pokemon/vanilluxe.md/)**
 
-![vanilluxe](../assets/sprites/vanilluxe/front.gif)
+![vanilluxe](../assets/sprites/vanilluxe/front.gif "Vanilluxe")
 
 <pre><code><b>HP:</b> 71 → 70
 <b>Attack:</b> 95 → 70
@@ -4935,7 +4935,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#585 Deerling](../pokemon/deerling.md/)**
 
-![deerling](../assets/sprites/deerling/front.gif)
+![deerling](../assets/sprites/deerling/front.gif "Deerling")
 
 <pre><code><b>Ability One:</b> Chlorophyll
 <b>Ability Two:</b> Serene Grace
@@ -4943,7 +4943,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#586 Sawsbuck](../pokemon/sawsbuck.md/)**
 
-![sawsbuck](../assets/sprites/sawsbuck/front.gif)
+![sawsbuck](../assets/sprites/sawsbuck/front.gif "Sawsbuck")
 
 <pre><code><b>Attack:</b> 100 → 115
 <b>Speed:</b> 95 → 105
@@ -4954,7 +4954,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#587 Emolga](../pokemon/emolga.md/)**
 
-![emolga](../assets/sprites/emolga/front.gif)
+![emolga](../assets/sprites/emolga/front.gif "Emolga")
 
 <pre><code><b>Attack:</b> 75 → 95
 <b>Special Attack:</b> 75 → 95
@@ -4965,7 +4965,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#588 Karrablast](../pokemon/karrablast.md/)**
 
-![karrablast](../assets/sprites/karrablast/front.gif)
+![karrablast](../assets/sprites/karrablast/front.gif "Karrablast")
 
 <pre><code><b>Evolution:</b> Level Up with Shelmet in the party.
 <b>Ability One:</b> Swarm
@@ -4974,7 +4974,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#589 Escavalier](../pokemon/escavalier.md/)**
 
-![escavalier](../assets/sprites/escavalier/front.gif)
+![escavalier](../assets/sprites/escavalier/front.gif "Escavalier")
 
 <pre><code><b>Ability One:</b> Swarm
 <b>Ability Two:</b> No Guard
@@ -4983,8 +4983,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#590 Foongus](../pokemon/foongus.md/), [#591 Amoonguss](../pokemon/amoonguss.md/)**
 
-![foongus](../assets/sprites/foongus/front.gif)
-![amoonguss](../assets/sprites/amoonguss/front.gif)
+![foongus](../assets/sprites/foongus/front.gif "Foongus")
+![amoonguss](../assets/sprites/amoonguss/front.gif "Amoonguss")
 
 <pre><code><b>Ability One:</b> Effect Spore
 <b>Ability Two:</b> Regenerator
@@ -4992,8 +4992,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#592 Frillish](../pokemon/frillish.md/), [#593 Jellicent](../pokemon/jellicent.md/)**
 
-![frillish](../assets/sprites/frillish/front.gif)
-![jellicent](../assets/sprites/jellicent/front.gif)
+![frillish](../assets/sprites/frillish/front.gif "Frillish")
+![jellicent](../assets/sprites/jellicent/front.gif "Jellicent")
 
 <pre><code><b>Ability One:</b> Water Absorb
 <b>Ability Two:</b> Cursed Body
@@ -5001,7 +5001,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#594 Alomomola](../pokemon/alomomola.md/)**
 
-![alomomola](../assets/sprites/alomomola/front.gif)
+![alomomola](../assets/sprites/alomomola/front.gif "Alomomola")
 
 <pre><code><b>Attack:</b> 75 → 90
 <b>Total:</b> 470 → 485
@@ -5011,7 +5011,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#595 Joltik](../pokemon/joltik.md/)**
 
-![joltik](../assets/sprites/joltik/front.gif)
+![joltik](../assets/sprites/joltik/front.gif "Joltik")
 
 <pre><code><b>Ability One:</b> Compound Eyes
 <b>Ability Two:</b> Swarm
@@ -5019,7 +5019,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#596 Galvantula](../pokemon/galvantula.md/)**
 
-![galvantula](../assets/sprites/galvantula/front.gif)
+![galvantula](../assets/sprites/galvantula/front.gif "Galvantula")
 
 <pre><code><b>Special Attack:</b> 97 → 107
 <b>Speed:</b> 108 → 118
@@ -5030,8 +5030,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#597 Ferroseed](../pokemon/ferroseed.md/), [#598 Ferrothorn](../pokemon/ferrothorn.md/)**
 
-![ferroseed](../assets/sprites/ferroseed/front.gif)
-![ferrothorn](../assets/sprites/ferrothorn/front.gif)
+![ferroseed](../assets/sprites/ferroseed/front.gif "Ferroseed")
+![ferrothorn](../assets/sprites/ferrothorn/front.gif "Ferrothorn")
 
 <pre><code><b>Ability One:</b> Iron Barbs
 <b>Ability Two:</b> Iron Barbs
@@ -5039,8 +5039,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#599 Klink](../pokemon/klink.md/), [#600 Klang](../pokemon/klang.md/)**
 
-![klink](../assets/sprites/klink/front.gif)
-![klang](../assets/sprites/klang/front.gif)
+![klink](../assets/sprites/klink/front.gif "Klink")
+![klang](../assets/sprites/klang/front.gif "Klang")
 
 <pre><code><b>TM:</b> Can now learn TM80 Rock Slide, TM93, Wild Charge.
 <b>Ability One:</b> Motor Drive
@@ -5049,7 +5049,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#601 Klinklang](../pokemon/klinklang.md/)**
 
-![klinklang](../assets/sprites/klinklang/front.gif)
+![klinklang](../assets/sprites/klinklang/front.gif "Klinklang")
 
 <pre><code><b>Attack:</b> 100 → 115
 <b>Total:</b> 520 → 535
@@ -5060,9 +5060,9 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#602 Tynamo](../pokemon/tynamo.md/), [#603 Eelektrik](../pokemon/eelektrik.md/), [#604 Eelektross](../pokemon/eelektross.md/)**
 
-![tynamo](../assets/sprites/tynamo/front.gif)
-![eelektrik](../assets/sprites/eelektrik/front.gif)
-![eelektross](../assets/sprites/eelektross/front.gif)
+![tynamo](../assets/sprites/tynamo/front.gif "Tynamo")
+![eelektrik](../assets/sprites/eelektrik/front.gif "Eelektrik")
+![eelektross](../assets/sprites/eelektross/front.gif "Eelektross")
 
 <pre><code><b>Ability One:</b> Levitate
 <b>Ability Two:</b> Levitate
@@ -5070,7 +5070,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#605 Elgyem](../pokemon/elgyem.md/)**
 
-![elgyem](../assets/sprites/elgyem/front.gif)
+![elgyem](../assets/sprites/elgyem/front.gif "Elgyem")
 
 <pre><code><b>Evolution:</b> Level 35
 <b>Ability One:</b> Analytic
@@ -5079,7 +5079,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#606 Beheeyem](../pokemon/beheeyem.md/)**
 
-![beheeyem](../assets/sprites/beheeyem/front.gif)
+![beheeyem](../assets/sprites/beheeyem/front.gif "Beheeyem")
 
 <pre><code><b>Defense:</b> 75 → 95
 <b>Total:</b> 485 → 505
@@ -5089,7 +5089,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#607 Litwick](../pokemon/litwick.md/)**
 
-![litwick](../assets/sprites/litwick/front.gif)
+![litwick](../assets/sprites/litwick/front.gif "Litwick")
 
 <pre><code><b>Evolution:</b> Level 34
 <b>Ability One:</b> Flash Fire
@@ -5098,8 +5098,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#608 Lampent](../pokemon/lampent.md/), [#609 Chandelure](../pokemon/chandelure.md/)**
 
-![lampent](../assets/sprites/lampent/front.gif)
-![chandelure](../assets/sprites/chandelure/front.gif)
+![lampent](../assets/sprites/lampent/front.gif "Lampent")
+![chandelure](../assets/sprites/chandelure/front.gif "Chandelure")
 
 <pre><code><b>Ability One:</b> Levitate
 <b>Ability Two:</b> Levitate
@@ -5107,9 +5107,9 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#610 Axew](../pokemon/axew.md/), [#611 Fraxure](../pokemon/fraxure.md/), [#612 Haxorus](../pokemon/haxorus.md/)**
 
-![axew](../assets/sprites/axew/front.gif)
-![fraxure](../assets/sprites/fraxure/front.gif)
-![haxorus](../assets/sprites/haxorus/front.gif)
+![axew](../assets/sprites/axew/front.gif "Axew")
+![fraxure](../assets/sprites/fraxure/front.gif "Fraxure")
+![haxorus](../assets/sprites/haxorus/front.gif "Haxorus")
 
 <pre><code><b>Ability One:</b> Rivalry
 <b>Ability Two:</b> Mold Breaker
@@ -5117,7 +5117,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#613 Cubchoo](../pokemon/cubchoo.md/)**
 
-![cubchoo](../assets/sprites/cubchoo/front.gif)
+![cubchoo](../assets/sprites/cubchoo/front.gif "Cubchoo")
 
 <pre><code><b>Ability One:</b> Snow Cloak
 <b>Ability Two:</b> Rattled
@@ -5125,7 +5125,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#614 Beartic](../pokemon/beartic.md/)**
 
-![beartic](../assets/sprites/beartic/front.gif)
+![beartic](../assets/sprites/beartic/front.gif "Beartic")
 
 <pre><code><b>Type:</b> Ice / Fighting
 <b>HP:</b> 95 → 110
@@ -5141,7 +5141,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#615 Cryogonal](../pokemon/cryogonal.md/)**
 
-![cryogonal](../assets/sprites/cryogonal/front.gif)
+![cryogonal](../assets/sprites/cryogonal/front.gif "Cryogonal")
 
 <pre><code><b>Defense:</b> 30 → 60
 <b>Special Attack:</b> 95 → 100
@@ -5152,7 +5152,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#616 Shelmet](../pokemon/shelmet.md/)**
 
-![shelmet](../assets/sprites/shelmet/front.gif)
+![shelmet](../assets/sprites/shelmet/front.gif "Shelmet")
 
 <pre><code><b>Evolution:</b> Level Up with a Karrablast in the party.
 <b>Ability One:</b> Hydration
@@ -5161,7 +5161,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#617 Accelgor](../pokemon/accelgor.md/)**
 
-![accelgor](../assets/sprites/accelgor/front.gif)
+![accelgor](../assets/sprites/accelgor/front.gif "Accelgor")
 
 <pre><code><b>Ability One:</b> Hydration
 <b>Ability Two:</b> Unburden
@@ -5169,7 +5169,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#618 Stunfisk](../pokemon/stunfisk.md/)**
 
-![stunfisk](../assets/sprites/stunfisk/front.gif)
+![stunfisk](../assets/sprites/stunfisk/front.gif "Stunfisk")
 
 <pre><code><b>Special Attack:</b> 81 → 101
 <b>Total:</b> 471 → 491
@@ -5179,8 +5179,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#619 Mienfoo](../pokemon/mienfoo.md/), [#620 Mienshao](../pokemon/mienshao.md/)**
 
-![mienfoo](../assets/sprites/mienfoo/front.gif)
-![mienshao](../assets/sprites/mienshao/front.gif)
+![mienfoo](../assets/sprites/mienfoo/front.gif "Mienfoo")
+![mienshao](../assets/sprites/mienshao/front.gif "Mienshao")
 
 <pre><code><b>Evolution:</b> Level 39
 <b>Ability One:</b> Reckless
@@ -5189,7 +5189,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#621 Druddigon](../pokemon/druddigon.md/)**
 
-![druddigon](../assets/sprites/druddigon/front.gif)
+![druddigon](../assets/sprites/druddigon/front.gif "Druddigon")
 
 <pre><code><b>HM:</b> Can now learn HM02, Fly.
 <b>Ability One:</b> Rough Skin
@@ -5198,7 +5198,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#622 Golett](../pokemon/golett.md/)**
 
-![golett](../assets/sprites/golett/front.gif)
+![golett](../assets/sprites/golett/front.gif "Golett")
 
 <pre><code><b>Evolution:</b> Level 36
 <b>Ability One:</b> Iron Fist
@@ -5207,7 +5207,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#623 Golurk](../pokemon/golurk.md/)**
 
-![golurk](../assets/sprites/golurk/front.gif)
+![golurk](../assets/sprites/golurk/front.gif "Golurk")
 
 <pre><code><b>HP:</b> 89 → 99
 <b>Defense:</b> 80 → 90
@@ -5219,7 +5219,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#624 Pawniard](../pokemon/pawniard.md/)**
 
-![pawniard](../assets/sprites/pawniard/front.gif)
+![pawniard](../assets/sprites/pawniard/front.gif "Pawniard")
 
 <pre><code><b>Evolution:</b> Level 37
 <b>Ability One:</b> Defiant
@@ -5228,7 +5228,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#625 Bisharp](../pokemon/bisharp.md/)**
 
-![bisharp](../assets/sprites/bisharp/front.gif)
+![bisharp](../assets/sprites/bisharp/front.gif "Bisharp")
 
 <pre><code><b>Speed:</b> 70 → 90
 <b>Total:</b> 490 → 510
@@ -5238,7 +5238,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#626 Bouffalant](../pokemon/bouffalant.md/)**
 
-![bouffalant](../assets/sprites/bouffalant/front.gif)
+![bouffalant](../assets/sprites/bouffalant/front.gif "Bouffalant")
 
 <pre><code><b>Ability One:</b> Reckless
 <b>Ability Two:</b> Sap Sipper
@@ -5246,7 +5246,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#627 Rufflet](../pokemon/rufflet.md/)**
 
-![rufflet](../assets/sprites/rufflet/front.gif)
+![rufflet](../assets/sprites/rufflet/front.gif "Rufflet")
 
 <pre><code><b>Evolution:</b> Level 39 [Rufflet]
 <b>Ability One:</b> Hustle
@@ -5255,7 +5255,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#628 Braviary](../pokemon/braviary.md/)**
 
-![braviary](../assets/sprites/braviary/front.gif)
+![braviary](../assets/sprites/braviary/front.gif "Braviary")
 
 <pre><code><b>Ability One:</b> Defiant
 <b>Ability Two:</b> Sheer Force
@@ -5263,8 +5263,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#629 Vullaby](../pokemon/vullaby.md/), [#630 Mandibuzz](../pokemon/mandibuzz.md/)**
 
-![vullaby](../assets/sprites/vullaby/front.gif)
-![mandibuzz](../assets/sprites/mandibuzz/front.gif)
+![vullaby](../assets/sprites/vullaby/front.gif "Vullaby")
+![mandibuzz](../assets/sprites/mandibuzz/front.gif "Mandibuzz")
 
 <pre><code><b>Evolution:</b> Level 39 [Vullaby]
 <b>Ability One:</b> Big Pecks
@@ -5273,7 +5273,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#631 Heatmor](../pokemon/heatmor.md/)**
 
-![heatmor](../assets/sprites/heatmor/front.gif)
+![heatmor](../assets/sprites/heatmor/front.gif "Heatmor")
 
 <pre><code><b>Attack:</b> 97 → 100
 <b>Defense:</b> 66 → 70
@@ -5288,7 +5288,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#632 Durant](../pokemon/durant.md/)**
 
-![durant](../assets/sprites/durant/front.gif)
+![durant](../assets/sprites/durant/front.gif "Durant")
 
 <pre><code><b>HP:</b> 58 → 75
 <b>Attack:</b> 109 → 111
@@ -5301,7 +5301,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#633 Deino](../pokemon/deino.md/)**
 
-![deino](../assets/sprites/deino/front.gif)
+![deino](../assets/sprites/deino/front.gif "Deino")
 
 <pre><code><b>Evolution:</b> Level 30
 <b>Ability One:</b> Hustle
@@ -5310,7 +5310,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#634 Zweilous](../pokemon/zweilous.md/)**
 
-![zweilous](../assets/sprites/zweilous/front.gif)
+![zweilous](../assets/sprites/zweilous/front.gif "Zweilous")
 
 <pre><code><b>Evolution:</b> Level 55
 <b>Ability One:</b> Hustle
@@ -5319,7 +5319,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#635 Hydreigon](../pokemon/hydreigon.md/)**
 
-![hydreigon](../assets/sprites/hydreigon/front.gif)
+![hydreigon](../assets/sprites/hydreigon/front.gif "Hydreigon")
 
 <pre><code><b>Ability One:</b> Levitate
 <b>Ability Two:</b> Levitate
@@ -5327,7 +5327,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#636 Larvesta](../pokemon/larvesta.md/)**
 
-![larvesta](../assets/sprites/larvesta/front.gif)
+![larvesta](../assets/sprites/larvesta/front.gif "Larvesta")
 
 <pre><code><b>Evolution:</b> Level 45
 <b>Ability One:</b> Flame Body
@@ -5336,7 +5336,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#637 Volcarona](../pokemon/volcarona.md/)**
 
-![volcarona](../assets/sprites/volcarona/front.gif)
+![volcarona](../assets/sprites/volcarona/front.gif "Volcarona")
 
 <pre><code><b>TM:</b> Can now learn TM24 Thunderbolt and TM25 Thunder.
 <b>Ability One:</b> Drought
@@ -5345,7 +5345,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#638 Cobalion](../pokemon/cobalion.md/)**
 
-![cobalion](../assets/sprites/cobalion/front.gif)
+![cobalion](../assets/sprites/cobalion/front.gif "Cobalion")
 
 <pre><code><b>Ability One:</b> Justified
 <b>Ability Two:</b> Justified
@@ -5353,7 +5353,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#639 Terrakion](../pokemon/terrakion.md/)**
 
-![terrakion](../assets/sprites/terrakion/front.gif)
+![terrakion](../assets/sprites/terrakion/front.gif "Terrakion")
 
 <pre><code><b>Ability One:</b> Justified
 <b>Ability Two:</b> Justified
@@ -5361,7 +5361,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#640 Virizion](../pokemon/virizion.md/)**
 
-![virizion](../assets/sprites/virizion/front.gif)
+![virizion](../assets/sprites/virizion/front.gif "Virizion")
 
 <pre><code><b>Ability One:</b> Justified
 <b>Ability Two:</b> Justified
@@ -5369,7 +5369,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#641 Tornadus](../pokemon/tornadus-incarnate.md/)**
 
-![tornadus-incarnate](../assets/sprites/tornadus-incarnate/front.gif)
+![tornadus-incarnate](../assets/sprites/tornadus-incarnate/front.gif "Tornadus Incarnate")
 
 <pre><code><b>Ability One:</b> Prankster
 <b>Ability Two:</b> Defiant
@@ -5377,7 +5377,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#642 Thundurus](../pokemon/thundurus-incarnate.md/)**
 
-![thundurus-incarnate](../assets/sprites/thundurus-incarnate/front.gif)
+![thundurus-incarnate](../assets/sprites/thundurus-incarnate/front.gif "Thundurus Incarnate")
 
 <pre><code><b>Ability One:</b> Prankster
 <b>Ability Two:</b> Defiant
@@ -5385,7 +5385,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#643 Reshiram](../pokemon/reshiram.md/)**
 
-![reshiram](../assets/sprites/reshiram/front.gif)
+![reshiram](../assets/sprites/reshiram/front.gif "Reshiram")
 
 <pre><code><b>TM:</b> Can now learn TM26 Earthquake.
 <b>Ability One:</b> TurboBlaze
@@ -5394,7 +5394,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#644 Zekrom](../pokemon/zekrom.md/)**
 
-![zekrom](../assets/sprites/zekrom/front.gif)
+![zekrom](../assets/sprites/zekrom/front.gif "Zekrom")
 
 <pre><code><b>TM:</b> Can now learn TM26 Earthquake.
 <b>Ability One:</b> TeraVolt
@@ -5403,7 +5403,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#645 Landorus](../pokemon/landorus-incarnate.md/)**
 
-![landorus-incarnate](../assets/sprites/landorus-incarnate/front.gif)
+![landorus-incarnate](../assets/sprites/landorus-incarnate/front.gif "Landorus Incarnate")
 
 <pre><code><b>Ability One:</b> Sand Force
 <b>Ability Two:</b> Sheer Force
@@ -5411,7 +5411,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#646 Kyurem](../pokemon/kyurem.md/)**
 
-![kyurem](../assets/sprites/kyurem/front.gif)
+![kyurem](../assets/sprites/kyurem/front.gif "Kyurem")
 
 <pre><code><b>TM:</b> Can now learn TM26 Earthquake and TM79 Frost Breath.
 <b>Ability One:</b> Snow Warning
@@ -5420,7 +5420,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#647 Keldeo](../pokemon/keldeo-ordinary.md/)**
 
-![keldeo-ordinary](../assets/sprites/keldeo-ordinary/front.gif)
+![keldeo-ordinary](../assets/sprites/keldeo-ordinary/front.gif "Keldeo Ordinary")
 
 <pre><code><b>TM:</b> Can now learn TM13 Ice Beam and TM14 Blizzard.
 <b>Ability One:</b> Justified
@@ -5429,7 +5429,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#648 Meloetta](../pokemon/meloetta-aria.md/)**
 
-![meloetta-aria](../assets/sprites/meloetta-aria/front.gif)
+![meloetta-aria](../assets/sprites/meloetta-aria/front.gif "Meloetta Aria")
 
 <pre><code><b>Ability One:</b> Serene Grace
 <b>Ability Two:</b> Magic Guard
@@ -5437,7 +5437,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 **[#649 Genesect](../pokemon/genesect.md/)**
 
-![genesect](../assets/sprites/genesect/front.gif)
+![genesect](../assets/sprites/genesect/front.gif "Genesect")
 
 <pre><code><b>Ability One:</b> Download
 <b>Ability Two:</b> Download

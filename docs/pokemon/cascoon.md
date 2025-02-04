@@ -2,7 +2,7 @@
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
-| ![Official Artwork](../assets/sprites/cascoon/official_artwork.png) | ![Shiny Artwork](../assets/sprites/cascoon/official_artwork_shiny.png) |
+| ![Official Artwork](../assets/sprites/cascoon/official_artwork.png "Cascoon") | ![Shiny Artwork](../assets/sprites/cascoon/official_artwork_shiny.png "Cascoon") |
 
 It never forgets any attack it endured while in the cocoon. After evolution, it seeks payback.
 
@@ -14,7 +14,7 @@ It never forgets any attack it endured while in the cocoon. After evolution, it 
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
-| ![Front](../assets/sprites/cascoon/front.gif) | ![Back](../assets/sprites/cascoon/back.gif) | ![Front Shiny](../assets/sprites/cascoon/front_shiny.gif) | ![Back Shiny](../assets/sprites/cascoon/back_shiny.gif) |
+| ![Front](../assets/sprites/cascoon/front.gif "Cascoon") | ![Back](../assets/sprites/cascoon/back.gif "Cascoon") | ![Front Shiny](../assets/sprites/cascoon/front_shiny.gif "Cascoon") | ![Back Shiny](../assets/sprites/cascoon/back_shiny.gif "Cascoon") |
 
 ### Cries
 
@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #268 | ![bug](../assets/types/bug.png){: width='48'} | 0.7 m /<br>2.3 ft | 11.5 kg /<br>25.4 lbs | <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span><br><span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span> | N/A |
+| #268 | ![bug](../assets/types/bug.png "Bug"){: width="48"} | 0.7 m /<br>2.3 ft | 11.5 kg /<br>25.4 lbs | <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span><br><span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span> | N/A |
 
 ---
 
@@ -105,8 +105,8 @@ Cascoon has no alternate forms.
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat. ">Harden</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 30 |
-| 7 | <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat. ">Harden</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 30 |
+| 1 | <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat. ">Harden</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 30 |
+| 7 | <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat. ">Harden</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 30 |
 
 ### TM Moves
 

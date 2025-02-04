@@ -2,7 +2,7 @@
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
-| ![Official Artwork](../assets/sprites/wobbuffet/official_artwork.png) | ![Shiny Artwork](../assets/sprites/wobbuffet/official_artwork_shiny.png) |
+| ![Official Artwork](../assets/sprites/wobbuffet/official_artwork.png "Wobbuffet") | ![Shiny Artwork](../assets/sprites/wobbuffet/official_artwork_shiny.png "Wobbuffet") |
 
 It desperately tries to keep its black tail hidden. It is said to be proof the tail hides a secret.
 
@@ -14,13 +14,13 @@ It desperately tries to keep its black tail hidden. It is said to be proof the t
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
-| ![Front](../assets/sprites/wobbuffet/front.gif) | ![Back](../assets/sprites/wobbuffet/back.gif) | ![Front Shiny](../assets/sprites/wobbuffet/front_shiny.gif) | ![Back Shiny](../assets/sprites/wobbuffet/back_shiny.gif) |
+| ![Front](../assets/sprites/wobbuffet/front.gif "Wobbuffet") | ![Back](../assets/sprites/wobbuffet/back.gif "Wobbuffet") | ![Front Shiny](../assets/sprites/wobbuffet/front_shiny.gif "Wobbuffet") | ![Back Shiny](../assets/sprites/wobbuffet/back_shiny.gif "Wobbuffet") |
 
 ### Female Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
-| ![Front](../assets/sprites/wobbuffet/front_female.gif) | ![Back](../assets/sprites/wobbuffet/back_female.gif) | ![Front Shiny](../assets/sprites/wobbuffet/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/wobbuffet/back_shiny_female.gif) |
+| ![Front](../assets/sprites/wobbuffet/front_female.gif "Wobbuffet") | ![Back](../assets/sprites/wobbuffet/back_female.gif "Wobbuffet") | ![Front Shiny](../assets/sprites/wobbuffet/front_shiny_female.gif "Wobbuffet") | ![Back Shiny](../assets/sprites/wobbuffet/back_shiny_female.gif "Wobbuffet") |
 
 ### Cries
 
@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #202 | ![psychic](../assets/types/psychic.png){: width='48'} | 1.3 m /<br>4.3 ft | 28.5 kg /<br>62.8 lbs | <span class="tooltip" title="Prevents the foe from escaping.">Shadow Tag</span><br><span class="tooltip" title="Anticipates an ally’s attack and dodges it.">Telepathy</span> | N/A |
+| #202 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.3 m /<br>4.3 ft | 28.5 kg /<br>62.8 lbs | <span class="tooltip" title="Prevents the foe from escaping.">Shadow Tag</span><br><span class="tooltip" title="Anticipates an ally’s attack and dodges it.">Telepathy</span> | N/A |
 
 ---
 
@@ -105,11 +105,11 @@ Wobbuffet has no alternate forms.
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <span class="tooltip" title="A retaliation move that counters any physical attack, inflicting double the damage taken.">Counter</span> | ![fighting](../assets/types/fighting.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 20 |
-| 1 | <span class="tooltip" title="When this move is used, if the user faints, the foe that landed the knockout hit also faints.">Destiny Bond</span> | ![ghost](../assets/types/ghost.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
-| 1 | <span class="tooltip" title="A retaliation move that counters any special attack, inflicting double the damage taken.">Mirror Coat</span> | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | 100 | 20 |
-| 1 | <span class="tooltip" title="The user creates a protective field that prevents status problems for five turns.">Safeguard</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 25 |
-| 15 | <span class="tooltip" title="The user copies the move last used by the foe. The move can be used for the rest of the battle.">Mimic</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
+| 1 | <span class="tooltip" title="A retaliation move that counters any physical attack, inflicting double the damage taken.">Counter</span> | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | — | 100 | 20 |
+| 1 | <span class="tooltip" title="When this move is used, if the user faints, the foe that landed the knockout hit also faints.">Destiny Bond</span> | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 5 |
+| 1 | <span class="tooltip" title="A retaliation move that counters any special attack, inflicting double the damage taken.">Mirror Coat</span> | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | — | 100 | 20 |
+| 1 | <span class="tooltip" title="The user creates a protective field that prevents status problems for five turns.">Safeguard</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 25 |
+| 15 | <span class="tooltip" title="The user copies the move last used by the foe. The move can be used for the rest of the battle.">Mimic</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 10 |
 
 ### TM Moves
 

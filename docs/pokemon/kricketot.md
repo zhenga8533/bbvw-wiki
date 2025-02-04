@@ -2,7 +2,7 @@
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
-| ![Official Artwork](../assets/sprites/kricketot/official_artwork.png) | ![Shiny Artwork](../assets/sprites/kricketot/official_artwork_shiny.png) |
+| ![Official Artwork](../assets/sprites/kricketot/official_artwork.png "Kricketot") | ![Shiny Artwork](../assets/sprites/kricketot/official_artwork_shiny.png "Kricketot") |
 
 Its legs are short. Whenever it stumbles, its stiff antennae clack with a xylophone-like sound.
 
@@ -14,13 +14,13 @@ Its legs are short. Whenever it stumbles, its stiff antennae clack with a xyloph
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
-| ![Front](../assets/sprites/kricketot/front.gif) | ![Back](../assets/sprites/kricketot/back.gif) | ![Front Shiny](../assets/sprites/kricketot/front_shiny.gif) | ![Back Shiny](../assets/sprites/kricketot/back_shiny.gif) |
+| ![Front](../assets/sprites/kricketot/front.gif "Kricketot") | ![Back](../assets/sprites/kricketot/back.gif "Kricketot") | ![Front Shiny](../assets/sprites/kricketot/front_shiny.gif "Kricketot") | ![Back Shiny](../assets/sprites/kricketot/back_shiny.gif "Kricketot") |
 
 ### Female Sprites
 
 | Front | Back | Front Shiny | Back Shiny |
 | --- | --- | --- | --- |
-| ![Front](../assets/sprites/kricketot/front_female.gif) | ![Back](../assets/sprites/kricketot/back_female.gif) | ![Front Shiny](../assets/sprites/kricketot/front_shiny_female.gif) | ![Back Shiny](../assets/sprites/kricketot/back_shiny_female.gif) |
+| ![Front](../assets/sprites/kricketot/front_female.gif "Kricketot") | ![Back](../assets/sprites/kricketot/back_female.gif "Kricketot") | ![Front Shiny](../assets/sprites/kricketot/front_shiny_female.gif "Kricketot") | ![Back Shiny](../assets/sprites/kricketot/back_shiny_female.gif "Kricketot") |
 
 ### Cries
 
@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #401 | ![bug](../assets/types/bug.png){: width='48'} | 0.3 m /<br>1.0 ft | 2.2 kg /<br>4.9 lbs | <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span><br><span class="tooltip" title="Enables a sure getaway from wild Pokémon.">Run Away</span> | N/A |
+| #401 | ![bug](../assets/types/bug.png "Bug"){: width="48"} | 0.3 m /<br>1.0 ft | 2.2 kg /<br>4.9 lbs | <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span><br><span class="tooltip" title="Enables a sure getaway from wild Pokémon.">Run Away</span> | N/A |
 
 ---
 
@@ -105,10 +105,10 @@ Kricketot has no alternate forms.
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <span class="tooltip" title="The user endures attacks for two turns, then strikes back to cause double the damage taken.">Bide</span> | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | — | 10 |
-| 1 | <span class="tooltip" title="The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.">Bug Bite</span> | ![bug](../assets/types/bug.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 20 |
-| 1 | <span class="tooltip" title="The user growls in an endearing way, making the foe less wary. The target’s Attack stat is lowered.">Growl</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 40 |
-| 1 | <span class="tooltip" title="Inflicts regular damage.  Has a 100% chance to lower the target's Special Attack by one stage.">Struggle Bug</span> | ![bug](../assets/types/bug.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 50 | 100 | 20 |
+| 1 | <span class="tooltip" title="The user endures attacks for two turns, then strikes back to cause double the damage taken.">Bide</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | — | — | 10 |
+| 1 | <span class="tooltip" title="The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.">Bug Bite</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 60 | 100 | 20 |
+| 1 | <span class="tooltip" title="The user growls in an endearing way, making the foe less wary. The target’s Attack stat is lowered.">Growl</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 100 | 40 |
+| 1 | <span class="tooltip" title="Inflicts regular damage.  Has a 100% chance to lower the target's Special Attack by one stage.">Struggle Bug</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 50 | 100 | 20 |
 
 ### TM Moves
 
