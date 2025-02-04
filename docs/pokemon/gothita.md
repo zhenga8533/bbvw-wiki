@@ -1,4 +1,4 @@
-# Gothita (Fixation Pokémon)
+# #574 Gothita (Fixation Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Wormadam Plant (Bagworm Pokémon)
+# #413 Wormadam Plant (Bagworm Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

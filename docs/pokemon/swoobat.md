@@ -1,4 +1,4 @@
-# Swoobat (Courting Pokémon)
+# #528 Swoobat (Courting Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

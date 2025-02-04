@@ -1,4 +1,4 @@
-# Caterpie (Worm Pokémon)
+# #010 Caterpie (Worm Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

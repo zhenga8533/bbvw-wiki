@@ -1,4 +1,4 @@
-# Spearow (Tiny Bird Pokémon)
+# #021 Spearow (Tiny Bird Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

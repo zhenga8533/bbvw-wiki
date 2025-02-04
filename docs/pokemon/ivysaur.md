@@ -1,4 +1,4 @@
-# Ivysaur (Seed Pokémon)
+# #002 Ivysaur (Seed Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

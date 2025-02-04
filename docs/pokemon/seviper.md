@@ -1,4 +1,4 @@
-# Seviper (Fang Snake Pokémon)
+# #336 Seviper (Fang Snake Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

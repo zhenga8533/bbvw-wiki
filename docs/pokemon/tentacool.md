@@ -1,4 +1,4 @@
-# Tentacool (Jellyfish Pokémon)
+# #072 Tentacool (Jellyfish Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

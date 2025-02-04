@@ -1,4 +1,4 @@
-# Kingdra (Dragon Pokémon)
+# #230 Kingdra (Dragon Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

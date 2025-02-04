@@ -1,4 +1,4 @@
-# #10023 Kyurem White (Boundary Pokémon)
+# Kyurem White (Boundary Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Solrock (Meteorite Pokémon)
+# #338 Solrock (Meteorite Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

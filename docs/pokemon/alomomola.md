@@ -1,4 +1,4 @@
-# Alomomola (Caring Pokémon)
+# #594 Alomomola (Caring Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

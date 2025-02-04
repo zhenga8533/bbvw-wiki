@@ -1,4 +1,4 @@
-# Graveler (Rock Pokémon)
+# #075 Graveler (Rock Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

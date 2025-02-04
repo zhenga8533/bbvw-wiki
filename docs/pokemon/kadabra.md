@@ -1,4 +1,4 @@
-# Kadabra (Psi Pokémon)
+# #064 Kadabra (Psi Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

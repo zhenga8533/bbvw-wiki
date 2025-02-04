@@ -1,4 +1,4 @@
-# Minun (Cheering Pokémon)
+# #312 Minun (Cheering Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

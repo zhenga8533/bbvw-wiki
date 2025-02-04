@@ -1,4 +1,4 @@
-# Vanilluxe (Snowstorm Pokémon)
+# #584 Vanilluxe (Snowstorm Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

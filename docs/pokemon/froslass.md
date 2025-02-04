@@ -1,4 +1,4 @@
-# Froslass (Snow Land Pokémon)
+# #478 Froslass (Snow Land Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

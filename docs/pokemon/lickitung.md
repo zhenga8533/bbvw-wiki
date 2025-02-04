@@ -1,4 +1,4 @@
-# Lickitung (Licking Pokémon)
+# #108 Lickitung (Licking Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

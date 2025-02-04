@@ -1,4 +1,4 @@
-# Omanyte (Spiral Pokémon)
+# #138 Omanyte (Spiral Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

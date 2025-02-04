@@ -1,4 +1,4 @@
-# Golbat (Bat Pokémon)
+# #042 Golbat (Bat Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

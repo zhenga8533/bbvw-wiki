@@ -1,4 +1,4 @@
-# Buneary (Rabbit Pokémon)
+# #427 Buneary (Rabbit Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

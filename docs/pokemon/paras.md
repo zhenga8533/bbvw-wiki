@@ -1,4 +1,4 @@
-# Paras (Mushroom Pokémon)
+# #046 Paras (Mushroom Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

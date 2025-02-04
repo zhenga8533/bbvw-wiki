@@ -1,4 +1,4 @@
-# Skarmory (Armor Bird Pokémon)
+# #227 Skarmory (Armor Bird Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

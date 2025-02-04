@@ -1,4 +1,4 @@
-# Zangoose (Cat Ferret Pokémon)
+# #335 Zangoose (Cat Ferret Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

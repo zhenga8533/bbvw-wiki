@@ -1,4 +1,4 @@
-# Mantine (Kite Pokémon)
+# #226 Mantine (Kite Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

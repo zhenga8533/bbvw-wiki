@@ -1,4 +1,4 @@
-# Sealeo (Ball Roll Pokémon)
+# #364 Sealeo (Ball Roll Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

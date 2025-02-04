@@ -1,4 +1,4 @@
-# Bulbasaur (Seed Pokémon)
+# #001 Bulbasaur (Seed Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

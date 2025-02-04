@@ -1,4 +1,4 @@
-# Dodrio (Triple Bird Pokémon)
+# #085 Dodrio (Triple Bird Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

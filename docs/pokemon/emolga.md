@@ -1,4 +1,4 @@
-# Emolga (Sky Squirrel Pokémon)
+# #587 Emolga (Sky Squirrel Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Skorupi (Scorpion Pokémon)
+# #451 Skorupi (Scorpion Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

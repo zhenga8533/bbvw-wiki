@@ -1,4 +1,4 @@
-# Shuppet (Puppet Pokémon)
+# #353 Shuppet (Puppet Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

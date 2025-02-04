@@ -1,4 +1,4 @@
-# Chingling (Bell Pokémon)
+# #433 Chingling (Bell Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

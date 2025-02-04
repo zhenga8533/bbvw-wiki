@@ -1,4 +1,4 @@
-# Tyranitar (Armor Pokémon)
+# #248 Tyranitar (Armor Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Lombre (Jolly Pokémon)
+# #271 Lombre (Jolly Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

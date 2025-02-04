@@ -1,4 +1,4 @@
-# Yanma (Clear Wing Pokémon)
+# #193 Yanma (Clear Wing Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

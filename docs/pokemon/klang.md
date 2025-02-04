@@ -1,4 +1,4 @@
-# Klang (Gear Pokémon)
+# #600 Klang (Gear Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

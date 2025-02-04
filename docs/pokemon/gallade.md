@@ -1,4 +1,4 @@
-# Gallade (Blade Pokémon)
+# #475 Gallade (Blade Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

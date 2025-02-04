@@ -1,4 +1,4 @@
-# Manectric (Discharge Pokémon)
+# #310 Manectric (Discharge Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

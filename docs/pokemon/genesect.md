@@ -1,4 +1,4 @@
-# Genesect (Paleozoic Pokémon)
+# #649 Genesect (Paleozoic Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

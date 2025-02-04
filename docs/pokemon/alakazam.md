@@ -1,4 +1,4 @@
-# Alakazam (Psi Pokémon)
+# #065 Alakazam (Psi Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

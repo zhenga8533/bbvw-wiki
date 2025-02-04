@@ -1,4 +1,4 @@
-# Anorith (Old Shrimp Pokémon)
+# #347 Anorith (Old Shrimp Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Luxio (Spark Pokémon)
+# #404 Luxio (Spark Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

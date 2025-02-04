@@ -1,4 +1,4 @@
-# Grotle (Grove Pokémon)
+# #388 Grotle (Grove Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

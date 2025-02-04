@@ -1,4 +1,4 @@
-# Sentret (Scout Pokémon)
+# #161 Sentret (Scout Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

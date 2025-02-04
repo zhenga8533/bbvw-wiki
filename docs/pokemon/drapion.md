@@ -1,4 +1,4 @@
-# Drapion (Ogre Scorpion Pokémon)
+# #452 Drapion (Ogre Scorpion Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

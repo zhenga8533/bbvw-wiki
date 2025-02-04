@@ -1,4 +1,4 @@
-# Prinplup (Penguin Pokémon)
+# #394 Prinplup (Penguin Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

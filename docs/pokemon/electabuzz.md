@@ -1,4 +1,4 @@
-# Electabuzz (Electric Pokémon)
+# #125 Electabuzz (Electric Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

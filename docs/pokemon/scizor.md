@@ -1,4 +1,4 @@
-# Scizor (Pincer Pokémon)
+# #212 Scizor (Pincer Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

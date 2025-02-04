@@ -1,4 +1,4 @@
-# Cinccino (Scarf Pokémon)
+# #573 Cinccino (Scarf Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

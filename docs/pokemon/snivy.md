@@ -1,4 +1,4 @@
-# Snivy (Grass Snake Pokémon)
+# #495 Snivy (Grass Snake Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

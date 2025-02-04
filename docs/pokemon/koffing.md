@@ -1,4 +1,4 @@
-# Koffing (Poison Gas Pokémon)
+# #109 Koffing (Poison Gas Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

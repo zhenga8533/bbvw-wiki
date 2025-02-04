@@ -1,4 +1,4 @@
-# Larvitar (Rock Skin Pokémon)
+# #246 Larvitar (Rock Skin Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

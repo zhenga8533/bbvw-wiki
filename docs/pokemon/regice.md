@@ -1,4 +1,4 @@
-# Regice (Iceberg Pokémon)
+# #378 Regice (Iceberg Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

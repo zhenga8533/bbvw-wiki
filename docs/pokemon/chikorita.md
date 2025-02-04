@@ -1,4 +1,4 @@
-# Chikorita (Leaf Pokémon)
+# #152 Chikorita (Leaf Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

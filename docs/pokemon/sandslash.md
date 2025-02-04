@@ -1,4 +1,4 @@
-# Sandslash (Mouse Pokémon)
+# #028 Sandslash (Mouse Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

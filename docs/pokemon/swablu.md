@@ -1,4 +1,4 @@
-# Swablu (Cotton Bird Pokémon)
+# #333 Swablu (Cotton Bird Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

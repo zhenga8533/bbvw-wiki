@@ -1,4 +1,4 @@
-# Phanpy (Long Nose Pokémon)
+# #231 Phanpy (Long Nose Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

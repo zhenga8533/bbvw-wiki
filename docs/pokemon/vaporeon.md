@@ -1,4 +1,4 @@
-# Vaporeon (Bubble Jet Pokémon)
+# #134 Vaporeon (Bubble Jet Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Sableye (Darkness Pokémon)
+# #302 Sableye (Darkness Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

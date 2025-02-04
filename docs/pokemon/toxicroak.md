@@ -1,4 +1,4 @@
-# Toxicroak (Toxic Mouth Pokémon)
+# #454 Toxicroak (Toxic Mouth Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

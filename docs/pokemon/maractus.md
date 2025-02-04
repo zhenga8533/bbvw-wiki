@@ -1,4 +1,4 @@
-# Maractus (Cactus Pokémon)
+# #556 Maractus (Cactus Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

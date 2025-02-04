@@ -1,4 +1,4 @@
-# Roserade (Bouquet Pokémon)
+# #407 Roserade (Bouquet Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Regigigas (Colossal Pokémon)
+# #486 Regigigas (Colossal Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

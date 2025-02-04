@@ -1,4 +1,4 @@
-# Venusaur (Seed Pokémon)
+# #003 Venusaur (Seed Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

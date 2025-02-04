@@ -1,4 +1,4 @@
-# Jellicent (Floating Pokémon)
+# #593 Jellicent (Floating Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

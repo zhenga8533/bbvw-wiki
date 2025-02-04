@@ -1,4 +1,4 @@
-# Budew (Bud Pokémon)
+# #406 Budew (Bud Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

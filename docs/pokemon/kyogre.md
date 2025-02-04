@@ -1,4 +1,4 @@
-# Kyogre (Sea Basin Pokémon)
+# #382 Kyogre (Sea Basin Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Haunter (Gas Pokémon)
+# #093 Haunter (Gas Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Accelgor (Shell Out Pokémon)
+# #617 Accelgor (Shell Out Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Pachirisu (EleSquirrel Pokémon)
+# #417 Pachirisu (EleSquirrel Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

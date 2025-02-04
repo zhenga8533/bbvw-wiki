@@ -1,4 +1,4 @@
-# Seaking (Goldfish Pokémon)
+# #119 Seaking (Goldfish Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

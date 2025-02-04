@@ -1,4 +1,4 @@
-# Grumpig (Manipulate Pokémon)
+# #326 Grumpig (Manipulate Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

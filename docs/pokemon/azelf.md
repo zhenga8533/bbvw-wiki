@@ -1,4 +1,4 @@
-# Azelf (Willpower Pokémon)
+# #482 Azelf (Willpower Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

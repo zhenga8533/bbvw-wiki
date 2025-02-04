@@ -1,4 +1,4 @@
-# Bagon (Rock Head Pokémon)
+# #371 Bagon (Rock Head Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

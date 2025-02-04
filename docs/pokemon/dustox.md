@@ -1,4 +1,4 @@
-# Dustox (Poison Moth Pokémon)
+# #269 Dustox (Poison Moth Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

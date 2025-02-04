@@ -1,4 +1,4 @@
-# Mamoswine (Twin Tusk Pokémon)
+# #473 Mamoswine (Twin Tusk Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Charmander (Lizard Pokémon)
+# #004 Charmander (Lizard Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

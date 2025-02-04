@@ -1,4 +1,4 @@
-# Psyduck (Duck Pokémon)
+# #054 Psyduck (Duck Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Tranquill (Wild Pigeon Pokémon)
+# #520 Tranquill (Wild Pigeon Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

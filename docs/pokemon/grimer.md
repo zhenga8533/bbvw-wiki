@@ -1,4 +1,4 @@
-# Grimer (Sludge Pokémon)
+# #088 Grimer (Sludge Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

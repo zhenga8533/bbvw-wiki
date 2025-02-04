@@ -1,4 +1,4 @@
-# Garchomp (Mach Pokémon)
+# #445 Garchomp (Mach Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

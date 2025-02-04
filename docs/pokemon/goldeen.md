@@ -1,4 +1,4 @@
-# Goldeen (Goldfish Pokémon)
+# #118 Goldeen (Goldfish Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

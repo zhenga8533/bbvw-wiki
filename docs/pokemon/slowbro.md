@@ -1,4 +1,4 @@
-# Slowbro (Hermit Crab Pokémon)
+# #080 Slowbro (Hermit Crab Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

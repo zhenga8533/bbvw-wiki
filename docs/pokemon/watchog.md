@@ -1,4 +1,4 @@
-# Watchog (Lookout Pokémon)
+# #505 Watchog (Lookout Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

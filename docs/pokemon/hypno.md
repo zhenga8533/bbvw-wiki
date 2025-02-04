@@ -1,4 +1,4 @@
-# Hypno (Hypnosis Pokémon)
+# #097 Hypno (Hypnosis Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Registeel (Iron Pokémon)
+# #379 Registeel (Iron Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

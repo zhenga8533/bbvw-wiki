@@ -1,4 +1,4 @@
-# Mime Jr (Mime Pokémon)
+# #439 Mime Jr (Mime Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

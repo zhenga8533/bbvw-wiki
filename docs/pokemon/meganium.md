@@ -1,4 +1,4 @@
-# Meganium (Herb Pokémon)
+# #154 Meganium (Herb Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

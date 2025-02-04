@@ -1,4 +1,4 @@
-# Klink (Gear Pokémon)
+# #599 Klink (Gear Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Azurill (Polka Dot Pokémon)
+# #298 Azurill (Polka Dot Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

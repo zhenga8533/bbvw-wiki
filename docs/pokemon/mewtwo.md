@@ -1,4 +1,4 @@
-# Mewtwo (Genetic Pokémon)
+# #150 Mewtwo (Genetic Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

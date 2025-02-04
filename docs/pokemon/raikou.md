@@ -1,4 +1,4 @@
-# Raikou (Thunder Pokémon)
+# #243 Raikou (Thunder Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

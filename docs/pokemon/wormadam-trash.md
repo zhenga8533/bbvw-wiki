@@ -1,4 +1,4 @@
-# #10005 Wormadam Trash (Bagworm Pokémon)
+# Wormadam Trash (Bagworm Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Blaziken (Blaze Pokémon)
+# #257 Blaziken (Blaze Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

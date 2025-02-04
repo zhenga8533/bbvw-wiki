@@ -1,4 +1,4 @@
-# Mankey (Pig Monkey Pokémon)
+# #056 Mankey (Pig Monkey Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

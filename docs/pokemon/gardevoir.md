@@ -1,4 +1,4 @@
-# Gardevoir (Embrace Pokémon)
+# #282 Gardevoir (Embrace Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

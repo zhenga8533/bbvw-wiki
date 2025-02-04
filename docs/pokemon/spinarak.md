@@ -1,4 +1,4 @@
-# Spinarak (String Spit Pokémon)
+# #167 Spinarak (String Spit Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

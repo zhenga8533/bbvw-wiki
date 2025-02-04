@@ -1,4 +1,4 @@
-# Lairon (Iron Armor Pokémon)
+# #305 Lairon (Iron Armor Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

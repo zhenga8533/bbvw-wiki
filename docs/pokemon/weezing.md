@@ -1,4 +1,4 @@
-# Weezing (Poison Gas Pokémon)
+# #110 Weezing (Poison Gas Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

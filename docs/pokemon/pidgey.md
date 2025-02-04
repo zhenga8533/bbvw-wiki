@@ -1,4 +1,4 @@
-# Pidgey (Tiny Bird Pokémon)
+# #016 Pidgey (Tiny Bird Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

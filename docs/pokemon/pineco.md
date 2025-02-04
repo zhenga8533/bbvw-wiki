@@ -1,4 +1,4 @@
-# Pineco (Bagworm Pokémon)
+# #204 Pineco (Bagworm Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

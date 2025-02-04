@@ -1,4 +1,4 @@
-# Zapdos (Electric Pokémon)
+# #145 Zapdos (Electric Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Metang (Iron Claw Pokémon)
+# #375 Metang (Iron Claw Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

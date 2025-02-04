@@ -1,4 +1,4 @@
-# Shelgon (Endurance Pokémon)
+# #372 Shelgon (Endurance Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Houndour (Dark Pokémon)
+# #228 Houndour (Dark Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# #10022 Kyurem Black (Boundary Pokémon)
+# Kyurem Black (Boundary Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

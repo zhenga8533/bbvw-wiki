@@ -1,4 +1,4 @@
-# Beartic (Freezing Pokémon)
+# #614 Beartic (Freezing Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

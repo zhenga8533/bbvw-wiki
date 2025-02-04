@@ -1,4 +1,4 @@
-# Victini (Victory Pokémon)
+# #494 Victini (Victory Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

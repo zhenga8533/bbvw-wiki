@@ -1,4 +1,4 @@
-# Bisharp (Sword Blade Pokémon)
+# #625 Bisharp (Sword Blade Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

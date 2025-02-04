@@ -1,4 +1,4 @@
-# #10008 Rotom Heat (Plasma Pokémon)
+# Rotom Heat (Plasma Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

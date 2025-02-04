@@ -1,4 +1,4 @@
-# Ducklett (Water Bird Pokémon)
+# #580 Ducklett (Water Bird Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

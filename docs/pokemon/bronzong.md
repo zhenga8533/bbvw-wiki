@@ -1,4 +1,4 @@
-# Bronzong (Bronze Bell Pokémon)
+# #437 Bronzong (Bronze Bell Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

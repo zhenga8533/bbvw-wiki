@@ -1,4 +1,4 @@
-# Hoppip (Cottonweed Pokémon)
+# #187 Hoppip (Cottonweed Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Lampent (Lamp Pokémon)
+# #608 Lampent (Lamp Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

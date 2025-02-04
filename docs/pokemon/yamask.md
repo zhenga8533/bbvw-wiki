@@ -1,4 +1,4 @@
-# Yamask (Spirit Pokémon)
+# #562 Yamask (Spirit Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

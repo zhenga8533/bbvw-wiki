@@ -1,4 +1,4 @@
-# Herdier (Loyal Dog Pokémon)
+# #507 Herdier (Loyal Dog Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

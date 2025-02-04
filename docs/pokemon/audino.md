@@ -1,4 +1,4 @@
-# Audino (Hearing Pokémon)
+# #531 Audino (Hearing Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

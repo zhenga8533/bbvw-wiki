@@ -1,4 +1,4 @@
-# Blastoise (Shellfish Pokémon)
+# #009 Blastoise (Shellfish Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Sharpedo (Brutal Pokémon)
+# #319 Sharpedo (Brutal Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

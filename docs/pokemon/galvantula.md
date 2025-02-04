@@ -1,4 +1,4 @@
-# Galvantula (EleSpider Pokémon)
+# #596 Galvantula (EleSpider Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

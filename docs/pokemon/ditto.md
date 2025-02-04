@@ -1,4 +1,4 @@
-# Ditto (Transform Pokémon)
+# #132 Ditto (Transform Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

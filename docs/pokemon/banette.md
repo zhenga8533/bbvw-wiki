@@ -1,4 +1,4 @@
-# Banette (Marionette Pokémon)
+# #354 Banette (Marionette Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

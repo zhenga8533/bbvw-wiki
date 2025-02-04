@@ -1,4 +1,4 @@
-# Tauros (Wild Bull Pokémon)
+# #128 Tauros (Wild Bull Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

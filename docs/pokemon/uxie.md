@@ -1,4 +1,4 @@
-# Uxie (Knowledge Pokémon)
+# #480 Uxie (Knowledge Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

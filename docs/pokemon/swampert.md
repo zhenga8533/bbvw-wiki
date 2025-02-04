@@ -1,4 +1,4 @@
-# Swampert (Mud Fish Pokémon)
+# #260 Swampert (Mud Fish Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Furret (Long Body Pokémon)
+# #162 Furret (Long Body Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

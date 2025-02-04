@@ -1,4 +1,4 @@
-# Machop (Superpower Pokémon)
+# #066 Machop (Superpower Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

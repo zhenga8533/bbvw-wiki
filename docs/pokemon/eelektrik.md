@@ -1,4 +1,4 @@
-# Eelektrik (EleFish Pokémon)
+# #603 Eelektrik (EleFish Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

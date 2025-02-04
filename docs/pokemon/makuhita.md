@@ -1,4 +1,4 @@
-# Makuhita (Guts Pokémon)
+# #296 Makuhita (Guts Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

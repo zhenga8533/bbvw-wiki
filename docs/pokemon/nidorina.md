@@ -1,4 +1,4 @@
-# Nidorina (Poison Pin Pokémon)
+# #030 Nidorina (Poison Pin Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

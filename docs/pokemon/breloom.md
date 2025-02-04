@@ -1,4 +1,4 @@
-# Breloom (Mushroom Pokémon)
+# #286 Breloom (Mushroom Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

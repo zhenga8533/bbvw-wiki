@@ -1,4 +1,4 @@
-# Machoke (Superpower Pokémon)
+# #067 Machoke (Superpower Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Onix (Rock Snake Pokémon)
+# #095 Onix (Rock Snake Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

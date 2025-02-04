@@ -1,4 +1,4 @@
-# Darkrai (Pitch-Black Pokémon)
+# #491 Darkrai (Pitch-Black Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

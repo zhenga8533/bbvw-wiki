@@ -1,4 +1,4 @@
-# Mantyke (Kite Pokémon)
+# #458 Mantyke (Kite Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

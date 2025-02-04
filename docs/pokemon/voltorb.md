@@ -1,4 +1,4 @@
-# Voltorb (Ball Pokémon)
+# #100 Voltorb (Ball Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

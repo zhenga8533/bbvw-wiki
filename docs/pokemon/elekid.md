@@ -1,4 +1,4 @@
-# Elekid (Electric Pokémon)
+# #239 Elekid (Electric Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

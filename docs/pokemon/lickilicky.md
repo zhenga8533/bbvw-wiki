@@ -1,4 +1,4 @@
-# Lickilicky (Licking Pokémon)
+# #463 Lickilicky (Licking Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

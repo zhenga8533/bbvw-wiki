@@ -1,4 +1,4 @@
-# Emboar (Mega Fire Pig Pokémon)
+# #500 Emboar (Mega Fire Pig Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

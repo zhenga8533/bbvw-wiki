@@ -1,4 +1,4 @@
-# Linoone (Rushing Pokémon)
+# #264 Linoone (Rushing Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

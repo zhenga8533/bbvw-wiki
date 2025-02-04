@@ -1,4 +1,4 @@
-# Vibrava (Vibration Pokémon)
+# #329 Vibrava (Vibration Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

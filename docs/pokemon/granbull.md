@@ -1,4 +1,4 @@
-# Granbull (Fairy Pokémon)
+# #210 Granbull (Fairy Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

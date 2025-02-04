@@ -1,4 +1,4 @@
-# #10019 Tornadus Therian (Cyclone Pokémon)
+# Tornadus Therian (Cyclone Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

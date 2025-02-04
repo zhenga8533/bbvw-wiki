@@ -1,4 +1,4 @@
-# Ferroseed (Thorn Seed Pokémon)
+# #597 Ferroseed (Thorn Seed Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

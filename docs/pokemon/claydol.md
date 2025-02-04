@@ -1,4 +1,4 @@
-# Claydol (Clay Doll Pokémon)
+# #344 Claydol (Clay Doll Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

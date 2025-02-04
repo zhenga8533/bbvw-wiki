@@ -1,4 +1,4 @@
-# Sneasel (Sharp Claw Pokémon)
+# #215 Sneasel (Sharp Claw Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

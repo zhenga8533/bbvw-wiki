@@ -1,4 +1,4 @@
-# Sewaddle (Sewing Pokémon)
+# #540 Sewaddle (Sewing Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

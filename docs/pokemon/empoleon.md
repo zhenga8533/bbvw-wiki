@@ -1,4 +1,4 @@
-# Empoleon (Emperor Pokémon)
+# #395 Empoleon (Emperor Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

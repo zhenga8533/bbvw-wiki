@@ -1,4 +1,4 @@
-# Porygon Z (Virtual Pokémon)
+# #474 Porygon Z (Virtual Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

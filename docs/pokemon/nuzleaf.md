@@ -1,4 +1,4 @@
-# Nuzleaf (Wily Pokémon)
+# #274 Nuzleaf (Wily Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Chimecho (Wind Chime Pokémon)
+# #358 Chimecho (Wind Chime Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

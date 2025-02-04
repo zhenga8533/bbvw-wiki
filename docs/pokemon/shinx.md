@@ -1,4 +1,4 @@
-# Shinx (Flash Pokémon)
+# #403 Shinx (Flash Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

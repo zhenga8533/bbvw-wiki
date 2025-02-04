@@ -1,4 +1,4 @@
-# Gloom (Weed Pokémon)
+# #044 Gloom (Weed Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

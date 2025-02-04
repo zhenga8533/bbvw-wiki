@@ -1,4 +1,4 @@
-# Pawniard (Sharp Blade Pokémon)
+# #624 Pawniard (Sharp Blade Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

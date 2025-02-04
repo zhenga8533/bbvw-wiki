@@ -1,4 +1,4 @@
-# Duskull (Requiem Pokémon)
+# #355 Duskull (Requiem Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

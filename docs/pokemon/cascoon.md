@@ -1,4 +1,4 @@
-# Cascoon (Cocoon Pokémon)
+# #268 Cascoon (Cocoon Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

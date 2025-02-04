@@ -1,4 +1,4 @@
-# Floatzel (Sea Weasel Pokémon)
+# #419 Floatzel (Sea Weasel Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

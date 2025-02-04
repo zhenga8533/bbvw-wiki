@@ -1,4 +1,4 @@
-# #10003 Deoxys Speed (DNA Pokémon)
+# Deoxys Speed (DNA Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

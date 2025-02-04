@@ -1,4 +1,4 @@
-# Hitmonlee (Kicking Pokémon)
+# #106 Hitmonlee (Kicking Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

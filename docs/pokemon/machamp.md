@@ -1,4 +1,4 @@
-# Machamp (Superpower Pokémon)
+# #068 Machamp (Superpower Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# #10006 Shaymin Sky (Gratitude Pokémon)
+# Shaymin Sky (Gratitude Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Beautifly (Butterfly Pokémon)
+# #267 Beautifly (Butterfly Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Bibarel (Beaver Pokémon)
+# #400 Bibarel (Beaver Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

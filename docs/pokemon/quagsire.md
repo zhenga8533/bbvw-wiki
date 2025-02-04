@@ -1,4 +1,4 @@
-# Quagsire (Water Fish Pokémon)
+# #195 Quagsire (Water Fish Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

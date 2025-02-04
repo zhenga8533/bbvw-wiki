@@ -1,4 +1,4 @@
-# Magnezone (Magnet Area Pokémon)
+# #462 Magnezone (Magnet Area Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

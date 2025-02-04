@@ -1,4 +1,4 @@
-# Leafeon (Verdant Pokémon)
+# #470 Leafeon (Verdant Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

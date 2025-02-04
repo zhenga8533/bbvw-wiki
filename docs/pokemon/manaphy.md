@@ -1,4 +1,4 @@
-# Manaphy (Seafaring Pokémon)
+# #490 Manaphy (Seafaring Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

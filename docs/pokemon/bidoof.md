@@ -1,4 +1,4 @@
-# Bidoof (Plump Mouse Pokémon)
+# #399 Bidoof (Plump Mouse Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

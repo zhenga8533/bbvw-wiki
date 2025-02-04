@@ -1,4 +1,4 @@
-# Excadrill (Subterrene Pokémon)
+# #530 Excadrill (Subterrene Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

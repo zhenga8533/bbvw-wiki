@@ -1,4 +1,4 @@
-# Kyurem (Boundary Pokémon)
+# #646 Kyurem (Boundary Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

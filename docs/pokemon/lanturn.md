@@ -1,4 +1,4 @@
-# Lanturn (Light Pokémon)
+# #171 Lanturn (Light Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

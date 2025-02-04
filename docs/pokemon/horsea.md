@@ -1,4 +1,4 @@
-# Horsea (Dragon Pokémon)
+# #116 Horsea (Dragon Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

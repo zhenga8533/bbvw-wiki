@@ -1,4 +1,4 @@
-# Krookodile (Intimidation Pokémon)
+# #553 Krookodile (Intimidation Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

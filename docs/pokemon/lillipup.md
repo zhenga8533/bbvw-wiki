@@ -1,4 +1,4 @@
-# Lillipup (Puppy Pokémon)
+# #506 Lillipup (Puppy Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

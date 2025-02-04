@@ -1,4 +1,4 @@
-# Poliwag (Tadpole Pokémon)
+# #060 Poliwag (Tadpole Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

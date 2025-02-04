@@ -1,4 +1,4 @@
-# Stunfisk (Trap Pokémon)
+# #618 Stunfisk (Trap Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

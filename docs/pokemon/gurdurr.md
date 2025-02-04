@@ -1,4 +1,4 @@
-# Gurdurr (Muscular Pokémon)
+# #533 Gurdurr (Muscular Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

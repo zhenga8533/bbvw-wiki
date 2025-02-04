@@ -1,4 +1,4 @@
-# Magcargo (Lava Pokémon)
+# #219 Magcargo (Lava Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

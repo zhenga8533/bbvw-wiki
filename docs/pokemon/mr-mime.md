@@ -1,4 +1,4 @@
-# Mr Mime (Barrier Pokémon)
+# #122 Mr Mime (Barrier Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

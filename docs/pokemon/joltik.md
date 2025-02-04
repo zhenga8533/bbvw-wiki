@@ -1,4 +1,4 @@
-# Joltik (Attaching Pokémon)
+# #595 Joltik (Attaching Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

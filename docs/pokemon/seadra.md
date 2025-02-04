@@ -1,4 +1,4 @@
-# Seadra (Dragon Pokémon)
+# #117 Seadra (Dragon Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

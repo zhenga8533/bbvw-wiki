@@ -1,4 +1,4 @@
-# Donphan (Armor Pokémon)
+# #232 Donphan (Armor Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

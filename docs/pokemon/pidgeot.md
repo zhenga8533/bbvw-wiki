@@ -1,4 +1,4 @@
-# Pidgeot (Bird Pokémon)
+# #018 Pidgeot (Bird Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Wigglytuff (Balloon Pokémon)
+# #040 Wigglytuff (Balloon Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

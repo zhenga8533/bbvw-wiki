@@ -1,4 +1,4 @@
-# Hitmonchan (Punching Pokémon)
+# #107 Hitmonchan (Punching Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

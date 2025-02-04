@@ -1,4 +1,4 @@
-# Seismitoad (Vibration Pokémon)
+# #537 Seismitoad (Vibration Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

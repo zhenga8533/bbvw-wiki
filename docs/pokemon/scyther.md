@@ -1,4 +1,4 @@
-# Scyther (Mantis Pokémon)
+# #123 Scyther (Mantis Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

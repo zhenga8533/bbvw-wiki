@@ -1,4 +1,4 @@
-# Gabite (Cave Pokémon)
+# #444 Gabite (Cave Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

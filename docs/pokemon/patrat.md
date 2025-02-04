@@ -1,4 +1,4 @@
-# Patrat (Scout Pokémon)
+# #504 Patrat (Scout Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

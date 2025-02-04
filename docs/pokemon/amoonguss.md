@@ -1,4 +1,4 @@
-# Amoonguss (Mushroom Pokémon)
+# #591 Amoonguss (Mushroom Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

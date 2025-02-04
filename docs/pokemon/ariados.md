@@ -1,4 +1,4 @@
-# Ariados (Long Leg Pokémon)
+# #168 Ariados (Long Leg Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

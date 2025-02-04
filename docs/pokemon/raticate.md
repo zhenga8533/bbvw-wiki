@@ -1,4 +1,4 @@
-# Raticate (Mouse Pokémon)
+# #020 Raticate (Mouse Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

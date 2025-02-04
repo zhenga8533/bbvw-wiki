@@ -1,4 +1,4 @@
-# Spheal (Clap Pokémon)
+# #363 Spheal (Clap Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

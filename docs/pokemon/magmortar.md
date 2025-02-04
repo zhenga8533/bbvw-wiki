@@ -1,4 +1,4 @@
-# Magmortar (Blast Pokémon)
+# #467 Magmortar (Blast Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

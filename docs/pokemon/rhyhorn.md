@@ -1,4 +1,4 @@
-# Rhyhorn (Spikes Pokémon)
+# #111 Rhyhorn (Spikes Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

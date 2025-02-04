@@ -1,4 +1,4 @@
-# Dewgong (Sea Lion Pokémon)
+# #087 Dewgong (Sea Lion Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

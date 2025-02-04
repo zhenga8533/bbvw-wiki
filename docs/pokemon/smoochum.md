@@ -1,4 +1,4 @@
-# Smoochum (Kiss Pokémon)
+# #238 Smoochum (Kiss Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

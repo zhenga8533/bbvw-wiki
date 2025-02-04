@@ -1,4 +1,4 @@
-# Giratina Altered (Renegade Pokémon)
+# #487 Giratina Altered (Renegade Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

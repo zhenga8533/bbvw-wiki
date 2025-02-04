@@ -1,4 +1,4 @@
-# Cottonee (Cotton Puff Pokémon)
+# #546 Cottonee (Cotton Puff Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Butterfree (Butterfly Pokémon)
+# #012 Butterfree (Butterfly Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

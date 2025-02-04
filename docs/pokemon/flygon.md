@@ -1,4 +1,4 @@
-# Flygon (Mystic Pokémon)
+# #330 Flygon (Mystic Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

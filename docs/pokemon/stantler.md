@@ -1,4 +1,4 @@
-# Stantler (Big Horn Pokémon)
+# #234 Stantler (Big Horn Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

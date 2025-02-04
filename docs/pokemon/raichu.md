@@ -1,4 +1,4 @@
-# Raichu (Mouse Pokémon)
+# #026 Raichu (Mouse Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

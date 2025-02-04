@@ -1,4 +1,4 @@
-# Staravia (Starling Pokémon)
+# #397 Staravia (Starling Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

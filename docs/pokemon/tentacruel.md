@@ -1,4 +1,4 @@
-# Tentacruel (Jellyfish Pokémon)
+# #073 Tentacruel (Jellyfish Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Mareep (Wool Pokémon)
+# #179 Mareep (Wool Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

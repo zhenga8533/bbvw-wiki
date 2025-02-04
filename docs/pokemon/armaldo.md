@@ -1,4 +1,4 @@
-# Armaldo (Plate Pokémon)
+# #348 Armaldo (Plate Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

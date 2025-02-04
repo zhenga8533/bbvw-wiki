@@ -1,4 +1,4 @@
-# Rufflet (Eaglet Pokémon)
+# #627 Rufflet (Eaglet Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

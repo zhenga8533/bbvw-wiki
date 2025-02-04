@@ -1,4 +1,4 @@
-# Charizard (Flame Pokémon)
+# #006 Charizard (Flame Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

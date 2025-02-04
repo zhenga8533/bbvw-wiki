@@ -1,4 +1,4 @@
-# Tynamo (EleFish Pokémon)
+# #602 Tynamo (EleFish Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

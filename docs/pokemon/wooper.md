@@ -1,4 +1,4 @@
-# Wooper (Water Fish Pokémon)
+# #194 Wooper (Water Fish Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

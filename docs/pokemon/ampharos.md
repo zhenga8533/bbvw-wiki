@@ -1,4 +1,4 @@
-# Ampharos (Light Pokémon)
+# #181 Ampharos (Light Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

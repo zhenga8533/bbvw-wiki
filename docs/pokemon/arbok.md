@@ -1,4 +1,4 @@
-# Arbok (Cobra Pokémon)
+# #024 Arbok (Cobra Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

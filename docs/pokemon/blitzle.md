@@ -1,4 +1,4 @@
-# Blitzle (Electrified Pokémon)
+# #522 Blitzle (Electrified Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

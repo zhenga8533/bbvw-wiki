@@ -1,4 +1,4 @@
-# Ferrothorn (Thorn Pod Pokémon)
+# #598 Ferrothorn (Thorn Pod Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

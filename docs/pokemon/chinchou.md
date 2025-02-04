@@ -1,4 +1,4 @@
-# Chinchou (Angler Pokémon)
+# #170 Chinchou (Angler Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

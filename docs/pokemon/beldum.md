@@ -1,4 +1,4 @@
-# Beldum (Iron Ball Pokémon)
+# #374 Beldum (Iron Ball Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

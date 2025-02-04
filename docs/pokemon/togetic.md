@@ -1,4 +1,4 @@
-# Togetic (Happiness Pokémon)
+# #176 Togetic (Happiness Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

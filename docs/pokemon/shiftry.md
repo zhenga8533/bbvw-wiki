@@ -1,4 +1,4 @@
-# Shiftry (Wicked Pokémon)
+# #275 Shiftry (Wicked Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

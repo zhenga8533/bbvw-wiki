@@ -1,4 +1,4 @@
-# Deoxys Normal (DNA Pokémon)
+# #386 Deoxys Normal (DNA Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

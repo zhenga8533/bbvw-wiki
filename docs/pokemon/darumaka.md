@@ -1,4 +1,4 @@
-# Darumaka (Zen Charm Pokémon)
+# #554 Darumaka (Zen Charm Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

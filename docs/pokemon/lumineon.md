@@ -1,4 +1,4 @@
-# Lumineon (Neon Pokémon)
+# #457 Lumineon (Neon Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

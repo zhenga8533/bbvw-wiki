@@ -1,4 +1,4 @@
-# Burmy (Bagworm Pokémon)
+# #412 Burmy (Bagworm Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

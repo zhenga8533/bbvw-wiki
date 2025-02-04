@@ -1,4 +1,4 @@
-# Cyndaquil (Fire Mouse Pokémon)
+# #155 Cyndaquil (Fire Mouse Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

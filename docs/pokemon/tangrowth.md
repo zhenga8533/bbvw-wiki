@@ -1,4 +1,4 @@
-# Tangrowth (Vine Pokémon)
+# #465 Tangrowth (Vine Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

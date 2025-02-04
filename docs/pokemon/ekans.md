@@ -1,4 +1,4 @@
-# Ekans (Snake Pokémon)
+# #023 Ekans (Snake Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Pidgeotto (Bird Pokémon)
+# #017 Pidgeotto (Bird Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

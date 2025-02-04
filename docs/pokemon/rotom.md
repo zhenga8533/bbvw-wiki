@@ -1,4 +1,4 @@
-# Rotom (Plasma Pokémon)
+# #479 Rotom (Plasma Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

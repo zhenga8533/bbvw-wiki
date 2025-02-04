@@ -1,4 +1,4 @@
-# Kricketune (Cricket Pokémon)
+# #402 Kricketune (Cricket Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

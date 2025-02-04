@@ -1,4 +1,4 @@
-# Loudred (Big Voice Pokémon)
+# #294 Loudred (Big Voice Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

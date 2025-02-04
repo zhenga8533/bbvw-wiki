@@ -1,4 +1,4 @@
-# Cranidos (Head Butt Pokémon)
+# #408 Cranidos (Head Butt Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

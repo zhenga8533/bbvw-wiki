@@ -1,4 +1,4 @@
-# Lopunny (Rabbit Pokémon)
+# #428 Lopunny (Rabbit Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

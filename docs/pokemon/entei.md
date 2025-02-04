@@ -1,4 +1,4 @@
-# Entei (Volcano Pokémon)
+# #244 Entei (Volcano Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

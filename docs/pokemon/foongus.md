@@ -1,4 +1,4 @@
-# Foongus (Mushroom Pokémon)
+# #590 Foongus (Mushroom Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

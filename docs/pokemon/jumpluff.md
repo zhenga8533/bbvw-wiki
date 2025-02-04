@@ -1,4 +1,4 @@
-# Jumpluff (Cottonweed Pokémon)
+# #189 Jumpluff (Cottonweed Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

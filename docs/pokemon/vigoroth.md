@@ -1,4 +1,4 @@
-# Vigoroth (Wild Monkey Pokémon)
+# #288 Vigoroth (Wild Monkey Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

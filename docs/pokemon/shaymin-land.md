@@ -1,4 +1,4 @@
-# Shaymin Land (Gratitude Pokémon)
+# #492 Shaymin Land (Gratitude Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

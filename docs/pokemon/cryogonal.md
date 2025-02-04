@@ -1,4 +1,4 @@
-# Cryogonal (Crystallizing Pokémon)
+# #615 Cryogonal (Crystallizing Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Gulpin (Stomach Pokémon)
+# #316 Gulpin (Stomach Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

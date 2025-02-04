@@ -1,4 +1,4 @@
-# Bouffalant (Bash Buffalo Pokémon)
+# #626 Bouffalant (Bash Buffalo Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

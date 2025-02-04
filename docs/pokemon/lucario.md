@@ -1,4 +1,4 @@
-# Lucario (Aura Pokémon)
+# #448 Lucario (Aura Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

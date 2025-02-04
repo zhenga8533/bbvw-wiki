@@ -1,4 +1,4 @@
-# Gigalith (Compressed Pokémon)
+# #526 Gigalith (Compressed Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

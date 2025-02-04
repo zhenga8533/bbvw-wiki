@@ -1,4 +1,4 @@
-# Electrike (Lightning Pokémon)
+# #309 Electrike (Lightning Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

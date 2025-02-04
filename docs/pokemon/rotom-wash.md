@@ -1,4 +1,4 @@
-# #10009 Rotom Wash (Plasma Pokémon)
+# Rotom Wash (Plasma Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

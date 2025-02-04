@@ -1,4 +1,4 @@
-# Glalie (Face Pokémon)
+# #362 Glalie (Face Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

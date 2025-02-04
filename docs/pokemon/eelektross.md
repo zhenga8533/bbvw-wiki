@@ -1,4 +1,4 @@
-# Eelektross (EleFish Pokémon)
+# #604 Eelektross (EleFish Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

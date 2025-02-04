@@ -1,4 +1,4 @@
-# Feebas (Fish Pokémon)
+# #349 Feebas (Fish Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

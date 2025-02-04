@@ -1,4 +1,4 @@
-# Corphish (Ruffian Pokémon)
+# #341 Corphish (Ruffian Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

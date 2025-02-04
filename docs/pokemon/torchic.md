@@ -1,4 +1,4 @@
-# Torchic (Chick Pokémon)
+# #255 Torchic (Chick Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

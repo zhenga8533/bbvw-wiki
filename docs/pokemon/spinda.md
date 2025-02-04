@@ -1,4 +1,4 @@
-# Spinda (Spot Panda Pokémon)
+# #327 Spinda (Spot Panda Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

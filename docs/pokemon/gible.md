@@ -1,4 +1,4 @@
-# Gible (Land Shark Pokémon)
+# #443 Gible (Land Shark Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

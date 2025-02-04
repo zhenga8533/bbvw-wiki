@@ -1,4 +1,4 @@
-# #10012 Rotom Mow (Plasma Pokémon)
+# Rotom Mow (Plasma Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

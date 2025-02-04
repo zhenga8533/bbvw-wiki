@@ -1,4 +1,4 @@
-# #10021 Landorus Therian (Abundance Pokémon)
+# Landorus Therian (Abundance Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

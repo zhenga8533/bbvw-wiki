@@ -1,4 +1,4 @@
-# Gengar (Shadow Pokémon)
+# #094 Gengar (Shadow Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Aipom (Long Tail Pokémon)
+# #190 Aipom (Long Tail Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

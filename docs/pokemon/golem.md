@@ -1,4 +1,4 @@
-# Golem (Megaton Pokémon)
+# #076 Golem (Megaton Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

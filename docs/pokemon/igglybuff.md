@@ -1,4 +1,4 @@
-# Igglybuff (Balloon Pokémon)
+# #174 Igglybuff (Balloon Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Numel (Numb Pokémon)
+# #322 Numel (Numb Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

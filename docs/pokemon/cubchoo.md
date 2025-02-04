@@ -1,4 +1,4 @@
-# Cubchoo (Chill Pokémon)
+# #613 Cubchoo (Chill Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

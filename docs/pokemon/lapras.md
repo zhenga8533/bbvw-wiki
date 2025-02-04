@@ -1,4 +1,4 @@
-# Lapras (Transport Pokémon)
+# #131 Lapras (Transport Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

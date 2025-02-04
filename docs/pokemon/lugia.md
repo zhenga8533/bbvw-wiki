@@ -1,4 +1,4 @@
-# Lugia (Diving Pokémon)
+# #249 Lugia (Diving Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

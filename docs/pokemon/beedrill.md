@@ -1,4 +1,4 @@
-# Beedrill (Poison Bee Pokémon)
+# #015 Beedrill (Poison Bee Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

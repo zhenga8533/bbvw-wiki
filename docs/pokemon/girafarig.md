@@ -1,4 +1,4 @@
-# Girafarig (Long Neck Pokémon)
+# #203 Girafarig (Long Neck Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

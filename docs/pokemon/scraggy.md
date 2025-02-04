@@ -1,4 +1,4 @@
-# Scraggy (Shedding Pokémon)
+# #559 Scraggy (Shedding Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Gyarados (Atrocious Pokémon)
+# #130 Gyarados (Atrocious Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Pelipper (Water Bird Pokémon)
+# #279 Pelipper (Water Bird Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

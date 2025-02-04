@@ -1,4 +1,4 @@
-# Kingler (Pincer Pokémon)
+# #099 Kingler (Pincer Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

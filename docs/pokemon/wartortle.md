@@ -1,4 +1,4 @@
-# Wartortle (Turtle Pokémon)
+# #008 Wartortle (Turtle Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Gastly (Gas Pokémon)
+# #092 Gastly (Gas Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

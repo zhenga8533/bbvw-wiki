@@ -1,4 +1,4 @@
-# #10020 Thundurus Therian (Bolt Strike Pokémon)
+# Thundurus Therian (Bolt Strike Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

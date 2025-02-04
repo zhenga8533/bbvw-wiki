@@ -1,4 +1,4 @@
-# Dusclops (Beckon Pokémon)
+# #356 Dusclops (Beckon Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

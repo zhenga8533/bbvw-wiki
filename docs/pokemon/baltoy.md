@@ -1,4 +1,4 @@
-# Baltoy (Clay Doll Pokémon)
+# #343 Baltoy (Clay Doll Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

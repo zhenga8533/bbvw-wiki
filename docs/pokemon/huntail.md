@@ -1,4 +1,4 @@
-# Huntail (Deep Sea Pokémon)
+# #367 Huntail (Deep Sea Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

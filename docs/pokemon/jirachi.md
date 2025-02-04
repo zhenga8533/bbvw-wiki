@@ -1,4 +1,4 @@
-# Jirachi (Wish Pokémon)
+# #385 Jirachi (Wish Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

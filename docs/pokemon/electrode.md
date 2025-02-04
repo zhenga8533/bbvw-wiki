@@ -1,4 +1,4 @@
-# Electrode (Ball Pokémon)
+# #101 Electrode (Ball Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

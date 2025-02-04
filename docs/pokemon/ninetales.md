@@ -1,4 +1,4 @@
-# Ninetales (Fox Pokémon)
+# #038 Ninetales (Fox Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

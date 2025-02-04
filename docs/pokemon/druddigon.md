@@ -1,4 +1,4 @@
-# Druddigon (Cave Pokémon)
+# #621 Druddigon (Cave Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

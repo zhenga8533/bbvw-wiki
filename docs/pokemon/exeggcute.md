@@ -1,4 +1,4 @@
-# Exeggcute (Egg Pokémon)
+# #102 Exeggcute (Egg Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

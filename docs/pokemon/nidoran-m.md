@@ -1,4 +1,4 @@
-# Nidoran M (Poison Pin Pokémon)
+# #032 Nidoran M (Poison Pin Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# #10004 Wormadam Sandy (Bagworm Pokémon)
+# Wormadam Sandy (Bagworm Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

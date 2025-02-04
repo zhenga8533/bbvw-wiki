@@ -1,4 +1,4 @@
-# Squirtle (Tiny Turtle Pokémon)
+# #007 Squirtle (Tiny Turtle Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

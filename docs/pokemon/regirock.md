@@ -1,4 +1,4 @@
-# Regirock (Rock Peak Pokémon)
+# #377 Regirock (Rock Peak Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

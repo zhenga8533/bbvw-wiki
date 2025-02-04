@@ -1,4 +1,4 @@
-# Azumarill (Aqua Rabbit Pokémon)
+# #184 Azumarill (Aqua Rabbit Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

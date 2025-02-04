@@ -1,4 +1,4 @@
-# Braviary (Valiant Pokémon)
+# #628 Braviary (Valiant Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

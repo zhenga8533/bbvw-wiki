@@ -1,4 +1,4 @@
-# Chandelure (Luring Pokémon)
+# #609 Chandelure (Luring Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

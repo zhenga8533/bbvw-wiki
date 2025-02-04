@@ -1,4 +1,4 @@
-# Torkoal (Coal Pokémon)
+# #324 Torkoal (Coal Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

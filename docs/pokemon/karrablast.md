@@ -1,4 +1,4 @@
-# Karrablast (Clamping Pokémon)
+# #588 Karrablast (Clamping Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

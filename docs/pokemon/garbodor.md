@@ -1,4 +1,4 @@
-# Garbodor (Trash Heap Pokémon)
+# #569 Garbodor (Trash Heap Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

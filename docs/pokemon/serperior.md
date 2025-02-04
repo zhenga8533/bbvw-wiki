@@ -1,4 +1,4 @@
-# Serperior (Regal Pokémon)
+# #497 Serperior (Regal Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

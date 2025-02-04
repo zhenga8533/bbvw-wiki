@@ -1,4 +1,4 @@
-# Silcoon (Cocoon Pokémon)
+# #266 Silcoon (Cocoon Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

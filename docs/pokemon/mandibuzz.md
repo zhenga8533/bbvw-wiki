@@ -1,4 +1,4 @@
-# Mandibuzz (Bone Vulture Pokémon)
+# #630 Mandibuzz (Bone Vulture Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Shellder (Bivalve Pokémon)
+# #090 Shellder (Bivalve Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

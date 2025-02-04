@@ -1,4 +1,4 @@
-# Poochyena (Bite Pokémon)
+# #261 Poochyena (Bite Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

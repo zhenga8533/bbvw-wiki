@@ -1,4 +1,4 @@
-# Leavanny (Nurturing Pokémon)
+# #542 Leavanny (Nurturing Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

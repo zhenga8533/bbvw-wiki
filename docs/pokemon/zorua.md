@@ -1,4 +1,4 @@
-# Zorua (Tricky Fox Pokémon)
+# #570 Zorua (Tricky Fox Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

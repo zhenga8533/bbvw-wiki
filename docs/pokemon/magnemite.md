@@ -1,4 +1,4 @@
-# Magnemite (Magnet Pokémon)
+# #081 Magnemite (Magnet Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

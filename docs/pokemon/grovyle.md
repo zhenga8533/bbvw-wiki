@@ -1,4 +1,4 @@
-# Grovyle (Wood Gecko Pokémon)
+# #253 Grovyle (Wood Gecko Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

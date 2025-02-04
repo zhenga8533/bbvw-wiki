@@ -1,4 +1,4 @@
-# Nosepass (Compass Pokémon)
+# #299 Nosepass (Compass Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

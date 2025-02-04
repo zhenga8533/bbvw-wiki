@@ -1,4 +1,4 @@
-# Geodude (Rock Pokémon)
+# #074 Geodude (Rock Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

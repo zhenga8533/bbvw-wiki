@@ -1,4 +1,4 @@
-# Pupitar (Hard Shell Pokémon)
+# #247 Pupitar (Hard Shell Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

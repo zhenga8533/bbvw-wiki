@@ -1,4 +1,4 @@
-# #10014 Castform Rainy (Weather Pokémon)
+# Castform Rainy (Weather Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

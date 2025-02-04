@@ -1,4 +1,4 @@
-# Purugly (Tiger Cat Pokémon)
+# #432 Purugly (Tiger Cat Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

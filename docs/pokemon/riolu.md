@@ -1,4 +1,4 @@
-# Riolu (Emanation Pokémon)
+# #447 Riolu (Emanation Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

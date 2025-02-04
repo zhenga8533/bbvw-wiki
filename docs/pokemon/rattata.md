@@ -1,4 +1,4 @@
-# Rattata (Mouse Pokémon)
+# #019 Rattata (Mouse Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

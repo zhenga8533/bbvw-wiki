@@ -1,4 +1,4 @@
-# Shroomish (Mushroom Pokémon)
+# #285 Shroomish (Mushroom Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

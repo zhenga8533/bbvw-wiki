@@ -1,4 +1,4 @@
-# Gastrodon (Sea Slug Pokémon)
+# #423 Gastrodon (Sea Slug Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

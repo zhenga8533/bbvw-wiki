@@ -1,4 +1,4 @@
-# Mienfoo (Martial Arts Pokémon)
+# #619 Mienfoo (Martial Arts Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

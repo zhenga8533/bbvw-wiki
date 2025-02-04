@@ -1,4 +1,4 @@
-# Servine (Grass Snake Pokémon)
+# #496 Servine (Grass Snake Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

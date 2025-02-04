@@ -1,4 +1,4 @@
-# Xatu (Mystic Pokémon)
+# #178 Xatu (Mystic Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Infernape (Flame Pokémon)
+# #392 Infernape (Flame Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

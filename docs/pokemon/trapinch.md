@@ -1,4 +1,4 @@
-# Trapinch (Ant Pit Pokémon)
+# #328 Trapinch (Ant Pit Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

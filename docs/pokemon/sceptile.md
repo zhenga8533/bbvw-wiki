@@ -1,4 +1,4 @@
-# Sceptile (Forest Pokémon)
+# #254 Sceptile (Forest Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

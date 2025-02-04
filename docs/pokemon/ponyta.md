@@ -1,4 +1,4 @@
-# Ponyta (Fire Horse Pokémon)
+# #077 Ponyta (Fire Horse Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

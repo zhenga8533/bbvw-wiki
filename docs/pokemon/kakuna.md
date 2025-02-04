@@ -1,4 +1,4 @@
-# Kakuna (Cocoon Pokémon)
+# #014 Kakuna (Cocoon Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

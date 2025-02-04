@@ -1,4 +1,4 @@
-# Kabutops (Shellfish Pokémon)
+# #141 Kabutops (Shellfish Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

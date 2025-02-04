@@ -1,4 +1,4 @@
-# Salamence (Dragon Pokémon)
+# #373 Salamence (Dragon Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

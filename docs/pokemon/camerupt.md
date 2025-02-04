@@ -1,4 +1,4 @@
-# Camerupt (Eruption Pokémon)
+# #323 Camerupt (Eruption Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

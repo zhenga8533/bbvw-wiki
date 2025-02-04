@@ -1,4 +1,4 @@
-# Golurk (Automaton Pokémon)
+# #623 Golurk (Automaton Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

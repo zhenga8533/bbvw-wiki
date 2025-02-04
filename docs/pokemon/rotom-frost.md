@@ -1,4 +1,4 @@
-# #10010 Rotom Frost (Plasma Pokémon)
+# Rotom Frost (Plasma Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

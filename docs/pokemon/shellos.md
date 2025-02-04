@@ -1,4 +1,4 @@
-# Shellos (Sea Slug Pokémon)
+# #422 Shellos (Sea Slug Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

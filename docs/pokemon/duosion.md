@@ -1,4 +1,4 @@
-# Duosion (Mitosis Pokémon)
+# #578 Duosion (Mitosis Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

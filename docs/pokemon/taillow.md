@@ -1,4 +1,4 @@
-# Taillow (Tiny Swallow Pokémon)
+# #276 Taillow (Tiny Swallow Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

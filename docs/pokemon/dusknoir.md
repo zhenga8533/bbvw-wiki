@@ -1,4 +1,4 @@
-# Dusknoir (Gripper Pokémon)
+# #477 Dusknoir (Gripper Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

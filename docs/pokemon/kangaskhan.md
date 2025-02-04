@@ -1,4 +1,4 @@
-# Kangaskhan (Parent Pokémon)
+# #115 Kangaskhan (Parent Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

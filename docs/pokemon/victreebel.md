@@ -1,4 +1,4 @@
-# Victreebel (Flycatcher Pokémon)
+# #071 Victreebel (Flycatcher Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

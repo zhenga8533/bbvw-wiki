@@ -1,4 +1,4 @@
-# Blissey (Happiness Pokémon)
+# #242 Blissey (Happiness Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

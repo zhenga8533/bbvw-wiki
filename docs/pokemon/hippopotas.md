@@ -1,4 +1,4 @@
-# Hippopotas (Hippo Pokémon)
+# #449 Hippopotas (Hippo Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

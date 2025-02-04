@@ -1,4 +1,4 @@
-# Seel (Sea Lion Pokémon)
+# #086 Seel (Sea Lion Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Archen (First Bird Pokémon)
+# #566 Archen (First Bird Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

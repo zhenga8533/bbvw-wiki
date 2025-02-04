@@ -1,4 +1,4 @@
-# Frillish (Floating Pokémon)
+# #592 Frillish (Floating Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

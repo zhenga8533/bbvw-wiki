@@ -1,4 +1,4 @@
-# Mothim (Moth Pokémon)
+# #414 Mothim (Moth Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

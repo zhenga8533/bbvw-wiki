@@ -1,4 +1,4 @@
-# #10018 Meloetta Pirouette (Melody Pokémon)
+# Meloetta Pirouette (Melody Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

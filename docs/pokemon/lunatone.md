@@ -1,4 +1,4 @@
-# Lunatone (Meteorite Pokémon)
+# #337 Lunatone (Meteorite Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

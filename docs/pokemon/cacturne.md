@@ -1,4 +1,4 @@
-# Cacturne (Scarecrow Pokémon)
+# #332 Cacturne (Scarecrow Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

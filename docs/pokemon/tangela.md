@@ -1,4 +1,4 @@
-# Tangela (Vine Pokémon)
+# #114 Tangela (Vine Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

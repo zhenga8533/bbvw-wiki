@@ -1,4 +1,4 @@
-# Pichu (Tiny Mouse Pokémon)
+# #172 Pichu (Tiny Mouse Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

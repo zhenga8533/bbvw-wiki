@@ -1,4 +1,4 @@
-# Tepig (Fire Pig Pokémon)
+# #498 Tepig (Fire Pig Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Gothorita (Manipulate Pokémon)
+# #575 Gothorita (Manipulate Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

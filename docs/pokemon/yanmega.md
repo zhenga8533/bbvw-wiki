@@ -1,4 +1,4 @@
-# Yanmega (Ogre Darner Pokémon)
+# #469 Yanmega (Ogre Darner Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

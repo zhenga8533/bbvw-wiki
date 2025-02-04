@@ -1,4 +1,4 @@
-# Lilligant (Flowering Pokémon)
+# #549 Lilligant (Flowering Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

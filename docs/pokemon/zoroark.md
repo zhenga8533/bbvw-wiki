@@ -1,4 +1,4 @@
-# Zoroark (Illusion Fox Pokémon)
+# #571 Zoroark (Illusion Fox Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

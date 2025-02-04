@@ -1,4 +1,4 @@
-# Oshawott (Sea Otter Pokémon)
+# #501 Oshawott (Sea Otter Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

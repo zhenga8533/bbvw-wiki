@@ -1,4 +1,4 @@
-# Slowpoke (Dopey Pokémon)
+# #079 Slowpoke (Dopey Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

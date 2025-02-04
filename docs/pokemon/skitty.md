@@ -1,4 +1,4 @@
-# Skitty (Kitten Pokémon)
+# #300 Skitty (Kitten Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

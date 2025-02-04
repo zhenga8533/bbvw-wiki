@@ -1,4 +1,4 @@
-# Magneton (Magnet Pokémon)
+# #082 Magneton (Magnet Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

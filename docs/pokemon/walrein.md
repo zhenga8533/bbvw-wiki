@@ -1,4 +1,4 @@
-# Walrein (Ice Break Pokémon)
+# #365 Walrein (Ice Break Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

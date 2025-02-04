@@ -1,4 +1,4 @@
-# Natu (Tiny Bird Pokémon)
+# #177 Natu (Tiny Bird Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

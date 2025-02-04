@@ -1,4 +1,4 @@
-# Scrafty (Hoodlum Pokémon)
+# #560 Scrafty (Hoodlum Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

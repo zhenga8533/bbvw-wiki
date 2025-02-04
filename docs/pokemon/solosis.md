@@ -1,4 +1,4 @@
-# Solosis (Cell Pokémon)
+# #577 Solosis (Cell Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

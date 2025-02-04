@@ -1,4 +1,4 @@
-# Oddish (Weed Pokémon)
+# #043 Oddish (Weed Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

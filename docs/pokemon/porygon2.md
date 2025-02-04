@@ -1,4 +1,4 @@
-# Porygon2 (Virtual Pokémon)
+# #233 Porygon2 (Virtual Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

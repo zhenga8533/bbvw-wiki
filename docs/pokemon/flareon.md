@@ -1,4 +1,4 @@
-# Flareon (Flame Pokémon)
+# #136 Flareon (Flame Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

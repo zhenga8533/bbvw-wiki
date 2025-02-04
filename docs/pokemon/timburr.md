@@ -1,4 +1,4 @@
-# Timburr (Muscular Pokémon)
+# #532 Timburr (Muscular Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

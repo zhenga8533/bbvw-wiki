@@ -1,4 +1,4 @@
-# Skiploom (Cottonweed Pokémon)
+# #188 Skiploom (Cottonweed Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

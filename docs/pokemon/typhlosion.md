@@ -1,4 +1,4 @@
-# Typhlosion (Volcano Pokémon)
+# #157 Typhlosion (Volcano Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Pikachu (Mouse Pokémon)
+# #025 Pikachu (Mouse Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

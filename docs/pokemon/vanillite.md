@@ -1,4 +1,4 @@
-# Vanillite (Fresh Snow Pokémon)
+# #582 Vanillite (Fresh Snow Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

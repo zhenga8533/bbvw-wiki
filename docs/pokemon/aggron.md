@@ -1,4 +1,4 @@
-# Aggron (Iron Armor Pokémon)
+# #306 Aggron (Iron Armor Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

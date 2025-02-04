@@ -1,4 +1,4 @@
-# Mismagius (Magical Pokémon)
+# #429 Mismagius (Magical Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Haxorus (Axe Jaw Pokémon)
+# #612 Haxorus (Axe Jaw Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

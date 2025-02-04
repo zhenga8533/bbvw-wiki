@@ -1,4 +1,4 @@
-# Nincada (Trainee Pokémon)
+# #290 Nincada (Trainee Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

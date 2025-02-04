@@ -1,4 +1,4 @@
-# Clamperl (Bivalve Pokémon)
+# #366 Clamperl (Bivalve Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

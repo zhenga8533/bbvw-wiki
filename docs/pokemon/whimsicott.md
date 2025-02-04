@@ -1,4 +1,4 @@
-# Whimsicott (Windveiled Pokémon)
+# #547 Whimsicott (Windveiled Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

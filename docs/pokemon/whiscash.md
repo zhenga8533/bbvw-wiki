@@ -1,4 +1,4 @@
-# Whiscash (Whiskers Pokémon)
+# #340 Whiscash (Whiskers Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

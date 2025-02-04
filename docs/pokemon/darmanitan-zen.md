@@ -1,4 +1,4 @@
-# #10017 Darmanitan Zen (Blazing Pokémon)
+# Darmanitan Zen (Blazing Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

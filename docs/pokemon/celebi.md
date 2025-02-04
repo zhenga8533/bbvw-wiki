@@ -1,4 +1,4 @@
-# Celebi (Time Travel Pokémon)
+# #251 Celebi (Time Travel Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

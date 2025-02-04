@@ -1,4 +1,4 @@
-# Combusken (Young Fowl Pokémon)
+# #256 Combusken (Young Fowl Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Woobat (Bat Pokémon)
+# #527 Woobat (Bat Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

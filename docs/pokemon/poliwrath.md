@@ -1,4 +1,4 @@
-# Poliwrath (Tadpole Pokémon)
+# #062 Poliwrath (Tadpole Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

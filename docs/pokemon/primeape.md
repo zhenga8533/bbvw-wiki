@@ -1,4 +1,4 @@
-# Primeape (Pig Monkey Pokémon)
+# #057 Primeape (Pig Monkey Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

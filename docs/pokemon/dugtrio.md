@@ -1,4 +1,4 @@
-# Dugtrio (Mole Pokémon)
+# #051 Dugtrio (Mole Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

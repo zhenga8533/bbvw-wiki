@@ -1,4 +1,4 @@
-# Fearow (Beak Pokémon)
+# #022 Fearow (Beak Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Politoed (Frog Pokémon)
+# #186 Politoed (Frog Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

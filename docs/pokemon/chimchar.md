@@ -1,4 +1,4 @@
-# Chimchar (Chimp Pokémon)
+# #390 Chimchar (Chimp Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

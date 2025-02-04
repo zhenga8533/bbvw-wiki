@@ -1,4 +1,4 @@
-# Heracross (Single Horn Pokémon)
+# #214 Heracross (Single Horn Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

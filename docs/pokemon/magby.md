@@ -1,4 +1,4 @@
-# Magby (Live Coal Pokémon)
+# #240 Magby (Live Coal Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

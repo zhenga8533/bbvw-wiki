@@ -1,4 +1,4 @@
-# Heatran (Lava Dome Pokémon)
+# #485 Heatran (Lava Dome Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

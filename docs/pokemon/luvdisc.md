@@ -1,4 +1,4 @@
-# Luvdisc (Rendezvous Pokémon)
+# #370 Luvdisc (Rendezvous Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

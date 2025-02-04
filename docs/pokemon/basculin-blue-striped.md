@@ -1,4 +1,4 @@
-# #10016 Basculin Blue Striped (Hostile Pokémon)
+# Basculin Blue Striped (Hostile Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

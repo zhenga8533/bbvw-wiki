@@ -1,4 +1,4 @@
-# Snorlax (Sleeping Pokémon)
+# #143 Snorlax (Sleeping Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

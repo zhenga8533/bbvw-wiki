@@ -1,4 +1,4 @@
-# Omastar (Spiral Pokémon)
+# #139 Omastar (Spiral Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

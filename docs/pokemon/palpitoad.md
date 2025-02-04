@@ -1,4 +1,4 @@
-# Palpitoad (Vibration Pokémon)
+# #536 Palpitoad (Vibration Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

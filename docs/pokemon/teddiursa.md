@@ -1,4 +1,4 @@
-# Teddiursa (Little Bear Pokémon)
+# #216 Teddiursa (Little Bear Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

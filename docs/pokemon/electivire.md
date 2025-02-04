@@ -1,4 +1,4 @@
-# Electivire (Thunderbolt Pokémon)
+# #466 Electivire (Thunderbolt Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

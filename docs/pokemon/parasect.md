@@ -1,4 +1,4 @@
-# Parasect (Mushroom Pokémon)
+# #047 Parasect (Mushroom Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

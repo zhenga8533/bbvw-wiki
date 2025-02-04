@@ -1,4 +1,4 @@
-# Samurott (Formidable Pokémon)
+# #503 Samurott (Formidable Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

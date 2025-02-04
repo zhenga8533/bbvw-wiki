@@ -1,4 +1,4 @@
-# Minccino (Chinchilla Pokémon)
+# #572 Minccino (Chinchilla Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

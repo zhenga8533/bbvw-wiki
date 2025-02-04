@@ -1,4 +1,4 @@
-# Chansey (Egg Pokémon)
+# #113 Chansey (Egg Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

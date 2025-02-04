@@ -1,4 +1,4 @@
-# Roselia (Thorn Pokémon)
+# #315 Roselia (Thorn Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

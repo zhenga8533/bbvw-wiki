@@ -1,4 +1,4 @@
-# Weedle (Hairy Bug Pokémon)
+# #013 Weedle (Hairy Bug Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

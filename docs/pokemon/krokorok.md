@@ -1,4 +1,4 @@
-# Krokorok (Desert Croc Pokémon)
+# #552 Krokorok (Desert Croc Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

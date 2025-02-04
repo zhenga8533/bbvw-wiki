@@ -1,4 +1,4 @@
-# Magmar (Spitfire Pokémon)
+# #126 Magmar (Spitfire Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

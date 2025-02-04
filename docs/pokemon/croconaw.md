@@ -1,4 +1,4 @@
-# Croconaw (Big Jaw Pokémon)
+# #159 Croconaw (Big Jaw Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

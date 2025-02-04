@@ -1,4 +1,4 @@
-# Litwick (Candle Pokémon)
+# #607 Litwick (Candle Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

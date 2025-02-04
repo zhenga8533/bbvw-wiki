@@ -1,4 +1,4 @@
-# Gligar (Fly Scorpion Pokémon)
+# #207 Gligar (Fly Scorpion Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Aron (Iron Armor Pokémon)
+# #304 Aron (Iron Armor Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

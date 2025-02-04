@@ -1,4 +1,4 @@
-# Pinsir (Stag Beetle Pokémon)
+# #127 Pinsir (Stag Beetle Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

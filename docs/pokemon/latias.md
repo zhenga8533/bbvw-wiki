@@ -1,4 +1,4 @@
-# Latias (Eon Pokémon)
+# #380 Latias (Eon Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

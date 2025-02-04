@@ -1,4 +1,4 @@
-# Thundurus Incarnate (Bolt Strike Pokémon)
+# #642 Thundurus Incarnate (Bolt Strike Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

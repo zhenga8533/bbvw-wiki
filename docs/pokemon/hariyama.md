@@ -1,4 +1,4 @@
-# Hariyama (Arm Thrust Pokémon)
+# #297 Hariyama (Arm Thrust Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

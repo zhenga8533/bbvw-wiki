@@ -1,4 +1,4 @@
-# Articuno (Freeze Pokémon)
+# #144 Articuno (Freeze Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

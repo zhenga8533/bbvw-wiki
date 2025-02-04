@@ -1,4 +1,4 @@
-# Heatmor (Anteater Pokémon)
+# #631 Heatmor (Anteater Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

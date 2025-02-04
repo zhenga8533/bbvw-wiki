@@ -1,4 +1,4 @@
-# Wailord (Float Whale Pokémon)
+# #321 Wailord (Float Whale Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

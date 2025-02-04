@@ -1,4 +1,4 @@
-# Dialga (Temporal Pokémon)
+# #483 Dialga (Temporal Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

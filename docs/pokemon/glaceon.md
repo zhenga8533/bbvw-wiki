@@ -1,4 +1,4 @@
-# Glaceon (Fresh Snow Pokémon)
+# #471 Glaceon (Fresh Snow Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

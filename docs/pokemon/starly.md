@@ -1,4 +1,4 @@
-# Starly (Starling Pokémon)
+# #396 Starly (Starling Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

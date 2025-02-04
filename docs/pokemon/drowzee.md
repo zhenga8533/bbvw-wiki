@@ -1,4 +1,4 @@
-# Drowzee (Hypnosis Pokémon)
+# #096 Drowzee (Hypnosis Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

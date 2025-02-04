@@ -1,4 +1,4 @@
-# Farfetchd (Wild Duck Pokémon)
+# #083 Farfetchd (Wild Duck Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

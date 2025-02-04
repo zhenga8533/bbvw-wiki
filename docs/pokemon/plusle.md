@@ -1,4 +1,4 @@
-# Plusle (Cheering Pokémon)
+# #311 Plusle (Cheering Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

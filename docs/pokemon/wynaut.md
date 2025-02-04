@@ -1,4 +1,4 @@
-# Wynaut (Bright Pokémon)
+# #360 Wynaut (Bright Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

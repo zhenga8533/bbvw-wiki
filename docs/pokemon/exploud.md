@@ -1,4 +1,4 @@
-# Exploud (Loud Noise Pokémon)
+# #295 Exploud (Loud Noise Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

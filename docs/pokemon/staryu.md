@@ -1,4 +1,4 @@
-# Staryu (Star Shape Pokémon)
+# #120 Staryu (Star Shape Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

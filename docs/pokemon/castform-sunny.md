@@ -1,4 +1,4 @@
-# #10013 Castform Sunny (Weather Pokémon)
+# Castform Sunny (Weather Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

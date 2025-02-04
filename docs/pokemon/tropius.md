@@ -1,4 +1,4 @@
-# Tropius (Fruit Pokémon)
+# #357 Tropius (Fruit Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

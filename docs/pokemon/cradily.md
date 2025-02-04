@@ -1,4 +1,4 @@
-# Cradily (Barnacle Pokémon)
+# #346 Cradily (Barnacle Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

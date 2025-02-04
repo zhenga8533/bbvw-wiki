@@ -1,4 +1,4 @@
-# Trubbish (Trash Bag Pokémon)
+# #568 Trubbish (Trash Bag Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

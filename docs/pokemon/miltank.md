@@ -1,4 +1,4 @@
-# Miltank (Milk Cow Pokémon)
+# #241 Miltank (Milk Cow Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

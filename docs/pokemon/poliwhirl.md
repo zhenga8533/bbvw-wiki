@@ -1,4 +1,4 @@
-# Poliwhirl (Tadpole Pokémon)
+# #061 Poliwhirl (Tadpole Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

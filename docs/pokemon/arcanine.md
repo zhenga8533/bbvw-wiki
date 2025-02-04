@@ -1,4 +1,4 @@
-# Arcanine (Legendary Pokémon)
+# #059 Arcanine (Legendary Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Treecko (Wood Gecko Pokémon)
+# #252 Treecko (Wood Gecko Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

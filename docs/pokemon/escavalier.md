@@ -1,4 +1,4 @@
-# Escavalier (Cavalry Pokémon)
+# #589 Escavalier (Cavalry Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

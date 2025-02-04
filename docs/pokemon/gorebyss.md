@@ -1,4 +1,4 @@
-# Gorebyss (South Sea Pokémon)
+# #368 Gorebyss (South Sea Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Mienshao (Martial Arts Pokémon)
+# #620 Mienshao (Martial Arts Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

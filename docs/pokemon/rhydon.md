@@ -1,4 +1,4 @@
-# Rhydon (Drill Pokémon)
+# #112 Rhydon (Drill Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

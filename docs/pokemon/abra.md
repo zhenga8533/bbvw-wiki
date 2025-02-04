@@ -1,4 +1,4 @@
-# Abra (Psi Pokémon)
+# #063 Abra (Psi Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

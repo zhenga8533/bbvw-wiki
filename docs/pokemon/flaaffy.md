@@ -1,4 +1,4 @@
-# Flaaffy (Wool Pokémon)
+# #180 Flaaffy (Wool Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

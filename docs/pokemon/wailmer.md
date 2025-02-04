@@ -1,4 +1,4 @@
-# Wailmer (Ball Whale Pokémon)
+# #320 Wailmer (Ball Whale Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

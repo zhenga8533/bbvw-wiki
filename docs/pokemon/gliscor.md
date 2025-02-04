@@ -1,4 +1,4 @@
-# Gliscor (Fang Scorpion Pokémon)
+# #472 Gliscor (Fang Scorpion Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

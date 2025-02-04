@@ -1,4 +1,4 @@
-# Doduo (Twin Bird Pokémon)
+# #084 Doduo (Twin Bird Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

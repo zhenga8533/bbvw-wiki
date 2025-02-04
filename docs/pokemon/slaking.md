@@ -1,4 +1,4 @@
-# Slaking (Lazy Pokémon)
+# #289 Slaking (Lazy Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

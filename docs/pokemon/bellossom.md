@@ -1,4 +1,4 @@
-# Bellossom (Flower Pokémon)
+# #182 Bellossom (Flower Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

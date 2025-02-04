@@ -1,4 +1,4 @@
-# Wurmple (Worm Pokémon)
+# #265 Wurmple (Worm Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

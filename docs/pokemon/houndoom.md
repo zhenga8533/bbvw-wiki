@@ -1,4 +1,4 @@
-# Houndoom (Dark Pokémon)
+# #229 Houndoom (Dark Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

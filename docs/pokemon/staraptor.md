@@ -1,4 +1,4 @@
-# Staraptor (Predator Pokémon)
+# #398 Staraptor (Predator Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

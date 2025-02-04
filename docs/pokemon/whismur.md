@@ -1,4 +1,4 @@
-# Whismur (Whisper Pokémon)
+# #293 Whismur (Whisper Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

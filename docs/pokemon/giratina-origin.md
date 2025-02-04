@@ -1,4 +1,4 @@
-# #10007 Giratina Origin (Renegade Pokémon)
+# Giratina Origin (Renegade Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

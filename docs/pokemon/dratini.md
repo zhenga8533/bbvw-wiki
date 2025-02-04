@@ -1,4 +1,4 @@
-# Dratini (Dragon Pokémon)
+# #147 Dratini (Dragon Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

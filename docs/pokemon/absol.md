@@ -1,4 +1,4 @@
-# Absol (Disaster Pokémon)
+# #359 Absol (Disaster Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

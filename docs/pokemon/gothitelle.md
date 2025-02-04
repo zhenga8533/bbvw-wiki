@@ -1,4 +1,4 @@
-# Gothitelle (Astral Body Pokémon)
+# #576 Gothitelle (Astral Body Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Zebstrika (Thunderbolt Pokémon)
+# #523 Zebstrika (Thunderbolt Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

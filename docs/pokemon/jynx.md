@@ -1,4 +1,4 @@
-# Jynx (Human Shape Pokémon)
+# #124 Jynx (Human Shape Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

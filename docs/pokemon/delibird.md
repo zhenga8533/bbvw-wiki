@@ -1,4 +1,4 @@
-# Delibird (Delivery Pokémon)
+# #225 Delibird (Delivery Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Krabby (River Crab Pokémon)
+# #098 Krabby (River Crab Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

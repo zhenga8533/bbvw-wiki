@@ -1,4 +1,4 @@
-# Relicanth (Longevity Pokémon)
+# #369 Relicanth (Longevity Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

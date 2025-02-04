@@ -1,4 +1,4 @@
-# Spiritomb (Forbidden Pokémon)
+# #442 Spiritomb (Forbidden Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Delcatty (Prim Pokémon)
+# #301 Delcatty (Prim Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

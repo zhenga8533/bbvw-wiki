@@ -1,4 +1,4 @@
-# Sawsbuck (Season Pokémon)
+# #586 Sawsbuck (Season Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

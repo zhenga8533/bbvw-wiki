@@ -1,4 +1,4 @@
-# Aerodactyl (Fossil Pokémon)
+# #142 Aerodactyl (Fossil Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

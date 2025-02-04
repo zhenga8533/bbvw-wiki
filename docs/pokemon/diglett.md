@@ -1,4 +1,4 @@
-# Diglett (Mole Pokémon)
+# #050 Diglett (Mole Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

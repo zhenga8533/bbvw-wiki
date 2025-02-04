@@ -1,4 +1,4 @@
-# Basculin Red Striped (Hostile Pokémon)
+# #550 Basculin Red Striped (Hostile Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

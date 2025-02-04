@@ -1,4 +1,4 @@
-# Piplup (Penguin Pokémon)
+# #393 Piplup (Penguin Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

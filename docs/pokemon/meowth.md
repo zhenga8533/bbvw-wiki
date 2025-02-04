@@ -1,4 +1,4 @@
-# Meowth (Scratch Cat Pokémon)
+# #052 Meowth (Scratch Cat Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# #10015 Castform Snowy (Weather Pokémon)
+# Castform Snowy (Weather Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

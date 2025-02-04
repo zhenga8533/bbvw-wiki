@@ -1,4 +1,4 @@
-# Shedinja (Shed Pokémon)
+# #292 Shedinja (Shed Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

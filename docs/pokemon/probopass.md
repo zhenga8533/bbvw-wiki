@@ -1,4 +1,4 @@
-# Probopass (Compass Pokémon)
+# #476 Probopass (Compass Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

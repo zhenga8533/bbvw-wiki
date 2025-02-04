@@ -1,4 +1,4 @@
-# #10011 Rotom Fan (Plasma Pokémon)
+# Rotom Fan (Plasma Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

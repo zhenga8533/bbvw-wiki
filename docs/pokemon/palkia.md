@@ -1,4 +1,4 @@
-# Palkia (Spatial Pokémon)
+# #484 Palkia (Spatial Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

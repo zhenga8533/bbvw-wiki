@@ -1,4 +1,4 @@
-# Drilbur (Mole Pokémon)
+# #529 Drilbur (Mole Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

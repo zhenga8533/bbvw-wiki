@@ -1,4 +1,4 @@
-# Slugma (Lava Pokémon)
+# #218 Slugma (Lava Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

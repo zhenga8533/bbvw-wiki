@@ -1,4 +1,4 @@
-# Tyrogue (Scuffle Pokémon)
+# #236 Tyrogue (Scuffle Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

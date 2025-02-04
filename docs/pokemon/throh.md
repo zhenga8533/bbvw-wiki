@@ -1,4 +1,4 @@
-# Throh (Judo Pokémon)
+# #538 Throh (Judo Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

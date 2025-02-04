@@ -1,4 +1,4 @@
-# Milotic (Tender Pokémon)
+# #350 Milotic (Tender Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

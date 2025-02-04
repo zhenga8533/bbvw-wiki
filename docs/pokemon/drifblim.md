@@ -1,4 +1,4 @@
-# Drifblim (Blimp Pokémon)
+# #426 Drifblim (Blimp Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Nidoking (Drill Pokémon)
+# #034 Nidoking (Drill Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Ho Oh (Rainbow Pokémon)
+# #250 Ho Oh (Rainbow Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

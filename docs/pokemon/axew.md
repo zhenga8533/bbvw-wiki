@@ -1,4 +1,4 @@
-# Axew (Tusk Pokémon)
+# #610 Axew (Tusk Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

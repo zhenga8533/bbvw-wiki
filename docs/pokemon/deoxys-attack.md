@@ -1,4 +1,4 @@
-# #10001 Deoxys Attack (DNA Pokémon)
+# Deoxys Attack (DNA Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

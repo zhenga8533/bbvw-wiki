@@ -1,4 +1,4 @@
-# Beheeyem (Cerebral Pokémon)
+# #606 Beheeyem (Cerebral Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

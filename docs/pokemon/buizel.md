@@ -1,4 +1,4 @@
-# Buizel (Sea Weasel Pokémon)
+# #418 Buizel (Sea Weasel Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

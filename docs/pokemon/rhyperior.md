@@ -1,4 +1,4 @@
-# Rhyperior (Drill Pokémon)
+# #464 Rhyperior (Drill Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

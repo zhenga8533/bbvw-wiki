@@ -1,4 +1,4 @@
-# Boldore (Ore Pokémon)
+# #525 Boldore (Ore Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

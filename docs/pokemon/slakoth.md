@@ -1,4 +1,4 @@
-# Slakoth (Slacker Pokémon)
+# #287 Slakoth (Slacker Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

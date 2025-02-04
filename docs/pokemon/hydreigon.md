@@ -1,4 +1,4 @@
-# Hydreigon (Brutal Pokémon)
+# #635 Hydreigon (Brutal Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

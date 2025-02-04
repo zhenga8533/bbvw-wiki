@@ -1,4 +1,4 @@
-# Seedot (Acorn Pokémon)
+# #273 Seedot (Acorn Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

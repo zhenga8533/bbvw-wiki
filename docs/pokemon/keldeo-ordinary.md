@@ -1,4 +1,4 @@
-# Keldeo Ordinary (Colt Pokémon)
+# #647 Keldeo Ordinary (Colt Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Finneon (Wing Fish Pokémon)
+# #456 Finneon (Wing Fish Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

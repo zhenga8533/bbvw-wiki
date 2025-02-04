@@ -1,4 +1,4 @@
-# Wingull (Seagull Pokémon)
+# #278 Wingull (Seagull Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# #10002 Deoxys Defense (DNA Pokémon)
+# Deoxys Defense (DNA Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

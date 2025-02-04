@@ -1,4 +1,4 @@
-# Remoraid (Jet Pokémon)
+# #223 Remoraid (Jet Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

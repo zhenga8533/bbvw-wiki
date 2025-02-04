@@ -1,4 +1,4 @@
-# Bronzor (Bronze Pokémon)
+# #436 Bronzor (Bronze Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

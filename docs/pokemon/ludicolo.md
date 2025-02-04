@@ -1,4 +1,4 @@
-# Ludicolo (Carefree Pokémon)
+# #272 Ludicolo (Carefree Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

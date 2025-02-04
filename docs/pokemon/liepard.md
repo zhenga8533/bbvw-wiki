@@ -1,4 +1,4 @@
-# Liepard (Cruel Pokémon)
+# #510 Liepard (Cruel Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

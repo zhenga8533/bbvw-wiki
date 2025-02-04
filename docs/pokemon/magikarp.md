@@ -1,4 +1,4 @@
-# Magikarp (Fish Pokémon)
+# #129 Magikarp (Fish Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

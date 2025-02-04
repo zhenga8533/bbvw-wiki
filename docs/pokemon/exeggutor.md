@@ -1,4 +1,4 @@
-# Exeggutor (Coconut Pokémon)
+# #103 Exeggutor (Coconut Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

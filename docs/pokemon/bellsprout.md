@@ -1,4 +1,4 @@
-# Bellsprout (Flower Pokémon)
+# #069 Bellsprout (Flower Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Barboach (Whiskers Pokémon)
+# #339 Barboach (Whiskers Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Nidoqueen (Drill Pokémon)
+# #031 Nidoqueen (Drill Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

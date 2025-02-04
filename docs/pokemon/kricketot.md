@@ -1,4 +1,4 @@
-# Kricketot (Cricket Pokémon)
+# #401 Kricketot (Cricket Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

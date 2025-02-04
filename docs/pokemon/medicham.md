@@ -1,4 +1,4 @@
-# Medicham (Meditate Pokémon)
+# #308 Medicham (Meditate Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

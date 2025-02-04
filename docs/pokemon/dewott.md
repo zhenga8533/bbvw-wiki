@@ -1,4 +1,4 @@
-# Dewott (Discipline Pokémon)
+# #502 Dewott (Discipline Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

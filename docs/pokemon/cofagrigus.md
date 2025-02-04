@@ -1,4 +1,4 @@
-# Cofagrigus (Coffin Pokémon)
+# #563 Cofagrigus (Coffin Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Steelix (Iron Snake Pokémon)
+# #208 Steelix (Iron Snake Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

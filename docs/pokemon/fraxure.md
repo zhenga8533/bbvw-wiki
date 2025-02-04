@@ -1,4 +1,4 @@
-# Fraxure (Axe Jaw Pokémon)
+# #611 Fraxure (Axe Jaw Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

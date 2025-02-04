@@ -1,4 +1,4 @@
-# #10024 Keldeo Resolute (Colt Pokémon)
+# Keldeo Resolute (Colt Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

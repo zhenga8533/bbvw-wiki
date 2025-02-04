@@ -1,4 +1,4 @@
-# Metagross (Iron Leg Pokémon)
+# #376 Metagross (Iron Leg Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

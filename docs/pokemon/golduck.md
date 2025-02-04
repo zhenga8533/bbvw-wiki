@@ -1,4 +1,4 @@
-# Golduck (Duck Pokémon)
+# #055 Golduck (Duck Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

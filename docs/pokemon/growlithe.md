@@ -1,4 +1,4 @@
-# Growlithe (Puppy Pokémon)
+# #058 Growlithe (Puppy Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

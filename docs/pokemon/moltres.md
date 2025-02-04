@@ -1,4 +1,4 @@
-# Moltres (Flame Pokémon)
+# #146 Moltres (Flame Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

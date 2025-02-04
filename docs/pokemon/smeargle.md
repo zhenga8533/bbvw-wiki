@@ -1,4 +1,4 @@
-# Smeargle (Painter Pokémon)
+# #235 Smeargle (Painter Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

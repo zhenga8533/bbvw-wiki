@@ -1,4 +1,4 @@
-# Lotad (Water Weed Pokémon)
+# #270 Lotad (Water Weed Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

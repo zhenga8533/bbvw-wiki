@@ -1,4 +1,4 @@
-# Kabuto (Shellfish Pokémon)
+# #140 Kabuto (Shellfish Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

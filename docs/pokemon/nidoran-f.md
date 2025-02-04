@@ -1,4 +1,4 @@
-# Nidoran F (Poison Pin Pokémon)
+# #029 Nidoran F (Poison Pin Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

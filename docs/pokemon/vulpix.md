@@ -1,4 +1,4 @@
-# Vulpix (Fox Pokémon)
+# #037 Vulpix (Fox Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Tympole (Tadpole Pokémon)
+# #535 Tympole (Tadpole Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

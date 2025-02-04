@@ -226,7 +226,7 @@ def to_md(pokemon: dict, pokemon_set: dict, move_path: str, logger: Logger) -> s
     pokemon_id = pokemon["id"]
     md = (
         f"# {pokemon_name} ({pokemon['genus']})\n\n"
-        if pokemon_id < 10000
+        if pokemon_id > 10000
         else f"# #{pokemon_id:03} {pokemon_name} ({pokemon['genus']})\n\n"
     )
 

@@ -1,4 +1,4 @@
-# Slowking (Royal Pokémon)
+# #199 Slowking (Royal Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

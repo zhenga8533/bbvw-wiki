@@ -1,4 +1,4 @@
-# Ninjask (Ninja Pokémon)
+# #291 Ninjask (Ninja Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Rapidash (Fire Horse Pokémon)
+# #078 Rapidash (Fire Horse Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Darmanitan Standard (Blazing Pokémon)
+# #555 Darmanitan Standard (Blazing Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

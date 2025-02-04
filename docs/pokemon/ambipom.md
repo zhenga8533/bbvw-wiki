@@ -1,4 +1,4 @@
-# Ambipom (Long Tail Pokémon)
+# #424 Ambipom (Long Tail Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

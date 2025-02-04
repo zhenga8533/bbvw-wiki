@@ -1,4 +1,4 @@
-# Golett (Automaton Pokémon)
+# #622 Golett (Automaton Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

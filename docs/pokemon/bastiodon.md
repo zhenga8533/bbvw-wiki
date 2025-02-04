@@ -1,4 +1,4 @@
-# Bastiodon (Shield Pokémon)
+# #411 Bastiodon (Shield Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

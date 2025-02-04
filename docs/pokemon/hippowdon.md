@@ -1,4 +1,4 @@
-# Hippowdon (Heavyweight Pokémon)
+# #450 Hippowdon (Heavyweight Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

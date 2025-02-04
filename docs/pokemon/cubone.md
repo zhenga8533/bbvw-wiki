@@ -1,4 +1,4 @@
-# Cubone (Lonely Pokémon)
+# #104 Cubone (Lonely Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

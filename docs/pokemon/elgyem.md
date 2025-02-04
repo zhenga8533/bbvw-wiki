@@ -1,4 +1,4 @@
-# Elgyem (Cerebral Pokémon)
+# #605 Elgyem (Cerebral Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

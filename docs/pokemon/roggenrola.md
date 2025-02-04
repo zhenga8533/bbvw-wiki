@@ -1,4 +1,4 @@
-# Roggenrola (Mantle Pokémon)
+# #524 Roggenrola (Mantle Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

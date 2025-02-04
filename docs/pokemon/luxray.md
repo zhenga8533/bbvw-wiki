@@ -1,4 +1,4 @@
-# Luxray (Gleam Eyes Pokémon)
+# #405 Luxray (Gleam Eyes Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |

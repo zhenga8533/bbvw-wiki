@@ -1,4 +1,4 @@
-# Mightyena (Bite Pokémon)
+# #262 Mightyena (Bite Pokémon)
 
 | Official Artwork | Shiny Artwork |
 | --- | --- |
