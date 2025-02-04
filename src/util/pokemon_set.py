@@ -56,12 +56,11 @@ class PokemonSet:
         # Item tooltip
         table += f"**Item:** "
         if self.item == "-":
-            table += f"No Item"
+            table += f"No Item<br>"
         else:
             item_data = get_item(self.item)
             item_effect = item_data["flavor_text_entries"].get("black-white", item_data["effect"]).replace("\n", " ")
             table += f'<span class="tooltip" title="{item_effect}">{self.item}</span><br>'
-        table += "<br>"
 
         # Ability tooltip
         table += f"**Ability:** "
@@ -73,7 +72,6 @@ class PokemonSet:
                 ability_data["flavor_text_entries"].get("black-white", ability_data["effect"]).replace("\n", " ")
             )
             table += f'<span class="tooltip" title="{ability_effect}">{self.ability_reg}</span> | '
-        table += "<br>"
 
         # Move tooltips
         for i, move in enumerate([self.move_1, self.move_2, self.move_3, self.move_4]):
