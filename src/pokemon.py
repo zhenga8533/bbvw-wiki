@@ -2,6 +2,7 @@ from dotenv import load_dotenv
 from util.file import load, save, verify_asset_path
 from util.format import create_image_table, format_id, revert_id, verify_pokemon_form
 from util.logger import Logger
+from util.move import get_move
 import glob
 import json
 import logging
@@ -166,7 +167,7 @@ def parse_stats(stats: dict) -> str:
     return md
 
 
-def parse_moves(moves: list, headers: list, move_key: str, logger: Logger) -> str:
+def parse_moves(moves: list, headers: list, move_key: str) -> str:
     """
     Parse the moves for a Pokémon.
 
@@ -177,8 +178,6 @@ def parse_moves(moves: list, headers: list, move_key: str, logger: Logger) -> st
     :return: The parsed moves.
     """
 
-    MOVE_INPUT_PATH = os.getenv("MOVE_INPUT_PATH")
-
     md_header = f"| {' | '.join(headers).strip()} |"
     md_separator = f"| {' | '.join(['---'] * len(headers)).strip()} |"
     md_body = ""
@@ -187,7 +186,7 @@ def parse_moves(moves: list, headers: list, move_key: str, logger: Logger) -> st
     # Parse each move into Markdown table format
     for move in moves:
         move_id = format_id(move["name"])
-        move_data = json.loads(load(f"{MOVE_INPUT_PATH + move_id}.json", logger))
+        move_data = get_move(move_id)
         for category in headers:
             if category == "Lv.":
                 md_body += f"| {move['level_learned_at']} "
@@ -210,12 +209,13 @@ def parse_moves(moves: list, headers: list, move_key: str, logger: Logger) -> st
     return f"{md_header}\n{md_separator}\n{md_body}\n"
 
 
-def to_md(pokemon: dict, pokemon_set: dict, logger: Logger) -> str:
+def to_md(pokemon: dict, pokemon_set: dict, move_path: str, logger: Logger) -> str:
     """
     Convert Pokémon data to a readable Markdown format.
 
     :param pokemon: The Pokémon data to convert.
     :param pokemon_set: The set of valid Pokémon names.
+    :param move_path: The path to the move data.
     :param logger: The logger to use.
     :return: The Pokémon data in Markdown format.
     """
@@ -400,7 +400,7 @@ def to_md(pokemon: dict, pokemon_set: dict, logger: Logger) -> str:
         md += f"{pokemon_name} cannot learn any moves by leveling up.\n"
     else:
         level_up_moves.sort(key=lambda x: (x["level_learned_at"], x["name"]))
-        md += parse_moves(level_up_moves, ["Lv.", "Move", "Type", "Cat.", "Power", "Acc.", "PP"], move_key, logger)
+        md += parse_moves(level_up_moves, ["Lv.", "Move", "Type", "Cat.", "Power", "Acc.", "PP"], move_key)
 
     # TM Moves
     md += "### TM Moves\n\n"
@@ -409,24 +409,24 @@ def to_md(pokemon: dict, pokemon_set: dict, logger: Logger) -> str:
     else:
         tm_moves_data = []
         for move in tm_moves:
-            move_data = json.loads(load(f"moves/{move['name']}.json", logger))
+            move_data = get_move(move["name"])
             tm_moves_data.append(move_data)
         tm_moves_data.sort(key=lambda x: x["machines"][move_key])
-        md += parse_moves(tm_moves_data, ["TM", "Move", "Type", "Cat.", "Power", "Acc.", "PP"], move_key, logger)
+        md += parse_moves(tm_moves_data, ["TM", "Move", "Type", "Cat.", "Power", "Acc.", "PP"], move_key)
 
     # Egg Moves
     md += "### Egg Moves\n\n"
     if len(egg_moves) == 0:
         md += f"{pokemon_name} cannot learn any moves by breeding.\n"
     else:
-        md += parse_moves(egg_moves, ["Move", "Type", "Cat.", "Power", "Acc.", "PP"], move_key, logger)
+        md += parse_moves(egg_moves, ["Move", "Type", "Cat.", "Power", "Acc.", "PP"], move_key)
 
     # Tutor Moves
     md += "### Tutor Moves\n\n"
     if len(tutor_moves) == 0:
         md += f"{pokemon_name} cannot learn any moves from tutors.\n"
     else:
-        md += parse_moves(tutor_moves, ["Move", "Type", "Cat.", "Power", "Acc.", "PP"], move_key, logger)
+        md += parse_moves(tutor_moves, ["Move", "Type", "Cat.", "Power", "Acc.", "PP"], move_key)
 
     return md
 
@@ -446,6 +446,7 @@ def main():
     OUTPUT_PATH = os.getenv("OUTPUT_PATH")
     POKEMON_INPUT_PATH = os.getenv("POKEMON_INPUT_PATH")
     POKEMON_PATH = os.getenv("POKEMON_PATH")
+    MOVE_INPUT_PATH = os.getenv("MOVE_INPUT_PATH")
     logger = Logger("Pokémon Parser", f"{LOG_PATH}pokemon.log", LOG)
 
     # Fetch Pokémon data from PokéAPI
@@ -519,7 +520,7 @@ def main():
             if form_name not in pokemon_set:
                 continue
 
-            md = to_md(data, pokemon_set, logger)
+            md = to_md(data, pokemon_set, MOVE_INPUT_PATH, logger)
             save(f"{POKEMON_PATH + data['name']}.md", md, logger)
 
 
