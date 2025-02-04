@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #481 | ![psychic](../assets/types/psychic.png){: width='48'} | 0.3 m | 0.3 kg | 1. Levitate | N/A |
+| #481 | ![psychic](../assets/types/psychic.png){: width='48'} ![fairy](../assets/types/fairy.png){: width='48'} | 0.3 m | 0.3 kg | 1. Levitate | N/A |
 
 ---
 

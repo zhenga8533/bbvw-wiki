@@ -2,6 +2,7 @@ from dotenv import load_dotenv
 from util.file import load, save
 from util.format import format_id
 from util.logger import Logger
+from util.move import get_move
 import glob
 import json
 import logging
@@ -74,7 +75,7 @@ def main():
 
                 try:
                     move_path = f"{MOVE_INPUT_PATH + move_name}.json"
-                    move_data = json.loads(load(move_path, logger))
+                    move_data = get_move(move_name)
                     move_data["power"] = int(power)
                     save(move_path, json.dumps(move_data, indent=4), logger)
                 except:

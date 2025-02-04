@@ -38,16 +38,16 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #38 | ![fire](../assets/types/fire.png){: width='48'} | 1.1 m | 19.9 kg | 1. Flash-Fire<br>2. Drought | N/A |
+| #38 | ![fire](../assets/types/fire.png){: width='48'} ![fairy](../assets/types/fairy.png){: width='48'} | 1.1 m | 19.9 kg | 1. Flash-Fire<br>2. Drought | N/A |
 
 ---
 
 ## Base Stats
 |   | HP | Attack | Defense | Sp. Atk | Sp. Def | Speed |
 |---|----|--------|---------|---------|---------|-------|
-| **Base** | 73 | 76 | 75 | 81 | 100 | 100 |
-| **Min** | 256 | 141 | 139 | 150 | 184 | 184 |
-| **Max** | 350 | 276 | 273 | 287 | 328 | 328 |
+| **Base** | 73 | 67 | 75 | 81 | 100 | 109 |
+| **Min** | 256 | 125 | 139 | 150 | 184 | 200 |
+| **Max** | 350 | 256 | 273 | 287 | 328 | 348 |
 
 The ranges shown above are for a level 100 Pokémon. Maximum values are based on a beneficial nature, 252 EVs, 31 IVs; minimum values are based on a hindering nature, 0 EVs, 0 IVs.
 

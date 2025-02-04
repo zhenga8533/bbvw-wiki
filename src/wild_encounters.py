@@ -17,6 +17,7 @@ def main():
     load_dotenv()
     OUTPUT_PATH = os.getenv("OUTPUT_PATH")
     WILD_ENCOUNTER_PATH = os.getenv("WILD_ENCOUNTER_PATH")
+    NAV_OUTPUT_PATH = os.getenv("NAV_OUTPUT_PATH")
     LOG = os.getenv("LOG")
     LOG_PATH = os.getenv("LOG_PATH")
     logger = Logger("Wild Encounters", f"{LOG_PATH}wild_encounters.log", LOG)
@@ -110,7 +111,7 @@ def main():
             category = revert_id(file_name.split(".")[0], symbol="_")
             nav += f"          - {category}: {dirpath}/{file_name}\n"
 
-    save(f"{OUTPUT_PATH}wild_nav.md", nav, logger)
+    save(f"{NAV_OUTPUT_PATH}wild_nav.md", nav, logger)
 
 
 if __name__ == "__main__":

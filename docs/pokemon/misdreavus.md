@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #200 | ![ghost](../assets/types/ghost.png){: width='48'} | 0.7 m | 1.0 kg | 1. Levitate | N/A |
+| #200 | ![ghost](../assets/types/ghost.png){: width='48'} ![fairy](../assets/types/fairy.png){: width='48'} | 0.7 m | 1.0 kg | 1. Levitate | N/A |
 
 ---
 

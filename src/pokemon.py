@@ -447,6 +447,7 @@ def main():
     POKEMON_INPUT_PATH = os.getenv("POKEMON_INPUT_PATH")
     POKEMON_PATH = os.getenv("POKEMON_PATH")
     MOVE_INPUT_PATH = os.getenv("MOVE_INPUT_PATH")
+    NAV_OUTPUT_PATH = os.getenv("NAV_OUTPUT_PATH")
     logger = Logger("Pokémon Parser", f"{LOG_PATH}pokemon.log", LOG)
 
     # Fetch Pokémon data from PokéAPI
@@ -505,7 +506,7 @@ def main():
         nav += f"          - {clean_name}: {POKEMON_PATH + name}.md\n"
 
     logger.log(logging.INFO, "Successfully generated Pokémon navigation")
-    save(f"{OUTPUT_PATH}pokemon_nav.md", nav, logger)
+    save(f"{NAV_OUTPUT_PATH}pokemon_nav.md", nav, logger)
 
     # Generate markdown files for each Pokémon
     logger.log(logging.INFO, "Generating markdown files for each Pokémon")

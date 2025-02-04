@@ -38,16 +38,16 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #333 | ![normal](../assets/types/normal.png){: width='48'} ![flying](../assets/types/flying.png){: width='48'} | 0.4 m | 1.2 kg | 1. Natural-Cure<br>2. Cloud-Nine | N/A |
+| #333 | ![fairy](../assets/types/fairy.png){: width='48'} ![flying](../assets/types/flying.png){: width='48'} | 0.4 m | 1.2 kg | 1. Natural-Cure<br>2. Cloud-Nine | N/A |
 
 ---
 
 ## Base Stats
 |   | HP | Attack | Defense | Sp. Atk | Sp. Def | Speed |
 |---|----|--------|---------|---------|---------|-------|
-| **Base** | 45 | 40 | 60 | 40 | 75 | 50 |
-| **Min** | 200 | 76 | 112 | 76 | 139 | 94 |
-| **Max** | 294 | 196 | 240 | 196 | 273 | 218 |
+| **Base** | 45 | 60 | 60 | 60 | 75 | 50 |
+| **Min** | 200 | 112 | 112 | 112 | 139 | 94 |
+| **Max** | 294 | 240 | 240 | 240 | 273 | 218 |
 
 The ranges shown above are for a level 100 Pokémon. Maximum values are based on a beneficial nature, 252 EVs, 31 IVs; minimum values are based on a hindering nature, 0 EVs, 0 IVs.
 
@@ -119,7 +119,7 @@ Swablu has no alternate forms.
 
 | TM | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| HM02 | Fly | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 90 | 95 | 15 |
+| HM02 | Fly | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100% | 15 |
 | TM06 | Toxic | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 10 |
 | TM10 | Hidden Power | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 15 |
 | TM11 | Sunny Day | ![fire](../assets/types/fire.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |

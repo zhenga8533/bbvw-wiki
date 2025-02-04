@@ -45,9 +45,9 @@ Legacy:
 ## Base Stats
 |   | HP | Attack | Defense | Sp. Atk | Sp. Def | Speed |
 |---|----|--------|---------|---------|---------|-------|
-| **Base** | 50 | 20 | 40 | 20 | 40 | 20 |
-| **Min** | 210 | 40 | 76 | 40 | 76 | 40 |
-| **Max** | 304 | 152 | 196 | 152 | 196 | 152 |
+| **Base** | 50 | 20 | 40 | 40 | 40 | 20 |
+| **Min** | 210 | 40 | 76 | 76 | 76 | 40 |
+| **Max** | 304 | 152 | 196 | 196 | 196 | 152 |
 
 The ranges shown above are for a level 100 Pokémon. Maximum values are based on a beneficial nature, 252 EVs, 31 IVs; minimum values are based on a hindering nature, 0 EVs, 0 IVs.
 
@@ -79,7 +79,7 @@ Azurill has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp | 150 | 50 | 38 | Fast | N/A |
+| 1 Hp | 150 | 180 | 38 | Fast | N/A |
 
 ---
 

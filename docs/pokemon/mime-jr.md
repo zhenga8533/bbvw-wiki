@@ -45,9 +45,9 @@ Legacy:
 ## Base Stats
 |   | HP | Attack | Defense | Sp. Atk | Sp. Def | Speed |
 |---|----|--------|---------|---------|---------|-------|
-| **Base** | 20 | 25 | 45 | 70 | 90 | 60 |
-| **Min** | 150 | 49 | 85 | 130 | 166 | 112 |
-| **Max** | 244 | 163 | 207 | 262 | 306 | 240 |
+| **Base** | 20 | 15 | 45 | 80 | 90 | 65 |
+| **Min** | 150 | 31 | 85 | 148 | 166 | 121 |
+| **Max** | 244 | 141 | 207 | 284 | 306 | 251 |
 
 The ranges shown above are for a level 100 Pokémon. Maximum values are based on a beneficial nature, 252 EVs, 31 IVs; minimum values are based on a hindering nature, 0 EVs, 0 IVs.
 

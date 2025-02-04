@@ -38,16 +38,16 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #164 | ![normal](../assets/types/normal.png){: width='48'} ![flying](../assets/types/flying.png){: width='48'} | 1.6 m | 40.8 kg | 1. Insomnia<br>2. Tinted-Lens | N/A |
+| #164 | ![psychic](../assets/types/psychic.png){: width='48'} ![flying](../assets/types/flying.png){: width='48'} | 1.6 m | 40.8 kg | 1. Insomnia<br>2. Tinted-Lens | N/A |
 
 ---
 
 ## Base Stats
 |   | HP | Attack | Defense | Sp. Atk | Sp. Def | Speed |
 |---|----|--------|---------|---------|---------|-------|
-| **Base** | 100 | 50 | 50 | 96 | 96 | 70 |
-| **Min** | 310 | 94 | 94 | 177 | 177 | 130 |
-| **Max** | 404 | 218 | 218 | 320 | 320 | 262 |
+| **Base** | 100 | 40 | 40 | 96 | 116 | 60 |
+| **Min** | 310 | 76 | 76 | 177 | 213 | 112 |
+| **Max** | 404 | 196 | 196 | 320 | 364 | 240 |
 
 The ranges shown above are for a level 100 Pokémon. Maximum values are based on a beneficial nature, 252 EVs, 31 IVs; minimum values are based on a hindering nature, 0 EVs, 0 IVs.
 
@@ -127,7 +127,7 @@ Noctowl has no alternate forms.
 
 | TM | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| HM02 | Fly | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 90 | 95 | 15 |
+| HM02 | Fly | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100% | 15 |
 | TM06 | Toxic | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 10 |
 | TM10 | Hidden Power | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 15 |
 | TM11 | Sunny Day | ![fire](../assets/types/fire.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |

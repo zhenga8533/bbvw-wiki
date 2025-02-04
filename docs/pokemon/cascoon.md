@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #268 | ![bug](../assets/types/bug.png){: width='48'} | 0.7 m | 11.5 kg | 1. Shed-Skin | N/A |
+| #268 | ![bug](../assets/types/bug.png){: width='48'} | 0.7 m | 11.5 kg | 1. Shed-Skin<br>2. Shed-Skin | N/A |
 
 ---
 
