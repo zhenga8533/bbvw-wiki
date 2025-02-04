@@ -177,7 +177,7 @@ def parse_moves(moves: list, headers: list, move_key: str, logger: Logger) -> st
     :return: The parsed moves.
     """
 
-    MOVES_PATH = os.getenv("MOVES_PATH")
+    MOVE_INPUT_PATH = os.getenv("MOVE_INPUT_PATH")
 
     md_header = f"| {' | '.join(headers).strip()} |"
     md_separator = f"| {' | '.join(['---'] * len(headers)).strip()} |"
@@ -187,7 +187,7 @@ def parse_moves(moves: list, headers: list, move_key: str, logger: Logger) -> st
     # Parse each move into Markdown table format
     for move in moves:
         move_id = format_id(move["name"])
-        move_data = json.loads(load(f"{MOVES_PATH + move_id}.json", logger))
+        move_data = json.loads(load(f"{MOVE_INPUT_PATH + move_id}.json", logger))
         for category in headers:
             if category == "Lv.":
                 md_body += f"| {move['level_learned_at']} "
@@ -445,7 +445,7 @@ def main():
     LOG_PATH = os.getenv("LOG_PATH")
     OUTPUT_PATH = os.getenv("OUTPUT_PATH")
     POKEMON_INPUT_PATH = os.getenv("POKEMON_INPUT_PATH")
-    POKEMON_OUTPUT_PATH = os.getenv("POKEMON_OUTPUT_PATH")
+    POKEMON_PATH = os.getenv("POKEMON_PATH")
     logger = Logger("Pokémon Parser", f"{LOG_PATH}pokemon.log", LOG)
 
     # Fetch Pokémon data from PokéAPI
@@ -497,11 +497,11 @@ def main():
             nav += f"      - {generations[pokedex_start.index(i)]}:\n"
 
         clean_name = revert_id(name)
-        nav += f'          - "#{f"{i + 1:03}"} {clean_name}": {POKEMON_OUTPUT_PATH + name}.md\n'
+        nav += f'          - "#{f"{i + 1:03}"} {clean_name}": {POKEMON_PATH + name}.md\n'
     nav += f"      - Pokémon Forms:\n"
     for name in forms:
         clean_name = revert_id(name)
-        nav += f"          - {clean_name}: {POKEMON_OUTPUT_PATH + name}.md\n"
+        nav += f"          - {clean_name}: {POKEMON_PATH + name}.md\n"
 
     logger.log(logging.INFO, "Successfully generated Pokémon navigation")
     save(f"{OUTPUT_PATH}pokemon_nav.md", nav, logger)
@@ -520,7 +520,7 @@ def main():
                 continue
 
             md = to_md(data, pokemon_set, logger)
-            save(f"{POKEMON_OUTPUT_PATH + data['name']}.md", md, logger)
+            save(f"{POKEMON_PATH + data['name']}.md", md, logger)
 
 
 if __name__ == "__main__":

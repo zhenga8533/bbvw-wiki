@@ -22,7 +22,7 @@ def main():
     INPUT_PATH = os.getenv("INPUT_PATH")
     OUTPUT_PATH = os.getenv("OUTPUT_PATH")
     LOG_PATH = os.getenv("LOG_PATH")
-    MOVES_PATH = os.getenv("MOVES_PATH")
+    MOVE_INPUT_PATH = os.getenv("MOVE_INPUT_PATH")
     POKEMON_INPUT_PATH = os.getenv("POKEMON_INPUT_PATH")
     logger = Logger("Level Up Move Changes Parser", f"{LOG_PATH}level_up_move_changes.log", LOG)
     content = load(f"{INPUT_PATH}Level Up Move Changes.txt", logger)
@@ -73,7 +73,7 @@ def main():
                 move_name = format_id(move_name)
 
                 try:
-                    move_path = f"{MOVES_PATH + move_name}.json"
+                    move_path = f"{MOVE_INPUT_PATH + move_name}.json"
                     move_data = json.loads(load(move_path, logger))
                     move_data["power"] = int(power)
                     save(move_path, json.dumps(move_data, indent=4), logger)
