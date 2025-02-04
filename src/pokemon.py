@@ -195,7 +195,9 @@ def parse_moves(moves: list, headers: list, move_key: str) -> str:
             elif category == "Move":
                 md_body += f"| {revert_id(move_data['name'])} "
             elif category == "Type":
-                md_body += f"| ![{move_data['type']}](../assets/types/{move_data['type']}.png){{: width='48'}} "
+                md_body += (
+                    f"| ![{move_data['type']}](../assets/types/{format_id(move_data['type'])}.png){{: width='48'}} "
+                )
             elif category == "Cat.":
                 md_body += f"| ![{move_data['damage_class']}](../assets/move_category/{move_data['damage_class']}.png){{: width='36'}} "
             elif category == "Power":
@@ -290,7 +292,7 @@ def to_md(pokemon: dict, pokemon_set: dict, move_path: str, logger: Logger) -> s
     md += f"| National № | Type(s) | Height | Weight | Abilities | Local № |\n"
     md += f"|------------|---------|--------|--------|-----------|---------|\n"
     md += f"| #{pokemon_id}"
-    md += f" | " + " ".join([f"![{t}](../assets/types/{t}.png){{: width='48'}}" for t in pokemon["types"]])
+    md += f" | " + " ".join([f"![{t}](../assets/types/{format_id(t)}.png){{: width='48'}}" for t in pokemon["types"]])
     md += f" | {pokemon['height']} m"
     md += f" | {pokemon['weight']} kg"
     abilities = [f"{i + 1}. {ability['name'].title()}" for i, ability in enumerate(pokemon["abilities"])]

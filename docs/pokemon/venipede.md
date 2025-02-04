@@ -116,7 +116,7 @@ Venipede has no alternate forms.
 | 29 | Agility | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 30 |
 | 33 | Steamroller | ![bug](../assets/types/bug.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 100 | 20 |
 | 36 | Toxic | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 10 |
-| 40 | Rock Climb | ![Rock](../assets/types/Rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 95% | 10 |
+| 40 | Rock Climb | ![Rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 95% | 10 |
 | 43 | Double Edge | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 120 | 100 | 15 |
 
 ### TM Moves
@@ -154,7 +154,7 @@ Venipede has no alternate forms.
 | Pin Missile | ![bug](../assets/types/bug.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 25 | 95 | 20 |
 | Spikes | ![ground](../assets/types/ground.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
 | Toxic Spikes | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
-| Rock Climb | ![Rock](../assets/types/Rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 95% | 10 |
+| Rock Climb | ![Rock](../assets/types/rock.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 95% | 10 |
 
 ### Tutor Moves
 

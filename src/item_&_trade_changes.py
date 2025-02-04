@@ -1,5 +1,6 @@
 from dotenv import load_dotenv
 from util.file import load, save
+from util.format import format_id
 from util.logger import Logger
 import logging
 import os
@@ -68,8 +69,17 @@ def main():
         elif line.startswith("Original") or line.startswith("New"):
             sections = line.split(": ")
             category = sections[0]
+
             trade = sections[1].split(" -> ")
-            md += f"| {category} | {trade[0]} | {trade[1]} |\n"
+            give_pokemon = trade[0].split("/")
+            receive_pokemon, attributes = trade[1].split(" ", 1)
+            receive_pokemon = receive_pokemon.split("/")
+
+            md += f"| {category} | "
+            md += "/".join([f"[{p}](../pokemon/{format_id(p)}.md)" for p in give_pokemon])
+            md += f" | "
+            md += "/".join([f"[{p}](../pokemon/{format_id(p)}.md)" for p in receive_pokemon])
+            md += f" {attributes} |\n"
         # Misc changes
         else:
             md += line + "\n"
