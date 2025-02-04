@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #118 | ![water](../assets/types/water.png){: width='48'} | 0.6 m | 15.0 kg | 1. Swift-Swim<br>2. Lightningrod | N/A |
+| #118 | ![water](../assets/types/water.png){: width='48'} | 0.6 m | 15.0 kg | 1. Swift-Swim<br>2. Lightning-Rod | N/A |
 
 ---
 

@@ -78,7 +78,7 @@ Desert Resort
 ---
 Fresh Water -> Helix Fossil
 Stardust -> Claw Fossil
-BlackGlasses -> Dome Fossil
+Black Glasses -> Dome Fossil
 Super Potion -> Armor Fossil
 Fire Stone -> Fire Stone * 6
 
@@ -103,7 +103,7 @@ Route 5
 ---
 Zinc -> Up-Grade
 Hyper Potion -> TM72 Volt Switch
-Great Ball -> BlackGlasses
+Great Ball -> Black Glasses
 
 Cold Storage Outside
 ---

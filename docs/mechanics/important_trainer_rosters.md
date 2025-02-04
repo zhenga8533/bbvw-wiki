@@ -320,7 +320,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 1. Low Kick
 2. Focus Energy
 3. Ember
-4. Featherdance
+4. Feather Dance
 
 <a href='/bbvw-wiki/pokemon/chimchar/'><b>Chimchar</b></a> @ No Item
 <b>Ability:</b> Blaze
@@ -623,7 +623,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
     <br><a href='/bbvw-wiki/pokemon/kadabra/'><b>Kadabra</b></a> @ Twisted Spoon
     <b>Ability:</b> Magic Guard
     <b>Level:</b> 31
-    <br><a href='/bbvw-wiki/pokemon/simisear/'><b>Simisear</b></a> @ Expert Belt Expert Belt Expert Belt
+    <br><a href='/bbvw-wiki/pokemon/simisear/'><b>Simisear</b></a> @ Expert Belt
     <b>Ability:</b> Torrent
     <b>Level:</b> 31
     <br><a href='/bbvw-wiki/pokemon/dewott/'><b>Dewott</b></a> @ Sitrus Berry
@@ -641,10 +641,10 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
     <br><a href='/bbvw-wiki/pokemon/kadabra/'><b>Kadabra</b></a> @ Twisted Spoon
     <b>Ability:</b> Magic Guard
     <b>Level:</b> 31
-    <br><a href='/bbvw-wiki/pokemon/simisage/'><b>Simisage</b></a> @ Sitrus Berry
+    <br><a href='/bbvw-wiki/pokemon/simisage/'><b>Simisage</b></a> @ Expert Belt
     <b>Ability:</b> Blaze
     <b>Level:</b> 31
-    <br><a href='/bbvw-wiki/pokemon/pignite/'><b>Pignite</b></a> @ No Item
+    <br><a href='/bbvw-wiki/pokemon/pignite/'><b>Pignite</b></a> @ Sitrus Berry
     <b>Ability:</b> Vital Spirit
     <b>Level:</b> 33</code></pre>
 
@@ -659,10 +659,10 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
     <br><a href='/bbvw-wiki/pokemon/kadabra/'><b>Kadabra</b></a> @ Twisted Spoon
     <b>Ability:</b> Magic Guard
     <b>Level:</b> 31
-    <br><a href='/bbvw-wiki/pokemon/simipour/'><b>Simipour</b></a> @ Sitrus Berry
+    <br><a href='/bbvw-wiki/pokemon/simipour/'><b>Simipour</b></a> @ Expert Belt
     <b>Ability:</b> Overgrow
     <b>Level:</b> 31
-    <br><a href='/bbvw-wiki/pokemon/servine/'><b>Servine</b></a> @ No Item
+    <br><a href='/bbvw-wiki/pokemon/servine/'><b>Servine</b></a> @ Sitrus Berry
     <b>Ability:</b> Adaptability
     <b>Level:</b> 33</code></pre>
 
@@ -745,7 +745,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 4. Focus Blast
 
 <a href='/bbvw-wiki/pokemon/galvantula/'><b>Galvantula</b></a> @ No Item
-<b>Ability:</b> Compoundeyes
+<b>Ability:</b> Compound Eyes
 <b>Level:</b> 36
 <b>Moves:</b>
 1. Thunder
@@ -868,7 +868,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 1. Earthquake
 2. Stone Edge
 3. Low Kick
-4. erish Song
+4. Perish Song
 
 <a href='/bbvw-wiki/pokemon/krookodile/'><b>Krookodile</b></a> @ Persim Berry
 <b>Ability:</b> Intimidate
@@ -1245,7 +1245,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
 3. Shadow Ball
 4. Disable
 
-<a href='/bbvw-wiki/pokemon/vanilluxe/'><b>Vanilluxe</b></a> @ Never Melt Ice
+<a href='/bbvw-wiki/pokemon/vanilluxe/'><b>Vanilluxe</b></a> @ Never-Melt Ice
 <b>Ability:</b> Weak Armor
 <b>Level:</b> 63
 <b>Moves:</b>
@@ -1598,7 +1598,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
     2. Shadow Ball
     3. Energy Ball
     4. Aura Sphere
-    <br><a href='/bbvw-wiki/pokemon/whimsicott/'><b>Whimsicott</b></a> @ Lum Berry Lum Berry Lum Berry
+    <br><a href='/bbvw-wiki/pokemon/whimsicott/'><b>Whimsicott</b></a> @ Lum Berry
     <b>Ability:</b> Intimidate
     <b>Level:</b> 66
     <b>Moves:</b>
@@ -1649,7 +1649,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
     2. Shadow Ball
     3. Energy Ball
     4. Aura Sphere
-    <br><a href='/bbvw-wiki/pokemon/gyarados/'><b>Gyarados</b></a> @ Flying Gem
+    <br><a href='/bbvw-wiki/pokemon/gyarados/'><b>Gyarados</b></a> @ Lum Berry
     <b>Ability:</b> Prankster
     <b>Level:</b> 66
     <b>Moves:</b>
@@ -1657,7 +1657,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
     2. Hurricane
     3. Substitute
     4. Cotton Guard
-    <br><a href='/bbvw-wiki/pokemon/simisage/'><b>Simisage</b></a> @ Sitrus Berry
+    <br><a href='/bbvw-wiki/pokemon/simisage/'><b>Simisage</b></a> @ Flying Gem
     <b>Ability:</b> Blaze
     <b>Level:</b> 66
     <b>Moves:</b>
@@ -1665,7 +1665,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
     2. Acrobatics
     3. Focus Blast
     4. Fire Blast
-    <br><a href='/bbvw-wiki/pokemon/emboar/'><b>Emboar</b></a> @ No Item
+    <br><a href='/bbvw-wiki/pokemon/emboar/'><b>Emboar</b></a> @ Sitrus Berry
     <b>Ability:</b> Vital Spirit
     <b>Level:</b> 68
     <b>Moves:</b>
@@ -1700,7 +1700,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
     2. Shadow Ball
     3. Energy Ball
     4. Aura Sphere
-    <br><a href='/bbvw-wiki/pokemon/houndoom/'><b>Houndoom</b></a> @ Flying Gem
+    <br><a href='/bbvw-wiki/pokemon/houndoom/'><b>Houndoom</b></a> @ Lum Berry
     <b>Ability:</b> Moxie
     <b>Level:</b> 66
     <b>Moves:</b>
@@ -1708,7 +1708,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
     2. Bounce
     3. Dragon Dance
     4. Earthquake
-    <br><a href='/bbvw-wiki/pokemon/simipour/'><b>Simipour</b></a> @ Sitrus Berry
+    <br><a href='/bbvw-wiki/pokemon/simipour/'><b>Simipour</b></a> @ Flying Gem
     <b>Ability:</b> Overgrow
     <b>Level:</b> 66
     <b>Moves:</b>
@@ -1716,7 +1716,7 @@ Below are the rosters for the important trainers in the game, such as the Gym Le
     2. Acrobatics
     3. Focus Blast
     4. Power Whip
-    <br><a href='/bbvw-wiki/pokemon/serperior/'><b>Serperior</b></a> @ No Item
+    <br><a href='/bbvw-wiki/pokemon/serperior/'><b>Serperior</b></a> @ Sitrus Berry
     <b>Ability:</b> Adaptability
     <b>Level:</b> 68
     <b>Moves:</b>
@@ -2818,7 +2818,7 @@ Ghetsis’ Team
 4. Earthquake
 
 <a href='/bbvw-wiki/pokemon/jolteon/'><b>Jolteon</b></a> @ Starf Berry
-<b>Ability:</b> Lightningrod
+<b>Ability:</b> Lightning Rod
 <b>Level:</b> 88
 <b>Moves:</b>
 1. Thunder
@@ -2836,7 +2836,7 @@ Ghetsis’ Team
 4. Flamethrower
 
 <a href='/bbvw-wiki/pokemon/galvantula/'><b>Galvantula</b></a> @ Wide Lens
-<b>Ability:</b> Compoundeyes
+<b>Ability:</b> Compound Eyes
 <b>Level:</b> 88
 <b>Moves:</b>
 1. Thunder
@@ -3573,7 +3573,7 @@ Ghetsis’ Team
 3. Psyshock
 4. Shadow Ball
 
-<a href='/bbvw-wiki/pokemon/jirachi/'><b>Jirachi</b></a> @ Lum Berry Damp Rock
+<a href='/bbvw-wiki/pokemon/jirachi/'><b>Jirachi</b></a> @ Lum Berry
 <b>Ability:</b> Serene Grace
 <b>Level:</b> 95
 <b>Moves:</b>
@@ -3582,7 +3582,7 @@ Ghetsis’ Team
 3. Water Pulse
 4. Thunder
 
-<a href='/bbvw-wiki/pokemon/manaphy/'><b>Manaphy</b></a> @ Lum Berry
+<a href='/bbvw-wiki/pokemon/manaphy/'><b>Manaphy</b></a> @ Damp Rock
 <b>Ability:</b> Hydration
 <b>Level:</b> 95
 <b>Moves:</b>
@@ -3591,7 +3591,7 @@ Ghetsis’ Team
 3. Hydro Pump
 4. Tail Glow
 
-<a href='/bbvw-wiki/pokemon/shaymin-land/'><b>Shaymin</b></a> @ Expert Belt
+<a href='/bbvw-wiki/pokemon/shaymin-land/'><b>Shaymin</b></a> @ Lum Berry
 <b>Ability:</b> Natural Cure
 <b>Level:</b> 95
 <b>Moves:</b>
@@ -3600,7 +3600,7 @@ Ghetsis’ Team
 3. Psychic
 4. Earth Power
 
-<a href='/bbvw-wiki/pokemon/mew/'><b>Mew</b></a> @ No Item
+<a href='/bbvw-wiki/pokemon/mew/'><b>Mew</b></a> @ Expert Belt
 <b>Ability:</b> Synchronize
 <b>Level:</b> 100
 <b>Moves:</b>

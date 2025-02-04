@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #145 | ![electric](../assets/types/electric.png){: width='48'} ![flying](../assets/types/flying.png){: width='48'} | 1.6 m | 52.6 kg | 1. Pressure<br>2. Lightningrod | N/A |
+| #145 | ![electric](../assets/types/electric.png){: width='48'} ![flying](../assets/types/flying.png){: width='48'} | 1.6 m | 52.6 kg | 1. Pressure<br>2. Lightning-Rod | N/A |
 
 ---
 

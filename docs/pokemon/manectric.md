@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #310 | ![electric](../assets/types/electric.png){: width='48'} | 1.5 m | 40.2 kg | 1. Static<br>2. Lightningrod | N/A |
+| #310 | ![electric](../assets/types/electric.png){: width='48'} | 1.5 m | 40.2 kg | 1. Static<br>2. Lightning-Rod | N/A |
 
 ---
 

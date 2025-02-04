@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #595 | ![bug](../assets/types/bug.png){: width='48'} ![electric](../assets/types/electric.png){: width='48'} | 0.1 m | 0.6 kg | 1. Compoundeyes<br>2. Swarm | #101 |
+| #595 | ![bug](../assets/types/bug.png){: width='48'} ![electric](../assets/types/electric.png){: width='48'} | 0.1 m | 0.6 kg | 1. Compound-Eyes<br>2. Swarm | #101 |
 
 ---
 

@@ -133,7 +133,7 @@ Species	Snivy	Bulbasaur	Chikorita	Treecko	Turtwig	Pansage
 Level	12	12	12	12	12	14
 Item	-	-	-	-	-	Oran Berry
 Ability (Reg)	Overgrow	Overgrow	Overgrow	Overgrow	Overgrow	Gluttony
-Move #1	Tackle	Secret Power	Wring Out	GrassWhistle	Tackle	Work Up
+Move #1	Tackle	Secret Power	Wring Out	Grass Whistle	Tackle	Work Up
 Move #2	Growth	Sleep Powder	Synthesis	Leech Seed	Tickle	Bite
 Move #3	Magical Leaf	Leech Seed	Razor Leaf	Absorb	Razor Leaf	Magical Leaf
 Move #4	Twister	Vine Whip	Poison Powder	Quick Attack	Stealth Rock	Protect
@@ -172,7 +172,7 @@ Ability (Reg)	Blaze	Blaze	Blaze	Blaze	Blaze	Gluttony
 Move #1	Tackle	Scratch	Quick Attack	Low Kick	Assist	Nasty Plot
 Move #2	Yawn	Dragon Dance	Nature Power	Focus Energy	Fake Out	Bite
 Move #3	Ember	Ember	Smokescreen	Ember	Ember	Incinerate
-Move #4	Magnitude	Smokescreen	Flame Burst	Featherdance	Torment	Protect
+Move #4	Magnitude	Smokescreen	Flame Burst	Feather Dance	Torment	Protect
 
 
 
@@ -260,7 +260,7 @@ Ability (Cln)	Intimidate	Pressure	Guts	Speed Boost	Swarm	Swarm
 Move #1	Scald	Acrobatics	Brick Break	Protect	Toxic	Protect
 Move #2	Silver Wind	Toxic	Aerial Ace	U-turn	Rock Climb	Leaf Blade
 Move #3	Stun Spore	Heal Order	Bug Bite	Air Slash	Megahorn	X-Scissor
-Move #4	Icy Wind	U-turn	Night Slash	Signal Beam	Rock Slide	GrassWhistle
+Move #4	Icy Wind	U-turn	Night Slash	Signal Beam	Rock Slide	Grass Whistle
 
 
 
@@ -321,7 +321,7 @@ Simipour3	Dewott1
 Pignite2
 Servine3
 Level	31	31	31	31	31	31	33	33	33
-Item	Sharp Beak	Hard Stone	TwistedSpoon	Expert Belt Expert Belt Expert Belt	Sitrus Berry	Sitrus Berry	Sitrus Berry
+Item	Sharp Beak	Hard Stone	Twisted Spoon	Expert Belt	Expert Belt	Expert Belt	Sitrus Berry	Sitrus Berry	Sitrus Berry
 
 Ability (Reg)	
 Reckless	
@@ -365,8 +365,8 @@ Reward: TM93 Wild Charge
 Species	Emolga	Manectric	Ampharos	Raichu	Galvantula	Zebstrika
 Level	36	36	36	36	36	38
 Item	-	-	-	-	-	Sitrus Berry
-Ability (Reg)	Static	Static	Static	Static	Compoundeyes	Sap Sipper
-Ability (Cln)	Static	Static	Static	Static	Compoundeyes	Lightningrod
+Ability (Reg)	Static	Static	Static	Static	Compound Eyes	Sap Sipper
+Ability (Cln)	Static	Static	Static	Static	Compound Eyes	Lightning Rod
 Move #1	Wild Charge	Thunderbolt	Thunderbolt	Wild Charge	Thunder	Wild Charge
 Move #2	U-turn	Volt Switch	Charge	Volt Switch	Volt Switch	Volt Switch
 Move #3	Acrobatics	Flamethrower	Focus Blast	Grass Knot	Signal Beam	Flame Charge
@@ -390,7 +390,7 @@ Simipour3	Samurott1
 Emboar2
 Serperior3
 Level	36	36	36	36	36	36	38	38	38
-Item	Sharp Beak	Hard Stone	TwistedSpoon	Expert Belt	Expert Belt	Expert Belt	Sitrus Berry	Sitrus Berry	Sitrus Berry
+Item	Sharp Beak	Hard Stone	Twisted Spoon	Expert Belt	Expert Belt	Expert Belt	Sitrus Berry	Sitrus Berry	Sitrus Berry
 
 Ability (Reg)	
 Reckless	
@@ -427,7 +427,7 @@ Ability (Cln)	Sand Stream	Poison Hand	Sturdy	Rock Head	Intimidate	Sand Rush
 Move #1	Bulldoze	Earth Power	Earthquake	Earthquake	Earthquake	Earthquake
 Move #2	Slack Off	Muddy Water	Fire Fang	Stone Edge	Crunch	Rock Slide
 Move #3	Stealth Rock	Sludge Wave	Gyro Ball	Low Kick	Thrash	X-Scissor
-Move #4	Stone Edge	Rest	Coil	erish Song	Torment	Swords Dance
+Move #4	Stone Edge	Rest	Coil	Perish Song	Torment	Swords Dance
 
 
 
@@ -529,7 +529,7 @@ Simipour3	Samurott1
 Emboar2
 Serperior3
 Level	53	53	53	53	53	53	53	53	53	55	55	55
-Item	Sharp Beak	Hard Stone	TwistedSpoon	Lum Berry	Lum Berry	Lum Berry	Iron Ball	Iron Ball	Iron Ball	Sitrus Berry	Sitrus Berry	Sitrus Berry
+Item	Sharp Beak	Hard Stone	Twisted Spoon	Lum Berry	Lum Berry	Lum Berry	Iron Ball	Iron Ball	Iron Ball	Sitrus Berry	Sitrus Berry	Sitrus Berry
 
 Ability (Reg)	
 Reckless	
@@ -614,7 +614,7 @@ Reward: TM13 Ice Beam
 			
 Species	Abomasnow	Glaceon	Froslass	Vanilluxe	Cryogonal	Beartic
 Level	61	61	61	63	61	63
-Item	Expert Belt	Choice Scarf	Life Orb	NeverMeltIce	Focus Sash	White Herb
+Item	Expert Belt	Choice Scarf	Life Orb	Never-Melt Ice	Focus Sash	White Herb
 Ability (Reg)	Snow Warning	Serene Grace	Levitate	Weak Armor	Levitate	Sheer Force
 Ability (Cln)	Snow Warning	Snow Cloak	Snow Cloak	Ice Body	Levitate	Snow Cloak
 Move #1	Blizzard	Blizzard	Blizzard	Blizzard	Blizzard	Icicle Crash
@@ -786,7 +786,7 @@ Simipour3	Samurott1
 Emboar2
 Serperior3
 Level	66	66	66	66	66	66	66	66	66	68	68	68
-Item	Sharp Beak	Hard Stone	TwistedSpoon	Lum Berry Lum Berry Lum Berry	Flying Gem	Flying Gem	Flying Gem	Sitrus Berry	Sitrus Berry	Sitrus Berry
+Item	Sharp Beak	Hard Stone	Twisted Spoon	Lum Berry	Lum Berry	Lum Berry	Flying Gem	Flying Gem	Flying Gem	Sitrus Berry	Sitrus Berry	Sitrus Berry
 
 Ability (Reg)	
 Reckless	
@@ -870,8 +870,8 @@ Location: Pokémon League
 			
 Species	Drifblim	Golurk	Mismagius	Froslass	Jellicent	Chandelure
 Level	71	71	71	71	73	73
-Item (Reg)	Flame Orb	Soft Sand	Spell Tag	NeverMeltIce	Mystic Water	Charcoal
-Item (Cln)	Sitrus Berry	Soft Sand	Spell Tag	NeverMeltIce	Mystic Water	Air Balloon
+Item (Reg)	Flame Orb	Soft Sand	Spell Tag	Never-Melt Ice	Mystic Water	Charcoal
+Item (Cln)	Sitrus Berry	Soft Sand	Spell Tag	Never-Melt Ice	Mystic Water	Air Balloon
 Ability (Reg)	Flare Boost	Iron Fist	Levitate	Levitate	Cursed Body	Levitate
 Ability (Cln)	Unburden	Iron Fist	Levitate	Snow Cloak	Cursed Body	Flame Body
 Move #1	Tailwind	Earthquake	Shadow Ball	Shadow Ball	Shadow Ball	Shadow Ball
@@ -890,7 +890,7 @@ Location: Pokémon League
 			
 Species	Sharpedo	Liepard	Honchkrow	Absol	Houndoom	Bisharp
 Level	71	71	71	71	73	73
-Item	Rocky Helmet	Liechi Berry	Scope Lens	Scope Lens	Focus Sash	BlackGlasses
+Item	Rocky Helmet	Liechi Berry	Scope Lens	Scope Lens	Focus Sash	Black Glasses
 Ability (Reg)	Speed Boost	Prankster	Moxie	Super Luck	Intimidate	Defiant
 Ability (Cln)	Rough Skin	Unburden	Super Luck	Super Luck	Flash Fire	Defiant
 Move #1	Protect	Thunder Wave	Thunder Wave	Megahorn	Dark Pulse	Sucker Punch
@@ -1230,8 +1230,8 @@ Ability (Reg)	Adaptability	Solar Power	Flash Fire	Speed Boost	Iron Fist	Unburden
 Ability (Cln)	Blaze	Blaze	Blaze	Blaze	Blaze	Gluttony
 Move #1	Flare Blitz	Fire Blast	Eruption	High Jump Kick	Overheat	Fire Blast
 Move #2	Earthquake	Air Slash	Focus Blast	Flare Blitz	Close Combat	Focus Blast
-Move #3	Hammer Arm	Outrage	SolarBeam	Stone Edge	Grass Knot	Grass Knot
-Move #4	Scald	Earthquake	ThunderPunch	ThunderPunch	ThunderPunch	Will-O-Wisp
+Move #3	Hammer Arm	Outrage	Solar Beam	Stone Edge	Grass Knot	Grass Knot
+Move #4	Scald	Earthquake	Thunder Punch	Thunder Punch	Thunder Punch	Will-O-Wisp
 
 
 
@@ -1282,8 +1282,8 @@ Elesa’s Team
 Species	Emolga	Electivire	Jolteon	Eelektross	Galvantula	Zebstrika
 Level	88	88	88	88	88	90
 Item	Starf Berry	Sitrus Berry	Starf Berry	Flying Gem	Wide Lens	Life Orb
-Ability (Reg)	Static	Motor Drive	Lightningrod	Levitate	Compoundeyes	Sap Sipper
-Ability (Cln)	Static	Motor Drive	Volt Absorb	Levitate	Compoundeyes	Motor Drive
+Ability (Reg)	Static	Motor Drive	Lightning Rod	Levitate	Compound Eyes	Sap Sipper
+Ability (Cln)	Static	Motor Drive	Volt Absorb	Levitate	Compound Eyes	Motor Drive
 Move #1	Baton Pass	Volt Tackle	Thunder	Acrobatics	Thunder	Volt Tackle
 Move #2	Agility	Cross Chop	Shadow Ball	Thunder	Bug Buzz	Flame Charge
 Move #3	Thunder	Ice Punch	Baton Pass	Rock Slide	Energy Ball	Quick Attack
@@ -1362,7 +1362,7 @@ Ability (Reg)	Moxie	Solar Power	Sheer Force	Mold Breaker	Sniper	Levitate
 Ability (Cln)	Intimidate	Blaze	Sheer Force	Mold Breaker	Sniper	Levitate
 Move #1	Draco Meteor	Sunny Day	Glare	Dragon Claw	Frost Breath	Earth Power
 Move #2	Earthquake	Fire Blast	Dragon Claw	Earthquake	Draco Meteor	Fire Blast
-Move #3	Dragon Claw	SolarBeam	Superpower	Dragon Dance	Waterfall	Dark Pulse
+Move #3	Dragon Claw	Solar Beam	Superpower	Dragon Dance	Waterfall	Dark Pulse
 Move #4	Fly	Dragon Pulse	Rock Slide	Outrage	Outrage	Focus Blast
 
 
@@ -1399,7 +1399,7 @@ Item (Reg)	Eject Button	Focus Sash	Sitrus Berry	Expert Belt	Leftovers	Life Orb
 Item (Cln)	Eject Button	Focus Sash	Sitrus Berry	Expert Belt	Leftovers	Air Balloon
 Ability (Reg)	Mummy	Levitate	Prankster	No Guard	Cursed Body	Levitate
 Ability (Cln)	Mummy	Levitate	Stall	Iron Fist	Cursed Body	Flame Body
-Move #1	Will-O-Wisp	Focus Blast	Recover	DynamicPunch	Hydro Pump	Fire Blast
+Move #1	Will-O-Wisp	Focus Blast	Recover	Dynamic Punch	Hydro Pump	Fire Blast
 Move #2	Shadow Ball	Shadow Ball	Shadow Claw	Shadow Punch	Shadow Ball	Shadow Ball
 Move #3	Psychic	Thunder	Foul Play	Earthquake	Recover	Hidden Power
 Move #4	Disable	Sludge Bomb	Will-O-Wisp	Substitute	Will-O-Wisp	Calm Mind
@@ -1421,7 +1421,7 @@ Ability (Cln)	Super Luck	Rough Skin	Pressure	Flash Fire	Defiant	Illusion
 Move #1	Brave Bird	Protect	Rock Smash	Nasty Plot	Sucker Punch	Night Daze
 Move #2	Sucker Punch	Hydro Pump	Ice Shard	Fire Blast	Swords Dance	Flamethrower
 Move #3	Superpower	Crunch	Night Slash	Dark Pulse	Thunder Wave	Focus Blast
-Move #4	Heat Wave	Aqua Jet	X-Scissor	SolarBeam	Swagger	Grass Knot
+Move #4	Heat Wave	Aqua Jet	X-Scissor	Solar Beam	Swagger	Grass Knot
 
 
 
@@ -1511,7 +1511,7 @@ Morimoto’s Team
 			
 Species	Victini	Celebi	Jirachi	Manaphy	Shaymin	Mew
 Level	95	95	95	95	95	100
-Item	White Herb	Lum Berry	Lum Berry Damp Rock	Lum Berry	Expert Belt
+Item	White Herb	Lum Berry	Lum Berry	Damp Rock	Lum Berry	Expert Belt
 Ability (Reg)	Victory Star	Natural Cure	Serene Grace	Hydration	Natural Cure	Synchronize
 Move #1	V-Create	Nasty Plot	Thunder Wave	Rain Dance	Seed Flare	Psychic
 Move #2	Fusion Bolt	Grass Knot	Iron Head	Rest	Air Slash	Fire Blast

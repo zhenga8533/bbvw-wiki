@@ -109,7 +109,7 @@
 |----------|----------|
 | Fresh Water | Helix Fossil |
 | Stardust | Claw Fossil |
-| BlackGlasses | Dome Fossil |
+| Black Glasses | Dome Fossil |
 | Super Potion | Armor Fossil |
 | Fire Stone | Fire Stone x6 |
 
@@ -143,7 +143,7 @@
 |----------|----------|
 | Zinc | Up-Grade |
 | Hyper Potion | TM72 Volt Switch |
-| Great Ball | BlackGlasses |
+| Great Ball | Black Glasses |
 
 ---
 

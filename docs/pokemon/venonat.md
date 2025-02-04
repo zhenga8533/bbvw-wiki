@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #48 | ![bug](../assets/types/bug.png){: width='48'} ![poison](../assets/types/poison.png){: width='48'} | 1.0 m | 30.0 kg | 1. Compoundeyes<br>2. Tinted-Lens | N/A |
+| #48 | ![bug](../assets/types/bug.png){: width='48'} ![poison](../assets/types/poison.png){: width='48'} | 1.0 m | 30.0 kg | 1. Compound-Eyes<br>2. Tinted-Lens | N/A |
 
 ---
 

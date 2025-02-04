@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #135 | ![electric](../assets/types/electric.png){: width='48'} | 0.8 m | 24.5 kg | 1. Volt-Absorb<br>2. Lightningrod | N/A |
+| #135 | ![electric](../assets/types/electric.png){: width='48'} | 0.8 m | 24.5 kg | 1. Volt-Absorb<br>2. Lightning-Rod | N/A |
 
 ---
 

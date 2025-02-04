@@ -51,7 +51,7 @@ Ability Two: Battle Armor
 Special Attack: 80  95
 Speed: 70  90
 Total: 385  420
-Ability One: Compoundeyes
+Ability One: Compound Eyes
 Ability Two: Tinted Lens
 
 
@@ -153,7 +153,7 @@ Total: 300  380
 Item: Light Ball (50%), Sitrus Berry (5%)
 HM: Can now learn HM03, Surf.
 Ability One: Static
-Ability Two: LightningRod
+Ability Two: Lightning Rod
 
 
 #026 Raichu
@@ -164,7 +164,7 @@ Special Defense: 80  90
 Total: 475  525
 HM: Can now learn HM03, Surf.
 Ability One: Static
-Ability Two: LightningRod
+Ability Two: Lightning Rod
 
  
 #027 Sandshrew, #028 Sandslash
@@ -303,7 +303,7 @@ Ability Two: Dry Skin
 
 
 #048 Venonat
-Ability One: Compoundeyes
+Ability One: Compound Eyes
 Ability Two: Tinted Lens
 
 
@@ -670,7 +670,7 @@ Ability Two: Poison Touch
 
 #118 Goldeen
 Ability One: Swift Swim
-Ability Two: LightningRod
+Ability Two: Lightning Rod
 
 
 #119 Seaking
@@ -678,7 +678,7 @@ Attack: 92  112
 Speed: 68  88
 Total: 450  490
 Ability One: Swift Swim
-Ability Two: LightningRod
+Ability Two: Lightning Rod
 
 
 #120 Staryu, #121 Starmie
@@ -769,7 +769,7 @@ Ability Two: Hydration
 Base Happiness: 200
 TM: Can now learn TM86, Grass Knot.
 Ability One: Volt Absorb
-Ability Two: LightningRod
+Ability Two: Lightning Rod
 
 
 #136 Flareon
@@ -830,7 +830,7 @@ Ability Two: Snow Cloak
 #145 Zapdos
 Item: Salac Berry (100%)
 Ability One: Pressure
-Ability Two: LightningRod
+Ability Two: Lightning Rod
 
 
 #146 Moltres
@@ -960,7 +960,7 @@ Ability Two: Water Absorb
 Base Happiness: 200
 HM: Can now learn HM03, Surf.
 Ability One: Static
-Ability Two: LightningRod
+Ability Two: Lightning Rod
 
 
 #173 Cleffa
@@ -1075,7 +1075,7 @@ Ability Two: Simple
 
 #193 Yanma
 Ability One: Speed Boost
-Ability Two: Compoundeyes
+Ability Two: Compound Eyes
 
 
 #194 Wooper
@@ -1480,7 +1480,7 @@ Special Defense: 90  105
 Speed: 65  85
 Total: 385  420
 Ability One: Shield Dust
-Ability Two: Compoundeyes
+Ability Two: Compound Eyes
 
 
 #270 Lotad
@@ -1609,7 +1609,7 @@ Ability Two: Slow Start
 
 
 #290 Nincada
-Ability One: Compoundeyes
+Ability One: Compound Eyes
 Ability Two: Anticipation
 
 
@@ -1696,7 +1696,7 @@ Ability Two: Telepathy
 
 #309 Electrike, #310 Manectric
 Ability One: Static
-Ability Two: Lightningrod
+Ability Two: Lightning Rod
 
 
 #311 Plusle
@@ -2900,12 +2900,12 @@ Ability Two: Super Luck
 
 
 #522 Blitzle
-Ability One: LightningRod
+Ability One: Lightning Rod
 Ability Two: Sap Sipper
 
 
 #523 Zebstrika
-Ability One: LightningRod
+Ability One: Lightning Rod
 Ability Two: Sap Sipper
 
 #524 Roggenrola
@@ -3295,7 +3295,7 @@ Ability Two: Hydration
 
 
 #595 Joltik
-Ability One: Compoundeyes
+Ability One: Compound Eyes
 Ability Two: Swarm
 
 
@@ -3303,7 +3303,7 @@ Ability Two: Swarm
 Special Attack: 97  107
 Speed: 108  118
 Total: 472  492
-Ability One: Compoundeyes
+Ability One: Compound Eyes
 Ability Two: Swarm
 
 

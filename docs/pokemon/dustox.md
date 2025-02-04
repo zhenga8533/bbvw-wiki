@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #269 | ![bug](../assets/types/bug.png){: width='48'} ![poison](../assets/types/poison.png){: width='48'} | 1.2 m | 31.6 kg | 1. Shield-Dust<br>2. Compoundeyes | N/A |
+| #269 | ![bug](../assets/types/bug.png){: width='48'} ![poison](../assets/types/poison.png){: width='48'} | 1.2 m | 31.6 kg | 1. Shield-Dust<br>2. Compound-Eyes | N/A |
 
 ---
 

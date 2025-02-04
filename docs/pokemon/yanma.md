@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #193 | ![bug](../assets/types/bug.png){: width='48'} ![flying](../assets/types/flying.png){: width='48'} | 1.2 m | 38.0 kg | 1. Speed-Boost<br>2. Compoundeyes | N/A |
+| #193 | ![bug](../assets/types/bug.png){: width='48'} ![flying](../assets/types/flying.png){: width='48'} | 1.2 m | 38.0 kg | 1. Speed-Boost<br>2. Compound-Eyes | N/A |
 
 ---
 

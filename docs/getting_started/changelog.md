@@ -57,7 +57,7 @@
 - Numerous Pokémon have had some level up moves fixed, including Wartortle, Blastoise, and Samurott.
 - Keldeo now learns Secret Sword at Level 1.
 - Meloetta now learns Relic Song at Level 1.
-- Typhlosion now learns ThunderPunch at Level 1.
+- Typhlosion now learns Thunder Punch at Level 1.
 - Persian now learns Water Pulse and Icy Wind at Level 1, and Snarl by TM.
 - Absorb is now 30 power. Mega Drain is now 50 power.
 - Pin Missile, Arm Thrust, Comet Punch and Spike Cannon are now 25 power.

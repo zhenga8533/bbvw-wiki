@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #290 | ![bug](../assets/types/bug.png){: width='48'} ![ground](../assets/types/ground.png){: width='48'} | 0.5 m | 5.5 kg | 1. Compoundeyes<br>2. Anticipation | N/A |
+| #290 | ![bug](../assets/types/bug.png){: width='48'} ![ground](../assets/types/ground.png){: width='48'} | 0.5 m | 5.5 kg | 1. Compound-Eyes<br>2. Anticipation | N/A |
 
 ---
 

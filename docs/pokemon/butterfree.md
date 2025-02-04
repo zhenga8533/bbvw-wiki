@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #12 | ![bug](../assets/types/bug.png){: width='48'} ![flying](../assets/types/flying.png){: width='48'} | 1.1 m | 32.0 kg | 1. Compoundeyes<br>2. Tinted-Lens | N/A |
+| #12 | ![bug](../assets/types/bug.png){: width='48'} ![flying](../assets/types/flying.png){: width='48'} | 1.1 m | 32.0 kg | 1. Compound-Eyes<br>2. Tinted-Lens | N/A |
 
 ---
 

@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #523 | ![electric](../assets/types/electric.png){: width='48'} | 1.6 m | 79.5 kg | 1. Lightningrod<br>2. Sap-Sipper | #29 |
+| #523 | ![electric](../assets/types/electric.png){: width='48'} | 1.6 m | 79.5 kg | 1. Lightning-Rod<br>2. Sap-Sipper | #29 |
 
 ---
 

@@ -140,7 +140,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 <pre><code><b>Special Attack:</b> 80 → 95
 <b>Speed:</b> 70 → 90
 <b>Total:</b> 385 → 420
-<b>Ability One:</b> Compoundeyes
+<b>Ability One:</b> Compound Eyes
 <b>Ability Two:</b> Tinted Lens
 </code></pre>
 
@@ -282,7 +282,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 <b>Item:</b> Light Ball (50%), Sitrus Berry (5%)
 <b>HM:</b> Can now learn HM03, Surf.
 <b>Ability One:</b> Static
-<b>Ability Two:</b> LightningRod
+<b>Ability Two:</b> Lightning Rod
 </code></pre>
 
 **[#026 Raichu](../pokemon/raichu.md/)**
@@ -296,7 +296,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 <b>Total:</b> 475 → 525
 <b>HM:</b> Can now learn HM03, Surf.
 <b>Ability One:</b> Static
-<b>Ability Two:</b> LightningRod
+<b>Ability Two:</b> Lightning Rod
 </code></pre>
 
 **[#027 Sandshrew](../pokemon/sandshrew.md/), [#028 Sandslash](../pokemon/sandslash.md/)**
@@ -499,7 +499,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 ![venonat](../assets/sprites/venonat/front.gif)
 
-<pre><code><b>Ability One:</b> Compoundeyes
+<pre><code><b>Ability One:</b> Compound Eyes
 <b>Ability Two:</b> Tinted Lens
 </code></pre>
 
@@ -1062,7 +1062,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 ![goldeen](../assets/sprites/goldeen/front.gif)
 
 <pre><code><b>Ability One:</b> Swift Swim
-<b>Ability Two:</b> LightningRod
+<b>Ability Two:</b> Lightning Rod
 </code></pre>
 
 **[#119 Seaking](../pokemon/seaking.md/)**
@@ -1073,7 +1073,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 <b>Speed:</b> 68 → 88
 <b>Total:</b> 450 → 490
 <b>Ability One:</b> Swift Swim
-<b>Ability Two:</b> LightningRod
+<b>Ability Two:</b> Lightning Rod
 </code></pre>
 
 **[#120 Staryu](../pokemon/staryu.md/), [#121 Starmie](../pokemon/starmie.md/)**
@@ -1211,7 +1211,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 <pre><code><b>Base Happiness:</b> 200
 <b>TM:</b> Can now learn TM86, Grass Knot.
 <b>Ability One:</b> Volt Absorb
-<b>Ability Two:</b> LightningRod
+<b>Ability Two:</b> Lightning Rod
 </code></pre>
 
 **[#136 Flareon](../pokemon/flareon.md/)**
@@ -1302,7 +1302,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 <pre><code><b>Item:</b> Salac Berry (100%)
 <b>Ability One:</b> Pressure
-<b>Ability Two:</b> LightningRod
+<b>Ability Two:</b> Lightning Rod
 </code></pre>
 
 **[#146 Moltres](../pokemon/moltres.md/)**
@@ -1503,7 +1503,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 <pre><code><b>Base Happiness:</b> 200
 <b>HM:</b> Can now learn HM03, Surf.
 <b>Ability One:</b> Static
-<b>Ability Two:</b> LightningRod
+<b>Ability Two:</b> Lightning Rod
 </code></pre>
 
 **[#173 Cleffa](../pokemon/cleffa.md/)**
@@ -1676,7 +1676,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 ![yanma](../assets/sprites/yanma/front.gif)
 
 <pre><code><b>Ability One:</b> Speed Boost
-<b>Ability Two:</b> Compoundeyes
+<b>Ability Two:</b> Compound Eyes
 </code></pre>
 
 **[#194 Wooper](../pokemon/wooper.md/)**
@@ -2291,7 +2291,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 <b>Speed:</b> 65 → 85
 <b>Total:</b> 385 → 420
 <b>Ability One:</b> Shield Dust
-<b>Ability Two:</b> Compoundeyes
+<b>Ability Two:</b> Compound Eyes
 </code></pre>
 
 **[#270 Lotad](../pokemon/lotad.md/)**
@@ -2483,7 +2483,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 ![nincada](../assets/sprites/nincada/front.gif)
 
-<pre><code><b>Ability One:</b> Compoundeyes
+<pre><code><b>Ability One:</b> Compound Eyes
 <b>Ability Two:</b> Anticipation
 </code></pre>
 
@@ -2618,7 +2618,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 ![manectric](../assets/sprites/manectric/front.gif)
 
 <pre><code><b>Ability One:</b> Static
-<b>Ability Two:</b> Lightningrod
+<b>Ability Two:</b> Lightning Rod
 </code></pre>
 
 **[#311 Plusle](../pokemon/plusle.md/)**
@@ -4417,7 +4417,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 ![blitzle](../assets/sprites/blitzle/front.gif)
 
-<pre><code><b>Ability One:</b> LightningRod
+<pre><code><b>Ability One:</b> Lightning Rod
 <b>Ability Two:</b> Sap Sipper
 </code></pre>
 
@@ -4425,7 +4425,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 ![zebstrika](../assets/sprites/zebstrika/front.gif)
 
-<pre><code><b>Ability One:</b> LightningRod
+<pre><code><b>Ability One:</b> Lightning Rod
 <b>Ability Two:</b> Sap Sipper
 </code></pre>
 
@@ -5013,7 +5013,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 ![joltik](../assets/sprites/joltik/front.gif)
 
-<pre><code><b>Ability One:</b> Compoundeyes
+<pre><code><b>Ability One:</b> Compound Eyes
 <b>Ability Two:</b> Swarm
 </code></pre>
 
@@ -5024,7 +5024,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 <pre><code><b>Special Attack:</b> 97 → 107
 <b>Speed:</b> 108 → 118
 <b>Total:</b> 472 → 492
-<b>Ability One:</b> Compoundeyes
+<b>Ability One:</b> Compound Eyes
 <b>Ability Two:</b> Swarm
 </code></pre>
 
