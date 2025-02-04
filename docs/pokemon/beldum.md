@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #374 | ![steel](../assets/types/steel.png){: width='48'} ![psychic](../assets/types/psychic.png){: width='48'} | 0.6 m | 95.2 kg | 1. Levitate | N/A |
+| #374 | ![steel](../assets/types/steel.png){: width='48'} ![psychic](../assets/types/psychic.png){: width='48'} | 0.6 m /<br>2.0 ft | 95.2 kg /<br>209.9 lbs | <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ Beldum has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 3 | 35 | 60 | Slow | metal-coat (5%) |
+| 1 Defense | 3 | 35 | 60 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a special metallic film that ups the power of Steel-type moves.">Metal Coat</span> (5%) |
 
 ---
 
@@ -101,10 +101,10 @@ Beldum has no alternate forms.
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Headbutt | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 70 | 100 | 15 |
-| 1 | Iron Head | ![steel](../assets/types/steel.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 100 | 15 |
-| 1 | Take Down | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 90 | 85 | 20 |
-| 1 | Zen Headbutt | ![psychic](../assets/types/psychic.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 90 | 15 |
+| 1 | <span class="tooltip" title="The user sticks its head out and rams straight forward. It may make the foe flinch.">Headbutt</span> | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 70 | 100 | 15 |
+| 1 | <span class="tooltip" title="The foe slams the target with its steel-hard head. It may also make the target flinch.">Iron Head</span> | ![steel](../assets/types/steel.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 100 | 15 |
+| 1 | <span class="tooltip" title="A reckless, full-body charge attack for slamming into the foe. It also damages the user a little.">Take Down</span> | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 90 | 85 | 20 |
+| 1 | <span class="tooltip" title="The user focuses its willpower to its head and rams the foe. It may also make the target flinch.">Zen Headbutt</span> | ![psychic](../assets/types/psychic.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 90 | 15 |
 
 ### TM Moves
 

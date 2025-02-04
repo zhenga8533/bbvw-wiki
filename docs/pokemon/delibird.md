@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #225 | ![ice](../assets/types/ice.png){: width='48'} ![flying](../assets/types/flying.png){: width='48'} | 0.9 m | 16.0 kg | 1. Vital-Spirit<br>2. Technician | N/A |
+| #225 | ![ice](../assets/types/ice.png){: width='48'} ![flying](../assets/types/flying.png){: width='48'} | 0.9 m /<br>3.0 ft | 16.0 kg /<br>35.3 lbs | <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Vital Spirit</span><br><span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span> | N/A |
 
 ---
 
@@ -97,66 +97,66 @@ Delibird has no alternate forms.
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Pay Day | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 20 |
-| 1 | Powder Snow | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 40 | 100 | 25 |
-| 1 | Present | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 90 | 15 |
-| 8 | Acrobatics | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 55 | 100 | 15 |
-| 15 | Mist | ![ice](../assets/types/ice.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 30 |
-| 22 | Quick Attack | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 30 |
-| 29 | Baton Pass | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 40 |
-| 36 | Frost Breath | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 90 | 10 |
-| 43 | Seed Bomb | ![grass](../assets/types/grass.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 100 | 15 |
-| 50 | Fake Out | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 10 |
-| 57 | Blizzard | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 110 | 70 | 5 |
-| 64 | Nasty Plot | ![dark](../assets/types/dark.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
-| 71 | Hurricane | ![flying](../assets/types/flying.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 110 | 70 | 10 |
-| 78 | Tailwind | ![flying](../assets/types/flying.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
+| 1 | <span class="tooltip" title="Numerous coins are hurled at the foe to inflict damage. Money is earned after battle.">Pay Day</span> | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 20 |
+| 1 | <span class="tooltip" title="The user attacks with a chilling gust of powdery snow. It may also freeze the target.">Powder Snow</span> | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 40 | 100 | 25 |
+| 1 | <span class="tooltip" title="The user attacks by giving the foe a booby-trapped gift. It restores HP sometimes, however.">Present</span> | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 90 | 15 |
+| 8 | <span class="tooltip" title="Inflicts regular damage.  If the user has no held item, this move has double power.">Acrobatics</span> | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 55 | 100 | 15 |
+| 15 | <span class="tooltip" title="The user cloaks its body with a white mist that prevents any of its stats from being cut for five turns.">Mist</span> | ![ice](../assets/types/ice.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 30 |
+| 22 | <span class="tooltip" title="The user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.">Quick Attack</span> | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 30 |
+| 29 | <span class="tooltip" title="The user switches places with a party Pokémon in waiting, passing along any stat changes.">Baton Pass</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 40 |
+| 36 | <span class="tooltip" title="Inflicts regular damage.  Always scores a critical hit.">Frost Breath</span> | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 90 | 10 |
+| 43 | <span class="tooltip" title="The user slams a barrage of hard- shelled seeds down on the foe from above.">Seed Bomb</span> | ![grass](../assets/types/grass.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 100 | 15 |
+| 50 | <span class="tooltip" title="An attack that hits first and makes the target flinch. This move works only on the first turn.">Fake Out</span> | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 10 |
+| 57 | <span class="tooltip" title="A howling blizzard is summoned to strike the foe. It may also freeze the target solid.">Blizzard</span> | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 110 | 70 | 5 |
+| 64 | <span class="tooltip" title="The user stimulates its brain by thinking bad thoughts. It sharply raises the user’s Sp. Atk.">Nasty Plot</span> | ![dark](../assets/types/dark.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
+| 71 | <span class="tooltip" title="Inflicts regular damage.">Hurricane</span> | ![flying](../assets/types/flying.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 110 | 70 | 10 |
+| 78 | <span class="tooltip" title="The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for three turns.">Tailwind</span> | ![flying](../assets/types/flying.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
 
 ### TM Moves
 
 | TM | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| HM02 | Fly | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100% | 15 |
-| TM06 | Toxic | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 10 |
-| TM07 | Hail | ![ice](../assets/types/ice.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
-| TM10 | Hidden Power | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 15 |
-| TM13 | Ice Beam | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
-| TM14 | Blizzard | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 110 | 70 | 5 |
-| TM17 | Protect | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
-| TM18 | Rain Dance | ![water](../assets/types/water.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
-| TM21 | Frustration | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 20 |
-| TM27 | Return | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 20 |
-| TM31 | Brick Break | ![fighting](../assets/types/fighting.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 75 | 100 | 15 |
-| TM32 | Double Team | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
-| TM40 | Aerial Ace | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | — | 20 |
-| TM42 | Facade | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 70 | 100 | 20 |
-| TM44 | Rest | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
-| TM45 | Attract | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 15 |
-| TM46 | Thief | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 25 |
-| TM48 | Round | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 15 |
-| TM56 | Fling | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 10 |
-| TM62 | Acrobatics | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 55 | 100 | 15 |
-| TM79 | Frost Breath | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 90 | 10 |
-| TM87 | Swagger | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 15 |
-| TM88 | Pluck | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 20 |
-| TM89 | U Turn | ![bug](../assets/types/bug.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 70 | 100 | 20 |
-| TM90 | Substitute | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
+| HM02 | <span class="tooltip" title="The user soars, then strikes on the second turn. It can also be used for flying to any familiar town.">Fly</span> | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100% | 15 |
+| TM06 | <span class="tooltip" title="A move that leaves the target badly poisoned. Its poison damage worsens every turn.">Toxic</span> | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 10 |
+| TM07 | <span class="tooltip" title="The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.">Hail</span> | ![ice](../assets/types/ice.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
+| TM10 | <span class="tooltip" title="A unique attack that varies in type and intensity depending on the Pokémon using it.">Hidden Power</span> | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 15 |
+| TM13 | <span class="tooltip" title="The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.">Ice Beam</span> | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
+| TM14 | <span class="tooltip" title="A howling blizzard is summoned to strike the foe. It may also freeze the target solid.">Blizzard</span> | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 110 | 70 | 5 |
+| TM17 | <span class="tooltip" title="It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.">Protect</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
+| TM18 | <span class="tooltip" title="The user summons a heavy rain that falls for five turns, powering up Water- type moves.">Rain Dance</span> | ![water](../assets/types/water.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
+| TM21 | <span class="tooltip" title="A full-power attack that grows more powerful the less the user likes its Trainer.">Frustration</span> | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 20 |
+| TM27 | <span class="tooltip" title="A full-power attack that grows more powerful the more the user likes its Trainer.">Return</span> | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 20 |
+| TM31 | <span class="tooltip" title="The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect.">Brick Break</span> | ![fighting](../assets/types/fighting.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 75 | 100 | 15 |
+| TM32 | <span class="tooltip" title="By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. ">Double Team</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
+| TM40 | <span class="tooltip" title="The user confounds the foe with speed, then slashes. The attack lands without fail.">Aerial Ace</span> | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | — | 20 |
+| TM42 | <span class="tooltip" title="An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.">Facade</span> | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 70 | 100 | 20 |
+| TM44 | <span class="tooltip" title="The user goes to sleep for two turns. It fully restores the user’s HP and heals any status problem.">Rest</span> | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
+| TM45 | <span class="tooltip" title="If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.">Attract</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 15 |
+| TM46 | <span class="tooltip" title="The user attacks and steals the foe’s held item simultaneously. It can’t steal if the user holds an item.">Thief</span> | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 25 |
+| TM48 | <span class="tooltip" title="Inflicts regular damage.  If round has already been used this turn, this move's power is doubled.  After this move is used, any other Pokémon using it this turn will immediately do so (in the order they would otherwise act), regardless of Speed or priority.  Pokémon using other moves will then continue to act as usual.">Round</span> | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 15 |
+| TM56 | <span class="tooltip" title="The user flings its held item at the foe to attack. Its power and effects depend on the item.">Fling</span> | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 10 |
+| TM62 | <span class="tooltip" title="Inflicts regular damage.  If the user has no held item, this move has double power.">Acrobatics</span> | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 55 | 100 | 15 |
+| TM79 | <span class="tooltip" title="Inflicts regular damage.  Always scores a critical hit.">Frost Breath</span> | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 90 | 10 |
+| TM87 | <span class="tooltip" title="The user enrages the foe into confusion. However, it also sharply raises the foe’s Attack stat.">Swagger</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 15 |
+| TM88 | <span class="tooltip" title="The user pecks the foe. If the foe is holding a Berry, the user plucks it and gains its effect.">Pluck</span> | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 20 |
+| TM89 | <span class="tooltip" title="After making its attack, the user rushes back to switch places with a party Pokémon in waiting.">U Turn</span> | ![bug](../assets/types/bug.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 70 | 100 | 20 |
+| TM90 | <span class="tooltip" title="The user makes a copy of itself using some of its HP. The copy serves as the user’s decoy.">Substitute</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
 
 ### Egg Moves
 
 | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- |
-| Ice Punch | ![ice](../assets/types/ice.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 100 | 15 |
-| Aurora Beam | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 75 | 100 | 15 |
-| Quick Attack | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 30 |
-| Splash | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 40 |
-| Icy Wind | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 55 | 95 | 15 |
-| Rapid Spin | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 50 | 100 | 40 |
-| Future Sight | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 120 | 100 | 10 |
-| Fake Out | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 10 |
-| Ice Ball | ![ice](../assets/types/ice.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 30 | 90 | 20 |
-| Ice Shard | ![ice](../assets/types/ice.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 30 |
-| Bestow | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
+| <span class="tooltip" title="The foe is punched with an icy fist. It may leave the target frozen. ">Ice Punch</span> | ![ice](../assets/types/ice.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 100 | 15 |
+| <span class="tooltip" title="The foe is hit with a rainbow-colored beam. It may also lower the target’s Attack stat.">Aurora Beam</span> | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 75 | 100 | 15 |
+| <span class="tooltip" title="The user lunges at the foe at a speed that makes it almost invisible. It is sure to strike first.">Quick Attack</span> | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 30 |
+| <span class="tooltip" title="The user just flops and splashes around to no effect at all...  ">Splash</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 40 |
+| <span class="tooltip" title="The user attacks with a gust of chilled air. It also lowers the target’s Speed stat. ">Icy Wind</span> | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 55 | 95 | 15 |
+| <span class="tooltip" title="A spin attack that can also eliminate such moves as Bind, Wrap, Leech Seed, and Spikes.">Rapid Spin</span> | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 50 | 100 | 40 |
+| <span class="tooltip" title="Two turns after this move is used, the foe is attacked with a hunk of psychic energy.">Future Sight</span> | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 120 | 100 | 10 |
+| <span class="tooltip" title="An attack that hits first and makes the target flinch. This move works only on the first turn.">Fake Out</span> | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 10 |
+| <span class="tooltip" title="The user continually rolls into the foe over five turns. It becomes stronger each time it hits.">Ice Ball</span> | ![ice](../assets/types/ice.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 30 | 90 | 20 |
+| <span class="tooltip" title="The user flash freezes chunks of ice and hurls them. This move always goes first.">Ice Shard</span> | ![ice](../assets/types/ice.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 30 |
+| <span class="tooltip" title="Transfers the user's held item to the target.  If the user has no held item, or the target already has a held item, this move will fail.">Bestow</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
 
 ### Tutor Moves
 

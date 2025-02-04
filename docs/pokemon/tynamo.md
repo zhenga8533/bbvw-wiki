@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #602 | ![electric](../assets/types/electric.png){: width='48'} | 0.2 m | 0.3 kg | 1. Levitate | #108 |
+| #602 | ![electric](../assets/types/electric.png){: width='48'} | 0.2 m /<br>0.7 ft | 0.3 kg /<br>0.7 lbs | <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | #108 |
 
 ---
 
@@ -103,10 +103,10 @@ Tynamo has no alternate forms.
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Charge Beam | ![electric](../assets/types/electric.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 50 | 90 | 10 |
-| 1 | Spark | ![electric](../assets/types/electric.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 65 | 100 | 20 |
-| 1 | Tackle | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 35 |
-| 1 | Thunder Wave | ![electric](../assets/types/electric.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 20 |
+| 1 | <span class="tooltip" title="The user fires a concentrated bundle of electricity. It may also raise the user’s Sp. Atk stat.">Charge Beam</span> | ![electric](../assets/types/electric.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 50 | 90 | 10 |
+| 1 | <span class="tooltip" title="The user throws an electrically charged tackle at the foe. It may also leave the target paralyzed.">Spark</span> | ![electric](../assets/types/electric.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 65 | 100 | 20 |
+| 1 | <span class="tooltip" title="A physical attack in which the user charges and slams into the foe with its whole body.">Tackle</span> | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 35 |
+| 1 | <span class="tooltip" title="A weak electric charge is launched at the foe. It causes paralysis if it hits.">Thunder Wave</span> | ![electric](../assets/types/electric.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 20 |
 
 ### TM Moves
 

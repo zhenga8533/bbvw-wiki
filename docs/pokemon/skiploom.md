@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #188 | ![grass](../assets/types/grass.png){: width='48'} ![flying](../assets/types/flying.png){: width='48'} | 0.6 m | 1.0 kg | 1. Chlorophyll<br>2. Prankster | N/A |
+| #188 | ![grass](../assets/types/grass.png){: width='48'} ![flying](../assets/types/flying.png){: width='48'} | 0.6 m /<br>2.0 ft | 1.0 kg /<br>2.2 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br><span class="tooltip" title="Gives priority to a status move.">Prankster</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ Skiploom has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 120 | 70 | 119 | Medium-Slow | N/A |
+| 2 Speed | 120 | 70 | 119 | Medium Slow | N/A |
 
 ---
 
@@ -101,56 +101,56 @@ Skiploom has no alternate forms.
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Splash | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 40 |
-| 1 | Synthesis | ![grass](../assets/types/grass.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
-| 1 | Tackle | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 35 |
-| 1 | Tail Whip | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 30 |
-| 4 | Synthesis | ![grass](../assets/types/grass.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
-| 7 | Tail Whip | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 30 |
-| 10 | Tackle | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 35 |
-| 12 | Poison Powder | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 75 | 35 |
-| 14 | Stun Spore | ![grass](../assets/types/grass.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 75 | 30 |
-| 16 | Sleep Powder | ![grass](../assets/types/grass.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 75 | 15 |
-| 20 | Bullet Seed | ![grass](../assets/types/grass.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 25 | 100 | 30 |
-| 24 | Leech Seed | ![grass](../assets/types/grass.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 10 |
-| 28 | Mega Drain | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 50 | 100 | 15 |
-| 32 | Acrobatics | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 55 | 100 | 15 |
-| 36 | Rage Powder | ![bug](../assets/types/bug.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
-| 40 | Cotton Spore | ![grass](../assets/types/grass.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 40 |
-| 44 | U Turn | ![bug](../assets/types/bug.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 70 | 100 | 20 |
-| 48 | Worry Seed | ![grass](../assets/types/grass.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 10 |
-| 52 | Giga Drain | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 75 | 100 | 10 |
-| 56 | Bounce | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 85 | 5 |
-| 60 | Memento | ![dark](../assets/types/dark.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 10 |
-| 64 | Cotton Guard | ![grass](../assets/types/grass.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
+| 1 | <span class="tooltip" title="The user just flops and splashes around to no effect at all...  ">Splash</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 40 |
+| 1 | <span class="tooltip" title="The user restores its own HP. The amount of HP regained varies with the weather.">Synthesis</span> | ![grass](../assets/types/grass.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
+| 1 | <span class="tooltip" title="A physical attack in which the user charges and slams into the foe with its whole body.">Tackle</span> | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 35 |
+| 1 | <span class="tooltip" title="The user wags its tail cutely, making the foe less wary. The target’s Defense stat is lowered.">Tail Whip</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 30 |
+| 4 | <span class="tooltip" title="The user restores its own HP. The amount of HP regained varies with the weather.">Synthesis</span> | ![grass](../assets/types/grass.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
+| 7 | <span class="tooltip" title="The user wags its tail cutely, making the foe less wary. The target’s Defense stat is lowered.">Tail Whip</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 30 |
+| 10 | <span class="tooltip" title="A physical attack in which the user charges and slams into the foe with its whole body.">Tackle</span> | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 35 |
+| 12 | <span class="tooltip" title="A cloud of poisonous dust is scattered on the foe. It may poison the target.">Poison Powder</span> | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 75 | 35 |
+| 14 | <span class="tooltip" title="The user scatters a cloud of paralyzing powder. It may paralyze the target.">Stun Spore</span> | ![grass](../assets/types/grass.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 75 | 30 |
+| 16 | <span class="tooltip" title="The user scatters a big cloud of sleep- inducing dust around the foe. ">Sleep Powder</span> | ![grass](../assets/types/grass.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 75 | 15 |
+| 20 | <span class="tooltip" title="The user forcefully shoots seeds at the foe. Two to five seeds are shot in rapid succession.">Bullet Seed</span> | ![grass](../assets/types/grass.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 25 | 100 | 30 |
+| 24 | <span class="tooltip" title="A seed is planted on the foe. It steals some HP from the foe to heal the user on every turn.">Leech Seed</span> | ![grass](../assets/types/grass.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 10 |
+| 28 | <span class="tooltip" title="A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.">Mega Drain</span> | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 50 | 100 | 15 |
+| 32 | <span class="tooltip" title="Inflicts regular damage.  If the user has no held item, this move has double power.">Acrobatics</span> | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 55 | 100 | 15 |
+| 36 | <span class="tooltip" title="Until the end of this turn, any moves that opposing Pokémon target solely at the user's ally will instead target the user.  If both Pokémon on the same side of the field use this move on the same turn, the Pokémon that uses it last will become the target.  This effect takes priority over lightning rod and storm drain.  If the user's ally switches out, opposing Pokémon may still hit it with pursuit.  This move cannot be selected by assist or metronome.">Rage Powder</span> | ![bug](../assets/types/bug.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
+| 40 | <span class="tooltip" title="The user releases cottonlike spores that cling to the foe, sharply reducing its Speed stat.">Cotton Spore</span> | ![grass](../assets/types/grass.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 40 |
+| 44 | <span class="tooltip" title="After making its attack, the user rushes back to switch places with a party Pokémon in waiting.">U Turn</span> | ![bug](../assets/types/bug.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 70 | 100 | 20 |
+| 48 | <span class="tooltip" title="A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.">Worry Seed</span> | ![grass](../assets/types/grass.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 10 |
+| 52 | <span class="tooltip" title="A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.">Giga Drain</span> | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 75 | 100 | 10 |
+| 56 | <span class="tooltip" title="The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.">Bounce</span> | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 85 | 5 |
+| 60 | <span class="tooltip" title="The user faints upon using this move. In return, it sharply lowers the target’s Attack and Sp. Atk.">Memento</span> | ![dark](../assets/types/dark.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 10 |
+| 64 | <span class="tooltip" title="Raises the user's Defense by three stages.">Cotton Guard</span> | ![grass](../assets/types/grass.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
 
 ### TM Moves
 
 | TM | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| TM06 | Toxic | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 10 |
-| TM10 | Hidden Power | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 15 |
-| TM11 | Sunny Day | ![fire](../assets/types/fire.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
-| TM17 | Protect | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
-| TM21 | Frustration | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 20 |
-| TM22 | Solar Beam | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 120 | 100 | 10 |
-| TM27 | Return | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 20 |
-| TM32 | Double Team | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
-| TM33 | Reflect | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
-| TM40 | Aerial Ace | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | — | 20 |
-| TM42 | Facade | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 70 | 100 | 20 |
-| TM44 | Rest | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
-| TM45 | Attract | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 15 |
-| TM48 | Round | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 15 |
-| TM53 | Energy Ball | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
-| TM62 | Acrobatics | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 55 | 100 | 15 |
-| TM70 | Flash | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 20 |
-| TM75 | Swords Dance | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
-| TM77 | Psych Up | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
-| TM86 | Grass Knot | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | 100 | 20 |
-| TM87 | Swagger | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 15 |
-| TM89 | U Turn | ![bug](../assets/types/bug.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 70 | 100 | 20 |
-| TM90 | Substitute | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
+| TM06 | <span class="tooltip" title="A move that leaves the target badly poisoned. Its poison damage worsens every turn.">Toxic</span> | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 10 |
+| TM10 | <span class="tooltip" title="A unique attack that varies in type and intensity depending on the Pokémon using it.">Hidden Power</span> | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 15 |
+| TM11 | <span class="tooltip" title="The user intensifies the sun for five turns, powering up Fire-type moves. ">Sunny Day</span> | ![fire](../assets/types/fire.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
+| TM17 | <span class="tooltip" title="It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.">Protect</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
+| TM21 | <span class="tooltip" title="A full-power attack that grows more powerful the less the user likes its Trainer.">Frustration</span> | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 20 |
+| TM22 | <span class="tooltip" title="A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.">Solar Beam</span> | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 120 | 100 | 10 |
+| TM27 | <span class="tooltip" title="A full-power attack that grows more powerful the more the user likes its Trainer.">Return</span> | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 20 |
+| TM32 | <span class="tooltip" title="By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. ">Double Team</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
+| TM33 | <span class="tooltip" title="A wondrous wall of light is put up to suppress damage from physical attacks for five turns.">Reflect</span> | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
+| TM40 | <span class="tooltip" title="The user confounds the foe with speed, then slashes. The attack lands without fail.">Aerial Ace</span> | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | — | 20 |
+| TM42 | <span class="tooltip" title="An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.">Facade</span> | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 70 | 100 | 20 |
+| TM44 | <span class="tooltip" title="The user goes to sleep for two turns. It fully restores the user’s HP and heals any status problem.">Rest</span> | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
+| TM45 | <span class="tooltip" title="If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.">Attract</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 15 |
+| TM48 | <span class="tooltip" title="Inflicts regular damage.  If round has already been used this turn, this move's power is doubled.  After this move is used, any other Pokémon using it this turn will immediately do so (in the order they would otherwise act), regardless of Speed or priority.  Pokémon using other moves will then continue to act as usual.">Round</span> | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 15 |
+| TM53 | <span class="tooltip" title="The user draws power from nature and fires it at the foe. It may also lower the target’s Sp. Def.">Energy Ball</span> | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
+| TM62 | <span class="tooltip" title="Inflicts regular damage.  If the user has no held item, this move has double power.">Acrobatics</span> | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 55 | 100 | 15 |
+| TM70 | <span class="tooltip" title="The user flashes a light that cuts the foe’s accuracy. It can also be used to illuminate caves.">Flash</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 20 |
+| TM75 | <span class="tooltip" title="A frenetic dance to uplift the fighting spirit. It sharply raises the user’s Attack stat.">Swords Dance</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
+| TM77 | <span class="tooltip" title="The user hypnotizes itself into copying any stat change made by the foe. ">Psych Up</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
+| TM86 | <span class="tooltip" title="The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.">Grass Knot</span> | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | 100 | 20 |
+| TM87 | <span class="tooltip" title="The user enrages the foe into confusion. However, it also sharply raises the foe’s Attack stat.">Swagger</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 15 |
+| TM89 | <span class="tooltip" title="After making its attack, the user rushes back to switch places with a party Pokémon in waiting.">U Turn</span> | ![bug](../assets/types/bug.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 70 | 100 | 20 |
+| TM90 | <span class="tooltip" title="The user makes a copy of itself using some of its HP. The copy serves as the user’s decoy.">Substitute</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
 
 ### Egg Moves
 

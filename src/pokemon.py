@@ -1,6 +1,8 @@
 from dotenv import load_dotenv
+from util.ability import get_ability
 from util.file import load, save, verify_asset_path
 from util.format import create_image_table, format_id, revert_id, verify_pokemon_form
+from util.item import get_item
 from util.logger import Logger
 from util.move import get_move
 import glob
@@ -193,7 +195,10 @@ def parse_moves(moves: list, headers: list, move_key: str) -> str:
             elif category == "TM":
                 md_body += f"| {move_data['machines'][move_key].upper()} "
             elif category == "Move":
-                md_body += f"| {revert_id(move_data['name'])} "
+                move_id = move_data["name"]
+                move_data = get_move(move_id)
+                move_effect = move_data["flavor_text_entries"].get("platinum", move_data["effect"]).replace("\n", " ")
+                md_body += f'| <span class="tooltip" title="{move_effect}">{revert_id(move_id)}</span> '
             elif category == "Type":
                 md_body += (
                     f"| ![{move_data['type']}](../assets/types/{format_id(move_data['type'])}.png){{: width='48'}} "
@@ -293,10 +298,19 @@ def to_md(pokemon: dict, pokemon_set: dict, move_path: str, logger: Logger) -> s
     md += f"|------------|---------|--------|--------|-----------|---------|\n"
     md += f"| #{pokemon_id}"
     md += f" | " + " ".join([f"![{t}](../assets/types/{format_id(t)}.png){{: width='48'}}" for t in pokemon["types"]])
-    md += f" | {pokemon['height']} m"
-    md += f" | {pokemon['weight']} kg"
-    abilities = [f"{i + 1}. {ability['name'].title()}" for i, ability in enumerate(pokemon["abilities"])]
-    md += f" | " + "<br>".join(abilities)
+    md += f" | {pokemon['height']} m /<br>{pokemon['height'] * 3.28084:.1f} ft"
+    md += f" | {pokemon['weight']} kg /<br>{pokemon['weight'] * 2.20462:.1f} lbs | "
+
+    # Abilities
+    for i, ability in enumerate(pokemon["abilities"]):
+        ability_name = ability["name"]
+        ability_data = get_ability(ability_name)
+        ability_effect = (
+            ability_data["flavor_text_entries"].get("black-white", ability_data["effect"]).replace("\n", " ")
+        )
+        md += f'<span class="tooltip" title="{ability_effect}">{revert_id(ability_name)}</span><br>'
+    md = md[:-4]
+
     local_no = pokemon["pokedex_numbers"].get("original-unova", None)
     md += f" | {'#' + str(local_no) if local_no else 'N/A'} |\n\n"
 
@@ -344,13 +358,22 @@ def to_md(pokemon: dict, pokemon_set: dict, move_path: str, logger: Logger) -> s
     md += " | " + str(pokemon["capture_rate"])
     md += " | " + str(pokemon["base_happiness"])
     md += " | " + str(pokemon["base_experience"])
-    md += " | " + pokemon["growth_rate"].title()
+    md += " | " + revert_id(pokemon["growth_rate"]) + " | "
+
     held_items = pokemon["held_items"]
     if len(held_items) == 0:
-        md += f" | N/A |\n\n"
+        md += f"N/A |\n\n"
     else:
-        items = [f"{item['name']} ({item['rarity']['black']}%)" for item in held_items if "black" in item["rarity"]]
-        md += f" | {'<br>'.join(items)} |\n\n"
+        for item in held_items:
+            item_rarity = item["rarity"]
+            if "black" not in item_rarity:
+                continue
+
+            item_name = item["name"]
+            item_data = get_item(item_name)
+            item_effect = item_data["flavor_text_entries"].get("black-white", item_data["effect"]).replace("\n", " ")
+            md += f'<span class="tooltip" title="{item_effect}">{revert_id(item_name)}</span> ({item_rarity["black"]}%)<br>'
+        md = md[:-4] + " |\n\n"
 
     # Breeding
     md += "---\n\n## Breeding\n\n"

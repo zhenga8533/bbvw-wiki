@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #131 | ![water](../assets/types/water.png){: width='48'} ![ice](../assets/types/ice.png){: width='48'} | 2.5 m | 220.0 kg | 1. Water-Absorb<br>2. Shell-Armor | N/A |
+| #131 | ![water](../assets/types/water.png){: width='48'} ![ice](../assets/types/ice.png){: width='48'} | 2.5 m /<br>8.2 ft | 220.0 kg /<br>485.0 lbs | <span class="tooltip" title="Restores HP if hit by a Water-type move.">Water Absorb</span><br><span class="tooltip" title="The Pokémon is protected against critical hits.">Shell Armor</span> | N/A |
 
 ---
 
@@ -75,7 +75,7 @@ Lapras has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 45 | 50 | 187 | Slow |  |
+| 2 Hp | 45 | 50 | 187 | Slo |
 
 ---
 
@@ -97,82 +97,82 @@ Lapras has no alternate forms.
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Bite | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 25 |
-| 1 | Future Sight | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 120 | 100 | 10 |
-| 1 | Growl | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 40 |
-| 1 | Sing | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 55 | 15 |
-| 1 | Water Gun | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 40 | 100 | 25 |
-| 4 | Mist | ![ice](../assets/types/ice.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 30 |
-| 7 | Confuse Ray | ![ghost](../assets/types/ghost.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 10 |
-| 10 | Ice Shard | ![ice](../assets/types/ice.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 30 |
-| 14 | Water Pulse | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 20 |
-| 18 | Body Slam | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
-| 22 | Rain Dance | ![water](../assets/types/water.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
-| 27 | Perish Song | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
-| 32 | Ice Beam | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
-| 37 | Scald | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 80 | 100 | 15 |
-| 43 | Safeguard | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 25 |
-| 49 | Hydro Pump | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 110 | 80 | 5 |
-| 53 | Dragon Dance | ![dragon](../assets/types/dragon.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
-| 57 | Outrage | ![dragon](../assets/types/dragon.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 120 | 100 | 10 |
-| 61 | Aqua Tail | ![water](../assets/types/water.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 90 | 90 | 10 |
-| 65 | Sheer Cold | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | 30 | 5 |
-| 69 | Shell Smash | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
+| 1 | <span class="tooltip" title="The foe is bitten with viciously sharp fangs. It may make the target flinch. ">Bite</span> | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 25 |
+| 1 | <span class="tooltip" title="Two turns after this move is used, the foe is attacked with a hunk of psychic energy.">Future Sight</span> | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 120 | 100 | 10 |
+| 1 | <span class="tooltip" title="The user growls in an endearing way, making the foe less wary. The target’s Attack stat is lowered.">Growl</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 40 |
+| 1 | <span class="tooltip" title="A soothing lullaby is sung in a calming voice that puts the foe into a deep slumber.">Sing</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 55 | 15 |
+| 1 | <span class="tooltip" title="The foe is blasted with a forceful shot of water.  ">Water Gun</span> | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 40 | 100 | 25 |
+| 4 | <span class="tooltip" title="The user cloaks its body with a white mist that prevents any of its stats from being cut for five turns.">Mist</span> | ![ice](../assets/types/ice.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 30 |
+| 7 | <span class="tooltip" title="The foe is exposed to a sinister ray that triggers confusion. ">Confuse Ray</span> | ![ghost](../assets/types/ghost.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 10 |
+| 10 | <span class="tooltip" title="The user flash freezes chunks of ice and hurls them. This move always goes first.">Ice Shard</span> | ![ice](../assets/types/ice.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 30 |
+| 14 | <span class="tooltip" title="The user attacks the foe with a pulsing blast of water. It may also confuse the foe.">Water Pulse</span> | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 20 |
+| 18 | <span class="tooltip" title="The user drops onto the foe with its full body weight. It may leave the foe paralyzed.">Body Slam</span> | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
+| 22 | <span class="tooltip" title="The user summons a heavy rain that falls for five turns, powering up Water- type moves.">Rain Dance</span> | ![water](../assets/types/water.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
+| 27 | <span class="tooltip" title="Any Pokémon that hears this song faints in three turns unless it switches out of battle.">Perish Song</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
+| 32 | <span class="tooltip" title="The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.">Ice Beam</span> | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
+| 37 | <span class="tooltip" title="Inflicts regular damage. Thaws the user if frozen and has a {chance} chance to burn the target.">Scald</span> | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 80 | 100 | 15 |
+| 43 | <span class="tooltip" title="The user creates a protective field that prevents status problems for five turns.">Safeguard</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 25 |
+| 49 | <span class="tooltip" title="The foe is blasted by a huge volume of water launched under great pressure. ">Hydro Pump</span> | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 110 | 80 | 5 |
+| 53 | <span class="tooltip" title="The user vigorously performs a mystic, powerful dance that boosts its Attack and Speed stats.">Dragon Dance</span> | ![dragon](../assets/types/dragon.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
+| 57 | <span class="tooltip" title="The user rampages and attacks for two to three turns. However, it then becomes confused.">Outrage</span> | ![dragon](../assets/types/dragon.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 120 | 100 | 10 |
+| 61 | <span class="tooltip" title="The user attacks by swinging its tail as if it were a vicious wave in a raging storm. ">Aqua Tail</span> | ![water](../assets/types/water.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 90 | 90 | 10 |
+| 65 | <span class="tooltip" title="The foe is attacked with a blast of absolute-zero cold. The foe instantly faints if it hits.">Sheer Cold</span> | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | 30 | 5 |
+| 69 | <span class="tooltip" title="Raises the user's Attack, Special Attack, and Speed by two stages each.  Lowers the user's Defense and Special Defense by one stage each.">Shell Smash</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
 
 ### TM Moves
 
 | TM | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| HM03 | Surf | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
-| HM04 | Strength | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 15 |
-| HM05 | Waterfall | ![water](../assets/types/water.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
-| HM06 | Dive | ![water](../assets/types/water.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 100 | 10 |
-| TM05 | Roar | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
-| TM06 | Toxic | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 10 |
-| TM07 | Hail | ![ice](../assets/types/ice.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
-| TM10 | Hidden Power | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 15 |
-| TM13 | Ice Beam | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
-| TM14 | Blizzard | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 110 | 70 | 5 |
-| TM15 | Hyper Beam | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 150 | 90 | 5 |
-| TM17 | Protect | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
-| TM18 | Rain Dance | ![water](../assets/types/water.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
-| TM20 | Safeguard | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 25 |
-| TM21 | Frustration | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 20 |
-| TM24 | Thunderbolt | ![electric](../assets/types/electric.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
-| TM25 | Thunder | ![electric](../assets/types/electric.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 110 | 70 | 10 |
-| TM27 | Return | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 20 |
-| TM29 | Psychic | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
-| TM32 | Double Team | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
-| TM42 | Facade | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 70 | 100 | 20 |
-| TM44 | Rest | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
-| TM45 | Attract | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 15 |
-| TM48 | Round | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 15 |
-| TM49 | Echoed Voice | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 40 | 100 | 15 |
-| TM68 | Giga Impact | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 150 | 90 | 5 |
-| TM78 | Bulldoze | ![ground](../assets/types/ground.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 100 | 20 |
-| TM79 | Frost Breath | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 90 | 10 |
-| TM85 | Dream Eater | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 100 | 100 | 15 |
-| TM87 | Swagger | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 15 |
-| TM90 | Substitute | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
-| TM94 | Rock Smash | ![fighting](../assets/types/fighting.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 15 |
+| HM03 | <span class="tooltip" title="It swamps the entire battlefield with a giant wave. It can also be used for crossing water.">Surf</span> | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
+| HM04 | <span class="tooltip" title="The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.">Strength</span> | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 15 |
+| HM05 | <span class="tooltip" title="The user charges the foe at an awesome speed. It can also be used to climb a waterfall.">Waterfall</span> | ![water](../assets/types/water.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 100 | 15 |
+| HM06 | <span class="tooltip" title="A two-turn attack. The user dives underwater on the first turn, then hits on the next turn.">Dive</span> | ![water](../assets/types/water.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 100 | 10 |
+| TM05 | <span class="tooltip" title="The foe is scared off, to be replaced by another Pokémon in its party. In the wild, the battle ends.">Roar</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
+| TM06 | <span class="tooltip" title="A move that leaves the target badly poisoned. Its poison damage worsens every turn.">Toxic</span> | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 10 |
+| TM07 | <span class="tooltip" title="The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.">Hail</span> | ![ice](../assets/types/ice.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
+| TM10 | <span class="tooltip" title="A unique attack that varies in type and intensity depending on the Pokémon using it.">Hidden Power</span> | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 15 |
+| TM13 | <span class="tooltip" title="The foe is struck with an icy-cold beam of energy. It may also freeze the target solid.">Ice Beam</span> | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
+| TM14 | <span class="tooltip" title="A howling blizzard is summoned to strike the foe. It may also freeze the target solid.">Blizzard</span> | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 110 | 70 | 5 |
+| TM15 | <span class="tooltip" title="The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.">Hyper Beam</span> | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 150 | 90 | 5 |
+| TM17 | <span class="tooltip" title="It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.">Protect</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
+| TM18 | <span class="tooltip" title="The user summons a heavy rain that falls for five turns, powering up Water- type moves.">Rain Dance</span> | ![water](../assets/types/water.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
+| TM20 | <span class="tooltip" title="The user creates a protective field that prevents status problems for five turns.">Safeguard</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 25 |
+| TM21 | <span class="tooltip" title="A full-power attack that grows more powerful the less the user likes its Trainer.">Frustration</span> | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 20 |
+| TM24 | <span class="tooltip" title="A strong electric blast is loosed at the foe. It may also leave the foe paralyzed.">Thunderbolt</span> | ![electric](../assets/types/electric.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
+| TM25 | <span class="tooltip" title="A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.">Thunder</span> | ![electric](../assets/types/electric.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 110 | 70 | 10 |
+| TM27 | <span class="tooltip" title="A full-power attack that grows more powerful the more the user likes its Trainer.">Return</span> | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 20 |
+| TM29 | <span class="tooltip" title="The foe is hit by a strong telekinetic force. It may also reduce the foe’s Sp. Def stat.">Psychic</span> | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
+| TM32 | <span class="tooltip" title="By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. ">Double Team</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
+| TM42 | <span class="tooltip" title="An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.">Facade</span> | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 70 | 100 | 20 |
+| TM44 | <span class="tooltip" title="The user goes to sleep for two turns. It fully restores the user’s HP and heals any status problem.">Rest</span> | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
+| TM45 | <span class="tooltip" title="If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.">Attract</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 15 |
+| TM48 | <span class="tooltip" title="Inflicts regular damage.  If round has already been used this turn, this move's power is doubled.  After this move is used, any other Pokémon using it this turn will immediately do so (in the order they would otherwise act), regardless of Speed or priority.  Pokémon using other moves will then continue to act as usual.">Round</span> | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 15 |
+| TM49 | <span class="tooltip" title="Inflicts regular damage.  If any friendly Pokémon used this move earlier this turn or on the previous turn, that use's power is added to this move's power, to a maximum of 200.">Echoed Voice</span> | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 40 | 100 | 15 |
+| TM68 | <span class="tooltip" title="The user charges at the foe using every bit of its power. The user must rest on the next turn.">Giga Impact</span> | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 150 | 90 | 5 |
+| TM78 | <span class="tooltip" title="Inflicts regular damage.  Has a 100% chance to lower the target's Speed by one stage.">Bulldoze</span> | ![ground](../assets/types/ground.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 100 | 20 |
+| TM79 | <span class="tooltip" title="Inflicts regular damage.  Always scores a critical hit.">Frost Breath</span> | ![ice](../assets/types/ice.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 90 | 10 |
+| TM85 | <span class="tooltip" title="An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user’s HP.">Dream Eater</span> | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 100 | 100 | 15 |
+| TM87 | <span class="tooltip" title="The user enrages the foe into confusion. However, it also sharply raises the foe’s Attack stat.">Swagger</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 15 |
+| TM90 | <span class="tooltip" title="The user makes a copy of itself using some of its HP. The copy serves as the user’s decoy.">Substitute</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
+| TM94 | <span class="tooltip" title="The user slugs the foe with a shattering punch. It can also smash cracked boulders.">Rock Smash</span> | ![fighting](../assets/types/fighting.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 15 |
 
 ### Egg Moves
 
 | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- |
-| Drill Run | ![ground](../assets/types/ground.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 95 | 10 |
-| Fissure | ![ground](../assets/types/ground.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 30 | 5 |
-| Curse | ![ghost](../assets/types/ghost.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
-| Foresight | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 40 |
-| Sleep Talk | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
-| Ancient Power | ![rock](../assets/types/rock.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 5 |
-| Future Sight | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 120 | 100 | 10 |
-| Whirlpool | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 35 | 85 | 15 |
-| Refresh | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
-| Tickle | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 20 |
-| Dragon Dance | ![dragon](../assets/types/dragon.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
-| Dragon Pulse | ![dragon](../assets/types/dragon.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 85 | 100 | 10 |
-| Avalanche | ![ice](../assets/types/ice.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 10 |
+| <span class="tooltip" title="Inflicts regular damage.  User's critical hit rate is one level higher when using this move.">Drill Run</span> | ![ground](../assets/types/ground.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 95 | 10 |
+| <span class="tooltip" title="The user opens up a fissure in the ground and drops the foe in. The target instantly faints if it hits.">Fissure</span> | ![ground](../assets/types/ground.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 30 | 5 |
+| <span class="tooltip" title="A move that works differently for the Ghost type than for all the other types. ">Curse</span> | ![ghost](../assets/types/ghost.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
+| <span class="tooltip" title="Enables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.">Foresight</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 40 |
+| <span class="tooltip" title="While it is asleep, the user randomly uses one of the moves it knows. ">Sleep Talk</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
+| <span class="tooltip" title="The user attacks with a prehistoric power. It may also raise all the user’s stats at once.">Ancient Power</span> | ![rock](../assets/types/rock.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 5 |
+| <span class="tooltip" title="Two turns after this move is used, the foe is attacked with a hunk of psychic energy.">Future Sight</span> | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 120 | 100 | 10 |
+| <span class="tooltip" title="The user traps the foe inside a fast, vicious whirlpool that lasts for two to five turns.">Whirlpool</span> | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 35 | 85 | 15 |
+| <span class="tooltip" title="The user rests to cure itself of a poisoning, burn, or paralysis. ">Refresh</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
+| <span class="tooltip" title="The user tickles the foe into laughing, reducing its Attack and Defense stats. ">Tickle</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 20 |
+| <span class="tooltip" title="The user vigorously performs a mystic, powerful dance that boosts its Attack and Speed stats.">Dragon Dance</span> | ![dragon](../assets/types/dragon.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
+| <span class="tooltip" title="The foe is attacked with a shock wave generated by the user’s gaping mouth. ">Dragon Pulse</span> | ![dragon](../assets/types/dragon.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 85 | 100 | 10 |
+| <span class="tooltip" title="An attack move that inflicts double the damage if the user has been hurt by the foe in the same turn.">Avalanche</span> | ![ice](../assets/types/ice.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 10 |
 
 ### Tutor Moves
 

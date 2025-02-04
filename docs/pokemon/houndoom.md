@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #229 | ![dark](../assets/types/dark.png){: width='48'} ![fire](../assets/types/fire.png){: width='48'} | 1.4 m | 35.0 kg | 1. Intimidate<br>2. Flash-Fire | N/A |
+| #229 | ![dark](../assets/types/dark.png){: width='48'} ![fire](../assets/types/fire.png){: width='48'} | 1.4 m /<br>4.6 ft | 35.0 kg /<br>77.2 lbs | <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br><span class="tooltip" title="It powers up Fire-type moves if it’s hit by one.">Flash Fire</span> | N/A |
 
 ---
 
@@ -105,67 +105,67 @@ Houndoom has no alternate forms.
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Ember | ![fire](../assets/types/fire.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 40 | 100 | 25 |
-| 1 | Howl | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 40 |
-| 1 | Leer | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 30 |
-| 1 | Smog | ![poison](../assets/types/poison.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 30 | 70 | 20 |
-| 1 | Thunder Fang | ![electric](../assets/types/electric.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 75 | 95 | 15 |
-| 4 | Howl | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 40 |
-| 8 | Smog | ![poison](../assets/types/poison.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 30 | 70 | 20 |
-| 13 | Roar | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
-| 16 | Bite | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 25 |
-| 20 | Odor Sleuth | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 40 |
-| 23 | Snarl | ![dark](../assets/types/dark.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 95 | 15 |
-| 26 | Beat Up | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 10 |
-| 30 | Fire Fang | ![fire](../assets/types/fire.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 75 | 95 | 15 |
-| 35 | Feint Attack | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | — | 20 |
-| 41 | Embargo | ![dark](../assets/types/dark.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 15 |
-| 43 | Dark Pulse | ![dark](../assets/types/dark.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
-| 45 | Foul Play | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 95 | 100 | 15 |
-| 50 | Flamethrower | ![fire](../assets/types/fire.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
-| 56 | Crunch | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 100 | 15 |
-| 60 | Nasty Plot | ![dark](../assets/types/dark.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
-| 65 | Inferno | ![fire](../assets/types/fire.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 100 | 50 | 5 |
+| 1 | <span class="tooltip" title="The foe is attacked with small flames. The target may also be left with a burn. ">Ember</span> | ![fire](../assets/types/fire.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 40 | 100 | 25 |
+| 1 | <span class="tooltip" title="The user howls loudly to raise its spirit, boosting its Attack stat. ">Howl</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 40 |
+| 1 | <span class="tooltip" title="The foe is given an intimidating leer with sharp eyes. The target’s Defense stat is reduced.">Leer</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 30 |
+| 1 | <span class="tooltip" title="The foe is attacked with a discharge of filthy gases. It may also poison the target.">Smog</span> | ![poison](../assets/types/poison.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 30 | 70 | 20 |
+| 1 | <span class="tooltip" title="The user bites with electrified fangs. It may also make the foe flinch or become paralyzed.">Thunder Fang</span> | ![electric](../assets/types/electric.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 75 | 95 | 15 |
+| 4 | <span class="tooltip" title="The user howls loudly to raise its spirit, boosting its Attack stat. ">Howl</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 40 |
+| 8 | <span class="tooltip" title="The foe is attacked with a discharge of filthy gases. It may also poison the target.">Smog</span> | ![poison](../assets/types/poison.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 30 | 70 | 20 |
+| 13 | <span class="tooltip" title="The foe is scared off, to be replaced by another Pokémon in its party. In the wild, the battle ends.">Roar</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
+| 16 | <span class="tooltip" title="The foe is bitten with viciously sharp fangs. It may make the target flinch. ">Bite</span> | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 25 |
+| 20 | <span class="tooltip" title="Enables the user to hit a Ghost type with any type of move. It also enables the user to hit an evasive foe.">Odor Sleuth</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 40 |
+| 23 | <span class="tooltip" title="Inflicts regular damage.  Has a 100% chance to lower the target's Special Attack by one stage.">Snarl</span> | ![dark](../assets/types/dark.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 95 | 15 |
+| 26 | <span class="tooltip" title="The user gets all the party Pokémon to attack the foe. The more party Pokémon, the more damage.">Beat Up</span> | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 10 |
+| 30 | <span class="tooltip" title="The user bites with flame-cloaked fangs. It may also make the foe flinch or sustain a burn.">Fire Fang</span> | ![fire](../assets/types/fire.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 75 | 95 | 15 |
+| 35 | <span class="tooltip" title="The user draws up to the foe disarmingly, then throws a sucker punch. It hits without fail.">Feint Attack</span> | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | — | 20 |
+| 41 | <span class="tooltip" title="It prevents the foe from using its held item. Its Trainer is also prevented from using items on it.">Embargo</span> | ![dark](../assets/types/dark.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 15 |
+| 43 | <span class="tooltip" title="The user releases a horrible aura imbued with dark thoughts. It may also make the target flinch.">Dark Pulse</span> | ![dark](../assets/types/dark.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
+| 45 | <span class="tooltip" title="Inflicts regular damage.  Damage is calculated using the target's attacking stat rather than the user's.">Foul Play</span> | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 95 | 100 | 15 |
+| 50 | <span class="tooltip" title="The foe is scorched with an intense blast of fire. The target may also be left with a burn.">Flamethrower</span> | ![fire](../assets/types/fire.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
+| 56 | <span class="tooltip" title="The user crunches up the foe with sharp fangs. It may also lower the target’s Defense stat.">Crunch</span> | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 80 | 100 | 15 |
+| 60 | <span class="tooltip" title="The user stimulates its brain by thinking bad thoughts. It sharply raises the user’s Sp. Atk.">Nasty Plot</span> | ![dark](../assets/types/dark.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
+| 65 | <span class="tooltip" title="Inflicts regular damage.  Has a 100% chance to burn the target.">Inferno</span> | ![fire](../assets/types/fire.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 100 | 50 | 5 |
 
 ### TM Moves
 
 | TM | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| HM04 | Strength | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 15 |
-| TM05 | Roar | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
-| TM06 | Toxic | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 10 |
-| TM10 | Hidden Power | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 15 |
-| TM11 | Sunny Day | ![fire](../assets/types/fire.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
-| TM12 | Taunt | ![dark](../assets/types/dark.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 20 |
-| TM15 | Hyper Beam | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 150 | 90 | 5 |
-| TM17 | Protect | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
-| TM21 | Frustration | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 20 |
-| TM22 | Solar Beam | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 120 | 100 | 10 |
-| TM27 | Return | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 20 |
-| TM30 | Shadow Ball | ![ghost](../assets/types/ghost.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
-| TM32 | Double Team | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
-| TM35 | Flamethrower | ![fire](../assets/types/fire.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
-| TM36 | Sludge Bomb | ![poison](../assets/types/poison.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
-| TM38 | Fire Blast | ![fire](../assets/types/fire.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 110 | 85 | 5 |
-| TM41 | Torment | ![dark](../assets/types/dark.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 15 |
-| TM42 | Facade | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 70 | 100 | 20 |
-| TM43 | Flame Charge | ![fire](../assets/types/fire.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 50 | 100 | 20 |
-| TM44 | Rest | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
-| TM45 | Attract | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 15 |
-| TM46 | Thief | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 25 |
-| TM48 | Round | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 15 |
-| TM50 | Overheat | ![fire](../assets/types/fire.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 130 | 90 | 5 |
-| TM59 | Incinerate | ![fire](../assets/types/fire.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 50 | 100 | 15 |
-| TM61 | Will O Wisp | ![fire](../assets/types/fire.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 15 |
-| TM63 | Embargo | ![dark](../assets/types/dark.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 15 |
-| TM66 | Payback | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 50 | 100 | 10 |
-| TM67 | Retaliate | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 70 | 100 | 5 |
-| TM68 | Giga Impact | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 150 | 90 | 5 |
-| TM85 | Dream Eater | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 100 | 100 | 15 |
-| TM87 | Swagger | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 15 |
-| TM90 | Substitute | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
-| TM94 | Rock Smash | ![fighting](../assets/types/fighting.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 15 |
-| TM95 | Snarl | ![dark](../assets/types/dark.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 95 | 15 |
+| HM04 | <span class="tooltip" title="The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.">Strength</span> | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 100 | 100 | 15 |
+| TM05 | <span class="tooltip" title="The foe is scared off, to be replaced by another Pokémon in its party. In the wild, the battle ends.">Roar</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
+| TM06 | <span class="tooltip" title="A move that leaves the target badly poisoned. Its poison damage worsens every turn.">Toxic</span> | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 10 |
+| TM10 | <span class="tooltip" title="A unique attack that varies in type and intensity depending on the Pokémon using it.">Hidden Power</span> | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 15 |
+| TM11 | <span class="tooltip" title="The user intensifies the sun for five turns, powering up Fire-type moves. ">Sunny Day</span> | ![fire](../assets/types/fire.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
+| TM12 | <span class="tooltip" title="The foe is taunted into a rage that allows it to use only attack moves for two to four turns.">Taunt</span> | ![dark](../assets/types/dark.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 20 |
+| TM15 | <span class="tooltip" title="The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.">Hyper Beam</span> | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 150 | 90 | 5 |
+| TM17 | <span class="tooltip" title="It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.">Protect</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
+| TM21 | <span class="tooltip" title="A full-power attack that grows more powerful the less the user likes its Trainer.">Frustration</span> | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 20 |
+| TM22 | <span class="tooltip" title="A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn.">Solar Beam</span> | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 120 | 100 | 10 |
+| TM27 | <span class="tooltip" title="A full-power attack that grows more powerful the more the user likes its Trainer.">Return</span> | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 20 |
+| TM30 | <span class="tooltip" title="The user hurls a shadowy blob at the foe. It may also lower the foe’s Sp. Def stat.">Shadow Ball</span> | ![ghost](../assets/types/ghost.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
+| TM32 | <span class="tooltip" title="By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. ">Double Team</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
+| TM35 | <span class="tooltip" title="The foe is scorched with an intense blast of fire. The target may also be left with a burn.">Flamethrower</span> | ![fire](../assets/types/fire.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
+| TM36 | <span class="tooltip" title="The user attacks by hurling filthy sludge at the foe. It may also poison the target.">Sludge Bomb</span> | ![poison](../assets/types/poison.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
+| TM38 | <span class="tooltip" title="The foe is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn.">Fire Blast</span> | ![fire](../assets/types/fire.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 110 | 85 | 5 |
+| TM41 | <span class="tooltip" title="The user torments and enrages the foe, making it incapable of using the same move twice in a row.">Torment</span> | ![dark](../assets/types/dark.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 15 |
+| TM42 | <span class="tooltip" title="An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.">Facade</span> | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 70 | 100 | 20 |
+| TM43 | <span class="tooltip" title="Inflicts regular damage.  Raises the user's Speed by one stage.">Flame Charge</span> | ![fire](../assets/types/fire.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 50 | 100 | 20 |
+| TM44 | <span class="tooltip" title="The user goes to sleep for two turns. It fully restores the user’s HP and heals any status problem.">Rest</span> | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
+| TM45 | <span class="tooltip" title="If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.">Attract</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 15 |
+| TM46 | <span class="tooltip" title="The user attacks and steals the foe’s held item simultaneously. It can’t steal if the user holds an item.">Thief</span> | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 25 |
+| TM48 | <span class="tooltip" title="Inflicts regular damage.  If round has already been used this turn, this move's power is doubled.  After this move is used, any other Pokémon using it this turn will immediately do so (in the order they would otherwise act), regardless of Speed or priority.  Pokémon using other moves will then continue to act as usual.">Round</span> | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 15 |
+| TM50 | <span class="tooltip" title="The user attacks the foe at full power. The attack’s recoil sharply reduces the user’s Sp. Atk stat.">Overheat</span> | ![fire](../assets/types/fire.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 130 | 90 | 5 |
+| TM59 | <span class="tooltip" title="Inflicts regular damage.  If the target is holding a berry, it's destroyed and cannot be used in response to this move.">Incinerate</span> | ![fire](../assets/types/fire.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 50 | 100 | 15 |
+| TM61 | <span class="tooltip" title="The user shoots a sinister, bluish white flame at the foe to inflict a burn. ">Will O Wisp</span> | ![fire](../assets/types/fire.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 15 |
+| TM63 | <span class="tooltip" title="It prevents the foe from using its held item. Its Trainer is also prevented from using items on it.">Embargo</span> | ![dark](../assets/types/dark.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 15 |
+| TM66 | <span class="tooltip" title="If the user can use this attack after the foe attacks, its power is doubled. ">Payback</span> | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 50 | 100 | 10 |
+| TM67 | <span class="tooltip" title="Inflicts regular damage.  If a friendly Pokémon fainted on the previous turn, this move has double power.">Retaliate</span> | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 70 | 100 | 5 |
+| TM68 | <span class="tooltip" title="The user charges at the foe using every bit of its power. The user must rest on the next turn.">Giga Impact</span> | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 150 | 90 | 5 |
+| TM85 | <span class="tooltip" title="An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user’s HP.">Dream Eater</span> | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 100 | 100 | 15 |
+| TM87 | <span class="tooltip" title="The user enrages the foe into confusion. However, it also sharply raises the foe’s Attack stat.">Swagger</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 15 |
+| TM90 | <span class="tooltip" title="The user makes a copy of itself using some of its HP. The copy serves as the user’s decoy.">Substitute</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
+| TM94 | <span class="tooltip" title="The user slugs the foe with a shattering punch. It can also smash cracked boulders.">Rock Smash</span> | ![fighting](../assets/types/fighting.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 15 |
+| TM95 | <span class="tooltip" title="Inflicts regular damage.  Has a 100% chance to lower the target's Special Attack by one stage.">Snarl</span> | ![dark](../assets/types/dark.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 95 | 15 |
 
 ### Egg Moves
 

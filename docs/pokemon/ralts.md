@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #280 | ![psychic](../assets/types/psychic.png){: width='48'} ![fairy](../assets/types/fairy.png){: width='48'} | 0.4 m | 6.6 kg | 1. Synchronize<br>2. Trace | N/A |
+| #280 | ![psychic](../assets/types/psychic.png){: width='48'} ![fairy](../assets/types/fairy.png){: width='48'} | 0.4 m /<br>1.3 ft | 6.6 kg /<br>14.6 lbs | <span class="tooltip" title="Passes a burn, poison, or paralysis to the foe.">Synchronize</span><br><span class="tooltip" title="The Pokémon copies a foe’s Ability.">Trace</span> | N/A |
 
 ---
 
@@ -103,81 +103,81 @@ Ralts has no alternate forms.
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Growl | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 40 |
-| 6 | Confusion | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 50 | 100 | 25 |
-| 10 | Double Team | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
-| 12 | Teleport | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
-| 15 | Psybeam | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 65 | 100 | 20 |
-| 17 | Lucky Chant | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 30 |
-| 19 | Shock Wave | ![electric](../assets/types/electric.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 70 | — | 20 |
-| 21 | Magical Leaf | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | — | 20 |
-| 23 | Heal Pulse | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
-| 25 | Confuse Ray | ![ghost](../assets/types/ghost.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 10 |
-| 28 | Calm Mind | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
-| 32 | Psychic | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
-| 34 | Imprison | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
-| 39 | Future Sight | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 120 | 100 | 10 |
-| 43 | Charm | ![fairy](../assets/types/fairy.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 20 |
-| 45 | Hypnosis | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 60 | 20 |
-| 50 | Dream Eater | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 100 | 100 | 15 |
-| 54 | Stored Power | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 20 | 100 | 10 |
+| 1 | <span class="tooltip" title="The user growls in an endearing way, making the foe less wary. The target’s Attack stat is lowered.">Growl</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 40 |
+| 6 | <span class="tooltip" title="The foe is hit by a weak telekinetic force. It may also leave the foe confused.">Confusion</span> | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 50 | 100 | 25 |
+| 10 | <span class="tooltip" title="By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. ">Double Team</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
+| 12 | <span class="tooltip" title="Use it to flee from any wild Pokémon. It may also be used to warp to the last Poké Center visited.">Teleport</span> | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
+| 15 | <span class="tooltip" title="The foe is attacked with a peculiar ray. It may also leave the target confused. ">Psybeam</span> | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 65 | 100 | 20 |
+| 17 | <span class="tooltip" title="The user chants an incantation toward the sky, preventing the foe from landing critical hits.">Lucky Chant</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 30 |
+| 19 | <span class="tooltip" title="The user strikes the foe with a quick jolt of electricity. This attack cannot be evaded.">Shock Wave</span> | ![electric](../assets/types/electric.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 70 | — | 20 |
+| 21 | <span class="tooltip" title="The user scatters curious leaves that chase the foe. This attack will not miss.">Magical Leaf</span> | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | — | 20 |
+| 23 | <span class="tooltip" title="Heals the target for half its max HP.">Heal Pulse</span> | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
+| 25 | <span class="tooltip" title="The foe is exposed to a sinister ray that triggers confusion. ">Confuse Ray</span> | ![ghost](../assets/types/ghost.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 10 |
+| 28 | <span class="tooltip" title="The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats.">Calm Mind</span> | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
+| 32 | <span class="tooltip" title="The foe is hit by a strong telekinetic force. It may also reduce the foe’s Sp. Def stat.">Psychic</span> | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
+| 34 | <span class="tooltip" title="If the foe knows any move also known by the user, the foe is prevented from using it.">Imprison</span> | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
+| 39 | <span class="tooltip" title="Two turns after this move is used, the foe is attacked with a hunk of psychic energy.">Future Sight</span> | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 120 | 100 | 10 |
+| 43 | <span class="tooltip" title="The user charmingly stares at the foe, making it less wary. The target’s Attack is sharply lowered.">Charm</span> | ![fairy](../assets/types/fairy.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 20 |
+| 45 | <span class="tooltip" title="The user employs hypnotic suggestion to make the target fall into a deep sleep.">Hypnosis</span> | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 60 | 20 |
+| 50 | <span class="tooltip" title="An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user’s HP.">Dream Eater</span> | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 100 | 100 | 15 |
+| 54 | <span class="tooltip" title="Inflicts regular damage.  Power is increased by 100% its original value for every stage any of the user's stats have been raised.  Accuracy, evasion, and lowered stats do not affect this move's power.  For a Pokémon with all five stats modified to +6, this move's power is 31×.">Stored Power</span> | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 20 | 100 | 10 |
 
 ### TM Moves
 
 | TM | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| TM03 | Psyshock | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 80 | 100 | 10 |
-| TM04 | Calm Mind | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
-| TM06 | Toxic | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 10 |
-| TM10 | Hidden Power | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 15 |
-| TM11 | Sunny Day | ![fire](../assets/types/fire.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
-| TM12 | Taunt | ![dark](../assets/types/dark.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 20 |
-| TM16 | Light Screen | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 30 |
-| TM17 | Protect | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
-| TM18 | Rain Dance | ![water](../assets/types/water.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
-| TM19 | Telekinesis | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
-| TM20 | Safeguard | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 25 |
-| TM21 | Frustration | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 20 |
-| TM24 | Thunderbolt | ![electric](../assets/types/electric.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
-| TM27 | Return | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 20 |
-| TM29 | Psychic | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
-| TM30 | Shadow Ball | ![ghost](../assets/types/ghost.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
-| TM32 | Double Team | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
-| TM33 | Reflect | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
-| TM41 | Torment | ![dark](../assets/types/dark.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 15 |
-| TM42 | Facade | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 70 | 100 | 20 |
-| TM44 | Rest | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
-| TM45 | Attract | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 15 |
-| TM46 | Thief | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 25 |
-| TM48 | Round | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 15 |
-| TM49 | Echoed Voice | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 40 | 100 | 15 |
-| TM51 | Ally Switch | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
-| TM56 | Fling | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 10 |
-| TM57 | Charge Beam | ![electric](../assets/types/electric.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 50 | 90 | 10 |
-| TM61 | Will O Wisp | ![fire](../assets/types/fire.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 15 |
-| TM70 | Flash | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 20 |
-| TM73 | Thunder Wave | ![electric](../assets/types/electric.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 20 |
-| TM77 | Psych Up | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
-| TM85 | Dream Eater | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 100 | 100 | 15 |
-| TM86 | Grass Knot | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | 100 | 20 |
-| TM87 | Swagger | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 15 |
-| TM90 | Substitute | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
-| TM92 | Trick Room | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
+| TM03 | <span class="tooltip" title="Inflicts regular damage.  Damage calculation always uses the target's Defense, regardless of this move's damage class.">Psyshock</span> | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 80 | 100 | 10 |
+| TM04 | <span class="tooltip" title="The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats.">Calm Mind</span> | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
+| TM06 | <span class="tooltip" title="A move that leaves the target badly poisoned. Its poison damage worsens every turn.">Toxic</span> | ![poison](../assets/types/poison.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 10 |
+| TM10 | <span class="tooltip" title="A unique attack that varies in type and intensity depending on the Pokémon using it.">Hidden Power</span> | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 15 |
+| TM11 | <span class="tooltip" title="The user intensifies the sun for five turns, powering up Fire-type moves. ">Sunny Day</span> | ![fire](../assets/types/fire.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
+| TM12 | <span class="tooltip" title="The foe is taunted into a rage that allows it to use only attack moves for two to four turns.">Taunt</span> | ![dark](../assets/types/dark.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 20 |
+| TM16 | <span class="tooltip" title="A wondrous wall of light is put up to suppress damage from special attacks for five turns.">Light Screen</span> | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 30 |
+| TM17 | <span class="tooltip" title="It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.">Protect</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
+| TM18 | <span class="tooltip" title="The user summons a heavy rain that falls for five turns, powering up Water- type moves.">Rain Dance</span> | ![water](../assets/types/water.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
+| TM19 | <span class="tooltip" title="For three turns (including this one), moves used against the target have 100% accuracy, but the target is immune to ground damage.  Accuracy of one-hit KO moves is exempt from this effect.  This effect is removed by gravity.  If Gravity is already in effect, this move will fail.">Telekinesis</span> | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
+| TM20 | <span class="tooltip" title="The user creates a protective field that prevents status problems for five turns.">Safeguard</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 25 |
+| TM21 | <span class="tooltip" title="A full-power attack that grows more powerful the less the user likes its Trainer.">Frustration</span> | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 20 |
+| TM24 | <span class="tooltip" title="A strong electric blast is loosed at the foe. It may also leave the foe paralyzed.">Thunderbolt</span> | ![electric](../assets/types/electric.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
+| TM27 | <span class="tooltip" title="A full-power attack that grows more powerful the more the user likes its Trainer.">Return</span> | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 20 |
+| TM29 | <span class="tooltip" title="The foe is hit by a strong telekinetic force. It may also reduce the foe’s Sp. Def stat.">Psychic</span> | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
+| TM30 | <span class="tooltip" title="The user hurls a shadowy blob at the foe. It may also lower the foe’s Sp. Def stat.">Shadow Ball</span> | ![ghost](../assets/types/ghost.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 15 |
+| TM32 | <span class="tooltip" title="By moving rapidly, the user makes illusory copies of itself to raise its evasiveness. ">Double Team</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
+| TM33 | <span class="tooltip" title="A wondrous wall of light is put up to suppress damage from physical attacks for five turns.">Reflect</span> | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 20 |
+| TM41 | <span class="tooltip" title="The user torments and enrages the foe, making it incapable of using the same move twice in a row.">Torment</span> | ![dark](../assets/types/dark.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 15 |
+| TM42 | <span class="tooltip" title="An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn.">Facade</span> | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 70 | 100 | 20 |
+| TM44 | <span class="tooltip" title="The user goes to sleep for two turns. It fully restores the user’s HP and heals any status problem.">Rest</span> | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
+| TM45 | <span class="tooltip" title="If it is the opposite gender of the user, the foe becomes infatuated and less likely to attack.">Attract</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 15 |
+| TM46 | <span class="tooltip" title="The user attacks and steals the foe’s held item simultaneously. It can’t steal if the user holds an item.">Thief</span> | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 25 |
+| TM48 | <span class="tooltip" title="Inflicts regular damage.  If round has already been used this turn, this move's power is doubled.  After this move is used, any other Pokémon using it this turn will immediately do so (in the order they would otherwise act), regardless of Speed or priority.  Pokémon using other moves will then continue to act as usual.">Round</span> | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 15 |
+| TM49 | <span class="tooltip" title="Inflicts regular damage.  If any friendly Pokémon used this move earlier this turn or on the previous turn, that use's power is added to this move's power, to a maximum of 200.">Echoed Voice</span> | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 40 | 100 | 15 |
+| TM51 | <span class="tooltip" title="User switches position on the field with the friendly Pokémon opposite it.  If the user is in the middle position in a triple battle, or there are no other friendly Pokémon, this move will fail.">Ally Switch</span> | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
+| TM56 | <span class="tooltip" title="The user flings its held item at the foe to attack. Its power and effects depend on the item.">Fling</span> | ![dark](../assets/types/dark.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 10 |
+| TM57 | <span class="tooltip" title="The user fires a concentrated bundle of electricity. It may also raise the user’s Sp. Atk stat.">Charge Beam</span> | ![electric](../assets/types/electric.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 50 | 90 | 10 |
+| TM61 | <span class="tooltip" title="The user shoots a sinister, bluish white flame at the foe to inflict a burn. ">Will O Wisp</span> | ![fire](../assets/types/fire.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 15 |
+| TM70 | <span class="tooltip" title="The user flashes a light that cuts the foe’s accuracy. It can also be used to illuminate caves.">Flash</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 20 |
+| TM73 | <span class="tooltip" title="A weak electric charge is launched at the foe. It causes paralysis if it hits.">Thunder Wave</span> | ![electric](../assets/types/electric.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 90 | 20 |
+| TM77 | <span class="tooltip" title="The user hypnotizes itself into copying any stat change made by the foe. ">Psych Up</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
+| TM85 | <span class="tooltip" title="An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user’s HP.">Dream Eater</span> | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 100 | 100 | 15 |
+| TM86 | <span class="tooltip" title="The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.">Grass Knot</span> | ![grass](../assets/types/grass.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | 100 | 20 |
+| TM87 | <span class="tooltip" title="The user enrages the foe into confusion. However, it also sharply raises the foe’s Attack stat.">Swagger</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 85 | 15 |
+| TM90 | <span class="tooltip" title="The user makes a copy of itself using some of its HP. The copy serves as the user’s decoy.">Substitute</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
+| TM92 | <span class="tooltip" title="The user creates a bizarre area in which slower Pokémon get to move first for five turns.">Trick Room</span> | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
 
 ### Egg Moves
 
 | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- |
-| Disable | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 20 |
-| Confuse Ray | ![ghost](../assets/types/ghost.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 10 |
-| Destiny Bond | ![ghost](../assets/types/ghost.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
-| Mean Look | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
-| Encore | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 5 |
-| Memento | ![dark](../assets/types/dark.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 10 |
-| Skill Swap | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
-| Grudge | ![ghost](../assets/types/ghost.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
-| Shadow Sneak | ![ghost](../assets/types/ghost.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 30 |
-| Synchronoise | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 120 | 100 | 10 |
+| <span class="tooltip" title="For several turns, this move prevents the foe from using the move it last used.">Disable</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 20 |
+| <span class="tooltip" title="The foe is exposed to a sinister ray that triggers confusion. ">Confuse Ray</span> | ![ghost](../assets/types/ghost.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 10 |
+| <span class="tooltip" title="When this move is used, if the user faints, the foe that landed the knockout hit also faints.">Destiny Bond</span> | ![ghost](../assets/types/ghost.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
+| <span class="tooltip" title="The user affixes the foe with a dark, arresting look. The target becomes unable to flee.">Mean Look</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
+| <span class="tooltip" title="The user compels the foe to keep using only the move it last used for three to seven turns.">Encore</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 5 |
+| <span class="tooltip" title="The user faints upon using this move. In return, it sharply lowers the target’s Attack and Sp. Atk.">Memento</span> | ![dark](../assets/types/dark.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 10 |
+| <span class="tooltip" title="The user employs its psychic power to exchange abilities with the foe. ">Skill Swap</span> | ![psychic](../assets/types/psychic.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
+| <span class="tooltip" title="If the user faints, the user’s grudge fully depletes the PP of the foe’s move that knocked it out.">Grudge</span> | ![ghost](../assets/types/ghost.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
+| <span class="tooltip" title="The user extends its shadow and attacks the foe from behind. This move always goes first.">Shadow Sneak</span> | ![ghost](../assets/types/ghost.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 30 |
+| <span class="tooltip" title="Inflicts regular damage.  Only Pokémon that share a type with the user will take damage from this move.">Synchronoise</span> | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 120 | 100 | 10 |
 
 ### Tutor Moves
 

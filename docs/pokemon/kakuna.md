@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #14 | ![bug](../assets/types/bug.png){: width='48'} ![poison](../assets/types/poison.png){: width='48'} | 0.6 m | 10.0 kg | 1. Shed-Skin<br>2. Battle-Armor | N/A |
+| #14 | ![bug](../assets/types/bug.png){: width='48'} ![poison](../assets/types/poison.png){: width='48'} | 0.6 m /<br>2.0 ft | 10.0 kg /<br>22.0 lbs | <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span><br><span class="tooltip" title="The Pokémon is protected against critical hits.">Battle Armor</span> | N/A |
 
 ---
 
@@ -101,8 +101,8 @@ Kakuna has no alternate forms.
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Harden | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 30 |
-| 7 | Harden | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 30 |
+| 1 | <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat. ">Harden</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 30 |
+| 7 | <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat. ">Harden</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 30 |
 
 ### TM Moves
 

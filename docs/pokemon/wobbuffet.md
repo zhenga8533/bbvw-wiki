@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #202 | ![psychic](../assets/types/psychic.png){: width='48'} | 1.3 m | 28.5 kg | 1. Shadow-Tag<br>2. Telepathy | N/A |
+| #202 | ![psychic](../assets/types/psychic.png){: width='48'} | 1.3 m /<br>4.3 ft | 28.5 kg /<br>62.8 lbs | <span class="tooltip" title="Prevents the foe from escaping.">Shadow Tag</span><br><span class="tooltip" title="Anticipates an ally’s attack and dodges it.">Telepathy</span> | N/A |
 
 ---
 
@@ -105,11 +105,11 @@ Wobbuffet has no alternate forms.
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Counter | ![fighting](../assets/types/fighting.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 20 |
-| 1 | Destiny Bond | ![ghost](../assets/types/ghost.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
-| 1 | Mirror Coat | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | 100 | 20 |
-| 1 | Safeguard | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 25 |
-| 15 | Mimic | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
+| 1 | <span class="tooltip" title="A retaliation move that counters any physical attack, inflicting double the damage taken.">Counter</span> | ![fighting](../assets/types/fighting.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 20 |
+| 1 | <span class="tooltip" title="When this move is used, if the user faints, the foe that landed the knockout hit also faints.">Destiny Bond</span> | ![ghost](../assets/types/ghost.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 5 |
+| 1 | <span class="tooltip" title="A retaliation move that counters any special attack, inflicting double the damage taken.">Mirror Coat</span> | ![psychic](../assets/types/psychic.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | — | 100 | 20 |
+| 1 | <span class="tooltip" title="The user creates a protective field that prevents status problems for five turns.">Safeguard</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 25 |
+| 15 | <span class="tooltip" title="The user copies the move last used by the foe. The move can be used for the rest of the battle.">Mimic</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
 
 ### TM Moves
 

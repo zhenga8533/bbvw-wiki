@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #13 | ![bug](../assets/types/bug.png){: width='48'} ![poison](../assets/types/poison.png){: width='48'} | 0.3 m | 3.2 kg | 1. Shield-Dust<br>2. Poison-Touch | N/A |
+| #13 | ![bug](../assets/types/bug.png){: width='48'} ![poison](../assets/types/poison.png){: width='48'} | 0.3 m /<br>1.0 ft | 3.2 kg /<br>7.1 lbs | <span class="tooltip" title="Blocks the added effects of attacks taken.">Shield Dust</span><br><span class="tooltip" title="May poison targets when a Pokémon makes contact.">Poison Touch</span> | N/A |
 
 ---
 
@@ -101,10 +101,10 @@ Weedle has no alternate forms.
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Bug Bite | ![bug](../assets/types/bug.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 20 |
-| 1 | Poison Sting | ![poison](../assets/types/poison.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 15 | 100 | 35 |
-| 1 | String Shot | ![bug](../assets/types/bug.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 95 | 40 |
-| 6 | Poison Tail | ![poison](../assets/types/poison.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 90 | 100 | 15 |
+| 1 | <span class="tooltip" title="The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.">Bug Bite</span> | ![bug](../assets/types/bug.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 20 |
+| 1 | <span class="tooltip" title="The foe is stabbed with a poisonous barb of some sort. It may also poison the target.">Poison Sting</span> | ![poison](../assets/types/poison.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 15 | 100 | 35 |
+| 1 | <span class="tooltip" title="The foe is bound with silk blown from the user’s mouth. It reduces the target’s Speed stat.">String Shot</span> | ![bug](../assets/types/bug.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 95 | 40 |
+| 6 | <span class="tooltip" title="An attack with a high critical-hit ratio. This tail  attack may also  poison the foe.">Poison Tail</span> | ![poison](../assets/types/poison.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 90 | 100 | 15 |
 
 ### TM Moves
 

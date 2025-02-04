@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #415 | ![bug](../assets/types/bug.png){: width='48'} ![flying](../assets/types/flying.png){: width='48'} | 0.3 m | 5.5 kg | 1. Honey-Gather<br>2. Hustle | N/A |
+| #415 | ![bug](../assets/types/bug.png){: width='48'} ![flying](../assets/types/flying.png){: width='48'} | 0.3 m /<br>1.0 ft | 5.5 kg /<br>12.1 lbs | <span class="tooltip" title="The Pokémon may gather Honey from somewhere.">Honey Gather</span><br><span class="tooltip" title="Boosts the Attack stat, but lowers accuracy.">Hustle</span> | N/A |
 
 ---
 
@@ -83,7 +83,7 @@ Combee has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 120 | 50 | 49 | Medium-Slow | honey (100%) |
+| 1 Speed | 120 | 50 | 49 | Medium Slow | <span class="tooltip" title="A sweet honey with a lush aroma that attracts wild Pokémon when it is used in grass, caves, or on special trees.">Honey</span> (100%) |
 
 ---
 
@@ -105,11 +105,11 @@ Combee has no alternate forms.
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Gust | ![flying](../assets/types/flying.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 40 | 100 | 35 |
-| 1 | Sweet Scent | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 20 |
-| 13 | Bug Bite | ![bug](../assets/types/bug.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 20 |
-| 16 | Tailwind | ![flying](../assets/types/flying.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
-| 19 | Endeavor | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 5 |
+| 1 | <span class="tooltip" title="A gust of wind is whipped up by wings and launched at the foe to inflict damage. ">Gust</span> | ![flying](../assets/types/flying.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 40 | 100 | 35 |
+| 1 | <span class="tooltip" title="A sweet scent that lowers the foe’s evasiveness. It also lures wild Pokémon if used in grass, etc.">Sweet Scent</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 20 |
+| 13 | <span class="tooltip" title="The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.">Bug Bite</span> | ![bug](../assets/types/bug.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 20 |
+| 16 | <span class="tooltip" title="The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for three turns.">Tailwind</span> | ![flying](../assets/types/flying.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
+| 19 | <span class="tooltip" title="An attack move that cuts down the foe’s HP to equal the user’s HP. ">Endeavor</span> | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 5 |
 
 ### TM Moves
 

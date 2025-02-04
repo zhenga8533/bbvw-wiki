@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #401 | ![bug](../assets/types/bug.png){: width='48'} | 0.3 m | 2.2 kg | 1. Shed-Skin<br>2. Run-Away | N/A |
+| #401 | ![bug](../assets/types/bug.png){: width='48'} | 0.3 m /<br>1.0 ft | 2.2 kg /<br>4.9 lbs | <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span><br><span class="tooltip" title="Enables a sure getaway from wild Pokémon.">Run Away</span> | N/A |
 
 ---
 
@@ -83,7 +83,7 @@ Kricketot has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 255 | 70 | 39 | Medium-Slow | metronome (5%) |
+| 1 Defense | 255 | 70 | 39 | Medium Slow | <span class="tooltip" title="A Pokémon held item that boosts a move used consecutively. Its effect is reset if another move is used.">Metronome</span> (5%) |
 
 ---
 
@@ -105,10 +105,10 @@ Kricketot has no alternate forms.
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Bide | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | — | 10 |
-| 1 | Bug Bite | ![bug](../assets/types/bug.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 20 |
-| 1 | Growl | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 40 |
-| 1 | Struggle Bug | ![bug](../assets/types/bug.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 50 | 100 | 20 |
+| 1 | <span class="tooltip" title="The user endures attacks for two turns, then strikes back to cause double the damage taken.">Bide</span> | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | — | 10 |
+| 1 | <span class="tooltip" title="The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.">Bug Bite</span> | ![bug](../assets/types/bug.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 20 |
+| 1 | <span class="tooltip" title="The user growls in an endearing way, making the foe less wary. The target’s Attack stat is lowered.">Growl</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 40 |
+| 1 | <span class="tooltip" title="Inflicts regular damage.  Has a 100% chance to lower the target's Special Attack by one stage.">Struggle Bug</span> | ![bug](../assets/types/bug.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 50 | 100 | 20 |
 
 ### TM Moves
 

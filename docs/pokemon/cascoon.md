@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #268 | ![bug](../assets/types/bug.png){: width='48'} | 0.7 m | 11.5 kg | 1. Shed-Skin<br>2. Shed-Skin | N/A |
+| #268 | ![bug](../assets/types/bug.png){: width='48'} | 0.7 m /<br>2.3 ft | 11.5 kg /<br>25.4 lbs | <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span><br><span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span> | N/A |
 
 ---
 
@@ -105,8 +105,8 @@ Cascoon has no alternate forms.
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Harden | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 30 |
-| 7 | Harden | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 30 |
+| 1 | <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat. ">Harden</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 30 |
+| 7 | <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat. ">Harden</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 30 |
 
 ### TM Moves
 

@@ -1929,8 +1929,8 @@ Ability Two: Forecast
 #352 Kecleon
 HP: 60  100
 Total: 440  480
-Ability One: Colour Change
-Ability Two: Colour Change
+Ability One: Color Change
+Ability Two: Color Change
 
 
 #353 Shuppet
@@ -3394,7 +3394,7 @@ Ability Two: Overcoat
 
 #617 Accelgor
 Ability One: Hydration
-Ability Two: Unburuden
+Ability Two: Unburden
 
 
 #618 Stunfisk

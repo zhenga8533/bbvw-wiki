@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #129 | ![water](../assets/types/water.png){: width='48'} | 0.9 m | 10.0 kg | 1. Swift-Swim<br>2. Rattled | N/A |
+| #129 | ![water](../assets/types/water.png){: width='48'} | 0.9 m /<br>3.0 ft | 10.0 kg /<br>22.0 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br><span class="tooltip" title="Some move types scare it and boost its Speed.">Rattled</span> | N/A |
 
 ---
 
@@ -105,12 +105,12 @@ Magikarp has no alternate forms.
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Bounce | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 85 | 5 |
-| 1 | Bubble | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 40 | 100 | 30 |
-| 1 | Reversal | ![fighting](../assets/types/fighting.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 15 |
-| 1 | Splash | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 40 |
-| 15 | Tackle | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 35 |
-| 30 | Flail | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 15 |
+| 1 | <span class="tooltip" title="The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.">Bounce</span> | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 85 | 5 |
+| 1 | <span class="tooltip" title="A spray of countless bubbles is jetted at the foe. It may also lower the target’s Speed stat.">Bubble</span> | ![water](../assets/types/water.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 40 | 100 | 30 |
+| 1 | <span class="tooltip" title="An all-out attack that becomes more powerful the less HP the user has. ">Reversal</span> | ![fighting](../assets/types/fighting.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 15 |
+| 1 | <span class="tooltip" title="The user just flops and splashes around to no effect at all...  ">Splash</span> | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 40 |
+| 15 | <span class="tooltip" title="A physical attack in which the user charges and slams into the foe with its whole body.">Tackle</span> | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 35 |
+| 30 | <span class="tooltip" title="The user flails about aimlessly to attack. It becomes more powerful the less HP the user has.">Flail</span> | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 15 |
 
 ### TM Moves
 

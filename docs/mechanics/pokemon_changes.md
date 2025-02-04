@@ -2963,8 +2963,8 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 
 <pre><code><b>HP:</b> 60 → 100
 <b>Total:</b> 440 → 480
-<b>Ability One:</b> Colour Change
-<b>Ability Two:</b> Colour Change
+<b>Ability One:</b> Color Change
+<b>Ability Two:</b> Color Change
 </code></pre>
 
 **[#353 Shuppet](../pokemon/shuppet.md/)**
@@ -5164,7 +5164,7 @@ Use the Ctrl + F function to skip directly to them to see the new method.
 ![accelgor](../assets/sprites/accelgor/front.gif)
 
 <pre><code><b>Ability One:</b> Hydration
-<b>Ability Two:</b> Unburuden
+<b>Ability Two:</b> Unburden
 </code></pre>
 
 **[#618 Stunfisk](../pokemon/stunfisk.md/)**
