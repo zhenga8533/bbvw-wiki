@@ -62,24 +62,16 @@ If you're looking for a challenge designed by someone who thinks they know the P
 
     All credit for the hack creation goes to [@Drayano60](https://x.com/drayano60){:target="\_blank"}. The creation of this wiki was inspired greatly by [BB/VW 2 Redux Wiki](https://smilingzero.github.io/BlazeBlack2ReduxWiki/){:target="\_blank"} by [@SmilingZero](https://github.com/SmilingZero){:target="\_blank"} and [Blaze Black Wiki](https://akeemallen.github.io/blaze-black-wiki/){:target="\_blank"} by [@AkeemAllen](https://github.com/AkeemAllen){:target="\_blank"}!
 
-elementking: It was thanks to him that I even got to start hacking B/W fully in the first place. Without him I probably wouldn't have discovered anything post Wild Pokemon editing.
+**elementking:** It was thanks to him that I even got to start hacking B/W fully in the first place. Without him I probably wouldn't have discovered anything post Wild Pokemon editing.
 
-Project Pokémon Forums: The ROM editing help section is a great way to find out if certain ideas are possible, and if so, how. Numerous people on there (as well as being found in other places) have made or stated discoveries that this hack uses, including Andibad, kaphotics and KazoWAR. Kazo in particular can also be thanked for the 1.1a incarnation of the trainer editor, a key tool for making this hack.
+**Project Pokémon Forums:** The ROM editing help section is a great way to find out if certain ideas are possible, and if so, how. Numerous people on there (as well as being found in other places) have made or stated discoveries that this hack uses, including Andibad, kaphotics and KazoWAR. Kazo in particular can also be thanked for the 1.1a incarnation of the trainer editor, a key tool for making this hack.
 
-twistedfatal: His tools help to simplify things significantly, cutting down on the amount of hex editing required.
+**twistedfatal:** His tools help to simplify things significantly, cutting down on the amount of hex editing required.
 
-neltazero: His tools are also very helpful and quite easy to use, making Wild Pokemon and trainer editing that much easier.
+**neltazero:** His tools are also very helpful and quite easy to use, making Wild Pokemon and trainer editing that much easier.
 
-SegNin: It's thanks to him we have the current .bat patching system for this, and by extension for Pitch Black and Pure White.
+**SegNin:** It's thanks to him we have the current .bat patching system for this, and by extension for Pitch Black and Pure White.
 
-knivez69: The banner up top is his incredible work.
+**knivez69:** The banner up top is his incredible work.
 
 Various Members of GBAtemp and GameFAQs: For ideas on additions/changes to make.
-
----
-
-## Known Bugs
-
-- The exp is weirdly low from certain high levelled opponents. This is to do with the game, though, and is not fixable.
-
-- It appears to be possible for an error to occur at Driftveil from repeated fishing then leaving... not sure about this one, but be sure to save around there just in case.
