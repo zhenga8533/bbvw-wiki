@@ -38,10 +38,10 @@ def parse_pokemon_sets(
             if pokemon_mds[num - 1] != "":
                 pokemon_mds[num - 1] += "<br>"
             pokemon_mds[num - 1] += "\n    ".join(pokemon_set.to_string().split("\n"))
-            pokemon_tables[num - 1] += "\n    ".join(pokemon_set.to_table().split("\n")) + "\n"
+            pokemon_tables[num - 1] += "\n    ".join(pokemon_set.to_table(logger).split("\n")) + "\n"
         else:
             base_md.append(pokemon_set.to_string())
-            base_tables.append(pokemon_set.to_table())
+            base_tables.append(pokemon_set.to_table(logger))
     pokemon_sets.clear()
 
     # Unpack wild data
@@ -96,8 +96,8 @@ def parse_pokemon_sets(
 
             # Add the table to the wild rosters
             wild_rosters[location] += f'=== "{blocks[i]}"\n\n'
-            wild_rosters[location] += "    | Pokemon | Attributes | Moves |\n"
-            wild_rosters[location] += "    |:-------:|------------|-------|\n"
+            wild_rosters[location] += "    | Pokémon | Attributes | Item | Moves |\n"
+            wild_rosters[location] += "    |:-------:|------------|:----:|-------|\n"
             for table in base_tables:
                 wild_rosters[location] += "    " + "\n    ".join(table.split("\n")) + "\n"
             wild_rosters[location] += "    " + "\n    ".join(pokemon_tables[i].split("\n")) + "\n\n"
@@ -106,8 +106,8 @@ def parse_pokemon_sets(
         md += "<pre><code>" + "\n".join(base_md) + "</code></pre>\n\n"
 
         # Add the table to the wild rosters
-        wild_rosters[location] += "| Pokemon | Attributes | Moves |\n"
-        wild_rosters[location] += "|:-------:|------------|-------|\n"
+        wild_rosters[location] += "    | Pokémon | Attributes | Item | Moves |\n"
+        wild_rosters[location] += "    |:-------:|------------|:----:|-------|\n"
         for table in base_tables:
             wild_rosters[location] += table + "\n"
         wild_rosters[location] += "\n"

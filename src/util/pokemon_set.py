@@ -1,7 +1,11 @@
 from util.ability import get_ability
+from util.file import download_file, load
 from util.format import format_id, revert_id
 from util.item import get_item
+from util.logger import Logger
 from util.move import get_move
+import json
+import os
 
 
 class PokemonSet:
@@ -42,36 +46,51 @@ class PokemonSet:
             s += f"4. {self.move_4}\n"
         return s
 
-    def to_table(self):
+    def to_table(self, logger: Logger):
         """
         Convert the PokemonSet object to a table.
 
         :return: The PokemonSet object as a table.
         """
 
-        id = format_id(self.species)
-        table = f'| ![{self.species}](../../assets/sprites/{id}/front.png "{revert_id(id)}") |'
-        table += f"**Lv. {self.level}** [{self.species}](../../pokemon/{id}.md/)<br>"
+        # Load Pokemon data
+        POKEMON_INPUT_PATH = os.getenv("POKEMON_INPUT_PATH")
+        pokemon_id = format_id(self.species)
+        pokemon_data = json.loads(load(POKEMON_INPUT_PATH + pokemon_id + ".json", logger))
+        pokemon_types = pokemon_data["types"]
+        pokemon_text = pokemon_data["flavor_text_entries"].get("black", self.species).replace("\n", " ")
 
-        # Item tooltip
-        table += f"**Item:** "
-        if self.item == "-":
-            table += f"No Item<br>"
-        else:
-            item_data = get_item(self.item)
-            item_effect = item_data["flavor_text_entries"].get("black-white", item_data["effect"]).replace("\n", " ")
-            table += f'<span class="tooltip" title="{item_effect}">{self.item}</span><br>'
+        # Create the table
+        table = f'| ![{self.species}](../../assets/sprites/{pokemon_id}/front.png "{self.species}: {pokemon_text}") | '
+        table += f"**Lv. {self.level}** [{self.species}](../../pokemon/{pokemon_id}.md/)<br>"
 
         # Ability tooltip
         table += f"**Ability:** "
         if self.ability_cln == "?":
-            table += "?"
+            table += "?<br>"
         else:
             ability_data = get_ability(self.ability_reg)
             ability_effect = (
                 ability_data["flavor_text_entries"].get("black-white", ability_data["effect"]).replace("\n", " ")
             )
-            table += f'<span class="tooltip" title="{ability_effect}">{self.ability_reg}</span> | '
+            table += f'<span class="tooltip" title="{ability_effect}">{self.ability_reg}</span><br>'
+
+        # Type tooltip
+        table += " ".join(f'![{t}](../../assets/types/{t}.png "{t.title()}"){{: width="48"}}' for t in pokemon_types)
+        table += " | "
+
+        # Item tooltip
+        if self.item == "-":
+            table += f"No Item | "
+        else:
+            item_data = get_item(self.item)
+            item_effect = item_data["flavor_text_entries"].get("black-white", item_data["effect"]).replace("\n", " ")
+            item_path = f"../docs/assets/items/{item_data['name']}.png"
+            if not os.path.exists(item_path):
+                download_file(item_path, item_data["sprite"], logger)
+
+            table += f'![{self.item}]({item_path.replace("docs", "..")} "{self.item}")<br>'
+            table += f'<span class="tooltip" title="{item_effect}">{self.item}</span> | '
 
         # Move tooltips
         for i, move in enumerate([self.move_1, self.move_2, self.move_3, self.move_4]):

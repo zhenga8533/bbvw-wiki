@@ -470,7 +470,6 @@ def main():
     LOG = os.getenv("LOG")
     TIMEOUT = int(os.getenv("TIMEOUT"))
     LOG_PATH = os.getenv("LOG_PATH")
-    OUTPUT_PATH = os.getenv("OUTPUT_PATH")
     POKEMON_INPUT_PATH = os.getenv("POKEMON_INPUT_PATH")
     POKEMON_PATH = os.getenv("POKEMON_PATH")
     MOVE_INPUT_PATH = os.getenv("MOVE_INPUT_PATH")
@@ -478,15 +477,16 @@ def main():
     logger = Logger("Pokémon Parser", f"{LOG_PATH}pokemon.log", LOG)
 
     # Fetch Pokémon data from PokéAPI
-    try:
-        logger.log(logging.INFO, "Fetching Pokémon data from PokéAPI")
-        pokedex = requests.get("https://pokeapi.co/api/v2/pokemon/?offset=0&limit=649", timeout=TIMEOUT).json()[
-            "results"
-        ]
-        logger.log(logging.INFO, "Successfully fetched Pokémon data from PokéAPI")
-    except requests.exceptions.RequestException:
-        logger.log(logging.ERROR, "Failed to fetch Pokémon data from PokéAPI")
-        exit(1)
+    while True:
+        try:
+            logger.log(logging.INFO, "Fetching Pokémon data from PokéAPI")
+            pokedex = requests.get("https://pokeapi.co/api/v2/pokemon/?offset=0&limit=649", timeout=TIMEOUT).json()[
+                "results"
+            ]
+            logger.log(logging.INFO, "Successfully fetched Pokémon data from PokéAPI")
+            break
+        except requests.exceptions.RequestException:
+            logger.log(logging.ERROR, "Failed to fetch Pokémon data from PokéAPI")
 
     # Fetch all valid Pokémon paths
     logger.log(logging.INFO, "Fetching all valid Pokémon paths")
