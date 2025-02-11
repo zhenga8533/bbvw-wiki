@@ -1,7 +1,7 @@
 # #415 Combee (Tiny Bee Pokémon)
 
 | Official Artwork | Shiny Artwork |
-| --- | --- |
+|------------------|---------------|
 | ![Official Artwork](../assets/sprites/combee/official_artwork.png "Combee") | ![Shiny Artwork](../assets/sprites/combee/official_artwork_shiny.png "Combee") |
 
 The trio is together from birth. It constantly gathers honey from flowers to please Vespiquen.
@@ -12,15 +12,15 @@ The trio is together from birth. It constantly gathers honey from flowers to ple
 
 ### Default Sprites
 
-| Front | Back | Front Shiny | Back Shiny |
-| --- | --- | --- | --- |
-| ![Front](../assets/sprites/combee/front.gif "Combee") | ![Back](../assets/sprites/combee/back.gif "Combee") | ![Front Shiny](../assets/sprites/combee/front_shiny.gif "Combee") | ![Back Shiny](../assets/sprites/combee/back_shiny.gif "Combee") |
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ![Combee](../assets/sprites/combee/front.gif "Combee: The trio is together from birth. It constantly gathers honey from flowers to please Vespiquen.") | ![Combee](../assets/sprites/combee/front_shiny.gif "Combee: The trio is together from birth. It constantly gathers honey from flowers to please Vespiquen.") | ![Combee](../assets/sprites/combee/back.gif "Combee: The trio is together from birth. It constantly gathers honey from flowers to please Vespiquen.") | ![Combee](../assets/sprites/combee/back_shiny.gif "Combee: The trio is together from birth. It constantly gathers honey from flowers to please Vespiquen.") |
 
 ### Female Sprites
 
-| Front | Back | Front Shiny | Back Shiny |
-| --- | --- | --- | --- |
-| ![Front](../assets/sprites/combee/front_female.gif "Combee") | ![Back](../assets/sprites/combee/back_female.gif "Combee") | ![Front Shiny](../assets/sprites/combee/front_shiny_female.gif "Combee") | ![Back Shiny](../assets/sprites/combee/back_shiny_female.gif "Combee") |
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ![Combee](../assets/sprites/combee/front_female.gif "Combee: The trio is together from birth. It constantly gathers honey from flowers to please Vespiquen.") | ![Combee](../assets/sprites/combee/front_shiny_female.gif "Combee: The trio is together from birth. It constantly gathers honey from flowers to please Vespiquen.") | ![Combee](../assets/sprites/combee/back_female.gif "Combee: The trio is together from birth. It constantly gathers honey from flowers to please Vespiquen.") | ![Combee](../assets/sprites/combee/back_shiny_female.gif "Combee: The trio is together from birth. It constantly gathers honey from flowers to please Vespiquen.") |
 
 ### Cries
 
@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #415 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.3 m /<br>1.0 ft | 5.5 kg /<br>12.1 lbs |  | 1. <span class="tooltip" title="The Pokémon may gather Honey from somewhere.">Honey Gather</span><br>2. <span class="tooltip" title="Boosts the Attack stat, but lowers accuracy.">Hustle</span> | N/A |
+| #415 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.3 m /<br>1.0 ft | 5.5 kg /<br>12.1 lbs | 1. <span class="tooltip" title="The Pokémon may gather Honey from somewhere.">Honey Gather</span><br>2. <span class="tooltip" title="Boosts the Attack stat, but lowers accuracy.">Hustle</span> | #53 |
 
 ---
 
@@ -105,11 +105,11 @@ Combee has no alternate forms.
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <span class="tooltip" title="A gust of wind is whipped up by wings and launched at the foe to inflict damage. ">Gust</span> | ![flying](../assets/types/flying.png "Flying"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 40 | 100 | 35 |
-| 1 | <span class="tooltip" title="A sweet scent that lowers the foe’s evasiveness. It also lures wild Pokémon if used in grass, etc.">Sweet Scent</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 100 | 20 |
-| 13 | <span class="tooltip" title="The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.">Bug Bite</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 60 | 100 | 20 |
-| 16 | <span class="tooltip" title="The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for three turns.">Tailwind</span> | ![flying](../assets/types/flying.png "Flying"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 15 |
-| 19 | <span class="tooltip" title="An attack move that cuts down the foe’s HP to equal the user’s HP. ">Endeavor</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | — | 100 | 5 |
+| 1 | <span class="tooltip" title="A gust of wind is whipped up by wings and launched at the target to inflict damage.">Gust</span> | ![flying](../assets/types/flying.png "Flying"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 40 | 100 | 35 |
+| 1 | <span class="tooltip" title="A sweet scent that lowers the opposing team’s evasiveness. It also lures wild Pokémon if used in grass, etc.">Sweet Scent</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 100 | 20 |
+| 13 | <span class="tooltip" title="The user bites the target. If the target is holding a Berry, the user eats it and gains its effect.">Bug Bite</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 60 | 100 | 20 |
+| 16 | <span class="tooltip" title="The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for four turns.">Tailwind</span> | ![flying](../assets/types/flying.png "Flying"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 15 |
+| 19 | <span class="tooltip" title="An attack move that cuts down the target’s HP to equal the user’s HP.">Endeavor</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | — | 100 | 5 |
 
 ### TM Moves
 

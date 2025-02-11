@@ -1,45 +1,42 @@
-from util.file import verify_asset_path
+from util.file import load, verify_asset_path
 from util.logger import Logger
+import json
 import logging
+import os
 import re
 import string
 
 
-def create_image_table(headings: list[str], images: list[list[str]], logger: Logger) -> str:
+def find_pokemon_sprite(pokemon: str, view: str, logger: Logger) -> str:
     """
-    Create a markdown table with images.
+    Find the sprite of a Pokémon.
 
-    :param headings: The headings for the table.
-    :param images: The images to add to the table.
-    :param logger: The logger to use.
-    :return: The markdown table.
+    :param pokemon: Pokémon to find the sprite.
+    :param view: View of the sprite.
+    :param logger: Logger to log the verification.
+    :return: The sprite of the Pokémon.
     """
 
-    table_header = "|"
-    table_divider = "|"
-    table_body = "|"
+    # Load Pokemon data
+    POKEMON_INPUT_PATH = os.getenv("POKEMON_INPUT_PATH")
+    pokemon_id = format_id(pokemon)
+    sprite = f"../assets/sprites/{pokemon_id}/{view}"
+    file_path = POKEMON_INPUT_PATH + pokemon_id + ".json"
+    if not os.path.exists(file_path):
+        file_path = file_path.replace(pokemon_id, pokemon_id.rsplit("-", 1)[0])
+    pokemon_data = json.loads(load(file_path, logger))
+    pokemon_text = pokemon_data["flavor_text_entries"].get("white", pokemon).replace("\n", " ")
+    name = revert_id(format_id(pokemon))
 
-    for i in range(len(images[0])):
-        # Check if image exists
-        image_path = None
-        for image in images:
-            if verify_asset_path(image[i], logger):
-                image_path = image[i]
-                break
-        # Skip if image does not exist
-        if image_path is None:
-            logger.log(logging.WARNING, f"Image {i} does not exist")
-            continue
-
-        # Add image to table
-        name = image_path.split("/")[-2]
-        table_header += f" {headings[i]} |"
-        table_divider += " --- |"
-        table_body += f' ![{headings[i]}]({image_path} "{revert_id(name)}") |'
-    if table_header + table_divider + table_body == "|||":
-        return ""
-
-    return f"{table_header}\n{table_divider}\n{table_body}\n\n"
+    return (
+        f'![{pokemon}]({sprite}.gif "{name}: {pokemon_text}")'
+        if verify_asset_path(sprite + ".gif", logger)
+        else (
+            f'![{pokemon}]({sprite}.png "{name}: {pokemon_text}")'
+            if verify_asset_path(sprite + ".png", logger)
+            else "?"
+        )
+    )
 
 
 def find_trainer_sprite(trainer: str, view: str, logger: Logger = None) -> str:

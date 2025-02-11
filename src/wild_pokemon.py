@@ -1,16 +1,17 @@
 from dotenv import load_dotenv
 from util.file import load, save
-from util.format import format_id
+from util.format import find_pokemon_sprite, format_id
 from util.logger import Logger
 import logging
 import os
 
 
-def parse_special_encounter(data: str) -> str:
+def parse_special_encounter(data: str, logger: Logger) -> str:
     """
     Parse the special encounter data to add to the markdown content.
 
     :param data: The special encounter data to parse.
+    :param logger: The logger to use.
     :return: The updated markdown content.
     """
 
@@ -28,7 +29,8 @@ def parse_special_encounter(data: str) -> str:
 
     # Create the table based on the data
     md = "| Sprite | Pokémon | Level | Encounter Type | Location | Chance |\n| :---: | --- | --- | :---: | --- | --- |\n"
-    md += f"| ![{pokemon_id}](../../assets/sprites/{pokemon_id}/front.gif) "
+    pokemon_sprite = find_pokemon_sprite(pokemon, "front", logger).replace("../", "../../")
+    md += f"| {pokemon_sprite} "
     md += f"| {pokemon} "
     md += f"| {level} "
     if encounter_id == "Set":
@@ -89,7 +91,7 @@ def main():
 
                 # Parse special encounter data
                 location_md += encounter_header
-                location_md += parse_special_encounter(encounter_data)
+                location_md += parse_special_encounter(encounter_data, logger)
                 special_encounter = False
         # Pokémon location
         elif last_line.startswith("="):
@@ -126,7 +128,8 @@ def main():
 
                 # Convert encounter data into markdown table
                 md += f"{i + 1}. <a href='/bbvw-wiki/pokemon/{pokemon_id}/'>{pokemon}</a> ({chance})\n"
-                location_md += f"| ![{pokemon_id}](../../assets/sprites/{pokemon_id}/front.gif) "
+                pokemon_sprite = find_pokemon_sprite(pokemon, "front", logger).replace("../", "../../")
+                location_md += f"| {pokemon_sprite} "
                 location_md += f"| [{pokemon}](../../pokemon/{pokemon_id}.md/) "
                 location_md += f"| ![{encounter_type}](../../assets/encounter_types/{encounter_id}.png){{: style='max-width: 24px;' }} "
                 location_md += f"| {chance} |\n"
@@ -146,7 +149,7 @@ def main():
             if special_encounter:
                 special_encounter = False
                 location_md += encounter_header
-                location_md += parse_special_encounter(encounter_data)
+                location_md += parse_special_encounter(encounter_data, logger)
                 encounter_data = ""
         # Special encounter data
         elif special_encounter:

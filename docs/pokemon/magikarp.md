@@ -1,7 +1,7 @@
 # #129 Magikarp (Fish Pokémon)
 
 | Official Artwork | Shiny Artwork |
-| --- | --- |
+|------------------|---------------|
 | ![Official Artwork](../assets/sprites/magikarp/official_artwork.png "Magikarp") | ![Shiny Artwork](../assets/sprites/magikarp/official_artwork_shiny.png "Magikarp") |
 
 A Magikarp living for many years can leap a mountain using Splash. The move remains useless, though.
@@ -12,15 +12,15 @@ A Magikarp living for many years can leap a mountain using Splash. The move rema
 
 ### Default Sprites
 
-| Front | Back | Front Shiny | Back Shiny |
-| --- | --- | --- | --- |
-| ![Front](../assets/sprites/magikarp/front.gif "Magikarp") | ![Back](../assets/sprites/magikarp/back.gif "Magikarp") | ![Front Shiny](../assets/sprites/magikarp/front_shiny.gif "Magikarp") | ![Back Shiny](../assets/sprites/magikarp/back_shiny.gif "Magikarp") |
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ![Magikarp](../assets/sprites/magikarp/front.gif "Magikarp: A Magikarp living for many years can leap a mountain using Splash. The move remains useless, though.") | ![Magikarp](../assets/sprites/magikarp/front_shiny.gif "Magikarp: A Magikarp living for many years can leap a mountain using Splash. The move remains useless, though.") | ![Magikarp](../assets/sprites/magikarp/back.gif "Magikarp: A Magikarp living for many years can leap a mountain using Splash. The move remains useless, though.") | ![Magikarp](../assets/sprites/magikarp/back_shiny.gif "Magikarp: A Magikarp living for many years can leap a mountain using Splash. The move remains useless, though.") |
 
 ### Female Sprites
 
-| Front | Back | Front Shiny | Back Shiny |
-| --- | --- | --- | --- |
-| ![Front](../assets/sprites/magikarp/front_female.gif "Magikarp") | ![Back](../assets/sprites/magikarp/back_female.gif "Magikarp") | ![Front Shiny](../assets/sprites/magikarp/front_shiny_female.gif "Magikarp") | ![Back Shiny](../assets/sprites/magikarp/back_shiny_female.gif "Magikarp") |
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ![Magikarp](../assets/sprites/magikarp/front_female.gif "Magikarp: A Magikarp living for many years can leap a mountain using Splash. The move remains useless, though.") | ![Magikarp](../assets/sprites/magikarp/front_shiny_female.gif "Magikarp: A Magikarp living for many years can leap a mountain using Splash. The move remains useless, though.") | ![Magikarp](../assets/sprites/magikarp/back_female.gif "Magikarp: A Magikarp living for many years can leap a mountain using Splash. The move remains useless, though.") | ![Magikarp](../assets/sprites/magikarp/back_shiny_female.gif "Magikarp: A Magikarp living for many years can leap a mountain using Splash. The move remains useless, though.") |
 
 ### Cries
 
@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #129 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.9 m /<br>3.0 ft | 10.0 kg /<br>22.0 lbs |  | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br>2. <span class="tooltip" title="Some move types scare it and boost its Speed.">Rattled</span> | N/A |
+| #129 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.9 m /<br>3.0 ft | 10.0 kg /<br>22.0 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br>2. <span class="tooltip" title="Some move types scare it and boost its Speed.">Rattled</span> | #23 |
 
 ---
 
@@ -105,11 +105,11 @@ Magikarp has no alternate forms.
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <span class="tooltip" title="The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.">Bounce</span> | ![flying](../assets/types/flying.png "Flying"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 85 | 85 | 5 |
-| 1 | <span class="tooltip" title="A spray of countless bubbles is jetted at the foe. It may also lower the target’s Speed stat.">Bubble</span> | ![water](../assets/types/water.png "Water"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 40 | 100 | 30 |
-| 1 | <span class="tooltip" title="An all-out attack that becomes more powerful the less HP the user has. ">Reversal</span> | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | — | 100 | 15 |
-| 1 | <span class="tooltip" title="The user just flops and splashes around to no effect at all...  ">Splash</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 40 |
-| 15 | <span class="tooltip" title="A physical attack in which the user charges and slams into the foe with its whole body.">Tackle</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 40 | 100 | 35 |
+| 1 | <span class="tooltip" title="The user bounces up high, then drops on the target on the second turn. It may also leave the target with paralysis.">Bounce</span> | ![flying](../assets/types/flying.png "Flying"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 85 | 85 | 5 |
+| 1 | <span class="tooltip" title="A spray of countless bubbles is jetted at the opposing team. It may also lower the targets’ Speed stats.">Bubble</span> | ![water](../assets/types/water.png "Water"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 40 | 100 | 30 |
+| 1 | <span class="tooltip" title="An all-out attack that becomes more powerful the less HP the user has.">Reversal</span> | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | — | 100 | 15 |
+| 1 | <span class="tooltip" title="The user just flops and splashes around to no effect at all...">Splash</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 40 |
+| 15 | <span class="tooltip" title="A physical attack in which the user charges and slams into the target with its whole body.">Tackle</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 40 | 100 | 35 |
 | 30 | <span class="tooltip" title="The user flails about aimlessly to attack. It becomes more powerful the less HP the user has.">Flail</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | — | 100 | 15 |
 
 ### TM Moves

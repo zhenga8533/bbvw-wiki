@@ -1,7 +1,7 @@
 # #266 Silcoon (Cocoon Pokémon)
 
 | Official Artwork | Shiny Artwork |
-| --- | --- |
+|------------------|---------------|
 | ![Official Artwork](../assets/sprites/silcoon/official_artwork.png "Silcoon") | ![Shiny Artwork](../assets/sprites/silcoon/official_artwork_shiny.png "Silcoon") |
 
 It wraps silk around the branches of a tree. It drinks rainwater on its silk while awaiting evolution.
@@ -12,9 +12,9 @@ It wraps silk around the branches of a tree. It drinks rainwater on its silk whi
 
 ### Default Sprites
 
-| Front | Back | Front Shiny | Back Shiny |
-| --- | --- | --- | --- |
-| ![Front](../assets/sprites/silcoon/front.gif "Silcoon") | ![Back](../assets/sprites/silcoon/back.gif "Silcoon") | ![Front Shiny](../assets/sprites/silcoon/front_shiny.gif "Silcoon") | ![Back Shiny](../assets/sprites/silcoon/back_shiny.gif "Silcoon") |
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ![Silcoon](../assets/sprites/silcoon/front.gif "Silcoon: It wraps silk around the branches of a tree. It drinks rainwater on its silk while awaiting evolution.") | ![Silcoon](../assets/sprites/silcoon/front_shiny.gif "Silcoon: It wraps silk around the branches of a tree. It drinks rainwater on its silk while awaiting evolution.") | ![Silcoon](../assets/sprites/silcoon/back.gif "Silcoon: It wraps silk around the branches of a tree. It drinks rainwater on its silk while awaiting evolution.") | ![Silcoon](../assets/sprites/silcoon/back_shiny.gif "Silcoon: It wraps silk around the branches of a tree. It drinks rainwater on its silk while awaiting evolution.") |
 
 ### Cries
 
@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #266 | ![bug](../assets/types/bug.png "Bug"){: width="48"} | 0.6 m /<br>2.0 ft | 10.0 kg /<br>22.0 lbs |  | 1. <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span><br>2. <span class="tooltip" title="The Pokémon is protected against critical hits.">Battle Armor</span> | N/A |
+| #266 | ![bug](../assets/types/bug.png "Bug"){: width="48"} | 0.6 m /<br>2.0 ft | 10.0 kg /<br>22.0 lbs | 1. <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span><br>2. <span class="tooltip" title="The Pokémon is protected against critical hits.">Battle Armor</span> | #49 |
 
 ---
 
@@ -105,8 +105,8 @@ Silcoon has no alternate forms.
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat. ">Harden</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 30 |
-| 7 | <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat. ">Harden</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 30 |
+| 1 | <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat.">Harden</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 30 |
+| 7 | <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat.">Harden</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 30 |
 
 ### TM Moves
 

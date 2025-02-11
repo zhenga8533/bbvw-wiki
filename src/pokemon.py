@@ -1,7 +1,7 @@
 from dotenv import load_dotenv
 from util.ability import get_ability
 from util.file import load, save, verify_asset_path
-from util.format import create_image_table, format_id, format_stat, revert_id, verify_pokemon_form
+from util.format import find_pokemon_sprite, format_id, format_stat, revert_id, verify_pokemon_form
 from util.item import get_item
 from util.logger import Logger
 from util.move import get_move
@@ -28,30 +28,30 @@ def parse_sprite_tables(
     :return: The parsed sprite tables.
     """
 
-    image_headers = ["Front", "Back", "Front Shiny", "Back Shiny"]
-    md = ""
+    md = "### " + title + "\n\n"
+    md += "| Front | Shiny | Back | Shiny |\n"
+    md += "|-------|-------|------|-------|\n|"
 
-    image_table = create_image_table(
-        image_headers,
-        [
-            [
-                f"../assets/sprites/{name}/front{extension}.gif",
-                f"../assets/sprites/{name}/back{extension}.gif",
-                f"../assets/sprites/{name}/front_shiny{extension}.gif",
-                f"../assets/sprites/{name}/back_shiny{extension}.gif",
-            ],
-            [
-                f"../assets/sprites/{name}/front{extension}.png",
-                f"../assets/sprites/{name}/back{extension}.png",
-                f"../assets/sprites/{name}/front_shiny{extension}.png",
-                f"../assets/sprites/{name}/back_shiny{extension}.png",
-            ],
-        ],
-        logger,
-    )
-    if image_table != "":
-        md += "### " + title + "\n\n"
-        md += image_table
+    pokemon = revert_id(name)
+    sprites = [
+        find_pokemon_sprite(pokemon, f"front{extension}", logger),
+        find_pokemon_sprite(pokemon, f"front_shiny{extension}", logger),
+        find_pokemon_sprite(pokemon, f"back{extension}", logger),
+        find_pokemon_sprite(pokemon, f"back_shiny{extension}", logger),
+    ]
+    valid = False
+
+    for sprite in sprites:
+        if sprite == "?":
+            md += " N/A |"
+            continue
+        valid = True
+        md += f" {sprite} |"
+
+    if not valid:
+        return ""
+    else:
+        md += "\n\n"
 
     return md
 
@@ -176,7 +176,6 @@ def parse_moves(moves: list, headers: list, move_key: str) -> str:
     :param moves: The moves to parse.
     :param headers: The headers for the move table.
     :param move_key: The key for the move data.
-    :param logger: The logger to use.
     :return: The parsed moves.
     """
 
@@ -193,18 +192,22 @@ def parse_moves(moves: list, headers: list, move_key: str) -> str:
             if category == "Lv.":
                 md_body += f"| {move['level_learned_at']} "
             elif category == "TM":
-                md_body += f"| {move_data['machines'][move_key].upper()} "
+                md_body += f"| {move_data['machines'].get(move_key, "tbd").upper()} "
             elif category == "Move":
                 move_id = move_data["name"]
                 move_data = get_move(move_id)
-                move_effect = move_data["flavor_text_entries"].get("platinum", move_data["effect"]).replace("\n", " ")
+                move_effect = (
+                    move_data["flavor_text_entries"].get("black-white", move_data["effect"]).replace("\n", " ")
+                )
                 md_body += f'| <span class="tooltip" title="{move_effect}">{revert_id(move_id)}</span> '
             elif category == "Type":
                 move_type = move_data["type"]
-                md_body += f'| ![{move_type}](../assets/types/{format_id(move_type)}.png "{move_type.title()}"){{: width="48"}} '
+                md_body += (
+                    f'| ![{move_type}](../assets/types/{move_type.lower()}.png "{move_type.title()}"){{: width="48"}} '
+                )
             elif category == "Cat.":
                 damage_class = move_data["damage_class"]
-                md_body += f'| ![{damage_class}](../assets/move_category/{damage_class}.png "{damage_class.title()}"){{: width="36"}} '
+                md_body += f'| ![{move_data["damage_class"]}](../assets/move_category/{damage_class}.png "{damage_class.title()}"){{: width="36"}} '
             elif category == "Power":
                 md_body += f"| {move_data['power'] or dash} "
             elif category == "Acc.":
@@ -216,13 +219,12 @@ def parse_moves(moves: list, headers: list, move_key: str) -> str:
     return f"{md_header}\n{md_separator}\n{md_body}\n"
 
 
-def to_md(pokemon: dict, pokemon_set: dict, move_path: str, logger: Logger) -> str:
+def to_md(pokemon: dict, pokemon_set: dict, logger: Logger) -> str:
     """
     Convert Pokémon data to a readable Markdown format.
 
     :param pokemon: The Pokémon data to convert.
     :param pokemon_set: The set of valid Pokémon names.
-    :param move_path: The path to the move data.
     :param logger: The logger to use.
     :return: The Pokémon data in Markdown format.
     """
@@ -238,16 +240,10 @@ def to_md(pokemon: dict, pokemon_set: dict, move_path: str, logger: Logger) -> s
     )
 
     # Add official artwork
-    md += create_image_table(
-        ["Official Artwork", "Shiny Artwork"],
-        [
-            [
-                f"../assets/sprites/{name_id}/official_artwork.png",
-                f"../assets/sprites/{name_id}/official_artwork_shiny.png",
-            ]
-        ],
-        logger,
-    )
+    md += "| Official Artwork | Shiny Artwork |\n"
+    md += "|------------------|---------------|\n"
+    md += f'| ![Official Artwork](../assets/sprites/{name_id}/official_artwork.png "{revert_id(name_id)}") | '
+    md += f'![Shiny Artwork](../assets/sprites/{name_id}/official_artwork_shiny.png "{revert_id(name_id)}") |\n\n'
 
     # Add flavor text
     flavor_text_entries = pokemon["flavor_text_entries"]
@@ -268,7 +264,7 @@ def to_md(pokemon: dict, pokemon_set: dict, move_path: str, logger: Logger) -> s
     md += parse_sprite_tables("Default Sprites", name_id, "", logger)
     md += parse_sprite_tables("Female Sprites", name_id, "_female", logger)
     for form in pokemon["forms"]:
-        if form == name_id or form in pokemon_set:
+        if form == name_id or form in pokemon_set or not verify_pokemon_form(form, logger):
             continue
         md += parse_sprite_tables(f"{revert_id(form)} Sprites", form, "", logger)
 
@@ -298,10 +294,10 @@ def to_md(pokemon: dict, pokemon_set: dict, move_path: str, logger: Logger) -> s
     md += f"|------------|---------|--------|--------|-----------|---------|\n"
     md += f"| #{pokemon_id}"
     md += f" | " + "<br>".join(
-        [f'![{t}](../assets/types/{format_id(t)}.png "{t.title()}"){{: width="48"}}' for t in pokemon["types"]]
+        [f'![{t}](../assets/types/{t.lower()}.png "{t.title()}"){{: width="48"}}' for t in pokemon["types"]]
     )
     md += f" | {pokemon['height']} m /<br>{pokemon['height'] * 3.28084:.1f} ft"
-    md += f" | {pokemon['weight']} kg /<br>{pokemon['weight'] * 2.20462:.1f} lbs | "
+    md += f" | {pokemon['weight']} kg /<br>{pokemon['weight'] * 2.20462:.1f} lbs"
 
     # Abilities
     abilities = []
@@ -321,7 +317,7 @@ def to_md(pokemon: dict, pokemon_set: dict, move_path: str, logger: Logger) -> s
         abilities.append(f'{i}. <span class="tooltip" title="{ability_effect}">{revert_id(ability_id)}</span>')
     md += f" | " + "<br>".join(abilities)
 
-    local_no = pokemon["pokedex_numbers"].get("original-unova", None)
+    local_no = pokemon["pokedex_numbers"].get("original-sinnoh", None)
     md += f" | {'#' + str(local_no) if local_no else 'N/A'} |\n\n"
 
     # Stats
@@ -380,12 +376,12 @@ def to_md(pokemon: dict, pokemon_set: dict, move_path: str, logger: Logger) -> s
             if item_data is None:
                 logger.log(logging.WARNING, f"Item {item} not found in PokéAPI")
                 continue
-            if "generation-v" not in item_data["games"] or "black" not in item_rarity:
-                logger.log(logging.WARNING, f"Item {item} not found in Generation V games")
+            if "generation-iv" not in item_data["games"] or "white" not in item_rarity:
+                logger.log(logging.WARNING, f"Item {item} not found in Generation IV games")
                 continue
 
             item_effect = item_data["flavor_text_entries"].get("black-white", item_data["effect"]).replace("\n", " ")
-            md += f'<span class="tooltip" title="{item_effect}">{revert_id(item)}</span> ({item_rarity["black"]}%)<br>'
+            md += f'<span class="tooltip" title="{item_effect}">{revert_id(item)}</span> ({item_rarity["white"]}%)<br>'
         md = md[:-4] + " |\n\n"
 
     # Breeding
@@ -405,7 +401,7 @@ def to_md(pokemon: dict, pokemon_set: dict, move_path: str, logger: Logger) -> s
     md += " | " + pokemon["shape"].title()
     md += " |\n\n"
 
-    # Black/White Moves
+    # Gen 4 HGSS Moves
     level_up_moves = []
     tm_moves = []
     egg_moves = []
@@ -449,7 +445,7 @@ def to_md(pokemon: dict, pokemon_set: dict, move_path: str, logger: Logger) -> s
         for move in tm_moves:
             move_data = get_move(move["name"])
             tm_moves_data.append(move_data)
-        tm_moves_data.sort(key=lambda x: x["machines"][move_key])
+        tm_moves_data.sort(key=lambda x: x["machines"].get(move_key, "ZZZ"))
         md += parse_moves(tm_moves_data, ["TM", "Move", "Type", "Cat.", "Power", "Acc.", "PP"], move_key)
 
     # Egg Moves
@@ -481,10 +477,9 @@ def main():
     LOG = os.getenv("LOG")
     TIMEOUT = int(os.getenv("TIMEOUT"))
     LOG_PATH = os.getenv("LOG_PATH")
+    NAV_OUTPUT_PATH = os.getenv("NAV_OUTPUT_PATH")
     POKEMON_INPUT_PATH = os.getenv("POKEMON_INPUT_PATH")
     POKEMON_PATH = os.getenv("POKEMON_PATH")
-    MOVE_INPUT_PATH = os.getenv("MOVE_INPUT_PATH")
-    NAV_OUTPUT_PATH = os.getenv("NAV_OUTPUT_PATH")
     logger = Logger("Pokémon Parser", f"{LOG_PATH}pokemon.log", LOG)
 
     # Fetch Pokémon data from PokéAPI
@@ -559,7 +554,7 @@ def main():
             if form_name not in pokemon_set:
                 continue
 
-            md = to_md(data, pokemon_set, MOVE_INPUT_PATH, logger)
+            md = to_md(data, pokemon_set, logger)
             save(f"{POKEMON_PATH + data['name']}.md", md, logger)
 
 

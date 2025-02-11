@@ -1,7 +1,7 @@
 # #011 Metapod (Cocoon Pokémon)
 
 | Official Artwork | Shiny Artwork |
-| --- | --- |
+|------------------|---------------|
 | ![Official Artwork](../assets/sprites/metapod/official_artwork.png "Metapod") | ![Shiny Artwork](../assets/sprites/metapod/official_artwork_shiny.png "Metapod") |
 
 A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.
@@ -12,9 +12,9 @@ A steel-hard shell protects its tender body. It quietly endures hardships while 
 
 ### Default Sprites
 
-| Front | Back | Front Shiny | Back Shiny |
-| --- | --- | --- | --- |
-| ![Front](../assets/sprites/metapod/front.gif "Metapod") | ![Back](../assets/sprites/metapod/back.gif "Metapod") | ![Front Shiny](../assets/sprites/metapod/front_shiny.gif "Metapod") | ![Back Shiny](../assets/sprites/metapod/back_shiny.gif "Metapod") |
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ![Metapod](../assets/sprites/metapod/front.gif "Metapod: A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.") | ![Metapod](../assets/sprites/metapod/front_shiny.gif "Metapod: A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.") | ![Metapod](../assets/sprites/metapod/back.gif "Metapod: A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.") | ![Metapod](../assets/sprites/metapod/back_shiny.gif "Metapod: A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.") |
 
 ### Cries
 
@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #11 | ![bug](../assets/types/bug.png "Bug"){: width="48"} | 0.7 m /<br>2.3 ft | 9.9 kg /<br>21.8 lbs |  | 1. <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span><br>2. <span class="tooltip" title="The Pokémon is protected against critical hits.">Battle Armor</span> | N/A |
+| #11 | ![bug](../assets/types/bug.png "Bug"){: width="48"} | 0.7 m /<br>2.3 ft | 9.9 kg /<br>21.8 lbs | 1. <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span><br>2. <span class="tooltip" title="The Pokémon is protected against critical hits.">Battle Armor</span> | N/A |
 
 ---
 
@@ -101,8 +101,8 @@ Metapod has no alternate forms.
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat. ">Harden</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 30 |
-| 7 | <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat. ">Harden</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 30 |
+| 1 | <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat.">Harden</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 30 |
+| 7 | <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat.">Harden</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 30 |
 
 ### TM Moves
 

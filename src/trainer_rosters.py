@@ -1,6 +1,6 @@
 from dotenv import load_dotenv
-from util.file import load, save, verify_asset_path
-from util.format import find_trainer_sprite, format_id
+from util.file import load, save
+from util.format import find_pokemon_sprite, find_trainer_sprite, format_id
 from util.logger import Logger
 import logging
 import os
@@ -96,7 +96,8 @@ def main():
                 pokemon_id = format_id(pokemon_name)
 
                 md += f"    {i + 1}. Lv. {level} [{pokemon_name}](../pokemon/{pokemon_id}.md/)\n"
-                trainer_md += f" ![{pokemon_name}](../../assets/sprites/{pokemon_id}/front.png)<br>"
+                pokemon_sprite = find_pokemon_sprite(pokemon_name, "front", logger).replace("../", "../../")
+                trainer_md += f" {pokemon_sprite}<br>"
                 trainer_md += f"[{pokemon_name}](../../pokemon/{pokemon_id}.md/)<br>Lv. {level} |"
             generic_trainers.append(trainer_md)
         else:

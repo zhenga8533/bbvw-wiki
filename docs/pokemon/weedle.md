@@ -1,7 +1,7 @@
 # #013 Weedle (Hairy Bug Pokémon)
 
 | Official Artwork | Shiny Artwork |
-| --- | --- |
+|------------------|---------------|
 | ![Official Artwork](../assets/sprites/weedle/official_artwork.png "Weedle") | ![Shiny Artwork](../assets/sprites/weedle/official_artwork_shiny.png "Weedle") |
 
 It eats its weight in leaves every day. It fends off attackers with the needle on its head.
@@ -12,9 +12,9 @@ It eats its weight in leaves every day. It fends off attackers with the needle o
 
 ### Default Sprites
 
-| Front | Back | Front Shiny | Back Shiny |
-| --- | --- | --- | --- |
-| ![Front](../assets/sprites/weedle/front.gif "Weedle") | ![Back](../assets/sprites/weedle/back.gif "Weedle") | ![Front Shiny](../assets/sprites/weedle/front_shiny.gif "Weedle") | ![Back Shiny](../assets/sprites/weedle/back_shiny.gif "Weedle") |
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ![Weedle](../assets/sprites/weedle/front.gif "Weedle: It eats its weight in leaves every day. It fends off attackers with the needle on its head.") | ![Weedle](../assets/sprites/weedle/front_shiny.gif "Weedle: It eats its weight in leaves every day. It fends off attackers with the needle on its head.") | ![Weedle](../assets/sprites/weedle/back.gif "Weedle: It eats its weight in leaves every day. It fends off attackers with the needle on its head.") | ![Weedle](../assets/sprites/weedle/back_shiny.gif "Weedle: It eats its weight in leaves every day. It fends off attackers with the needle on its head.") |
 
 ### Cries
 
@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #13 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.3 m /<br>1.0 ft | 3.2 kg /<br>7.1 lbs |  | 1. <span class="tooltip" title="Blocks the added effects of attacks taken.">Shield Dust</span><br>2. <span class="tooltip" title="May poison targets when a Pokémon makes contact.">Poison Touch</span> | N/A |
+| #13 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.3 m /<br>1.0 ft | 3.2 kg /<br>7.1 lbs | 1. <span class="tooltip" title="Blocks the added effects of attacks taken.">Shield Dust</span><br>2. <span class="tooltip" title="May poison targets when a Pokémon makes contact.">Poison Touch</span> | N/A |
 
 ---
 
@@ -101,10 +101,10 @@ Weedle has no alternate forms.
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <span class="tooltip" title="The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.">Bug Bite</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 60 | 100 | 20 |
-| 1 | <span class="tooltip" title="The foe is stabbed with a poisonous barb of some sort. It may also poison the target.">Poison Sting</span> | ![poison](../assets/types/poison.png "Poison"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 15 | 100 | 35 |
-| 1 | <span class="tooltip" title="The foe is bound with silk blown from the user’s mouth. It reduces the target’s Speed stat.">String Shot</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 95 | 40 |
-| 6 | <span class="tooltip" title="An attack with a high critical-hit ratio. This tail  attack may also  poison the foe.">Poison Tail</span> | ![poison](../assets/types/poison.png "Poison"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 90 | 100 | 15 |
+| 1 | <span class="tooltip" title="The user bites the target. If the target is holding a Berry, the user eats it and gains its effect.">Bug Bite</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 60 | 100 | 20 |
+| 1 | <span class="tooltip" title="The user stabs the target with a poisonous stinger. This may also poison the target.">Poison Sting</span> | ![poison](../assets/types/poison.png "Poison"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 15 | 100 | 35 |
+| 1 | <span class="tooltip" title="The targets are bound with silk blown from the user’s mouth. This silk reduces the targets’ Speed stat.">String Shot</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 95 | 40 |
+| 6 | <span class="tooltip" title="The user hits the target with its tail. It may also poison the target. Critical hits land more easily.">Poison Tail</span> | ![poison](../assets/types/poison.png "Poison"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 90 | 100 | 15 |
 
 ### TM Moves
 

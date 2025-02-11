@@ -1,7 +1,7 @@
 # #014 Kakuna (Cocoon Pokémon)
 
 | Official Artwork | Shiny Artwork |
-| --- | --- |
+|------------------|---------------|
 | ![Official Artwork](../assets/sprites/kakuna/official_artwork.png "Kakuna") | ![Shiny Artwork](../assets/sprites/kakuna/official_artwork_shiny.png "Kakuna") |
 
 While awaiting evolution, it hides from predators under leaves and in nooks of branches.
@@ -12,9 +12,9 @@ While awaiting evolution, it hides from predators under leaves and in nooks of b
 
 ### Default Sprites
 
-| Front | Back | Front Shiny | Back Shiny |
-| --- | --- | --- | --- |
-| ![Front](../assets/sprites/kakuna/front.gif "Kakuna") | ![Back](../assets/sprites/kakuna/back.gif "Kakuna") | ![Front Shiny](../assets/sprites/kakuna/front_shiny.gif "Kakuna") | ![Back Shiny](../assets/sprites/kakuna/back_shiny.gif "Kakuna") |
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ![Kakuna](../assets/sprites/kakuna/front.gif "Kakuna: While awaiting evolution, it hides from predators under leaves and in nooks of branches.") | ![Kakuna](../assets/sprites/kakuna/front_shiny.gif "Kakuna: While awaiting evolution, it hides from predators under leaves and in nooks of branches.") | ![Kakuna](../assets/sprites/kakuna/back.gif "Kakuna: While awaiting evolution, it hides from predators under leaves and in nooks of branches.") | ![Kakuna](../assets/sprites/kakuna/back_shiny.gif "Kakuna: While awaiting evolution, it hides from predators under leaves and in nooks of branches.") |
 
 ### Cries
 
@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #14 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.6 m /<br>2.0 ft | 10.0 kg /<br>22.0 lbs |  | 1. <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span><br>2. <span class="tooltip" title="The Pokémon is protected against critical hits.">Battle Armor</span> | N/A |
+| #14 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.6 m /<br>2.0 ft | 10.0 kg /<br>22.0 lbs | 1. <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span><br>2. <span class="tooltip" title="The Pokémon is protected against critical hits.">Battle Armor</span> | N/A |
 
 ---
 
@@ -101,8 +101,8 @@ Kakuna has no alternate forms.
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat. ">Harden</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 30 |
-| 7 | <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat. ">Harden</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 30 |
+| 1 | <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat.">Harden</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 30 |
+| 7 | <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat.">Harden</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 30 |
 
 ### TM Moves
 

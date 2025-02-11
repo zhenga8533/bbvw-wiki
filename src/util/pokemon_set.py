@@ -1,6 +1,6 @@
 from util.ability import get_ability
 from util.file import download_file, load
-from util.format import format_id, revert_id
+from util.format import find_pokemon_sprite, format_id
 from util.item import get_item
 from util.logger import Logger
 from util.move import get_move
@@ -58,10 +58,10 @@ class PokemonSet:
         pokemon_id = format_id(self.species)
         pokemon_data = json.loads(load(POKEMON_INPUT_PATH + pokemon_id + ".json", logger))
         pokemon_types = pokemon_data["types"]
-        pokemon_text = pokemon_data["flavor_text_entries"].get("black", self.species).replace("\n", " ")
 
         # Create the table
-        table = f'| ![{self.species}](../../assets/sprites/{pokemon_id}/front.png "{self.species}: {pokemon_text}") | '
+        pokemon_sprite = find_pokemon_sprite(pokemon_id, "front", logger).replace("../", "../../")
+        table = f"| {pokemon_sprite} | "
         table += f"**Lv. {self.level}** [{self.species}](../../pokemon/{pokemon_id}.md/)<br>"
 
         # Ability tooltip

@@ -1,7 +1,7 @@
 # #235 Smeargle (Painter Pokémon)
 
 | Official Artwork | Shiny Artwork |
-| --- | --- |
+|------------------|---------------|
 | ![Official Artwork](../assets/sprites/smeargle/official_artwork.png "Smeargle") | ![Shiny Artwork](../assets/sprites/smeargle/official_artwork_shiny.png "Smeargle") |
 
 It marks its territory by using its tail like a paintbrush. There are more than 5,000 different marks.
@@ -12,9 +12,9 @@ It marks its territory by using its tail like a paintbrush. There are more than 
 
 ### Default Sprites
 
-| Front | Back | Front Shiny | Back Shiny |
-| --- | --- | --- | --- |
-| ![Front](../assets/sprites/smeargle/front.gif "Smeargle") | ![Back](../assets/sprites/smeargle/back.gif "Smeargle") | ![Front Shiny](../assets/sprites/smeargle/front_shiny.gif "Smeargle") | ![Back Shiny](../assets/sprites/smeargle/back_shiny.gif "Smeargle") |
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ![Smeargle](../assets/sprites/smeargle/front.gif "Smeargle: It marks its territory by using its tail like a paintbrush. There are more than 5,000 different marks.") | ![Smeargle](../assets/sprites/smeargle/front_shiny.gif "Smeargle: It marks its territory by using its tail like a paintbrush. There are more than 5,000 different marks.") | ![Smeargle](../assets/sprites/smeargle/back.gif "Smeargle: It marks its territory by using its tail like a paintbrush. There are more than 5,000 different marks.") | ![Smeargle](../assets/sprites/smeargle/back_shiny.gif "Smeargle: It marks its territory by using its tail like a paintbrush. There are more than 5,000 different marks.") |
 
 ### Cries
 
@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #235 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.2 m /<br>3.9 ft | 58.0 kg /<br>127.9 lbs |  | 1. <span class="tooltip" title="Raises one stat and lowers another.">Moody</span><br>2. <span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span> | N/A |
+| #235 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.2 m /<br>3.9 ft | 58.0 kg /<br>127.9 lbs | 1. <span class="tooltip" title="Raises one stat and lowers another.">Moody</span><br>2. <span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span> | N/A |
 
 ---
 
@@ -97,16 +97,16 @@ Smeargle has no alternate forms.
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <span class="tooltip" title="It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.">Sketch</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 1 |
-| 11 | <span class="tooltip" title="It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.">Sketch</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 1 |
-| 21 | <span class="tooltip" title="It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.">Sketch</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 1 |
-| 31 | <span class="tooltip" title="It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.">Sketch</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 1 |
-| 41 | <span class="tooltip" title="It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.">Sketch</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 1 |
-| 51 | <span class="tooltip" title="It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.">Sketch</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 1 |
-| 61 | <span class="tooltip" title="It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.">Sketch</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 1 |
-| 71 | <span class="tooltip" title="It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.">Sketch</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 1 |
-| 81 | <span class="tooltip" title="It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.">Sketch</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 1 |
-| 91 | <span class="tooltip" title="It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.">Sketch</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 1 |
+| 1 | <span class="tooltip" title="It enables the user to permanently learn the move last used by the target. Once used, Sketch disappears.">Sketch</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 1 |
+| 11 | <span class="tooltip" title="It enables the user to permanently learn the move last used by the target. Once used, Sketch disappears.">Sketch</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 1 |
+| 21 | <span class="tooltip" title="It enables the user to permanently learn the move last used by the target. Once used, Sketch disappears.">Sketch</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 1 |
+| 31 | <span class="tooltip" title="It enables the user to permanently learn the move last used by the target. Once used, Sketch disappears.">Sketch</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 1 |
+| 41 | <span class="tooltip" title="It enables the user to permanently learn the move last used by the target. Once used, Sketch disappears.">Sketch</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 1 |
+| 51 | <span class="tooltip" title="It enables the user to permanently learn the move last used by the target. Once used, Sketch disappears.">Sketch</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 1 |
+| 61 | <span class="tooltip" title="It enables the user to permanently learn the move last used by the target. Once used, Sketch disappears.">Sketch</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 1 |
+| 71 | <span class="tooltip" title="It enables the user to permanently learn the move last used by the target. Once used, Sketch disappears.">Sketch</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 1 |
+| 81 | <span class="tooltip" title="It enables the user to permanently learn the move last used by the target. Once used, Sketch disappears.">Sketch</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 1 |
+| 91 | <span class="tooltip" title="It enables the user to permanently learn the move last used by the target. Once used, Sketch disappears.">Sketch</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 1 |
 
 ### TM Moves
 

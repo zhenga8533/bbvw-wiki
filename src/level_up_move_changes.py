@@ -1,6 +1,6 @@
 from dotenv import load_dotenv
 from util.file import load, save
-from util.format import format_id, revert_id
+from util.format import find_pokemon_sprite, format_id
 from util.logger import Logger
 from util.move import get_move
 import glob
@@ -52,7 +52,8 @@ def main():
         elif line.startswith("#"):
             name = format_id(line, start_index=1)
             md += f"**[{line}](../pokemon/{name}.md/)**\n\n"
-            md += f'![{name}](../assets/sprites/{name}/front.gif "{revert_id(name)}")\n\n```\n'
+            pokemon_sprite = find_pokemon_sprite(name, "front", logger)
+            md += pokemon_sprite + "\n\n```\n"
 
             curr_pokemon = format_id(line, start_index=1)
             listing = True
