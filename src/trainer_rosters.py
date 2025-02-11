@@ -1,6 +1,6 @@
 from dotenv import load_dotenv
 from util.file import load, save, verify_asset_path
-from util.format import format_id
+from util.format import find_trainer_sprite, format_id
 from util.logger import Logger
 import logging
 import os
@@ -83,14 +83,8 @@ def main():
             trainer, pokemon = line.split(": ")
 
             # Fetch trainer sprite
-            trainer_id = format_id(trainer, symbol="_")
-            trainer_sprite = f"../../assets/trainers/{trainer_id}.png"
-            trainer_parts = trainer_id.split("_")
-            trainer_i = len(trainer_parts) - 1
-            while not verify_asset_path(trainer_sprite, logger) and trainer_i > 0:
-                trainer_sprite = f"../../assets/trainers/{'_'.join(trainer_parts[:trainer_i])}.png"
-                trainer_i -= 1
-            trainer_md = f"| ![{trainer}]({trainer_sprite})<br>{trainer} |"
+            trainer_sprite = find_trainer_sprite(trainer, "trainers", logger).replace("../", "../../")
+            trainer_md = f"| {trainer_sprite}<br>{trainer} |"
 
             # Add each Pokémon table cell to the row
             md += f"{list_index}. {trainer}:\n"

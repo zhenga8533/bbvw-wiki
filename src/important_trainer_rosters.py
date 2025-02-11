@@ -1,6 +1,6 @@
 from dotenv import load_dotenv
 from util.file import load, save
-from util.format import format_id, verify_asset_path
+from util.format import find_trainer_sprite, format_id, verify_asset_path
 from util.pokemon_set import PokemonSet
 from util.logger import Logger
 import logging
@@ -47,7 +47,6 @@ def parse_pokemon_sets(
     # Unpack wild data
     location = wild_data["location"]
     trainer = wild_data["trainer"]
-    trainer_id = format_id(trainer, "_")
     battle_type = wild_data.get("battle_type", "")
     reward = wild_data.get("reward", "")
     version = wild_data.get("version", "")
@@ -60,17 +59,8 @@ def parse_pokemon_sets(
     wild_rosters[location] += f"---\n\n## {trainer}\n\n"
 
     # Set trainer sprite
-    trainer_sprite = f"../../assets/important_trainers/{trainer_id}.png"
-    trainer_parts = trainer_id.split("_")
-    # Try all subarray combinations of trainer_parts
-    for start_index in range(len(trainer_parts)):
-        for end_index in range(start_index + 1, len(trainer_parts) + 1):
-            subarray = trainer_parts[start_index:end_index]
-            trainer_sprite = f"../../assets/important_trainers/{'_'.join(subarray)}.png"
-
-            if verify_asset_path(trainer_sprite, logger):
-                wild_rosters[location] += f'![{trainer}]({trainer_sprite} "{trainer}")\n\n'
-                break
+    trainer_sprite = find_trainer_sprite(trainer, "important_trainers", logger).replace("../", "../../")
+    wild_rosters[location] += trainer_sprite + "\n\n"
 
     # Add battle type, reward, and version
     if battle_type:
@@ -163,7 +153,12 @@ def main():
         # Start of a new section
         elif next_line.startswith("Battle Type"):
             md += parse_pokemon_sets(pokemon_sets, wild_rosters, wild_data, logger)
-            md += f"---\n\n### {line}\n\n<pre><code>"
+            trainer_sprite = find_trainer_sprite(line, "important_trainers", logger)
+
+            md += f"---\n\n### {line}\n\n"
+            md += trainer_sprite
+            md += "\n\n<pre><code>"
+
             wild_data["trainer"] = line
         elif ": " in line:
             category, value = line.split(": ")
