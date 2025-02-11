@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #504 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.5 m /<br>1.6 ft | 11.6 kg /<br>25.6 lbs | <span class="tooltip" title="Boosts move power when the Pokémon moves last.">Analytic</span><br><span class="tooltip" title="Prevents other Pokémon from lowering accuracy.">Keen Eye</span> | #10 |
+| #504 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.5 m /<br>1.6 ft | 11.6 kg /<br>25.6 lbs |  | 1. <span class="tooltip" title="Boosts move power when the Pokémon moves last.">Analytic</span><br>2. <span class="tooltip" title="Prevents other Pokémon from lowering accuracy.">Keen Eye</span> | #10 |
 
 ---
 

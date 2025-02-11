@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #557 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![rock](../assets/types/rock.png "Rock"){: width="48"} | 0.3 m /<br>1.0 ft | 14.5 kg /<br>32.0 lbs | <span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span><br><span class="tooltip" title="The Pokémon is protected against critical hits.">Shell Armor</span> | #63 |
+| #557 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![rock](../assets/types/rock.png "Rock"){: width="48"} | 0.3 m /<br>1.0 ft | 14.5 kg /<br>32.0 lbs |  | 1. <span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span><br>2. <span class="tooltip" title="The Pokémon is protected against critical hits.">Shell Armor</span> | #63 |
 
 ---
 

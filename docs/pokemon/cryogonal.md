@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #615 | ![ice](../assets/types/ice.png "Ice"){: width="48"} | 1.1 m /<br>3.6 ft | 148.0 kg /<br>326.3 lbs | <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | #121 |
+| #615 | ![ice](../assets/types/ice.png "Ice"){: width="48"} | 1.1 m /<br>3.6 ft | 148.0 kg /<br>326.3 lbs |  | 1. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | #121 |
 
 ---
 

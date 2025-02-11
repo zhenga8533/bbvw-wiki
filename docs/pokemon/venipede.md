@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #543 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.4 m /<br>1.3 ft | 5.3 kg /<br>11.7 lbs | <span class="tooltip" title="Contact with the Pokémon may poison the attacker.">Poison Point</span><br><span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span> | #49 |
+| #543 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.4 m /<br>1.3 ft | 5.3 kg /<br>11.7 lbs |  | 1. <span class="tooltip" title="Contact with the Pokémon may poison the attacker.">Poison Point</span><br>2. <span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span> | #49 |
 
 ---
 

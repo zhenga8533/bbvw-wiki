@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #89 | ![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.2 m /<br>3.9 ft | 30.0 kg /<br>66.1 lbs | <span class="tooltip" title="The stench may cause the target to flinch.">Stench</span><br><span class="tooltip" title="May poison targets when a Pokémon makes contact.">Poison Touch</span> | N/A |
+| #89 | ![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.2 m /<br>3.9 ft | 30.0 kg /<br>66.1 lbs |  | 1. <span class="tooltip" title="The stench may cause the target to flinch.">Stench</span><br>2. <span class="tooltip" title="May poison targets when a Pokémon makes contact.">Poison Touch</span> | N/A |
 
 ---
 

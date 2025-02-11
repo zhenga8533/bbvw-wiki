@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #348 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![bug](../assets/types/bug.png "Bug"){: width="48"} | 1.5 m /<br>4.9 ft | 68.2 kg /<br>150.4 lbs | <span class="tooltip" title="The Pokémon is protected against critical hits.">Battle Armor</span><br><span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span> | N/A |
+| #348 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![bug](../assets/types/bug.png "Bug"){: width="48"} | 1.5 m /<br>4.9 ft | 68.2 kg /<br>150.4 lbs |  | 1. <span class="tooltip" title="The Pokémon is protected against critical hits.">Battle Armor</span><br>2. <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span> | N/A |
 
 ---
 

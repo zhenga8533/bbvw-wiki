@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #567 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.4 m /<br>4.6 ft | 32.0 kg /<br>70.5 lbs | <span class="tooltip" title="Lowers stats when HP becomes half or less.">Defeatist</span> | #73 |
+| #567 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.4 m /<br>4.6 ft | 32.0 kg /<br>70.5 lbs |  | 1. <span class="tooltip" title="Lowers stats when HP becomes half or less.">Defeatist</span> | #73 |
 
 ---
 

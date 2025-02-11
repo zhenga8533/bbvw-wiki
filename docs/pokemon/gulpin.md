@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #316 | ![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.4 m /<br>1.3 ft | 10.3 kg /<br>22.7 lbs | <span class="tooltip" title="Damages attackers using any draining move.">Liquid Ooze</span><br><span class="tooltip" title="Encourages the early use of a held Berry.">Gluttony</span> | N/A |
+| #316 | ![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.4 m /<br>1.3 ft | 10.3 kg /<br>22.7 lbs |  | 1. <span class="tooltip" title="Damages attackers using any draining move.">Liquid Ooze</span><br>2. <span class="tooltip" title="Encourages the early use of a held Berry.">Gluttony</span> | N/A |
 
 ---
 

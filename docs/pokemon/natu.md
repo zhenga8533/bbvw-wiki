@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #177 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.2 m /<br>0.7 ft | 2.0 kg /<br>4.4 lbs | <span class="tooltip" title="Passes a burn, poison, or paralysis to the foe.">Synchronize</span><br><span class="tooltip" title="Reflects status- changing moves.">Magic Bounce</span> | N/A |
+| #177 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.2 m /<br>0.7 ft | 2.0 kg /<br>4.4 lbs |  | 1. <span class="tooltip" title="Passes a burn, poison, or paralysis to the foe.">Synchronize</span><br>2. <span class="tooltip" title="Reflects status- changing moves.">Magic Bounce</span> | N/A |
 
 ---
 

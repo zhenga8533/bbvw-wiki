@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #144 | ![ice](../assets/types/ice.png "Ice"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.7 m /<br>5.6 ft | 55.4 kg /<br>122.1 lbs | <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br><span class="tooltip" title="Raises evasion in a hailstorm.">Snow Cloak</span> | N/A |
+| #144 | ![ice](../assets/types/ice.png "Ice"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.7 m /<br>5.6 ft | 55.4 kg /<br>122.1 lbs |  | 1. <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br>2. <span class="tooltip" title="Raises evasion in a hailstorm.">Snow Cloak</span> | N/A |
 
 ---
 

@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #353 | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | 0.6 m /<br>2.0 ft | 2.3 kg /<br>5.1 lbs | <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Insomnia</span><br><span class="tooltip" title="May disable a move used on the Pokémon.">Cursed Body</span> | N/A |
+| #353 | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | 0.6 m /<br>2.0 ft | 2.3 kg /<br>5.1 lbs |  | 1. <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Insomnia</span><br>2. <span class="tooltip" title="May disable a move used on the Pokémon.">Cursed Body</span> | N/A |
 
 ---
 

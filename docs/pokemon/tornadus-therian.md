@@ -33,7 +33,7 @@ Latest (Gen VI+):
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #10019 | ![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.4 m /<br>4.6 ft | 63.0 kg /<br>138.9 lbs | <span class="tooltip" title="Restores a little HP when withdrawn from battle.">Regenerator</span> | #147 |
+| #10019 | ![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.4 m /<br>4.6 ft | 63.0 kg /<br>138.9 lbs |  | 1. <span class="tooltip" title="Restores a little HP when withdrawn from battle.">Regenerator</span> | #147 |
 
 ---
 

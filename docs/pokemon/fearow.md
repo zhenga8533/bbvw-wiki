@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #22 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.2 m /<br>3.9 ft | 38.0 kg /<br>83.8 lbs | <span class="tooltip" title="Prevents other Pokémon from lowering accuracy.">Keen Eye</span><br><span class="tooltip" title="Powers up moves if they become critical hits.">Sniper</span> | N/A |
+| #22 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.2 m /<br>3.9 ft | 38.0 kg /<br>83.8 lbs |  | 1. <span class="tooltip" title="Prevents other Pokémon from lowering accuracy.">Keen Eye</span><br>2. <span class="tooltip" title="Powers up moves if they become critical hits.">Sniper</span> | N/A |
 
 ---
 

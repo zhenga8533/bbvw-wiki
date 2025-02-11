@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #248 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![dark](../assets/types/dark.png "Dark"){: width="48"} | 2.0 m /<br>6.6 ft | 202.0 kg /<br>445.3 lbs | <span class="tooltip" title="The Pokémon summons a sandstorm in battle.">Sand Stream</span><br><span class="tooltip" title="The Pokémon is protected against critical hits.">Battle Armor</span> | N/A |
+| #248 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![dark](../assets/types/dark.png "Dark"){: width="48"} | 2.0 m /<br>6.6 ft | 202.0 kg /<br>445.3 lbs |  | 1. <span class="tooltip" title="The Pokémon summons a sandstorm in battle.">Sand Stream</span><br>2. <span class="tooltip" title="The Pokémon is protected against critical hits.">Battle Armor</span> | N/A |
 
 ---
 

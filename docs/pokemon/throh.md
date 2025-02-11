@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #538 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.3 m /<br>4.3 ft | 55.5 kg /<br>122.4 lbs | <span class="tooltip" title="Boosts Attack if there is a status problem.">Guts</span><br><span class="tooltip" title="Moves can be used regardless of Abilities.">Mold Breaker</span> | #44 |
+| #538 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.3 m /<br>4.3 ft | 55.5 kg /<br>122.4 lbs |  | 1. <span class="tooltip" title="Boosts Attack if there is a status problem.">Guts</span><br>2. <span class="tooltip" title="Moves can be used regardless of Abilities.">Mold Breaker</span> | #44 |
 
 ---
 

@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #321 | ![water](../assets/types/water.png "Water"){: width="48"} | 14.5 m /<br>47.6 ft | 398.0 kg /<br>877.4 lbs | <span class="tooltip" title="Ups resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br><span class="tooltip" title="The Pokémon makes it rain if it appears in battle.">Drizzle</span> | N/A |
+| #321 | ![water](../assets/types/water.png "Water"){: width="48"} | 14.5 m /<br>47.6 ft | 398.0 kg /<br>877.4 lbs |  | 1. <span class="tooltip" title="Ups resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br>2. <span class="tooltip" title="The Pokémon makes it rain if it appears in battle.">Drizzle</span> | N/A |
 
 ---
 

@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #441 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.5 m /<br>1.6 ft | 1.9 kg /<br>4.2 lbs | <span class="tooltip" title="Raises one stat and lowers another.">Moody</span><br><span class="tooltip" title="Raises evasion if the Pokémon is confused.">Tangled Feet</span> | N/A |
+| #441 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.5 m /<br>1.6 ft | 1.9 kg /<br>4.2 lbs |  | 1. <span class="tooltip" title="Raises one stat and lowers another.">Moody</span><br>2. <span class="tooltip" title="Raises evasion if the Pokémon is confused.">Tangled Feet</span> | N/A |
 
 ---
 

@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #124 | ![ice](../assets/types/ice.png "Ice"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.4 m /<br>4.6 ft | 40.6 kg /<br>89.5 lbs | <span class="tooltip" title="The Pokémon copies a foe’s Ability.">Trace</span><br><span class="tooltip" title="Reduces HP if it is hot. Water restores HP.">Dry Skin</span> | N/A |
+| #124 | ![ice](../assets/types/ice.png "Ice"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.4 m /<br>4.6 ft | 40.6 kg /<br>89.5 lbs |  | 1. <span class="tooltip" title="The Pokémon copies a foe’s Ability.">Trace</span><br>2. <span class="tooltip" title="Reduces HP if it is hot. Water restores HP.">Dry Skin</span> | N/A |
 
 ---
 

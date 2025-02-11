@@ -46,7 +46,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #592 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | 1.2 m /<br>3.9 ft | 33.0 kg /<br>72.8 lbs | <span class="tooltip" title="Restores HP if hit by a Water-type move.">Water Absorb</span><br><span class="tooltip" title="May disable a move used on the Pokémon.">Cursed Body</span> | #98 |
+| #592 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | 1.2 m /<br>3.9 ft | 33.0 kg /<br>72.8 lbs |  | 1. <span class="tooltip" title="Restores HP if hit by a Water-type move.">Water Absorb</span><br>2. <span class="tooltip" title="May disable a move used on the Pokémon.">Cursed Body</span> | #98 |
 
 ---
 

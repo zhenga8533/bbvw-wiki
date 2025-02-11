@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #90 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.3 m /<br>1.0 ft | 4.0 kg /<br>8.8 lbs | <span class="tooltip" title="Protects the Pokémon from damage from weather.">Overcoat</span><br><span class="tooltip" title="Increases the frequency of multi-strike moves.">Skill Link</span> | N/A |
+| #90 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.3 m /<br>1.0 ft | 4.0 kg /<br>8.8 lbs |  | 1. <span class="tooltip" title="Protects the Pokémon from damage from weather.">Overcoat</span><br>2. <span class="tooltip" title="Increases the frequency of multi-strike moves.">Skill Link</span> | N/A |
 
 ---
 

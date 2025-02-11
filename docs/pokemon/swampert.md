@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #260 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 1.5 m /<br>4.9 ft | 81.9 kg /<br>180.6 lbs | <span class="tooltip" title="Powers up Water-type moves in a pinch.">Torrent</span><br><span class="tooltip" title="Moves can be used regardless of Abilities.">Mold Breaker</span> | N/A |
+| #260 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 1.5 m /<br>4.9 ft | 81.9 kg /<br>180.6 lbs |  | 1. <span class="tooltip" title="Powers up Water-type moves in a pinch.">Torrent</span><br>2. <span class="tooltip" title="Moves can be used regardless of Abilities.">Mold Breaker</span> | N/A |
 
 ---
 

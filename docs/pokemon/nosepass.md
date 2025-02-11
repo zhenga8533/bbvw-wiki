@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #299 | ![rock](../assets/types/rock.png "Rock"){: width="48"} | 1.0 m /<br>3.3 ft | 97.0 kg /<br>213.8 lbs | <span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span><br><span class="tooltip" title="Prevents Steel-type Pokémon from escaping.">Magnet Pull</span> | N/A |
+| #299 | ![rock](../assets/types/rock.png "Rock"){: width="48"} | 1.0 m /<br>3.3 ft | 97.0 kg /<br>213.8 lbs |  | 1. <span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span><br>2. <span class="tooltip" title="Prevents Steel-type Pokémon from escaping.">Magnet Pull</span> | N/A |
 
 ---
 

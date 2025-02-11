@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #599 | ![steel](../assets/types/steel.png "Steel"){: width="48"} | 0.3 m /<br>1.0 ft | 21.0 kg /<br>46.3 lbs | <span class="tooltip" title="Raises Speed if hit by an Electric-type move.">Motor Drive</span><br><span class="tooltip" title="Prevents other Pokémon from lowering its stats.">Clear Body</span> | #105 |
+| #599 | ![steel](../assets/types/steel.png "Steel"){: width="48"} | 0.3 m /<br>1.0 ft | 21.0 kg /<br>46.3 lbs |  | 1. <span class="tooltip" title="Raises Speed if hit by an Electric-type move.">Motor Drive</span><br>2. <span class="tooltip" title="Prevents other Pokémon from lowering its stats.">Clear Body</span> | #105 |
 
 ---
 

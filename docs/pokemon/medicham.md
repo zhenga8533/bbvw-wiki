@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #308 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.3 m /<br>4.3 ft | 31.5 kg /<br>69.4 lbs | <span class="tooltip" title="Raises the Pokémon’s Attack stat.">Pure Power</span><br><span class="tooltip" title="Anticipates an ally’s attack and dodges it.">Telepathy</span> | N/A |
+| #308 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.3 m /<br>4.3 ft | 31.5 kg /<br>69.4 lbs |  | 1. <span class="tooltip" title="Raises the Pokémon’s Attack stat.">Pure Power</span><br>2. <span class="tooltip" title="Anticipates an ally’s attack and dodges it.">Telepathy</span> | N/A |
 
 ---
 

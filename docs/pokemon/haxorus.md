@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #612 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 1.8 m /<br>5.9 ft | 105.5 kg /<br>232.6 lbs | <span class="tooltip" title="Deals more damage to a Pokémon of same gender.">Rivalry</span><br><span class="tooltip" title="Moves can be used regardless of Abilities.">Mold Breaker</span> | #118 |
+| #612 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 1.8 m /<br>5.9 ft | 105.5 kg /<br>232.6 lbs |  | 1. <span class="tooltip" title="Deals more damage to a Pokémon of same gender.">Rivalry</span><br>2. <span class="tooltip" title="Moves can be used regardless of Abilities.">Mold Breaker</span> | #118 |
 
 ---
 

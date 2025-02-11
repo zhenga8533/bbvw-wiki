@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #457 | ![water](../assets/types/water.png "Water"){: width="48"} | 1.2 m /<br>3.9 ft | 24.0 kg /<br>52.9 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br><span class="tooltip" title="Draws in all Water-type moves to up Sp. Attack.">Storm Drain</span> | N/A |
+| #457 | ![water](../assets/types/water.png "Water"){: width="48"} | 1.2 m /<br>3.9 ft | 24.0 kg /<br>52.9 lbs |  | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br>2. <span class="tooltip" title="Draws in all Water-type moves to up Sp. Attack.">Storm Drain</span> | N/A |
 
 ---
 

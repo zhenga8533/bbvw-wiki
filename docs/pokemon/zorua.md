@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #570 | ![dark](../assets/types/dark.png "Dark"){: width="48"} | 0.7 m /<br>2.3 ft | 12.5 kg /<br>27.6 lbs | <span class="tooltip" title="Comes out disguised as the Pokémon in back.">Illusion</span> | #76 |
+| #570 | ![dark](../assets/types/dark.png "Dark"){: width="48"} | 0.7 m /<br>2.3 ft | 12.5 kg /<br>27.6 lbs |  | 1. <span class="tooltip" title="Comes out disguised as the Pokémon in back.">Illusion</span> | #76 |
 
 ---
 

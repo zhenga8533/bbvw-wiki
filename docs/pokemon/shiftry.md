@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #275 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![dark](../assets/types/dark.png "Dark"){: width="48"} | 1.3 m /<br>4.3 ft | 59.6 kg /<br>131.4 lbs | <span class="tooltip" title="Steals an item when hit by another Pokémon.">Pickpocket</span><br><span class="tooltip" title="The Pokémon awakens quickly from sleep.">Early Bird</span> | N/A |
+| #275 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![dark](../assets/types/dark.png "Dark"){: width="48"} | 1.3 m /<br>4.3 ft | 59.6 kg /<br>131.4 lbs |  | 1. <span class="tooltip" title="Steals an item when hit by another Pokémon.">Pickpocket</span><br>2. <span class="tooltip" title="The Pokémon awakens quickly from sleep.">Early Bird</span> | N/A |
 
 ---
 

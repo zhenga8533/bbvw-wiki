@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #329 | ![ground](../assets/types/ground.png "Ground"){: width="48"}<br>![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 1.1 m /<br>3.6 ft | 15.3 kg /<br>33.7 lbs | <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
+| #329 | ![ground](../assets/types/ground.png "Ground"){: width="48"}<br>![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 1.1 m /<br>3.6 ft | 15.3 kg /<br>33.7 lbs |  | 1. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
 
 ---
 

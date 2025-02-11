@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #11 | ![bug](../assets/types/bug.png "Bug"){: width="48"} | 0.7 m /<br>2.3 ft | 9.9 kg /<br>21.8 lbs | <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span><br><span class="tooltip" title="The Pokémon is protected against critical hits.">Battle Armor</span> | N/A |
+| #11 | ![bug](../assets/types/bug.png "Bug"){: width="48"} | 0.7 m /<br>2.3 ft | 9.9 kg /<br>21.8 lbs |  | 1. <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span><br>2. <span class="tooltip" title="The Pokémon is protected against critical hits.">Battle Armor</span> | N/A |
 
 ---
 

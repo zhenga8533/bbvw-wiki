@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #15 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.0 m /<br>3.3 ft | 29.5 kg /<br>65.0 lbs | <span class="tooltip" title="Powers up moves if they become critical hits.">Sniper</span><br><span class="tooltip" title="May poison targets when a Pokémon makes contact.">Poison Touch</span> | N/A |
+| #15 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.0 m /<br>3.3 ft | 29.5 kg /<br>65.0 lbs |  | 1. <span class="tooltip" title="Powers up moves if they become critical hits.">Sniper</span><br>2. <span class="tooltip" title="May poison targets when a Pokémon makes contact.">Poison Touch</span> | N/A |
 
 ---
 

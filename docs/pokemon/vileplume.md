@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #45 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.2 m /<br>3.9 ft | 18.6 kg /<br>41.0 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br><span class="tooltip" title="Contact may poison or cause paralysis or sleep.">Effect Spore</span> | N/A |
+| #45 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.2 m /<br>3.9 ft | 18.6 kg /<br>41.0 lbs |  | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="Contact may poison or cause paralysis or sleep.">Effect Spore</span> | N/A |
 
 ---
 

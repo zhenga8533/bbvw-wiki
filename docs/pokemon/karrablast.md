@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #588 | ![bug](../assets/types/bug.png "Bug"){: width="48"} | 0.5 m /<br>1.6 ft | 5.9 kg /<br>13.0 lbs | <span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span><br><span class="tooltip" title="Ensures attacks by or against the Pokémon land.">No Guard</span> | #94 |
+| #588 | ![bug](../assets/types/bug.png "Bug"){: width="48"} | 0.5 m /<br>1.6 ft | 5.9 kg /<br>13.0 lbs |  | 1. <span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span><br>2. <span class="tooltip" title="Ensures attacks by or against the Pokémon land.">No Guard</span> | #94 |
 
 ---
 

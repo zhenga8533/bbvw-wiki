@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #291 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.8 m /<br>2.6 ft | 12.0 kg /<br>26.5 lbs | <span class="tooltip" title="Its Speed stat is gradually boosted.">Speed Boost</span><br><span class="tooltip" title="Passes through the foe’s barrier and strikes.">Infiltrator</span> | N/A |
+| #291 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.8 m /<br>2.6 ft | 12.0 kg /<br>26.5 lbs |  | 1. <span class="tooltip" title="Its Speed stat is gradually boosted.">Speed Boost</span><br>2. <span class="tooltip" title="Passes through the foe’s barrier and strikes.">Infiltrator</span> | N/A |
 
 ---
 

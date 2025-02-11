@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #453 | ![poison](../assets/types/poison.png "Poison"){: width="48"}<br>![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 0.7 m /<br>2.3 ft | 23.0 kg /<br>50.7 lbs | <span class="tooltip" title="May poison targets when a Pokémon makes contact.">Poison Touch</span><br><span class="tooltip" title="Reduces HP if it is hot. Water restores HP.">Dry Skin</span> | N/A |
+| #453 | ![poison](../assets/types/poison.png "Poison"){: width="48"}<br>![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 0.7 m /<br>2.3 ft | 23.0 kg /<br>50.7 lbs |  | 1. <span class="tooltip" title="May poison targets when a Pokémon makes contact.">Poison Touch</span><br>2. <span class="tooltip" title="Reduces HP if it is hot. Water restores HP.">Dry Skin</span> | N/A |
 
 ---
 

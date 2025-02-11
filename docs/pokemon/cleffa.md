@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #173 | ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.3 m /<br>1.0 ft | 3.0 kg /<br>6.6 lbs | <span class="tooltip" title="Reduces damage done to allies.">Friend Guard</span><br><span class="tooltip" title="The Pokémon only takes damage from attacks.">Magic Guard</span> | N/A |
+| #173 | ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.3 m /<br>1.0 ft | 3.0 kg /<br>6.6 lbs |  | 1. <span class="tooltip" title="Reduces damage done to allies.">Friend Guard</span><br>2. <span class="tooltip" title="The Pokémon only takes damage from attacks.">Magic Guard</span> | N/A |
 
 ---
 

@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #42 | ![poison](../assets/types/poison.png "Poison"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.6 m /<br>5.2 ft | 55.0 kg /<br>121.3 lbs | <span class="tooltip" title="The Pokémon is protected from flinching.">Inner Focus</span><br><span class="tooltip" title="Passes through the foe’s barrier and strikes.">Infiltrator</span> | N/A |
+| #42 | ![poison](../assets/types/poison.png "Poison"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.6 m /<br>5.2 ft | 55.0 kg /<br>121.3 lbs |  | 1. <span class="tooltip" title="The Pokémon is protected from flinching.">Inner Focus</span><br>2. <span class="tooltip" title="Passes through the foe’s barrier and strikes.">Infiltrator</span> | N/A |
 
 ---
 

@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #288 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.4 m /<br>4.6 ft | 46.5 kg /<br>102.5 lbs | <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Vital Spirit</span><br><span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span> | N/A |
+| #288 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.4 m /<br>4.6 ft | 46.5 kg /<br>102.5 lbs |  | 1. <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Vital Spirit</span><br>2. <span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span> | N/A |
 
 ---
 

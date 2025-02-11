@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #58 | ![fire](../assets/types/fire.png "Fire"){: width="48"} | 0.7 m /<br>2.3 ft | 19.0 kg /<br>41.9 lbs | <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br><span class="tooltip" title="Raises Attack when hit by a Dark-type move.">Justified</span> | N/A |
+| #58 | ![fire](../assets/types/fire.png "Fire"){: width="48"} | 0.7 m /<br>2.3 ft | 19.0 kg /<br>41.9 lbs |  | 1. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br>2. <span class="tooltip" title="Raises Attack when hit by a Dark-type move.">Justified</span> | N/A |
 
 ---
 

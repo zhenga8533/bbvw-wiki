@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #573 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.5 m /<br>1.6 ft | 7.5 kg /<br>16.5 lbs | <span class="tooltip" title="Increases the frequency of multi-strike moves.">Skill Link</span><br><span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span> | #79 |
+| #573 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.5 m /<br>1.6 ft | 7.5 kg /<br>16.5 lbs |  | 1. <span class="tooltip" title="Increases the frequency of multi-strike moves.">Skill Link</span><br>2. <span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span> | #79 |
 
 ---
 

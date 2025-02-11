@@ -50,7 +50,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #412 | ![bug](../assets/types/bug.png "Bug"){: width="48"} | 0.2 m /<br>0.7 ft | 3.4 kg /<br>7.5 lbs | <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span><br><span class="tooltip" title="Protects the Pokémon from damage from weather.">Overcoat</span> | N/A |
+| #412 | ![bug](../assets/types/bug.png "Bug"){: width="48"} | 0.2 m /<br>0.7 ft | 3.4 kg /<br>7.5 lbs |  | 1. <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span><br>2. <span class="tooltip" title="Protects the Pokémon from damage from weather.">Overcoat</span> | N/A |
 
 ---
 

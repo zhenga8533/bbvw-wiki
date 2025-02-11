@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #102 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 0.4 m /<br>1.3 ft | 2.5 kg /<br>5.5 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br><span class="tooltip" title="May create another Berry after one is used.">Harvest</span> | N/A |
+| #102 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 0.4 m /<br>1.3 ft | 2.5 kg /<br>5.5 lbs |  | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="May create another Berry after one is used.">Harvest</span> | N/A |
 
 ---
 

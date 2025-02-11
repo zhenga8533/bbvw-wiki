@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #461 | ![dark](../assets/types/dark.png "Dark"){: width="48"}<br>![ice](../assets/types/ice.png "Ice"){: width="48"} | 1.1 m /<br>3.6 ft | 34.0 kg /<br>75.0 lbs | <span class="tooltip" title="Steals an item when hit by another Pokémon.">Pickpocket</span><br><span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span> | N/A |
+| #461 | ![dark](../assets/types/dark.png "Dark"){: width="48"}<br>![ice](../assets/types/ice.png "Ice"){: width="48"} | 1.1 m /<br>3.6 ft | 34.0 kg /<br>75.0 lbs |  | 1. <span class="tooltip" title="Steals an item when hit by another Pokémon.">Pickpocket</span><br>2. <span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span> | N/A |
 
 ---
 

@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #618 | ![ground](../assets/types/ground.png "Ground"){: width="48"}<br>![electric](../assets/types/electric.png "Electric"){: width="48"} | 0.7 m /<br>2.3 ft | 11.0 kg /<br>24.3 lbs | <span class="tooltip" title="Contact with the Pokémon may cause paralysis.">Static</span><br><span class="tooltip" title="The Pokémon is protected from paralysis.">Limber</span> | #124 |
+| #618 | ![ground](../assets/types/ground.png "Ground"){: width="48"}<br>![electric](../assets/types/electric.png "Electric"){: width="48"} | 0.7 m /<br>2.3 ft | 11.0 kg /<br>24.3 lbs |  | 1. <span class="tooltip" title="Contact with the Pokémon may cause paralysis.">Static</span><br>2. <span class="tooltip" title="The Pokémon is protected from paralysis.">Limber</span> | #124 |
 
 ---
 

@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #33 | ![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.9 m /<br>3.0 ft | 19.5 kg /<br>43.0 lbs | <span class="tooltip" title="Boosts the Attack stat, but lowers accuracy.">Hustle</span><br><span class="tooltip" title="Deals more damage to a Pokémon of same gender.">Rivalry</span> | N/A |
+| #33 | ![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.9 m /<br>3.0 ft | 19.5 kg /<br>43.0 lbs |  | 1. <span class="tooltip" title="Boosts the Attack stat, but lowers accuracy.">Hustle</span><br>2. <span class="tooltip" title="Deals more damage to a Pokémon of same gender.">Rivalry</span> | N/A |
 
 ---
 

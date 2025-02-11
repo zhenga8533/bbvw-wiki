@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #492 | ![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.2 m /<br>0.7 ft | 2.1 kg /<br>4.6 lbs | <span class="tooltip" title="All status problems heal when it switches out.">Natural Cure</span> | N/A |
+| #492 | ![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.2 m /<br>0.7 ft | 2.1 kg /<br>4.6 lbs |  | 1. <span class="tooltip" title="All status problems heal when it switches out.">Natural Cure</span> | N/A |
 
 ---
 

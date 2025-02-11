@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #549 | ![grass](../assets/types/grass.png "Grass"){: width="48"} | 1.1 m /<br>3.6 ft | 16.3 kg /<br>35.9 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br><span class="tooltip" title="Prevents the Pokémon from becoming confused.">Own Tempo</span> | #55 |
+| #549 | ![grass](../assets/types/grass.png "Grass"){: width="48"} | 1.1 m /<br>3.6 ft | 16.3 kg /<br>35.9 lbs |  | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="Prevents the Pokémon from becoming confused.">Own Tempo</span> | #55 |
 
 ---
 

@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #137 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.8 m /<br>2.6 ft | 36.5 kg /<br>80.5 lbs | <span class="tooltip" title="The Pokémon copies a foe’s Ability.">Trace</span><br><span class="tooltip" title="Adjusts power according to a foe’s defenses.">Download</span> | N/A |
+| #137 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.8 m /<br>2.6 ft | 36.5 kg /<br>80.5 lbs |  | 1. <span class="tooltip" title="The Pokémon copies a foe’s Ability.">Trace</span><br>2. <span class="tooltip" title="Adjusts power according to a foe’s defenses.">Download</span> | N/A |
 
 ---
 

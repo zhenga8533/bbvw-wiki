@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #25 | ![electric](../assets/types/electric.png "Electric"){: width="48"} | 0.4 m /<br>1.3 ft | 6.0 kg /<br>13.2 lbs | <span class="tooltip" title="Contact with the Pokémon may cause paralysis.">Static</span><br><span class="tooltip" title="Draws in all Electric-type moves to up Sp. Attack.">Lightning Rod</span> | N/A |
+| #25 | ![electric](../assets/types/electric.png "Electric"){: width="48"} | 0.4 m /<br>1.3 ft | 6.0 kg /<br>13.2 lbs |  | 1. <span class="tooltip" title="Contact with the Pokémon may cause paralysis.">Static</span><br>2. <span class="tooltip" title="Draws in all Electric-type moves to up Sp. Attack.">Lightning Rod</span> | N/A |
 
 ---
 

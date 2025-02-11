@@ -33,7 +33,7 @@ Latest (Gen VI+):
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #10021 | ![ground](../assets/types/ground.png "Ground"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.3 m /<br>4.3 ft | 68.0 kg /<br>149.9 lbs | <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span> | #151 |
+| #10021 | ![ground](../assets/types/ground.png "Ground"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.3 m /<br>4.3 ft | 68.0 kg /<br>149.9 lbs |  | 1. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span> | #151 |
 
 ---
 

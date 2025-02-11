@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #352 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.0 m /<br>3.3 ft | 22.0 kg /<br>48.5 lbs | <span class="tooltip" title="Changes the Pokémon’s type to the foe’s move.">Color Change</span> | N/A |
+| #352 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.0 m /<br>3.3 ft | 22.0 kg /<br>48.5 lbs |  | 1. <span class="tooltip" title="Changes the Pokémon’s type to the foe’s move.">Color Change</span> | N/A |
 
 ---
 

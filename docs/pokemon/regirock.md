@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #377 | ![rock](../assets/types/rock.png "Rock"){: width="48"} | 1.7 m /<br>5.6 ft | 230.0 kg /<br>507.1 lbs | <span class="tooltip" title="Prevents other Pokémon from lowering its stats.">Clear Body</span><br><span class="tooltip" title="Reduces damage from supereffective attacks.">Solid Rock</span> | N/A |
+| #377 | ![rock](../assets/types/rock.png "Rock"){: width="48"} | 1.7 m /<br>5.6 ft | 230.0 kg /<br>507.1 lbs |  | 1. <span class="tooltip" title="Prevents other Pokémon from lowering its stats.">Clear Body</span><br>2. <span class="tooltip" title="Reduces damage from supereffective attacks.">Solid Rock</span> | N/A |
 
 ---
 

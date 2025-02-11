@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #629 | ![dark](../assets/types/dark.png "Dark"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.5 m /<br>1.6 ft | 9.0 kg /<br>19.8 lbs | <span class="tooltip" title="Protects the Pokémon from Defense-lowering attacks.">Big Pecks</span><br><span class="tooltip" title="Protects the Pokémon from damage from weather.">Overcoat</span> | #135 |
+| #629 | ![dark](../assets/types/dark.png "Dark"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.5 m /<br>1.6 ft | 9.0 kg /<br>19.8 lbs |  | 1. <span class="tooltip" title="Protects the Pokémon from Defense-lowering attacks.">Big Pecks</span><br>2. <span class="tooltip" title="Protects the Pokémon from damage from weather.">Overcoat</span> | #135 |
 
 ---
 

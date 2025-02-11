@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #524 | ![rock](../assets/types/rock.png "Rock"){: width="48"} | 0.4 m /<br>1.3 ft | 18.0 kg /<br>39.7 lbs | <span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span><br><span class="tooltip" title="Boosts certain moves’ power in a sandstorm.">Sand Force</span> | #30 |
+| #524 | ![rock](../assets/types/rock.png "Rock"){: width="48"} | 0.4 m /<br>1.3 ft | 18.0 kg /<br>39.7 lbs |  | 1. <span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span><br>2. <span class="tooltip" title="Boosts certain moves’ power in a sandstorm.">Sand Force</span> | #30 |
 
 ---
 

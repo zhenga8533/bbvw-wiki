@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #455 | ![grass](../assets/types/grass.png "Grass"){: width="48"} | 1.4 m /<br>4.6 ft | 27.0 kg /<br>59.5 lbs | <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
+| #455 | ![grass](../assets/types/grass.png "Grass"){: width="48"} | 1.4 m /<br>4.6 ft | 27.0 kg /<br>59.5 lbs |  | 1. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
 
 ---
 

@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #135 | ![electric](../assets/types/electric.png "Electric"){: width="48"} | 0.8 m /<br>2.6 ft | 24.5 kg /<br>54.0 lbs | <span class="tooltip" title="Restores HP if hit by an Electric-type move.">Volt Absorb</span><br><span class="tooltip" title="Draws in all Electric-type moves to up Sp. Attack.">Lightning Rod</span> | N/A |
+| #135 | ![electric](../assets/types/electric.png "Electric"){: width="48"} | 0.8 m /<br>2.6 ft | 24.5 kg /<br>54.0 lbs |  | 1. <span class="tooltip" title="Restores HP if hit by an Electric-type move.">Volt Absorb</span><br>2. <span class="tooltip" title="Draws in all Electric-type moves to up Sp. Attack.">Lightning Rod</span> | N/A |
 
 ---
 

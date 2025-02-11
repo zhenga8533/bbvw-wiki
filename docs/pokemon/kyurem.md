@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #646 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"}<br>![ice](../assets/types/ice.png "Ice"){: width="48"} | 3.0 m /<br>9.8 ft | 325.0 kg /<br>716.5 lbs | <span class="tooltip" title="The Pokémon summons a hailstorm in battle.">Snow Warning</span> | #152 |
+| #646 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"}<br>![ice](../assets/types/ice.png "Ice"){: width="48"} | 3.0 m /<br>9.8 ft | 325.0 kg /<br>716.5 lbs |  | 1. <span class="tooltip" title="The Pokémon summons a hailstorm in battle.">Snow Warning</span> | #152 |
 
 ---
 

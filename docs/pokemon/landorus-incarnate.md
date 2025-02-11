@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #645 | ![ground](../assets/types/ground.png "Ground"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.5 m /<br>4.9 ft | 68.0 kg /<br>149.9 lbs | <span class="tooltip" title="Boosts certain moves’ power in a sandstorm.">Sand Force</span><br><span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span> | #151 |
+| #645 | ![ground](../assets/types/ground.png "Ground"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.5 m /<br>4.9 ft | 68.0 kg /<br>149.9 lbs |  | 1. <span class="tooltip" title="Boosts certain moves’ power in a sandstorm.">Sand Force</span><br>2. <span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span> | #151 |
 
 ---
 

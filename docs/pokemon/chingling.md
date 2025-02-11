@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #433 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 0.2 m /<br>0.7 ft | 0.6 kg /<br>1.3 lbs | <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
+| #433 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 0.2 m /<br>0.7 ft | 0.6 kg /<br>1.3 lbs |  | 1. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
 
 ---
 

@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #236 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 0.7 m /<br>2.3 ft | 21.0 kg /<br>46.3 lbs | <span class="tooltip" title="Boosts Attack if there is a status problem.">Guts</span><br><span class="tooltip" title="Prevents the Pokémon from falling asleep.">Vital Spirit</span> | N/A |
+| #236 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 0.7 m /<br>2.3 ft | 21.0 kg /<br>46.3 lbs |  | 1. <span class="tooltip" title="Boosts Attack if there is a status problem.">Guts</span><br>2. <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Vital Spirit</span> | N/A |
 
 ---
 

@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #617 | ![bug](../assets/types/bug.png "Bug"){: width="48"} | 0.8 m /<br>2.6 ft | 25.3 kg /<br>55.8 lbs | <span class="tooltip" title="Heals status problems if it is raining.">Hydration</span><br><span class="tooltip" title="Raises Speed if a held item is used.">Unburden</span> | #123 |
+| #617 | ![bug](../assets/types/bug.png "Bug"){: width="48"} | 0.8 m /<br>2.6 ft | 25.3 kg /<br>55.8 lbs |  | 1. <span class="tooltip" title="Heals status problems if it is raining.">Hydration</span><br>2. <span class="tooltip" title="Raises Speed if a held item is used.">Unburden</span> | #123 |
 
 ---
 

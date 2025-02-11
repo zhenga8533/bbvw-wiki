@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #371 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 0.6 m /<br>2.0 ft | 42.1 kg /<br>92.8 lbs | <span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span><br><span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span> | N/A |
+| #371 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 0.6 m /<br>2.0 ft | 42.1 kg /<br>92.8 lbs |  | 1. <span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span><br>2. <span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span> | N/A |
 
 ---
 

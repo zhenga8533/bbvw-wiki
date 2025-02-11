@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #376 | ![steel](../assets/types/steel.png "Steel"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.6 m /<br>5.2 ft | 550.0 kg /<br>1212.5 lbs | <span class="tooltip" title="Boosts the power of punching moves.">Iron Fist</span><br><span class="tooltip" title="Boosts move power when the Pokémon moves last.">Analytic</span> | N/A |
+| #376 | ![steel](../assets/types/steel.png "Steel"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.6 m /<br>5.2 ft | 550.0 kg /<br>1212.5 lbs |  | 1. <span class="tooltip" title="Boosts the power of punching moves.">Iron Fist</span><br>2. <span class="tooltip" title="Boosts move power when the Pokémon moves last.">Analytic</span> | N/A |
 
 ---
 

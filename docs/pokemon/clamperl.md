@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #366 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.4 m /<br>1.3 ft | 52.5 kg /<br>115.7 lbs | <span class="tooltip" title="The Pokémon is protected against critical hits.">Shell Armor</span><br><span class="tooltip" title="Some move types scare it and boost its Speed.">Rattled</span> | N/A |
+| #366 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.4 m /<br>1.3 ft | 52.5 kg /<br>115.7 lbs |  | 1. <span class="tooltip" title="The Pokémon is protected against critical hits.">Shell Armor</span><br>2. <span class="tooltip" title="Some move types scare it and boost its Speed.">Rattled</span> | N/A |
 
 ---
 

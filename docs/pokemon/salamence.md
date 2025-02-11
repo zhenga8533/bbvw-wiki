@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #373 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.5 m /<br>4.9 ft | 102.6 kg /<br>226.2 lbs | <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br><span class="tooltip" title="Boosts Attack after knocking out any Pokémon.">Moxie</span> | N/A |
+| #373 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.5 m /<br>4.9 ft | 102.6 kg /<br>226.2 lbs |  | 1. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br>2. <span class="tooltip" title="Boosts Attack after knocking out any Pokémon.">Moxie</span> | N/A |
 
 ---
 

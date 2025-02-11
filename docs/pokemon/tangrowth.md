@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #465 | ![grass](../assets/types/grass.png "Grass"){: width="48"} | 2.0 m /<br>6.6 ft | 128.6 kg /<br>283.5 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br><span class="tooltip" title="Restores a little HP when withdrawn from battle.">Regenerator</span> | N/A |
+| #465 | ![grass](../assets/types/grass.png "Grass"){: width="48"} | 2.0 m /<br>6.6 ft | 128.6 kg /<br>283.5 lbs |  | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="Restores a little HP when withdrawn from battle.">Regenerator</span> | N/A |
 
 ---
 

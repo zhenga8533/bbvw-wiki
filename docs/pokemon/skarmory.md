@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #227 | ![steel](../assets/types/steel.png "Steel"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.7 m /<br>5.6 ft | 50.5 kg /<br>111.3 lbs | <span class="tooltip" title="Halves the Pokémon’s weight.">Light Metal</span><br><span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span> | N/A |
+| #227 | ![steel](../assets/types/steel.png "Steel"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.7 m /<br>5.6 ft | 50.5 kg /<br>111.3 lbs |  | 1. <span class="tooltip" title="Halves the Pokémon’s weight.">Light Metal</span><br>2. <span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span> | N/A |
 
 ---
 

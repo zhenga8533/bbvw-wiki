@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #513 | ![fire](../assets/types/fire.png "Fire"){: width="48"} | 0.6 m /<br>2.0 ft | 11.0 kg /<br>24.3 lbs | <span class="tooltip" title="Encourages the early use of a held Berry.">Gluttony</span><br><span class="tooltip" title="Powers up Fire-type moves in a pinch.">Blaze</span> | #19 |
+| #513 | ![fire](../assets/types/fire.png "Fire"){: width="48"} | 0.6 m /<br>2.0 ft | 11.0 kg /<br>24.3 lbs |  | 1. <span class="tooltip" title="Encourages the early use of a held Berry.">Gluttony</span><br>2. <span class="tooltip" title="Powers up Fire-type moves in a pinch.">Blaze</span> | #19 |
 
 ---
 

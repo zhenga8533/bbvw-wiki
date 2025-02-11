@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #489 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.4 m /<br>1.3 ft | 3.1 kg /<br>6.8 lbs | <span class="tooltip" title="Heals status problems if it is raining.">Hydration</span><br><span class="tooltip" title="The Pokémon only takes damage from attacks.">Magic Guard</span> | N/A |
+| #489 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.4 m /<br>1.3 ft | 3.1 kg /<br>6.8 lbs |  | 1. <span class="tooltip" title="Heals status problems if it is raining.">Hydration</span><br>2. <span class="tooltip" title="The Pokémon only takes damage from attacks.">Magic Guard</span> | N/A |
 
 ---
 

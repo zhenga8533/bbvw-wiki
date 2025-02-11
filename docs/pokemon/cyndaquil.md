@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #155 | ![fire](../assets/types/fire.png "Fire"){: width="48"} | 0.5 m /<br>1.6 ft | 7.9 kg /<br>17.4 lbs | <span class="tooltip" title="Powers up Fire-type moves in a pinch.">Blaze</span><br><span class="tooltip" title="It powers up Fire-type moves if it’s hit by one.">Flash Fire</span> | N/A |
+| #155 | ![fire](../assets/types/fire.png "Fire"){: width="48"} | 0.5 m /<br>1.6 ft | 7.9 kg /<br>17.4 lbs |  | 1. <span class="tooltip" title="Powers up Fire-type moves in a pinch.">Blaze</span><br>2. <span class="tooltip" title="It powers up Fire-type moves if it’s hit by one.">Flash Fire</span> | N/A |
 
 ---
 

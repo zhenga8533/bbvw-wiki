@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #605 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 0.5 m /<br>1.6 ft | 9.0 kg /<br>19.8 lbs | <span class="tooltip" title="Boosts move power when the Pokémon moves last.">Analytic</span><br><span class="tooltip" title="Passes a burn, poison, or paralysis to the foe.">Synchronize</span> | #111 |
+| #605 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 0.5 m /<br>1.6 ft | 9.0 kg /<br>19.8 lbs |  | 1. <span class="tooltip" title="Boosts move power when the Pokémon moves last.">Analytic</span><br>2. <span class="tooltip" title="Passes a burn, poison, or paralysis to the foe.">Synchronize</span> | #111 |
 
 ---
 

@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #205 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.2 m /<br>3.9 ft | 125.8 kg /<br>277.3 lbs | <span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span><br><span class="tooltip" title="Protects the Pokémon from damage from weather.">Overcoat</span> | N/A |
+| #205 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.2 m /<br>3.9 ft | 125.8 kg /<br>277.3 lbs |  | 1. <span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span><br>2. <span class="tooltip" title="Protects the Pokémon from damage from weather.">Overcoat</span> | N/A |
 
 ---
 

@@ -33,7 +33,7 @@ Latest (Gen VI+):
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #10018 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 0.6 m /<br>2.0 ft | 6.5 kg /<br>14.3 lbs | <span class="tooltip" title="Boosts the likelihood of added effects appearing.">Serene Grace</span> | #154 |
+| #10018 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 0.6 m /<br>2.0 ft | 6.5 kg /<br>14.3 lbs |  | 1. <span class="tooltip" title="Boosts the likelihood of added effects appearing.">Serene Grace</span> | #154 |
 
 ---
 

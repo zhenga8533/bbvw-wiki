@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #561 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.4 m /<br>4.6 ft | 14.0 kg /<br>30.9 lbs | <span class="tooltip" title="Powers up “not very effective” moves.">Tinted Lens</span><br><span class="tooltip" title="The Pokémon only takes damage from attacks.">Magic Guard</span> | #67 |
+| #561 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.4 m /<br>4.6 ft | 14.0 kg /<br>30.9 lbs |  | 1. <span class="tooltip" title="Powers up “not very effective” moves.">Tinted Lens</span><br>2. <span class="tooltip" title="The Pokémon only takes damage from attacks.">Magic Guard</span> | #67 |
 
 ---
 

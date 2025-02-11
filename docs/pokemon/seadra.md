@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #117 | ![water](../assets/types/water.png "Water"){: width="48"} | 1.2 m /<br>3.9 ft | 25.0 kg /<br>55.1 lbs | <span class="tooltip" title="Contact with the Pokémon may poison the attacker.">Poison Point</span><br><span class="tooltip" title="May poison targets when a Pokémon makes contact.">Poison Touch</span> | N/A |
+| #117 | ![water](../assets/types/water.png "Water"){: width="48"} | 1.2 m /<br>3.9 ft | 25.0 kg /<br>55.1 lbs |  | 1. <span class="tooltip" title="Contact with the Pokémon may poison the attacker.">Poison Point</span><br>2. <span class="tooltip" title="May poison targets when a Pokémon makes contact.">Poison Touch</span> | N/A |
 
 ---
 

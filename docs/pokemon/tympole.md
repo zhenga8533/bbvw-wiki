@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #535 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.5 m /<br>1.6 ft | 4.5 kg /<br>9.9 lbs | <span class="tooltip" title="Restores HP if hit by a Water-type move.">Water Absorb</span><br><span class="tooltip" title="Heals status problems if it is raining.">Hydration</span> | #41 |
+| #535 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.5 m /<br>1.6 ft | 4.5 kg /<br>9.9 lbs |  | 1. <span class="tooltip" title="Restores HP if hit by a Water-type move.">Water Absorb</span><br>2. <span class="tooltip" title="Heals status problems if it is raining.">Hydration</span> | #41 |
 
 ---
 

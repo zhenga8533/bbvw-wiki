@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #277 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.7 m /<br>2.3 ft | 19.8 kg /<br>43.7 lbs | <span class="tooltip" title="Raises Speed if a held item is used.">Unburden</span><br><span class="tooltip" title="Enables moves to hit Ghost-type Pokémon.">Scrappy</span> | N/A |
+| #277 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.7 m /<br>2.3 ft | 19.8 kg /<br>43.7 lbs |  | 1. <span class="tooltip" title="Raises Speed if a held item is used.">Unburden</span><br>2. <span class="tooltip" title="Enables moves to hit Ghost-type Pokémon.">Scrappy</span> | N/A |
 
 ---
 

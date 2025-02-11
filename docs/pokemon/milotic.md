@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #350 | ![water](../assets/types/water.png "Water"){: width="48"} | 6.2 m /<br>20.3 ft | 162.0 kg /<br>357.1 lbs | <span class="tooltip" title="Ups Defense if there is a status problem.">Marvel Scale</span><br><span class="tooltip" title="Reduces damage when HP is full.">Multiscale</span> | N/A |
+| #350 | ![water](../assets/types/water.png "Water"){: width="48"} | 6.2 m /<br>20.3 ft | 162.0 kg /<br>357.1 lbs |  | 1. <span class="tooltip" title="Ups Defense if there is a status problem.">Marvel Scale</span><br>2. <span class="tooltip" title="Reduces damage when HP is full.">Multiscale</span> | N/A |
 
 ---
 

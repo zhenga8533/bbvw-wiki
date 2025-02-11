@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #98 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.4 m /<br>1.3 ft | 6.5 kg /<br>14.3 lbs | <span class="tooltip" title="Prevents other Pokémon from lowering Attack stat.">Hyper Cutter</span><br><span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span> | N/A |
+| #98 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.4 m /<br>1.3 ft | 6.5 kg /<br>14.3 lbs |  | 1. <span class="tooltip" title="Prevents other Pokémon from lowering Attack stat.">Hyper Cutter</span><br>2. <span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span> | N/A |
 
 ---
 

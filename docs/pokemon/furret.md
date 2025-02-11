@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #162 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.8 m /<br>5.9 ft | 32.5 kg /<br>71.7 lbs | <span class="tooltip" title="The Pokémon can check a foe’s held item.">Frisk</span><br><span class="tooltip" title="Prevents other Pokémon from lowering accuracy.">Keen Eye</span> | N/A |
+| #162 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.8 m /<br>5.9 ft | 32.5 kg /<br>71.7 lbs |  | 1. <span class="tooltip" title="The Pokémon can check a foe’s held item.">Frisk</span><br>2. <span class="tooltip" title="Prevents other Pokémon from lowering accuracy.">Keen Eye</span> | N/A |
 
 ---
 

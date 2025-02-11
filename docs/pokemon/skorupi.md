@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #451 | ![poison](../assets/types/poison.png "Poison"){: width="48"}<br>![bug](../assets/types/bug.png "Bug"){: width="48"} | 0.8 m /<br>2.6 ft | 12.0 kg /<br>26.5 lbs | <span class="tooltip" title="The Pokémon is protected against critical hits.">Battle Armor</span><br><span class="tooltip" title="Powers up moves if they become critical hits.">Sniper</span> | N/A |
+| #451 | ![poison](../assets/types/poison.png "Poison"){: width="48"}<br>![bug](../assets/types/bug.png "Bug"){: width="48"} | 0.8 m /<br>2.6 ft | 12.0 kg /<br>26.5 lbs |  | 1. <span class="tooltip" title="The Pokémon is protected against critical hits.">Battle Armor</span><br>2. <span class="tooltip" title="Powers up moves if they become critical hits.">Sniper</span> | N/A |
 
 ---
 

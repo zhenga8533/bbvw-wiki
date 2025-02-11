@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #516 | ![water](../assets/types/water.png "Water"){: width="48"} | 1.0 m /<br>3.3 ft | 29.0 kg /<br>63.9 lbs | <span class="tooltip" title="Raises Speed if a held item is used.">Unburden</span><br><span class="tooltip" title="Powers up Water-type moves in a pinch.">Torrent</span> | #22 |
+| #516 | ![water](../assets/types/water.png "Water"){: width="48"} | 1.0 m /<br>3.3 ft | 29.0 kg /<br>63.9 lbs |  | 1. <span class="tooltip" title="Raises Speed if a held item is used.">Unburden</span><br>2. <span class="tooltip" title="Powers up Water-type moves in a pinch.">Torrent</span> | #22 |
 
 ---
 

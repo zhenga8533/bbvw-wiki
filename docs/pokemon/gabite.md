@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #444 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 1.4 m /<br>4.6 ft | 56.0 kg /<br>123.5 lbs | <span class="tooltip" title="Boosts the Pokémon’s evasion in a sandstorm.">Sand Veil</span><br><span class="tooltip" title="Inflicts damage to the attacker on contact.">Rough Skin</span> | N/A |
+| #444 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 1.4 m /<br>4.6 ft | 56.0 kg /<br>123.5 lbs |  | 1. <span class="tooltip" title="Boosts the Pokémon’s evasion in a sandstorm.">Sand Veil</span><br>2. <span class="tooltip" title="Inflicts damage to the attacker on contact.">Rough Skin</span> | N/A |
 
 ---
 

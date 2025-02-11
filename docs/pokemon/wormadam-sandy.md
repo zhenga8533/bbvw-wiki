@@ -31,7 +31,7 @@ Latest (Gen VI+):
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #10004 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.5 m /<br>1.6 ft | 6.5 kg /<br>14.3 lbs | <span class="tooltip" title="Senses a foe’s dangerous moves.">Anticipation</span><br><span class="tooltip" title="Boosts the Pokémon’s evasion in a sandstorm.">Sand Veil</span> | N/A |
+| #10004 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.5 m /<br>1.6 ft | 6.5 kg /<br>14.3 lbs |  | 1. <span class="tooltip" title="Senses a foe’s dangerous moves.">Anticipation</span><br>2. <span class="tooltip" title="Boosts the Pokémon’s evasion in a sandstorm.">Sand Veil</span> | N/A |
 
 ---
 

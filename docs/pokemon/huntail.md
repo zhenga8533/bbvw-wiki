@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #367 | ![water](../assets/types/water.png "Water"){: width="48"} | 1.7 m /<br>5.6 ft | 27.0 kg /<br>59.5 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br><span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span> | N/A |
+| #367 | ![water](../assets/types/water.png "Water"){: width="48"} | 1.7 m /<br>5.6 ft | 27.0 kg /<br>59.5 lbs |  | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br>2. <span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span> | N/A |
 
 ---
 

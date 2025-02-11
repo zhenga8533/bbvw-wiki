@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #494 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"}<br>![fire](../assets/types/fire.png "Fire"){: width="48"} | 0.4 m /<br>1.3 ft | 4.0 kg /<br>8.8 lbs | <span class="tooltip" title="Boosts the accuracy of its allies and itself.">Victory Star</span> | N/A |
+| #494 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"}<br>![fire](../assets/types/fire.png "Fire"){: width="48"} | 0.4 m /<br>1.3 ft | 4.0 kg /<br>8.8 lbs |  | 1. <span class="tooltip" title="Boosts the accuracy of its allies and itself.">Victory Star</span> | N/A |
 
 ---
 

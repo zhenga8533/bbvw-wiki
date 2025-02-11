@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #87 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![ice](../assets/types/ice.png "Ice"){: width="48"} | 1.7 m /<br>5.6 ft | 120.0 kg /<br>264.6 lbs | <span class="tooltip" title="Ups resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br><span class="tooltip" title="Heals status problems if it is raining.">Hydration</span> | N/A |
+| #87 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![ice](../assets/types/ice.png "Ice"){: width="48"} | 1.7 m /<br>5.6 ft | 120.0 kg /<br>264.6 lbs |  | 1. <span class="tooltip" title="Ups resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br>2. <span class="tooltip" title="Heals status problems if it is raining.">Hydration</span> | N/A |
 
 ---
 

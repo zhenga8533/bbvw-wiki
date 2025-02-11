@@ -304,14 +304,22 @@ def to_md(pokemon: dict, pokemon_set: dict, move_path: str, logger: Logger) -> s
     md += f" | {pokemon['weight']} kg /<br>{pokemon['weight'] * 2.20462:.1f} lbs | "
 
     # Abilities
-    for i, ability in enumerate(pokemon["abilities"]):
-        ability_name = ability["name"]
-        ability_data = get_ability(ability_name)
+    abilities = []
+    pokemon["abilities"].sort(key=lambda ability: ability["slot"])
+    if len(pokemon["abilities"]) > 2:
+        pokemon["abilities"] = pokemon["abilities"][:2]
+
+    for i, ability in enumerate(pokemon["abilities"], 1):
+        ability_id = ability["name"]
+        if ability_id == "none":
+            continue
+
+        ability_data = get_ability(ability_id)
         ability_effect = (
             ability_data["flavor_text_entries"].get("black-white", ability_data["effect"]).replace("\n", " ")
         )
-        md += f'<span class="tooltip" title="{ability_effect}">{revert_id(ability_name)}</span><br>'
-    md = md[:-4]
+        abilities.append(f'{i}. <span class="tooltip" title="{ability_effect}">{revert_id(ability_id)}</span>')
+    md += f" | " + "<br>".join(abilities)
 
     local_no = pokemon["pokedex_numbers"].get("original-unova", None)
     md += f" | {'#' + str(local_no) if local_no else 'N/A'} |\n\n"

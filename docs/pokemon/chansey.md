@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #113 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.1 m /<br>3.6 ft | 34.6 kg /<br>76.3 lbs | <span class="tooltip" title="All status problems heal when it switches out.">Natural Cure</span><br><span class="tooltip" title="Boosts the likelihood of added effects appearing.">Serene Grace</span> | N/A |
+| #113 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.1 m /<br>3.6 ft | 34.6 kg /<br>76.3 lbs |  | 1. <span class="tooltip" title="All status problems heal when it switches out.">Natural Cure</span><br>2. <span class="tooltip" title="Boosts the likelihood of added effects appearing.">Serene Grace</span> | N/A |
 
 ---
 

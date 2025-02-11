@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #231 | ![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.5 m /<br>1.6 ft | 33.5 kg /<br>73.9 lbs | <span class="tooltip" title="The Pokémon may pick up items.">Pickup</span><br><span class="tooltip" title="Boosts the Pokémon’s evasion in a sandstorm.">Sand Veil</span> | N/A |
+| #231 | ![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.5 m /<br>1.6 ft | 33.5 kg /<br>73.9 lbs |  | 1. <span class="tooltip" title="The Pokémon may pick up items.">Pickup</span><br>2. <span class="tooltip" title="Boosts the Pokémon’s evasion in a sandstorm.">Sand Veil</span> | N/A |
 
 ---
 

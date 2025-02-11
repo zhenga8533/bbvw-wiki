@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #514 | ![fire](../assets/types/fire.png "Fire"){: width="48"} | 1.0 m /<br>3.3 ft | 28.0 kg /<br>61.7 lbs | <span class="tooltip" title="Raises Speed if a held item is used.">Unburden</span><br><span class="tooltip" title="Powers up Fire-type moves in a pinch.">Blaze</span> | #20 |
+| #514 | ![fire](../assets/types/fire.png "Fire"){: width="48"} | 1.0 m /<br>3.3 ft | 28.0 kg /<br>61.7 lbs |  | 1. <span class="tooltip" title="Raises Speed if a held item is used.">Unburden</span><br>2. <span class="tooltip" title="Powers up Fire-type moves in a pinch.">Blaze</span> | #20 |
 
 ---
 

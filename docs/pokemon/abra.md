@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #63 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 0.9 m /<br>3.0 ft | 19.5 kg /<br>43.0 lbs | <span class="tooltip" title="Passes a burn, poison, or paralysis to the foe.">Synchronize</span><br><span class="tooltip" title="The Pokémon only takes damage from attacks.">Magic Guard</span> | N/A |
+| #63 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 0.9 m /<br>3.0 ft | 19.5 kg /<br>43.0 lbs |  | 1. <span class="tooltip" title="Passes a burn, poison, or paralysis to the foe.">Synchronize</span><br>2. <span class="tooltip" title="The Pokémon only takes damage from attacks.">Magic Guard</span> | N/A |
 
 ---
 

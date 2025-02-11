@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #643 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"}<br>![fire](../assets/types/fire.png "Fire"){: width="48"} | 3.2 m /<br>10.5 ft | 330.0 kg /<br>727.5 lbs | <span class="tooltip" title="Moves can be used regardless of Abilities.">Turboblaze</span> | #149 |
+| #643 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"}<br>![fire](../assets/types/fire.png "Fire"){: width="48"} | 3.2 m /<br>10.5 ft | 330.0 kg /<br>727.5 lbs |  | 1. <span class="tooltip" title="Moves can be used regardless of Abilities.">Turboblaze</span> | #149 |
 
 ---
 

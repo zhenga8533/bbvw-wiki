@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #84 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.4 m /<br>4.6 ft | 39.2 kg /<br>86.4 lbs | <span class="tooltip" title="Raises evasion if the Pokémon is confused.">Tangled Feet</span><br><span class="tooltip" title="The Pokémon awakens quickly from sleep.">Early Bird</span> | N/A |
+| #84 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.4 m /<br>4.6 ft | 39.2 kg /<br>86.4 lbs |  | 1. <span class="tooltip" title="Raises evasion if the Pokémon is confused.">Tangled Feet</span><br>2. <span class="tooltip" title="The Pokémon awakens quickly from sleep.">Early Bird</span> | N/A |
 
 ---
 

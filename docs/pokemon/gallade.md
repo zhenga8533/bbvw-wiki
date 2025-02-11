@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #475 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"}<br>![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.6 m /<br>5.2 ft | 52.0 kg /<br>114.6 lbs | <span class="tooltip" title="Raises Attack when hit by a Dark-type move.">Justified</span><br><span class="tooltip" title="The Pokémon copies a foe’s Ability.">Trace</span> | N/A |
+| #475 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"}<br>![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.6 m /<br>5.2 ft | 52.0 kg /<br>114.6 lbs |  | 1. <span class="tooltip" title="Raises Attack when hit by a Dark-type move.">Justified</span><br>2. <span class="tooltip" title="The Pokémon copies a foe’s Ability.">Trace</span> | N/A |
 
 ---
 

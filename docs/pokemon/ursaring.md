@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #217 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.8 m /<br>5.9 ft | 125.8 kg /<br>277.3 lbs | <span class="tooltip" title="The Pokémon may pick up items.">Pickup</span><br><span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span> | N/A |
+| #217 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.8 m /<br>5.9 ft | 125.8 kg /<br>277.3 lbs |  | 1. <span class="tooltip" title="The Pokémon may pick up items.">Pickup</span><br>2. <span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span> | N/A |
 
 ---
 

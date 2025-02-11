@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #544 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.2 m /<br>3.9 ft | 58.5 kg /<br>129.0 lbs | <span class="tooltip" title="The Pokémon is protected against critical hits.">Battle Armor</span><br><span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span> | #50 |
+| #544 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.2 m /<br>3.9 ft | 58.5 kg /<br>129.0 lbs |  | 1. <span class="tooltip" title="The Pokémon is protected against critical hits.">Battle Armor</span><br>2. <span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span> | #50 |
 
 ---
 

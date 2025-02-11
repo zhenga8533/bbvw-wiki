@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #141 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![water](../assets/types/water.png "Water"){: width="48"} | 1.3 m /<br>4.3 ft | 40.5 kg /<br>89.3 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br><span class="tooltip" title="Prevents other Pokémon from lowering Attack stat.">Hyper Cutter</span> | N/A |
+| #141 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![water](../assets/types/water.png "Water"){: width="48"} | 1.3 m /<br>4.3 ft | 40.5 kg /<br>89.3 lbs |  | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br>2. <span class="tooltip" title="Prevents other Pokémon from lowering Attack stat.">Hyper Cutter</span> | N/A |
 
 ---
 

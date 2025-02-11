@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #440 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.6 m /<br>2.0 ft | 24.4 kg /<br>53.8 lbs | <span class="tooltip" title="All status problems heal when it switches out.">Natural Cure</span><br><span class="tooltip" title="Reduces damage done to allies.">Friend Guard</span> | N/A |
+| #440 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.6 m /<br>2.0 ft | 24.4 kg /<br>53.8 lbs |  | 1. <span class="tooltip" title="All status problems heal when it switches out.">Natural Cure</span><br>2. <span class="tooltip" title="Reduces damage done to allies.">Friend Guard</span> | N/A |
 
 ---
 

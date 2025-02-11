@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #80 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.6 m /<br>5.2 ft | 78.5 kg /<br>173.1 lbs | <span class="tooltip" title="Restores a little HP when withdrawn from battle.">Regenerator</span><br><span class="tooltip" title="The Pokémon makes it rain if it appears in battle.">Drizzle</span> | N/A |
+| #80 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.6 m /<br>5.2 ft | 78.5 kg /<br>173.1 lbs |  | 1. <span class="tooltip" title="Restores a little HP when withdrawn from battle.">Regenerator</span><br>2. <span class="tooltip" title="The Pokémon makes it rain if it appears in battle.">Drizzle</span> | N/A |
 
 ---
 

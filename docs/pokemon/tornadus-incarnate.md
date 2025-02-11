@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #641 | ![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.5 m /<br>4.9 ft | 63.0 kg /<br>138.9 lbs | <span class="tooltip" title="Gives priority to a status move.">Prankster</span><br><span class="tooltip" title="When its stats are lowered its Attack increases.">Defiant</span> | #147 |
+| #641 | ![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.5 m /<br>4.9 ft | 63.0 kg /<br>138.9 lbs |  | 1. <span class="tooltip" title="Gives priority to a status move.">Prankster</span><br>2. <span class="tooltip" title="When its stats are lowered its Attack increases.">Defiant</span> | #147 |
 
 ---
 

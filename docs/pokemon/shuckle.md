@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #213 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![rock](../assets/types/rock.png "Rock"){: width="48"} | 0.6 m /<br>2.0 ft | 20.5 kg /<br>45.2 lbs | <span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span><br><span class="tooltip" title="Reduces damage from supereffective attacks.">Solid Rock</span> | N/A |
+| #213 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![rock](../assets/types/rock.png "Rock"){: width="48"} | 0.6 m /<br>2.0 ft | 20.5 kg /<br>45.2 lbs |  | 1. <span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span><br>2. <span class="tooltip" title="Reduces damage from supereffective attacks.">Solid Rock</span> | N/A |
 
 ---
 

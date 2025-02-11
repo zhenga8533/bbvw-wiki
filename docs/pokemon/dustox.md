@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #269 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.2 m /<br>3.9 ft | 31.6 kg /<br>69.7 lbs | <span class="tooltip" title="Blocks the added effects of attacks taken.">Shield Dust</span><br><span class="tooltip" title="The Pokémon’s accuracy is boosted.">Compound Eyes</span> | N/A |
+| #269 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.2 m /<br>3.9 ft | 31.6 kg /<br>69.7 lbs |  | 1. <span class="tooltip" title="Blocks the added effects of attacks taken.">Shield Dust</span><br>2. <span class="tooltip" title="The Pokémon’s accuracy is boosted.">Compound Eyes</span> | N/A |
 
 ---
 

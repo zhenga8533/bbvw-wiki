@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #432 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.0 m /<br>3.3 ft | 43.8 kg /<br>96.6 lbs | <span class="tooltip" title="Ups resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br><span class="tooltip" title="When its stats are lowered its Attack increases.">Defiant</span> | N/A |
+| #432 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.0 m /<br>3.3 ft | 43.8 kg /<br>96.6 lbs |  | 1. <span class="tooltip" title="Ups resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br>2. <span class="tooltip" title="When its stats are lowered its Attack increases.">Defiant</span> | N/A |
 
 ---
 

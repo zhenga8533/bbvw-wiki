@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #95 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 8.8 m /<br>28.9 ft | 210.0 kg /<br>463.0 lbs | <span class="tooltip" title="Physical attacks lower Defense and raise Speed.">Weak Armor</span><br><span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span> | N/A |
+| #95 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 8.8 m /<br>28.9 ft | 210.0 kg /<br>463.0 lbs |  | 1. <span class="tooltip" title="Physical attacks lower Defense and raise Speed.">Weak Armor</span><br>2. <span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span> | N/A |
 
 ---
 

@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #335 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.3 m /<br>4.3 ft | 40.3 kg /<br>88.8 lbs | <span class="tooltip" title="Prevents the Pokémon from getting poisoned.">Immunity</span><br><span class="tooltip" title="Powers up physical attacks when poisoned.">Toxic Boost</span> | N/A |
+| #335 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.3 m /<br>4.3 ft | 40.3 kg /<br>88.8 lbs |  | 1. <span class="tooltip" title="Prevents the Pokémon from getting poisoned.">Immunity</span><br>2. <span class="tooltip" title="Powers up physical attacks when poisoned.">Toxic Boost</span> | N/A |
 
 ---
 

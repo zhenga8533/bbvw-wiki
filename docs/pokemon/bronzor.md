@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #436 | ![steel](../assets/types/steel.png "Steel"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 0.5 m /<br>1.6 ft | 60.5 kg /<br>133.4 lbs | <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span><br><span class="tooltip" title="Weakens the power of Fire-type moves.">Heatproof</span> | N/A |
+| #436 | ![steel](../assets/types/steel.png "Steel"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 0.5 m /<br>1.6 ft | 60.5 kg /<br>133.4 lbs |  | 1. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span><br>2. <span class="tooltip" title="Weakens the power of Fire-type moves.">Heatproof</span> | N/A |
 
 ---
 

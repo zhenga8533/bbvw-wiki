@@ -31,7 +31,7 @@ Latest (Gen VI+):
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #10015 | ![ice](../assets/types/ice.png "Ice"){: width="48"} | 0.3 m /<br>1.0 ft | 0.8 kg /<br>1.8 lbs | <span class="tooltip" title="Castform transforms with the weather.">Forecast</span> | N/A |
+| #10015 | ![ice](../assets/types/ice.png "Ice"){: width="48"} | 0.3 m /<br>1.0 ft | 0.8 kg /<br>1.8 lbs |  | 1. <span class="tooltip" title="Castform transforms with the weather.">Forecast</span> | N/A |
 
 ---
 

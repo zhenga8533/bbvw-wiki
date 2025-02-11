@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #234 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.4 m /<br>4.6 ft | 71.2 kg /<br>157.0 lbs | <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br><span class="tooltip" title="Boosts Attack when hit by a Grass-type move.">Sap Sipper</span> | N/A |
+| #234 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.4 m /<br>4.6 ft | 71.2 kg /<br>157.0 lbs |  | 1. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br>2. <span class="tooltip" title="Boosts Attack when hit by a Grass-type move.">Sap Sipper</span> | N/A |
 
 ---
 

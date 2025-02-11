@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #361 | ![ice](../assets/types/ice.png "Ice"){: width="48"} | 0.7 m /<br>2.3 ft | 16.8 kg /<br>37.0 lbs | <span class="tooltip" title="The Pokémon gradually regains HP in a hailstorm.">Ice Body</span><br><span class="tooltip" title="Raises one stat and lowers another.">Moody</span> | N/A |
+| #361 | ![ice](../assets/types/ice.png "Ice"){: width="48"} | 0.7 m /<br>2.3 ft | 16.8 kg /<br>37.0 lbs |  | 1. <span class="tooltip" title="The Pokémon gradually regains HP in a hailstorm.">Ice Body</span><br>2. <span class="tooltip" title="Raises one stat and lowers another.">Moody</span> | N/A |
 
 ---
 

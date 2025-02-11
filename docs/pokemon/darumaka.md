@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #554 | ![fire](../assets/types/fire.png "Fire"){: width="48"} | 0.6 m /<br>2.0 ft | 37.5 kg /<br>82.7 lbs | <span class="tooltip" title="Boosts the Attack stat, but lowers accuracy.">Hustle</span><br><span class="tooltip" title="Some move types scare it and boost its Speed.">Rattled</span> | #60 |
+| #554 | ![fire](../assets/types/fire.png "Fire"){: width="48"} | 0.6 m /<br>2.0 ft | 37.5 kg /<br>82.7 lbs |  | 1. <span class="tooltip" title="Boosts the Attack stat, but lowers accuracy.">Hustle</span><br>2. <span class="tooltip" title="Some move types scare it and boost its Speed.">Rattled</span> | #60 |
 
 ---
 

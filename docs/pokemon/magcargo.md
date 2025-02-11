@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #219 | ![fire](../assets/types/fire.png "Fire"){: width="48"}<br>![rock](../assets/types/rock.png "Rock"){: width="48"} | 0.8 m /<br>2.6 ft | 55.0 kg /<br>121.3 lbs | <span class="tooltip" title="Reduces damage from supereffective attacks.">Solid Rock</span><br><span class="tooltip" title="Contact with the Pokémon may burn the attacker.">Flame Body</span> | N/A |
+| #219 | ![fire](../assets/types/fire.png "Fire"){: width="48"}<br>![rock](../assets/types/rock.png "Rock"){: width="48"} | 0.8 m /<br>2.6 ft | 55.0 kg /<br>121.3 lbs |  | 1. <span class="tooltip" title="Reduces damage from supereffective attacks.">Solid Rock</span><br>2. <span class="tooltip" title="Contact with the Pokémon may burn the attacker.">Flame Body</span> | N/A |
 
 ---
 

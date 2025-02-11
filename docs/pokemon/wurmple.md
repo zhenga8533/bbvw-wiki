@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #265 | ![bug](../assets/types/bug.png "Bug"){: width="48"} | 0.3 m /<br>1.0 ft | 3.6 kg /<br>7.9 lbs | <span class="tooltip" title="Blocks the added effects of attacks taken.">Shield Dust</span><br><span class="tooltip" title="Enables a sure getaway from wild Pokémon.">Run Away</span> | N/A |
+| #265 | ![bug](../assets/types/bug.png "Bug"){: width="48"} | 0.3 m /<br>1.0 ft | 3.6 kg /<br>7.9 lbs |  | 1. <span class="tooltip" title="Blocks the added effects of attacks taken.">Shield Dust</span><br>2. <span class="tooltip" title="Enables a sure getaway from wild Pokémon.">Run Away</span> | N/A |
 
 ---
 

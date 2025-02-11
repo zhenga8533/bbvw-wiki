@@ -56,7 +56,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #6 | ![fire](../assets/types/fire.png "Fire"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.7 m /<br>5.6 ft | 90.5 kg /<br>199.5 lbs | <span class="tooltip" title="Powers up Fire-type moves in a pinch.">Blaze</span><br><span class="tooltip" title="In sunshine, Sp. Atk is boosted but HP decreases.">Solar Power</span> | N/A |
+| #6 | ![fire](../assets/types/fire.png "Fire"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.7 m /<br>5.6 ft | 90.5 kg /<br>199.5 lbs |  | 1. <span class="tooltip" title="Powers up Fire-type moves in a pinch.">Blaze</span><br>2. <span class="tooltip" title="In sunshine, Sp. Atk is boosted but HP decreases.">Solar Power</span> | N/A |
 
 ---
 

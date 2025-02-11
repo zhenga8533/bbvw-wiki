@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #34 | ![poison](../assets/types/poison.png "Poison"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 1.4 m /<br>4.6 ft | 62.0 kg /<br>136.7 lbs | <span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span><br><span class="tooltip" title="Deals more damage to a Pokémon of same gender.">Rivalry</span> | N/A |
+| #34 | ![poison](../assets/types/poison.png "Poison"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 1.4 m /<br>4.6 ft | 62.0 kg /<br>136.7 lbs |  | 1. <span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span><br>2. <span class="tooltip" title="Deals more damage to a Pokémon of same gender.">Rivalry</span> | N/A |
 
 ---
 

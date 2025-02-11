@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #362 | ![ice](../assets/types/ice.png "Ice"){: width="48"}<br>![rock](../assets/types/rock.png "Rock"){: width="48"} | 1.5 m /<br>4.9 ft | 256.5 kg /<br>565.5 lbs | <span class="tooltip" title="Reduces damage from supereffective attacks.">Solid Rock</span><br><span class="tooltip" title="Raises one stat and lowers another.">Moody</span> | N/A |
+| #362 | ![ice](../assets/types/ice.png "Ice"){: width="48"}<br>![rock](../assets/types/rock.png "Rock"){: width="48"} | 1.5 m /<br>4.9 ft | 256.5 kg /<br>565.5 lbs |  | 1. <span class="tooltip" title="Reduces damage from supereffective attacks.">Solid Rock</span><br>2. <span class="tooltip" title="Raises one stat and lowers another.">Moody</span> | N/A |
 
 ---
 

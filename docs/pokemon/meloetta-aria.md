@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #648 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 0.6 m /<br>2.0 ft | 6.5 kg /<br>14.3 lbs | <span class="tooltip" title="Boosts the likelihood of added effects appearing.">Serene Grace</span><br><span class="tooltip" title="The Pokémon only takes damage from attacks.">Magic Guard</span> | #154 |
+| #648 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 0.6 m /<br>2.0 ft | 6.5 kg /<br>14.3 lbs |  | 1. <span class="tooltip" title="Boosts the likelihood of added effects appearing.">Serene Grace</span><br>2. <span class="tooltip" title="The Pokémon only takes damage from attacks.">Magic Guard</span> | #154 |
 
 ---
 

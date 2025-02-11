@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #128 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.4 m /<br>4.6 ft | 88.4 kg /<br>194.9 lbs | <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br><span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span> | N/A |
+| #128 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.4 m /<br>4.6 ft | 88.4 kg /<br>194.9 lbs |  | 1. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br>2. <span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span> | N/A |
 
 ---
 

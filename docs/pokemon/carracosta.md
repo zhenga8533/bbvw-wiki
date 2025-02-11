@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #565 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![rock](../assets/types/rock.png "Rock"){: width="48"} | 1.2 m /<br>3.9 ft | 81.0 kg /<br>178.6 lbs | <span class="tooltip" title="Reduces damage from supereffective attacks.">Solid Rock</span><br><span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span> | #71 |
+| #565 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![rock](../assets/types/rock.png "Rock"){: width="48"} | 1.2 m /<br>3.9 ft | 81.0 kg /<br>178.6 lbs |  | 1. <span class="tooltip" title="Reduces damage from supereffective attacks.">Solid Rock</span><br>2. <span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span> | #71 |
 
 ---
 

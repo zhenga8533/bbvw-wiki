@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #529 | ![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.3 m /<br>1.0 ft | 8.5 kg /<br>18.7 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in a sandstorm.">Sand Rush</span><br><span class="tooltip" title="Moves can be used regardless of Abilities.">Mold Breaker</span> | #35 |
+| #529 | ![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.3 m /<br>1.0 ft | 8.5 kg /<br>18.7 lbs |  | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in a sandstorm.">Sand Rush</span><br>2. <span class="tooltip" title="Moves can be used regardless of Abilities.">Mold Breaker</span> | #35 |
 
 ---
 

@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #109 | ![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.6 m /<br>2.0 ft | 1.0 kg /<br>2.2 lbs | <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
+| #109 | ![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.6 m /<br>2.0 ft | 1.0 kg /<br>2.2 lbs |  | 1. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
 
 ---
 

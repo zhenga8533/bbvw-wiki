@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #381 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 2.0 m /<br>6.6 ft | 60.0 kg /<br>132.3 lbs | <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
+| #381 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 2.0 m /<br>6.6 ft | 60.0 kg /<br>132.3 lbs |  | 1. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
 
 ---
 

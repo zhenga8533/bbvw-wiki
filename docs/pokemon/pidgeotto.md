@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #17 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.1 m /<br>3.6 ft | 30.0 kg /<br>66.1 lbs | <span class="tooltip" title="Protects the Pokémon from Defense-lowering attacks.">Big Pecks</span><br><span class="tooltip" title="Raises evasion if the Pokémon is confused.">Tangled Feet</span> | N/A |
+| #17 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.1 m /<br>3.6 ft | 30.0 kg /<br>66.1 lbs |  | 1. <span class="tooltip" title="Protects the Pokémon from Defense-lowering attacks.">Big Pecks</span><br>2. <span class="tooltip" title="Raises evasion if the Pokémon is confused.">Tangled Feet</span> | N/A |
 
 ---
 

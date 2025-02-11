@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #510 | ![dark](../assets/types/dark.png "Dark"){: width="48"} | 1.1 m /<br>3.6 ft | 37.5 kg /<br>82.7 lbs | <span class="tooltip" title="The Pokémon is protected from paralysis.">Limber</span><br><span class="tooltip" title="Gives priority to a status move.">Prankster</span> | #16 |
+| #510 | ![dark](../assets/types/dark.png "Dark"){: width="48"} | 1.1 m /<br>3.6 ft | 37.5 kg /<br>82.7 lbs |  | 1. <span class="tooltip" title="The Pokémon is protected from paralysis.">Limber</span><br>2. <span class="tooltip" title="Gives priority to a status move.">Prankster</span> | #16 |
 
 ---
 

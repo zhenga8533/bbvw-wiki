@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #331 | ![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.4 m /<br>1.3 ft | 51.3 kg /<br>113.1 lbs | <span class="tooltip" title="Boosts the Pokémon’s evasion in a sandstorm.">Sand Veil</span><br><span class="tooltip" title="Restores HP if hit by a Water-type move.">Water Absorb</span> | N/A |
+| #331 | ![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.4 m /<br>1.3 ft | 51.3 kg /<br>113.1 lbs |  | 1. <span class="tooltip" title="Boosts the Pokémon’s evasion in a sandstorm.">Sand Veil</span><br>2. <span class="tooltip" title="Restores HP if hit by a Water-type move.">Water Absorb</span> | N/A |
 
 ---
 

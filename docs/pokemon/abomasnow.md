@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #460 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![ice](../assets/types/ice.png "Ice"){: width="48"} | 2.2 m /<br>7.2 ft | 135.5 kg /<br>298.7 lbs | <span class="tooltip" title="The Pokémon summons a hailstorm in battle.">Snow Warning</span><br><span class="tooltip" title="Gives full immunity to all sound-based moves.">Soundproof</span> | N/A |
+| #460 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![ice](../assets/types/ice.png "Ice"){: width="48"} | 2.2 m /<br>7.2 ft | 135.5 kg /<br>298.7 lbs |  | 1. <span class="tooltip" title="The Pokémon summons a hailstorm in battle.">Snow Warning</span><br>2. <span class="tooltip" title="Gives full immunity to all sound-based moves.">Soundproof</span> | N/A |
 
 ---
 

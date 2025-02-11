@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #67 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.5 m /<br>4.9 ft | 70.5 kg /<br>155.4 lbs | <span class="tooltip" title="Boosts Attack if there is a status problem.">Guts</span><br><span class="tooltip" title="Ensures attacks by or against the Pokémon land.">No Guard</span> | N/A |
+| #67 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.5 m /<br>4.9 ft | 70.5 kg /<br>155.4 lbs |  | 1. <span class="tooltip" title="Boosts Attack if there is a status problem.">Guts</span><br>2. <span class="tooltip" title="Ensures attacks by or against the Pokémon land.">No Guard</span> | N/A |
 
 ---
 

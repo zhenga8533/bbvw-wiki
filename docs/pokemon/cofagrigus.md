@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #563 | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"}<br>![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.7 m /<br>5.6 ft | 76.5 kg /<br>168.7 lbs | <span class="tooltip" title="Contact with this Pokémon spreads this Ability.">Mummy</span> | #69 |
+| #563 | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"}<br>![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.7 m /<br>5.6 ft | 76.5 kg /<br>168.7 lbs |  | 1. <span class="tooltip" title="Contact with this Pokémon spreads this Ability.">Mummy</span> | #69 |
 
 ---
 

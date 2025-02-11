@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #36 | ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 1.3 m /<br>4.3 ft | 40.0 kg /<br>88.2 lbs | <span class="tooltip" title="Ignores any stat changes in the Pokémon.">Unaware</span><br><span class="tooltip" title="The Pokémon only takes damage from attacks.">Magic Guard</span> | N/A |
+| #36 | ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 1.3 m /<br>4.3 ft | 40.0 kg /<br>88.2 lbs |  | 1. <span class="tooltip" title="Ignores any stat changes in the Pokémon.">Unaware</span><br>2. <span class="tooltip" title="The Pokémon only takes damage from attacks.">Magic Guard</span> | N/A |
 
 ---
 

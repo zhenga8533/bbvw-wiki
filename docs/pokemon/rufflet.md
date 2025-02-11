@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #627 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.5 m /<br>1.6 ft | 10.5 kg /<br>23.1 lbs | <span class="tooltip" title="Boosts the Attack stat, but lowers accuracy.">Hustle</span><br><span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span> | #133 |
+| #627 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.5 m /<br>1.6 ft | 10.5 kg /<br>23.1 lbs |  | 1. <span class="tooltip" title="Boosts the Attack stat, but lowers accuracy.">Hustle</span><br>2. <span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span> | #133 |
 
 ---
 

@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #594 | ![water](../assets/types/water.png "Water"){: width="48"} | 1.2 m /<br>3.9 ft | 31.6 kg /<br>69.7 lbs | <span class="tooltip" title="Restores a little HP when withdrawn from battle.">Regenerator</span><br><span class="tooltip" title="Heals status problems if it is raining.">Hydration</span> | #100 |
+| #594 | ![water](../assets/types/water.png "Water"){: width="48"} | 1.2 m /<br>3.9 ft | 31.6 kg /<br>69.7 lbs |  | 1. <span class="tooltip" title="Restores a little HP when withdrawn from battle.">Regenerator</span><br>2. <span class="tooltip" title="Heals status problems if it is raining.">Hydration</span> | #100 |
 
 ---
 

@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #29 | ![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.4 m /<br>1.3 ft | 7.0 kg /<br>15.4 lbs | <span class="tooltip" title="Contact with the Pokémon may poison the attacker.">Poison Point</span><br><span class="tooltip" title="Deals more damage to a Pokémon of same gender.">Rivalry</span> | N/A |
+| #29 | ![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.4 m /<br>1.3 ft | 7.0 kg /<br>15.4 lbs |  | 1. <span class="tooltip" title="Contact with the Pokémon may poison the attacker.">Poison Point</span><br>2. <span class="tooltip" title="Deals more damage to a Pokémon of same gender.">Rivalry</span> | N/A |
 
 ---
 

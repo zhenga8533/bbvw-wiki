@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #318 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![dark](../assets/types/dark.png "Dark"){: width="48"} | 0.8 m /<br>2.6 ft | 20.8 kg /<br>45.9 lbs | <span class="tooltip" title="Inflicts damage to the attacker on contact.">Rough Skin</span><br><span class="tooltip" title="Its Speed stat is gradually boosted.">Speed Boost</span> | N/A |
+| #318 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![dark](../assets/types/dark.png "Dark"){: width="48"} | 0.8 m /<br>2.6 ft | 20.8 kg /<br>45.9 lbs |  | 1. <span class="tooltip" title="Inflicts damage to the attacker on contact.">Rough Skin</span><br>2. <span class="tooltip" title="Its Speed stat is gradually boosted.">Speed Boost</span> | N/A |
 
 ---
 

@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #621 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 1.6 m /<br>5.2 ft | 139.0 kg /<br>306.4 lbs | <span class="tooltip" title="Inflicts damage to the attacker on contact.">Rough Skin</span><br><span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span> | #127 |
+| #621 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 1.6 m /<br>5.2 ft | 139.0 kg /<br>306.4 lbs |  | 1. <span class="tooltip" title="Inflicts damage to the attacker on contact.">Rough Skin</span><br>2. <span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span> | #127 |
 
 ---
 

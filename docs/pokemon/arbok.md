@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #24 | ![poison](../assets/types/poison.png "Poison"){: width="48"} | 3.5 m /<br>11.5 ft | 65.0 kg /<br>143.3 lbs | <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br><span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span> | N/A |
+| #24 | ![poison](../assets/types/poison.png "Poison"){: width="48"} | 3.5 m /<br>11.5 ft | 65.0 kg /<br>143.3 lbs |  | 1. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br>2. <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span> | N/A |
 
 ---
 

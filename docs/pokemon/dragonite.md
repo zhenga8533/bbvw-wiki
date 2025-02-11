@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #149 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 2.2 m /<br>7.2 ft | 210.0 kg /<br>463.0 lbs | <span class="tooltip" title="Reduces damage when HP is full.">Multiscale</span><br><span class="tooltip" title="Ups Defense if there is a status problem.">Marvel Scale</span> | N/A |
+| #149 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 2.2 m /<br>7.2 ft | 210.0 kg /<br>463.0 lbs |  | 1. <span class="tooltip" title="Reduces damage when HP is full.">Multiscale</span><br>2. <span class="tooltip" title="Ups Defense if there is a status problem.">Marvel Scale</span> | N/A |
 
 ---
 

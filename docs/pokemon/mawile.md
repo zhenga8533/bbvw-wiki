@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #303 | ![steel](../assets/types/steel.png "Steel"){: width="48"}<br>![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.6 m /<br>2.0 ft | 11.5 kg /<br>25.4 lbs | <span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span><br><span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span> | N/A |
+| #303 | ![steel](../assets/types/steel.png "Steel"){: width="48"}<br>![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.6 m /<br>2.0 ft | 11.5 kg /<br>25.4 lbs |  | 1. <span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span><br>2. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span> | N/A |
 
 ---
 

@@ -33,7 +33,7 @@ Latest (Gen VI+):
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #10022 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"}<br>![ice](../assets/types/ice.png "Ice"){: width="48"} | 3.3 m /<br>10.8 ft | 325.0 kg /<br>716.5 lbs | <span class="tooltip" title="Moves can be used regardless of Abilities.">Teravolt</span> | #152 |
+| #10022 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"}<br>![ice](../assets/types/ice.png "Ice"){: width="48"} | 3.3 m /<br>10.8 ft | 325.0 kg /<br>716.5 lbs |  | 1. <span class="tooltip" title="Moves can be used regardless of Abilities.">Teravolt</span> | #152 |
 
 ---
 

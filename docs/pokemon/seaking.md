@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #119 | ![water](../assets/types/water.png "Water"){: width="48"} | 1.3 m /<br>4.3 ft | 39.0 kg /<br>86.0 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br><span class="tooltip" title="Draws in all Electric-type moves to up Sp. Attack.">Lightning Rod</span> | N/A |
+| #119 | ![water](../assets/types/water.png "Water"){: width="48"} | 1.3 m /<br>4.3 ft | 39.0 kg /<br>86.0 lbs |  | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br>2. <span class="tooltip" title="Draws in all Electric-type moves to up Sp. Attack.">Lightning Rod</span> | N/A |
 
 ---
 

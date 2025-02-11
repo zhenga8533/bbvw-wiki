@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #167 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.5 m /<br>1.6 ft | 8.5 kg /<br>18.7 lbs | <span class="tooltip" title="Powers up moves if they become critical hits.">Sniper</span><br><span class="tooltip" title="Prevents the Pokémon from falling asleep.">Insomnia</span> | N/A |
+| #167 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.5 m /<br>1.6 ft | 8.5 kg /<br>18.7 lbs |  | 1. <span class="tooltip" title="Powers up moves if they become critical hits.">Sniper</span><br>2. <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Insomnia</span> | N/A |
 
 ---
 

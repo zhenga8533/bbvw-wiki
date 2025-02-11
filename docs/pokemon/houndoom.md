@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #229 | ![dark](../assets/types/dark.png "Dark"){: width="48"}<br>![fire](../assets/types/fire.png "Fire"){: width="48"} | 1.4 m /<br>4.6 ft | 35.0 kg /<br>77.2 lbs | <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br><span class="tooltip" title="It powers up Fire-type moves if it’s hit by one.">Flash Fire</span> | N/A |
+| #229 | ![dark](../assets/types/dark.png "Dark"){: width="48"}<br>![fire](../assets/types/fire.png "Fire"){: width="48"} | 1.4 m /<br>4.6 ft | 35.0 kg /<br>77.2 lbs |  | 1. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br>2. <span class="tooltip" title="It powers up Fire-type moves if it’s hit by one.">Flash Fire</span> | N/A |
 
 ---
 

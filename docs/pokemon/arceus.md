@@ -140,7 +140,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #493 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 3.2 m /<br>10.5 ft | 320.0 kg /<br>705.5 lbs | <span class="tooltip" title="Changes type to match the held Plate.">Multitype</span> | N/A |
+| #493 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 3.2 m /<br>10.5 ft | 320.0 kg /<br>705.5 lbs |  | 1. <span class="tooltip" title="Changes type to match the held Plate.">Multitype</span> | N/A |
 
 ---
 

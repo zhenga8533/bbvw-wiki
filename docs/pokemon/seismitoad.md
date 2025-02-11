@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #537 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 1.5 m /<br>4.9 ft | 62.0 kg /<br>136.7 lbs | <span class="tooltip" title="Restores HP if hit by a Water-type move.">Water Absorb</span><br><span class="tooltip" title="May poison targets when a Pokémon makes contact.">Poison Touch</span> | #43 |
+| #537 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 1.5 m /<br>4.9 ft | 62.0 kg /<br>136.7 lbs |  | 1. <span class="tooltip" title="Restores HP if hit by a Water-type move.">Water Absorb</span><br>2. <span class="tooltip" title="May poison targets when a Pokémon makes contact.">Poison Touch</span> | #43 |
 
 ---
 

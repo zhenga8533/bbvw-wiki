@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #334 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.1 m /<br>3.6 ft | 20.6 kg /<br>45.4 lbs | <span class="tooltip" title="All status problems heal when it switches out.">Natural Cure</span><br><span class="tooltip" title="Eliminates the effects of weather.">Cloud Nine</span> | N/A |
+| #334 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.1 m /<br>3.6 ft | 20.6 kg /<br>45.4 lbs |  | 1. <span class="tooltip" title="All status problems heal when it switches out.">Natural Cure</span><br>2. <span class="tooltip" title="Eliminates the effects of weather.">Cloud Nine</span> | N/A |
 
 ---
 

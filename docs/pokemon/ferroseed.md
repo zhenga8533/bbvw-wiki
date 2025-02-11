@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #597 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![steel](../assets/types/steel.png "Steel"){: width="48"} | 0.6 m /<br>2.0 ft | 18.8 kg /<br>41.4 lbs | <span class="tooltip" title="Inflicts damage to the Pokémon on contact.">Iron Barbs</span> | #103 |
+| #597 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![steel](../assets/types/steel.png "Steel"){: width="48"} | 0.6 m /<br>2.0 ft | 18.8 kg /<br>41.4 lbs |  | 1. <span class="tooltip" title="Inflicts damage to the Pokémon on contact.">Iron Barbs</span> | #103 |
 
 ---
 

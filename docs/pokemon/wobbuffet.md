@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #202 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.3 m /<br>4.3 ft | 28.5 kg /<br>62.8 lbs | <span class="tooltip" title="Prevents the foe from escaping.">Shadow Tag</span><br><span class="tooltip" title="Anticipates an ally’s attack and dodges it.">Telepathy</span> | N/A |
+| #202 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.3 m /<br>4.3 ft | 28.5 kg /<br>62.8 lbs |  | 1. <span class="tooltip" title="Prevents the foe from escaping.">Shadow Tag</span><br>2. <span class="tooltip" title="Anticipates an ally’s attack and dodges it.">Telepathy</span> | N/A |
 
 ---
 

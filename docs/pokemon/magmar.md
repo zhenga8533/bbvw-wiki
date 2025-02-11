@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #126 | ![fire](../assets/types/fire.png "Fire"){: width="48"} | 1.3 m /<br>4.3 ft | 44.5 kg /<br>98.1 lbs | <span class="tooltip" title="Contact with the Pokémon may burn the attacker.">Flame Body</span><br><span class="tooltip" title="Prevents the Pokémon from falling asleep.">Vital Spirit</span> | N/A |
+| #126 | ![fire](../assets/types/fire.png "Fire"){: width="48"} | 1.3 m /<br>4.3 ft | 44.5 kg /<br>98.1 lbs |  | 1. <span class="tooltip" title="Contact with the Pokémon may burn the attacker.">Flame Body</span><br>2. <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Vital Spirit</span> | N/A |
 
 ---
 

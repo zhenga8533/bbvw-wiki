@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #261 | ![dark](../assets/types/dark.png "Dark"){: width="48"} | 0.5 m /<br>1.6 ft | 13.6 kg /<br>30.0 lbs | <span class="tooltip" title="Some move types scare it and boost its Speed.">Rattled</span><br><span class="tooltip" title="Boosts Speed if there is a status problem.">Quick Feet</span> | N/A |
+| #261 | ![dark](../assets/types/dark.png "Dark"){: width="48"} | 0.5 m /<br>1.6 ft | 13.6 kg /<br>30.0 lbs |  | 1. <span class="tooltip" title="Some move types scare it and boost its Speed.">Rattled</span><br>2. <span class="tooltip" title="Boosts Speed if there is a status problem.">Quick Feet</span> | N/A |
 
 ---
 

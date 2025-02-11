@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #336 | ![poison](../assets/types/poison.png "Poison"){: width="48"} | 2.7 m /<br>8.9 ft | 52.5 kg /<br>115.7 lbs | <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span><br><span class="tooltip" title="Passes through the foe’s barrier and strikes.">Infiltrator</span> | N/A |
+| #336 | ![poison](../assets/types/poison.png "Poison"){: width="48"} | 2.7 m /<br>8.9 ft | 52.5 kg /<br>115.7 lbs |  | 1. <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span><br>2. <span class="tooltip" title="Passes through the foe’s barrier and strikes.">Infiltrator</span> | N/A |
 
 ---
 

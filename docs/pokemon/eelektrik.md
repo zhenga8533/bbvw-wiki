@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #603 | ![electric](../assets/types/electric.png "Electric"){: width="48"} | 1.2 m /<br>3.9 ft | 22.0 kg /<br>48.5 lbs | <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | #109 |
+| #603 | ![electric](../assets/types/electric.png "Electric"){: width="48"} | 1.2 m /<br>3.9 ft | 22.0 kg /<br>48.5 lbs |  | 1. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | #109 |
 
 ---
 

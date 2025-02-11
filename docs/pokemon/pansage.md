@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #511 | ![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.6 m /<br>2.0 ft | 10.5 kg /<br>23.1 lbs | <span class="tooltip" title="Encourages the early use of a held Berry.">Gluttony</span><br><span class="tooltip" title="Powers up Grass-type moves in a pinch.">Overgrow</span> | #17 |
+| #511 | ![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.6 m /<br>2.0 ft | 10.5 kg /<br>23.1 lbs |  | 1. <span class="tooltip" title="Encourages the early use of a held Berry.">Gluttony</span><br>2. <span class="tooltip" title="Powers up Grass-type moves in a pinch.">Overgrow</span> | #17 |
 
 ---
 

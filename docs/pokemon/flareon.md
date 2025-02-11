@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #136 | ![fire](../assets/types/fire.png "Fire"){: width="48"} | 0.9 m /<br>3.0 ft | 25.0 kg /<br>55.1 lbs | <span class="tooltip" title="It powers up Fire-type moves if it’s hit by one.">Flash Fire</span><br><span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span> | N/A |
+| #136 | ![fire](../assets/types/fire.png "Fire"){: width="48"} | 0.9 m /<br>3.0 ft | 25.0 kg /<br>55.1 lbs |  | 1. <span class="tooltip" title="It powers up Fire-type moves if it’s hit by one.">Flash Fire</span><br>2. <span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span> | N/A |
 
 ---
 

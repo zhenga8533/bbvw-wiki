@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #555 | ![fire](../assets/types/fire.png "Fire"){: width="48"} | 1.3 m /<br>4.3 ft | 92.9 kg /<br>204.8 lbs | <span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span><br><span class="tooltip" title="Boosts the power of punching moves.">Iron Fist</span> | #61 |
+| #555 | ![fire](../assets/types/fire.png "Fire"){: width="48"} | 1.3 m /<br>4.3 ft | 92.9 kg /<br>204.8 lbs |  | 1. <span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span><br>2. <span class="tooltip" title="Boosts the power of punching moves.">Iron Fist</span> | #61 |
 
 ---
 

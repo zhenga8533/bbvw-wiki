@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #591 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.6 m /<br>2.0 ft | 10.5 kg /<br>23.1 lbs | <span class="tooltip" title="Contact may poison or cause paralysis or sleep.">Effect Spore</span><br><span class="tooltip" title="Restores a little HP when withdrawn from battle.">Regenerator</span> | #97 |
+| #591 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.6 m /<br>2.0 ft | 10.5 kg /<br>23.1 lbs |  | 1. <span class="tooltip" title="Contact may poison or cause paralysis or sleep.">Effect Spore</span><br>2. <span class="tooltip" title="Restores a little HP when withdrawn from battle.">Regenerator</span> | #97 |
 
 ---
 

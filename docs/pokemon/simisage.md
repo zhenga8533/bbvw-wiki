@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #512 | ![grass](../assets/types/grass.png "Grass"){: width="48"} | 1.1 m /<br>3.6 ft | 30.5 kg /<br>67.2 lbs | <span class="tooltip" title="Raises Speed if a held item is used.">Unburden</span><br><span class="tooltip" title="Powers up Grass-type moves in a pinch.">Overgrow</span> | #18 |
+| #512 | ![grass](../assets/types/grass.png "Grass"){: width="48"} | 1.1 m /<br>3.6 ft | 30.5 kg /<br>67.2 lbs |  | 1. <span class="tooltip" title="Raises Speed if a held item is used.">Unburden</span><br>2. <span class="tooltip" title="Powers up Grass-type moves in a pinch.">Overgrow</span> | #18 |
 
 ---
 

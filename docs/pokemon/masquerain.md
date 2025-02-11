@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #284 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![water](../assets/types/water.png "Water"){: width="48"} | 0.8 m /<br>2.6 ft | 3.6 kg /<br>7.9 lbs | <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
+| #284 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![water](../assets/types/water.png "Water"){: width="48"} | 0.8 m /<br>2.6 ft | 3.6 kg /<br>7.9 lbs |  | 1. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
 
 ---
 

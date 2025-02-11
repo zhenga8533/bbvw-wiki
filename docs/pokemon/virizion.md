@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #640 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 2.0 m /<br>6.6 ft | 200.0 kg /<br>440.9 lbs | <span class="tooltip" title="Raises Attack when hit by a Dark-type move.">Justified</span> | #146 |
+| #640 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 2.0 m /<br>6.6 ft | 200.0 kg /<br>440.9 lbs |  | 1. <span class="tooltip" title="Raises Attack when hit by a Dark-type move.">Justified</span> | #146 |
 
 ---
 

@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #491 | ![dark](../assets/types/dark.png "Dark"){: width="48"} | 1.5 m /<br>4.9 ft | 50.5 kg /<br>111.3 lbs | <span class="tooltip" title="Reduces a sleeping foe’s HP.">Bad Dreams</span> | N/A |
+| #491 | ![dark](../assets/types/dark.png "Dark"){: width="48"} | 1.5 m /<br>4.9 ft | 50.5 kg /<br>111.3 lbs |  | 1. <span class="tooltip" title="Reduces a sleeping foe’s HP.">Bad Dreams</span> | N/A |
 
 ---
 

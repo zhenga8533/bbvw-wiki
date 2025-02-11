@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #27 | ![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.6 m /<br>2.0 ft | 12.0 kg /<br>26.5 lbs | <span class="tooltip" title="Boosts the Pokémon’s evasion in a sandstorm.">Sand Veil</span><br><span class="tooltip" title="Boosts the Pokémon’s Speed in a sandstorm.">Sand Rush</span> | N/A |
+| #27 | ![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.6 m /<br>2.0 ft | 12.0 kg /<br>26.5 lbs |  | 1. <span class="tooltip" title="Boosts the Pokémon’s evasion in a sandstorm.">Sand Veil</span><br>2. <span class="tooltip" title="Boosts the Pokémon’s Speed in a sandstorm.">Sand Rush</span> | N/A |
 
 ---
 

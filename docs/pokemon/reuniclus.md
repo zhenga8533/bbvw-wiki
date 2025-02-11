@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #579 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.0 m /<br>3.3 ft | 20.1 kg /<br>44.3 lbs | <span class="tooltip" title="Restores a little HP when withdrawn from battle.">Regenerator</span><br><span class="tooltip" title="The Pokémon only takes damage from attacks.">Magic Guard</span> | #85 |
+| #579 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.0 m /<br>3.3 ft | 20.1 kg /<br>44.3 lbs |  | 1. <span class="tooltip" title="Restores a little HP when withdrawn from battle.">Regenerator</span><br>2. <span class="tooltip" title="The Pokémon only takes damage from attacks.">Magic Guard</span> | #85 |
 
 ---
 

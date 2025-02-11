@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #553 | ![ground](../assets/types/ground.png "Ground"){: width="48"}<br>![dark](../assets/types/dark.png "Dark"){: width="48"} | 1.5 m /<br>4.9 ft | 96.3 kg /<br>212.3 lbs | <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br><span class="tooltip" title="Boosts Attack after knocking out any Pokémon.">Moxie</span> | #59 |
+| #553 | ![ground](../assets/types/ground.png "Ground"){: width="48"}<br>![dark](../assets/types/dark.png "Dark"){: width="48"} | 1.5 m /<br>4.9 ft | 96.3 kg /<br>212.3 lbs |  | 1. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br>2. <span class="tooltip" title="Boosts Attack after knocking out any Pokémon.">Moxie</span> | #59 |
 
 ---
 

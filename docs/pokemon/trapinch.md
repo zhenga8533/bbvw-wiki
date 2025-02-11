@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #328 | ![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.7 m /<br>2.3 ft | 15.0 kg /<br>33.1 lbs | <span class="tooltip" title="Prevents other Pokémon from lowering Attack stat.">Hyper Cutter</span><br><span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span> | N/A |
+| #328 | ![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.7 m /<br>2.3 ft | 15.0 kg /<br>33.1 lbs |  | 1. <span class="tooltip" title="Prevents other Pokémon from lowering Attack stat.">Hyper Cutter</span><br>2. <span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span> | N/A |
 
 ---
 

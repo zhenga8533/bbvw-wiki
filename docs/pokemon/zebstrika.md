@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #523 | ![electric](../assets/types/electric.png "Electric"){: width="48"} | 1.6 m /<br>5.2 ft | 79.5 kg /<br>175.3 lbs | <span class="tooltip" title="Draws in all Electric-type moves to up Sp. Attack.">Lightning Rod</span><br><span class="tooltip" title="Boosts Attack when hit by a Grass-type move.">Sap Sipper</span> | #29 |
+| #523 | ![electric](../assets/types/electric.png "Electric"){: width="48"} | 1.6 m /<br>5.2 ft | 79.5 kg /<br>175.3 lbs |  | 1. <span class="tooltip" title="Draws in all Electric-type moves to up Sp. Attack.">Lightning Rod</span><br>2. <span class="tooltip" title="Boosts Attack when hit by a Grass-type move.">Sap Sipper</span> | #29 |
 
 ---
 

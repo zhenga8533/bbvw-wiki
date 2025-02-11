@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #257 | ![fire](../assets/types/fire.png "Fire"){: width="48"}<br>![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.9 m /<br>6.2 ft | 52.0 kg /<br>114.6 lbs | <span class="tooltip" title="Powers up Fire-type moves in a pinch.">Blaze</span><br><span class="tooltip" title="Its Speed stat is gradually boosted.">Speed Boost</span> | N/A |
+| #257 | ![fire](../assets/types/fire.png "Fire"){: width="48"}<br>![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.9 m /<br>6.2 ft | 52.0 kg /<br>114.6 lbs |  | 1. <span class="tooltip" title="Powers up Fire-type moves in a pinch.">Blaze</span><br>2. <span class="tooltip" title="Its Speed stat is gradually boosted.">Speed Boost</span> | N/A |
 
 ---
 

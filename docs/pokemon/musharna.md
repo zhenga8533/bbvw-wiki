@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #518 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.1 m /<br>3.6 ft | 60.5 kg /<br>133.4 lbs | <span class="tooltip" title="Anticipates an ally’s attack and dodges it.">Telepathy</span><br><span class="tooltip" title="Boosts move power when the Pokémon moves last.">Analytic</span><br><span class="tooltip" title="Reflects status- changing moves.">Magic Bounce</span> | #24 |
+| #518 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.1 m /<br>3.6 ft | 60.5 kg /<br>133.4 lbs |  | 1. <span class="tooltip" title="Anticipates an ally’s attack and dodges it.">Telepathy</span><br>2. <span class="tooltip" title="Boosts move power when the Pokémon moves last.">Analytic</span> | #24 |
 
 ---
 

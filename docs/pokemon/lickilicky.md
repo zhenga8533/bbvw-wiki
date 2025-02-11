@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #463 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.7 m /<br>5.6 ft | 140.0 kg /<br>308.6 lbs | <span class="tooltip" title="Ups resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br><span class="tooltip" title="Encourages the early use of a held Berry.">Gluttony</span> | N/A |
+| #463 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.7 m /<br>5.6 ft | 140.0 kg /<br>308.6 lbs |  | 1. <span class="tooltip" title="Ups resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br>2. <span class="tooltip" title="Encourages the early use of a held Berry.">Gluttony</span> | N/A |
 
 ---
 

@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #184 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.8 m /<br>2.6 ft | 28.5 kg /<br>62.8 lbs | <span class="tooltip" title="Boosts Attack when hit by a Grass-type move.">Sap Sipper</span><br><span class="tooltip" title="Raises the Pokémon’s Attack stat.">Huge Power</span> | N/A |
+| #184 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.8 m /<br>2.6 ft | 28.5 kg /<br>62.8 lbs |  | 1. <span class="tooltip" title="Boosts Attack when hit by a Grass-type move.">Sap Sipper</span><br>2. <span class="tooltip" title="Raises the Pokémon’s Attack stat.">Huge Power</span> | N/A |
 
 ---
 

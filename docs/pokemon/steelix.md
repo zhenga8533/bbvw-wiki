@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #208 | ![steel](../assets/types/steel.png "Steel"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 9.2 m /<br>30.2 ft | 400.0 kg /<br>881.8 lbs | <span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span><br><span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span> | N/A |
+| #208 | ![steel](../assets/types/steel.png "Steel"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 9.2 m /<br>30.2 ft | 400.0 kg /<br>881.8 lbs |  | 1. <span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span><br>2. <span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span> | N/A |
 
 ---
 

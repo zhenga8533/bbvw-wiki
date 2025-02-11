@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #568 | ![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.6 m /<br>2.0 ft | 31.0 kg /<br>68.3 lbs | <span class="tooltip" title="The stench may cause the target to flinch.">Stench</span><br><span class="tooltip" title="Protects the Pokémon from item theft.">Sticky Hold</span> | #74 |
+| #568 | ![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.6 m /<br>2.0 ft | 31.0 kg /<br>68.3 lbs |  | 1. <span class="tooltip" title="The stench may cause the target to flinch.">Stench</span><br>2. <span class="tooltip" title="Protects the Pokémon from item theft.">Sticky Hold</span> | #74 |
 
 ---
 

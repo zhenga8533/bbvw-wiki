@@ -33,7 +33,7 @@ Latest (Gen VI+):
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #10017 | ![fire](../assets/types/fire.png "Fire"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.3 m /<br>4.3 ft | 92.9 kg /<br>204.8 lbs | <span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span><br><span class="tooltip" title="Changes the Pokémon’s shape when HP is halved.">Zen Mode</span> | #61 |
+| #10017 | ![fire](../assets/types/fire.png "Fire"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.3 m /<br>4.3 ft | 92.9 kg /<br>204.8 lbs |  | 1. <span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span><br>2. <span class="tooltip" title="Changes the Pokémon’s shape when HP is halved.">Zen Mode</span> | #61 |
 
 ---
 

@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #619 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 0.9 m /<br>3.0 ft | 20.0 kg /<br>44.1 lbs | <span class="tooltip" title="Powers up moves that have recoil damage.">Reckless</span><br><span class="tooltip" title="Restores a little HP when withdrawn from battle.">Regenerator</span> | #125 |
+| #619 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 0.9 m /<br>3.0 ft | 20.0 kg /<br>44.1 lbs |  | 1. <span class="tooltip" title="Powers up moves that have recoil damage.">Reckless</span><br>2. <span class="tooltip" title="Restores a little HP when withdrawn from battle.">Regenerator</span> | #125 |
 
 ---
 

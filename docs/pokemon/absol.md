@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #359 | ![dark](../assets/types/dark.png "Dark"){: width="48"} | 1.2 m /<br>3.9 ft | 47.0 kg /<br>103.6 lbs | <span class="tooltip" title="Raises Attack when hit by a Dark-type move.">Justified</span><br><span class="tooltip" title="Heightens the critical- hit ratios of moves.">Super Luck</span> | N/A |
+| #359 | ![dark](../assets/types/dark.png "Dark"){: width="48"} | 1.2 m /<br>3.9 ft | 47.0 kg /<br>103.6 lbs |  | 1. <span class="tooltip" title="Raises Attack when hit by a Dark-type move.">Justified</span><br>2. <span class="tooltip" title="Heightens the critical- hit ratios of moves.">Super Luck</span> | N/A |
 
 ---
 

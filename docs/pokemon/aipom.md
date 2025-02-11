@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #190 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.8 m /<br>2.6 ft | 11.5 kg /<br>25.4 lbs | <span class="tooltip" title="Increases the frequency of multi-strike moves.">Skill Link</span><br><span class="tooltip" title="The Pokémon may pick up items.">Pickup</span> | N/A |
+| #190 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.8 m /<br>2.6 ft | 11.5 kg /<br>25.4 lbs |  | 1. <span class="tooltip" title="Increases the frequency of multi-strike moves.">Skill Link</span><br>2. <span class="tooltip" title="The Pokémon may pick up items.">Pickup</span> | N/A |
 
 ---
 

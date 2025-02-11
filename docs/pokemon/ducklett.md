@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #580 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.5 m /<br>1.6 ft | 5.5 kg /<br>12.1 lbs | <span class="tooltip" title="Heals status problems if it is raining.">Hydration</span><br><span class="tooltip" title="Protects the Pokémon from Defense-lowering attacks.">Big Pecks</span> | #86 |
+| #580 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.5 m /<br>1.6 ft | 5.5 kg /<br>12.1 lbs |  | 1. <span class="tooltip" title="Heals status problems if it is raining.">Hydration</span><br>2. <span class="tooltip" title="Protects the Pokémon from Defense-lowering attacks.">Big Pecks</span> | #86 |
 
 ---
 

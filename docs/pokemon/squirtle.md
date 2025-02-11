@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #7 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.5 m /<br>1.6 ft | 9.0 kg /<br>19.8 lbs | <span class="tooltip" title="Powers up Water-type moves in a pinch.">Torrent</span><br><span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span> | N/A |
+| #7 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.5 m /<br>1.6 ft | 9.0 kg /<br>19.8 lbs |  | 1. <span class="tooltip" title="Powers up Water-type moves in a pinch.">Torrent</span><br>2. <span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span> | N/A |
 
 ---
 

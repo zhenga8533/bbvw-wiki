@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #300 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.6 m /<br>2.0 ft | 11.0 kg /<br>24.3 lbs | <span class="tooltip" title="All the Pokémon’s moves become the Normal type.">Normalize</span><br><span class="tooltip" title="Makes status-changing moves more likely to miss.">Wonder Skin</span> | N/A |
+| #300 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.6 m /<br>2.0 ft | 11.0 kg /<br>24.3 lbs |  | 1. <span class="tooltip" title="All the Pokémon’s moves become the Normal type.">Normalize</span><br>2. <span class="tooltip" title="Makes status-changing moves more likely to miss.">Wonder Skin</span> | N/A |
 
 ---
 

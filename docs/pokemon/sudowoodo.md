@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #185 | ![rock](../assets/types/rock.png "Rock"){: width="48"} | 1.2 m /<br>3.9 ft | 38.0 kg /<br>83.8 lbs | <span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span><br><span class="tooltip" title="Some move types scare it and boost its Speed.">Rattled</span> | N/A |
+| #185 | ![rock](../assets/types/rock.png "Rock"){: width="48"} | 1.2 m /<br>3.9 ft | 38.0 kg /<br>83.8 lbs |  | 1. <span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span><br>2. <span class="tooltip" title="Some move types scare it and boost its Speed.">Rattled</span> | N/A |
 
 ---
 

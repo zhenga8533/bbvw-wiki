@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #290 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.5 m /<br>1.6 ft | 5.5 kg /<br>12.1 lbs | <span class="tooltip" title="The Pokémon’s accuracy is boosted.">Compound Eyes</span><br><span class="tooltip" title="Senses a foe’s dangerous moves.">Anticipation</span> | N/A |
+| #290 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.5 m /<br>1.6 ft | 5.5 kg /<br>12.1 lbs |  | 1. <span class="tooltip" title="The Pokémon’s accuracy is boosted.">Compound Eyes</span><br>2. <span class="tooltip" title="Senses a foe’s dangerous moves.">Anticipation</span> | N/A |
 
 ---
 

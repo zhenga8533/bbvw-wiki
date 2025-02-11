@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #636 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![fire](../assets/types/fire.png "Fire"){: width="48"} | 1.1 m /<br>3.6 ft | 28.8 kg /<br>63.5 lbs | <span class="tooltip" title="Contact with the Pokémon may burn the attacker.">Flame Body</span><br><span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span> | #142 |
+| #636 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![fire](../assets/types/fire.png "Fire"){: width="48"} | 1.1 m /<br>3.6 ft | 28.8 kg /<br>63.5 lbs |  | 1. <span class="tooltip" title="Contact with the Pokémon may burn the attacker.">Flame Body</span><br>2. <span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span> | #142 |
 
 ---
 

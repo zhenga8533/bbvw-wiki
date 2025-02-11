@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #370 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.6 m /<br>2.0 ft | 8.7 kg /<br>19.2 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br><span class="tooltip" title="Heals status problems if it is raining.">Hydration</span> | N/A |
+| #370 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.6 m /<br>2.0 ft | 8.7 kg /<br>19.2 lbs |  | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br>2. <span class="tooltip" title="Heals status problems if it is raining.">Hydration</span> | N/A |
 
 ---
 

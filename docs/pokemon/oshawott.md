@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #501 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.5 m /<br>1.6 ft | 5.9 kg /<br>13.0 lbs | <span class="tooltip" title="Powers up Water-type moves in a pinch.">Torrent</span><br><span class="tooltip" title="Prevents the Pokémon from falling asleep.">Vital Spirit</span> | #7 |
+| #501 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.5 m /<br>1.6 ft | 5.9 kg /<br>13.0 lbs |  | 1. <span class="tooltip" title="Powers up Water-type moves in a pinch.">Torrent</span><br>2. <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Vital Spirit</span> | #7 |
 
 ---
 

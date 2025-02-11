@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #639 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.9 m /<br>6.2 ft | 260.0 kg /<br>573.2 lbs | <span class="tooltip" title="Raises Attack when hit by a Dark-type move.">Justified</span> | #145 |
+| #639 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.9 m /<br>6.2 ft | 260.0 kg /<br>573.2 lbs |  | 1. <span class="tooltip" title="Raises Attack when hit by a Dark-type move.">Justified</span> | #145 |
 
 ---
 

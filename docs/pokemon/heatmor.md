@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #631 | ![fire](../assets/types/fire.png "Fire"){: width="48"} | 1.4 m /<br>4.6 ft | 58.0 kg /<br>127.9 lbs | <span class="tooltip" title="Prevents other Pokémon from lowering its stats.">White Smoke</span><br><span class="tooltip" title="Raises one stat and lowers another.">Moody</span> | #137 |
+| #631 | ![fire](../assets/types/fire.png "Fire"){: width="48"} | 1.4 m /<br>4.6 ft | 58.0 kg /<br>127.9 lbs |  | 1. <span class="tooltip" title="Prevents other Pokémon from lowering its stats.">White Smoke</span><br>2. <span class="tooltip" title="Raises one stat and lowers another.">Moody</span> | #137 |
 
 ---
 

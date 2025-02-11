@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #133 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.3 m /<br>1.0 ft | 6.5 kg /<br>14.3 lbs | <span class="tooltip" title="Senses a foe’s dangerous moves.">Anticipation</span><br><span class="tooltip" title="Powers up moves of the same type.">Adaptability</span> | N/A |
+| #133 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.3 m /<br>1.0 ft | 6.5 kg /<br>14.3 lbs |  | 1. <span class="tooltip" title="Senses a foe’s dangerous moves.">Anticipation</span><br>2. <span class="tooltip" title="Powers up moves of the same type.">Adaptability</span> | N/A |
 
 ---
 

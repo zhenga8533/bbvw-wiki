@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #642 | ![electric](../assets/types/electric.png "Electric"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.5 m /<br>4.9 ft | 61.0 kg /<br>134.5 lbs | <span class="tooltip" title="Gives priority to a status move.">Prankster</span><br><span class="tooltip" title="When its stats are lowered its Attack increases.">Defiant</span> | #148 |
+| #642 | ![electric](../assets/types/electric.png "Electric"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.5 m /<br>4.9 ft | 61.0 kg /<br>134.5 lbs |  | 1. <span class="tooltip" title="Gives priority to a status move.">Prankster</span><br>2. <span class="tooltip" title="When its stats are lowered its Attack increases.">Defiant</span> | #148 |
 
 ---
 

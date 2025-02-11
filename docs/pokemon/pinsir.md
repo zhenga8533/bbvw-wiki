@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #127 | ![bug](../assets/types/bug.png "Bug"){: width="48"} | 1.5 m /<br>4.9 ft | 55.0 kg /<br>121.3 lbs | <span class="tooltip" title="Boosts Attack after knocking out any Pokémon.">Moxie</span><br><span class="tooltip" title="Moves can be used regardless of Abilities.">Mold Breaker</span> | N/A |
+| #127 | ![bug](../assets/types/bug.png "Bug"){: width="48"} | 1.5 m /<br>4.9 ft | 55.0 kg /<br>121.3 lbs |  | 1. <span class="tooltip" title="Boosts Attack after knocking out any Pokémon.">Moxie</span><br>2. <span class="tooltip" title="Moves can be used regardless of Abilities.">Mold Breaker</span> | N/A |
 
 ---
 

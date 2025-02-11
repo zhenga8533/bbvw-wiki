@@ -46,7 +46,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #521 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.2 m /<br>3.9 ft | 29.0 kg /<br>63.9 lbs | <span class="tooltip" title="Boosts the likelihood of added effects appearing.">Serene Grace</span><br><span class="tooltip" title="Heightens the critical- hit ratios of moves.">Super Luck</span> | #27 |
+| #521 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.2 m /<br>3.9 ft | 29.0 kg /<br>63.9 lbs |  | 1. <span class="tooltip" title="Boosts the likelihood of added effects appearing.">Serene Grace</span><br>2. <span class="tooltip" title="Heightens the critical- hit ratios of moves.">Super Luck</span> | #27 |
 
 ---
 

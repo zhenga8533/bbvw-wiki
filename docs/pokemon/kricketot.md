@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #401 | ![bug](../assets/types/bug.png "Bug"){: width="48"} | 0.3 m /<br>1.0 ft | 2.2 kg /<br>4.9 lbs | <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span><br><span class="tooltip" title="Enables a sure getaway from wild Pokémon.">Run Away</span> | N/A |
+| #401 | ![bug](../assets/types/bug.png "Bug"){: width="48"} | 0.3 m /<br>1.0 ft | 2.2 kg /<br>4.9 lbs |  | 1. <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span><br>2. <span class="tooltip" title="Enables a sure getaway from wild Pokémon.">Run Away</span> | N/A |
 
 ---
 

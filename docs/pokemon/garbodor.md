@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #569 | ![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.9 m /<br>6.2 ft | 107.3 kg /<br>236.6 lbs | <span class="tooltip" title="The stench may cause the target to flinch.">Stench</span><br><span class="tooltip" title="Damages the attacker landing the finishing hit.">Aftermath</span> | #75 |
+| #569 | ![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.9 m /<br>6.2 ft | 107.3 kg /<br>236.6 lbs |  | 1. <span class="tooltip" title="The stench may cause the target to flinch.">Stench</span><br>2. <span class="tooltip" title="Damages the attacker landing the finishing hit.">Aftermath</span> | #75 |
 
 ---
 

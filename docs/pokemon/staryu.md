@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #120 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.8 m /<br>2.6 ft | 34.5 kg /<br>76.1 lbs | <span class="tooltip" title="Restores a little HP when withdrawn from battle.">Regenerator</span><br><span class="tooltip" title="All status problems heal when it switches out.">Natural Cure</span> | N/A |
+| #120 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.8 m /<br>2.6 ft | 34.5 kg /<br>76.1 lbs |  | 1. <span class="tooltip" title="Restores a little HP when withdrawn from battle.">Regenerator</span><br>2. <span class="tooltip" title="All status problems heal when it switches out.">Natural Cure</span> | N/A |
 
 ---
 

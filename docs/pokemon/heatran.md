@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #485 | ![fire](../assets/types/fire.png "Fire"){: width="48"}<br>![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.7 m /<br>5.6 ft | 430.0 kg /<br>948.0 lbs | <span class="tooltip" title="It powers up Fire-type moves if it’s hit by one.">Flash Fire</span><br><span class="tooltip" title="Contact with the Pokémon may burn the attacker.">Flame Body</span> | N/A |
+| #485 | ![fire](../assets/types/fire.png "Fire"){: width="48"}<br>![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.7 m /<br>5.6 ft | 430.0 kg /<br>948.0 lbs |  | 1. <span class="tooltip" title="It powers up Fire-type moves if it’s hit by one.">Flash Fire</span><br>2. <span class="tooltip" title="Contact with the Pokémon may burn the attacker.">Flame Body</span> | N/A |
 
 ---
 

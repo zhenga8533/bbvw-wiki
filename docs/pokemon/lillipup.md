@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #506 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.4 m /<br>1.3 ft | 4.1 kg /<br>9.0 lbs | <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Vital Spirit</span><br><span class="tooltip" title="The Pokémon may pick up items.">Pickup</span> | #12 |
+| #506 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.4 m /<br>1.3 ft | 4.1 kg /<br>9.0 lbs |  | 1. <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Vital Spirit</span><br>2. <span class="tooltip" title="The Pokémon may pick up items.">Pickup</span> | #12 |
 
 ---
 

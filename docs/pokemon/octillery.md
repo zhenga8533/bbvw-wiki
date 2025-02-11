@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #224 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.9 m /<br>3.0 ft | 28.5 kg /<br>62.8 lbs | <span class="tooltip" title="Raises one stat and lowers another.">Moody</span><br><span class="tooltip" title="Powers up moves if they become critical hits.">Sniper</span> | N/A |
+| #224 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.9 m /<br>3.0 ft | 28.5 kg /<br>62.8 lbs |  | 1. <span class="tooltip" title="Raises one stat and lowers another.">Moody</span><br>2. <span class="tooltip" title="Powers up moves if they become critical hits.">Sniper</span> | N/A |
 
 ---
 

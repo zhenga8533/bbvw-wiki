@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #634 | ![dark](../assets/types/dark.png "Dark"){: width="48"}<br>![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 1.4 m /<br>4.6 ft | 50.0 kg /<br>110.2 lbs | <span class="tooltip" title="Boosts the Attack stat, but lowers accuracy.">Hustle</span><br><span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span> | #140 |
+| #634 | ![dark](../assets/types/dark.png "Dark"){: width="48"}<br>![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 1.4 m /<br>4.6 ft | 50.0 kg /<br>110.2 lbs |  | 1. <span class="tooltip" title="Boosts the Attack stat, but lowers accuracy.">Hustle</span><br>2. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span> | #140 |
 
 ---
 

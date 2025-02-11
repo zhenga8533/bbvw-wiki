@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #547 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.7 m /<br>2.3 ft | 6.6 kg /<br>14.6 lbs | <span class="tooltip" title="Gives priority to a status move.">Prankster</span><br><span class="tooltip" title="Passes through the foe’s barrier and strikes.">Infiltrator</span> | #53 |
+| #547 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.7 m /<br>2.3 ft | 6.6 kg /<br>14.6 lbs |  | 1. <span class="tooltip" title="Gives priority to a status move.">Prankster</span><br>2. <span class="tooltip" title="Passes through the foe’s barrier and strikes.">Infiltrator</span> | #53 |
 
 ---
 

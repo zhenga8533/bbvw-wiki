@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #57 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.0 m /<br>3.3 ft | 32.0 kg /<br>70.5 lbs | <span class="tooltip" title="When its stats are lowered its Attack increases.">Defiant</span><br><span class="tooltip" title="Maxes Attack after taking a critical hit.">Anger Point</span> | N/A |
+| #57 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.0 m /<br>3.3 ft | 32.0 kg /<br>70.5 lbs |  | 1. <span class="tooltip" title="When its stats are lowered its Attack increases.">Defiant</span><br>2. <span class="tooltip" title="Maxes Attack after taking a critical hit.">Anger Point</span> | N/A |
 
 ---
 

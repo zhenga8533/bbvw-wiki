@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #152 | ![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.9 m /<br>3.0 ft | 6.4 kg /<br>14.1 lbs | <span class="tooltip" title="Powers up Grass-type moves in a pinch.">Overgrow</span><br><span class="tooltip" title="All status problems heal when it switches out.">Natural Cure</span> | N/A |
+| #152 | ![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.9 m /<br>3.0 ft | 6.4 kg /<br>14.1 lbs |  | 1. <span class="tooltip" title="Powers up Grass-type moves in a pinch.">Overgrow</span><br>2. <span class="tooltip" title="All status problems heal when it switches out.">Natural Cure</span> | N/A |
 
 ---
 

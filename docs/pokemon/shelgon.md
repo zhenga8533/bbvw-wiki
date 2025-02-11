@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #372 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 1.1 m /<br>3.6 ft | 110.5 kg /<br>243.6 lbs | <span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span><br><span class="tooltip" title="Protects the Pokémon from damage from weather.">Overcoat</span> | N/A |
+| #372 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 1.1 m /<br>3.6 ft | 110.5 kg /<br>243.6 lbs |  | 1. <span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span><br>2. <span class="tooltip" title="Protects the Pokémon from damage from weather.">Overcoat</span> | N/A |
 
 ---
 

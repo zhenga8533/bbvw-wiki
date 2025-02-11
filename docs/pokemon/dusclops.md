@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #356 | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | 1.6 m /<br>5.2 ft | 30.6 kg /<br>67.5 lbs | <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br><span class="tooltip" title="May disable a move used on the Pokémon.">Cursed Body</span> | N/A |
+| #356 | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | 1.6 m /<br>5.2 ft | 30.6 kg /<br>67.5 lbs |  | 1. <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br>2. <span class="tooltip" title="May disable a move used on the Pokémon.">Cursed Body</span> | N/A |
 
 ---
 

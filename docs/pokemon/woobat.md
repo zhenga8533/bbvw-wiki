@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #527 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.4 m /<br>1.3 ft | 2.1 kg /<br>4.6 lbs | <span class="tooltip" title="Ignores any stat changes in the Pokémon.">Unaware</span><br><span class="tooltip" title="The Pokémon can’t use any held items.">Klutz</span> | #33 |
+| #527 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.4 m /<br>1.3 ft | 2.1 kg /<br>4.6 lbs |  | 1. <span class="tooltip" title="Ignores any stat changes in the Pokémon.">Unaware</span><br>2. <span class="tooltip" title="The Pokémon can’t use any held items.">Klutz</span> | #33 |
 
 ---
 

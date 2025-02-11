@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #466 | ![electric](../assets/types/electric.png "Electric"){: width="48"}<br>![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.8 m /<br>5.9 ft | 138.6 kg /<br>305.6 lbs | <span class="tooltip" title="Raises Speed if hit by an Electric-type move.">Motor Drive</span><br><span class="tooltip" title="Prevents the Pokémon from falling asleep.">Vital Spirit</span> | N/A |
+| #466 | ![electric](../assets/types/electric.png "Electric"){: width="48"}<br>![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.8 m /<br>5.9 ft | 138.6 kg /<br>305.6 lbs |  | 1. <span class="tooltip" title="Raises Speed if hit by an Electric-type move.">Motor Drive</span><br>2. <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Vital Spirit</span> | N/A |
 
 ---
 

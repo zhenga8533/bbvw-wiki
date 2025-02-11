@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #613 | ![ice](../assets/types/ice.png "Ice"){: width="48"} | 0.5 m /<br>1.6 ft | 8.5 kg /<br>18.7 lbs | <span class="tooltip" title="Raises evasion in a hailstorm.">Snow Cloak</span><br><span class="tooltip" title="Some move types scare it and boost its Speed.">Rattled</span> | #119 |
+| #613 | ![ice](../assets/types/ice.png "Ice"){: width="48"} | 0.5 m /<br>1.6 ft | 8.5 kg /<br>18.7 lbs |  | 1. <span class="tooltip" title="Raises evasion in a hailstorm.">Snow Cloak</span><br>2. <span class="tooltip" title="Some move types scare it and boost its Speed.">Rattled</span> | #119 |
 
 ---
 

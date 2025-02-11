@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #408 | ![rock](../assets/types/rock.png "Rock"){: width="48"} | 0.9 m /<br>3.0 ft | 31.5 kg /<br>69.4 lbs | <span class="tooltip" title="Moves can be used regardless of Abilities.">Mold Breaker</span><br><span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span> | N/A |
+| #408 | ![rock](../assets/types/rock.png "Rock"){: width="48"} | 0.9 m /<br>3.0 ft | 31.5 kg /<br>69.4 lbs |  | 1. <span class="tooltip" title="Moves can be used regardless of Abilities.">Mold Breaker</span><br>2. <span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span> | N/A |
 
 ---
 

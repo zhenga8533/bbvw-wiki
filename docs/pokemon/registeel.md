@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #379 | ![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.9 m /<br>6.2 ft | 205.0 kg /<br>451.9 lbs | <span class="tooltip" title="Prevents other Pokémon from lowering its stats.">Clear Body</span><br><span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span> | N/A |
+| #379 | ![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.9 m /<br>6.2 ft | 205.0 kg /<br>451.9 lbs |  | 1. <span class="tooltip" title="Prevents other Pokémon from lowering its stats.">Clear Body</span><br>2. <span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span> | N/A |
 
 ---
 

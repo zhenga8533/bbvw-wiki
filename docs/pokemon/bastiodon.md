@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #411 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.3 m /<br>4.3 ft | 149.5 kg /<br>329.6 lbs | <span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span><br><span class="tooltip" title="Gives full immunity to all sound-based moves.">Soundproof</span> | N/A |
+| #411 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.3 m /<br>4.3 ft | 149.5 kg /<br>329.6 lbs |  | 1. <span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span><br>2. <span class="tooltip" title="Gives full immunity to all sound-based moves.">Soundproof</span> | N/A |
 
 ---
 

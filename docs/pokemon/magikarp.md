@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #129 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.9 m /<br>3.0 ft | 10.0 kg /<br>22.0 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br><span class="tooltip" title="Some move types scare it and boost its Speed.">Rattled</span> | N/A |
+| #129 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.9 m /<br>3.0 ft | 10.0 kg /<br>22.0 lbs |  | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br>2. <span class="tooltip" title="Some move types scare it and boost its Speed.">Rattled</span> | N/A |
 
 ---
 

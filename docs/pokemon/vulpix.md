@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #37 | ![fire](../assets/types/fire.png "Fire"){: width="48"} | 0.6 m /<br>2.0 ft | 9.9 kg /<br>21.8 lbs | <span class="tooltip" title="It powers up Fire-type moves if it’s hit by one.">Flash Fire</span><br><span class="tooltip" title="Turns the sunlight harsh if it is in battle.">Drought</span> | N/A |
+| #37 | ![fire](../assets/types/fire.png "Fire"){: width="48"} | 0.6 m /<br>2.0 ft | 9.9 kg /<br>21.8 lbs |  | 1. <span class="tooltip" title="It powers up Fire-type moves if it’s hit by one.">Flash Fire</span><br>2. <span class="tooltip" title="Turns the sunlight harsh if it is in battle.">Drought</span> | N/A |
 
 ---
 

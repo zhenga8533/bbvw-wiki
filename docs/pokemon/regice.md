@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #378 | ![ice](../assets/types/ice.png "Ice"){: width="48"} | 1.8 m /<br>5.9 ft | 175.0 kg /<br>385.8 lbs | <span class="tooltip" title="Prevents other Pokémon from lowering its stats.">Clear Body</span><br><span class="tooltip" title="Weakens the power of Fire-type moves.">Heatproof</span> | N/A |
+| #378 | ![ice](../assets/types/ice.png "Ice"){: width="48"} | 1.8 m /<br>5.9 ft | 175.0 kg /<br>385.8 lbs |  | 1. <span class="tooltip" title="Prevents other Pokémon from lowering its stats.">Clear Body</span><br>2. <span class="tooltip" title="Weakens the power of Fire-type moves.">Heatproof</span> | N/A |
 
 ---
 

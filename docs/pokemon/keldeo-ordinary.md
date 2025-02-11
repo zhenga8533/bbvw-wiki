@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #647 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.4 m /<br>4.6 ft | 48.5 kg /<br>106.9 lbs | <span class="tooltip" title="Raises Attack when hit by a Dark-type move.">Justified</span> | #153 |
+| #647 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.4 m /<br>4.6 ft | 48.5 kg /<br>106.9 lbs |  | 1. <span class="tooltip" title="Raises Attack when hit by a Dark-type move.">Justified</span> | #153 |
 
 ---
 

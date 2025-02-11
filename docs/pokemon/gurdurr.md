@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #533 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.2 m /<br>3.9 ft | 40.0 kg /<br>88.2 lbs | <span class="tooltip" title="Boosts Attack if there is a status problem.">Guts</span><br><span class="tooltip" title="Boosts the power of punching moves.">Iron Fist</span> | #39 |
+| #533 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.2 m /<br>3.9 ft | 40.0 kg /<br>88.2 lbs |  | 1. <span class="tooltip" title="Boosts Attack if there is a status problem.">Guts</span><br>2. <span class="tooltip" title="Boosts the power of punching moves.">Iron Fist</span> | #39 |
 
 ---
 

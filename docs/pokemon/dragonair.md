@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #148 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 4.0 m /<br>13.1 ft | 16.5 kg /<br>36.4 lbs | <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span><br><span class="tooltip" title="Ups Defense if there is a status problem.">Marvel Scale</span> | N/A |
+| #148 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 4.0 m /<br>13.1 ft | 16.5 kg /<br>36.4 lbs |  | 1. <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span><br>2. <span class="tooltip" title="Ups Defense if there is a status problem.">Marvel Scale</span> | N/A |
 
 ---
 

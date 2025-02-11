@@ -64,7 +64,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #649 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.5 m /<br>4.9 ft | 82.5 kg /<br>181.9 lbs | <span class="tooltip" title="Adjusts power according to a foe’s defenses.">Download</span> | #155 |
+| #649 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.5 m /<br>4.9 ft | 82.5 kg /<br>181.9 lbs |  | 1. <span class="tooltip" title="Adjusts power according to a foe’s defenses.">Download</span> | #155 |
 
 ---
 

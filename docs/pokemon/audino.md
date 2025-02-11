@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #531 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.1 m /<br>3.6 ft | 31.0 kg /<br>68.3 lbs | <span class="tooltip" title="Boosts the likelihood of added effects appearing.">Serene Grace</span><br><span class="tooltip" title="Restores a little HP when withdrawn from battle.">Regenerator</span> | #37 |
+| #531 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.1 m /<br>3.6 ft | 31.0 kg /<br>68.3 lbs |  | 1. <span class="tooltip" title="Boosts the likelihood of added effects appearing.">Serene Grace</span><br>2. <span class="tooltip" title="Restores a little HP when withdrawn from battle.">Regenerator</span> | #37 |
 
 ---
 

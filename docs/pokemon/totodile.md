@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #158 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.6 m /<br>2.0 ft | 9.5 kg /<br>20.9 lbs | <span class="tooltip" title="Powers up Water-type moves in a pinch.">Torrent</span><br><span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span> | N/A |
+| #158 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.6 m /<br>2.0 ft | 9.5 kg /<br>20.9 lbs |  | 1. <span class="tooltip" title="Powers up Water-type moves in a pinch.">Torrent</span><br>2. <span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span> | N/A |
 
 ---
 

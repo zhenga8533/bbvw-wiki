@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #387 | ![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.4 m /<br>1.3 ft | 10.2 kg /<br>22.5 lbs | <span class="tooltip" title="Powers up Grass-type moves in a pinch.">Overgrow</span><br><span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span> | N/A |
+| #387 | ![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.4 m /<br>1.3 ft | 10.2 kg /<br>22.5 lbs |  | 1. <span class="tooltip" title="Powers up Grass-type moves in a pinch.">Overgrow</span><br>2. <span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span> | N/A |
 
 ---
 

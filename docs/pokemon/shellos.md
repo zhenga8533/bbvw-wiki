@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #422 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.3 m /<br>1.0 ft | 6.3 kg /<br>13.9 lbs | <span class="tooltip" title="Protects the Pokémon from item theft.">Sticky Hold</span><br><span class="tooltip" title="Draws in all Water-type moves to up Sp. Attack.">Storm Drain</span> | N/A |
+| #422 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.3 m /<br>1.0 ft | 6.3 kg /<br>13.9 lbs |  | 1. <span class="tooltip" title="Protects the Pokémon from item theft.">Sticky Hold</span><br>2. <span class="tooltip" title="Draws in all Water-type moves to up Sp. Attack.">Storm Drain</span> | N/A |
 
 ---
 

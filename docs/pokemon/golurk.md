@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #623 | ![ground](../assets/types/ground.png "Ground"){: width="48"}<br>![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | 2.8 m /<br>9.2 ft | 330.0 kg /<br>727.5 lbs | <span class="tooltip" title="Boosts the power of punching moves.">Iron Fist</span><br><span class="tooltip" title="Ensures attacks by or against the Pokémon land.">No Guard</span> | #129 |
+| #623 | ![ground](../assets/types/ground.png "Ground"){: width="48"}<br>![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | 2.8 m /<br>9.2 ft | 330.0 kg /<br>727.5 lbs |  | 1. <span class="tooltip" title="Boosts the power of punching moves.">Iron Fist</span><br>2. <span class="tooltip" title="Ensures attacks by or against the Pokémon land.">No Guard</span> | #129 |
 
 ---
 

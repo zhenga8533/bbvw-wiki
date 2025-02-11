@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #10 | ![bug](../assets/types/bug.png "Bug"){: width="48"} | 0.3 m /<br>1.0 ft | 2.9 kg /<br>6.4 lbs | <span class="tooltip" title="Blocks the added effects of attacks taken.">Shield Dust</span><br><span class="tooltip" title="Negates all moves that force switching out.">Suction Cups</span> | N/A |
+| #10 | ![bug](../assets/types/bug.png "Bug"){: width="48"} | 0.3 m /<br>1.0 ft | 2.9 kg /<br>6.4 lbs |  | 1. <span class="tooltip" title="Blocks the added effects of attacks taken.">Shield Dust</span><br>2. <span class="tooltip" title="Negates all moves that force switching out.">Suction Cups</span> | N/A |
 
 ---
 

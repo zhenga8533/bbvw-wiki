@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #559 | ![dark](../assets/types/dark.png "Dark"){: width="48"}<br>![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 0.6 m /<br>2.0 ft | 11.8 kg /<br>26.0 lbs | <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span><br><span class="tooltip" title="Boosts Attack after knocking out any Pokémon.">Moxie</span> | #65 |
+| #559 | ![dark](../assets/types/dark.png "Dark"){: width="48"}<br>![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 0.6 m /<br>2.0 ft | 11.8 kg /<br>26.0 lbs |  | 1. <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span><br>2. <span class="tooltip" title="Boosts Attack after knocking out any Pokémon.">Moxie</span> | #65 |
 
 ---
 

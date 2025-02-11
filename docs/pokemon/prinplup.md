@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #394 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.8 m /<br>2.6 ft | 23.0 kg /<br>50.7 lbs | <span class="tooltip" title="Powers up Water-type moves in a pinch.">Torrent</span><br><span class="tooltip" title="When its stats are lowered its Attack increases.">Defiant</span> | N/A |
+| #394 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.8 m /<br>2.6 ft | 23.0 kg /<br>50.7 lbs |  | 1. <span class="tooltip" title="Powers up Water-type moves in a pinch.">Torrent</span><br>2. <span class="tooltip" title="When its stats are lowered its Attack increases.">Defiant</span> | N/A |
 
 ---
 

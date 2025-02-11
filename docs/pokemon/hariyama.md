@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #297 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 2.3 m /<br>7.5 ft | 253.8 kg /<br>559.5 lbs | <span class="tooltip" title="Ups resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br><span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span> | N/A |
+| #297 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 2.3 m /<br>7.5 ft | 253.8 kg /<br>559.5 lbs |  | 1. <span class="tooltip" title="Ups resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br>2. <span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span> | N/A |
 
 ---
 

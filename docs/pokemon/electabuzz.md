@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #125 | ![electric](../assets/types/electric.png "Electric"){: width="48"} | 1.1 m /<br>3.6 ft | 30.0 kg /<br>66.1 lbs | <span class="tooltip" title="Contact with the Pokémon may cause paralysis.">Static</span><br><span class="tooltip" title="Prevents the Pokémon from falling asleep.">Vital Spirit</span> | N/A |
+| #125 | ![electric](../assets/types/electric.png "Electric"){: width="48"} | 1.1 m /<br>3.6 ft | 30.0 kg /<br>66.1 lbs |  | 1. <span class="tooltip" title="Contact with the Pokémon may cause paralysis.">Static</span><br>2. <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Vital Spirit</span> | N/A |
 
 ---
 

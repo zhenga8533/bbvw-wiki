@@ -56,7 +56,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #3 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 2.0 m /<br>6.6 ft | 100.0 kg /<br>220.5 lbs | <span class="tooltip" title="Powers up Grass-type moves in a pinch.">Overgrow</span><br><span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span> | N/A |
+| #3 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 2.0 m /<br>6.6 ft | 100.0 kg /<br>220.5 lbs |  | 1. <span class="tooltip" title="Powers up Grass-type moves in a pinch.">Overgrow</span><br>2. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span> | N/A |
 
 ---
 

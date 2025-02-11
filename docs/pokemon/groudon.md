@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #383 | ![ground](../assets/types/ground.png "Ground"){: width="48"} | 3.5 m /<br>11.5 ft | 950.0 kg /<br>2094.4 lbs | <span class="tooltip" title="Turns the sunlight harsh if it is in battle.">Drought</span> | N/A |
+| #383 | ![ground](../assets/types/ground.png "Ground"){: width="48"} | 3.5 m /<br>11.5 ft | 950.0 kg /<br>2094.4 lbs |  | 1. <span class="tooltip" title="Turns the sunlight harsh if it is in battle.">Drought</span> | N/A |
 
 ---
 

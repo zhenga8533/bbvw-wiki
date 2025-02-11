@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #324 | ![fire](../assets/types/fire.png "Fire"){: width="48"} | 0.5 m /<br>1.6 ft | 80.4 kg /<br>177.3 lbs | <span class="tooltip" title="Prevents other Pokémon from lowering its stats.">White Smoke</span><br><span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span> | N/A |
+| #324 | ![fire](../assets/types/fire.png "Fire"){: width="48"} | 0.5 m /<br>1.6 ft | 80.4 kg /<br>177.3 lbs |  | 1. <span class="tooltip" title="Prevents other Pokémon from lowering its stats.">White Smoke</span><br>2. <span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span> | N/A |
 
 ---
 

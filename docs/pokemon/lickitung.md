@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #108 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.2 m /<br>3.9 ft | 65.5 kg /<br>144.4 lbs | <span class="tooltip" title="Eliminates the effects of weather.">Cloud Nine</span><br><span class="tooltip" title="Encourages the early use of a held Berry.">Gluttony</span> | N/A |
+| #108 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.2 m /<br>3.9 ft | 65.5 kg /<br>144.4 lbs |  | 1. <span class="tooltip" title="Eliminates the effects of weather.">Cloud Nine</span><br>2. <span class="tooltip" title="Encourages the early use of a held Berry.">Gluttony</span> | N/A |
 
 ---
 

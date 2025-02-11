@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #551 | ![ground](../assets/types/ground.png "Ground"){: width="48"}<br>![dark](../assets/types/dark.png "Dark"){: width="48"} | 0.7 m /<br>2.3 ft | 15.2 kg /<br>33.5 lbs | <span class="tooltip" title="Maxes Attack after taking a critical hit.">Anger Point</span><br><span class="tooltip" title="Boosts Attack after knocking out any Pokémon.">Moxie</span> | #57 |
+| #551 | ![ground](../assets/types/ground.png "Ground"){: width="48"}<br>![dark](../assets/types/dark.png "Dark"){: width="48"} | 0.7 m /<br>2.3 ft | 15.2 kg /<br>33.5 lbs |  | 1. <span class="tooltip" title="Maxes Attack after taking a critical hit.">Anger Point</span><br>2. <span class="tooltip" title="Boosts Attack after knocking out any Pokémon.">Moxie</span> | #57 |
 
 ---
 

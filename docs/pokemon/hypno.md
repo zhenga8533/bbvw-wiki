@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #97 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.6 m /<br>5.2 ft | 75.6 kg /<br>166.7 lbs | <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Insomnia</span><br><span class="tooltip" title="Determines what moves a foe has.">Forewarn</span> | N/A |
+| #97 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.6 m /<br>5.2 ft | 75.6 kg /<br>166.7 lbs |  | 1. <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Insomnia</span><br>2. <span class="tooltip" title="Determines what moves a foe has.">Forewarn</span> | N/A |
 
 ---
 

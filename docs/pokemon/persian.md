@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #53 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.0 m /<br>3.3 ft | 32.0 kg /<br>70.5 lbs | <span class="tooltip" title="The Pokémon is protected from paralysis.">Limber</span><br><span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span> | N/A |
+| #53 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.0 m /<br>3.3 ft | 32.0 kg /<br>70.5 lbs |  | 1. <span class="tooltip" title="The Pokémon is protected from paralysis.">Limber</span><br>2. <span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span> | N/A |
 
 ---
 

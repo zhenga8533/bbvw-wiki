@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #624 | ![dark](../assets/types/dark.png "Dark"){: width="48"}<br>![steel](../assets/types/steel.png "Steel"){: width="48"} | 0.5 m /<br>1.6 ft | 10.2 kg /<br>22.5 lbs | <span class="tooltip" title="When its stats are lowered its Attack increases.">Defiant</span><br><span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span> | #130 |
+| #624 | ![dark](../assets/types/dark.png "Dark"){: width="48"}<br>![steel](../assets/types/steel.png "Steel"){: width="48"} | 0.5 m /<br>1.6 ft | 10.2 kg /<br>22.5 lbs |  | 1. <span class="tooltip" title="When its stats are lowered its Attack increases.">Defiant</span><br>2. <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span> | #130 |
 
 ---
 

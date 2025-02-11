@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #342 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![dark](../assets/types/dark.png "Dark"){: width="48"} | 1.1 m /<br>3.6 ft | 32.8 kg /<br>72.3 lbs | <span class="tooltip" title="Prevents other Pokémon from lowering Attack stat.">Hyper Cutter</span><br><span class="tooltip" title="Powers up moves of the same type.">Adaptability</span> | N/A |
+| #342 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![dark](../assets/types/dark.png "Dark"){: width="48"} | 1.1 m /<br>3.6 ft | 32.8 kg /<br>72.3 lbs |  | 1. <span class="tooltip" title="Prevents other Pokémon from lowering Attack stat.">Hyper Cutter</span><br>2. <span class="tooltip" title="Powers up moves of the same type.">Adaptability</span> | N/A |
 
 ---
 

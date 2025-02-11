@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #294 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.0 m /<br>3.3 ft | 40.5 kg /<br>89.3 lbs | <span class="tooltip" title="Gives full immunity to all sound-based moves.">Soundproof</span><br><span class="tooltip" title="Enables moves to hit Ghost-type Pokémon.">Scrappy</span> | N/A |
+| #294 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.0 m /<br>3.3 ft | 40.5 kg /<br>89.3 lbs |  | 1. <span class="tooltip" title="Gives full immunity to all sound-based moves.">Soundproof</span><br>2. <span class="tooltip" title="Enables moves to hit Ghost-type Pokémon.">Scrappy</span> | N/A |
 
 ---
 

@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #431 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.5 m /<br>1.6 ft | 3.9 kg /<br>8.6 lbs | <span class="tooltip" title="The Pokémon is protected from paralysis.">Limber</span><br><span class="tooltip" title="Prevents the Pokémon from becoming confused.">Own Tempo</span> | N/A |
+| #431 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.5 m /<br>1.6 ft | 3.9 kg /<br>8.6 lbs |  | 1. <span class="tooltip" title="The Pokémon is protected from paralysis.">Limber</span><br>2. <span class="tooltip" title="Prevents the Pokémon from becoming confused.">Own Tempo</span> | N/A |
 
 ---
 

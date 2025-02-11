@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #285 | ![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.4 m /<br>1.3 ft | 4.5 kg /<br>9.9 lbs | <span class="tooltip" title="Contact may poison or cause paralysis or sleep.">Effect Spore</span><br><span class="tooltip" title="Restores HP if the Pokémon is poisoned.">Poison Heal</span> | N/A |
+| #285 | ![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.4 m /<br>1.3 ft | 4.5 kg /<br>9.9 lbs |  | 1. <span class="tooltip" title="Contact may poison or cause paralysis or sleep.">Effect Spore</span><br>2. <span class="tooltip" title="Restores HP if the Pokémon is poisoned.">Poison Heal</span> | N/A |
 
 ---
 

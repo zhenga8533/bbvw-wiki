@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #384 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 7.0 m /<br>23.0 ft | 206.5 kg /<br>455.3 lbs | <span class="tooltip" title="Eliminates the effects of weather.">Air Lock</span> | N/A |
+| #384 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 7.0 m /<br>23.0 ft | 206.5 kg /<br>455.3 lbs |  | 1. <span class="tooltip" title="Eliminates the effects of weather.">Air Lock</span> | N/A |
 
 ---
 

@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #390 | ![fire](../assets/types/fire.png "Fire"){: width="48"} | 0.5 m /<br>1.6 ft | 6.2 kg /<br>13.7 lbs | <span class="tooltip" title="Powers up Fire-type moves in a pinch.">Blaze</span><br><span class="tooltip" title="Boosts the power of punching moves.">Iron Fist</span> | N/A |
+| #390 | ![fire](../assets/types/fire.png "Fire"){: width="48"} | 0.5 m /<br>1.6 ft | 6.2 kg /<br>13.7 lbs |  | 1. <span class="tooltip" title="Powers up Fire-type moves in a pinch.">Blaze</span><br>2. <span class="tooltip" title="Boosts the power of punching moves.">Iron Fist</span> | N/A |
 
 ---
 

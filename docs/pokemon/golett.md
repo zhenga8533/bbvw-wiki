@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #622 | ![ground](../assets/types/ground.png "Ground"){: width="48"}<br>![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | 1.0 m /<br>3.3 ft | 92.0 kg /<br>202.8 lbs | <span class="tooltip" title="Boosts the power of punching moves.">Iron Fist</span><br><span class="tooltip" title="The Pokémon can’t use any held items.">Klutz</span> | #128 |
+| #622 | ![ground](../assets/types/ground.png "Ground"){: width="48"}<br>![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | 1.0 m /<br>3.3 ft | 92.0 kg /<br>202.8 lbs |  | 1. <span class="tooltip" title="Boosts the power of punching moves.">Iron Fist</span><br>2. <span class="tooltip" title="The Pokémon can’t use any held items.">Klutz</span> | #128 |
 
 ---
 

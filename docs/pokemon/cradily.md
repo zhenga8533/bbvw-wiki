@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #346 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![grass](../assets/types/grass.png "Grass"){: width="48"} | 1.5 m /<br>4.9 ft | 60.4 kg /<br>133.2 lbs | <span class="tooltip" title="Negates all moves that force switching out.">Suction Cups</span><br><span class="tooltip" title="Draws in all Water-type moves to up Sp. Attack.">Storm Drain</span> | N/A |
+| #346 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![grass](../assets/types/grass.png "Grass"){: width="48"} | 1.5 m /<br>4.9 ft | 60.4 kg /<br>133.2 lbs |  | 1. <span class="tooltip" title="Negates all moves that force switching out.">Suction Cups</span><br>2. <span class="tooltip" title="Draws in all Water-type moves to up Sp. Attack.">Storm Drain</span> | N/A |
 
 ---
 

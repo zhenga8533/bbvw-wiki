@@ -33,7 +33,7 @@ Latest (Gen VI+):
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #10016 | ![water](../assets/types/water.png "Water"){: width="48"} | 1.0 m /<br>3.3 ft | 18.0 kg /<br>39.7 lbs | <span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span><br><span class="tooltip" title="Powers up moves of the same type.">Adaptability</span> | #56 |
+| #10016 | ![water](../assets/types/water.png "Water"){: width="48"} | 1.0 m /<br>3.3 ft | 18.0 kg /<br>39.7 lbs |  | 1. <span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span><br>2. <span class="tooltip" title="Powers up moves of the same type.">Adaptability</span> | #56 |
 
 ---
 

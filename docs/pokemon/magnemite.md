@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #81 | ![electric](../assets/types/electric.png "Electric"){: width="48"}<br>![steel](../assets/types/steel.png "Steel"){: width="48"} | 0.3 m /<br>1.0 ft | 6.0 kg /<br>13.2 lbs | <span class="tooltip" title="Prevents Steel-type Pokémon from escaping.">Magnet Pull</span><br><span class="tooltip" title="Boosts move power when the Pokémon moves last.">Analytic</span> | N/A |
+| #81 | ![electric](../assets/types/electric.png "Electric"){: width="48"}<br>![steel](../assets/types/steel.png "Steel"){: width="48"} | 0.3 m /<br>1.0 ft | 6.0 kg /<br>13.2 lbs |  | 1. <span class="tooltip" title="Prevents Steel-type Pokémon from escaping.">Magnet Pull</span><br>2. <span class="tooltip" title="Boosts move power when the Pokémon moves last.">Analytic</span> | N/A |
 
 ---
 

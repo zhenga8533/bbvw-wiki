@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #450 | ![ground](../assets/types/ground.png "Ground"){: width="48"} | 2.0 m /<br>6.6 ft | 300.0 kg /<br>661.4 lbs | <span class="tooltip" title="The Pokémon summons a sandstorm in battle.">Sand Stream</span><br><span class="tooltip" title="Boosts certain moves’ power in a sandstorm.">Sand Force</span> | N/A |
+| #450 | ![ground](../assets/types/ground.png "Ground"){: width="48"} | 2.0 m /<br>6.6 ft | 300.0 kg /<br>661.4 lbs |  | 1. <span class="tooltip" title="The Pokémon summons a sandstorm in battle.">Sand Stream</span><br>2. <span class="tooltip" title="Boosts certain moves’ power in a sandstorm.">Sand Force</span> | N/A |
 
 ---
 

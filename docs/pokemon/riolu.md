@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #447 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 0.7 m /<br>2.3 ft | 20.2 kg /<br>44.5 lbs | <span class="tooltip" title="Raises Speed each time the Pokémon flinches.">Steadfast</span><br><span class="tooltip" title="Gives priority to a status move.">Prankster</span> | N/A |
+| #447 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 0.7 m /<br>2.3 ft | 20.2 kg /<br>44.5 lbs |  | 1. <span class="tooltip" title="Raises Speed each time the Pokémon flinches.">Steadfast</span><br>2. <span class="tooltip" title="Gives priority to a status move.">Prankster</span> | N/A |
 
 ---
 

@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #575 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"}<br>![dark](../assets/types/dark.png "Dark"){: width="48"} | 0.7 m /<br>2.3 ft | 18.0 kg /<br>39.7 lbs | <span class="tooltip" title="The Pokémon can check a foe’s held item.">Frisk</span><br><span class="tooltip" title="Reflects status- changing moves.">Magic Bounce</span> | #81 |
+| #575 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"}<br>![dark](../assets/types/dark.png "Dark"){: width="48"} | 0.7 m /<br>2.3 ft | 18.0 kg /<br>39.7 lbs |  | 1. <span class="tooltip" title="The Pokémon can check a foe’s held item.">Frisk</span><br>2. <span class="tooltip" title="Reflects status- changing moves.">Magic Bounce</span> | #81 |
 
 ---
 

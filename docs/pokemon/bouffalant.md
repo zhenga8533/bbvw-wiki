@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #626 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.6 m /<br>5.2 ft | 94.6 kg /<br>208.6 lbs | <span class="tooltip" title="Powers up moves that have recoil damage.">Reckless</span><br><span class="tooltip" title="Boosts Attack when hit by a Grass-type move.">Sap Sipper</span> | #132 |
+| #626 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.6 m /<br>5.2 ft | 94.6 kg /<br>208.6 lbs |  | 1. <span class="tooltip" title="Powers up moves that have recoil damage.">Reckless</span><br>2. <span class="tooltip" title="Boosts Attack when hit by a Grass-type move.">Sap Sipper</span> | #132 |
 
 ---
 

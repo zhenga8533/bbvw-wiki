@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #323 | ![fire](../assets/types/fire.png "Fire"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 1.9 m /<br>6.2 ft | 220.0 kg /<br>485.0 lbs | <span class="tooltip" title="Turns the sunlight harsh if it is in battle.">Drought</span><br><span class="tooltip" title="Reduces damage from supereffective attacks.">Solid Rock</span> | N/A |
+| #323 | ![fire](../assets/types/fire.png "Fire"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 1.9 m /<br>6.2 ft | 220.0 kg /<br>485.0 lbs |  | 1. <span class="tooltip" title="Turns the sunlight harsh if it is in battle.">Drought</span><br>2. <span class="tooltip" title="Reduces damage from supereffective attacks.">Solid Rock</span> | N/A |
 
 ---
 

@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #424 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.2 m /<br>3.9 ft | 20.3 kg /<br>44.8 lbs | <span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span><br><span class="tooltip" title="The Pokémon may pick up items.">Pickup</span> | N/A |
+| #424 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.2 m /<br>3.9 ft | 20.3 kg /<br>44.8 lbs |  | 1. <span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span><br>2. <span class="tooltip" title="The Pokémon may pick up items.">Pickup</span> | N/A |
 
 ---
 

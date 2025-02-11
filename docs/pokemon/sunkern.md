@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #191 | ![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.3 m /<br>1.0 ft | 1.8 kg /<br>4.0 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br><span class="tooltip" title="The Pokémon is prone to wild stat changes.">Simple</span> | N/A |
+| #191 | ![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.3 m /<br>1.0 ft | 1.8 kg /<br>4.0 lbs |  | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="The Pokémon is prone to wild stat changes.">Simple</span> | N/A |
 
 ---
 

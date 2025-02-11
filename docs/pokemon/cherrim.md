@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #421 | ![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.5 m /<br>1.6 ft | 9.3 kg /<br>20.5 lbs | <span class="tooltip" title="Powers up party Pokémon when it is sunny.">Flower Gift</span> | N/A |
+| #421 | ![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.5 m /<br>1.6 ft | 9.3 kg /<br>20.5 lbs |  | 1. <span class="tooltip" title="Powers up party Pokémon when it is sunny.">Flower Gift</span> | N/A |
 
 ---
 

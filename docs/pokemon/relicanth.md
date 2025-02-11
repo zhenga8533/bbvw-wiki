@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #369 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![rock](../assets/types/rock.png "Rock"){: width="48"} | 1.0 m /<br>3.3 ft | 23.4 kg /<br>51.6 lbs | <span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span><br><span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span> | N/A |
+| #369 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![rock](../assets/types/rock.png "Rock"){: width="48"} | 1.0 m /<br>3.3 ft | 23.4 kg /<br>51.6 lbs |  | 1. <span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span><br>2. <span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span> | N/A |
 
 ---
 

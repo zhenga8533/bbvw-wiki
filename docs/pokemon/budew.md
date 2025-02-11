@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #406 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.2 m /<br>0.7 ft | 1.2 kg /<br>2.6 lbs | <span class="tooltip" title="All status problems heal when it switches out.">Natural Cure</span><br><span class="tooltip" title="Prevents problems with status in sunny weather.">Leaf Guard</span> | N/A |
+| #406 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.2 m /<br>0.7 ft | 1.2 kg /<br>2.6 lbs |  | 1. <span class="tooltip" title="All status problems heal when it switches out.">Natural Cure</span><br>2. <span class="tooltip" title="Prevents problems with status in sunny weather.">Leaf Guard</span> | N/A |
 
 ---
 

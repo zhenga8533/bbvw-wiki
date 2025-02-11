@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #210 | ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 1.4 m /<br>4.6 ft | 48.7 kg /<br>107.4 lbs | <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br><span class="tooltip" title="Some move types scare it and boost its Speed.">Rattled</span> | N/A |
+| #210 | ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 1.4 m /<br>4.6 ft | 48.7 kg /<br>107.4 lbs |  | 1. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br>2. <span class="tooltip" title="Some move types scare it and boost its Speed.">Rattled</span> | N/A |
 
 ---
 

@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #473 | ![ice](../assets/types/ice.png "Ice"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 2.5 m /<br>8.2 ft | 291.0 kg /<br>641.5 lbs | <span class="tooltip" title="Ups resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br><span class="tooltip" title="Raises evasion in a hailstorm.">Snow Cloak</span> | N/A |
+| #473 | ![ice](../assets/types/ice.png "Ice"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 2.5 m /<br>8.2 ft | 291.0 kg /<br>641.5 lbs |  | 1. <span class="tooltip" title="Ups resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br>2. <span class="tooltip" title="Raises evasion in a hailstorm.">Snow Cloak</span> | N/A |
 
 ---
 

@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #515 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.6 m /<br>2.0 ft | 13.5 kg /<br>29.8 lbs | <span class="tooltip" title="Encourages the early use of a held Berry.">Gluttony</span><br><span class="tooltip" title="Powers up Water-type moves in a pinch.">Torrent</span> | #21 |
+| #515 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.6 m /<br>2.0 ft | 13.5 kg /<br>29.8 lbs |  | 1. <span class="tooltip" title="Encourages the early use of a held Berry.">Gluttony</span><br>2. <span class="tooltip" title="Powers up Water-type moves in a pinch.">Torrent</span> | #21 |
 
 ---
 

@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #206 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.5 m /<br>4.9 ft | 14.0 kg /<br>30.9 lbs | <span class="tooltip" title="Boosts the likelihood of added effects appearing.">Serene Grace</span><br><span class="tooltip" title="Some move types scare it and boost its Speed.">Rattled</span> | N/A |
+| #206 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.5 m /<br>4.9 ft | 14.0 kg /<br>30.9 lbs |  | 1. <span class="tooltip" title="Boosts the likelihood of added effects appearing.">Serene Grace</span><br>2. <span class="tooltip" title="Some move types scare it and boost its Speed.">Rattled</span> | N/A |
 
 ---
 

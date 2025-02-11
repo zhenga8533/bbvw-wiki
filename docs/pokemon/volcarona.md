@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #637 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![fire](../assets/types/fire.png "Fire"){: width="48"} | 1.6 m /<br>5.2 ft | 46.0 kg /<br>101.4 lbs | <span class="tooltip" title="Turns the sunlight harsh if it is in battle.">Drought</span> | #143 |
+| #637 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![fire](../assets/types/fire.png "Fire"){: width="48"} | 1.6 m /<br>5.2 ft | 46.0 kg /<br>101.4 lbs |  | 1. <span class="tooltip" title="Turns the sunlight harsh if it is in battle.">Drought</span> | #143 |
 
 ---
 

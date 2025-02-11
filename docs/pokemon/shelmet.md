@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #616 | ![bug](../assets/types/bug.png "Bug"){: width="48"} | 0.4 m /<br>1.3 ft | 7.7 kg /<br>17.0 lbs | <span class="tooltip" title="Heals status problems if it is raining.">Hydration</span><br><span class="tooltip" title="Protects the Pokémon from damage from weather.">Overcoat</span> | #122 |
+| #616 | ![bug](../assets/types/bug.png "Bug"){: width="48"} | 0.4 m /<br>1.3 ft | 7.7 kg /<br>17.0 lbs |  | 1. <span class="tooltip" title="Heals status problems if it is raining.">Hydration</span><br>2. <span class="tooltip" title="Protects the Pokémon from damage from weather.">Overcoat</span> | #122 |
 
 ---
 

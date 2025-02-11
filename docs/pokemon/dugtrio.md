@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #51 | ![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.7 m /<br>2.3 ft | 33.3 kg /<br>73.4 lbs | <span class="tooltip" title="Boosts certain moves’ power in a sandstorm.">Sand Force</span><br><span class="tooltip" title="Prevents the foe from fleeing.">Arena Trap</span> | N/A |
+| #51 | ![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.7 m /<br>2.3 ft | 33.3 kg /<br>73.4 lbs |  | 1. <span class="tooltip" title="Boosts certain moves’ power in a sandstorm.">Sand Force</span><br>2. <span class="tooltip" title="Prevents the foe from fleeing.">Arena Trap</span> | N/A |
 
 ---
 

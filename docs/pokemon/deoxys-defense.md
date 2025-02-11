@@ -31,7 +31,7 @@ Latest (Gen VI+):
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #10002 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.7 m /<br>5.6 ft | 60.8 kg /<br>134.0 lbs | <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span> | N/A |
+| #10002 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.7 m /<br>5.6 ft | 60.8 kg /<br>134.0 lbs |  | 1. <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span> | N/A |
 
 ---
 

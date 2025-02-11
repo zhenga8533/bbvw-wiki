@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #382 | ![water](../assets/types/water.png "Water"){: width="48"} | 4.5 m /<br>14.8 ft | 352.0 kg /<br>776.0 lbs | <span class="tooltip" title="The Pokémon makes it rain if it appears in battle.">Drizzle</span> | N/A |
+| #382 | ![water](../assets/types/water.png "Water"){: width="48"} | 4.5 m /<br>14.8 ft | 352.0 kg /<br>776.0 lbs |  | 1. <span class="tooltip" title="The Pokémon makes it rain if it appears in battle.">Drizzle</span> | N/A |
 
 ---
 

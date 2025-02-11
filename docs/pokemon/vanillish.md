@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #583 | ![ice](../assets/types/ice.png "Ice"){: width="48"} | 1.1 m /<br>3.6 ft | 41.0 kg /<br>90.4 lbs | <span class="tooltip" title="The Pokémon gradually regains HP in a hailstorm.">Ice Body</span><br><span class="tooltip" title="Physical attacks lower Defense and raise Speed.">Weak Armor</span> | #89 |
+| #583 | ![ice](../assets/types/ice.png "Ice"){: width="48"} | 1.1 m /<br>3.6 ft | 41.0 kg /<br>90.4 lbs |  | 1. <span class="tooltip" title="The Pokémon gradually regains HP in a hailstorm.">Ice Body</span><br>2. <span class="tooltip" title="Physical attacks lower Defense and raise Speed.">Weak Armor</span> | #89 |
 
 ---
 

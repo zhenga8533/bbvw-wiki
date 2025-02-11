@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #474 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.9 m /<br>3.0 ft | 34.0 kg /<br>75.0 lbs | <span class="tooltip" title="Powers up moves of the same type.">Adaptability</span><br><span class="tooltip" title="Adjusts power according to a foe’s defenses.">Download</span> | N/A |
+| #474 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.9 m /<br>3.0 ft | 34.0 kg /<br>75.0 lbs |  | 1. <span class="tooltip" title="Powers up moves of the same type.">Adaptability</span><br>2. <span class="tooltip" title="Adjusts power according to a foe’s defenses.">Download</span> | N/A |
 
 ---
 

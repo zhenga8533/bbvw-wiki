@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #399 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.5 m /<br>1.6 ft | 20.0 kg /<br>44.1 lbs | <span class="tooltip" title="The Pokémon is prone to wild stat changes.">Simple</span><br><span class="tooltip" title="Raises one stat and lowers another.">Moody</span> | N/A |
+| #399 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.5 m /<br>1.6 ft | 20.0 kg /<br>44.1 lbs |  | 1. <span class="tooltip" title="The Pokémon is prone to wild stat changes.">Simple</span><br>2. <span class="tooltip" title="Raises one stat and lowers another.">Moody</span> | N/A |
 
 ---
 
