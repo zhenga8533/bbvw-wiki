@@ -1,3 +1,5 @@
+# Nuvema Town – Important Trainers
+
 ---
 
 ## Rival Bianca – 1

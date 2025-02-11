@@ -1,3 +1,5 @@
+# Desert Resort – Trainer Rosters
+
 ---
 
 ## Generic Trainers</h3>

@@ -1,3 +1,5 @@
+# Nimbasa City – Trainer Rosters
+
 ---
 
 ## Important Trainers

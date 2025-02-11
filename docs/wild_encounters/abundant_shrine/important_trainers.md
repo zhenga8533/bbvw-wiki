@@ -1,3 +1,5 @@
+# Abundant Shrine – Important Trainers
+
 ---
 
 ## Youngster Chili

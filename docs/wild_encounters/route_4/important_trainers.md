@@ -1,3 +1,5 @@
+# Route 4 – Important Trainers
+
 ---
 
 ## Rival Bianca – 3

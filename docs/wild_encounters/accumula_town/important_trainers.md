@@ -1,3 +1,5 @@
+# Accumula Town – Important Trainers
+
 ---
 
 ## PKMN Trainer N – 1

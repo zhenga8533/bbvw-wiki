@@ -1,3 +1,5 @@
+# Relic Castle – Trainer Rosters
+
 ---
 
 ## Generic Trainers</h3>

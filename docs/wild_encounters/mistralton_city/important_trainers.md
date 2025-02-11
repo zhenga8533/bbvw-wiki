@@ -1,3 +1,5 @@
+# Mistralton City – Important Trainers
+
 ---
 
 ## Gym Leader Skyla

@@ -1,3 +1,5 @@
+# Striaton City – Important Trainers
+
 ---
 
 ## Rival Cheren – 2

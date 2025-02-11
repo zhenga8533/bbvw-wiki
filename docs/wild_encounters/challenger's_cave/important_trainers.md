@@ -1,3 +1,5 @@
+# Challenger's Cave – Important Trainers
+
 ---
 
 ## Veteran Drayden

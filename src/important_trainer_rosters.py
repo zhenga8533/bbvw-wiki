@@ -197,13 +197,13 @@ def main():
         # Misc lines
         else:
             md += f"{line}\n\n"
-
     md += parse_pokemon_sets(pokemon_sets, wild_rosters, wild_data, logger)
     logger.log(logging.INFO, "Important Trainer Rosters content parsed successfully!")
 
     # Parse wild rosters into markdown files
     for location, roster in wild_rosters.items():
         file_path = f"{WILD_ENCOUNTER_PATH + location.replace(' ', '_').lower()}/important_trainers.md"
+        roster = f"# {location} – Important Trainers\n\n{roster}"
         save(file_path, roster, logger)
 
     save(f"{OUTPUT_PATH}important_trainer_rosters.md", md, logger)

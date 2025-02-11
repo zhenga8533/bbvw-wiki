@@ -1,3 +1,5 @@
+# Route 10 – Important Trainers
+
 ---
 
 ## Rival Cheren – 7

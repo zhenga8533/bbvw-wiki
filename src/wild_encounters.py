@@ -15,7 +15,6 @@ def main():
 
     # Load environment variables and logger
     load_dotenv()
-    OUTPUT_PATH = os.getenv("OUTPUT_PATH")
     WILD_ENCOUNTER_PATH = os.getenv("WILD_ENCOUNTER_PATH")
     NAV_OUTPUT_PATH = os.getenv("NAV_OUTPUT_PATH")
     LOG = os.getenv("LOG")
@@ -111,7 +110,7 @@ def main():
             category = revert_id(file_name.split(".")[0], symbol="_")
             nav += f"          - {category}: {dirpath}/{file_name}\n"
 
-    save(f"{NAV_OUTPUT_PATH}wild_nav.md", nav, logger)
+    save(f"{NAV_OUTPUT_PATH}wild_nav.yml", nav, logger)
 
 
 if __name__ == "__main__":

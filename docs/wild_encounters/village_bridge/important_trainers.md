@@ -1,3 +1,5 @@
+# Village Bridge – Important Trainers
+
 ---
 
 ## Scientist Lenora

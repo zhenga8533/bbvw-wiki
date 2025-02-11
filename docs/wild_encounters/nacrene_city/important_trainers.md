@@ -1,3 +1,5 @@
+# Nacrene City – Important Trainers
+
 ---
 
 ## PKMN Trainer N – 2

@@ -1,3 +1,5 @@
+# Castelia City – Important Trainers
+
 ---
 
 ## Gym Leader Burgh

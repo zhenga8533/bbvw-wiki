@@ -1,3 +1,5 @@
+# Opelucid City – Important Trainers
+
 ---
 
 ## Gym Leader Drayden

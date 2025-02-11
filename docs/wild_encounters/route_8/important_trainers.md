@@ -1,3 +1,5 @@
+# Route 8 – Important Trainers
+
 ---
 
 ## Rival Bianca – 5

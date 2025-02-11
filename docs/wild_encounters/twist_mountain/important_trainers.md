@@ -1,3 +1,5 @@
+# Twist Mountain – Important Trainers
+
 ---
 
 ## Rival Cheren – 6

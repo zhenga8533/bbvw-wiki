@@ -1,3 +1,5 @@
+# Route 5 – Important Trainers
+
 ---
 
 ## Rival Cheren – 5

@@ -1,3 +1,5 @@
+# Mistralton City – Trainer Rosters
+
 ---
 
 ## Important Trainers

@@ -1,3 +1,5 @@
+# Route 2 – Important Trainers
+
 ---
 
 ## Rival Bianca – 2

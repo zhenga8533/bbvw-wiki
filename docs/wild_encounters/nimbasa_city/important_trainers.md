@@ -1,3 +1,5 @@
+# Nimbasa City – Important Trainers
+
 ---
 
 ## PKMN Trainer N – 3

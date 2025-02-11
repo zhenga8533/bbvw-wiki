@@ -1,3 +1,5 @@
+# Chargestone Cave – Important Trainers
+
 ---
 
 ## PKMN Trainer N – 4
