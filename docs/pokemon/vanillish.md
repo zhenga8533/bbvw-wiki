@@ -81,7 +81,7 @@ Vanillish has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Attack | 120 | 50 | 138 | Slo |
+| 2 Sp. Atk | 120 | 50 | 138 | Slo |
 
 ---
 

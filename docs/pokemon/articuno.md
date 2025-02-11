@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #144 | ![ice](../assets/types/ice.png "Ice"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.7 m /<br>5.6 ft | 55.4 kg /<br>122.1 lbs | <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br><span class="tooltip" title="Raises evasion in a hailstorm.">Snow Cloak</span> | N/A |
+| #144 | ![ice](../assets/types/ice.png "Ice"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.7 m /<br>5.6 ft | 55.4 kg /<br>122.1 lbs | <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br><span class="tooltip" title="Raises evasion in a hailstorm.">Snow Cloak</span> | N/A |
 
 ---
 
@@ -75,7 +75,7 @@ Articuno has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Defense | 3 | 35 | 290 | Slow | <span class="tooltip" title="If held by a Pokémon, it raises its Sp. Atk stat in a pinch.">Petaya Berry</span> (100%) |
+| 3 Sp. Def | 3 | 35 | 290 | Slow | <span class="tooltip" title="If held by a Pokémon, it raises its Sp. Atk stat in a pinch.">Petaya Berry</span> (100%) |
 
 ---
 

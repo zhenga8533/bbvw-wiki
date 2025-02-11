@@ -81,7 +81,7 @@ Reuniclus has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Attack | 50 | 50 | 245 | Medium Slo |
+| 3 Sp. Atk | 50 | 50 | 245 | Medium Slo |
 
 ---
 

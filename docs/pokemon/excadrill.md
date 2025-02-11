@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #530 | ![ground](../assets/types/ground.png "Ground"){: width="48"} ![steel](../assets/types/steel.png "Steel"){: width="48"} | 0.7 m /<br>2.3 ft | 40.4 kg /<br>89.1 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in a sandstorm.">Sand Rush</span><br><span class="tooltip" title="Moves can be used regardless of Abilities.">Mold Breaker</span> | #36 |
+| #530 | ![ground](../assets/types/ground.png "Ground"){: width="48"}<br>![steel](../assets/types/steel.png "Steel"){: width="48"} | 0.7 m /<br>2.3 ft | 40.4 kg /<br>89.1 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in a sandstorm.">Sand Rush</span><br><span class="tooltip" title="Moves can be used regardless of Abilities.">Mold Breaker</span> | #36 |
 
 ---
 
@@ -79,7 +79,7 @@ Excadrill has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 60 | 50 | 178 | Medium | N/A |
+| 2 Atk | 60 | 50 | 178 | Medium | N/A |
 
 ---
 

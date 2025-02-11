@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #502 | ![water](../assets/types/water.png "Water"){: width="48"} ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 0.8 m /<br>2.6 ft | 24.5 kg /<br>54.0 lbs | <span class="tooltip" title="Powers up Water-type moves in a pinch.">Torrent</span><br><span class="tooltip" title="Prevents the Pokémon from falling asleep.">Vital Spirit</span> | #8 |
+| #502 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 0.8 m /<br>2.6 ft | 24.5 kg /<br>54.0 lbs | <span class="tooltip" title="Powers up Water-type moves in a pinch.">Torrent</span><br><span class="tooltip" title="Prevents the Pokémon from falling asleep.">Vital Spirit</span> | #8 |
 
 ---
 
@@ -81,7 +81,7 @@ Dewott has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Attack | 45 | 70 | 145 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a teardrop-shaped gem that ups the power of Water-type moves.">Mystic Water</span> (50%) |
+| 2 Sp. Atk | 45 | 70 | 145 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a teardrop-shaped gem that ups the power of Water-type moves.">Mystic Water</span> (50%) |
 
 ---
 

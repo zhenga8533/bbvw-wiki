@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #609 | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} ![fire](../assets/types/fire.png "Fire"){: width="48"} | 1.0 m /<br>3.3 ft | 34.3 kg /<br>75.6 lbs | <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | #115 |
+| #609 | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"}<br>![fire](../assets/types/fire.png "Fire"){: width="48"} | 1.0 m /<br>3.3 ft | 34.3 kg /<br>75.6 lbs | <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | #115 |
 
 ---
 
@@ -81,7 +81,7 @@ Chandelure has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Attack | 45 | 50 | 260 | Medium Slow | N/A |
+| 3 Sp. Atk | 45 | 50 | 260 | Medium Slow | N/A |
 
 ---
 

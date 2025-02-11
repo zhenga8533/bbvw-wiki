@@ -77,7 +77,7 @@ Spoink has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense | 255 | 70 | 66 | Fast | <span class="tooltip" title="Weakens a supereffective Bug-type attack against the holding Pokémon.">Tanga Berry</span> (5%) |
+| 1 Sp. Def | 255 | 70 | 66 | Fast | <span class="tooltip" title="Weakens a supereffective Bug-type attack against the holding Pokémon.">Tanga Berry</span> (5%) |
 
 ---
 

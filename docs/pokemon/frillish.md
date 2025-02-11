@@ -46,7 +46,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #592 | ![water](../assets/types/water.png "Water"){: width="48"} ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | 1.2 m /<br>3.9 ft | 33.0 kg /<br>72.8 lbs | <span class="tooltip" title="Restores HP if hit by a Water-type move.">Water Absorb</span><br><span class="tooltip" title="May disable a move used on the Pokémon.">Cursed Body</span> | #98 |
+| #592 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | 1.2 m /<br>3.9 ft | 33.0 kg /<br>72.8 lbs | <span class="tooltip" title="Restores HP if hit by a Water-type move.">Water Absorb</span><br><span class="tooltip" title="May disable a move used on the Pokémon.">Cursed Body</span> | #98 |
 
 ---
 
@@ -85,7 +85,7 @@ Frillish has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense | 190 | 50 | 67 | Medium | N/A |
+| 1 Sp. Def | 190 | 50 | 67 | Medium | N/A |
 
 ---
 

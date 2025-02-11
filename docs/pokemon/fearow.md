@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #22 | ![normal](../assets/types/normal.png "Normal"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.2 m /<br>3.9 ft | 38.0 kg /<br>83.8 lbs | <span class="tooltip" title="Prevents other Pokémon from lowering accuracy.">Keen Eye</span><br><span class="tooltip" title="Powers up moves if they become critical hits.">Sniper</span> | N/A |
+| #22 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.2 m /<br>3.9 ft | 38.0 kg /<br>83.8 lbs | <span class="tooltip" title="Prevents other Pokémon from lowering accuracy.">Keen Eye</span><br><span class="tooltip" title="Powers up moves if they become critical hits.">Sniper</span> | N/A |
 
 ---
 
@@ -77,7 +77,7 @@ Fearow has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 90 | 70 | 155 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a long, sharp beak that boosts the power of Flying-type moves.">Sharp Beak</span> (50%) |
+| 2 Spd | 90 | 70 | 155 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a long, sharp beak that boosts the power of Flying-type moves.">Sharp Beak</span> (50%) |
 
 ---
 

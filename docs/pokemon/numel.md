@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #322 | ![fire](../assets/types/fire.png "Fire"){: width="48"} ![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.7 m /<br>2.3 ft | 24.0 kg /<br>52.9 lbs | <span class="tooltip" title="Prevents the Pokémon from becoming confused.">Own Tempo</span><br><span class="tooltip" title="The Pokémon is prone to wild stat changes.">Simple</span> | N/A |
+| #322 | ![fire](../assets/types/fire.png "Fire"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.7 m /<br>2.3 ft | 24.0 kg /<br>52.9 lbs | <span class="tooltip" title="Prevents the Pokémon from becoming confused.">Own Tempo</span><br><span class="tooltip" title="The Pokémon is prone to wild stat changes.">Simple</span> | N/A |
 
 ---
 
@@ -83,7 +83,7 @@ Numel has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack | 255 | 70 | 61 | Medium | <span class="tooltip" title="If held by a Pokémon, it recovers from a burn.">Rawst Berry</span> (100%) |
+| 1 Sp. Atk | 255 | 70 | 61 | Medium | <span class="tooltip" title="If held by a Pokémon, it recovers from a burn.">Rawst Berry</span> (100%) |
 
 ---
 

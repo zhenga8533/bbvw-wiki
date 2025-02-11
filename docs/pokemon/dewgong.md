@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #87 | ![water](../assets/types/water.png "Water"){: width="48"} ![ice](../assets/types/ice.png "Ice"){: width="48"} | 1.7 m /<br>5.6 ft | 120.0 kg /<br>264.6 lbs | <span class="tooltip" title="Ups resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br><span class="tooltip" title="Heals status problems if it is raining.">Hydration</span> | N/A |
+| #87 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![ice](../assets/types/ice.png "Ice"){: width="48"} | 1.7 m /<br>5.6 ft | 120.0 kg /<br>264.6 lbs | <span class="tooltip" title="Ups resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br><span class="tooltip" title="Heals status problems if it is raining.">Hydration</span> | N/A |
 
 ---
 
@@ -77,7 +77,7 @@ Dewgong has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Defense | 75 | 70 | 166 | Mediu |
+| 2 Sp. Def | 75 | 70 | 166 | Mediu |
 
 ---
 

@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #121 | ![water](../assets/types/water.png "Water"){: width="48"} ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.1 m /<br>3.6 ft | 80.0 kg /<br>176.4 lbs | <span class="tooltip" title="Restores a little HP when withdrawn from battle.">Regenerator</span><br><span class="tooltip" title="All status problems heal when it switches out.">Natural Cure</span> | N/A |
+| #121 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.1 m /<br>3.6 ft | 80.0 kg /<br>176.4 lbs | <span class="tooltip" title="Restores a little HP when withdrawn from battle.">Regenerator</span><br><span class="tooltip" title="All status problems heal when it switches out.">Natural Cure</span> | N/A |
 
 ---
 
@@ -77,7 +77,7 @@ Starmie has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 60 | 50 | 182 | Slow | <span class="tooltip" title="Lovely, red-colored sand with a loose, silky feel. It can be sold at a high price to shops.">Stardust</span> (50%)<br><span class="tooltip" title="A shard of a pretty gem that sparkles in a red color. It can be sold at a high price to shops.">Star Piece</span> (5%) |
+| 2 Spd | 60 | 50 | 182 | Slow | <span class="tooltip" title="Lovely, red-colored sand with a loose, silky feel. It can be sold at a high price to shops.">Stardust</span> (50%)<br><span class="tooltip" title="A shard of a pretty gem that sparkles in a red color. It can be sold at a high price to shops.">Star Piece</span> (5%) |
 
 ---
 

@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #286 | ![grass](../assets/types/grass.png "Grass"){: width="48"} ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.2 m /<br>3.9 ft | 39.2 kg /<br>86.4 lbs | <span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span><br><span class="tooltip" title="Restores HP if the Pokémon is poisoned.">Poison Heal</span> | N/A |
+| #286 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.2 m /<br>3.9 ft | 39.2 kg /<br>86.4 lbs | <span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span><br><span class="tooltip" title="Restores HP if the Pokémon is poisoned.">Poison Heal</span> | N/A |
 
 ---
 
@@ -77,7 +77,7 @@ Breloom has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 90 | 70 | 161 | Fast Then Very Slow | <span class="tooltip" title="Weakens a supereffective Poison-type attack against the holding Pokémon.">Kebia Berry</span> (5%) |
+| 2 Atk | 90 | 70 | 161 | Fast Then Very Slow | <span class="tooltip" title="Weakens a supereffective Poison-type attack against the holding Pokémon.">Kebia Berry</span> (5%) |
 
 ---
 

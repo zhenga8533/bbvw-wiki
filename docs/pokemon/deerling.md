@@ -58,7 +58,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #585 | ![normal](../assets/types/normal.png "Normal"){: width="48"} ![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.6 m /<br>2.0 ft | 19.5 kg /<br>43.0 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br><span class="tooltip" title="Boosts the likelihood of added effects appearing.">Serene Grace</span> | #91 |
+| #585 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.6 m /<br>2.0 ft | 19.5 kg /<br>43.0 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br><span class="tooltip" title="Boosts the likelihood of added effects appearing.">Serene Grace</span> | #91 |
 
 ---
 
@@ -97,7 +97,7 @@ Deerling has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 190 | 70 | 67 | Medium | N/A |
+| 1 Spd | 190 | 70 | 67 | Medium | N/A |
 
 ---
 

@@ -46,7 +46,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #521 | ![normal](../assets/types/normal.png "Normal"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.2 m /<br>3.9 ft | 29.0 kg /<br>63.9 lbs | <span class="tooltip" title="Boosts the likelihood of added effects appearing.">Serene Grace</span><br><span class="tooltip" title="Heightens the critical- hit ratios of moves.">Super Luck</span> | #27 |
+| #521 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.2 m /<br>3.9 ft | 29.0 kg /<br>63.9 lbs | <span class="tooltip" title="Boosts the likelihood of added effects appearing.">Serene Grace</span><br><span class="tooltip" title="Heightens the critical- hit ratios of moves.">Super Luck</span> | #27 |
 
 ---
 
@@ -87,7 +87,7 @@ Unfezant has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Attack | 45 | 50 | 244 | Medium Slow | N/A |
+| 3 Atk | 45 | 50 | 244 | Medium Slow | N/A |
 
 ---
 

@@ -83,7 +83,7 @@ Raticate has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 127 | 70 | 145 | Medium | <span class="tooltip" title="Weakens a Normal-type attack against the Pokémon holding this berry.">Chilan Berry</span> (50%) |
+| 2 Spd | 127 | 70 | 145 | Medium | <span class="tooltip" title="Weakens a Normal-type attack against the Pokémon holding this berry.">Chilan Berry</span> (50%) |
 
 ---
 

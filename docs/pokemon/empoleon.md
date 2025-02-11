@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #395 | ![water](../assets/types/water.png "Water"){: width="48"} ![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.7 m /<br>5.6 ft | 84.5 kg /<br>186.3 lbs | <span class="tooltip" title="Powers up Water-type moves in a pinch.">Torrent</span><br><span class="tooltip" title="When its stats are lowered its Attack increases.">Defiant</span> | N/A |
+| #395 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.7 m /<br>5.6 ft | 84.5 kg /<br>186.3 lbs | <span class="tooltip" title="Powers up Water-type moves in a pinch.">Torrent</span><br><span class="tooltip" title="When its stats are lowered its Attack increases.">Defiant</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ Empoleon has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Attack | 45 | 70 | 239 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a teardrop-shaped gem that ups the power of Water-type moves.">Mystic Water</span> (50%) |
+| 3 Sp. Atk | 45 | 70 | 239 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a teardrop-shaped gem that ups the power of Water-type moves.">Mystic Water</span> (50%) |
 
 ---
 

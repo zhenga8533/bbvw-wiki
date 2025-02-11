@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #163 | ![normal](../assets/types/normal.png "Normal"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.7 m /<br>2.3 ft | 21.2 kg /<br>46.7 lbs | <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Insomnia</span><br><span class="tooltip" title="Powers up “not very effective” moves.">Tinted Lens</span> | N/A |
+| #163 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.7 m /<br>2.3 ft | 21.2 kg /<br>46.7 lbs | <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Insomnia</span><br><span class="tooltip" title="Powers up “not very effective” moves.">Tinted Lens</span> | N/A |
 
 ---
 
@@ -77,7 +77,7 @@ Hoothoot has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp | 255 | 50 | 52 | Medium | N/A |
+| 1 HP | 255 | 50 | 52 | Medium | N/A |
 
 ---
 

@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #220 | ![ice](../assets/types/ice.png "Ice"){: width="48"} ![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.4 m /<br>1.3 ft | 6.5 kg /<br>14.3 lbs | <span class="tooltip" title="Ups resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br><span class="tooltip" title="Raises evasion in a hailstorm.">Snow Cloak</span> | N/A |
+| #220 | ![ice](../assets/types/ice.png "Ice"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.4 m /<br>1.3 ft | 6.5 kg /<br>14.3 lbs | <span class="tooltip" title="Ups resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br><span class="tooltip" title="Raises evasion in a hailstorm.">Snow Cloak</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ Swinub has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 225 | 50 | 50 | Slo |
+| 1 Atk | 225 | 50 | 50 | Slo |
 
 ---
 

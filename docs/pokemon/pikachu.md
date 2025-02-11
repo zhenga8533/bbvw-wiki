@@ -85,7 +85,7 @@ Pikachu has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 190 | 50 | 112 | Medium | <span class="tooltip" title="An item to be held by Pikachu. It is a puzzling orb that raises the Attack and Sp. Atk stat.">Light Ball</span> (50%)<br><span class="tooltip" title="If held by a Pokémon, it heals the user’s HP a little.">Sitrus Berry</span> (5%) |
+| 2 Spd | 190 | 50 | 112 | Medium | <span class="tooltip" title="An item to be held by Pikachu. It is a puzzling orb that raises the Attack and Sp. Atk stat.">Light Ball</span> (50%)<br><span class="tooltip" title="If held by a Pokémon, it heals the user’s HP a little.">Sitrus Berry</span> (5%) |
 
 ---
 

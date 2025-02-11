@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #333 | ![normal](../assets/types/normal.png "Normal"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.4 m /<br>1.3 ft | 1.2 kg /<br>2.6 lbs | <span class="tooltip" title="All status problems heal when it switches out.">Natural Cure</span><br><span class="tooltip" title="Eliminates the effects of weather.">Cloud Nine</span> | N/A |
+| #333 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.4 m /<br>1.3 ft | 1.2 kg /<br>2.6 lbs | <span class="tooltip" title="All status problems heal when it switches out.">Natural Cure</span><br><span class="tooltip" title="Eliminates the effects of weather.">Cloud Nine</span> | N/A |
 
 ---
 
@@ -77,7 +77,7 @@ Swablu has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense | 255 | 50 | 62 | Slow Then Very Fast | N/A |
+| 1 Sp. Def | 255 | 50 | 62 | Slow Then Very Fast | N/A |
 
 ---
 

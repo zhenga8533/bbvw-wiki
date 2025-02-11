@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #400 | ![normal](../assets/types/normal.png "Normal"){: width="48"} ![water](../assets/types/water.png "Water"){: width="48"} | 1.0 m /<br>3.3 ft | 31.5 kg /<br>69.4 lbs | <span class="tooltip" title="The Pokémon is prone to wild stat changes.">Simple</span><br><span class="tooltip" title="Raises one stat and lowers another.">Moody</span> | N/A |
+| #400 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![water](../assets/types/water.png "Water"){: width="48"} | 1.0 m /<br>3.3 ft | 31.5 kg /<br>69.4 lbs | <span class="tooltip" title="The Pokémon is prone to wild stat changes.">Simple</span><br><span class="tooltip" title="Raises one stat and lowers another.">Moody</span> | N/A |
 
 ---
 
@@ -83,7 +83,7 @@ Bibarel has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 127 | 70 | 144 | Medium | <span class="tooltip" title="If held by a Pokémon,  it heals the user by just 10 HP.">Oran Berry</span> (50%)<br><span class="tooltip" title="If held by a Pokémon, it heals the user’s HP a little.">Sitrus Berry</span> (5%) |
+| 2 Atk | 127 | 70 | 144 | Medium | <span class="tooltip" title="If held by a Pokémon,  it heals the user by just 10 HP.">Oran Berry</span> (50%)<br><span class="tooltip" title="If held by a Pokémon, it heals the user’s HP a little.">Sitrus Berry</span> (5%) |
 
 ---
 

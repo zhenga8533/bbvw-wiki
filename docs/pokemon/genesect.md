@@ -64,7 +64,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #649 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.5 m /<br>4.9 ft | 82.5 kg /<br>181.9 lbs | <span class="tooltip" title="Adjusts power according to a foe’s defenses.">Download</span> | #155 |
+| #649 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.5 m /<br>4.9 ft | 82.5 kg /<br>181.9 lbs | <span class="tooltip" title="Adjusts power according to a foe’s defenses.">Download</span> | #155 |
 
 ---
 
@@ -101,7 +101,7 @@ Genesect has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack<br>1 Special Attack<br>1 Speed | 3 | 0 | 300 | Slow | N/A |
+| 1 Atk<br>1 Sp. Atk<br>1 Spd | 3 | 0 | 300 | Slow | N/A |
 
 ---
 

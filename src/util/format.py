@@ -123,6 +123,31 @@ def format_id(name: str, symbol: str = "-", start_index: int = 0) -> str:
     return name
 
 
+def format_stat(stat: str) -> str:
+    """
+    Format the name of a stat.
+
+    :param stat: Stat to be formatted.
+    :return: Formatted stat.
+    """
+
+    stat = format_id(stat)
+    if stat == "health" or stat == "hp":
+        return "HP"
+    elif stat == "attack":
+        return "Atk"
+    elif stat == "defense":
+        return "Def"
+    elif stat == "special-attack":
+        return "Sp. Atk"
+    elif stat == "special-defense":
+        return "Sp. Def"
+    elif stat == "speed":
+        return "Spd"
+    else:
+        return stat
+
+
 def revert_id(name: str, symbol: str = "-") -> str:
     """
     Revert an ID to a name.

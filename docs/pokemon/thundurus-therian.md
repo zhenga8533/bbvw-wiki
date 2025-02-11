@@ -33,7 +33,7 @@ Latest (Gen VI+):
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #10020 | ![electric](../assets/types/electric.png "Electric"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 3.0 m /<br>9.8 ft | 61.0 kg /<br>134.5 lbs | <span class="tooltip" title="Restores HP if hit by an Electric-type move.">Volt Absorb</span> | #148 |
+| #10020 | ![electric](../assets/types/electric.png "Electric"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 3.0 m /<br>9.8 ft | 61.0 kg /<br>134.5 lbs | <span class="tooltip" title="Restores HP if hit by an Electric-type move.">Volt Absorb</span> | #148 |
 
 ---
 
@@ -75,7 +75,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Attack | 3 | 90 | 290 | Slow | N/A |
+| 3 Sp. Atk | 3 | 90 | 290 | Slow | N/A |
 
 ---
 

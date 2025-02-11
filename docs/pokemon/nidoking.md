@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #34 | ![poison](../assets/types/poison.png "Poison"){: width="48"} ![ground](../assets/types/ground.png "Ground"){: width="48"} | 1.4 m /<br>4.6 ft | 62.0 kg /<br>136.7 lbs | <span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span><br><span class="tooltip" title="Deals more damage to a Pokémon of same gender.">Rivalry</span> | N/A |
+| #34 | ![poison](../assets/types/poison.png "Poison"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 1.4 m /<br>4.6 ft | 62.0 kg /<br>136.7 lbs | <span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span><br><span class="tooltip" title="Deals more damage to a Pokémon of same gender.">Rivalry</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ Nidoking has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Attack | 45 | 50 | 253 | Medium Slow | N/A |
+| 3 Atk | 45 | 50 | 253 | Medium Slow | N/A |
 
 ---
 

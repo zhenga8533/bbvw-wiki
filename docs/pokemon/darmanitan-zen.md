@@ -33,7 +33,7 @@ Latest (Gen VI+):
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #10017 | ![fire](../assets/types/fire.png "Fire"){: width="48"} ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.3 m /<br>4.3 ft | 92.9 kg /<br>204.8 lbs | <span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span><br><span class="tooltip" title="Changes the Pokémon’s shape when HP is halved.">Zen Mode</span> | #61 |
+| #10017 | ![fire](../assets/types/fire.png "Fire"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.3 m /<br>4.3 ft | 92.9 kg /<br>204.8 lbs | <span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span><br><span class="tooltip" title="Changes the Pokémon’s shape when HP is halved.">Zen Mode</span> | #61 |
 
 ---
 
@@ -77,7 +77,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Attack | 60 | 50 | 189 | Medium Slow | <span class="tooltip" title="If held by a Pokémon, it recovers from a burn.">Rawst Berry</span> (50%) |
+| 2 Sp. Atk | 60 | 50 | 189 | Medium Slow | <span class="tooltip" title="If held by a Pokémon, it recovers from a burn.">Rawst Berry</span> (50%) |
 
 ---
 

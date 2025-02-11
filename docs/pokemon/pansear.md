@@ -79,7 +79,7 @@ Pansear has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 190 | 70 | 63 | Medium | <span class="tooltip" title="If held by a Pokémon,  it heals the user by just 10 HP.">Oran Berry</span> (50%)<br><span class="tooltip" title="Weakens a supereffective Water-type attack against the holding Pokémon.">Passho Berry</span> (5%) |
+| 1 Spd | 190 | 70 | 63 | Medium | <span class="tooltip" title="If held by a Pokémon,  it heals the user by just 10 HP.">Oran Berry</span> (50%)<br><span class="tooltip" title="Weakens a supereffective Water-type attack against the holding Pokémon.">Passho Berry</span> (5%) |
 
 ---
 

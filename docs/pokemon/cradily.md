@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #346 | ![rock](../assets/types/rock.png "Rock"){: width="48"} ![grass](../assets/types/grass.png "Grass"){: width="48"} | 1.5 m /<br>4.9 ft | 60.4 kg /<br>133.2 lbs | <span class="tooltip" title="Negates all moves that force switching out.">Suction Cups</span><br><span class="tooltip" title="Draws in all Water-type moves to up Sp. Attack.">Storm Drain</span> | N/A |
+| #346 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![grass](../assets/types/grass.png "Grass"){: width="48"} | 1.5 m /<br>4.9 ft | 60.4 kg /<br>133.2 lbs | <span class="tooltip" title="Negates all moves that force switching out.">Suction Cups</span><br><span class="tooltip" title="Draws in all Water-type moves to up Sp. Attack.">Storm Drain</span> | N/A |
 
 ---
 
@@ -77,7 +77,7 @@ Cradily has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Defense | 45 | 50 | 173 | Slow Then Very Fast | <span class="tooltip" title="A Pokémon held item that boosts the power of HP-stealing moves to let the holder recover more HP.">Big Root</span> (5%) |
+| 2 Sp. Def | 45 | 50 | 173 | Slow Then Very Fast | <span class="tooltip" title="A Pokémon held item that boosts the power of HP-stealing moves to let the holder recover more HP.">Big Root</span> (5%) |
 
 ---
 

@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #75 | ![rock](../assets/types/rock.png "Rock"){: width="48"} ![ground](../assets/types/ground.png "Ground"){: width="48"} | 1.0 m /<br>3.3 ft | 105.0 kg /<br>231.5 lbs | <span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span><br><span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span> | N/A |
+| #75 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 1.0 m /<br>3.3 ft | 105.0 kg /<br>231.5 lbs | <span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span><br><span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span> | N/A |
 
 ---
 
@@ -83,7 +83,7 @@ Graveler has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Defense | 120 | 70 | 137 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. The Pokémon holding this peculiar stone is prevented from evolving.">Everstone</span> (5%) |
+| 2 Def | 120 | 70 | 137 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. The Pokémon holding this peculiar stone is prevented from evolving.">Everstone</span> (5%) |
 
 ---
 

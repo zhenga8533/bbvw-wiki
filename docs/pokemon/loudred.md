@@ -79,7 +79,7 @@ Loudred has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 120 | 50 | 126 | Medium Slow | <span class="tooltip" title="If held by a Pokémon, it recovers from sleep.">Chesto Berry</span> (5%) |
+| 2 HP | 120 | 50 | 126 | Medium Slow | <span class="tooltip" title="If held by a Pokémon, it recovers from sleep.">Chesto Berry</span> (5%) |
 
 ---
 

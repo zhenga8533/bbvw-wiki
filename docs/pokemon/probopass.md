@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #476 | ![rock](../assets/types/rock.png "Rock"){: width="48"} ![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.4 m /<br>4.6 ft | 340.0 kg /<br>749.6 lbs | <span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span><br><span class="tooltip" title="Prevents Steel-type Pokémon from escaping.">Magnet Pull</span> | N/A |
+| #476 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.4 m /<br>4.6 ft | 340.0 kg /<br>749.6 lbs | <span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span><br><span class="tooltip" title="Prevents Steel-type Pokémon from escaping.">Magnet Pull</span> | N/A |
 
 ---
 
@@ -77,7 +77,7 @@ Probopass has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense<br>2 Special Defense | 60 | 70 | 184 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is an unbreakable stone that ups the power of Rock-type moves.">Hard Stone</span> (5%) |
+| 1 Def<br>2 Sp. Def | 60 | 70 | 184 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is an unbreakable stone that ups the power of Rock-type moves.">Hard Stone</span> (5%) |
 
 ---
 

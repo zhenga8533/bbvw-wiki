@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #364 | ![ice](../assets/types/ice.png "Ice"){: width="48"} ![water](../assets/types/water.png "Water"){: width="48"} | 1.1 m /<br>3.6 ft | 87.6 kg /<br>193.1 lbs | <span class="tooltip" title="Ups resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br><span class="tooltip" title="The Pokémon gradually regains HP in a hailstorm.">Ice Body</span> | N/A |
+| #364 | ![ice](../assets/types/ice.png "Ice"){: width="48"}<br>![water](../assets/types/water.png "Water"){: width="48"} | 1.1 m /<br>3.6 ft | 87.6 kg /<br>193.1 lbs | <span class="tooltip" title="Ups resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br><span class="tooltip" title="The Pokémon gradually regains HP in a hailstorm.">Ice Body</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ Sealeo has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 120 | 50 | 144 | Medium Slow | N/A |
+| 2 HP | 120 | 50 | 144 | Medium Slow | N/A |
 
 ---
 

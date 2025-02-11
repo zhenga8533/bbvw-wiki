@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #306 | ![steel](../assets/types/steel.png "Steel"){: width="48"} ![rock](../assets/types/rock.png "Rock"){: width="48"} | 2.1 m /<br>6.9 ft | 360.0 kg /<br>793.7 lbs | <span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span><br><span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span> | N/A |
+| #306 | ![steel](../assets/types/steel.png "Steel"){: width="48"}<br>![rock](../assets/types/rock.png "Rock"){: width="48"} | 2.1 m /<br>6.9 ft | 360.0 kg /<br>793.7 lbs | <span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span><br><span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ Aggron has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Defense | 45 | 35 | 265 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is an unbreakable stone that ups the power of Rock-type moves.">Hard Stone</span> (5%) |
+| 3 Def | 45 | 35 | 265 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is an unbreakable stone that ups the power of Rock-type moves.">Hard Stone</span> (5%) |
 
 ---
 

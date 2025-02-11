@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #557 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![rock](../assets/types/rock.png "Rock"){: width="48"} | 0.3 m /<br>1.0 ft | 14.5 kg /<br>32.0 lbs | <span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span><br><span class="tooltip" title="The Pokémon is protected against critical hits.">Shell Armor</span> | #63 |
+| #557 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![rock](../assets/types/rock.png "Rock"){: width="48"} | 0.3 m /<br>1.0 ft | 14.5 kg /<br>32.0 lbs | <span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span><br><span class="tooltip" title="The Pokémon is protected against critical hits.">Shell Armor</span> | #63 |
 
 ---
 
@@ -79,7 +79,7 @@ Dwebble has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 190 | 50 | 65 | Medium | <span class="tooltip" title="A bone that is extremely valuable for Pokémon archeology. It can be sold for a high price to shops.">Rare Bone</span> (1%)<br><span class="tooltip" title="An item to be held by a Pokémon. It is an unbreakable stone that ups the power of Rock-type moves.">Hard Stone</span> (5%) |
+| 1 Def | 190 | 50 | 65 | Medium | <span class="tooltip" title="A bone that is extremely valuable for Pokémon archeology. It can be sold for a high price to shops.">Rare Bone</span> (1%)<br><span class="tooltip" title="An item to be held by a Pokémon. It is an unbreakable stone that ups the power of Rock-type moves.">Hard Stone</span> (5%) |
 
 ---
 

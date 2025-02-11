@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #313 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![electric](../assets/types/electric.png "Electric"){: width="48"} | 0.7 m /<br>2.3 ft | 17.7 kg /<br>39.0 lbs | <span class="tooltip" title="Gives priority to a status move.">Prankster</span><br><span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span> | N/A |
+| #313 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![electric](../assets/types/electric.png "Electric"){: width="48"} | 0.7 m /<br>2.3 ft | 17.7 kg /<br>39.0 lbs | <span class="tooltip" title="Gives priority to a status move.">Prankster</span><br><span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span> | N/A |
 
 ---
 
@@ -75,7 +75,7 @@ Volbeat has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 150 | 70 | 151 | Slow Then Very Fas |
+| 1 Spd | 150 | 70 | 151 | Slow Then Very Fas |
 
 ---
 

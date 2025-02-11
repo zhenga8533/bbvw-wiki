@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #171 | ![water](../assets/types/water.png "Water"){: width="48"} ![electric](../assets/types/electric.png "Electric"){: width="48"} | 1.2 m /<br>3.9 ft | 22.5 kg /<br>49.6 lbs | <span class="tooltip" title="Restores HP if hit by an Electric-type move.">Volt Absorb</span><br><span class="tooltip" title="Restores HP if hit by a Water-type move.">Water Absorb</span> | N/A |
+| #171 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![electric](../assets/types/electric.png "Electric"){: width="48"} | 1.2 m /<br>3.9 ft | 22.5 kg /<br>49.6 lbs | <span class="tooltip" title="Restores HP if hit by an Electric-type move.">Volt Absorb</span><br><span class="tooltip" title="Restores HP if hit by a Water-type move.">Water Absorb</span> | N/A |
 
 ---
 
@@ -77,7 +77,7 @@ Lanturn has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 75 | 50 | 161 | Slow | <span class="tooltip" title="An item to be held by Clamperl. A scale that shines a faint pink, it raises the Sp. Def stat.">Deep Sea Scale</span> (5%) |
+| 2 HP | 75 | 50 | 161 | Slow | <span class="tooltip" title="An item to be held by Clamperl. A scale that shines a faint pink, it raises the Sp. Def stat.">Deep Sea Scale</span> (5%) |
 
 ---
 

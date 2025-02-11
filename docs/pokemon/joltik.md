@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #595 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![electric](../assets/types/electric.png "Electric"){: width="48"} | 0.1 m /<br>0.3 ft | 0.6 kg /<br>1.3 lbs | <span class="tooltip" title="The Pokémon’s accuracy is boosted.">Compound Eyes</span><br><span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span> | #101 |
+| #595 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![electric](../assets/types/electric.png "Electric"){: width="48"} | 0.1 m /<br>0.3 ft | 0.6 kg /<br>1.3 lbs | <span class="tooltip" title="The Pokémon’s accuracy is boosted.">Compound Eyes</span><br><span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span> | #101 |
 
 ---
 
@@ -79,7 +79,7 @@ Joltik has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 190 | 50 | 64 | Medium | N/A |
+| 1 Spd | 190 | 50 | 64 | Medium | N/A |
 
 ---
 

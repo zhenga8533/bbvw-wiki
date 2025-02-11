@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #469 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.9 m /<br>6.2 ft | 51.5 kg /<br>113.5 lbs | <span class="tooltip" title="Its Speed stat is gradually boosted.">Speed Boost</span><br><span class="tooltip" title="Powers up “not very effective” moves.">Tinted Lens</span> | N/A |
+| #469 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.9 m /<br>6.2 ft | 51.5 kg /<br>113.5 lbs | <span class="tooltip" title="Its Speed stat is gradually boosted.">Speed Boost</span><br><span class="tooltip" title="Powers up “not very effective” moves.">Tinted Lens</span> | N/A |
 
 ---
 
@@ -77,7 +77,7 @@ Yanmega has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 30 | 70 | 180 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a magnifying lens that slightly boosts the accuracy of moves.">Wide Lens</span> (5%) |
+| 2 Atk | 30 | 70 | 180 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a magnifying lens that slightly boosts the accuracy of moves.">Wide Lens</span> (5%) |
 
 ---
 

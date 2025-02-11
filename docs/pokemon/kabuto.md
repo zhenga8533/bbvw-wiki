@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #140 | ![rock](../assets/types/rock.png "Rock"){: width="48"} ![water](../assets/types/water.png "Water"){: width="48"} | 0.5 m /<br>1.6 ft | 11.5 kg /<br>25.4 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br><span class="tooltip" title="The Pokémon is protected against critical hits.">Battle Armor</span> | N/A |
+| #140 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![water](../assets/types/water.png "Water"){: width="48"} | 0.5 m /<br>1.6 ft | 11.5 kg /<br>25.4 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br><span class="tooltip" title="The Pokémon is protected against critical hits.">Battle Armor</span> | N/A |
 
 ---
 
@@ -77,7 +77,7 @@ Kabuto has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 45 | 50 | 71 | Medium | N/A |
+| 1 Def | 45 | 50 | 71 | Medium | N/A |
 
 ---
 

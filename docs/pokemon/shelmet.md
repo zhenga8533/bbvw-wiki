@@ -83,7 +83,7 @@ Shelmet has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 200 | 50 | 61 | Medium | N/A |
+| 1 Def | 200 | 50 | 61 | Medium | N/A |
 
 ---
 

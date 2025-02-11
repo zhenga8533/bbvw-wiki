@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #362 | ![ice](../assets/types/ice.png "Ice"){: width="48"} ![rock](../assets/types/rock.png "Rock"){: width="48"} | 1.5 m /<br>4.9 ft | 256.5 kg /<br>565.5 lbs | <span class="tooltip" title="Reduces damage from supereffective attacks.">Solid Rock</span><br><span class="tooltip" title="Raises one stat and lowers another.">Moody</span> | N/A |
+| #362 | ![ice](../assets/types/ice.png "Ice"){: width="48"}<br>![rock](../assets/types/rock.png "Rock"){: width="48"} | 1.5 m /<br>4.9 ft | 256.5 kg /<br>565.5 lbs | <span class="tooltip" title="Reduces damage from supereffective attacks.">Solid Rock</span><br><span class="tooltip" title="Raises one stat and lowers another.">Moody</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ Glalie has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 75 | 50 | 168 | Medium | <span class="tooltip" title="Weakens a supereffective Steel-type attack against the holding Pokémon.">Babiri Berry</span> (5%) |
+| 2 HP | 75 | 50 | 168 | Medium | <span class="tooltip" title="Weakens a supereffective Steel-type attack against the holding Pokémon.">Babiri Berry</span> (5%) |
 
 ---
 

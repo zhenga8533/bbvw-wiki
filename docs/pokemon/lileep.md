@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #345 | ![rock](../assets/types/rock.png "Rock"){: width="48"} ![grass](../assets/types/grass.png "Grass"){: width="48"} | 1.0 m /<br>3.3 ft | 23.8 kg /<br>52.5 lbs | <span class="tooltip" title="Negates all moves that force switching out.">Suction Cups</span><br><span class="tooltip" title="Draws in all Water-type moves to up Sp. Attack.">Storm Drain</span> | N/A |
+| #345 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![grass](../assets/types/grass.png "Grass"){: width="48"} | 1.0 m /<br>3.3 ft | 23.8 kg /<br>52.5 lbs | <span class="tooltip" title="Negates all moves that force switching out.">Suction Cups</span><br><span class="tooltip" title="Draws in all Water-type moves to up Sp. Attack.">Storm Drain</span> | N/A |
 
 ---
 
@@ -77,7 +77,7 @@ Lileep has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense | 45 | 50 | 71 | Slow Then Very Fast | <span class="tooltip" title="A Pokémon held item that boosts the power of HP-stealing moves to let the holder recover more HP.">Big Root</span> (5%) |
+| 1 Sp. Def | 45 | 50 | 71 | Slow Then Very Fast | <span class="tooltip" title="A Pokémon held item that boosts the power of HP-stealing moves to let the holder recover more HP.">Big Root</span> (5%) |
 
 ---
 

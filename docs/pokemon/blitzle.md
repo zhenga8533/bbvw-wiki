@@ -79,7 +79,7 @@ Blitzle has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 190 | 70 | 59 | Medium | <span class="tooltip" title="If held by a Pokémon,  it recovers from paralysis.">Cheri Berry</span> (50%) |
+| 1 Spd | 190 | 70 | 59 | Medium | <span class="tooltip" title="If held by a Pokémon,  it recovers from paralysis.">Cheri Berry</span> (50%) |
 
 ---
 

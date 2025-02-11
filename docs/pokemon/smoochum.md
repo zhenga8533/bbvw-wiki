@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #238 | ![ice](../assets/types/ice.png "Ice"){: width="48"} ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 0.4 m /<br>1.3 ft | 6.0 kg /<br>13.2 lbs | <span class="tooltip" title="The Pokémon copies a foe’s Ability.">Trace</span><br><span class="tooltip" title="Heals status problems if it is raining.">Hydration</span> | N/A |
+| #238 | ![ice](../assets/types/ice.png "Ice"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 0.4 m /<br>1.3 ft | 6.0 kg /<br>13.2 lbs | <span class="tooltip" title="The Pokémon copies a foe’s Ability.">Trace</span><br><span class="tooltip" title="Heals status problems if it is raining.">Hydration</span> | N/A |
 
 ---
 
@@ -77,7 +77,7 @@ Smoochum has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack | 45 | 50 | 61 | Medium | <span class="tooltip" title="If held by a Pokémon, it defrosts it.">Aspear Berry</span> (100%) |
+| 1 Sp. Atk | 45 | 50 | 61 | Medium | <span class="tooltip" title="If held by a Pokémon, it defrosts it.">Aspear Berry</span> (100%) |
 
 ---
 

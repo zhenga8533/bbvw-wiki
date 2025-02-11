@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #448 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} ![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.2 m /<br>3.9 ft | 54.0 kg /<br>119.0 lbs | <span class="tooltip" title="Raises Speed each time the Pokémon flinches.">Steadfast</span><br><span class="tooltip" title="Raises Attack when hit by a Dark-type move.">Justified</span> | N/A |
+| #448 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"}<br>![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.2 m /<br>3.9 ft | 54.0 kg /<br>119.0 lbs | <span class="tooltip" title="Raises Speed each time the Pokémon flinches.">Steadfast</span><br><span class="tooltip" title="Raises Attack when hit by a Dark-type move.">Justified</span> | N/A |
 
 ---
 
@@ -77,7 +77,7 @@ Lucario has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack<br>1 Special Attack | 45 | 50 | 184 | Medium Slow | N/A |
+| 1 Atk<br>1 Sp. Atk | 45 | 50 | 184 | Medium Slow | N/A |
 
 ---
 

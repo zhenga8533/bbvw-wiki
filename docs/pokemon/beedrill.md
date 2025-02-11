@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #15 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.0 m /<br>3.3 ft | 29.5 kg /<br>65.0 lbs | <span class="tooltip" title="Powers up moves if they become critical hits.">Sniper</span><br><span class="tooltip" title="May poison targets when a Pokémon makes contact.">Poison Touch</span> | N/A |
+| #15 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.0 m /<br>3.3 ft | 29.5 kg /<br>65.0 lbs | <span class="tooltip" title="Powers up moves if they become critical hits.">Sniper</span><br><span class="tooltip" title="May poison targets when a Pokémon makes contact.">Poison Touch</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ Beedrill has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack<br>1 Special Defense | 45 | 70 | 178 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a small, poisonous barb that ups the power of Poison-type moves.">Poison Barb</span> (5%) |
+| 2 Atk<br>1 Sp. Def | 45 | 70 | 178 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a small, poisonous barb that ups the power of Poison-type moves.">Poison Barb</span> (5%) |
 
 ---
 

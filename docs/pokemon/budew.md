@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #406 | ![grass](../assets/types/grass.png "Grass"){: width="48"} ![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.2 m /<br>0.7 ft | 1.2 kg /<br>2.6 lbs | <span class="tooltip" title="All status problems heal when it switches out.">Natural Cure</span><br><span class="tooltip" title="Prevents problems with status in sunny weather.">Leaf Guard</span> | N/A |
+| #406 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.2 m /<br>0.7 ft | 1.2 kg /<br>2.6 lbs | <span class="tooltip" title="All status problems heal when it switches out.">Natural Cure</span><br><span class="tooltip" title="Prevents problems with status in sunny weather.">Leaf Guard</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ Budew has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack | 255 | 200 | 56 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a small, poisonous barb that ups the power of Poison-type moves.">Poison Barb</span> (5%) |
+| 1 Sp. Atk | 255 | 200 | 56 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a small, poisonous barb that ups the power of Poison-type moves.">Poison Barb</span> (5%) |
 
 ---
 

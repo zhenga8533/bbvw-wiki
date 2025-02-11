@@ -77,7 +77,7 @@ Mightyena has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 127 | 70 | 147 | Medium | <span class="tooltip" title="If held by a Pokémon, it recovers from poison.">Pecha Berry</span> (5%) |
+| 2 Atk | 127 | 70 | 147 | Medium | <span class="tooltip" title="If held by a Pokémon, it recovers from poison.">Pecha Berry</span> (5%) |
 
 ---
 

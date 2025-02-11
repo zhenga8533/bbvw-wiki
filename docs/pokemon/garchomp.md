@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #445 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} ![ground](../assets/types/ground.png "Ground"){: width="48"} | 1.9 m /<br>6.2 ft | 95.0 kg /<br>209.4 lbs | <span class="tooltip" title="Boosts the Pokémon’s evasion in a sandstorm.">Sand Veil</span><br><span class="tooltip" title="Inflicts damage to the attacker on contact.">Rough Skin</span> | N/A |
+| #445 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 1.9 m /<br>6.2 ft | 95.0 kg /<br>209.4 lbs | <span class="tooltip" title="Boosts the Pokémon’s evasion in a sandstorm.">Sand Veil</span><br><span class="tooltip" title="Inflicts damage to the attacker on contact.">Rough Skin</span> | N/A |
 
 ---
 
@@ -85,7 +85,7 @@ Garchomp has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Attack | 45 | 50 | 300 | Slow | <span class="tooltip" title="Weakens a supereffective Dragon-type attack against the holding Pokémon.">Haban Berry</span> (5%) |
+| 3 Atk | 45 | 50 | 300 | Slow | <span class="tooltip" title="Weakens a supereffective Dragon-type attack against the holding Pokémon.">Haban Berry</span> (5%) |
 
 ---
 

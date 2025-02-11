@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #169 | ![poison](../assets/types/poison.png "Poison"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.8 m /<br>5.9 ft | 75.0 kg /<br>165.3 lbs | <span class="tooltip" title="The Pokémon is protected from flinching.">Inner Focus</span><br><span class="tooltip" title="Passes through the foe’s barrier and strikes.">Infiltrator</span> | N/A |
+| #169 | ![poison](../assets/types/poison.png "Poison"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.8 m /<br>5.9 ft | 75.0 kg /<br>165.3 lbs | <span class="tooltip" title="The Pokémon is protected from flinching.">Inner Focus</span><br><span class="tooltip" title="Passes through the foe’s barrier and strikes.">Infiltrator</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ Crobat has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Speed | 90 | 140 | 268 | Medium | N/A |
+| 3 Spd | 90 | 140 | 268 | Medium | N/A |
 
 ---
 

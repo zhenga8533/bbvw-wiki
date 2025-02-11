@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #142 | ![rock](../assets/types/rock.png "Rock"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.8 m /<br>5.9 ft | 59.0 kg /<br>130.1 lbs | <span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span><br><span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span> | N/A |
+| #142 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.8 m /<br>5.9 ft | 59.0 kg /<br>130.1 lbs | <span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span><br><span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span> | N/A |
 
 ---
 
@@ -75,7 +75,7 @@ Aerodactyl has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 45 | 50 | 180 | Slow | N/A |
+| 2 Spd | 45 | 50 | 180 | Slow | N/A |
 
 ---
 

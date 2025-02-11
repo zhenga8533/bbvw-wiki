@@ -79,7 +79,7 @@ Minccino has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 255 | 50 | 60 | Fast | <span class="tooltip" title="If held by a Pokémon, it recovers from sleep.">Chesto Berry</span> (50%) |
+| 1 Spd | 255 | 50 | 60 | Fast | <span class="tooltip" title="If held by a Pokémon, it recovers from sleep.">Chesto Berry</span> (50%) |
 
 ---
 

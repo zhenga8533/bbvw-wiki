@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #71 | ![grass](../assets/types/grass.png "Grass"){: width="48"} ![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.7 m /<br>5.6 ft | 15.5 kg /<br>34.2 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br><span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span> | N/A |
+| #71 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.7 m /<br>5.6 ft | 15.5 kg /<br>34.2 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br><span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ Victreebel has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Attack | 45 | 70 | 221 | Medium Slow | N/A |
+| 3 Atk | 45 | 70 | 221 | Medium Slow | N/A |
 
 ---
 

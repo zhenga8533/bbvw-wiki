@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #164 | ![normal](../assets/types/normal.png "Normal"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.6 m /<br>5.2 ft | 40.8 kg /<br>89.9 lbs | <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Insomnia</span><br><span class="tooltip" title="Powers up “not very effective” moves.">Tinted Lens</span> | N/A |
+| #164 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.6 m /<br>5.2 ft | 40.8 kg /<br>89.9 lbs | <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Insomnia</span><br><span class="tooltip" title="Powers up “not very effective” moves.">Tinted Lens</span> | N/A |
 
 ---
 
@@ -77,7 +77,7 @@ Noctowl has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 90 | 50 | 158 | Medium | N/A |
+| 2 HP | 90 | 50 | 158 | Medium | N/A |
 
 ---
 

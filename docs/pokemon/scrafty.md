@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #560 | ![dark](../assets/types/dark.png "Dark"){: width="48"} ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.1 m /<br>3.6 ft | 30.0 kg /<br>66.1 lbs | <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span><br><span class="tooltip" title="Boosts Attack after knocking out any Pokémon.">Moxie</span> | #66 |
+| #560 | ![dark](../assets/types/dark.png "Dark"){: width="48"}<br>![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.1 m /<br>3.6 ft | 30.0 kg /<br>66.1 lbs | <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span><br><span class="tooltip" title="Boosts Attack after knocking out any Pokémon.">Moxie</span> | #66 |
 
 ---
 
@@ -83,7 +83,7 @@ Scrafty has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense<br>1 Special Defense | 90 | 50 | 171 | Medium | <span class="tooltip" title="A tough, discarded carapace to be held by a Pokémon. It enables the holder to switch with a waiting Pokémon in battle.">Shed Shell</span> (5%) |
+| 1 Def<br>1 Sp. Def | 90 | 50 | 171 | Medium | <span class="tooltip" title="A tough, discarded carapace to be held by a Pokémon. It enables the holder to switch with a waiting Pokémon in battle.">Shed Shell</span> (5%) |
 
 ---
 

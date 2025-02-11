@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #374 | ![steel](../assets/types/steel.png "Steel"){: width="48"} ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 0.6 m /<br>2.0 ft | 95.2 kg /<br>209.9 lbs | <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
+| #374 | ![steel](../assets/types/steel.png "Steel"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 0.6 m /<br>2.0 ft | 95.2 kg /<br>209.9 lbs | <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ Beldum has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 3 | 35 | 60 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a special metallic film that ups the power of Steel-type moves.">Metal Coat</span> (5%) |
+| 1 Def | 3 | 35 | 60 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a special metallic film that ups the power of Steel-type moves.">Metal Coat</span> (5%) |
 
 ---
 

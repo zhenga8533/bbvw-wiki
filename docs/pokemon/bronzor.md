@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #436 | ![steel](../assets/types/steel.png "Steel"){: width="48"} ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 0.5 m /<br>1.6 ft | 60.5 kg /<br>133.4 lbs | <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span><br><span class="tooltip" title="Weakens the power of Fire-type moves.">Heatproof</span> | N/A |
+| #436 | ![steel](../assets/types/steel.png "Steel"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 0.5 m /<br>1.6 ft | 60.5 kg /<br>133.4 lbs | <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span><br><span class="tooltip" title="Weakens the power of Fire-type moves.">Heatproof</span> | N/A |
 
 ---
 
@@ -77,7 +77,7 @@ Bronzor has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 255 | 50 | 60 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a special metallic film that ups the power of Steel-type moves.">Metal Coat</span> (5%) |
+| 1 Def | 255 | 50 | 60 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a special metallic film that ups the power of Steel-type moves.">Metal Coat</span> (5%) |
 
 ---
 

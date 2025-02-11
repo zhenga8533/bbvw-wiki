@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #141 | ![rock](../assets/types/rock.png "Rock"){: width="48"} ![water](../assets/types/water.png "Water"){: width="48"} | 1.3 m /<br>4.3 ft | 40.5 kg /<br>89.3 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br><span class="tooltip" title="Prevents other Pokémon from lowering Attack stat.">Hyper Cutter</span> | N/A |
+| #141 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![water](../assets/types/water.png "Water"){: width="48"} | 1.3 m /<br>4.3 ft | 40.5 kg /<br>89.3 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br><span class="tooltip" title="Prevents other Pokémon from lowering Attack stat.">Hyper Cutter</span> | N/A |
 
 ---
 
@@ -77,7 +77,7 @@ Kabutops has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 45 | 50 | 173 | Medium | N/A |
+| 2 Atk | 45 | 50 | 173 | Medium | N/A |
 
 ---
 

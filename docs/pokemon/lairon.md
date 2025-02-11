@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #305 | ![steel](../assets/types/steel.png "Steel"){: width="48"} ![rock](../assets/types/rock.png "Rock"){: width="48"} | 0.9 m /<br>3.0 ft | 120.0 kg /<br>264.6 lbs | <span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span><br><span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span> | N/A |
+| #305 | ![steel](../assets/types/steel.png "Steel"){: width="48"}<br>![rock](../assets/types/rock.png "Rock"){: width="48"} | 0.9 m /<br>3.0 ft | 120.0 kg /<br>264.6 lbs | <span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span><br><span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ Lairon has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Defense | 90 | 35 | 151 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is an unbreakable stone that ups the power of Rock-type moves.">Hard Stone</span> (5%) |
+| 2 Def | 90 | 35 | 151 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is an unbreakable stone that ups the power of Rock-type moves.">Hard Stone</span> (5%) |
 
 ---
 

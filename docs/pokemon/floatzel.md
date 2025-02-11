@@ -83,7 +83,7 @@ Floatzel has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 75 | 70 | 173 | Medium | <span class="tooltip" title="Weakens a supereffective Electric-type attack against the holding Pokémon.">Wacan Berry</span> (5%) |
+| 2 Spd | 75 | 70 | 173 | Medium | <span class="tooltip" title="Weakens a supereffective Electric-type attack against the holding Pokémon.">Wacan Berry</span> (5%) |
 
 ---
 

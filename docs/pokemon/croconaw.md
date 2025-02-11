@@ -79,7 +79,7 @@ Croconaw has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack<br>1 Defense | 45 | 70 | 142 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a teardrop-shaped gem that ups the power of Water-type moves.">Mystic Water</span> (50%) |
+| 1 Atk<br>1 Def | 45 | 70 | 142 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a teardrop-shaped gem that ups the power of Water-type moves.">Mystic Water</span> (50%) |
 
 ---
 

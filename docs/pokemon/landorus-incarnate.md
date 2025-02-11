@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #645 | ![ground](../assets/types/ground.png "Ground"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.5 m /<br>4.9 ft | 68.0 kg /<br>149.9 lbs | <span class="tooltip" title="Boosts certain moves’ power in a sandstorm.">Sand Force</span><br><span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span> | #151 |
+| #645 | ![ground](../assets/types/ground.png "Ground"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.5 m /<br>4.9 ft | 68.0 kg /<br>149.9 lbs | <span class="tooltip" title="Boosts certain moves’ power in a sandstorm.">Sand Force</span><br><span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span> | #151 |
 
 ---
 
@@ -82,7 +82,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Attack | 3 | 90 | 300 | Slow | N/A |
+| 3 Sp. Atk | 3 | 90 | 300 | Slow | N/A |
 
 ---
 

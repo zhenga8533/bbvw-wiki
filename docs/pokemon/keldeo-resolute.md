@@ -33,7 +33,7 @@ Latest (Gen VI+):
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #10024 | ![water](../assets/types/water.png "Water"){: width="48"} ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.4 m /<br>4.6 ft | 48.5 kg /<br>106.9 lbs | <span class="tooltip" title="Raises Attack when hit by a Dark-type move.">Justified</span> | #153 |
+| #10024 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.4 m /<br>4.6 ft | 48.5 kg /<br>106.9 lbs | <span class="tooltip" title="Raises Attack when hit by a Dark-type move.">Justified</span> | #153 |
 
 ---
 
@@ -75,7 +75,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Attack | 3 | 35 | 290 | Slow | N/A |
+| 3 Sp. Atk | 3 | 35 | 290 | Slow | N/A |
 
 ---
 

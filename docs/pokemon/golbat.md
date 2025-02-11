@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #42 | ![poison](../assets/types/poison.png "Poison"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.6 m /<br>5.2 ft | 55.0 kg /<br>121.3 lbs | <span class="tooltip" title="The Pokémon is protected from flinching.">Inner Focus</span><br><span class="tooltip" title="Passes through the foe’s barrier and strikes.">Infiltrator</span> | N/A |
+| #42 | ![poison](../assets/types/poison.png "Poison"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.6 m /<br>5.2 ft | 55.0 kg /<br>121.3 lbs | <span class="tooltip" title="The Pokémon is protected from flinching.">Inner Focus</span><br><span class="tooltip" title="Passes through the foe’s barrier and strikes.">Infiltrator</span> | N/A |
 
 ---
 
@@ -85,7 +85,7 @@ Golbat has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 90 | 140 | 159 | Medium | N/A |
+| 2 Spd | 90 | 140 | 159 | Medium | N/A |
 
 ---
 

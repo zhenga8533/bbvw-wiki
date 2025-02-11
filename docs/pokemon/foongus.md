@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #590 | ![grass](../assets/types/grass.png "Grass"){: width="48"} ![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.2 m /<br>0.7 ft | 1.0 kg /<br>2.2 lbs | <span class="tooltip" title="Contact may poison or cause paralysis or sleep.">Effect Spore</span><br><span class="tooltip" title="Restores a little HP when withdrawn from battle.">Regenerator</span> | #96 |
+| #590 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.2 m /<br>0.7 ft | 1.0 kg /<br>2.2 lbs | <span class="tooltip" title="Contact may poison or cause paralysis or sleep.">Effect Spore</span><br><span class="tooltip" title="Restores a little HP when withdrawn from battle.">Regenerator</span> | #96 |
 
 ---
 
@@ -79,7 +79,7 @@ Foongus has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp | 190 | 50 | 59 | Medium | <span class="tooltip" title="A small and rare mushroom. It is sought after by collectors.">Tiny Mushroom</span> (50%)<br><span class="tooltip" title="A large and rare mushroom. It is sought after by collectors.">Big Mushroom</span> (5%)<br><span class="tooltip" title="A rare mushroom which gives off a nice fragrance. A maniac will buy it for a high price.">Balm Mushroom</span> (1%) |
+| 1 HP | 190 | 50 | 59 | Medium | <span class="tooltip" title="A small and rare mushroom. It is sought after by collectors.">Tiny Mushroom</span> (50%)<br><span class="tooltip" title="A large and rare mushroom. It is sought after by collectors.">Big Mushroom</span> (5%)<br><span class="tooltip" title="A rare mushroom which gives off a nice fragrance. A maniac will buy it for a high price.">Balm Mushroom</span> (1%) |
 
 ---
 

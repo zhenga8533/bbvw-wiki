@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #484 | ![water](../assets/types/water.png "Water"){: width="48"} ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 4.2 m /<br>13.8 ft | 336.0 kg /<br>740.8 lbs | <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br><span class="tooltip" title="Anticipates an ally’s attack and dodges it.">Telepathy</span> | N/A |
+| #484 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 4.2 m /<br>13.8 ft | 336.0 kg /<br>740.8 lbs | <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br><span class="tooltip" title="Anticipates an ally’s attack and dodges it.">Telepathy</span> | N/A |
 
 ---
 
@@ -75,7 +75,7 @@ Palkia has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Attack | 3 | 0 | 340 | Slow | N/A |
+| 3 Sp. Atk | 3 | 0 | 340 | Slow | N/A |
 
 ---
 

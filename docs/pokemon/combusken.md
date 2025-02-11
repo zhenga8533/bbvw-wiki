@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #256 | ![fire](../assets/types/fire.png "Fire"){: width="48"} ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 0.9 m /<br>3.0 ft | 19.5 kg /<br>43.0 lbs | <span class="tooltip" title="Powers up Fire-type moves in a pinch.">Blaze</span><br><span class="tooltip" title="Its Speed stat is gradually boosted.">Speed Boost</span> | N/A |
+| #256 | ![fire](../assets/types/fire.png "Fire"){: width="48"}<br>![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 0.9 m /<br>3.0 ft | 19.5 kg /<br>43.0 lbs | <span class="tooltip" title="Powers up Fire-type moves in a pinch.">Blaze</span><br><span class="tooltip" title="Its Speed stat is gradually boosted.">Speed Boost</span> | N/A |
 
 ---
 
@@ -85,7 +85,7 @@ Combusken has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack<br>1 Special Attack | 45 | 50 | 142 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a combustible fuel that boosts the power of Fire-type moves.">Charcoal</span> (50%) |
+| 1 Atk<br>1 Sp. Atk | 45 | 50 | 142 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a combustible fuel that boosts the power of Fire-type moves.">Charcoal</span> (50%) |
 
 ---
 

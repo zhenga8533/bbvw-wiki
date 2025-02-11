@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #545 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![poison](../assets/types/poison.png "Poison"){: width="48"} | 2.5 m /<br>8.2 ft | 200.5 kg /<br>442.0 lbs | <span class="tooltip" title="May poison targets when a Pokémon makes contact.">Poison Touch</span><br><span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span> | #51 |
+| #545 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 2.5 m /<br>8.2 ft | 200.5 kg /<br>442.0 lbs | <span class="tooltip" title="May poison targets when a Pokémon makes contact.">Poison Touch</span><br><span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span> | #51 |
 
 ---
 
@@ -81,7 +81,7 @@ Scolipede has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Speed | 45 | 50 | 243 | Medium Slow | <span class="tooltip" title="If held by a Pokémon, it recovers from poison.">Pecha Berry</span> (50%)<br><span class="tooltip" title="An item to be held by a Pokémon. It is a small, poisonous barb that ups the power of Poison-type moves.">Poison Barb</span> (5%) |
+| 3 Spd | 45 | 50 | 243 | Medium Slow | <span class="tooltip" title="If held by a Pokémon, it recovers from poison.">Pecha Berry</span> (50%)<br><span class="tooltip" title="An item to be held by a Pokémon. It is a small, poisonous barb that ups the power of Poison-type moves.">Poison Barb</span> (5%) |
 
 ---
 

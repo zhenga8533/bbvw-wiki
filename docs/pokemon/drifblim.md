@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #426 | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.2 m /<br>3.9 ft | 15.0 kg /<br>33.1 lbs | <span class="tooltip" title="Powers up special attacks when burned.">Flare Boost</span><br><span class="tooltip" title="Raises Speed if a held item is used.">Unburden</span> | N/A |
+| #426 | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.2 m /<br>3.9 ft | 15.0 kg /<br>33.1 lbs | <span class="tooltip" title="Powers up special attacks when burned.">Flare Boost</span><br><span class="tooltip" title="Raises Speed if a held item is used.">Unburden</span> | N/A |
 
 ---
 
@@ -77,7 +77,7 @@ Drifblim has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 60 | 50 | 174 | Fast Then Very Slo |
+| 2 HP | 60 | 50 | 174 | Fast Then Very Slo |
 
 ---
 

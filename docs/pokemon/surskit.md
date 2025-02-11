@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #283 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![water](../assets/types/water.png "Water"){: width="48"} | 0.5 m /<br>1.6 ft | 1.7 kg /<br>3.7 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br><span class="tooltip" title="The Pokémon gradually regains HP in rain.">Rain Dish</span> | N/A |
+| #283 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![water](../assets/types/water.png "Water"){: width="48"} | 0.5 m /<br>1.6 ft | 1.7 kg /<br>3.7 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br><span class="tooltip" title="The Pokémon gradually regains HP in rain.">Rain Dish</span> | N/A |
 
 ---
 
@@ -77,7 +77,7 @@ Surskit has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 200 | 70 | 54 | Mediu |
+| 1 Spd | 200 | 70 | 54 | Mediu |
 
 ---
 

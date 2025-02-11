@@ -83,7 +83,7 @@ Karrablast has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 200 | 50 | 63 | Medium | N/A |
+| 1 Atk | 200 | 50 | 63 | Medium | N/A |
 
 ---
 

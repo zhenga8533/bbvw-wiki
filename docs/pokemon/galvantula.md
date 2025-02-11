@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #596 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![electric](../assets/types/electric.png "Electric"){: width="48"} | 0.8 m /<br>2.6 ft | 14.3 kg /<br>31.5 lbs | <span class="tooltip" title="The Pokémon’s accuracy is boosted.">Compound Eyes</span><br><span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span> | #102 |
+| #596 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![electric](../assets/types/electric.png "Electric"){: width="48"} | 0.8 m /<br>2.6 ft | 14.3 kg /<br>31.5 lbs | <span class="tooltip" title="The Pokémon’s accuracy is boosted.">Compound Eyes</span><br><span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span> | #102 |
 
 ---
 
@@ -79,7 +79,7 @@ Galvantula has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 75 | 50 | 165 | Medium | N/A |
+| 2 Spd | 75 | 50 | 165 | Medium | N/A |
 
 ---
 

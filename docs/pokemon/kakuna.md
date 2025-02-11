@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #14 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.6 m /<br>2.0 ft | 10.0 kg /<br>22.0 lbs | <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span><br><span class="tooltip" title="The Pokémon is protected against critical hits.">Battle Armor</span> | N/A |
+| #14 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.6 m /<br>2.0 ft | 10.0 kg /<br>22.0 lbs | <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span><br><span class="tooltip" title="The Pokémon is protected against critical hits.">Battle Armor</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ Kakuna has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Defense | 120 | 70 | 72 | Medium | N/A |
+| 2 Def | 120 | 70 | 72 | Medium | N/A |
 
 ---
 

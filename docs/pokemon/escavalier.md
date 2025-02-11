@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #589 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.0 m /<br>3.3 ft | 33.0 kg /<br>72.8 lbs | <span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span><br><span class="tooltip" title="Ensures attacks by or against the Pokémon land.">No Guard</span> | #95 |
+| #589 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.0 m /<br>3.3 ft | 33.0 kg /<br>72.8 lbs | <span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span><br><span class="tooltip" title="Ensures attacks by or against the Pokémon land.">No Guard</span> | #95 |
 
 ---
 
@@ -79,7 +79,7 @@ Escavalier has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 75 | 50 | 173 | Medium | N/A |
+| 2 Atk | 75 | 50 | 173 | Medium | N/A |
 
 ---
 

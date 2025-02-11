@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #343 | ![ground](../assets/types/ground.png "Ground"){: width="48"} ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 0.5 m /<br>1.6 ft | 21.5 kg /<br>47.4 lbs | <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
+| #343 | ![ground](../assets/types/ground.png "Ground"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 0.5 m /<br>1.6 ft | 21.5 kg /<br>47.4 lbs | <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
 
 ---
 
@@ -77,7 +77,7 @@ Baltoy has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense | 255 | 50 | 60 | Mediu |
+| 1 Sp. Def | 255 | 50 | 60 | Mediu |
 
 ---
 

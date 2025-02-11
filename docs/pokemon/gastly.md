@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #92 | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} ![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.3 m /<br>4.3 ft | 0.1 kg /<br>0.2 lbs | <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
+| #92 | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.3 m /<br>4.3 ft | 0.1 kg /<br>0.2 lbs | <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ Gastly has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack | 190 | 50 | 62 | Medium Slow | N/A |
+| 1 Sp. Atk | 190 | 50 | 62 | Medium Slow | N/A |
 
 ---
 

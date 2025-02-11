@@ -46,7 +46,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #593 | ![water](../assets/types/water.png "Water"){: width="48"} ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | 2.2 m /<br>7.2 ft | 135.0 kg /<br>297.6 lbs | <span class="tooltip" title="Restores HP if hit by a Water-type move.">Water Absorb</span><br><span class="tooltip" title="May disable a move used on the Pokémon.">Cursed Body</span> | #99 |
+| #593 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | 2.2 m /<br>7.2 ft | 135.0 kg /<br>297.6 lbs | <span class="tooltip" title="Restores HP if hit by a Water-type move.">Water Absorb</span><br><span class="tooltip" title="May disable a move used on the Pokémon.">Cursed Body</span> | #99 |
 
 ---
 
@@ -85,7 +85,7 @@ Jellicent has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Defense | 60 | 50 | 168 | Medium | N/A |
+| 2 Sp. Def | 60 | 50 | 168 | Medium | N/A |
 
 ---
 

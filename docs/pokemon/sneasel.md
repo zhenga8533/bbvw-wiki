@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #215 | ![dark](../assets/types/dark.png "Dark"){: width="48"} ![ice](../assets/types/ice.png "Ice"){: width="48"} | 0.9 m /<br>3.0 ft | 28.0 kg /<br>61.7 lbs | <span class="tooltip" title="Steals an item when hit by another Pokémon.">Pickpocket</span><br><span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span> | N/A |
+| #215 | ![dark](../assets/types/dark.png "Dark"){: width="48"}<br>![ice](../assets/types/ice.png "Ice"){: width="48"} | 0.9 m /<br>3.0 ft | 28.0 kg /<br>61.7 lbs | <span class="tooltip" title="Steals an item when hit by another Pokémon.">Pickpocket</span><br><span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span> | N/A |
 
 ---
 
@@ -83,7 +83,7 @@ Sneasel has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 60 | 35 | 86 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. A light, sharp claw that lets the bearer move first occasionally.">Quick Claw</span> (5%)<br><span class="tooltip" title="A Pokémon held item that extends the duration of multiturn attacks like Bind and Wrap.">Grip Claw</span> (50%) |
+| 1 Spd | 60 | 35 | 86 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. A light, sharp claw that lets the bearer move first occasionally.">Quick Claw</span> (5%)<br><span class="tooltip" title="A Pokémon held item that extends the duration of multiturn attacks like Bind and Wrap.">Grip Claw</span> (50%) |
 
 ---
 

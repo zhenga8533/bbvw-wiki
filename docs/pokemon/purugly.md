@@ -77,7 +77,7 @@ Purugly has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 75 | 70 | 158 | Fast | <span class="tooltip" title="If held by a Pokémon,  it recovers from paralysis.">Cheri Berry</span> (5%) |
+| 2 Spd | 75 | 70 | 158 | Fast | <span class="tooltip" title="If held by a Pokémon,  it recovers from paralysis.">Cheri Berry</span> (5%) |
 
 ---
 

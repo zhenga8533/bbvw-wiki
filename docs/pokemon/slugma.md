@@ -77,7 +77,7 @@ Slugma has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack | 190 | 70 | 50 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a bizarre orb that inflicts a burn on the holder in battle.">Flame Orb</span> (50%) |
+| 1 Sp. Atk | 190 | 70 | 50 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a bizarre orb that inflicts a burn on the holder in battle.">Flame Orb</span> (50%) |
 
 ---
 

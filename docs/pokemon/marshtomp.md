@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #259 | ![water](../assets/types/water.png "Water"){: width="48"} ![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.7 m /<br>2.3 ft | 28.0 kg /<br>61.7 lbs | <span class="tooltip" title="Powers up Water-type moves in a pinch.">Torrent</span><br><span class="tooltip" title="Moves can be used regardless of Abilities.">Mold Breaker</span> | N/A |
+| #259 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.7 m /<br>2.3 ft | 28.0 kg /<br>61.7 lbs | <span class="tooltip" title="Powers up Water-type moves in a pinch.">Torrent</span><br><span class="tooltip" title="Moves can be used regardless of Abilities.">Mold Breaker</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ Marshtomp has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 45 | 50 | 142 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a teardrop-shaped gem that ups the power of Water-type moves.">Mystic Water</span> (50%) |
+| 2 Atk | 45 | 50 | 142 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a teardrop-shaped gem that ups the power of Water-type moves.">Mystic Water</span> (50%) |
 
 ---
 

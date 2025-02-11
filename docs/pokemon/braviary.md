@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #628 | ![normal](../assets/types/normal.png "Normal"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.5 m /<br>4.9 ft | 41.0 kg /<br>90.4 lbs | <span class="tooltip" title="When its stats are lowered its Attack increases.">Defiant</span><br><span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span> | #134 |
+| #628 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.5 m /<br>4.9 ft | 41.0 kg /<br>90.4 lbs | <span class="tooltip" title="When its stats are lowered its Attack increases.">Defiant</span><br><span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span> | #134 |
 
 ---
 
@@ -79,7 +79,7 @@ Braviary has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 60 | 50 | 179 | Slow | N/A |
+| 2 Atk | 60 | 50 | 179 | Slow | N/A |
 
 ---
 

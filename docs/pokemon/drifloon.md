@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #425 | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.4 m /<br>1.3 ft | 1.2 kg /<br>2.6 lbs | <span class="tooltip" title="Powers up special attacks when burned.">Flare Boost</span><br><span class="tooltip" title="Raises Speed if a held item is used.">Unburden</span> | N/A |
+| #425 | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.4 m /<br>1.3 ft | 1.2 kg /<br>2.6 lbs | <span class="tooltip" title="Powers up special attacks when burned.">Flare Boost</span><br><span class="tooltip" title="Raises Speed if a held item is used.">Unburden</span> | N/A |
 
 ---
 
@@ -77,7 +77,7 @@ Drifloon has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp | 125 | 50 | 70 | Fast Then Very Slow | N/A |
+| 1 HP | 125 | 50 | 70 | Fast Then Very Slow | N/A |
 
 ---
 

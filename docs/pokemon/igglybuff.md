@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #174 | ![normal](../assets/types/normal.png "Normal"){: width="48"} ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.3 m /<br>1.0 ft | 1.0 kg /<br>2.2 lbs | <span class="tooltip" title="Contact with the Pokémon may cause infatuation.">Cute Charm</span><br><span class="tooltip" title="Reduces damage done to allies.">Friend Guard</span> | N/A |
+| #174 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.3 m /<br>1.0 ft | 1.0 kg /<br>2.2 lbs | <span class="tooltip" title="Contact with the Pokémon may cause infatuation.">Cute Charm</span><br><span class="tooltip" title="Reduces damage done to allies.">Friend Guard</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ Igglybuff has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp | 170 | 200 | 42 | Fas |
+| 1 HP | 170 | 200 | 42 | Fas |
 
 ---
 

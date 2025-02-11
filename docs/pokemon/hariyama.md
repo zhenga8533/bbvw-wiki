@@ -77,7 +77,7 @@ Hariyama has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 200 | 70 | 166 | Fast Then Very Slow | <span class="tooltip" title="An item to be held by a Pokémon. When the holder inflicts damage, the target may flinch.">Kings Rock</span> (5%) |
+| 2 HP | 200 | 70 | 166 | Fast Then Very Slow | <span class="tooltip" title="An item to be held by a Pokémon. When the holder inflicts damage, the target may flinch.">Kings Rock</span> (5%) |
 
 ---
 

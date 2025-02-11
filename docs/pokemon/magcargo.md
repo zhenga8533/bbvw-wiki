@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #219 | ![fire](../assets/types/fire.png "Fire"){: width="48"} ![rock](../assets/types/rock.png "Rock"){: width="48"} | 0.8 m /<br>2.6 ft | 55.0 kg /<br>121.3 lbs | <span class="tooltip" title="Reduces damage from supereffective attacks.">Solid Rock</span><br><span class="tooltip" title="Contact with the Pokémon may burn the attacker.">Flame Body</span> | N/A |
+| #219 | ![fire](../assets/types/fire.png "Fire"){: width="48"}<br>![rock](../assets/types/rock.png "Rock"){: width="48"} | 0.8 m /<br>2.6 ft | 55.0 kg /<br>121.3 lbs | <span class="tooltip" title="Reduces damage from supereffective attacks.">Solid Rock</span><br><span class="tooltip" title="Contact with the Pokémon may burn the attacker.">Flame Body</span> | N/A |
 
 ---
 
@@ -77,7 +77,7 @@ Magcargo has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Defense | 75 | 70 | 151 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a bizarre orb that inflicts a burn on the holder in battle.">Flame Orb</span> (50%) |
+| 2 Def | 75 | 70 | 151 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a bizarre orb that inflicts a burn on the holder in battle.">Flame Orb</span> (50%) |
 
 ---
 

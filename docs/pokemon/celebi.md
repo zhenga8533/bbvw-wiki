@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #251 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} ![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.6 m /<br>2.0 ft | 5.0 kg /<br>11.0 lbs | <span class="tooltip" title="All status problems heal when it switches out.">Natural Cure</span><br><span class="tooltip" title="The Pokémon only takes damage from attacks.">Magic Guard</span> | N/A |
+| #251 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"}<br>![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.6 m /<br>2.0 ft | 5.0 kg /<br>11.0 lbs | <span class="tooltip" title="All status problems heal when it switches out.">Natural Cure</span><br><span class="tooltip" title="The Pokémon only takes damage from attacks.">Magic Guard</span> | N/A |
 
 ---
 
@@ -75,7 +75,7 @@ Celebi has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Hp | 45 | 100 | 300 | Medium Slow | <span class="tooltip" title="If held by a Pokémon and a physical attack lands, the attacker also takes damage.">Jaboca Berry</span> (100%) |
+| 3 HP | 45 | 100 | 300 | Medium Slow | <span class="tooltip" title="If held by a Pokémon and a physical attack lands, the attacker also takes damage.">Jaboca Berry</span> (100%) |
 
 ---
 

@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #46 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.3 m /<br>1.0 ft | 5.4 kg /<br>11.9 lbs | <span class="tooltip" title="Contact may poison or cause paralysis or sleep.">Effect Spore</span><br><span class="tooltip" title="Reduces HP if it is hot. Water restores HP.">Dry Skin</span> | N/A |
+| #46 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.3 m /<br>1.0 ft | 5.4 kg /<br>11.9 lbs | <span class="tooltip" title="Contact may poison or cause paralysis or sleep.">Effect Spore</span><br><span class="tooltip" title="Reduces HP if it is hot. Water restores HP.">Dry Skin</span> | N/A |
 
 ---
 
@@ -77,7 +77,7 @@ Paras has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 190 | 70 | 57 | Medium | <span class="tooltip" title="A small and rare mushroom. It is sought after by collectors.">Tiny Mushroom</span> (50%)<br><span class="tooltip" title="A large and rare mushroom. It is sought after by collectors.">Big Mushroom</span> (5%)<br><span class="tooltip" title="A rare mushroom which gives off a nice fragrance. A maniac will buy it for a high price.">Balm Mushroom</span> (1%) |
+| 1 Atk | 190 | 70 | 57 | Medium | <span class="tooltip" title="A small and rare mushroom. It is sought after by collectors.">Tiny Mushroom</span> (50%)<br><span class="tooltip" title="A large and rare mushroom. It is sought after by collectors.">Big Mushroom</span> (5%)<br><span class="tooltip" title="A rare mushroom which gives off a nice fragrance. A maniac will buy it for a high price.">Balm Mushroom</span> (1%) |
 
 ---
 

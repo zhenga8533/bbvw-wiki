@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #94 | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} ![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.5 m /<br>4.9 ft | 40.5 kg /<br>89.3 lbs | <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
+| #94 | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.5 m /<br>4.9 ft | 40.5 kg /<br>89.3 lbs | <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ Gengar has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Attack | 45 | 50 | 250 | Medium Slo |
+| 3 Sp. Atk | 45 | 50 | 250 | Medium Slo |
 
 ---
 

@@ -79,7 +79,7 @@ Togepi has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense | 190 | 200 | 49 | Fast | N/A |
+| 1 Sp. Def | 190 | 200 | 49 | Fast | N/A |
 
 ---
 

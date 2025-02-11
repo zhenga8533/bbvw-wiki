@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #442 | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} ![dark](../assets/types/dark.png "Dark"){: width="48"} | 1.0 m /<br>3.3 ft | 108.0 kg /<br>238.1 lbs | <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br><span class="tooltip" title="May disable a move used on the Pokémon.">Cursed Body</span> | N/A |
+| #442 | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"}<br>![dark](../assets/types/dark.png "Dark"){: width="48"} | 1.0 m /<br>3.3 ft | 108.0 kg /<br>238.1 lbs | <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br><span class="tooltip" title="May disable a move used on the Pokémon.">Cursed Body</span> | N/A |
 
 ---
 
@@ -75,7 +75,7 @@ Spiritomb has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense<br>1 Special Defense | 100 | 50 | 170 | Medium | N/A |
+| 1 Def<br>1 Sp. Def | 100 | 50 | 170 | Medium | N/A |
 
 ---
 

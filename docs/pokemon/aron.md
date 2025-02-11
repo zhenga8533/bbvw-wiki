@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #304 | ![steel](../assets/types/steel.png "Steel"){: width="48"} ![rock](../assets/types/rock.png "Rock"){: width="48"} | 0.4 m /<br>1.3 ft | 60.0 kg /<br>132.3 lbs | <span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span><br><span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span> | N/A |
+| #304 | ![steel](../assets/types/steel.png "Steel"){: width="48"}<br>![rock](../assets/types/rock.png "Rock"){: width="48"} | 0.4 m /<br>1.3 ft | 60.0 kg /<br>132.3 lbs | <span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span><br><span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ Aron has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 180 | 35 | 66 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is an unbreakable stone that ups the power of Rock-type moves.">Hard Stone</span> (5%) |
+| 1 Def | 180 | 35 | 66 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is an unbreakable stone that ups the power of Rock-type moves.">Hard Stone</span> (5%) |
 
 ---
 

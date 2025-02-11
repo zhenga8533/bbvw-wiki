@@ -77,7 +77,7 @@ Chingling has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack | 120 | 200 | 57 | Fast | <span class="tooltip" title="Weakens a supereffective Dark-type attack against the holding Pokémon.">Colbur Berry</span> (5%) |
+| 1 Sp. Atk | 120 | 200 | 57 | Fast | <span class="tooltip" title="Weakens a supereffective Dark-type attack against the holding Pokémon.">Colbur Berry</span> (5%) |
 
 ---
 

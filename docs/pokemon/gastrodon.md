@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #423 | ![water](../assets/types/water.png "Water"){: width="48"} ![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.9 m /<br>3.0 ft | 29.9 kg /<br>65.9 lbs | <span class="tooltip" title="Protects the Pokémon from item theft.">Sticky Hold</span><br><span class="tooltip" title="Draws in all Water-type moves to up Sp. Attack.">Storm Drain</span> | N/A |
+| #423 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.9 m /<br>3.0 ft | 29.9 kg /<br>65.9 lbs | <span class="tooltip" title="Protects the Pokémon from item theft.">Sticky Hold</span><br><span class="tooltip" title="Draws in all Water-type moves to up Sp. Attack.">Storm Drain</span> | N/A |
 
 ---
 
@@ -83,7 +83,7 @@ Gastrodon has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 75 | 50 | 166 | Medium | N/A |
+| 2 HP | 75 | 50 | 166 | Medium | N/A |
 
 ---
 

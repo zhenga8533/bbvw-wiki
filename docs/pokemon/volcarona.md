@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #637 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![fire](../assets/types/fire.png "Fire"){: width="48"} | 1.6 m /<br>5.2 ft | 46.0 kg /<br>101.4 lbs | <span class="tooltip" title="Turns the sunlight harsh if it is in battle.">Drought</span> | #143 |
+| #637 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![fire](../assets/types/fire.png "Fire"){: width="48"} | 1.6 m /<br>5.2 ft | 46.0 kg /<br>101.4 lbs | <span class="tooltip" title="Turns the sunlight harsh if it is in battle.">Drought</span> | #143 |
 
 ---
 
@@ -79,7 +79,7 @@ Volcarona has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Attack | 15 | 50 | 275 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a shiny, silver powder that ups the power of Bug-type moves.">Silver Powder</span> (100%) |
+| 3 Sp. Atk | 15 | 50 | 275 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a shiny, silver powder that ups the power of Bug-type moves.">Silver Powder</span> (100%) |
 
 ---
 

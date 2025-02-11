@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #559 | ![dark](../assets/types/dark.png "Dark"){: width="48"} ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 0.6 m /<br>2.0 ft | 11.8 kg /<br>26.0 lbs | <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span><br><span class="tooltip" title="Boosts Attack after knocking out any Pokémon.">Moxie</span> | #65 |
+| #559 | ![dark](../assets/types/dark.png "Dark"){: width="48"}<br>![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 0.6 m /<br>2.0 ft | 11.8 kg /<br>26.0 lbs | <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span><br><span class="tooltip" title="Boosts Attack after knocking out any Pokémon.">Moxie</span> | #65 |
 
 ---
 
@@ -83,7 +83,7 @@ Scraggy has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 180 | 35 | 70 | Medium | <span class="tooltip" title="A tough, discarded carapace to be held by a Pokémon. It enables the holder to switch with a waiting Pokémon in battle.">Shed Shell</span> (5%) |
+| 1 Atk | 180 | 35 | 70 | Medium | <span class="tooltip" title="A tough, discarded carapace to be held by a Pokémon. It enables the holder to switch with a waiting Pokémon in battle.">Shed Shell</span> (5%) |
 
 ---
 

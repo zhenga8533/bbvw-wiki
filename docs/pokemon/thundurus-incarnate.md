@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #642 | ![electric](../assets/types/electric.png "Electric"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.5 m /<br>4.9 ft | 61.0 kg /<br>134.5 lbs | <span class="tooltip" title="Gives priority to a status move.">Prankster</span><br><span class="tooltip" title="When its stats are lowered its Attack increases.">Defiant</span> | #148 |
+| #642 | ![electric](../assets/types/electric.png "Electric"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.5 m /<br>4.9 ft | 61.0 kg /<br>134.5 lbs | <span class="tooltip" title="Gives priority to a status move.">Prankster</span><br><span class="tooltip" title="When its stats are lowered its Attack increases.">Defiant</span> | #148 |
 
 ---
 
@@ -82,7 +82,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Attack | 3 | 90 | 290 | Slow | N/A |
+| 3 Atk | 3 | 90 | 290 | Slow | N/A |
 
 ---
 

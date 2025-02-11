@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #542 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![grass](../assets/types/grass.png "Grass"){: width="48"} | 1.2 m /<br>3.9 ft | 20.5 kg /<br>45.2 lbs | <span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span><br><span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span> | #48 |
+| #542 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![grass](../assets/types/grass.png "Grass"){: width="48"} | 1.2 m /<br>3.9 ft | 20.5 kg /<br>45.2 lbs | <span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span><br><span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span> | #48 |
 
 ---
 
@@ -81,7 +81,7 @@ Leavanny has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Attack | 45 | 180 | 225 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It snaps the holder out of infatuation. It can be used only once.">Mental Herb</span> (5%) |
+| 3 Atk | 45 | 180 | 225 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It snaps the holder out of infatuation. It can be used only once.">Mental Herb</span> (5%) |
 
 ---
 

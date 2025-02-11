@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #203 | ![normal](../assets/types/normal.png "Normal"){: width="48"} ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.5 m /<br>4.9 ft | 41.5 kg /<br>91.5 lbs | <span class="tooltip" title="Boosts Attack when hit by a Grass-type move.">Sap Sipper</span><br><span class="tooltip" title="The Pokémon awakens quickly from sleep.">Early Bird</span> | N/A |
+| #203 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.5 m /<br>4.9 ft | 41.5 kg /<br>91.5 lbs | <span class="tooltip" title="Boosts Attack when hit by a Grass-type move.">Sap Sipper</span><br><span class="tooltip" title="The Pokémon awakens quickly from sleep.">Early Bird</span> | N/A |
 
 ---
 
@@ -81,7 +81,7 @@ Girafarig has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Attack | 60 | 70 | 159 | Medium | <span class="tooltip" title="If held by a Pokémon, it recovers from confusion.">Persim Berry</span> (5%) |
+| 2 Sp. Atk | 60 | 70 | 159 | Medium | <span class="tooltip" title="If held by a Pokémon, it recovers from confusion.">Persim Berry</span> (5%) |
 
 ---
 

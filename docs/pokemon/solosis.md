@@ -81,7 +81,7 @@ Solosis has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack | 200 | 50 | 58 | Medium Slo |
+| 1 Sp. Atk | 200 | 50 | 58 | Medium Slo |
 
 ---
 

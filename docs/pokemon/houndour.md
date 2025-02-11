@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #228 | ![dark](../assets/types/dark.png "Dark"){: width="48"} ![fire](../assets/types/fire.png "Fire"){: width="48"} | 0.6 m /<br>2.0 ft | 10.8 kg /<br>23.8 lbs | <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br><span class="tooltip" title="It powers up Fire-type moves if it’s hit by one.">Flash Fire</span> | N/A |
+| #228 | ![dark](../assets/types/dark.png "Dark"){: width="48"}<br>![fire](../assets/types/fire.png "Fire"){: width="48"} | 0.6 m /<br>2.0 ft | 10.8 kg /<br>23.8 lbs | <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br><span class="tooltip" title="It powers up Fire-type moves if it’s hit by one.">Flash Fire</span> | N/A |
 
 ---
 
@@ -77,7 +77,7 @@ Houndour has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack | 120 | 35 | 66 | Slow | N/A |
+| 1 Sp. Atk | 120 | 35 | 66 | Slow | N/A |
 
 ---
 

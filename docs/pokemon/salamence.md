@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #373 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.5 m /<br>4.9 ft | 102.6 kg /<br>226.2 lbs | <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br><span class="tooltip" title="Boosts Attack after knocking out any Pokémon.">Moxie</span> | N/A |
+| #373 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.5 m /<br>4.9 ft | 102.6 kg /<br>226.2 lbs | <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br><span class="tooltip" title="Boosts Attack after knocking out any Pokémon.">Moxie</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ Salamence has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Attack | 45 | 35 | 300 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a hard and sharp fang that ups the power of Dragon-type moves.">Dragon Fang</span> (5%) |
+| 3 Atk | 45 | 35 | 300 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a hard and sharp fang that ups the power of Dragon-type moves.">Dragon Fang</span> (5%) |
 
 ---
 

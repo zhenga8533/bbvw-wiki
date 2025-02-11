@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #397 | ![normal](../assets/types/normal.png "Normal"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.6 m /<br>2.0 ft | 15.5 kg /<br>34.2 lbs | <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br><span class="tooltip" title="Powers up moves that have recoil damage.">Reckless</span> | N/A |
+| #397 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.6 m /<br>2.0 ft | 15.5 kg /<br>34.2 lbs | <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br><span class="tooltip" title="Powers up moves that have recoil damage.">Reckless</span> | N/A |
 
 ---
 
@@ -85,7 +85,7 @@ Staravia has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 120 | 70 | 119 | Medium Slow | <span class="tooltip" title="Weakens a supereffective Ice-type attack against the holding Pokémon.">Yache Berry</span> (5%) |
+| 2 Spd | 120 | 70 | 119 | Medium Slow | <span class="tooltip" title="Weakens a supereffective Ice-type attack against the holding Pokémon.">Yache Berry</span> (5%) |
 
 ---
 

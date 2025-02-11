@@ -79,7 +79,7 @@ Cubchoo has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 120 | 50 | 61 | Medium | <span class="tooltip" title="If held by a Pokémon, it defrosts it.">Aspear Berry</span> (50%) |
+| 1 Atk | 120 | 50 | 61 | Medium | <span class="tooltip" title="If held by a Pokémon, it defrosts it.">Aspear Berry</span> (50%) |
 
 ---
 

@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #643 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} ![fire](../assets/types/fire.png "Fire"){: width="48"} | 3.2 m /<br>10.5 ft | 330.0 kg /<br>727.5 lbs | <span class="tooltip" title="Moves can be used regardless of Abilities.">Turboblaze</span> | #149 |
+| #643 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"}<br>![fire](../assets/types/fire.png "Fire"){: width="48"} | 3.2 m /<br>10.5 ft | 330.0 kg /<br>727.5 lbs | <span class="tooltip" title="Moves can be used regardless of Abilities.">Turboblaze</span> | #149 |
 
 ---
 
@@ -77,7 +77,7 @@ Reshiram has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Attack | 3 | 0 | 340 | Slow | N/A |
+| 3 Sp. Atk | 3 | 0 | 340 | Slow | N/A |
 
 ---
 

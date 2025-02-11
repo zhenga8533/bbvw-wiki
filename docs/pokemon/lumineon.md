@@ -83,7 +83,7 @@ Lumineon has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 75 | 70 | 161 | Slow Then Very Fast | <span class="tooltip" title="Weakens a supereffective Grass-type attack against the holding Pokémon.">Rindo Berry</span> (5%) |
+| 2 Spd | 75 | 70 | 161 | Slow Then Very Fast | <span class="tooltip" title="Weakens a supereffective Grass-type attack against the holding Pokémon.">Rindo Berry</span> (5%) |
 
 ---
 

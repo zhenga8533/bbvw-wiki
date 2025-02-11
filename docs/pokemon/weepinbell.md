@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #70 | ![grass](../assets/types/grass.png "Grass"){: width="48"} ![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.0 m /<br>3.3 ft | 6.4 kg /<br>14.1 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br><span class="tooltip" title="Encourages the early use of a held Berry.">Gluttony</span> | N/A |
+| #70 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.0 m /<br>3.3 ft | 6.4 kg /<br>14.1 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br><span class="tooltip" title="Encourages the early use of a held Berry.">Gluttony</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ Weepinbell has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 120 | 70 | 137 | Medium Slow | N/A |
+| 2 Atk | 120 | 70 | 137 | Medium Slow | N/A |
 
 ---
 

@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #597 | ![grass](../assets/types/grass.png "Grass"){: width="48"} ![steel](../assets/types/steel.png "Steel"){: width="48"} | 0.6 m /<br>2.0 ft | 18.8 kg /<br>41.4 lbs | <span class="tooltip" title="Inflicts damage to the Pokémon on contact.">Iron Barbs</span> | #103 |
+| #597 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![steel](../assets/types/steel.png "Steel"){: width="48"} | 0.6 m /<br>2.0 ft | 18.8 kg /<br>41.4 lbs | <span class="tooltip" title="Inflicts damage to the Pokémon on contact.">Iron Barbs</span> | #103 |
 
 ---
 
@@ -79,7 +79,7 @@ Ferroseed has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 255 | 50 | 61 | Medium | <span class="tooltip" title="A held item that damages the holder on every turn. It may latch on to foes and allies that touch the holder.">Sticky Barb</span> (5%) |
+| 1 Def | 255 | 50 | 61 | Medium | <span class="tooltip" title="A held item that damages the holder on every turn. It may latch on to foes and allies that touch the holder.">Sticky Barb</span> (5%) |
 
 ---
 

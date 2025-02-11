@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #178 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.5 m /<br>4.9 ft | 15.0 kg /<br>33.1 lbs | <span class="tooltip" title="Passes a burn, poison, or paralysis to the foe.">Synchronize</span><br><span class="tooltip" title="Reflects status- changing moves.">Magic Bounce</span> | N/A |
+| #178 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.5 m /<br>4.9 ft | 15.0 kg /<br>33.1 lbs | <span class="tooltip" title="Passes a burn, poison, or paralysis to the foe.">Synchronize</span><br><span class="tooltip" title="Reflects status- changing moves.">Magic Bounce</span> | N/A |
 
 ---
 
@@ -83,7 +83,7 @@ Xatu has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack<br>1 Speed | 75 | 50 | 165 | Medium | N/A |
+| 1 Sp. Atk<br>1 Spd | 75 | 50 | 165 | Medium | N/A |
 
 ---
 

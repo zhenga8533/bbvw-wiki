@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #72 | ![water](../assets/types/water.png "Water"){: width="48"} ![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.9 m /<br>3.0 ft | 45.5 kg /<br>100.3 lbs | <span class="tooltip" title="Prevents other Pokémon from lowering its stats.">Clear Body</span><br><span class="tooltip" title="Damages attackers using any draining move.">Liquid Ooze</span> | N/A |
+| #72 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.9 m /<br>3.0 ft | 45.5 kg /<br>100.3 lbs | <span class="tooltip" title="Prevents other Pokémon from lowering its stats.">Clear Body</span><br><span class="tooltip" title="Damages attackers using any draining move.">Liquid Ooze</span> | N/A |
 
 ---
 
@@ -77,7 +77,7 @@ Tentacool has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense | 190 | 50 | 67 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a small, poisonous barb that ups the power of Poison-type moves.">Poison Barb</span> (5%) |
+| 1 Sp. Def | 190 | 50 | 67 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a small, poisonous barb that ups the power of Poison-type moves.">Poison Barb</span> (5%) |
 
 ---
 

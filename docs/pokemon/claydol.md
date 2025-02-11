@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #344 | ![ground](../assets/types/ground.png "Ground"){: width="48"} ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.5 m /<br>4.9 ft | 108.0 kg /<br>238.1 lbs | <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
+| #344 | ![ground](../assets/types/ground.png "Ground"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.5 m /<br>4.9 ft | 108.0 kg /<br>238.1 lbs | <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
 
 ---
 
@@ -77,7 +77,7 @@ Claydol has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Defense | 90 | 50 | 175 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It boosts the power of moves, but at the cost of some HP on each hit.">Life Orb</span> (5%) |
+| 2 Sp. Def | 90 | 50 | 175 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It boosts the power of moves, but at the cost of some HP on each hit.">Life Orb</span> (5%) |
 
 ---
 

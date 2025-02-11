@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #478 | ![ice](../assets/types/ice.png "Ice"){: width="48"} ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | 1.3 m /<br>4.3 ft | 26.6 kg /<br>58.6 lbs | <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
+| #478 | ![ice](../assets/types/ice.png "Ice"){: width="48"}<br>![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | 1.3 m /<br>4.3 ft | 26.6 kg /<br>58.6 lbs | <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ Froslass has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 75 | 50 | 168 | Medium | <span class="tooltip" title="Weakens a supereffective Steel-type attack against the holding Pokémon.">Babiri Berry</span> (5%) |
+| 2 Spd | 75 | 50 | 168 | Medium | <span class="tooltip" title="Weakens a supereffective Steel-type attack against the holding Pokémon.">Babiri Berry</span> (5%) |
 
 ---
 

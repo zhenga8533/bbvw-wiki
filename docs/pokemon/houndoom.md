@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #229 | ![dark](../assets/types/dark.png "Dark"){: width="48"} ![fire](../assets/types/fire.png "Fire"){: width="48"} | 1.4 m /<br>4.6 ft | 35.0 kg /<br>77.2 lbs | <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br><span class="tooltip" title="It powers up Fire-type moves if it’s hit by one.">Flash Fire</span> | N/A |
+| #229 | ![dark](../assets/types/dark.png "Dark"){: width="48"}<br>![fire](../assets/types/fire.png "Fire"){: width="48"} | 1.4 m /<br>4.6 ft | 35.0 kg /<br>77.2 lbs | <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br><span class="tooltip" title="It powers up Fire-type moves if it’s hit by one.">Flash Fire</span> | N/A |
 
 ---
 
@@ -83,7 +83,7 @@ Houndoom has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Attack | 45 | 35 | 175 | Slow | N/A |
+| 2 Sp. Atk | 45 | 35 | 175 | Slow | N/A |
 
 ---
 

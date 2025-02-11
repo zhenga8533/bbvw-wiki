@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #587 | ![electric](../assets/types/electric.png "Electric"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.4 m /<br>1.3 ft | 5.0 kg /<br>11.0 lbs | <span class="tooltip" title="Contact with the Pokémon may cause paralysis.">Static</span><br><span class="tooltip" title="Raises Speed if hit by an Electric-type move.">Motor Drive</span> | #93 |
+| #587 | ![electric](../assets/types/electric.png "Electric"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.4 m /<br>1.3 ft | 5.0 kg /<br>11.0 lbs | <span class="tooltip" title="Contact with the Pokémon may cause paralysis.">Static</span><br><span class="tooltip" title="Raises Speed if hit by an Electric-type move.">Motor Drive</span> | #93 |
 
 ---
 
@@ -77,7 +77,7 @@ Emolga has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 200 | 50 | 150 | Medium | <span class="tooltip" title="If held by a Pokémon,  it recovers from paralysis.">Cheri Berry</span> (100%) |
+| 2 Spd | 200 | 50 | 150 | Medium | <span class="tooltip" title="If held by a Pokémon,  it recovers from paralysis.">Cheri Berry</span> (100%) |
 
 ---
 

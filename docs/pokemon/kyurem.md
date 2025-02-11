@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #646 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} ![ice](../assets/types/ice.png "Ice"){: width="48"} | 3.0 m /<br>9.8 ft | 325.0 kg /<br>716.5 lbs | <span class="tooltip" title="The Pokémon summons a hailstorm in battle.">Snow Warning</span> | #152 |
+| #646 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"}<br>![ice](../assets/types/ice.png "Ice"){: width="48"} | 3.0 m /<br>9.8 ft | 325.0 kg /<br>716.5 lbs | <span class="tooltip" title="The Pokémon summons a hailstorm in battle.">Snow Warning</span> | #152 |
 
 ---
 
@@ -82,7 +82,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp<br>1 Attack<br>1 Special Attack | 3 | 0 | 330 | Slow | N/A |
+| 1 HP<br>1 Atk<br>1 Sp. Atk | 3 | 0 | 330 | Slow | N/A |
 
 ---
 

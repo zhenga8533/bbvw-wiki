@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #483 | ![steel](../assets/types/steel.png "Steel"){: width="48"} ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 5.4 m /<br>17.7 ft | 683.0 kg /<br>1505.8 lbs | <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br><span class="tooltip" title="Anticipates an ally’s attack and dodges it.">Telepathy</span> | N/A |
+| #483 | ![steel](../assets/types/steel.png "Steel"){: width="48"}<br>![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 5.4 m /<br>17.7 ft | 683.0 kg /<br>1505.8 lbs | <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br><span class="tooltip" title="Anticipates an ally’s attack and dodges it.">Telepathy</span> | N/A |
 
 ---
 
@@ -75,7 +75,7 @@ Dialga has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Attack | 3 | 0 | 340 | Slow | N/A |
+| 3 Sp. Atk | 3 | 0 | 340 | Slow | N/A |
 
 ---
 

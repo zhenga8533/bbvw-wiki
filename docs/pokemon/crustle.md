@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #558 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![rock](../assets/types/rock.png "Rock"){: width="48"} | 1.4 m /<br>4.6 ft | 200.0 kg /<br>440.9 lbs | <span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span><br><span class="tooltip" title="The Pokémon is protected against critical hits.">Shell Armor</span> | #64 |
+| #558 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![rock](../assets/types/rock.png "Rock"){: width="48"} | 1.4 m /<br>4.6 ft | 200.0 kg /<br>440.9 lbs | <span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span><br><span class="tooltip" title="The Pokémon is protected against critical hits.">Shell Armor</span> | #64 |
 
 ---
 
@@ -79,7 +79,7 @@ Crustle has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Defense | 75 | 50 | 170 | Medium | <span class="tooltip" title="A bone that is extremely valuable for Pokémon archeology. It can be sold for a high price to shops.">Rare Bone</span> (1%)<br><span class="tooltip" title="An item to be held by a Pokémon. It is an unbreakable stone that ups the power of Rock-type moves.">Hard Stone</span> (5%) |
+| 2 Def | 75 | 50 | 170 | Medium | <span class="tooltip" title="A bone that is extremely valuable for Pokémon archeology. It can be sold for a high price to shops.">Rare Bone</span> (1%)<br><span class="tooltip" title="An item to be held by a Pokémon. It is an unbreakable stone that ups the power of Rock-type moves.">Hard Stone</span> (5%) |
 
 ---
 

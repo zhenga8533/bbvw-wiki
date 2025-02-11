@@ -83,7 +83,7 @@ Buizel has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 190 | 70 | 66 | Medium | <span class="tooltip" title="Weakens a supereffective Electric-type attack against the holding Pokémon.">Wacan Berry</span> (5%) |
+| 1 Spd | 190 | 70 | 66 | Medium | <span class="tooltip" title="Weakens a supereffective Electric-type attack against the holding Pokémon.">Wacan Berry</span> (5%) |
 
 ---
 

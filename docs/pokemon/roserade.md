@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #407 | ![grass](../assets/types/grass.png "Grass"){: width="48"} ![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.9 m /<br>3.0 ft | 14.5 kg /<br>32.0 lbs | <span class="tooltip" title="All status problems heal when it switches out.">Natural Cure</span><br><span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span> | N/A |
+| #407 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.9 m /<br>3.0 ft | 14.5 kg /<br>32.0 lbs | <span class="tooltip" title="All status problems heal when it switches out.">Natural Cure</span><br><span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span> | N/A |
 
 ---
 
@@ -85,7 +85,7 @@ Roserade has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Attack | 75 | 50 | 258 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a small, poisonous barb that ups the power of Poison-type moves.">Poison Barb</span> (5%) |
+| 3 Sp. Atk | 75 | 50 | 258 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a small, poisonous barb that ups the power of Poison-type moves.">Poison Barb</span> (5%) |
 
 ---
 

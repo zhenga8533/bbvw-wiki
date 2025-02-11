@@ -81,7 +81,7 @@ Herdier has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 120 | 50 | 130 | Medium Slow | N/A |
+| 2 Atk | 120 | 50 | 130 | Medium Slow | N/A |
 
 ---
 

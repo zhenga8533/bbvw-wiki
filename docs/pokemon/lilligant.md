@@ -79,7 +79,7 @@ Lilligant has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Attack | 75 | 50 | 168 | Mediu |
+| 2 Sp. Atk | 75 | 50 | 168 | Mediu |
 
 ---
 

@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #540 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.3 m /<br>1.0 ft | 2.5 kg /<br>5.5 lbs | <span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span><br><span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span> | #46 |
+| #540 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.3 m /<br>1.0 ft | 2.5 kg /<br>5.5 lbs | <span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span><br><span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span> | #46 |
 
 ---
 
@@ -81,7 +81,7 @@ Sewaddle has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 255 | 180 | 62 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It snaps the holder out of infatuation. It can be used only once.">Mental Herb</span> (5%) |
+| 1 Def | 255 | 180 | 62 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It snaps the holder out of infatuation. It can be used only once.">Mental Herb</span> (5%) |
 
 ---
 

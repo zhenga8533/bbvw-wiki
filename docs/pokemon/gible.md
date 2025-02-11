@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #443 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} ![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.7 m /<br>2.3 ft | 20.5 kg /<br>45.2 lbs | <span class="tooltip" title="Boosts the Pokémon’s evasion in a sandstorm.">Sand Veil</span><br><span class="tooltip" title="Inflicts damage to the attacker on contact.">Rough Skin</span> | N/A |
+| #443 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.7 m /<br>2.3 ft | 20.5 kg /<br>45.2 lbs | <span class="tooltip" title="Boosts the Pokémon’s evasion in a sandstorm.">Sand Veil</span><br><span class="tooltip" title="Inflicts damage to the attacker on contact.">Rough Skin</span> | N/A |
 
 ---
 
@@ -85,7 +85,7 @@ Gible has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 45 | 50 | 60 | Slow | <span class="tooltip" title="Weakens a supereffective Dragon-type attack against the holding Pokémon.">Haban Berry</span> (5%) |
+| 1 Atk | 45 | 50 | 60 | Slow | <span class="tooltip" title="Weakens a supereffective Dragon-type attack against the holding Pokémon.">Haban Berry</span> (5%) |
 
 ---
 

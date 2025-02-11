@@ -81,7 +81,7 @@ Axew has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 75 | 35 | 64 | Slow | N/A |
+| 1 Atk | 75 | 35 | 64 | Slow | N/A |
 
 ---
 

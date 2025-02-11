@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #561 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.4 m /<br>4.6 ft | 14.0 kg /<br>30.9 lbs | <span class="tooltip" title="Powers up “not very effective” moves.">Tinted Lens</span><br><span class="tooltip" title="The Pokémon only takes damage from attacks.">Magic Guard</span> | #67 |
+| #561 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.4 m /<br>4.6 ft | 14.0 kg /<br>30.9 lbs | <span class="tooltip" title="Powers up “not very effective” moves.">Tinted Lens</span><br><span class="tooltip" title="The Pokémon only takes damage from attacks.">Magic Guard</span> | #67 |
 
 ---
 
@@ -77,7 +77,7 @@ Sigilyph has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Attack | 45 | 50 | 172 | Medium | N/A |
+| 2 Sp. Atk | 45 | 50 | 172 | Medium | N/A |
 
 ---
 

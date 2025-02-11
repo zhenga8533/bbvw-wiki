@@ -77,7 +77,7 @@ Ninetales has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense<br>1 Speed | 75 | 50 | 177 | Medium | <span class="tooltip" title="If held by a Pokémon, it recovers from a burn.">Rawst Berry</span> (50%)<br><span class="tooltip" title="Weakens a supereffective Fire-type attack against the holding Pokémon.">Occa Berry</span> (5%) |
+| 1 Sp. Def<br>1 Spd | 75 | 50 | 177 | Medium | <span class="tooltip" title="If held by a Pokémon, it recovers from a burn.">Rawst Berry</span> (50%)<br><span class="tooltip" title="Weakens a supereffective Fire-type attack against the holding Pokémon.">Occa Berry</span> (5%) |
 
 ---
 

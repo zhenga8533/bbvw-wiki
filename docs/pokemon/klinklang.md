@@ -81,7 +81,7 @@ Klinklang has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Defense | 30 | 50 | 260 | Medium Slow | N/A |
+| 3 Def | 30 | 50 | 260 | Medium Slow | N/A |
 
 ---
 

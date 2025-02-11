@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #270 | ![water](../assets/types/water.png "Water"){: width="48"} ![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.5 m /<br>1.6 ft | 2.6 kg /<br>5.7 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br><span class="tooltip" title="The Pokémon gradually regains HP in rain.">Rain Dish</span> | N/A |
+| #270 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.5 m /<br>1.6 ft | 2.6 kg /<br>5.7 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br><span class="tooltip" title="The Pokémon gradually regains HP in rain.">Rain Dish</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ Lotad has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense | 255 | 50 | 44 | Medium Slo |
+| 1 Sp. Def | 255 | 50 | 44 | Medium Slo |
 
 ---
 

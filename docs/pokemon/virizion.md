@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #640 | ![grass](../assets/types/grass.png "Grass"){: width="48"} ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 2.0 m /<br>6.6 ft | 200.0 kg /<br>440.9 lbs | <span class="tooltip" title="Raises Attack when hit by a Dark-type move.">Justified</span> | #146 |
+| #640 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 2.0 m /<br>6.6 ft | 200.0 kg /<br>440.9 lbs | <span class="tooltip" title="Raises Attack when hit by a Dark-type move.">Justified</span> | #146 |
 
 ---
 
@@ -77,7 +77,7 @@ Virizion has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Defense | 3 | 35 | 290 | Slow | N/A |
+| 3 Sp. Def | 3 | 35 | 290 | Slow | N/A |
 
 ---
 

@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #337 | ![rock](../assets/types/rock.png "Rock"){: width="48"} ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.0 m /<br>3.3 ft | 168.0 kg /<br>370.4 lbs | <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
+| #337 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.0 m /<br>3.3 ft | 168.0 kg /<br>370.4 lbs | <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
 
 ---
 
@@ -75,7 +75,7 @@ Lunatone has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Attack | 45 | 50 | 161 | Fast | <span class="tooltip" title="A peculiar stone that makes certain species of Pokémon evolve. It is as black as the night sky.">Moon Stone</span> (5%)<br><span class="tooltip" title="A shard which fell to the ground when a comet approached. A maniac will buy it for a high price.">Comet Shard</span> (1%) |
+| 2 Sp. Atk | 45 | 50 | 161 | Fast | <span class="tooltip" title="A peculiar stone that makes certain species of Pokémon evolve. It is as black as the night sky.">Moon Stone</span> (5%)<br><span class="tooltip" title="A shard which fell to the ground when a comet approached. A maniac will buy it for a high price.">Comet Shard</span> (1%) |
 
 ---
 

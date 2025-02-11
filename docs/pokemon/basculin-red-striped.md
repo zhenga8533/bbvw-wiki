@@ -82,7 +82,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 25 | 50 | 161 | Medium | <span class="tooltip" title="An item to be held by Clamperl. A fang that gleams a sharp silver, it raises the Sp. Atk stat.">Deep Sea Tooth</span> (5%) |
+| 2 Spd | 25 | 50 | 161 | Medium | <span class="tooltip" title="An item to be held by Clamperl. A fang that gleams a sharp silver, it raises the Sp. Atk stat.">Deep Sea Tooth</span> (5%) |
 
 ---
 

@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #307 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 0.6 m /<br>2.0 ft | 11.2 kg /<br>24.7 lbs | <span class="tooltip" title="Raises the Pokémon’s Attack stat.">Pure Power</span><br><span class="tooltip" title="Anticipates an ally’s attack and dodges it.">Telepathy</span> | N/A |
+| #307 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 0.6 m /<br>2.0 ft | 11.2 kg /<br>24.7 lbs | <span class="tooltip" title="Raises the Pokémon’s Attack stat.">Pure Power</span><br><span class="tooltip" title="Anticipates an ally’s attack and dodges it.">Telepathy</span> | N/A |
 
 ---
 
@@ -83,7 +83,7 @@ Meditite has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 180 | 70 | 56 | Medium | N/A |
+| 1 Spd | 180 | 70 | 56 | Medium | N/A |
 
 ---
 

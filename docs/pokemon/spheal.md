@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #363 | ![ice](../assets/types/ice.png "Ice"){: width="48"} ![water](../assets/types/water.png "Water"){: width="48"} | 0.8 m /<br>2.6 ft | 39.5 kg /<br>87.1 lbs | <span class="tooltip" title="Ups resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br><span class="tooltip" title="The Pokémon gradually regains HP in a hailstorm.">Ice Body</span> | N/A |
+| #363 | ![ice](../assets/types/ice.png "Ice"){: width="48"}<br>![water](../assets/types/water.png "Water"){: width="48"} | 0.8 m /<br>2.6 ft | 39.5 kg /<br>87.1 lbs | <span class="tooltip" title="Ups resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br><span class="tooltip" title="The Pokémon gradually regains HP in a hailstorm.">Ice Body</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ Spheal has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp | 255 | 50 | 58 | Medium Slow | N/A |
+| 1 HP | 255 | 50 | 58 | Medium Slow | N/A |
 
 ---
 

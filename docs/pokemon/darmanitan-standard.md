@@ -84,7 +84,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 60 | 50 | 168 | Medium Slow | <span class="tooltip" title="If held by a Pokémon, it recovers from a burn.">Rawst Berry</span> (50%) |
+| 2 Atk | 60 | 50 | 168 | Medium Slow | <span class="tooltip" title="If held by a Pokémon, it recovers from a burn.">Rawst Berry</span> (50%) |
 
 ---
 

@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #168 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.1 m /<br>3.6 ft | 33.5 kg /<br>73.9 lbs | <span class="tooltip" title="Powers up moves if they become critical hits.">Sniper</span><br><span class="tooltip" title="Prevents the Pokémon from falling asleep.">Insomnia</span> | N/A |
+| #168 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.1 m /<br>3.6 ft | 33.5 kg /<br>73.9 lbs | <span class="tooltip" title="Powers up moves if they become critical hits.">Sniper</span><br><span class="tooltip" title="Prevents the Pokémon from falling asleep.">Insomnia</span> | N/A |
 
 ---
 
@@ -77,7 +77,7 @@ Ariados has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 90 | 70 | 140 | Fast | N/A |
+| 2 Atk | 90 | 70 | 140 | Fast | N/A |
 
 ---
 

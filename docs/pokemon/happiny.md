@@ -83,7 +83,7 @@ Happiny has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp | 130 | 160 | 110 | Fast | <span class="tooltip" title="A peculiar stone that makes certain species of Pokémon evolve. It is shaped like an egg.">Oval Stone</span> (50%)<br><span class="tooltip" title="An item to be held by a Pokémon. It is an egg filled with happiness that earns extra Exp. Points in battle.">Lucky Egg</span> (5%) |
+| 1 HP | 130 | 160 | 110 | Fast | <span class="tooltip" title="A peculiar stone that makes certain species of Pokémon evolve. It is shaped like an egg.">Oval Stone</span> (50%)<br><span class="tooltip" title="An item to be held by a Pokémon. It is an egg filled with happiness that earns extra Exp. Points in battle.">Lucky Egg</span> (5%) |
 
 ---
 

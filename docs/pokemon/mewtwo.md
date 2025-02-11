@@ -75,7 +75,7 @@ Mewtwo has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Attack | 3 | 0 | 340 | Slow | <span class="tooltip" title="If held by a Pokémon, it raises its Sp. Def stat in a pinch.">Apicot Berry</span> (100%) |
+| 3 Sp. Atk | 3 | 0 | 340 | Slow | <span class="tooltip" title="If held by a Pokémon, it raises its Sp. Def stat in a pinch.">Apicot Berry</span> (100%) |
 
 ---
 

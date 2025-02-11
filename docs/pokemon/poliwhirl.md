@@ -85,7 +85,7 @@ Poliwhirl has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 120 | 50 | 135 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. When the holder inflicts damage, the target may flinch.">Kings Rock</span> (5%) |
+| 2 Spd | 120 | 50 | 135 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. When the holder inflicts damage, the target may flinch.">Kings Rock</span> (5%) |
 
 ---
 

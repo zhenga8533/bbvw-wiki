@@ -79,7 +79,7 @@ Liepard has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 90 | 50 | 156 | Medium | N/A |
+| 2 Spd | 90 | 50 | 156 | Medium | N/A |
 
 ---
 

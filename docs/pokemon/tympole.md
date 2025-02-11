@@ -81,7 +81,7 @@ Tympole has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 255 | 50 | 59 | Medium Slow | <span class="tooltip" title="If held by a Pokémon, it recovers from confusion.">Persim Berry</span> (50%) |
+| 1 Spd | 255 | 50 | 59 | Medium Slow | <span class="tooltip" title="If held by a Pokémon, it recovers from confusion.">Persim Berry</span> (50%) |
 
 ---
 

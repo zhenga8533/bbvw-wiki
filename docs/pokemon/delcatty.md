@@ -77,7 +77,7 @@ Delcatty has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp<br>1 Speed | 60 | 70 | 140 | Fast | <span class="tooltip" title="If held by a Pokémon, it restores a move’s PP by 10.">Leppa Berry</span> (5%) |
+| 1 HP<br>1 Spd | 60 | 70 | 140 | Fast | <span class="tooltip" title="If held by a Pokémon, it restores a move’s PP by 10.">Leppa Berry</span> (5%) |
 
 ---
 

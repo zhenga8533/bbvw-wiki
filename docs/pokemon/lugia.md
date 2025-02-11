@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #249 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 5.2 m /<br>17.1 ft | 216.0 kg /<br>476.2 lbs | <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br><span class="tooltip" title="Reduces damage when HP is full.">Multiscale</span> | N/A |
+| #249 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 5.2 m /<br>17.1 ft | 216.0 kg /<br>476.2 lbs | <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br><span class="tooltip" title="Reduces damage when HP is full.">Multiscale</span> | N/A |
 
 ---
 
@@ -75,7 +75,7 @@ Lugia has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Defense | 3 | 0 | 340 | Slow | <span class="tooltip" title="If held by a Pokémon, it raises its Defense stat in a pinch.">Ganlon Berry</span> (100%) |
+| 3 Sp. Def | 3 | 0 | 340 | Slow | <span class="tooltip" title="If held by a Pokémon, it raises its Defense stat in a pinch.">Ganlon Berry</span> (100%) |
 
 ---
 

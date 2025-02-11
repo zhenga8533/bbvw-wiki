@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #566 | ![rock](../assets/types/rock.png "Rock"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.5 m /<br>1.6 ft | 9.5 kg /<br>20.9 lbs | <span class="tooltip" title="Lowers stats when HP becomes half or less.">Defeatist</span> | #72 |
+| #566 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.5 m /<br>1.6 ft | 9.5 kg /<br>20.9 lbs | <span class="tooltip" title="Lowers stats when HP becomes half or less.">Defeatist</span> | #72 |
 
 ---
 
@@ -79,7 +79,7 @@ Archen has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 45 | 50 | 71 | Medium | N/A |
+| 1 Atk | 45 | 50 | 71 | Medium | N/A |
 
 ---
 

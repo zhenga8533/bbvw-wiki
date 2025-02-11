@@ -87,7 +87,7 @@ Politoed has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Defense | 45 | 50 | 250 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. When the holder inflicts damage, the target may flinch.">Kings Rock</span> (5%) |
+| 3 Sp. Def | 45 | 50 | 250 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. When the holder inflicts damage, the target may flinch.">Kings Rock</span> (5%) |
 
 ---
 

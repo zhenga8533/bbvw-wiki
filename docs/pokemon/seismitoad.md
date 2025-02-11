@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #537 | ![water](../assets/types/water.png "Water"){: width="48"} ![ground](../assets/types/ground.png "Ground"){: width="48"} | 1.5 m /<br>4.9 ft | 62.0 kg /<br>136.7 lbs | <span class="tooltip" title="Restores HP if hit by a Water-type move.">Water Absorb</span><br><span class="tooltip" title="May poison targets when a Pokémon makes contact.">Poison Touch</span> | #43 |
+| #537 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 1.5 m /<br>4.9 ft | 62.0 kg /<br>136.7 lbs | <span class="tooltip" title="Restores HP if hit by a Water-type move.">Water Absorb</span><br><span class="tooltip" title="May poison targets when a Pokémon makes contact.">Poison Touch</span> | #43 |
 
 ---
 
@@ -81,7 +81,7 @@ Seismitoad has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Hp | 45 | 50 | 255 | Medium Slow | <span class="tooltip" title="If held by a Pokémon, it recovers from confusion.">Persim Berry</span> (50%) |
+| 3 HP | 45 | 50 | 255 | Medium Slow | <span class="tooltip" title="If held by a Pokémon, it recovers from confusion.">Persim Berry</span> (50%) |
 
 ---
 

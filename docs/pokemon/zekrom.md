@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #644 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} ![electric](../assets/types/electric.png "Electric"){: width="48"} | 2.9 m /<br>9.5 ft | 345.0 kg /<br>760.6 lbs | <span class="tooltip" title="Moves can be used regardless of Abilities.">Teravolt</span> | #150 |
+| #644 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"}<br>![electric](../assets/types/electric.png "Electric"){: width="48"} | 2.9 m /<br>9.5 ft | 345.0 kg /<br>760.6 lbs | <span class="tooltip" title="Moves can be used regardless of Abilities.">Teravolt</span> | #150 |
 
 ---
 
@@ -77,7 +77,7 @@ Zekrom has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Attack | 3 | 0 | 340 | Slow | N/A |
+| 3 Atk | 3 | 0 | 340 | Slow | N/A |
 
 ---
 

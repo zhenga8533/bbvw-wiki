@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #76 | ![rock](../assets/types/rock.png "Rock"){: width="48"} ![ground](../assets/types/ground.png "Ground"){: width="48"} | 1.4 m /<br>4.6 ft | 300.0 kg /<br>661.4 lbs | <span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span><br><span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span> | N/A |
+| #76 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 1.4 m /<br>4.6 ft | 300.0 kg /<br>661.4 lbs | <span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span><br><span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ Golem has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Defense | 45 | 70 | 223 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. The Pokémon holding this peculiar stone is prevented from evolving.">Everstone</span> (5%) |
+| 3 Def | 45 | 70 | 223 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. The Pokémon holding this peculiar stone is prevented from evolving.">Everstone</span> (5%) |
 
 ---
 

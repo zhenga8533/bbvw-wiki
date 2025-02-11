@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #247 | ![rock](../assets/types/rock.png "Rock"){: width="48"} ![ground](../assets/types/ground.png "Ground"){: width="48"} | 1.2 m /<br>3.9 ft | 152.0 kg /<br>335.1 lbs | <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span><br><span class="tooltip" title="The Pokémon is protected against critical hits.">Battle Armor</span> | N/A |
+| #247 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 1.2 m /<br>3.9 ft | 152.0 kg /<br>335.1 lbs | <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span><br><span class="tooltip" title="The Pokémon is protected against critical hits.">Battle Armor</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ Pupitar has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 45 | 35 | 144 | Slow | N/A |
+| 2 Atk | 45 | 35 | 144 | Slow | N/A |
 
 ---
 

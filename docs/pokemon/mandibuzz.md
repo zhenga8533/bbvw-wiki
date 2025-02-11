@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #630 | ![dark](../assets/types/dark.png "Dark"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.2 m /<br>3.9 ft | 39.5 kg /<br>87.1 lbs | <span class="tooltip" title="Protects the Pokémon from Defense-lowering attacks.">Big Pecks</span><br><span class="tooltip" title="Protects the Pokémon from damage from weather.">Overcoat</span> | #136 |
+| #630 | ![dark](../assets/types/dark.png "Dark"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.2 m /<br>3.9 ft | 39.5 kg /<br>87.1 lbs | <span class="tooltip" title="Protects the Pokémon from Defense-lowering attacks.">Big Pecks</span><br><span class="tooltip" title="Protects the Pokémon from damage from weather.">Overcoat</span> | #136 |
 
 ---
 
@@ -83,7 +83,7 @@ Mandibuzz has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Attack | 60 | 35 | 179 | Slow | N/A |
+| 2 Sp. Atk | 60 | 35 | 179 | Slow | N/A |
 
 ---
 

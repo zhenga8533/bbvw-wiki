@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #83 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.8 m /<br>2.6 ft | 15.0 kg /<br>33.1 lbs | <span class="tooltip" title="When its stats are lowered its Attack increases.">Defiant</span><br><span class="tooltip" title="Heightens the critical- hit ratios of moves.">Super Luck</span> | N/A |
+| #83 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.8 m /<br>2.6 ft | 15.0 kg /<br>33.1 lbs | <span class="tooltip" title="When its stats are lowered its Attack increases.">Defiant</span><br><span class="tooltip" title="Heightens the critical- hit ratios of moves.">Super Luck</span> | N/A |
 
 ---
 
@@ -75,7 +75,7 @@ Farfetchd has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 45 | 50 | 132 | Medium | <span class="tooltip" title="An item to be held by Farfetch’d. It is a very long and stiff stalk of leek that boosts the critical-hit ratio.">Stick</span> (50%) |
+| 1 Atk | 45 | 50 | 132 | Medium | <span class="tooltip" title="An item to be held by Farfetch’d. It is a very long and stiff stalk of leek that boosts the critical-hit ratio.">Stick</span> (50%) |
 
 ---
 

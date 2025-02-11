@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #319 | ![water](../assets/types/water.png "Water"){: width="48"} ![dark](../assets/types/dark.png "Dark"){: width="48"} | 1.8 m /<br>5.9 ft | 88.8 kg /<br>195.8 lbs | <span class="tooltip" title="Inflicts damage to the attacker on contact.">Rough Skin</span><br><span class="tooltip" title="Its Speed stat is gradually boosted.">Speed Boost</span> | N/A |
+| #319 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![dark](../assets/types/dark.png "Dark"){: width="48"} | 1.8 m /<br>5.9 ft | 88.8 kg /<br>195.8 lbs | <span class="tooltip" title="Inflicts damage to the attacker on contact.">Rough Skin</span><br><span class="tooltip" title="Its Speed stat is gradually boosted.">Speed Boost</span> | N/A |
 
 ---
 
@@ -77,7 +77,7 @@ Sharpedo has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 60 | 35 | 161 | Slow | <span class="tooltip" title="An item to be held by Clamperl. A fang that gleams a sharp silver, it raises the Sp. Atk stat.">Deep Sea Tooth</span> (5%) |
+| 2 Atk | 60 | 35 | 161 | Slow | <span class="tooltip" title="An item to be held by Clamperl. A fang that gleams a sharp silver, it raises the Sp. Atk stat.">Deep Sea Tooth</span> (5%) |
 
 ---
 

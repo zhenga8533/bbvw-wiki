@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #520 | ![normal](../assets/types/normal.png "Normal"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.6 m /<br>2.0 ft | 15.0 kg /<br>33.1 lbs | <span class="tooltip" title="Deals more damage to a Pokémon of same gender.">Rivalry</span><br><span class="tooltip" title="Heightens the critical- hit ratios of moves.">Super Luck</span> | #26 |
+| #520 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.6 m /<br>2.0 ft | 15.0 kg /<br>33.1 lbs | <span class="tooltip" title="Deals more damage to a Pokémon of same gender.">Rivalry</span><br><span class="tooltip" title="Heightens the critical- hit ratios of moves.">Super Luck</span> | #26 |
 
 ---
 
@@ -81,7 +81,7 @@ Tranquill has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 120 | 50 | 125 | Medium Slow | N/A |
+| 2 Atk | 120 | 50 | 125 | Medium Slow | N/A |
 
 ---
 

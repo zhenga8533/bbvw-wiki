@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #389 | ![grass](../assets/types/grass.png "Grass"){: width="48"} ![ground](../assets/types/ground.png "Ground"){: width="48"} | 2.2 m /<br>7.2 ft | 310.0 kg /<br>683.4 lbs | <span class="tooltip" title="Powers up Grass-type moves in a pinch.">Overgrow</span><br><span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span> | N/A |
+| #389 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 2.2 m /<br>7.2 ft | 310.0 kg /<br>683.4 lbs | <span class="tooltip" title="Powers up Grass-type moves in a pinch.">Overgrow</span><br><span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ Torterra has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack<br>1 Defense | 45 | 70 | 236 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a seed imbued with life that ups the power of Grass-type moves.">Miracle Seed</span> (50%) |
+| 2 Atk<br>1 Def | 45 | 70 | 236 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a seed imbued with life that ups the power of Grass-type moves.">Miracle Seed</span> (50%) |
 
 ---
 

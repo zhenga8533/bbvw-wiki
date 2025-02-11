@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #543 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.4 m /<br>1.3 ft | 5.3 kg /<br>11.7 lbs | <span class="tooltip" title="Contact with the Pokémon may poison the attacker.">Poison Point</span><br><span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span> | #49 |
+| #543 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.4 m /<br>1.3 ft | 5.3 kg /<br>11.7 lbs | <span class="tooltip" title="Contact with the Pokémon may poison the attacker.">Poison Point</span><br><span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span> | #49 |
 
 ---
 
@@ -81,7 +81,7 @@ Venipede has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 255 | 50 | 52 | Medium Slow | <span class="tooltip" title="If held by a Pokémon, it recovers from poison.">Pecha Berry</span> (50%)<br><span class="tooltip" title="An item to be held by a Pokémon. It is a small, poisonous barb that ups the power of Poison-type moves.">Poison Barb</span> (5%) |
+| 1 Def | 255 | 50 | 52 | Medium Slow | <span class="tooltip" title="If held by a Pokémon, it recovers from poison.">Pecha Berry</span> (50%)<br><span class="tooltip" title="An item to be held by a Pokémon. It is a small, poisonous barb that ups the power of Poison-type moves.">Poison Barb</span> (5%) |
 
 ---
 

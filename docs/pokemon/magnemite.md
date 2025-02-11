@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #81 | ![electric](../assets/types/electric.png "Electric"){: width="48"} ![steel](../assets/types/steel.png "Steel"){: width="48"} | 0.3 m /<br>1.0 ft | 6.0 kg /<br>13.2 lbs | <span class="tooltip" title="Prevents Steel-type Pokémon from escaping.">Magnet Pull</span><br><span class="tooltip" title="Boosts move power when the Pokémon moves last.">Analytic</span> | N/A |
+| #81 | ![electric](../assets/types/electric.png "Electric"){: width="48"}<br>![steel](../assets/types/steel.png "Steel"){: width="48"} | 0.3 m /<br>1.0 ft | 6.0 kg /<br>13.2 lbs | <span class="tooltip" title="Prevents Steel-type Pokémon from escaping.">Magnet Pull</span><br><span class="tooltip" title="Boosts move power when the Pokémon moves last.">Analytic</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ Magnemite has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack | 190 | 50 | 65 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a special metallic film that ups the power of Steel-type moves.">Metal Coat</span> (5%) |
+| 1 Sp. Atk | 190 | 50 | 65 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a special metallic film that ups the power of Steel-type moves.">Metal Coat</span> (5%) |
 
 ---
 

@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #165 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.0 m /<br>3.3 ft | 10.8 kg /<br>23.8 lbs | <span class="tooltip" title="Some move types scare it and boost its Speed.">Rattled</span><br><span class="tooltip" title="The Pokémon awakens quickly from sleep.">Early Bird</span> | N/A |
+| #165 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.0 m /<br>3.3 ft | 10.8 kg /<br>23.8 lbs | <span class="tooltip" title="Some move types scare it and boost its Speed.">Rattled</span><br><span class="tooltip" title="The Pokémon awakens quickly from sleep.">Early Bird</span> | N/A |
 
 ---
 
@@ -83,7 +83,7 @@ Ledyba has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense | 255 | 70 | 53 | Fast | N/A |
+| 1 Sp. Def | 255 | 70 | 53 | Fast | N/A |
 
 ---
 

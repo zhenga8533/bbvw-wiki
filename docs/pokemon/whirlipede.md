@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #544 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.2 m /<br>3.9 ft | 58.5 kg /<br>129.0 lbs | <span class="tooltip" title="The Pokémon is protected against critical hits.">Battle Armor</span><br><span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span> | #50 |
+| #544 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.2 m /<br>3.9 ft | 58.5 kg /<br>129.0 lbs | <span class="tooltip" title="The Pokémon is protected against critical hits.">Battle Armor</span><br><span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span> | #50 |
 
 ---
 
@@ -81,7 +81,7 @@ Whirlipede has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Defense | 120 | 50 | 126 | Medium Slow | <span class="tooltip" title="If held by a Pokémon, it recovers from poison.">Pecha Berry</span> (50%)<br><span class="tooltip" title="An item to be held by a Pokémon. It is a small, poisonous barb that ups the power of Poison-type moves.">Poison Barb</span> (5%) |
+| 2 Def | 120 | 50 | 126 | Medium Slow | <span class="tooltip" title="If held by a Pokémon, it recovers from poison.">Pecha Berry</span> (50%)<br><span class="tooltip" title="An item to be held by a Pokémon. It is a small, poisonous barb that ups the power of Poison-type moves.">Poison Barb</span> (5%) |
 
 ---
 

@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #139 | ![rock](../assets/types/rock.png "Rock"){: width="48"} ![water](../assets/types/water.png "Water"){: width="48"} | 1.0 m /<br>3.3 ft | 35.0 kg /<br>77.2 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br><span class="tooltip" title="Inflicts damage to the Pokémon on contact.">Iron Barbs</span> | N/A |
+| #139 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![water](../assets/types/water.png "Water"){: width="48"} | 1.0 m /<br>3.3 ft | 35.0 kg /<br>77.2 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br><span class="tooltip" title="Inflicts damage to the Pokémon on contact.">Iron Barbs</span> | N/A |
 
 ---
 
@@ -77,7 +77,7 @@ Omastar has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Defense | 45 | 50 | 173 | Medium | N/A |
+| 2 Def | 45 | 50 | 173 | Medium | N/A |
 
 ---
 

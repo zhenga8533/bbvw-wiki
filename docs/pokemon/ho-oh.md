@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #250 | ![fire](../assets/types/fire.png "Fire"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 3.8 m /<br>12.5 ft | 199.0 kg /<br>438.7 lbs | <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br><span class="tooltip" title="Restores a little HP when withdrawn from battle.">Regenerator</span> | N/A |
+| #250 | ![fire](../assets/types/fire.png "Fire"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 3.8 m /<br>12.5 ft | 199.0 kg /<br>438.7 lbs | <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br><span class="tooltip" title="Restores a little HP when withdrawn from battle.">Regenerator</span> | N/A |
 
 ---
 
@@ -75,7 +75,7 @@ Ho Oh has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Defense | 3 | 0 | 340 | Slow | <span class="tooltip" title="It revives all fainted Pokémon. In doing so, it also fully restores their HP.">Sacred Ash</span> (100%) |
+| 3 Sp. Def | 3 | 0 | 340 | Slow | <span class="tooltip" title="It revives all fainted Pokémon. In doing so, it also fully restores their HP.">Sacred Ash</span> (100%) |
 
 ---
 

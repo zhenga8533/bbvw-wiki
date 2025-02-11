@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #74 | ![rock](../assets/types/rock.png "Rock"){: width="48"} ![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.4 m /<br>1.3 ft | 20.0 kg /<br>44.1 lbs | <span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span><br><span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span> | N/A |
+| #74 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.4 m /<br>1.3 ft | 20.0 kg /<br>44.1 lbs | <span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span><br><span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ Geodude has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 255 | 70 | 60 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. The Pokémon holding this peculiar stone is prevented from evolving.">Everstone</span> (5%) |
+| 1 Def | 255 | 70 | 60 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. The Pokémon holding this peculiar stone is prevented from evolving.">Everstone</span> (5%) |
 
 ---
 

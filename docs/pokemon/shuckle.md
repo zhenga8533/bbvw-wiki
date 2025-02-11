@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #213 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![rock](../assets/types/rock.png "Rock"){: width="48"} | 0.6 m /<br>2.0 ft | 20.5 kg /<br>45.2 lbs | <span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span><br><span class="tooltip" title="Reduces damage from supereffective attacks.">Solid Rock</span> | N/A |
+| #213 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![rock](../assets/types/rock.png "Rock"){: width="48"} | 0.6 m /<br>2.0 ft | 20.5 kg /<br>45.2 lbs | <span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span><br><span class="tooltip" title="Reduces damage from supereffective attacks.">Solid Rock</span> | N/A |
 
 ---
 
@@ -75,7 +75,7 @@ Shuckle has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense<br>1 Special Defense | 190 | 50 | 177 | Medium Slow | <span class="tooltip" title="A 100% pure juice made of Berries. It restores the HP of one Pokémon by just 20 points.">Berry Juice</span> (100%) |
+| 1 Def<br>1 Sp. Def | 190 | 50 | 177 | Medium Slow | <span class="tooltip" title="A 100% pure juice made of Berries. It restores the HP of one Pokémon by just 20 points.">Berry Juice</span> (100%) |
 
 ---
 

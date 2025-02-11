@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #329 | ![ground](../assets/types/ground.png "Ground"){: width="48"} ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 1.1 m /<br>3.6 ft | 15.3 kg /<br>33.7 lbs | <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
+| #329 | ![ground](../assets/types/ground.png "Ground"){: width="48"}<br>![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 1.1 m /<br>3.6 ft | 15.3 kg /<br>33.7 lbs | <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ Vibrava has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack<br>1 Speed | 120 | 50 | 119 | Medium Slow | N/A |
+| 1 Atk<br>1 Spd | 120 | 50 | 119 | Medium Slow | N/A |
 
 ---
 

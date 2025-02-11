@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #618 | ![ground](../assets/types/ground.png "Ground"){: width="48"} ![electric](../assets/types/electric.png "Electric"){: width="48"} | 0.7 m /<br>2.3 ft | 11.0 kg /<br>24.3 lbs | <span class="tooltip" title="Contact with the Pokémon may cause paralysis.">Static</span><br><span class="tooltip" title="The Pokémon is protected from paralysis.">Limber</span> | #124 |
+| #618 | ![ground](../assets/types/ground.png "Ground"){: width="48"}<br>![electric](../assets/types/electric.png "Electric"){: width="48"} | 0.7 m /<br>2.3 ft | 11.0 kg /<br>24.3 lbs | <span class="tooltip" title="Contact with the Pokémon may cause paralysis.">Static</span><br><span class="tooltip" title="The Pokémon is protected from paralysis.">Limber</span> | #124 |
 
 ---
 
@@ -77,7 +77,7 @@ Stunfisk has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 75 | 70 | 165 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a loose, silky sand that boosts the power of Ground-type moves.">Soft Sand</span> (5%) |
+| 2 HP | 75 | 70 | 165 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a loose, silky sand that boosts the power of Ground-type moves.">Soft Sand</span> (5%) |
 
 ---
 

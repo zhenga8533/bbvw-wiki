@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #487 | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 4.5 m /<br>14.8 ft | 750.0 kg /<br>1653.5 lbs | <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br><span class="tooltip" title="Anticipates an ally’s attack and dodges it.">Telepathy</span> | N/A |
+| #487 | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"}<br>![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 4.5 m /<br>14.8 ft | 750.0 kg /<br>1653.5 lbs | <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br><span class="tooltip" title="Anticipates an ally’s attack and dodges it.">Telepathy</span> | N/A |
 
 ---
 
@@ -80,7 +80,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Hp | 3 | 0 | 340 | Slow | N/A |
+| 3 HP | 3 | 0 | 340 | Slow | N/A |
 
 ---
 

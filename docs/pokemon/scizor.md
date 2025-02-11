@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #212 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.8 m /<br>5.9 ft | 118.0 kg /<br>260.1 lbs | <span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span><br><span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span> | N/A |
+| #212 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.8 m /<br>5.9 ft | 118.0 kg /<br>260.1 lbs | <span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span><br><span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span> | N/A |
 
 ---
 
@@ -83,7 +83,7 @@ Scizor has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 25 | 50 | 175 | Medium | N/A |
+| 2 Atk | 25 | 50 | 175 | Medium | N/A |
 
 ---
 

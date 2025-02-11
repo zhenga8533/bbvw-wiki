@@ -77,7 +77,7 @@ Arcanine has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 75 | 50 | 194 | Slow | <span class="tooltip" title="If held by a Pokémon, it recovers from a burn.">Rawst Berry</span> (100%) |
+| 2 Atk | 75 | 50 | 194 | Slow | <span class="tooltip" title="If held by a Pokémon, it recovers from a burn.">Rawst Berry</span> (100%) |
 
 ---
 

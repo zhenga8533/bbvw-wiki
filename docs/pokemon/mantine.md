@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #226 | ![water](../assets/types/water.png "Water"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 2.1 m /<br>6.9 ft | 220.0 kg /<br>485.0 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br><span class="tooltip" title="Restores HP if hit by a Water-type move.">Water Absorb</span> | N/A |
+| #226 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 2.1 m /<br>6.9 ft | 220.0 kg /<br>485.0 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br><span class="tooltip" title="Restores HP if hit by a Water-type move.">Water Absorb</span> | N/A |
 
 ---
 
@@ -77,7 +77,7 @@ Mantine has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Defense | 25 | 50 | 170 | Slow | N/A |
+| 2 Sp. Def | 25 | 50 | 170 | Slow | N/A |
 
 ---
 

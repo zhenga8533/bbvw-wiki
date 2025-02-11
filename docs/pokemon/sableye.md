@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #302 | ![dark](../assets/types/dark.png "Dark"){: width="48"} ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | 0.5 m /<br>1.6 ft | 11.0 kg /<br>24.3 lbs | <span class="tooltip" title="Gives priority to a status move.">Prankster</span><br><span class="tooltip" title="Boosts move power when the Pokémon moves last.">Analytic</span> | N/A |
+| #302 | ![dark](../assets/types/dark.png "Dark"){: width="48"}<br>![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | 0.5 m /<br>1.6 ft | 11.0 kg /<br>24.3 lbs | <span class="tooltip" title="Gives priority to a status move.">Prankster</span><br><span class="tooltip" title="Boosts move power when the Pokémon moves last.">Analytic</span> | N/A |
 
 ---
 
@@ -75,7 +75,7 @@ Sableye has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack<br>1 Defense | 45 | 35 | 133 | Medium Slo |
+| 1 Atk<br>1 Def | 45 | 35 | 133 | Medium Slo |
 
 ---
 

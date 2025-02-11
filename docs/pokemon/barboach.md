@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #339 | ![water](../assets/types/water.png "Water"){: width="48"} ![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.4 m /<br>1.3 ft | 1.9 kg /<br>4.2 lbs | <span class="tooltip" title="Determines what moves a foe has.">Forewarn</span><br><span class="tooltip" title="The Pokémon is prone to wild stat changes.">Simple</span> | N/A |
+| #339 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.4 m /<br>1.3 ft | 1.9 kg /<br>4.2 lbs | <span class="tooltip" title="Determines what moves a foe has.">Forewarn</span><br><span class="tooltip" title="The Pokémon is prone to wild stat changes.">Simple</span> | N/A |
 
 ---
 
@@ -77,7 +77,7 @@ Barboach has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp | 190 | 50 | 58 | Medium | N/A |
+| 1 HP | 190 | 50 | 58 | Medium | N/A |
 
 ---
 

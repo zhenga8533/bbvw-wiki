@@ -79,7 +79,7 @@ Musharna has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 75 | 50 | 170 | Fast | N/A |
+| 2 HP | 75 | 50 | 170 | Fast | N/A |
 
 ---
 

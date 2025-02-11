@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #170 | ![water](../assets/types/water.png "Water"){: width="48"} ![electric](../assets/types/electric.png "Electric"){: width="48"} | 0.5 m /<br>1.6 ft | 12.0 kg /<br>26.5 lbs | <span class="tooltip" title="Restores HP if hit by an Electric-type move.">Volt Absorb</span><br><span class="tooltip" title="Restores HP if hit by a Water-type move.">Water Absorb</span> | N/A |
+| #170 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![electric](../assets/types/electric.png "Electric"){: width="48"} | 0.5 m /<br>1.6 ft | 12.0 kg /<br>26.5 lbs | <span class="tooltip" title="Restores HP if hit by an Electric-type move.">Volt Absorb</span><br><span class="tooltip" title="Restores HP if hit by a Water-type move.">Water Absorb</span> | N/A |
 
 ---
 
@@ -77,7 +77,7 @@ Chinchou has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp | 190 | 50 | 66 | Slow | <span class="tooltip" title="An item to be held by Clamperl. A scale that shines a faint pink, it raises the Sp. Def stat.">Deep Sea Scale</span> (5%) |
+| 1 HP | 190 | 50 | 66 | Slow | <span class="tooltip" title="An item to be held by Clamperl. A scale that shines a faint pink, it raises the Sp. Def stat.">Deep Sea Scale</span> (5%) |
 
 ---
 

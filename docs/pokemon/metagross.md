@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #376 | ![steel](../assets/types/steel.png "Steel"){: width="48"} ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.6 m /<br>5.2 ft | 550.0 kg /<br>1212.5 lbs | <span class="tooltip" title="Boosts the power of punching moves.">Iron Fist</span><br><span class="tooltip" title="Boosts move power when the Pokémon moves last.">Analytic</span> | N/A |
+| #376 | ![steel](../assets/types/steel.png "Steel"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.6 m /<br>5.2 ft | 550.0 kg /<br>1212.5 lbs | <span class="tooltip" title="Boosts the power of punching moves.">Iron Fist</span><br><span class="tooltip" title="Boosts move power when the Pokémon moves last.">Analytic</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ Metagross has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Defense | 3 | 35 | 300 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a special metallic film that ups the power of Steel-type moves.">Metal Coat</span> (5%) |
+| 3 Def | 3 | 35 | 300 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a special metallic film that ups the power of Steel-type moves.">Metal Coat</span> (5%) |
 
 ---
 

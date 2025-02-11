@@ -75,7 +75,7 @@ Suicune has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense<br>2 Special Defense | 3 | 35 | 290 | Slow | <span class="tooltip" title="If held by a Pokémon and a special attack lands, the attacker also takes damage.">Rowap Berry</span> (100%) |
+| 1 Def<br>2 Sp. Def | 3 | 35 | 290 | Slow | <span class="tooltip" title="If held by a Pokémon and a special attack lands, the attacker also takes damage.">Rowap Berry</span> (100%) |
 
 ---
 

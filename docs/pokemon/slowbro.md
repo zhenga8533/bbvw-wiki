@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #80 | ![water](../assets/types/water.png "Water"){: width="48"} ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.6 m /<br>5.2 ft | 78.5 kg /<br>173.1 lbs | <span class="tooltip" title="Restores a little HP when withdrawn from battle.">Regenerator</span><br><span class="tooltip" title="The Pokémon makes it rain if it appears in battle.">Drizzle</span> | N/A |
+| #80 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.6 m /<br>5.2 ft | 78.5 kg /<br>173.1 lbs | <span class="tooltip" title="Restores a little HP when withdrawn from battle.">Regenerator</span><br><span class="tooltip" title="The Pokémon makes it rain if it appears in battle.">Drizzle</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ Slowbro has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Defense | 75 | 50 | 172 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. When the holder inflicts damage, the target may flinch.">Kings Rock</span> (5%) |
+| 2 Def | 75 | 50 | 172 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. When the holder inflicts damage, the target may flinch.">Kings Rock</span> (5%) |
 
 ---
 

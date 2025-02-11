@@ -77,7 +77,7 @@ Marowak has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Defense | 75 | 50 | 149 | Medium | <span class="tooltip" title="An item to be held by Cubone or Marowak. It is a hard bone of some sort that boosts the Attack stat.">Thick Club</span> (5%) |
+| 2 Def | 75 | 50 | 149 | Medium | <span class="tooltip" title="An item to be held by Cubone or Marowak. It is a hard bone of some sort that boosts the Attack stat.">Thick Club</span> (5%) |
 
 ---
 

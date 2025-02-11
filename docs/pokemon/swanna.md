@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #581 | ![water](../assets/types/water.png "Water"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.3 m /<br>4.3 ft | 24.2 kg /<br>53.4 lbs | <span class="tooltip" title="Heals status problems if it is raining.">Hydration</span><br><span class="tooltip" title="Protects the Pokémon from Defense-lowering attacks.">Big Pecks</span> | #87 |
+| #581 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.3 m /<br>4.3 ft | 24.2 kg /<br>53.4 lbs | <span class="tooltip" title="Heals status problems if it is raining.">Hydration</span><br><span class="tooltip" title="Protects the Pokémon from Defense-lowering attacks.">Big Pecks</span> | #87 |
 
 ---
 
@@ -79,7 +79,7 @@ Swanna has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 45 | 70 | 166 | Medium | N/A |
+| 2 Spd | 45 | 70 | 166 | Medium | N/A |
 
 ---
 

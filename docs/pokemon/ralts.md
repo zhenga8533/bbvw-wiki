@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #280 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.4 m /<br>1.3 ft | 6.6 kg /<br>14.6 lbs | <span class="tooltip" title="Passes a burn, poison, or paralysis to the foe.">Synchronize</span><br><span class="tooltip" title="The Pokémon copies a foe’s Ability.">Trace</span> | N/A |
+| #280 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"}<br>![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.4 m /<br>1.3 ft | 6.6 kg /<br>14.6 lbs | <span class="tooltip" title="Passes a burn, poison, or paralysis to the foe.">Synchronize</span><br><span class="tooltip" title="The Pokémon copies a foe’s Ability.">Trace</span> | N/A |
 
 ---
 
@@ -81,7 +81,7 @@ Ralts has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack | 235 | 35 | 40 | Slow | N/A |
+| 1 Sp. Atk | 235 | 35 | 40 | Slow | N/A |
 
 ---
 

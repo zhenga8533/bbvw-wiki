@@ -79,7 +79,7 @@ Watchog has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 255 | 70 | 147 | Medium | N/A |
+| 2 Atk | 255 | 70 | 147 | Medium | N/A |
 
 ---
 

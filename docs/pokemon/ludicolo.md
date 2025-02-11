@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #272 | ![water](../assets/types/water.png "Water"){: width="48"} ![grass](../assets/types/grass.png "Grass"){: width="48"} | 1.5 m /<br>4.9 ft | 55.0 kg /<br>121.3 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br><span class="tooltip" title="The Pokémon gradually regains HP in rain.">Rain Dish</span> | N/A |
+| #272 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![grass](../assets/types/grass.png "Grass"){: width="48"} | 1.5 m /<br>4.9 ft | 55.0 kg /<br>121.3 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br><span class="tooltip" title="The Pokémon gradually regains HP in rain.">Rain Dish</span> | N/A |
 
 ---
 
@@ -85,7 +85,7 @@ Ludicolo has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Defense | 45 | 50 | 240 | Medium Slo |
+| 3 Sp. Def | 45 | 50 | 240 | Medium Slo |
 
 ---
 

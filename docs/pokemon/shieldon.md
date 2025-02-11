@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #410 | ![rock](../assets/types/rock.png "Rock"){: width="48"} ![steel](../assets/types/steel.png "Steel"){: width="48"} | 0.5 m /<br>1.6 ft | 57.0 kg /<br>125.7 lbs | <span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span><br><span class="tooltip" title="Gives full immunity to all sound-based moves.">Soundproof</span> | N/A |
+| #410 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![steel](../assets/types/steel.png "Steel"){: width="48"} | 0.5 m /<br>1.6 ft | 57.0 kg /<br>125.7 lbs | <span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span><br><span class="tooltip" title="Gives full immunity to all sound-based moves.">Soundproof</span> | N/A |
 
 ---
 
@@ -77,7 +77,7 @@ Shieldon has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 45 | 70 | 70 | Slow Then Very Fast | N/A |
+| 1 Def | 45 | 70 | 70 | Slow Then Very Fast | N/A |
 
 ---
 

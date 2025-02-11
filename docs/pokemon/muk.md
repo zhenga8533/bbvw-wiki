@@ -77,7 +77,7 @@ Muk has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp<br>1 Attack | 75 | 70 | 175 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a bizarre orb that badly poisons the holder in battle.">Toxic Orb</span> (50%) |
+| 1 HP<br>1 Atk | 75 | 70 | 175 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a bizarre orb that badly poisons the holder in battle.">Toxic Orb</span> (50%) |
 
 ---
 

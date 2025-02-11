@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #188 | ![grass](../assets/types/grass.png "Grass"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.6 m /<br>2.0 ft | 1.0 kg /<br>2.2 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br><span class="tooltip" title="Gives priority to a status move.">Prankster</span> | N/A |
+| #188 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.6 m /<br>2.0 ft | 1.0 kg /<br>2.2 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br><span class="tooltip" title="Gives priority to a status move.">Prankster</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ Skiploom has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 120 | 70 | 119 | Medium Slow | N/A |
+| 2 Spd | 120 | 70 | 119 | Medium Slow | N/A |
 
 ---
 

@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #528 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.9 m /<br>3.0 ft | 10.5 kg /<br>23.1 lbs | <span class="tooltip" title="Ignores any stat changes in the Pokémon.">Unaware</span><br><span class="tooltip" title="The Pokémon is prone to wild stat changes.">Simple</span> | #34 |
+| #528 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.9 m /<br>3.0 ft | 10.5 kg /<br>23.1 lbs | <span class="tooltip" title="Ignores any stat changes in the Pokémon.">Unaware</span><br><span class="tooltip" title="The Pokémon is prone to wild stat changes.">Simple</span> | #34 |
 
 ---
 
@@ -79,7 +79,7 @@ Swoobat has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 45 | 180 | 149 | Medium | N/A |
+| 2 Spd | 45 | 180 | 149 | Medium | N/A |
 
 ---
 

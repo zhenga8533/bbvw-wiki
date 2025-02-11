@@ -58,7 +58,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #586 | ![normal](../assets/types/normal.png "Normal"){: width="48"} ![grass](../assets/types/grass.png "Grass"){: width="48"} | 1.9 m /<br>6.2 ft | 92.5 kg /<br>203.9 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br><span class="tooltip" title="Boosts the likelihood of added effects appearing.">Serene Grace</span> | #92 |
+| #586 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![grass](../assets/types/grass.png "Grass"){: width="48"} | 1.9 m /<br>6.2 ft | 92.5 kg /<br>203.9 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br><span class="tooltip" title="Boosts the likelihood of added effects appearing.">Serene Grace</span> | #92 |
 
 ---
 
@@ -97,7 +97,7 @@ Sawsbuck has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 75 | 70 | 166 | Medium | N/A |
+| 2 Atk | 75 | 70 | 166 | Medium | N/A |
 
 ---
 

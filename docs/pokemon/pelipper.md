@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #279 | ![water](../assets/types/water.png "Water"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.2 m /<br>3.9 ft | 28.0 kg /<br>61.7 lbs | <span class="tooltip" title="Prevents other Pokémon from lowering accuracy.">Keen Eye</span><br><span class="tooltip" title="The Pokémon gradually regains HP in rain.">Rain Dish</span> | N/A |
+| #279 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.2 m /<br>3.9 ft | 28.0 kg /<br>61.7 lbs | <span class="tooltip" title="Prevents other Pokémon from lowering accuracy.">Keen Eye</span><br><span class="tooltip" title="The Pokémon gradually regains HP in rain.">Rain Dish</span> | N/A |
 
 ---
 
@@ -77,7 +77,7 @@ Pelipper has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Defense | 45 | 50 | 154 | Mediu |
+| 2 Def | 45 | 50 | 154 | Mediu |
 
 ---
 

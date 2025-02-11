@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #413 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.5 m /<br>1.6 ft | 6.5 kg /<br>14.3 lbs | <span class="tooltip" title="Senses a foe’s dangerous moves.">Anticipation</span><br><span class="tooltip" title="Prevents problems with status in sunny weather.">Leaf Guard</span> | N/A |
+| #413 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.5 m /<br>1.6 ft | 6.5 kg /<br>14.3 lbs | <span class="tooltip" title="Senses a foe’s dangerous moves.">Anticipation</span><br><span class="tooltip" title="Prevents problems with status in sunny weather.">Leaf Guard</span> | N/A |
 
 ---
 
@@ -88,7 +88,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Defense | 45 | 70 | 148 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a shiny, silver powder that ups the power of Bug-type moves.">Silver Powder</span> (5%) |
+| 2 Sp. Def | 45 | 70 | 148 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a shiny, silver powder that ups the power of Bug-type moves.">Silver Powder</span> (5%) |
 
 ---
 

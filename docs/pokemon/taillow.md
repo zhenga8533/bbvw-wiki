@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #276 | ![normal](../assets/types/normal.png "Normal"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.3 m /<br>1.0 ft | 2.3 kg /<br>5.1 lbs | <span class="tooltip" title="Raises Speed if a held item is used.">Unburden</span><br><span class="tooltip" title="Enables moves to hit Ghost-type Pokémon.">Scrappy</span> | N/A |
+| #276 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.3 m /<br>1.0 ft | 2.3 kg /<br>5.1 lbs | <span class="tooltip" title="Raises Speed if a held item is used.">Unburden</span><br><span class="tooltip" title="Enables moves to hit Ghost-type Pokémon.">Scrappy</span> | N/A |
 
 ---
 
@@ -77,7 +77,7 @@ Taillow has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 200 | 70 | 54 | Medium Slow | <span class="tooltip" title="Weakens a supereffective Rock-type attack against the holding Pokémon.">Charti Berry</span> (5%) |
+| 1 Spd | 200 | 70 | 54 | Medium Slow | <span class="tooltip" title="Weakens a supereffective Rock-type attack against the holding Pokémon.">Charti Berry</span> (5%) |
 
 ---
 

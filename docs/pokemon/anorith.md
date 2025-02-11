@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #347 | ![rock](../assets/types/rock.png "Rock"){: width="48"} ![bug](../assets/types/bug.png "Bug"){: width="48"} | 0.7 m /<br>2.3 ft | 12.5 kg /<br>27.6 lbs | <span class="tooltip" title="The Pokémon is protected against critical hits.">Battle Armor</span><br><span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span> | N/A |
+| #347 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![bug](../assets/types/bug.png "Bug"){: width="48"} | 0.7 m /<br>2.3 ft | 12.5 kg /<br>27.6 lbs | <span class="tooltip" title="The Pokémon is protected against critical hits.">Battle Armor</span><br><span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span> | N/A |
 
 ---
 
@@ -77,7 +77,7 @@ Anorith has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 45 | 50 | 71 | Slow Then Very Fast | N/A |
+| 1 Atk | 45 | 50 | 71 | Slow Then Very Fast | N/A |
 
 ---
 

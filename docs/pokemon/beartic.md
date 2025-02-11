@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #614 | ![ice](../assets/types/ice.png "Ice"){: width="48"} ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 2.6 m /<br>8.5 ft | 260.0 kg /<br>573.2 lbs | <span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span><br><span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span> | #120 |
+| #614 | ![ice](../assets/types/ice.png "Ice"){: width="48"}<br>![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 2.6 m /<br>8.5 ft | 260.0 kg /<br>573.2 lbs | <span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span><br><span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span> | #120 |
 
 ---
 
@@ -79,7 +79,7 @@ Beartic has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 60 | 50 | 177 | Medium | <span class="tooltip" title="If held by a Pokémon, it defrosts it.">Aspear Berry</span> (50%) |
+| 2 Atk | 60 | 50 | 177 | Medium | <span class="tooltip" title="If held by a Pokémon, it defrosts it.">Aspear Berry</span> (50%) |
 
 ---
 

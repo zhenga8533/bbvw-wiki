@@ -77,7 +77,7 @@ Rapidash has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 60 | 50 | 175 | Medium | <span class="tooltip" title="Weakens a supereffective Ground-type attack against the holding Pokémon.">Shuca Berry</span> (5%) |
+| 2 Spd | 60 | 50 | 175 | Medium | <span class="tooltip" title="Weakens a supereffective Ground-type attack against the holding Pokémon.">Shuca Berry</span> (5%) |
 
 ---
 

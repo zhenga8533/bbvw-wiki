@@ -33,7 +33,7 @@ Latest (Gen VI+):
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #10018 | ![normal](../assets/types/normal.png "Normal"){: width="48"} ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 0.6 m /<br>2.0 ft | 6.5 kg /<br>14.3 lbs | <span class="tooltip" title="Boosts the likelihood of added effects appearing.">Serene Grace</span> | #154 |
+| #10018 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 0.6 m /<br>2.0 ft | 6.5 kg /<br>14.3 lbs | <span class="tooltip" title="Boosts the likelihood of added effects appearing.">Serene Grace</span> | #154 |
 
 ---
 
@@ -75,7 +75,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack<br>1 Defense<br>1 Speed | 3 | 100 | 270 | Slow | <span class="tooltip" title="A shard of a pretty gem that sparkles in a red color. It can be sold at a high price to shops.">Star Piece</span> (100%) |
+| 1 Atk<br>1 Def<br>1 Spd | 3 | 100 | 270 | Slow | <span class="tooltip" title="A shard of a pretty gem that sparkles in a red color. It can be sold at a high price to shops.">Star Piece</span> (100%) |
 
 ---
 

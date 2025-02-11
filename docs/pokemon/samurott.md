@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #503 | ![water](../assets/types/water.png "Water"){: width="48"} ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.5 m /<br>4.9 ft | 94.6 kg /<br>208.6 lbs | <span class="tooltip" title="Powers up Water-type moves in a pinch.">Torrent</span><br><span class="tooltip" title="Prevents the Pokémon from falling asleep.">Vital Spirit</span> | #9 |
+| #503 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.5 m /<br>4.9 ft | 94.6 kg /<br>208.6 lbs | <span class="tooltip" title="Powers up Water-type moves in a pinch.">Torrent</span><br><span class="tooltip" title="Prevents the Pokémon from falling asleep.">Vital Spirit</span> | #9 |
 
 ---
 
@@ -81,7 +81,7 @@ Samurott has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Attack | 45 | 70 | 238 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a teardrop-shaped gem that ups the power of Water-type moves.">Mystic Water</span> (50%) |
+| 3 Sp. Atk | 45 | 70 | 238 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a teardrop-shaped gem that ups the power of Water-type moves.">Mystic Water</span> (50%) |
 
 ---
 

@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #541 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.5 m /<br>1.6 ft | 7.3 kg /<br>16.1 lbs | <span class="tooltip" title="Prevents problems with status in sunny weather.">Leaf Guard</span><br><span class="tooltip" title="Protects the Pokémon from damage from weather.">Overcoat</span> | #47 |
+| #541 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.5 m /<br>1.6 ft | 7.3 kg /<br>16.1 lbs | <span class="tooltip" title="Prevents problems with status in sunny weather.">Leaf Guard</span><br><span class="tooltip" title="Protects the Pokémon from damage from weather.">Overcoat</span> | #47 |
 
 ---
 
@@ -81,7 +81,7 @@ Swadloon has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Defense | 120 | 180 | 133 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It snaps the holder out of infatuation. It can be used only once.">Mental Herb</span> (5%) |
+| 2 Def | 120 | 180 | 133 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It snaps the holder out of infatuation. It can be used only once.">Mental Herb</span> (5%) |
 
 ---
 

@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #434 | ![poison](../assets/types/poison.png "Poison"){: width="48"} ![dark](../assets/types/dark.png "Dark"){: width="48"} | 0.4 m /<br>1.3 ft | 19.2 kg /<br>42.3 lbs | <span class="tooltip" title="The stench may cause the target to flinch.">Stench</span><br><span class="tooltip" title="Damages the attacker landing the finishing hit.">Aftermath</span> | N/A |
+| #434 | ![poison](../assets/types/poison.png "Poison"){: width="48"}<br>![dark](../assets/types/dark.png "Dark"){: width="48"} | 0.4 m /<br>1.3 ft | 19.2 kg /<br>42.3 lbs | <span class="tooltip" title="The stench may cause the target to flinch.">Stench</span><br><span class="tooltip" title="Damages the attacker landing the finishing hit.">Aftermath</span> | N/A |
 
 ---
 
@@ -77,7 +77,7 @@ Stunky has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 225 | 50 | 66 | Medium | <span class="tooltip" title="If held by a Pokémon, it recovers from poison.">Pecha Berry</span> (5%) |
+| 1 Spd | 225 | 50 | 66 | Medium | <span class="tooltip" title="If held by a Pokémon, it recovers from poison.">Pecha Berry</span> (5%) |
 
 ---
 

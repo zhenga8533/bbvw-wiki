@@ -79,7 +79,7 @@ Munna has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp | 190 | 50 | 58 | Fast | N/A |
+| 1 HP | 190 | 50 | 58 | Fast | N/A |
 
 ---
 

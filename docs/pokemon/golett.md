@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #622 | ![ground](../assets/types/ground.png "Ground"){: width="48"} ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | 1.0 m /<br>3.3 ft | 92.0 kg /<br>202.8 lbs | <span class="tooltip" title="Boosts the power of punching moves.">Iron Fist</span><br><span class="tooltip" title="The Pokémon can’t use any held items.">Klutz</span> | #128 |
+| #622 | ![ground](../assets/types/ground.png "Ground"){: width="48"}<br>![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | 1.0 m /<br>3.3 ft | 92.0 kg /<br>202.8 lbs | <span class="tooltip" title="Boosts the power of punching moves.">Iron Fist</span><br><span class="tooltip" title="The Pokémon can’t use any held items.">Klutz</span> | #128 |
 
 ---
 
@@ -83,7 +83,7 @@ Golett has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 190 | 50 | 61 | Medium | <span class="tooltip" title="A Pokémon held item that extends the duration of barrier moves like Light Screen and Reflect used by the holder.">Light Clay</span> (5%) |
+| 1 Atk | 190 | 50 | 61 | Medium | <span class="tooltip" title="A Pokémon held item that extends the duration of barrier moves like Light Screen and Reflect used by the holder.">Light Clay</span> (5%) |
 
 ---
 

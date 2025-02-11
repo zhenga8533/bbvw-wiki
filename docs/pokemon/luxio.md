@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #404 | ![electric](../assets/types/electric.png "Electric"){: width="48"} ![dark](../assets/types/dark.png "Dark"){: width="48"} | 0.9 m /<br>3.0 ft | 30.5 kg /<br>67.2 lbs | <span class="tooltip" title="Boosts Attack if there is a status problem.">Guts</span><br><span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span> | N/A |
+| #404 | ![electric](../assets/types/electric.png "Electric"){: width="48"}<br>![dark](../assets/types/dark.png "Dark"){: width="48"} | 0.9 m /<br>3.0 ft | 30.5 kg /<br>67.2 lbs | <span class="tooltip" title="Boosts Attack if there is a status problem.">Guts</span><br><span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span> | N/A |
 
 ---
 
@@ -85,7 +85,7 @@ Luxio has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 120 | 100 | 127 | Medium Slow | N/A |
+| 2 Atk | 120 | 100 | 127 | Medium Slow | N/A |
 
 ---
 

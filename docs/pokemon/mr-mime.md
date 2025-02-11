@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #122 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 1.3 m /<br>4.3 ft | 54.5 kg /<br>120.2 lbs | <span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span><br><span class="tooltip" title="Reduces damage from supereffective attacks.">Filter</span> | N/A |
+| #122 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"}<br>![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 1.3 m /<br>4.3 ft | 54.5 kg /<br>120.2 lbs | <span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span><br><span class="tooltip" title="Reduces damage from supereffective attacks.">Filter</span> | N/A |
 
 ---
 
@@ -77,7 +77,7 @@ Mr Mime has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Defense | 45 | 50 | 161 | Medium | <span class="tooltip" title="If held by a Pokémon, it restores a move’s PP by 10.">Leppa Berry</span> (5%) |
+| 2 Sp. Def | 45 | 50 | 161 | Medium | <span class="tooltip" title="If held by a Pokémon, it restores a move’s PP by 10.">Leppa Berry</span> (5%) |
 
 ---
 

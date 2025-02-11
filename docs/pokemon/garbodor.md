@@ -79,7 +79,7 @@ Garbodor has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 60 | 50 | 166 | Medium | <span class="tooltip" title="A nugget of pure gold that gives off a lustrous gleam. It can be sold at a high price to shops.">Nugget</span> (5%)<br><span class="tooltip" title="A held item that gradually restores the HP of Poison-type Pokémon. It inflicts damage on all other types.">Black Sludge</span> (50%)<br><span class="tooltip" title="A big nugget of pure gold that gives off a lustrous gleam. A maniac will buy it for a high price.">Big Nugget</span> (1%) |
+| 2 Atk | 60 | 50 | 166 | Medium | <span class="tooltip" title="A nugget of pure gold that gives off a lustrous gleam. It can be sold at a high price to shops.">Nugget</span> (5%)<br><span class="tooltip" title="A held item that gradually restores the HP of Poison-type Pokémon. It inflicts damage on all other types.">Black Sludge</span> (50%)<br><span class="tooltip" title="A big nugget of pure gold that gives off a lustrous gleam. A maniac will buy it for a high price.">Big Nugget</span> (1%) |
 
 ---
 

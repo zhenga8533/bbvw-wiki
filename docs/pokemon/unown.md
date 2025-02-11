@@ -237,7 +237,7 @@ Unown has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack<br>1 Special Attack | 225 | 70 | 118 | Medium | N/A |
+| 1 Atk<br>1 Sp. Atk | 225 | 70 | 118 | Medium | N/A |
 
 ---
 

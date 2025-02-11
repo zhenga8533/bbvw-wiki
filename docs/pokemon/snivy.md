@@ -81,7 +81,7 @@ Snivy has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 45 | 0 | 62 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a seed imbued with life that ups the power of Grass-type moves.">Miracle Seed</span> (50%) |
+| 1 Spd | 45 | 0 | 62 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a seed imbued with life that ups the power of Grass-type moves.">Miracle Seed</span> (50%) |
 
 ---
 

@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #623 | ![ground](../assets/types/ground.png "Ground"){: width="48"} ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | 2.8 m /<br>9.2 ft | 330.0 kg /<br>727.5 lbs | <span class="tooltip" title="Boosts the power of punching moves.">Iron Fist</span><br><span class="tooltip" title="Ensures attacks by or against the Pokémon land.">No Guard</span> | #129 |
+| #623 | ![ground](../assets/types/ground.png "Ground"){: width="48"}<br>![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | 2.8 m /<br>9.2 ft | 330.0 kg /<br>727.5 lbs | <span class="tooltip" title="Boosts the power of punching moves.">Iron Fist</span><br><span class="tooltip" title="Ensures attacks by or against the Pokémon land.">No Guard</span> | #129 |
 
 ---
 
@@ -79,7 +79,7 @@ Golurk has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 90 | 50 | 169 | Medium | <span class="tooltip" title="A Pokémon held item that extends the duration of barrier moves like Light Screen and Reflect used by the holder.">Light Clay</span> (5%) |
+| 2 Atk | 90 | 50 | 169 | Medium | <span class="tooltip" title="A Pokémon held item that extends the duration of barrier moves like Light Screen and Reflect used by the holder.">Light Clay</span> (5%) |
 
 ---
 

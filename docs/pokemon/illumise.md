@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #314 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![electric](../assets/types/electric.png "Electric"){: width="48"} | 0.6 m /<br>2.0 ft | 17.7 kg /<br>39.0 lbs | <span class="tooltip" title="Gives priority to a status move.">Prankster</span><br><span class="tooltip" title="Powers up “not very effective” moves.">Tinted Lens</span> | N/A |
+| #314 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![electric](../assets/types/electric.png "Electric"){: width="48"} | 0.6 m /<br>2.0 ft | 17.7 kg /<br>39.0 lbs | <span class="tooltip" title="Gives priority to a status move.">Prankster</span><br><span class="tooltip" title="Powers up “not very effective” moves.">Tinted Lens</span> | N/A |
 
 ---
 
@@ -75,7 +75,7 @@ Illumise has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 150 | 70 | 151 | Fast Then Very Slo |
+| 1 Spd | 150 | 70 | 151 | Fast Then Very Slo |
 
 ---
 

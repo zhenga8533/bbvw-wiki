@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #16 | ![normal](../assets/types/normal.png "Normal"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.3 m /<br>1.0 ft | 1.8 kg /<br>4.0 lbs | <span class="tooltip" title="Protects the Pokémon from Defense-lowering attacks.">Big Pecks</span><br><span class="tooltip" title="Raises evasion if the Pokémon is confused.">Tangled Feet</span> | N/A |
+| #16 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.3 m /<br>1.0 ft | 1.8 kg /<br>4.0 lbs | <span class="tooltip" title="Protects the Pokémon from Defense-lowering attacks.">Big Pecks</span><br><span class="tooltip" title="Raises evasion if the Pokémon is confused.">Tangled Feet</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ Pidgey has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 255 | 70 | 50 | Medium Slow | <span class="tooltip" title="If held by a Pokémon,  it heals the user by just 10 HP.">Oran Berry</span> (5%) |
+| 1 Spd | 255 | 70 | 50 | Medium Slow | <span class="tooltip" title="If held by a Pokémon,  it heals the user by just 10 HP.">Oran Berry</span> (5%) |
 
 ---
 

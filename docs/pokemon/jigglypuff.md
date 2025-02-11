@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #39 | ![normal](../assets/types/normal.png "Normal"){: width="48"} ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.5 m /<br>1.6 ft | 5.5 kg /<br>12.1 lbs | <span class="tooltip" title="Contact with the Pokémon may cause infatuation.">Cute Charm</span><br><span class="tooltip" title="Reduces damage done to allies.">Friend Guard</span> | N/A |
+| #39 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.5 m /<br>1.6 ft | 5.5 kg /<br>12.1 lbs | <span class="tooltip" title="Contact with the Pokémon may cause infatuation.">Cute Charm</span><br><span class="tooltip" title="Reduces damage done to allies.">Friend Guard</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ Jigglypuff has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 170 | 50 | 95 | Fas |
+| 2 HP | 170 | 50 | 95 | Fas |
 
 ---
 

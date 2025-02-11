@@ -77,7 +77,7 @@ Buneary has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 190 | 140 | 70 | Medium | <span class="tooltip" title="Weakens a supereffective Fighting-type attack against the holding Pokémon.">Chople Berry</span> (5%) |
+| 1 Spd | 190 | 140 | 70 | Medium | <span class="tooltip" title="Weakens a supereffective Fighting-type attack against the holding Pokémon.">Chople Berry</span> (5%) |
 
 ---
 

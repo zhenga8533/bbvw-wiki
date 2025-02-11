@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #1 | ![grass](../assets/types/grass.png "Grass"){: width="48"} ![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.7 m /<br>2.3 ft | 6.9 kg /<br>15.2 lbs | <span class="tooltip" title="Powers up Grass-type moves in a pinch.">Overgrow</span><br><span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span> | N/A |
+| #1 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.7 m /<br>2.3 ft | 6.9 kg /<br>15.2 lbs | <span class="tooltip" title="Powers up Grass-type moves in a pinch.">Overgrow</span><br><span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ Bulbasaur has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack | 45 | 50 | 64 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a seed imbued with life that ups the power of Grass-type moves.">Miracle Seed</span> (50%) |
+| 1 Sp. Atk | 45 | 50 | 64 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a seed imbued with life that ups the power of Grass-type moves.">Miracle Seed</span> (50%) |
 
 ---
 

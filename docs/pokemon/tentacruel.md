@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #73 | ![water](../assets/types/water.png "Water"){: width="48"} ![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.6 m /<br>5.2 ft | 55.0 kg /<br>121.3 lbs | <span class="tooltip" title="Prevents other Pokémon from lowering its stats.">Clear Body</span><br><span class="tooltip" title="Damages attackers using any draining move.">Liquid Ooze</span> | N/A |
+| #73 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.6 m /<br>5.2 ft | 55.0 kg /<br>121.3 lbs | <span class="tooltip" title="Prevents other Pokémon from lowering its stats.">Clear Body</span><br><span class="tooltip" title="Damages attackers using any draining move.">Liquid Ooze</span> | N/A |
 
 ---
 
@@ -77,7 +77,7 @@ Tentacruel has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Defense | 60 | 50 | 180 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a small, poisonous barb that ups the power of Poison-type moves.">Poison Barb</span> (5%) |
+| 2 Sp. Def | 60 | 50 | 180 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a small, poisonous barb that ups the power of Poison-type moves.">Poison Barb</span> (5%) |
 
 ---
 

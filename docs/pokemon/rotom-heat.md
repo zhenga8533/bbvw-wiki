@@ -31,7 +31,7 @@ Latest (Gen VI+):
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #10008 | ![electric](../assets/types/electric.png "Electric"){: width="48"} ![fire](../assets/types/fire.png "Fire"){: width="48"} | 0.3 m /<br>1.0 ft | 0.3 kg /<br>0.7 lbs | <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
+| #10008 | ![electric](../assets/types/electric.png "Electric"){: width="48"}<br>![fire](../assets/types/fire.png "Fire"){: width="48"} | 0.3 m /<br>1.0 ft | 0.3 kg /<br>0.7 lbs | <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack<br>1 Speed | 45 | 50 | 182 | Medium | N/A |
+| 1 Sp. Atk<br>1 Spd | 45 | 50 | 182 | Medium | N/A |
 
 ---
 

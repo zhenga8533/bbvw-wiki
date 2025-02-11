@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #380 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.4 m /<br>4.6 ft | 40.0 kg /<br>88.2 lbs | <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
+| #380 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.4 m /<br>4.6 ft | 40.0 kg /<br>88.2 lbs | <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
 
 ---
 
@@ -75,7 +75,7 @@ Latias has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Defense | 3 | 90 | 300 | Slow | N/A |
+| 3 Sp. Def | 3 | 90 | 300 | Slow | N/A |
 
 ---
 

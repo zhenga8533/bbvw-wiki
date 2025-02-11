@@ -85,7 +85,7 @@ Torchic has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack | 45 | 50 | 62 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a combustible fuel that boosts the power of Fire-type moves.">Charcoal</span> (50%) |
+| 1 Sp. Atk | 45 | 50 | 62 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a combustible fuel that boosts the power of Fire-type moves.">Charcoal</span> (50%) |
 
 ---
 

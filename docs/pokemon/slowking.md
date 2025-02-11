@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #199 | ![water](../assets/types/water.png "Water"){: width="48"} ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 2.0 m /<br>6.6 ft | 79.5 kg /<br>175.3 lbs | <span class="tooltip" title="Restores a little HP when withdrawn from battle.">Regenerator</span><br><span class="tooltip" title="The Pokémon makes it rain if it appears in battle.">Drizzle</span> | N/A |
+| #199 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 2.0 m /<br>6.6 ft | 79.5 kg /<br>175.3 lbs | <span class="tooltip" title="Restores a little HP when withdrawn from battle.">Regenerator</span><br><span class="tooltip" title="The Pokémon makes it rain if it appears in battle.">Drizzle</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ Slowking has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Defense | 70 | 50 | 172 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. When the holder inflicts damage, the target may flinch.">Kings Rock</span> (5%) |
+| 2 Sp. Def | 70 | 50 | 172 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. When the holder inflicts damage, the target may flinch.">Kings Rock</span> (5%) |
 
 ---
 

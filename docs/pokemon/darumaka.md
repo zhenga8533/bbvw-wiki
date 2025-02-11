@@ -81,7 +81,7 @@ Darumaka has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 120 | 50 | 63 | Medium Slow | <span class="tooltip" title="If held by a Pokémon, it recovers from a burn.">Rawst Berry</span> (50%) |
+| 1 Atk | 120 | 50 | 63 | Medium Slow | <span class="tooltip" title="If held by a Pokémon, it recovers from a burn.">Rawst Berry</span> (50%) |
 
 ---
 

@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #183 | ![water](../assets/types/water.png "Water"){: width="48"} ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.4 m /<br>1.3 ft | 8.5 kg /<br>18.7 lbs | <span class="tooltip" title="Boosts Attack when hit by a Grass-type move.">Sap Sipper</span><br><span class="tooltip" title="Raises the Pokémon’s Attack stat.">Huge Power</span> | N/A |
+| #183 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.4 m /<br>1.3 ft | 8.5 kg /<br>18.7 lbs | <span class="tooltip" title="Boosts Attack when hit by a Grass-type move.">Sap Sipper</span><br><span class="tooltip" title="Raises the Pokémon’s Attack stat.">Huge Power</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ Marill has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 190 | 50 | 88 | Fast | N/A |
+| 2 HP | 190 | 50 | 88 | Fast | N/A |
 
 ---
 

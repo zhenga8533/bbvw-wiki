@@ -33,7 +33,7 @@ Latest (Gen VI+):
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #10022 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} ![ice](../assets/types/ice.png "Ice"){: width="48"} | 3.3 m /<br>10.8 ft | 325.0 kg /<br>716.5 lbs | <span class="tooltip" title="Moves can be used regardless of Abilities.">Teravolt</span> | #152 |
+| #10022 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"}<br>![ice](../assets/types/ice.png "Ice"){: width="48"} | 3.3 m /<br>10.8 ft | 325.0 kg /<br>716.5 lbs | <span class="tooltip" title="Moves can be used regardless of Abilities.">Teravolt</span> | #152 |
 
 ---
 
@@ -75,7 +75,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Attack | 3 | 0 | 350 | Slow | N/A |
+| 3 Atk | 3 | 0 | 350 | Slow | N/A |
 
 ---
 

@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #648 | ![normal](../assets/types/normal.png "Normal"){: width="48"} ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 0.6 m /<br>2.0 ft | 6.5 kg /<br>14.3 lbs | <span class="tooltip" title="Boosts the likelihood of added effects appearing.">Serene Grace</span><br><span class="tooltip" title="The Pokémon only takes damage from attacks.">Magic Guard</span> | #154 |
+| #648 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 0.6 m /<br>2.0 ft | 6.5 kg /<br>14.3 lbs | <span class="tooltip" title="Boosts the likelihood of added effects appearing.">Serene Grace</span><br><span class="tooltip" title="The Pokémon only takes damage from attacks.">Magic Guard</span> | #154 |
 
 ---
 
@@ -82,7 +82,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack<br>1 Special Defense<br>1 Speed | 3 | 100 | 270 | Slow | <span class="tooltip" title="A shard of a pretty gem that sparkles in a red color. It can be sold at a high price to shops.">Star Piece</span> (100%) |
+| 1 Sp. Atk<br>1 Sp. Def<br>1 Spd | 3 | 100 | 270 | Slow | <span class="tooltip" title="A shard of a pretty gem that sparkles in a red color. It can be sold at a high price to shops.">Star Piece</span> (100%) |
 
 ---
 

@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #103 | ![grass](../assets/types/grass.png "Grass"){: width="48"} ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 2.0 m /<br>6.6 ft | 120.0 kg /<br>264.6 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br><span class="tooltip" title="May create another Berry after one is used.">Harvest</span> | N/A |
+| #103 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 2.0 m /<br>6.6 ft | 120.0 kg /<br>264.6 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br><span class="tooltip" title="May create another Berry after one is used.">Harvest</span> | N/A |
 
 ---
 
@@ -77,7 +77,7 @@ Exeggutor has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Attack | 45 | 50 | 186 | Slow | N/A |
+| 2 Sp. Atk | 45 | 50 | 186 | Slow | N/A |
 
 ---
 

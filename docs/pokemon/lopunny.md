@@ -77,7 +77,7 @@ Lopunny has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 60 | 140 | 168 | Medium | <span class="tooltip" title="Weakens a supereffective Fighting-type attack against the holding Pokémon.">Chople Berry</span> (5%) |
+| 2 Spd | 60 | 140 | 168 | Medium | <span class="tooltip" title="Weakens a supereffective Fighting-type attack against the holding Pokémon.">Chople Berry</span> (5%) |
 
 ---
 

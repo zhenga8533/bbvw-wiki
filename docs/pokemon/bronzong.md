@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #437 | ![steel](../assets/types/steel.png "Steel"){: width="48"} ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.3 m /<br>4.3 ft | 187.0 kg /<br>412.3 lbs | <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span><br><span class="tooltip" title="Weakens the power of Fire-type moves.">Heatproof</span> | N/A |
+| #437 | ![steel](../assets/types/steel.png "Steel"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.3 m /<br>4.3 ft | 187.0 kg /<br>412.3 lbs | <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span><br><span class="tooltip" title="Weakens the power of Fire-type moves.">Heatproof</span> | N/A |
 
 ---
 
@@ -77,7 +77,7 @@ Bronzong has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense<br>1 Special Defense | 90 | 50 | 175 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a special metallic film that ups the power of Steel-type moves.">Metal Coat</span> (5%) |
+| 1 Def<br>1 Sp. Def | 90 | 50 | 175 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a special metallic film that ups the power of Steel-type moves.">Metal Coat</span> (5%) |
 
 ---
 

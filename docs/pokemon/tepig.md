@@ -81,7 +81,7 @@ Tepig has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp | 45 | 70 | 62 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a combustible fuel that boosts the power of Fire-type moves.">Charcoal</span> (50%) |
+| 1 HP | 45 | 70 | 62 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a combustible fuel that boosts the power of Fire-type moves.">Charcoal</span> (50%) |
 
 ---
 

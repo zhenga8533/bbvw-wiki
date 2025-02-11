@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #552 | ![ground](../assets/types/ground.png "Ground"){: width="48"} ![dark](../assets/types/dark.png "Dark"){: width="48"} | 1.0 m /<br>3.3 ft | 33.4 kg /<br>73.6 lbs | <span class="tooltip" title="Maxes Attack after taking a critical hit.">Anger Point</span><br><span class="tooltip" title="Boosts Attack after knocking out any Pokémon.">Moxie</span> | #58 |
+| #552 | ![ground](../assets/types/ground.png "Ground"){: width="48"}<br>![dark](../assets/types/dark.png "Dark"){: width="48"} | 1.0 m /<br>3.3 ft | 33.4 kg /<br>73.6 lbs | <span class="tooltip" title="Maxes Attack after taking a critical hit.">Anger Point</span><br><span class="tooltip" title="Boosts Attack after knocking out any Pokémon.">Moxie</span> | #58 |
 
 ---
 
@@ -81,7 +81,7 @@ Krokorok has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 90 | 50 | 123 | Medium Slo |
+| 2 Atk | 90 | 50 | 123 | Medium Slo |
 
 ---
 

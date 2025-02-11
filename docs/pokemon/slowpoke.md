@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #79 | ![water](../assets/types/water.png "Water"){: width="48"} ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.2 m /<br>3.9 ft | 36.0 kg /<br>79.4 lbs | <span class="tooltip" title="Restores a little HP when withdrawn from battle.">Regenerator</span><br><span class="tooltip" title="The Pokémon makes it rain if it appears in battle.">Drizzle</span> | N/A |
+| #79 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.2 m /<br>3.9 ft | 36.0 kg /<br>79.4 lbs | <span class="tooltip" title="Restores a little HP when withdrawn from battle.">Regenerator</span><br><span class="tooltip" title="The Pokémon makes it rain if it appears in battle.">Drizzle</span> | N/A |
 
 ---
 
@@ -84,7 +84,7 @@ Slowpoke has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp | 190 | 50 | 63 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is tremendously heavy and makes the holder move slower than usual.">Lagging Tail</span> (5%) |
+| 1 HP | 190 | 50 | 63 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is tremendously heavy and makes the holder move slower than usual.">Lagging Tail</span> (5%) |
 
 ---
 

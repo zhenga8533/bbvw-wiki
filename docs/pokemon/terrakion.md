@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #639 | ![rock](../assets/types/rock.png "Rock"){: width="48"} ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.9 m /<br>6.2 ft | 260.0 kg /<br>573.2 lbs | <span class="tooltip" title="Raises Attack when hit by a Dark-type move.">Justified</span> | #145 |
+| #639 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.9 m /<br>6.2 ft | 260.0 kg /<br>573.2 lbs | <span class="tooltip" title="Raises Attack when hit by a Dark-type move.">Justified</span> | #145 |
 
 ---
 
@@ -77,7 +77,7 @@ Terrakion has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Attack | 3 | 35 | 290 | Slow | N/A |
+| 3 Atk | 3 | 35 | 290 | Slow | N/A |
 
 ---
 

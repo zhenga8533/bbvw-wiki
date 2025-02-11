@@ -79,7 +79,7 @@ Simisage has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 75 | 70 | 174 | Medium | <span class="tooltip" title="If held by a Pokémon,  it heals the user by just 10 HP.">Oran Berry</span> (50%)<br><span class="tooltip" title="Weakens a supereffective Fire-type attack against the holding Pokémon.">Occa Berry</span> (5%) |
+| 2 Spd | 75 | 70 | 174 | Medium | <span class="tooltip" title="If held by a Pokémon,  it heals the user by just 10 HP.">Oran Berry</span> (50%)<br><span class="tooltip" title="Weakens a supereffective Fire-type attack against the holding Pokémon.">Occa Berry</span> (5%) |
 
 ---
 

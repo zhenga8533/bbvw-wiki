@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #633 | ![dark](../assets/types/dark.png "Dark"){: width="48"} ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 0.8 m /<br>2.6 ft | 17.3 kg /<br>38.1 lbs | <span class="tooltip" title="Boosts the Attack stat, but lowers accuracy.">Hustle</span><br><span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span> | #139 |
+| #633 | ![dark](../assets/types/dark.png "Dark"){: width="48"}<br>![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 0.8 m /<br>2.6 ft | 17.3 kg /<br>38.1 lbs | <span class="tooltip" title="Boosts the Attack stat, but lowers accuracy.">Hustle</span><br><span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span> | #139 |
 
 ---
 
@@ -85,7 +85,7 @@ Deino has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 45 | 35 | 60 | Slow | N/A |
+| 1 Atk | 45 | 35 | 60 | Slow | N/A |
 
 ---
 

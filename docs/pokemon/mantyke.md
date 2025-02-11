@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #458 | ![water](../assets/types/water.png "Water"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.0 m /<br>3.3 ft | 65.0 kg /<br>143.3 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br><span class="tooltip" title="Restores HP if hit by a Water-type move.">Water Absorb</span> | N/A |
+| #458 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.0 m /<br>3.3 ft | 65.0 kg /<br>143.3 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br><span class="tooltip" title="Restores HP if hit by a Water-type move.">Water Absorb</span> | N/A |
 
 ---
 
@@ -77,7 +77,7 @@ Mantyke has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense | 25 | 50 | 69 | Slow | N/A |
+| 1 Sp. Def | 25 | 50 | 69 | Slow | N/A |
 
 ---
 

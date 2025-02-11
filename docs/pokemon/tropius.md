@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #357 | ![grass](../assets/types/grass.png "Grass"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 2.0 m /<br>6.6 ft | 100.0 kg /<br>220.5 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br><span class="tooltip" title="May create another Berry after one is used.">Harvest</span> | N/A |
+| #357 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 2.0 m /<br>6.6 ft | 100.0 kg /<br>220.5 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br><span class="tooltip" title="May create another Berry after one is used.">Harvest</span> | N/A |
 
 ---
 
@@ -75,7 +75,7 @@ Tropius has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 200 | 70 | 161 | Slow | N/A |
+| 2 HP | 200 | 70 | 161 | Slow | N/A |
 
 ---
 

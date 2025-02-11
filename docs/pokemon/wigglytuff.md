@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #40 | ![normal](../assets/types/normal.png "Normal"){: width="48"} ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 1.0 m /<br>3.3 ft | 12.0 kg /<br>26.5 lbs | <span class="tooltip" title="Contact with the Pokémon may cause infatuation.">Cute Charm</span><br><span class="tooltip" title="The Pokémon can check a foe’s held item.">Frisk</span> | N/A |
+| #40 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 1.0 m /<br>3.3 ft | 12.0 kg /<br>26.5 lbs | <span class="tooltip" title="Contact with the Pokémon may cause infatuation.">Cute Charm</span><br><span class="tooltip" title="The Pokémon can check a foe’s held item.">Frisk</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ Wigglytuff has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Hp | 50 | 50 | 218 | Fas |
+| 3 HP | 50 | 50 | 218 | Fas |
 
 ---
 

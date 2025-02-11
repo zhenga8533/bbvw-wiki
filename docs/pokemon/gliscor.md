@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #472 | ![ground](../assets/types/ground.png "Ground"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 2.0 m /<br>6.6 ft | 42.5 kg /<br>93.7 lbs | <span class="tooltip" title="Prevents other Pokémon from lowering Attack stat.">Hyper Cutter</span><br><span class="tooltip" title="Restores HP if the Pokémon is poisoned.">Poison Heal</span> | N/A |
+| #472 | ![ground](../assets/types/ground.png "Ground"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 2.0 m /<br>6.6 ft | 42.5 kg /<br>93.7 lbs | <span class="tooltip" title="Prevents other Pokémon from lowering Attack stat.">Hyper Cutter</span><br><span class="tooltip" title="Restores HP if the Pokémon is poisoned.">Poison Heal</span> | N/A |
 
 ---
 
@@ -77,7 +77,7 @@ Gliscor has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Defense | 30 | 70 | 179 | Medium Slow | N/A |
+| 2 Def | 30 | 70 | 179 | Medium Slow | N/A |
 
 ---
 

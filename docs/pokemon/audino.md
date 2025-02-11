@@ -77,7 +77,7 @@ Audino has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 255 | 50 | 390 | Fast | <span class="tooltip" title="If held by a Pokémon,  it heals the user by just 10 HP.">Oran Berry</span> (50%)<br><span class="tooltip" title="If held by a Pokémon, it heals the user’s HP a little.">Sitrus Berry</span> (5%) |
+| 2 HP | 255 | 50 | 390 | Fast | <span class="tooltip" title="If held by a Pokémon,  it heals the user by just 10 HP.">Oran Berry</span> (50%)<br><span class="tooltip" title="If held by a Pokémon, it heals the user’s HP a little.">Sitrus Berry</span> (5%) |
 
 ---
 

@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #13 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.3 m /<br>1.0 ft | 3.2 kg /<br>7.1 lbs | <span class="tooltip" title="Blocks the added effects of attacks taken.">Shield Dust</span><br><span class="tooltip" title="May poison targets when a Pokémon makes contact.">Poison Touch</span> | N/A |
+| #13 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.3 m /<br>1.0 ft | 3.2 kg /<br>7.1 lbs | <span class="tooltip" title="Blocks the added effects of attacks taken.">Shield Dust</span><br><span class="tooltip" title="May poison targets when a Pokémon makes contact.">Poison Touch</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ Weedle has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 255 | 70 | 39 | Medium | N/A |
+| 1 Spd | 255 | 70 | 39 | Medium | N/A |
 
 ---
 

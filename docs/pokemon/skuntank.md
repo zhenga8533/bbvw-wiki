@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #435 | ![poison](../assets/types/poison.png "Poison"){: width="48"} ![dark](../assets/types/dark.png "Dark"){: width="48"} | 1.0 m /<br>3.3 ft | 38.0 kg /<br>83.8 lbs | <span class="tooltip" title="The stench may cause the target to flinch.">Stench</span><br><span class="tooltip" title="Damages the attacker landing the finishing hit.">Aftermath</span> | N/A |
+| #435 | ![poison](../assets/types/poison.png "Poison"){: width="48"}<br>![dark](../assets/types/dark.png "Dark"){: width="48"} | 1.0 m /<br>3.3 ft | 38.0 kg /<br>83.8 lbs | <span class="tooltip" title="The stench may cause the target to flinch.">Stench</span><br><span class="tooltip" title="Damages the attacker landing the finishing hit.">Aftermath</span> | N/A |
 
 ---
 
@@ -77,7 +77,7 @@ Skuntank has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 60 | 50 | 168 | Medium | <span class="tooltip" title="If held by a Pokémon, it recovers from poison.">Pecha Berry</span> (5%) |
+| 2 HP | 60 | 50 | 168 | Medium | <span class="tooltip" title="If held by a Pokémon, it recovers from poison.">Pecha Berry</span> (5%) |
 
 ---
 

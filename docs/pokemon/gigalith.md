@@ -81,7 +81,7 @@ Gigalith has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Attack | 45 | 50 | 258 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. The Pokémon holding this peculiar stone is prevented from evolving.">Everstone</span> (50%)<br><span class="tooltip" title="An item to be held by a Pokémon. It is an unbreakable stone that ups the power of Rock-type moves.">Hard Stone</span> (5%) |
+| 3 Atk | 45 | 50 | 258 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. The Pokémon holding this peculiar stone is prevented from evolving.">Everstone</span> (50%)<br><span class="tooltip" title="An item to be held by a Pokémon. It is an unbreakable stone that ups the power of Rock-type moves.">Hard Stone</span> (5%) |
 
 ---
 

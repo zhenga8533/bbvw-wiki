@@ -31,7 +31,7 @@ Latest (Gen VI+):
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #10005 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![steel](../assets/types/steel.png "Steel"){: width="48"} | 0.5 m /<br>1.6 ft | 6.5 kg /<br>14.3 lbs | <span class="tooltip" title="Senses a foe’s dangerous moves.">Anticipation</span><br><span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span> | N/A |
+| #10005 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![steel](../assets/types/steel.png "Steel"){: width="48"} | 0.5 m /<br>1.6 ft | 6.5 kg /<br>14.3 lbs | <span class="tooltip" title="Senses a foe’s dangerous moves.">Anticipation</span><br><span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span> | N/A |
 
 ---
 
@@ -81,7 +81,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense<br>1 Special Defense | 45 | 70 | 148 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a shiny, silver powder that ups the power of Bug-type moves.">Silver Powder</span> (5%) |
+| 1 Def<br>1 Sp. Def | 45 | 70 | 148 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a shiny, silver powder that ups the power of Bug-type moves.">Silver Powder</span> (5%) |
 
 ---
 

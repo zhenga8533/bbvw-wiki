@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #638 | ![steel](../assets/types/steel.png "Steel"){: width="48"} ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 2.1 m /<br>6.9 ft | 250.0 kg /<br>551.2 lbs | <span class="tooltip" title="Raises Attack when hit by a Dark-type move.">Justified</span> | #144 |
+| #638 | ![steel](../assets/types/steel.png "Steel"){: width="48"}<br>![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 2.1 m /<br>6.9 ft | 250.0 kg /<br>551.2 lbs | <span class="tooltip" title="Raises Attack when hit by a Dark-type move.">Justified</span> | #144 |
 
 ---
 
@@ -77,7 +77,7 @@ Cobalion has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Defense | 3 | 35 | 290 | Slow | N/A |
+| 3 Def | 3 | 35 | 290 | Slow | N/A |
 
 ---
 

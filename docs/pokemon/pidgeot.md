@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #18 | ![normal](../assets/types/normal.png "Normal"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.5 m /<br>4.9 ft | 39.5 kg /<br>87.1 lbs | <span class="tooltip" title="Protects the Pokémon from Defense-lowering attacks.">Big Pecks</span><br><span class="tooltip" title="Raises evasion if the Pokémon is confused.">Tangled Feet</span> | N/A |
+| #18 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.5 m /<br>4.9 ft | 39.5 kg /<br>87.1 lbs | <span class="tooltip" title="Protects the Pokémon from Defense-lowering attacks.">Big Pecks</span><br><span class="tooltip" title="Raises evasion if the Pokémon is confused.">Tangled Feet</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ Pidgeot has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Speed | 45 | 70 | 216 | Medium Slow | N/A |
+| 3 Spd | 45 | 70 | 216 | Medium Slow | N/A |
 
 ---
 

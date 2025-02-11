@@ -77,7 +77,7 @@ Ponyta has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 190 | 50 | 82 | Medium | <span class="tooltip" title="Weakens a supereffective Ground-type attack against the holding Pokémon.">Shuca Berry</span> (5%) |
+| 1 Spd | 190 | 50 | 82 | Medium | <span class="tooltip" title="Weakens a supereffective Ground-type attack against the holding Pokémon.">Shuca Berry</span> (5%) |
 
 ---
 

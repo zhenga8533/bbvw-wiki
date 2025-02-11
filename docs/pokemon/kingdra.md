@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #230 | ![water](../assets/types/water.png "Water"){: width="48"} ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 1.8 m /<br>5.9 ft | 152.0 kg /<br>335.1 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br><span class="tooltip" title="Powers up moves if they become critical hits.">Sniper</span> | N/A |
+| #230 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 1.8 m /<br>5.9 ft | 152.0 kg /<br>335.1 lbs | <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br><span class="tooltip" title="Powers up moves if they become critical hits.">Sniper</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ Kingdra has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack<br>1 Special Attack<br>1 Special Defense | 45 | 50 | 270 | Medium | <span class="tooltip" title="A thick and tough scale. Dragon-type Pokémon may be holding this item when caught.">Dragon Scale</span> (5%) |
+| 1 Atk<br>1 Sp. Atk<br>1 Sp. Def | 45 | 50 | 270 | Medium | <span class="tooltip" title="A thick and tough scale. Dragon-type Pokémon may be holding this item when caught.">Dragon Scale</span> (5%) |
 
 ---
 

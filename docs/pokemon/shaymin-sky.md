@@ -31,7 +31,7 @@ Latest (Gen VI+):
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #10006 | ![grass](../assets/types/grass.png "Grass"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.4 m /<br>1.3 ft | 5.2 kg /<br>11.5 lbs | <span class="tooltip" title="Boosts the likelihood of added effects appearing.">Serene Grace</span> | N/A |
+| #10006 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.4 m /<br>1.3 ft | 5.2 kg /<br>11.5 lbs | <span class="tooltip" title="Boosts the likelihood of added effects appearing.">Serene Grace</span> | N/A |
 
 ---
 
@@ -73,7 +73,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Speed | 45 | 100 | 270 | Medium Slow | <span class="tooltip" title="If held by a Pokémon, it recovers from any status problem.">Lum Berry</span> (100%) |
+| 3 Spd | 45 | 100 | 270 | Medium Slow | <span class="tooltip" title="If held by a Pokémon, it recovers from any status problem.">Lum Berry</span> (100%) |
 
 ---
 

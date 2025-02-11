@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #291 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.8 m /<br>2.6 ft | 12.0 kg /<br>26.5 lbs | <span class="tooltip" title="Its Speed stat is gradually boosted.">Speed Boost</span><br><span class="tooltip" title="Passes through the foe’s barrier and strikes.">Infiltrator</span> | N/A |
+| #291 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.8 m /<br>2.6 ft | 12.0 kg /<br>26.5 lbs | <span class="tooltip" title="Its Speed stat is gradually boosted.">Speed Boost</span><br><span class="tooltip" title="Passes through the foe’s barrier and strikes.">Infiltrator</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ Ninjask has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 120 | 50 | 160 | Slow Then Very Fast | N/A |
+| 2 Spd | 120 | 50 | 160 | Slow Then Very Fast | N/A |
 
 ---
 

@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #146 | ![fire](../assets/types/fire.png "Fire"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 2.0 m /<br>6.6 ft | 60.0 kg /<br>132.3 lbs | <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br><span class="tooltip" title="Contact with the Pokémon may burn the attacker.">Flame Body</span> | N/A |
+| #146 | ![fire](../assets/types/fire.png "Fire"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 2.0 m /<br>6.6 ft | 60.0 kg /<br>132.3 lbs | <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br><span class="tooltip" title="Contact with the Pokémon may burn the attacker.">Flame Body</span> | N/A |
 
 ---
 
@@ -75,7 +75,7 @@ Moltres has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Attack | 3 | 35 | 290 | Slow | <span class="tooltip" title="If held by a Pokémon, it raises its Attack stat in a pinch.">Liechi Berry</span> (100%) |
+| 3 Sp. Atk | 3 | 35 | 290 | Slow | <span class="tooltip" title="If held by a Pokémon, it raises its Attack stat in a pinch.">Liechi Berry</span> (100%) |
 
 ---
 

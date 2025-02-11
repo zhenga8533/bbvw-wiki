@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #208 | ![steel](../assets/types/steel.png "Steel"){: width="48"} ![ground](../assets/types/ground.png "Ground"){: width="48"} | 9.2 m /<br>30.2 ft | 400.0 kg /<br>881.8 lbs | <span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span><br><span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span> | N/A |
+| #208 | ![steel](../assets/types/steel.png "Steel"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 9.2 m /<br>30.2 ft | 400.0 kg /<br>881.8 lbs | <span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span><br><span class="tooltip" title="It cannot be knocked out with one hit.">Sturdy</span> | N/A |
 
 ---
 
@@ -83,7 +83,7 @@ Steelix has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Defense | 25 | 50 | 179 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a special metallic film that ups the power of Steel-type moves.">Metal Coat</span> (5%) |
+| 2 Def | 25 | 50 | 179 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a special metallic film that ups the power of Steel-type moves.">Metal Coat</span> (5%) |
 
 ---
 

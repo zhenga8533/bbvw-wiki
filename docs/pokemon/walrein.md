@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #365 | ![ice](../assets/types/ice.png "Ice"){: width="48"} ![water](../assets/types/water.png "Water"){: width="48"} | 1.4 m /<br>4.6 ft | 150.6 kg /<br>332.0 lbs | <span class="tooltip" title="Ups resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br><span class="tooltip" title="The Pokémon gradually regains HP in a hailstorm.">Ice Body</span> | N/A |
+| #365 | ![ice](../assets/types/ice.png "Ice"){: width="48"}<br>![water](../assets/types/water.png "Water"){: width="48"} | 1.4 m /<br>4.6 ft | 150.6 kg /<br>332.0 lbs | <span class="tooltip" title="Ups resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br><span class="tooltip" title="The Pokémon gradually regains HP in a hailstorm.">Ice Body</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ Walrein has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Hp | 45 | 50 | 265 | Medium Slow | N/A |
+| 3 HP | 45 | 50 | 265 | Medium Slow | N/A |
 
 ---
 

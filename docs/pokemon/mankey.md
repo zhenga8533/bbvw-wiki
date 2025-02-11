@@ -77,7 +77,7 @@ Mankey has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 190 | 70 | 61 | Medium | <span class="tooltip" title="Weakens a supereffective Psychic-type attack against the holding Pokémon.">Payapa Berry</span> (5%) |
+| 1 Atk | 190 | 70 | 61 | Medium | <span class="tooltip" title="Weakens a supereffective Psychic-type attack against the holding Pokémon.">Payapa Berry</span> (5%) |
 
 ---
 

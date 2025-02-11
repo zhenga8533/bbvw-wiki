@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #2 | ![grass](../assets/types/grass.png "Grass"){: width="48"} ![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.0 m /<br>3.3 ft | 13.0 kg /<br>28.7 lbs | <span class="tooltip" title="Powers up Grass-type moves in a pinch.">Overgrow</span><br><span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span> | N/A |
+| #2 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.0 m /<br>3.3 ft | 13.0 kg /<br>28.7 lbs | <span class="tooltip" title="Powers up Grass-type moves in a pinch.">Overgrow</span><br><span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ Ivysaur has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack<br>1 Special Defense | 45 | 50 | 142 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a seed imbued with life that ups the power of Grass-type moves.">Miracle Seed</span> (50%) |
+| 1 Sp. Atk<br>1 Sp. Def | 45 | 50 | 142 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a seed imbued with life that ups the power of Grass-type moves.">Miracle Seed</span> (50%) |
 
 ---
 

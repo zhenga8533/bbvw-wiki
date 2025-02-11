@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #580 | ![water](../assets/types/water.png "Water"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.5 m /<br>1.6 ft | 5.5 kg /<br>12.1 lbs | <span class="tooltip" title="Heals status problems if it is raining.">Hydration</span><br><span class="tooltip" title="Protects the Pokémon from Defense-lowering attacks.">Big Pecks</span> | #86 |
+| #580 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.5 m /<br>1.6 ft | 5.5 kg /<br>12.1 lbs | <span class="tooltip" title="Heals status problems if it is raining.">Hydration</span><br><span class="tooltip" title="Protects the Pokémon from Defense-lowering attacks.">Big Pecks</span> | #86 |
 
 ---
 
@@ -79,7 +79,7 @@ Ducklett has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp | 190 | 70 | 61 | Medium | N/A |
+| 1 HP | 190 | 70 | 61 | Medium | N/A |
 
 ---
 

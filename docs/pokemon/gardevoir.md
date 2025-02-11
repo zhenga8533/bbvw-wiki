@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #282 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 1.6 m /<br>5.2 ft | 48.4 kg /<br>106.7 lbs | <span class="tooltip" title="Passes a burn, poison, or paralysis to the foe.">Synchronize</span><br><span class="tooltip" title="The Pokémon copies a foe’s Ability.">Trace</span> | N/A |
+| #282 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"}<br>![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 1.6 m /<br>5.2 ft | 48.4 kg /<br>106.7 lbs | <span class="tooltip" title="Passes a burn, poison, or paralysis to the foe.">Synchronize</span><br><span class="tooltip" title="The Pokémon copies a foe’s Ability.">Trace</span> | N/A |
 
 ---
 
@@ -81,7 +81,7 @@ Gardevoir has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Attack | 45 | 35 | 259 | Slow | N/A |
+| 3 Sp. Atk | 45 | 35 | 259 | Slow | N/A |
 
 ---
 

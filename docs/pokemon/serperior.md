@@ -40,7 +40,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #497 | ![grass](../assets/types/grass.png "Grass"){: width="48"} ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 3.3 m /<br>10.8 ft | 63.0 kg /<br>138.9 lbs | <span class="tooltip" title="Powers up Grass-type moves in a pinch.">Overgrow</span><br><span class="tooltip" title="Makes stat changes have an opposite effect.">Contrary</span> | #3 |
+| #497 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 3.3 m /<br>10.8 ft | 63.0 kg /<br>138.9 lbs | <span class="tooltip" title="Powers up Grass-type moves in a pinch.">Overgrow</span><br><span class="tooltip" title="Makes stat changes have an opposite effect.">Contrary</span> | #3 |
 
 ---
 
@@ -81,7 +81,7 @@ Serperior has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Speed | 45 | 0 | 238 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a seed imbued with life that ups the power of Grass-type moves.">Miracle Seed</span> (50%) |
+| 3 Spd | 45 | 0 | 238 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a seed imbued with life that ups the power of Grass-type moves.">Miracle Seed</span> (50%) |
 
 ---
 

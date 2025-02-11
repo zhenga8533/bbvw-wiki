@@ -79,7 +79,7 @@ Cinccino has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 60 | 50 | 165 | Fast | <span class="tooltip" title="If held by a Pokémon, it recovers from sleep.">Chesto Berry</span> (50%) |
+| 2 Spd | 60 | 50 | 165 | Fast | <span class="tooltip" title="If held by a Pokémon, it recovers from sleep.">Chesto Berry</span> (50%) |
 
 ---
 

@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #392 | ![fire](../assets/types/fire.png "Fire"){: width="48"} ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.2 m /<br>3.9 ft | 55.0 kg /<br>121.3 lbs | <span class="tooltip" title="Powers up Fire-type moves in a pinch.">Blaze</span><br><span class="tooltip" title="Boosts the power of punching moves.">Iron Fist</span> | N/A |
+| #392 | ![fire](../assets/types/fire.png "Fire"){: width="48"}<br>![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.2 m /<br>3.9 ft | 55.0 kg /<br>121.3 lbs | <span class="tooltip" title="Powers up Fire-type moves in a pinch.">Blaze</span><br><span class="tooltip" title="Boosts the power of punching moves.">Iron Fist</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ Infernape has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack<br>1 Special Attack<br>1 Speed | 45 | 70 | 240 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a combustible fuel that boosts the power of Fire-type moves.">Charcoal</span> (50%) |
+| 1 Atk<br>1 Sp. Atk<br>1 Spd | 45 | 70 | 240 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a combustible fuel that boosts the power of Fire-type moves.">Charcoal</span> (50%) |
 
 ---
 

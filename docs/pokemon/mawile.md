@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #303 | ![steel](../assets/types/steel.png "Steel"){: width="48"} ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.6 m /<br>2.0 ft | 11.5 kg /<br>25.4 lbs | <span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span><br><span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span> | N/A |
+| #303 | ![steel](../assets/types/steel.png "Steel"){: width="48"}<br>![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.6 m /<br>2.0 ft | 11.5 kg /<br>25.4 lbs | <span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span><br><span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span> | N/A |
 
 ---
 
@@ -75,7 +75,7 @@ Mawile has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack<br>1 Defense | 45 | 50 | 133 | Fast | <span class="tooltip" title="Weakens a supereffective Fire-type attack against the holding Pokémon.">Occa Berry</span> (5%) |
+| 1 Atk<br>1 Def | 45 | 50 | 133 | Fast | <span class="tooltip" title="Weakens a supereffective Fire-type attack against the holding Pokémon.">Occa Berry</span> (5%) |
 
 ---
 

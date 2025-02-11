@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #274 | ![grass](../assets/types/grass.png "Grass"){: width="48"} ![dark](../assets/types/dark.png "Dark"){: width="48"} | 1.0 m /<br>3.3 ft | 28.0 kg /<br>61.7 lbs | <span class="tooltip" title="Steals an item when hit by another Pokémon.">Pickpocket</span><br><span class="tooltip" title="The Pokémon awakens quickly from sleep.">Early Bird</span> | N/A |
+| #274 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![dark](../assets/types/dark.png "Dark"){: width="48"} | 1.0 m /<br>3.3 ft | 28.0 kg /<br>61.7 lbs | <span class="tooltip" title="Steals an item when hit by another Pokémon.">Pickpocket</span><br><span class="tooltip" title="The Pokémon awakens quickly from sleep.">Early Bird</span> | N/A |
 
 ---
 
@@ -85,7 +85,7 @@ Nuzleaf has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 120 | 50 | 119 | Medium Slo |
+| 2 Atk | 120 | 50 | 119 | Medium Slo |
 
 ---
 

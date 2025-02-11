@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #21 | ![normal](../assets/types/normal.png "Normal"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.3 m /<br>1.0 ft | 2.0 kg /<br>4.4 lbs | <span class="tooltip" title="Prevents other Pokémon from lowering accuracy.">Keen Eye</span><br><span class="tooltip" title="Powers up moves if they become critical hits.">Sniper</span> | N/A |
+| #21 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.3 m /<br>1.0 ft | 2.0 kg /<br>4.4 lbs | <span class="tooltip" title="Prevents other Pokémon from lowering accuracy.">Keen Eye</span><br><span class="tooltip" title="Powers up moves if they become critical hits.">Sniper</span> | N/A |
 
 ---
 
@@ -77,7 +77,7 @@ Spearow has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 255 | 70 | 52 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a long, sharp beak that boosts the power of Flying-type moves.">Sharp Beak</span> (5%) |
+| 1 Spd | 255 | 70 | 52 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a long, sharp beak that boosts the power of Flying-type moves.">Sharp Beak</span> (5%) |
 
 ---
 

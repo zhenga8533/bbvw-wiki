@@ -75,7 +75,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 25 | 50 | 161 | Medium | <span class="tooltip" title="An item to be held by Clamperl. A scale that shines a faint pink, it raises the Sp. Def stat.">Deep Sea Scale</span> (5%) |
+| 2 Spd | 25 | 50 | 161 | Medium | <span class="tooltip" title="An item to be held by Clamperl. A scale that shines a faint pink, it raises the Sp. Def stat.">Deep Sea Scale</span> (5%) |
 
 ---
 

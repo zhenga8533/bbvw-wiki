@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #290 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.5 m /<br>1.6 ft | 5.5 kg /<br>12.1 lbs | <span class="tooltip" title="The Pokémon’s accuracy is boosted.">Compound Eyes</span><br><span class="tooltip" title="Senses a foe’s dangerous moves.">Anticipation</span> | N/A |
+| #290 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.5 m /<br>1.6 ft | 5.5 kg /<br>12.1 lbs | <span class="tooltip" title="The Pokémon’s accuracy is boosted.">Compound Eyes</span><br><span class="tooltip" title="Senses a foe’s dangerous moves.">Anticipation</span> | N/A |
 
 ---
 
@@ -79,7 +79,7 @@ Nincada has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 255 | 50 | 53 | Slow Then Very Fas |
+| 1 Def | 255 | 50 | 53 | Slow Then Very Fas |
 
 ---
 

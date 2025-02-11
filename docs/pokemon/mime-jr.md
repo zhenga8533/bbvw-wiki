@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #439 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.6 m /<br>2.0 ft | 13.0 kg /<br>28.7 lbs | <span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span><br><span class="tooltip" title="Reduces damage from supereffective attacks.">Filter</span> | N/A |
+| #439 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"}<br>![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.6 m /<br>2.0 ft | 13.0 kg /<br>28.7 lbs | <span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span><br><span class="tooltip" title="Reduces damage from supereffective attacks.">Filter</span> | N/A |
 
 ---
 
@@ -77,7 +77,7 @@ Mime Jr has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense | 145 | 50 | 62 | Medium | <span class="tooltip" title="If held by a Pokémon, it restores a move’s PP by 10.">Leppa Berry</span> (5%) |
+| 1 Sp. Def | 145 | 50 | 62 | Medium | <span class="tooltip" title="If held by a Pokémon, it restores a move’s PP by 10.">Leppa Berry</span> (5%) |
 
 ---
 
