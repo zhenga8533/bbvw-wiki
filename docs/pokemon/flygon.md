@@ -38,16 +38,16 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #330 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 2.0 m /<br>6.6 ft | 82.0 kg /<br>180.8 lbs | <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
+| #330 | ![ground](../assets/types/ground.png "Ground"){: width="48"} ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 2.0 m /<br>6.6 ft | 82.0 kg /<br>180.8 lbs | <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
 
 ---
 
 ## Base Stats
 |   | HP | Attack | Defense | Sp. Atk | Sp. Def | Speed |
 |---|----|--------|---------|---------|---------|-------|
-| **Base** | 90 | 110 | 75 | 110 | 75 | 100 |
-| **Min** | 290 | 202 | 139 | 202 | 139 | 184 |
-| **Max** | 384 | 350 | 273 | 350 | 273 | 328 |
+| **Base** | 80 | 110 | 75 | 110 | 75 | 100 |
+| **Min** | 270 | 202 | 139 | 202 | 139 | 184 |
+| **Max** | 364 | 350 | 273 | 350 | 273 | 328 |
 
 The ranges shown above are for a level 100 Pokémon. Maximum values are based on a beneficial nature, 252 EVs, 31 IVs; minimum values are based on a hindering nature, 0 EVs, 0 IVs.
 

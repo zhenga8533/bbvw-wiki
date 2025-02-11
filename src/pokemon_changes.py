@@ -89,12 +89,13 @@ def main():
         # General change list
         elif line.startswith("The following Pokémon"):
             strs = line.split(": ")
-            md += f"**{strs[0]}:**\n\n```\n"
+            md += f"**{strs[0]}:**\n\n<pre><code>"
 
-            pokemon = strs[1].split(", ")
+            pokemon = strs[1].rstrip(".").split(", ")
             for i, p in enumerate(pokemon):
-                md += f"{i + 1}. {p.rstrip('.')}\n"
-            md += "```\n\n"
+                pokemon_id = format_id(p)
+                md += f'{i + 1}. <a href="/bbvw-wiki/pokemon/{pokemon_id}.md/">{p}</a>\n'
+            md += "</code></pre>\n\n"
         # General change header
         elif listing and ": " in line:
             strs = line.split(": ")
@@ -119,7 +120,7 @@ def main():
         lines = pokemon_changes[key]
 
         # All variables that can be updated
-        items = []
+        items = {}
         abilities = []
         base_experience = None
         catch_rate = None
@@ -140,20 +141,11 @@ def main():
                     parts = item.split(" ")
                     item_name = "-".join(parts[:-1]).lower()
                     rarity = int("".join(c for c in parts[-1] if c.isdigit()))
-                    if next((i for i in items if i["name"] == item_name), None) is not None:
-                        continue
 
-                    items.append(
-                        {
-                            "name": item_name,
-                            "rarity": [
-                                {
-                                    "version": "black",
-                                    "rarity": rarity,
-                                }
-                            ],
-                        }
-                    )
+                    items[item_name] = {
+                        "black": rarity,
+                        "white": rarity,
+                    }
 
             # Parse new abilities
             elif line.startswith("Ability"):
@@ -240,7 +232,7 @@ def main():
 
                 # Update Pokémon data
                 if len(items) > 0:
-                    pokemon_data["items"] = items
+                    pokemon_data["held_items"] = items
                 if len(abilities) > 0:
                     pokemon_data["abilities"] = abilities
                 if base_experience is not None:

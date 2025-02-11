@@ -38,16 +38,16 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #38 | ![fire](../assets/types/fire.png "Fire"){: width="48"} ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 1.1 m /<br>3.6 ft | 19.9 kg /<br>43.9 lbs | <span class="tooltip" title="It powers up Fire-type moves if it’s hit by one.">Flash Fire</span><br><span class="tooltip" title="Turns the sunlight harsh if it is in battle.">Drought</span> | N/A |
+| #38 | ![fire](../assets/types/fire.png "Fire"){: width="48"} | 1.1 m /<br>3.6 ft | 19.9 kg /<br>43.9 lbs | <span class="tooltip" title="It powers up Fire-type moves if it’s hit by one.">Flash Fire</span><br><span class="tooltip" title="Turns the sunlight harsh if it is in battle.">Drought</span> | N/A |
 
 ---
 
 ## Base Stats
 |   | HP | Attack | Defense | Sp. Atk | Sp. Def | Speed |
 |---|----|--------|---------|---------|---------|-------|
-| **Base** | 73 | 67 | 75 | 81 | 100 | 109 |
-| **Min** | 256 | 125 | 139 | 150 | 184 | 200 |
-| **Max** | 350 | 256 | 273 | 287 | 328 | 348 |
+| **Base** | 73 | 76 | 75 | 81 | 100 | 100 |
+| **Min** | 256 | 141 | 139 | 150 | 184 | 184 |
+| **Max** | 350 | 276 | 273 | 287 | 328 | 328 |
 
 The ranges shown above are for a level 100 Pokémon. Maximum values are based on a beneficial nature, 252 EVs, 31 IVs; minimum values are based on a hindering nature, 0 EVs, 0 IVs.
 
@@ -77,7 +77,7 @@ Ninetales has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense<br>1 Speed | 75 | 50 | 177 | Medium | <span class="tooltip" title="If held by a Pokémon, it recovers from a burn.">Rawst Berry</span> (100%) |
+| 1 Special Defense<br>1 Speed | 75 | 50 | 177 | Medium | <span class="tooltip" title="If held by a Pokémon, it recovers from a burn.">Rawst Berry</span> (50%)<br><span class="tooltip" title="Weakens a supereffective Fire-type attack against the holding Pokémon.">Occa Berry</span> (5%) |
 
 ---
 

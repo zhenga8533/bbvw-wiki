@@ -75,7 +75,7 @@ Moltres has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Attack | 3 | 35 | 290 | Slow | N/A |
+| 3 Special Attack | 3 | 35 | 290 | Slow | <span class="tooltip" title="If held by a Pokémon, it raises its Attack stat in a pinch.">Liechi Berry</span> (100%) |
 
 ---
 

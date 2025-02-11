@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #429 | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.9 m /<br>3.0 ft | 4.4 kg /<br>9.7 lbs | <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
+| #429 | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | 0.9 m /<br>3.0 ft | 4.4 kg /<br>9.7 lbs | <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
 
 ---
 

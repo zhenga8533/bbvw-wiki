@@ -45,9 +45,9 @@ Legacy:
 ## Base Stats
 |   | HP | Attack | Defense | Sp. Atk | Sp. Def | Speed |
 |---|----|--------|---------|---------|---------|-------|
-| **Base** | 78 | 79 | 73 | 124 | 80 | 101 |
-| **Min** | 266 | 146 | 135 | 227 | 148 | 186 |
-| **Max** | 360 | 282 | 269 | 381 | 284 | 331 |
+| **Base** | 78 | 84 | 78 | 109 | 85 | 100 |
+| **Min** | 266 | 155 | 144 | 200 | 157 | 184 |
+| **Max** | 360 | 293 | 280 | 348 | 295 | 328 |
 
 The ranges shown above are for a level 100 Pokémon. Maximum values are based on a beneficial nature, 252 EVs, 31 IVs; minimum values are based on a hindering nature, 0 EVs, 0 IVs.
 
@@ -79,7 +79,7 @@ Typhlosion has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Attack | 45 | 70 | 240 | Medium Slow | N/A |
+| 3 Special Attack | 45 | 70 | 240 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a combustible fuel that boosts the power of Fire-type moves.">Charcoal</span> (50%) |
 
 ---
 

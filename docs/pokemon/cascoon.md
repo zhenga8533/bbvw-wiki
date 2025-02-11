@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #268 | ![bug](../assets/types/bug.png "Bug"){: width="48"} | 0.7 m /<br>2.3 ft | 11.5 kg /<br>25.4 lbs | <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span><br><span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span> | N/A |
+| #268 | ![bug](../assets/types/bug.png "Bug"){: width="48"} | 0.7 m /<br>2.3 ft | 11.5 kg /<br>25.4 lbs | <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span> | N/A |
 
 ---
 

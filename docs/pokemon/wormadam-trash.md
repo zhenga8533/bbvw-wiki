@@ -38,9 +38,9 @@ Latest (Gen VI+):
 ## Base Stats
 |   | HP | Attack | Defense | Sp. Atk | Sp. Def | Speed |
 |---|----|--------|---------|---------|---------|-------|
-| **Base** | 60 | 50 | 115 | 110 | 115 | 30 |
-| **Min** | 230 | 94 | 211 | 202 | 211 | 58 |
-| **Max** | 324 | 218 | 361 | 350 | 361 | 174 |
+| **Base** | 60 | 69 | 115 | 69 | 115 | 36 |
+| **Min** | 230 | 128 | 211 | 128 | 211 | 69 |
+| **Max** | 324 | 260 | 361 | 260 | 361 | 188 |
 
 The ranges shown above are for a level 100 Pokémon. Maximum values are based on a beneficial nature, 252 EVs, 31 IVs; minimum values are based on a hindering nature, 0 EVs, 0 IVs.
 

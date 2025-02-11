@@ -38,16 +38,16 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #164 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.6 m /<br>5.2 ft | 40.8 kg /<br>89.9 lbs | <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Insomnia</span><br><span class="tooltip" title="Powers up “not very effective” moves.">Tinted Lens</span> | N/A |
+| #164 | ![normal](../assets/types/normal.png "Normal"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.6 m /<br>5.2 ft | 40.8 kg /<br>89.9 lbs | <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Insomnia</span><br><span class="tooltip" title="Powers up “not very effective” moves.">Tinted Lens</span> | N/A |
 
 ---
 
 ## Base Stats
 |   | HP | Attack | Defense | Sp. Atk | Sp. Def | Speed |
 |---|----|--------|---------|---------|---------|-------|
-| **Base** | 100 | 40 | 40 | 96 | 116 | 60 |
-| **Min** | 310 | 76 | 76 | 177 | 213 | 112 |
-| **Max** | 404 | 196 | 196 | 320 | 364 | 240 |
+| **Base** | 100 | 50 | 50 | 96 | 96 | 70 |
+| **Min** | 310 | 94 | 94 | 177 | 177 | 130 |
+| **Max** | 404 | 218 | 218 | 320 | 320 | 262 |
 
 The ranges shown above are for a level 100 Pokémon. Maximum values are based on a beneficial nature, 252 EVs, 31 IVs; minimum values are based on a hindering nature, 0 EVs, 0 IVs.
 

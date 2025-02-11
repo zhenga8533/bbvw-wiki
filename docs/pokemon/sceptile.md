@@ -38,16 +38,16 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #254 | ![grass](../assets/types/grass.png "Grass"){: width="48"} ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 1.7 m /<br>5.6 ft | 52.2 kg /<br>115.1 lbs | <span class="tooltip" title="Powers up Grass-type moves in a pinch.">Overgrow</span><br><span class="tooltip" title="Powers up moves of the same type.">Adaptability</span> | N/A |
+| #254 | ![grass](../assets/types/grass.png "Grass"){: width="48"} | 1.7 m /<br>5.6 ft | 52.2 kg /<br>115.1 lbs | <span class="tooltip" title="Powers up Grass-type moves in a pinch.">Overgrow</span><br><span class="tooltip" title="Powers up moves of the same type.">Adaptability</span> | N/A |
 
 ---
 
 ## Base Stats
 |   | HP | Attack | Defense | Sp. Atk | Sp. Def | Speed |
 |---|----|--------|---------|---------|---------|-------|
-| **Base** | 70 | 90 | 65 | 110 | 80 | 120 |
-| **Min** | 250 | 166 | 121 | 202 | 148 | 220 |
-| **Max** | 344 | 306 | 251 | 350 | 284 | 372 |
+| **Base** | 70 | 85 | 65 | 105 | 85 | 120 |
+| **Min** | 250 | 157 | 121 | 193 | 157 | 220 |
+| **Max** | 344 | 295 | 251 | 339 | 295 | 372 |
 
 The ranges shown above are for a level 100 Pokémon. Maximum values are based on a beneficial nature, 252 EVs, 31 IVs; minimum values are based on a hindering nature, 0 EVs, 0 IVs.
 
@@ -79,7 +79,7 @@ Sceptile has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Speed | 45 | 50 | 265 | Medium Slow | N/A |
+| 3 Speed | 45 | 50 | 265 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a seed imbued with life that ups the power of Grass-type moves.">Miracle Seed</span> (50%) |
 
 ---
 

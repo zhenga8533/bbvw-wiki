@@ -77,7 +77,7 @@ Claydol has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Defense | 90 | 50 | 175 | Mediu |
+| 2 Special Defense | 90 | 50 | 175 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It boosts the power of moves, but at the cost of some HP on each hit.">Life Orb</span> (5%) |
 
 ---
 

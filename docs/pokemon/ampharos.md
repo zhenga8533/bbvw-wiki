@@ -38,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #181 | ![electric](../assets/types/electric.png "Electric"){: width="48"} ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 1.4 m /<br>4.6 ft | 61.5 kg /<br>135.6 lbs | <span class="tooltip" title="Contact with the Pokémon may cause paralysis.">Static</span><br><span class="tooltip" title="Protects the Pokémon from damage from weather.">Overcoat</span> | N/A |
+| #181 | ![electric](../assets/types/electric.png "Electric"){: width="48"} | 1.4 m /<br>4.6 ft | 61.5 kg /<br>135.6 lbs | <span class="tooltip" title="Contact with the Pokémon may cause paralysis.">Static</span><br><span class="tooltip" title="Protects the Pokémon from damage from weather.">Overcoat</span> | N/A |
 
 ---
 

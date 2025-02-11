@@ -38,16 +38,16 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #336 | ![poison](../assets/types/poison.png "Poison"){: width="48"} ![dark](../assets/types/dark.png "Dark"){: width="48"} | 2.7 m /<br>8.9 ft | 52.5 kg /<br>115.7 lbs | <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span><br><span class="tooltip" title="Passes through the foe’s barrier and strikes.">Infiltrator</span> | N/A |
+| #336 | ![poison](../assets/types/poison.png "Poison"){: width="48"} | 2.7 m /<br>8.9 ft | 52.5 kg /<br>115.7 lbs | <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span><br><span class="tooltip" title="Passes through the foe’s barrier and strikes.">Infiltrator</span> | N/A |
 
 ---
 
 ## Base Stats
 |   | HP | Attack | Defense | Sp. Atk | Sp. Def | Speed |
 |---|----|--------|---------|---------|---------|-------|
-| **Base** | 75 | 115 | 60 | 80 | 60 | 75 |
-| **Min** | 260 | 211 | 112 | 148 | 112 | 139 |
-| **Max** | 354 | 361 | 240 | 284 | 240 | 273 |
+| **Base** | 73 | 100 | 60 | 100 | 60 | 65 |
+| **Min** | 256 | 184 | 112 | 184 | 112 | 121 |
+| **Max** | 350 | 328 | 240 | 328 | 240 | 251 |
 
 The ranges shown above are for a level 100 Pokémon. Maximum values are based on a beneficial nature, 252 EVs, 31 IVs; minimum values are based on a hindering nature, 0 EVs, 0 IVs.
 

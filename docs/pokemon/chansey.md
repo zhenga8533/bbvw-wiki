@@ -79,7 +79,7 @@ Chansey has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 30 | 160 | 395 | Fast | <span class="tooltip" title="An item to be held by a Pokémon. It is an egg filled with happiness that earns extra Exp. Points in battle.">Lucky Egg</span> (5%)<br><span class="tooltip" title="An item to be held by Chansey. It is a pair of gloves that boosts Chansey’s critical-hit ratio.">Lucky Punch</span> (50%) |
+| 2 Hp | 30 | 160 | 395 | Fast | <span class="tooltip" title="An item to be held by a Pokémon. It is an egg filled with happiness that earns extra Exp. Points in battle.">Lucky Egg</span> (0%) |
 
 ---
 

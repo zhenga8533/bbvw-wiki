@@ -38,16 +38,16 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #328 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.7 m /<br>2.3 ft | 15.0 kg /<br>33.1 lbs | <span class="tooltip" title="Prevents other Pokémon from lowering Attack stat.">Hyper Cutter</span><br><span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span> | N/A |
+| #328 | ![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.7 m /<br>2.3 ft | 15.0 kg /<br>33.1 lbs | <span class="tooltip" title="Prevents other Pokémon from lowering Attack stat.">Hyper Cutter</span><br><span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span> | N/A |
 
 ---
 
 ## Base Stats
 |   | HP | Attack | Defense | Sp. Atk | Sp. Def | Speed |
 |---|----|--------|---------|---------|---------|-------|
-| **Base** | 55 | 100 | 45 | 45 | 45 | 10 |
-| **Min** | 220 | 184 | 85 | 85 | 85 | 22 |
-| **Max** | 314 | 328 | 207 | 207 | 207 | 130 |
+| **Base** | 45 | 100 | 45 | 45 | 45 | 10 |
+| **Min** | 200 | 184 | 85 | 85 | 85 | 22 |
+| **Max** | 294 | 328 | 207 | 207 | 207 | 130 |
 
 The ranges shown above are for a level 100 Pokémon. Maximum values are based on a beneficial nature, 252 EVs, 31 IVs; minimum values are based on a hindering nature, 0 EVs, 0 IVs.
 

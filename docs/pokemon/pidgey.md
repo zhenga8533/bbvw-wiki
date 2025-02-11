@@ -45,9 +45,9 @@ Legacy:
 ## Base Stats
 |   | HP | Attack | Defense | Sp. Atk | Sp. Def | Speed |
 |---|----|--------|---------|---------|---------|-------|
-| **Base** | 40 | 35 | 35 | 50 | 35 | 56 |
-| **Min** | 190 | 67 | 67 | 94 | 67 | 105 |
-| **Max** | 284 | 185 | 185 | 218 | 185 | 232 |
+| **Base** | 40 | 45 | 40 | 35 | 35 | 56 |
+| **Min** | 190 | 85 | 76 | 67 | 67 | 105 |
+| **Max** | 284 | 207 | 196 | 185 | 185 | 232 |
 
 The ranges shown above are for a level 100 Pokémon. Maximum values are based on a beneficial nature, 252 EVs, 31 IVs; minimum values are based on a hindering nature, 0 EVs, 0 IVs.
 
@@ -79,7 +79,7 @@ Pidgey has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 255 | 70 | 50 | Medium Slow | N/A |
+| 1 Speed | 255 | 70 | 50 | Medium Slow | <span class="tooltip" title="If held by a Pokémon,  it heals the user by just 10 HP.">Oran Berry</span> (5%) |
 
 ---
 

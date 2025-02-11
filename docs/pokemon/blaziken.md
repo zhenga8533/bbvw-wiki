@@ -51,9 +51,9 @@ Legacy:
 ## Base Stats
 |   | HP | Attack | Defense | Sp. Atk | Sp. Def | Speed |
 |---|----|--------|---------|---------|---------|-------|
-| **Base** | 80 | 120 | 75 | 110 | 70 | 80 |
-| **Min** | 270 | 220 | 139 | 202 | 130 | 148 |
-| **Max** | 364 | 372 | 273 | 350 | 262 | 284 |
+| **Base** | 80 | 120 | 70 | 110 | 70 | 80 |
+| **Min** | 270 | 220 | 130 | 202 | 130 | 148 |
+| **Max** | 364 | 372 | 262 | 350 | 262 | 284 |
 
 The ranges shown above are for a level 100 Pokémon. Maximum values are based on a beneficial nature, 252 EVs, 31 IVs; minimum values are based on a hindering nature, 0 EVs, 0 IVs.
 
@@ -85,7 +85,7 @@ Blaziken has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Attack | 45 | 50 | 265 | Medium Slow | N/A |
+| 3 Attack | 45 | 50 | 265 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a combustible fuel that boosts the power of Fire-type moves.">Charcoal</span> (50%) |
 
 ---
 

@@ -57,9 +57,9 @@ Legacy:
 ## Base Stats
 |   | HP | Attack | Defense | Sp. Atk | Sp. Def | Speed |
 |---|----|--------|---------|---------|---------|-------|
-| **Base** | 79 | 83 | 100 | 90 | 105 | 78 |
-| **Min** | 268 | 153 | 184 | 166 | 193 | 144 |
-| **Max** | 362 | 291 | 328 | 306 | 339 | 280 |
+| **Base** | 79 | 83 | 100 | 85 | 105 | 78 |
+| **Min** | 268 | 153 | 184 | 157 | 193 | 144 |
+| **Max** | 362 | 291 | 328 | 295 | 339 | 280 |
 
 The ranges shown above are for a level 100 Pokémon. Maximum values are based on a beneficial nature, 252 EVs, 31 IVs; minimum values are based on a hindering nature, 0 EVs, 0 IVs.
 
@@ -91,7 +91,7 @@ Blastoise has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Defense | 45 | 50 | 265 | Medium Slow | N/A |
+| 3 Special Defense | 45 | 50 | 265 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a teardrop-shaped gem that ups the power of Water-type moves.">Mystic Water</span> (50%) |
 
 ---
 

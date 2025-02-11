@@ -77,7 +77,7 @@ Ekans has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 200 | 70 | 58 | Medium | N/A |
+| 1 Attack | 200 | 70 | 58 | Medium | <span class="tooltip" title="Weakens a supereffective Poison-type attack against the holding Pokémon.">Kebia Berry</span> (5%) |
 
 ---
 

@@ -51,9 +51,9 @@ Legacy:
 ## Base Stats
 |   | HP | Attack | Defense | Sp. Atk | Sp. Def | Speed |
 |---|----|--------|---------|---------|---------|-------|
-| **Base** | 60 | 87 | 70 | 45 | 70 | 109 |
-| **Min** | 230 | 161 | 130 | 85 | 130 | 200 |
-| **Max** | 324 | 300 | 262 | 207 | 262 | 348 |
+| **Base** | 60 | 87 | 60 | 50 | 70 | 109 |
+| **Min** | 230 | 161 | 112 | 94 | 130 | 200 |
+| **Max** | 324 | 300 | 240 | 218 | 262 | 348 |
 
 The ranges shown above are for a level 100 Pokémon. Maximum values are based on a beneficial nature, 252 EVs, 31 IVs; minimum values are based on a hindering nature, 0 EVs, 0 IVs.
 
@@ -83,7 +83,7 @@ Raticate has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 127 | 70 | 145 | Medium | <span class="tooltip" title="Weakens a Normal-type attack against the Pokémon holding this berry.">Chilan Berry</span> (5%) |
+| 2 Speed | 127 | 70 | 145 | Medium | <span class="tooltip" title="Weakens a Normal-type attack against the Pokémon holding this berry.">Chilan Berry</span> (50%) |
 
 ---
 

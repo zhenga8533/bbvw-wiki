@@ -38,16 +38,16 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #160 | ![water](../assets/types/water.png "Water"){: width="48"} ![dark](../assets/types/dark.png "Dark"){: width="48"} | 2.3 m /<br>7.5 ft | 88.8 kg /<br>195.8 lbs | <span class="tooltip" title="Powers up Water-type moves in a pinch.">Torrent</span><br><span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span> | N/A |
+| #160 | ![water](../assets/types/water.png "Water"){: width="48"} | 2.3 m /<br>7.5 ft | 88.8 kg /<br>195.8 lbs | <span class="tooltip" title="Powers up Water-type moves in a pinch.">Torrent</span><br><span class="tooltip" title="Removes added effects to increase move damage.">Sheer Force</span> | N/A |
 
 ---
 
 ## Base Stats
 |   | HP | Attack | Defense | Sp. Atk | Sp. Def | Speed |
 |---|----|--------|---------|---------|---------|-------|
-| **Base** | 85 | 110 | 100 | 79 | 83 | 78 |
-| **Min** | 280 | 202 | 184 | 146 | 153 | 144 |
-| **Max** | 374 | 350 | 328 | 282 | 291 | 280 |
+| **Base** | 85 | 105 | 100 | 79 | 83 | 78 |
+| **Min** | 280 | 193 | 184 | 146 | 153 | 144 |
+| **Max** | 374 | 339 | 328 | 282 | 291 | 280 |
 
 The ranges shown above are for a level 100 Pokémon. Maximum values are based on a beneficial nature, 252 EVs, 31 IVs; minimum values are based on a hindering nature, 0 EVs, 0 IVs.
 
@@ -79,7 +79,7 @@ Feraligatr has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack<br>1 Defense | 45 | 70 | 239 | Medium Slow | N/A |
+| 2 Attack<br>1 Defense | 45 | 70 | 239 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a teardrop-shaped gem that ups the power of Water-type moves.">Mystic Water</span> (50%) |
 
 ---
 

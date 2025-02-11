@@ -75,7 +75,7 @@ Articuno has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Defense | 3 | 35 | 290 | Slow | N/A |
+| 3 Special Defense | 3 | 35 | 290 | Slow | <span class="tooltip" title="If held by a Pokémon, it raises its Sp. Atk stat in a pinch.">Petaya Berry</span> (100%) |
 
 ---
 

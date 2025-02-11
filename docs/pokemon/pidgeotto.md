@@ -45,9 +45,9 @@ Legacy:
 ## Base Stats
 |   | HP | Attack | Defense | Sp. Atk | Sp. Def | Speed |
 |---|----|--------|---------|---------|---------|-------|
-| **Base** | 105 | 90 | 85 | 115 | 80 | 101 |
-| **Min** | 320 | 166 | 157 | 211 | 148 | 186 |
-| **Max** | 414 | 306 | 295 | 361 | 284 | 331 |
+| **Base** | 105 | 90 | 85 | 50 | 80 | 71 |
+| **Min** | 320 | 166 | 157 | 94 | 148 | 132 |
+| **Max** | 414 | 306 | 295 | 218 | 284 | 265 |
 
 The ranges shown above are for a level 100 Pokémon. Maximum values are based on a beneficial nature, 252 EVs, 31 IVs; minimum values are based on a hindering nature, 0 EVs, 0 IVs.
 
@@ -79,7 +79,7 @@ Pidgeotto has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 120 | 70 | 122 | Medium Slow | N/A |
+| 2 Speed | 120 | 70 | 122 | Medium Slow | <span class="tooltip" title="If held by a Pokémon,  it heals the user by just 10 HP.">Oran Berry</span> (50%)<br><span class="tooltip" title="If held by a Pokémon, it heals the user’s HP a little.">Sitrus Berry</span> (5%) |
 
 ---
 

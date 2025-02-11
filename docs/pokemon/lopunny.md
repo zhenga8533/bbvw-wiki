@@ -38,16 +38,16 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #428 | ![normal](../assets/types/normal.png "Normal"){: width="48"} ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.2 m /<br>3.9 ft | 33.3 kg /<br>73.4 lbs | <span class="tooltip" title="Contact with the Pokémon may cause infatuation.">Cute Charm</span><br><span class="tooltip" title="The Pokémon is protected from paralysis.">Limber</span> | N/A |
+| #428 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.2 m /<br>3.9 ft | 33.3 kg /<br>73.4 lbs | <span class="tooltip" title="Contact with the Pokémon may cause infatuation.">Cute Charm</span><br><span class="tooltip" title="The Pokémon is protected from paralysis.">Limber</span> | N/A |
 
 ---
 
 ## Base Stats
 |   | HP | Attack | Defense | Sp. Atk | Sp. Def | Speed |
 |---|----|--------|---------|---------|---------|-------|
-| **Base** | 65 | 106 | 84 | 44 | 96 | 105 |
-| **Min** | 240 | 195 | 155 | 83 | 177 | 193 |
-| **Max** | 334 | 342 | 293 | 205 | 320 | 339 |
+| **Base** | 65 | 76 | 84 | 54 | 96 | 105 |
+| **Min** | 240 | 141 | 155 | 101 | 177 | 193 |
+| **Max** | 334 | 276 | 293 | 227 | 320 | 339 |
 
 The ranges shown above are for a level 100 Pokémon. Maximum values are based on a beneficial nature, 252 EVs, 31 IVs; minimum values are based on a hindering nature, 0 EVs, 0 IVs.
 

@@ -45,9 +45,9 @@ Legacy:
 ## Base Stats
 |   | HP | Attack | Defense | Sp. Atk | Sp. Def | Speed |
 |---|----|--------|---------|---------|---------|-------|
-| **Base** | 95 | 114 | 110 | 75 | 85 | 56 |
-| **Min** | 300 | 209 | 202 | 139 | 157 | 105 |
-| **Max** | 394 | 359 | 350 | 273 | 295 | 232 |
+| **Base** | 95 | 109 | 105 | 75 | 85 | 56 |
+| **Min** | 300 | 200 | 193 | 139 | 157 | 105 |
+| **Max** | 394 | 348 | 339 | 273 | 295 | 232 |
 
 The ranges shown above are for a level 100 Pokémon. Maximum values are based on a beneficial nature, 252 EVs, 31 IVs; minimum values are based on a hindering nature, 0 EVs, 0 IVs.
 
@@ -79,7 +79,7 @@ Torterra has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack<br>1 Defense | 45 | 70 | 236 | Medium Slow | N/A |
+| 2 Attack<br>1 Defense | 45 | 70 | 236 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a seed imbued with life that ups the power of Grass-type moves.">Miracle Seed</span> (50%) |
 
 ---
 

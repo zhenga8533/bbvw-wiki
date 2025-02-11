@@ -56,16 +56,16 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #6 | ![fire](../assets/types/fire.png "Fire"){: width="48"} ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 1.7 m /<br>5.6 ft | 90.5 kg /<br>199.5 lbs | <span class="tooltip" title="Powers up Fire-type moves in a pinch.">Blaze</span><br><span class="tooltip" title="In sunshine, Sp. Atk is boosted but HP decreases.">Solar Power</span> | N/A |
+| #6 | ![fire](../assets/types/fire.png "Fire"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.7 m /<br>5.6 ft | 90.5 kg /<br>199.5 lbs | <span class="tooltip" title="Powers up Fire-type moves in a pinch.">Blaze</span><br><span class="tooltip" title="In sunshine, Sp. Atk is boosted but HP decreases.">Solar Power</span> | N/A |
 
 ---
 
 ## Base Stats
 |   | HP | Attack | Defense | Sp. Atk | Sp. Def | Speed |
 |---|----|--------|---------|---------|---------|-------|
-| **Base** | 78 | 84 | 78 | 110 | 85 | 100 |
-| **Min** | 266 | 155 | 144 | 202 | 157 | 184 |
-| **Max** | 360 | 293 | 280 | 350 | 295 | 328 |
+| **Base** | 78 | 84 | 78 | 109 | 85 | 100 |
+| **Min** | 266 | 155 | 144 | 200 | 157 | 184 |
+| **Max** | 360 | 293 | 280 | 348 | 295 | 328 |
 
 The ranges shown above are for a level 100 Pokémon. Maximum values are based on a beneficial nature, 252 EVs, 31 IVs; minimum values are based on a hindering nature, 0 EVs, 0 IVs.
 
@@ -97,7 +97,7 @@ Charizard has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Attack | 45 | 50 | 267 | Medium Slow | N/A |
+| 3 Special Attack | 45 | 50 | 267 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a combustible fuel that boosts the power of Fire-type moves.">Charcoal</span> (50%) |
 
 ---
 

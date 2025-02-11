@@ -77,7 +77,7 @@ Sawk has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 45 | 50 | 163 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a belt that boosts determination and Fighting-type moves.">Black Belt</span> (5%)<br><span class="tooltip" title="An item to be held by a Pokémon. It is a well-worn belt that slightly boosts the power of supereffective moves.">Expert Belt</span> (1%) |
+| 2 Attack | 45 | 50 | 163 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a belt that boosts determination and Fighting-type moves.">Black Belt</span> (50%)<br><span class="tooltip" title="An item to be held by a Pokémon. It is a well-worn belt that slightly boosts the power of supereffective moves.">Expert Belt</span> (5%) |
 
 ---
 

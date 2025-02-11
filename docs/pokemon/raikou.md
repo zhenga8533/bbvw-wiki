@@ -75,7 +75,7 @@ Raikou has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack<br>2 Speed | 3 | 35 | 290 | Slow | N/A |
+| 1 Special Attack<br>2 Speed | 3 | 35 | 290 | Slow | <span class="tooltip" title="If held by a Pokémon, it raises the accuracy of a move just once in a pinch.">Micle Berry</span> (100%) |
 
 ---
 

@@ -45,9 +45,9 @@ Legacy:
 ## Base Stats
 |   | HP | Attack | Defense | Sp. Atk | Sp. Def | Speed |
 |---|----|--------|---------|---------|---------|-------|
-| **Base** | 60 | 96 | 70 | 80 | 80 | 87 |
-| **Min** | 230 | 177 | 130 | 148 | 148 | 161 |
-| **Max** | 324 | 320 | 262 | 284 | 284 | 300 |
+| **Base** | 60 | 96 | 69 | 80 | 79 | 87 |
+| **Min** | 230 | 177 | 128 | 148 | 146 | 161 |
+| **Max** | 324 | 320 | 260 | 284 | 282 | 300 |
 
 The ranges shown above are for a level 100 Pokémon. Maximum values are based on a beneficial nature, 252 EVs, 31 IVs; minimum values are based on a hindering nature, 0 EVs, 0 IVs.
 
@@ -77,7 +77,7 @@ Arbok has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 90 | 70 | 157 | Mediu |
+| 2 Attack | 90 | 70 | 157 | Medium | <span class="tooltip" title="Weakens a supereffective Poison-type attack against the holding Pokémon.">Kebia Berry</span> (50%) |
 
 ---
 

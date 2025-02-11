@@ -367,14 +367,17 @@ def to_md(pokemon: dict, pokemon_set: dict, move_path: str, logger: Logger) -> s
         md += f"N/A |\n\n"
     else:
         for item in held_items:
-            item_rarity = item["rarity"]
-            if "black" not in item_rarity:
+            item_rarity = held_items[item]
+            item_data = get_item(item)
+            if item_data is None:
+                logger.log(logging.WARNING, f"Item {item} not found in PokéAPI")
+                continue
+            if "generation-v" not in item_data["games"] or "black" not in item_rarity:
+                logger.log(logging.WARNING, f"Item {item} not found in Generation V games")
                 continue
 
-            item_name = item["name"]
-            item_data = get_item(item_name)
             item_effect = item_data["flavor_text_entries"].get("black-white", item_data["effect"]).replace("\n", " ")
-            md += f'<span class="tooltip" title="{item_effect}">{revert_id(item_name)}</span> ({item_rarity["black"]}%)<br>'
+            md += f'<span class="tooltip" title="{item_effect}">{revert_id(item)}</span> ({item_rarity["black"]}%)<br>'
         md = md[:-4] + " |\n\n"
 
     # Breeding

@@ -77,7 +77,7 @@ Magcargo has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Defense | 75 | 70 | 151 | Medium | N/A |
+| 2 Defense | 75 | 70 | 151 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a bizarre orb that inflicts a burn on the holder in battle.">Flame Orb</span> (50%) |
 
 ---
 

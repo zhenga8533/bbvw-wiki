@@ -44,16 +44,16 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #154 | ![grass](../assets/types/grass.png "Grass"){: width="48"} ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 1.8 m /<br>5.9 ft | 100.5 kg /<br>221.6 lbs | <span class="tooltip" title="Powers up Grass-type moves in a pinch.">Overgrow</span><br><span class="tooltip" title="All status problems heal when it switches out.">Natural Cure</span> | N/A |
+| #154 | ![grass](../assets/types/grass.png "Grass"){: width="48"} | 1.8 m /<br>5.9 ft | 100.5 kg /<br>221.6 lbs | <span class="tooltip" title="Powers up Grass-type moves in a pinch.">Overgrow</span><br><span class="tooltip" title="All status problems heal when it switches out.">Natural Cure</span> | N/A |
 
 ---
 
 ## Base Stats
 |   | HP | Attack | Defense | Sp. Atk | Sp. Def | Speed |
 |---|----|--------|---------|---------|---------|-------|
-| **Base** | 80 | 82 | 100 | 93 | 100 | 80 |
-| **Min** | 270 | 152 | 184 | 171 | 184 | 148 |
-| **Max** | 364 | 289 | 328 | 313 | 328 | 284 |
+| **Base** | 80 | 82 | 100 | 83 | 100 | 80 |
+| **Min** | 270 | 152 | 184 | 153 | 184 | 148 |
+| **Max** | 364 | 289 | 328 | 291 | 328 | 284 |
 
 The ranges shown above are for a level 100 Pokémon. Maximum values are based on a beneficial nature, 252 EVs, 31 IVs; minimum values are based on a hindering nature, 0 EVs, 0 IVs.
 
@@ -85,7 +85,7 @@ Meganium has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense<br>2 Special Defense | 45 | 70 | 236 | Medium Slow | N/A |
+| 1 Defense<br>2 Special Defense | 45 | 70 | 236 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a seed imbued with life that ups the power of Grass-type moves.">Miracle Seed</span> (50%) |
 
 ---
 

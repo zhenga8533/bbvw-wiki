@@ -45,9 +45,9 @@ Legacy:
 ## Base Stats
 |   | HP | Attack | Defense | Sp. Atk | Sp. Def | Speed |
 |---|----|--------|---------|---------|---------|-------|
-| **Base** | 84 | 86 | 88 | 116 | 101 | 60 |
-| **Min** | 278 | 159 | 162 | 213 | 186 | 112 |
-| **Max** | 372 | 298 | 302 | 364 | 331 | 240 |
+| **Base** | 84 | 86 | 88 | 111 | 101 | 60 |
+| **Min** | 278 | 159 | 162 | 204 | 186 | 112 |
+| **Max** | 372 | 298 | 302 | 353 | 331 | 240 |
 
 The ranges shown above are for a level 100 Pokémon. Maximum values are based on a beneficial nature, 252 EVs, 31 IVs; minimum values are based on a hindering nature, 0 EVs, 0 IVs.
 
@@ -79,7 +79,7 @@ Empoleon has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Attack | 45 | 70 | 239 | Medium Slow | N/A |
+| 3 Special Attack | 45 | 70 | 239 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a teardrop-shaped gem that ups the power of Water-type moves.">Mystic Water</span> (50%) |
 
 ---
 

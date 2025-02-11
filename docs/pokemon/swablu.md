@@ -38,16 +38,16 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #333 | ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.4 m /<br>1.3 ft | 1.2 kg /<br>2.6 lbs | <span class="tooltip" title="All status problems heal when it switches out.">Natural Cure</span><br><span class="tooltip" title="Eliminates the effects of weather.">Cloud Nine</span> | N/A |
+| #333 | ![normal](../assets/types/normal.png "Normal"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.4 m /<br>1.3 ft | 1.2 kg /<br>2.6 lbs | <span class="tooltip" title="All status problems heal when it switches out.">Natural Cure</span><br><span class="tooltip" title="Eliminates the effects of weather.">Cloud Nine</span> | N/A |
 
 ---
 
 ## Base Stats
 |   | HP | Attack | Defense | Sp. Atk | Sp. Def | Speed |
 |---|----|--------|---------|---------|---------|-------|
-| **Base** | 45 | 60 | 60 | 60 | 75 | 50 |
-| **Min** | 200 | 112 | 112 | 112 | 139 | 94 |
-| **Max** | 294 | 240 | 240 | 240 | 273 | 218 |
+| **Base** | 45 | 40 | 60 | 40 | 75 | 50 |
+| **Min** | 200 | 76 | 112 | 76 | 139 | 94 |
+| **Max** | 294 | 196 | 240 | 196 | 273 | 218 |
 
 The ranges shown above are for a level 100 Pokémon. Maximum values are based on a beneficial nature, 252 EVs, 31 IVs; minimum values are based on a hindering nature, 0 EVs, 0 IVs.
 

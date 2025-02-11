@@ -45,9 +45,9 @@ Legacy:
 ## Base Stats
 |   | HP | Attack | Defense | Sp. Atk | Sp. Def | Speed |
 |---|----|--------|---------|---------|---------|-------|
-| **Base** | 50 | 50 | 50 | 90 | 50 | 20 |
-| **Min** | 210 | 94 | 94 | 166 | 94 | 40 |
-| **Max** | 304 | 218 | 218 | 306 | 218 | 152 |
+| **Base** | 40 | 40 | 40 | 70 | 40 | 20 |
+| **Min** | 190 | 76 | 76 | 130 | 76 | 40 |
+| **Max** | 284 | 196 | 196 | 262 | 196 | 152 |
 
 The ranges shown above are for a level 100 Pokémon. Maximum values are based on a beneficial nature, 252 EVs, 31 IVs; minimum values are based on a hindering nature, 0 EVs, 0 IVs.
 
@@ -77,7 +77,7 @@ Slugma has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack | 190 | 70 | 50 | Medium | N/A |
+| 1 Special Attack | 190 | 70 | 50 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a bizarre orb that inflicts a burn on the holder in battle.">Flame Orb</span> (50%) |
 
 ---
 

@@ -4,68 +4,65 @@
 
 **The following Pokémon have received an edit to their evolution method:**
 
-```
-1. Poliwhirl
-2. Kadabra
-3. Machoke
-4. Graveler
-5. Slowpoke
-6. Haunter
-7. Onix
-8. Rhydon
-9. Seadra
-10. Scyther
-11. Electabuzz
-12. Magmar
-13. Porygon
-14. Porygon2
-15. Feebas
-16. Dusclops
-17. Clamperl
-18. Happiny
-19. Boldore
-20. Gurdurr
-21. Karrablast
-22. Shelmet
-```
+<pre><code>1. <a href="/bbvw-wiki/pokemon/poliwhirl.md/">Poliwhirl</a>
+2. <a href="/bbvw-wiki/pokemon/kadabra.md/">Kadabra</a>
+3. <a href="/bbvw-wiki/pokemon/machoke.md/">Machoke</a>
+4. <a href="/bbvw-wiki/pokemon/graveler.md/">Graveler</a>
+5. <a href="/bbvw-wiki/pokemon/slowpoke.md/">Slowpoke</a>
+6. <a href="/bbvw-wiki/pokemon/haunter.md/">Haunter</a>
+7. <a href="/bbvw-wiki/pokemon/onix.md/">Onix</a>
+8. <a href="/bbvw-wiki/pokemon/rhydon.md/">Rhydon</a>
+9. <a href="/bbvw-wiki/pokemon/seadra.md/">Seadra</a>
+10. <a href="/bbvw-wiki/pokemon/scyther.md/">Scyther</a>
+11. <a href="/bbvw-wiki/pokemon/electabuzz.md/">Electabuzz</a>
+12. <a href="/bbvw-wiki/pokemon/magmar.md/">Magmar</a>
+13. <a href="/bbvw-wiki/pokemon/porygon.md/">Porygon</a>
+14. <a href="/bbvw-wiki/pokemon/porygon2.md/">Porygon2</a>
+15. <a href="/bbvw-wiki/pokemon/feebas.md/">Feebas</a>
+16. <a href="/bbvw-wiki/pokemon/dusclops.md/">Dusclops</a>
+17. <a href="/bbvw-wiki/pokemon/clamperl.md/">Clamperl</a>
+18. <a href="/bbvw-wiki/pokemon/happiny.md/">Happiny</a>
+19. <a href="/bbvw-wiki/pokemon/boldore.md/">Boldore</a>
+20. <a href="/bbvw-wiki/pokemon/gurdurr.md/">Gurdurr</a>
+21. <a href="/bbvw-wiki/pokemon/karrablast.md/">Karrablast</a>
+22. <a href="/bbvw-wiki/pokemon/shelmet.md/">Shelmet</a>
+</code></pre>
 
 **The following Pokémon have had their evolution levels adjusted:**
 
-```
-1. Scraggy
-2. Elgyem
-3. Litwick
-4. Mienfoo
-5. Golett
-6. Pawniard
-7. Rufflet
-8. Vullaby
-9. Deino
-10. Larvesta
-```
+<pre><code>1. <a href="/bbvw-wiki/pokemon/scraggy.md/">Scraggy</a>
+2. <a href="/bbvw-wiki/pokemon/elgyem.md/">Elgyem</a>
+3. <a href="/bbvw-wiki/pokemon/litwick.md/">Litwick</a>
+4. <a href="/bbvw-wiki/pokemon/mienfoo.md/">Mienfoo</a>
+5. <a href="/bbvw-wiki/pokemon/golett.md/">Golett</a>
+6. <a href="/bbvw-wiki/pokemon/pawniard.md/">Pawniard</a>
+7. <a href="/bbvw-wiki/pokemon/rufflet.md/">Rufflet</a>
+8. <a href="/bbvw-wiki/pokemon/vullaby.md/">Vullaby</a>
+9. <a href="/bbvw-wiki/pokemon/deino.md/">Deino</a>
+10. <a href="/bbvw-wiki/pokemon/larvesta.md/">Larvesta</a>
+</code></pre>
 
 **The following Pokémon have received an edit to their typing:**
 
-```
-1. Farfetch’d
-2. Masquerain
-3. Volbeat
-4. Illumise
-5. Glalie
-6. Luxio
-7. Luxray
-8. Electivire
-9. Serperior
-10. Pignite
-11. Emboar
-12. Dewott
-13. Samurott
-14. Cofagrigus
-15. Gothita
-16. Gothorita
-17. Gothitelle
-18. Beartic
-```
+<pre><code>1. <a href="/bbvw-wiki/pokemon/farfetchd.md/">Farfetch’d</a>
+2. <a href="/bbvw-wiki/pokemon/masquerain.md/">Masquerain</a>
+3. <a href="/bbvw-wiki/pokemon/volbeat.md/">Volbeat</a>
+4. <a href="/bbvw-wiki/pokemon/illumise.md/">Illumise</a>
+5. <a href="/bbvw-wiki/pokemon/glalie.md/">Glalie</a>
+6. <a href="/bbvw-wiki/pokemon/luxio.md/">Luxio</a>
+7. <a href="/bbvw-wiki/pokemon/luxray.md/">Luxray</a>
+8. <a href="/bbvw-wiki/pokemon/electivire.md/">Electivire</a>
+9. <a href="/bbvw-wiki/pokemon/serperior.md/">Serperior</a>
+10. <a href="/bbvw-wiki/pokemon/pignite.md/">Pignite</a>
+11. <a href="/bbvw-wiki/pokemon/emboar.md/">Emboar</a>
+12. <a href="/bbvw-wiki/pokemon/dewott.md/">Dewott</a>
+13. <a href="/bbvw-wiki/pokemon/samurott.md/">Samurott</a>
+14. <a href="/bbvw-wiki/pokemon/cofagrigus.md/">Cofagrigus</a>
+15. <a href="/bbvw-wiki/pokemon/gothita.md/">Gothita</a>
+16. <a href="/bbvw-wiki/pokemon/gothorita.md/">Gothorita</a>
+17. <a href="/bbvw-wiki/pokemon/gothitelle.md/">Gothitelle</a>
+18. <a href="/bbvw-wiki/pokemon/beartic.md/">Beartic</a>
+</code></pre>
 
 Things unlisted haven’t been changed from the original Black & White. Abilities are the exception, and are listed regardless of change.
 

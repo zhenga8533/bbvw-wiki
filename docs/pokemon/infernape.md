@@ -45,9 +45,9 @@ Legacy:
 ## Base Stats
 |   | HP | Attack | Defense | Sp. Atk | Sp. Def | Speed |
 |---|----|--------|---------|---------|---------|-------|
-| **Base** | 76 | 104 | 71 | 104 | 71 | 109 |
-| **Min** | 262 | 191 | 132 | 191 | 132 | 200 |
-| **Max** | 356 | 337 | 265 | 337 | 265 | 348 |
+| **Base** | 76 | 104 | 71 | 104 | 71 | 108 |
+| **Min** | 262 | 191 | 132 | 191 | 132 | 198 |
+| **Max** | 356 | 337 | 265 | 337 | 265 | 346 |
 
 The ranges shown above are for a level 100 Pokémon. Maximum values are based on a beneficial nature, 252 EVs, 31 IVs; minimum values are based on a hindering nature, 0 EVs, 0 IVs.
 
@@ -79,7 +79,7 @@ Infernape has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack<br>1 Special Attack<br>1 Speed | 45 | 70 | 240 | Medium Slow | N/A |
+| 1 Attack<br>1 Special Attack<br>1 Speed | 45 | 70 | 240 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a combustible fuel that boosts the power of Fire-type moves.">Charcoal</span> (50%) |
 
 ---
 

@@ -77,7 +77,7 @@ Manaphy has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Hp | 3 | 70 | 270 | Slow | N/A |
+| 3 Hp | 3 | 70 | 270 | Slow | <span class="tooltip" title="If held by a Pokémon, it raises its critical-hit ratio in a pinch.">Lansat Berry</span> (100%) |
 
 ---
 
