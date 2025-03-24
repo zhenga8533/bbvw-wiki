@@ -23,7 +23,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT][license-shield]][license-url]
+[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <h3 align="center">Blaze Black/Volt White Wiki</h3>
@@ -76,43 +76,31 @@ BBVW Wiki Generator is a custom-built Python utility designed to automate the ge
 
 These ROM hacks introduce hundreds of game changes including:
 
-1. Modified base stats, abilities, and movesets for all 649 Pokémon
-
-2. New wild encounter tables across all regions
-
-3. Reworked trainer rosters, including Gym Leaders, Rivals, and Team Plasma
-
-4. Changes to item availability and trade evolution mechanics
-
-5. New move learnsets and compatibility adjustments
-
-6. Optional Action Replay codes
+- Modified base stats, abilities, and movesets for all 649 Pokémon
+- New wild encounter tables across all regions
+- Reworked trainer rosters, including Gym Leaders, Rivals, and Team Plasma
+- Changes to item availability and trade evolution mechanics
+- New move learnsets and compatibility adjustments
+- Optional Action Replay codes
 
 📦 What This Tool Does
 The BBVW Wiki Generator reads and parses structured raw data files (provided as .txt files in the src/files/ directory), processes them via custom Python scripts (in the src/ directory), and generates organized, readable Markdown documentation into the docs/ directory. The final site is rendered using MkDocs, producing a clean, static site that can be hosted anywhere or viewed locally.
 
 📚 What’s Included in the Wiki
 
-1. Pokémon Database: Each Pokémon has a dedicated page outlining its revised stats, learnsets, evolution info, and ability changes.
-
-2. Trainer Rosters: Pages for important NPCs and major battles show updated lineups, levels, and strategies.
-
-3. Wild Encounters: Area-by-area breakdowns of encounter tables in caves, routes, cities, and special locations.
-
-4. Item & Trade Info: Highlights modified held items, new trade options, and balance tweaks.
-
-5. Code Reference: Includes documented Action Replay codes tailored for Blaze Black and Volt White.
+- Pokémon Database: Each Pokémon has a dedicated page outlining its revised stats, learnsets, evolution info, and ability changes.
+- Trainer Rosters: Pages for important NPCs and major battles show updated lineups, levels, and strategies.
+- Wild Encounters: Area-by-area breakdowns of encounter tables in caves, routes, cities, and special locations.
+- Item & Trade Info: Highlights modified held items, new trade options, and balance tweaks.
+- Code Reference: Includes documented Action Replay codes tailored for Blaze Black and Volt White.
 
 🎯 Why This Exists
 ROM hacks like BB/VW are massive in scope, and documenting every game mechanic manually is a monumental task. This project removes that overhead by automating the entire documentation pipeline. It’s especially useful for:
 
-1. Players who want to explore and understand game mechanics in detail
-
-2. Content creators and streamers seeking accurate reference material
-
-3. Developers creating or modifying similar hacks
-
-4. QA testers verifying balance and encounter changes
+- Players who want to explore and understand game mechanics in detail
+- Content creators and streamers seeking accurate reference material
+- Developers creating or modifying similar hacks
+- QA testers verifying balance and encounter changes
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -135,11 +123,9 @@ To get a local copy of the BBVW Wiki Generator up and running, follow these step
 
 Make sure you have the following installed:
 
-1. Python 3.10 or higher
-
-2. pip (Python package installer)
-
-3. Git (optional, for cloning)
+- Python 3.10 or higher
+- pip (Python package installer)
+- Git (optional, for cloning)
 
 ### Installation
 
@@ -214,7 +200,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - zhenga8533@gmail.com
+Allen Zheng - zhenga8533@gmail.com
 
 Project Link: [https://github.com/zhenga8533/bbvw-wiki](https://github.com/zhenga8533/bbvw-wiki)
 
@@ -224,9 +210,11 @@ Project Link: [https://github.com/zhenga8533/bbvw-wiki](https://github.com/zheng
 
 ## Acknowledgments
 
-- []()
-- []()
-- []()
+Special thanks to the following resources and individuals who made this project possible:
+
+- [PokéAPI](https://pokeapi.co) – for data reference and Pokémon-related resources
+- [Drayano](https://x.com/drayano60) – creator of the Blaze Black and Volt White ROM hacks that inspired this project
+- [Best README Template](https://github.com/othneildrew/Best-README-Template/tree/main) – for providing the foundation for this README format
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -245,7 +233,6 @@ Project Link: [https://github.com/zhenga8533/bbvw-wiki](https://github.com/zheng
 [license-url]: https://github.com/zhenga8533/bbvw-wiki/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/zhenga8533
-[product-screenshot]: images/screenshot.png
 
 <!-- Built With -->
 
@@ -257,7 +244,3 @@ Project Link: [https://github.com/zhenga8533/bbvw-wiki](https://github.com/zheng
 [MkDocsMaterial-url]: https://squidfunk.github.io/mkdocs-material/
 [Markdown]: https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white
 [Markdown-url]: https://www.markdownguide.org/
-
-```
-
-```
