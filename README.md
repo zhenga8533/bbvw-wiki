@@ -73,11 +73,48 @@
 
 ## About The Project
 
-BBVW Wiki Generator is a Python-based tool that automatically creates a full-featured documentation site for the Pokémon Blaze Black and Volt White ROM hacks. These popular modifications of Pokémon Black and White introduce hundreds of gameplay changes, including new wild encounters, rebalanced stats, trainer overhauls, and item tweaks.
+🧠 About This Project
+BBVW Wiki Generator is a custom-built Python utility designed to automate the generation of a full documentation site for the ROM hacks Blaze Black and Volt White—popular reimaginings of Pokémon Black and White created by Drayano.
 
-Manually tracking these changes is time-consuming and error-prone. This project solves that by taking structured text data (like Pokémon changes, wild encounter locations, and trainer rosters), processing it with custom scripts, and outputting clean, organized Markdown files. The output is styled and published using MkDocs, allowing players and developers to easily explore all changes in an intuitive web-based wiki.
+These ROM hacks introduce hundreds of game changes including:
 
-Whether you're a competitive player looking for encounter rates, a modder verifying your changes, or just a fan exploring the ROM hack—this tool builds the wiki so you don’t have to.
+1. Modified base stats, abilities, and movesets for all 649 Pokémon
+
+2. New wild encounter tables across all regions
+
+3. Reworked trainer rosters, including Gym Leaders, Rivals, and Team Plasma
+
+4. Changes to item availability and trade evolution mechanics
+
+5. New move learnsets and compatibility adjustments
+
+6. Optional Action Replay codes
+
+📦 What This Tool Does
+The BBVW Wiki Generator reads and parses structured raw data files (provided as .txt files in the src/files/ directory), processes them via custom Python scripts (in the src/ directory), and generates organized, readable Markdown documentation into the docs/ directory. The final site is rendered using MkDocs, producing a clean, static site that can be hosted anywhere or viewed locally.
+
+📚 What’s Included in the Wiki
+
+1. Pokémon Database: Each Pokémon has a dedicated page outlining its revised stats, learnsets, evolution info, and ability changes.
+
+2. Trainer Rosters: Pages for important NPCs and major battles show updated lineups, levels, and strategies.
+
+3. Wild Encounters: Area-by-area breakdowns of encounter tables in caves, routes, cities, and special locations.
+
+4. Item & Trade Info: Highlights modified held items, new trade options, and balance tweaks.
+
+5. Code Reference: Includes documented Action Replay codes tailored for Blaze Black and Volt White.
+
+🎯 Why This Exists
+ROM hacks like BB/VW are massive in scope, and documenting every game mechanic manually is a monumental task. This project removes that overhead by automating the entire documentation pipeline. It’s especially useful for:
+
+1. Players who want to explore and understand game mechanics in detail
+
+2. Content creators and streamers seeking accurate reference material
+
+3. Developers creating or modifying similar hacks
+
+4. QA testers verifying balance and encounter changes
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
