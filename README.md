@@ -60,8 +60,6 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -131,61 +129,53 @@ ROM hacks like BB/VW are massive in scope, and documenting every game mechanic m
 
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+To get a local copy of the BBVW Wiki Generator up and running, follow these steps to install dependencies and generate your own documentation site.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+Make sure you have the following installed:
 
-- npm
-  ```sh
-  npm install npm@latest -g
-  ```
+1. Python 3.10 or higher
+
+2. pip (Python package installer)
+
+3. Git (optional, for cloning)
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/zhenga8533/bbvw-wiki.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = "ENTER YOUR API";
-   ```
-5. Change git remote url to avoid accidental pushes to base project
-   ```sh
-   git remote set-url origin zhenga8533/bbvw-wiki
-   git remote -v # confirm the changes
-   ```
+1. Clone the repository
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+```bash
+git clone https://github.com/zhenga8533/bbvw-wiki.git
+cd bbvw-wiki
+```
 
-<!-- USAGE EXAMPLES -->
+2. Create a virtual environment (recommended)
 
-## Usage
+```bash
+python -m venv venv
+source venv/bin/activate   # On Windows: venv\Scripts\activate
+```
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+3. Install required Python packages
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+```bash
+pip install -r requirements.txt
+```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+4. Create a .env file based on .env.example if environment variables are used.
 
-<!-- ROADMAP -->
+5. Generate the Wiki Content
 
-## Roadmap
+```bash
+bash src/main.sh
+```
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-  - [ ] Nested Feature
+6. View the Wiki Locally
 
-See the [open issues](https://github.com/zhenga8533/bbvw-wiki/issues) for a full list of proposed features (and known issues).
+```bash
+mkdocs serve
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -216,7 +206,7 @@ Don't forget to give the project a star! Thanks again!
 
 ## License
 
-Distributed under the MIT. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -252,7 +242,7 @@ Project Link: [https://github.com/zhenga8533/bbvw-wiki](https://github.com/zheng
 [issues-shield]: https://img.shields.io/github/issues/zhenga8533/bbvw-wiki.svg?style=for-the-badge
 [issues-url]: https://github.com/zhenga8533/bbvw-wiki/issues
 [license-shield]: https://img.shields.io/github/license/zhenga8533/bbvw-wiki.svg?style=for-the-badge
-[license-url]: https://github.com/zhenga8533/bbvw-wiki/blob/master/LICENSE.txt
+[license-url]: https://github.com/zhenga8533/bbvw-wiki/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/zhenga8533
 [product-screenshot]: images/screenshot.png
@@ -267,3 +257,7 @@ Project Link: [https://github.com/zhenga8533/bbvw-wiki](https://github.com/zheng
 [MkDocsMaterial-url]: https://squidfunk.github.io/mkdocs-material/
 [Markdown]: https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white
 [Markdown-url]: https://www.markdownguide.org/
+
+```
+
+```
