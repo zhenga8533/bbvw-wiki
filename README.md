@@ -73,7 +73,11 @@
 
 ## About The Project
 
-Placeholder
+BBVW Wiki Generator is a Python-based tool that automatically creates a full-featured documentation site for the Pokémon Blaze Black and Volt White ROM hacks. These popular modifications of Pokémon Black and White introduce hundreds of gameplay changes, including new wild encounters, rebalanced stats, trainer overhauls, and item tweaks.
+
+Manually tracking these changes is time-consuming and error-prone. This project solves that by taking structured text data (like Pokémon changes, wild encounter locations, and trainer rosters), processing it with custom scripts, and outputting clean, organized Markdown files. The output is styled and published using MkDocs, allowing players and developers to easily explore all changes in an intuitive web-based wiki.
+
+Whether you're a competitive player looking for encounter rates, a modder verifying your changes, or just a fan exploring the ROM hack—this tool builds the wiki so you don’t have to.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
