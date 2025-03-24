@@ -26,13 +26,6 @@
 [![MIT][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/zhenga8533/bbvw-wiki">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
 <h3 align="center">Blaze Black/Volt White Wiki</h3>
 
   <p align="center">
