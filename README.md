@@ -122,6 +122,7 @@ ROM hacks like BB/VW are massive in scope, and documenting every game mechanic m
 
 - [![Python][Python.org]][Python-url]
 - [![MkDocs][MkDocs]][MkDocs-url]
+- [![MkDocs Material][MkDocsMaterial]][MkDocsMaterial-url]
 - [![Markdown][Markdown]][Markdown-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -260,7 +261,9 @@ Project Link: [https://github.com/zhenga8533/bbvw-wiki](https://github.com/zheng
 
 [Python.org]: https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white
 [Python-url]: https://www.python.org/
-[MkDocs]: https://img.shields.io/badge/MkDocs-Documentation%20Site-000000?style=for-the-badge&logo=mkdocs&logoColor=white
+[MkDocs]: https://img.shields.io/badge/MkDocs-000000?style=for-the-badge&logo=mkdocs&logoColor=white
 [MkDocs-url]: https://www.mkdocs.org/
-[Markdown]: https://img.shields.io/badge/Markdown-Docs-000000?style=for-the-badge&logo=markdown&logoColor=white
+[MkDocsMaterial]: https://img.shields.io/badge/MkDocs--Material-2396F3?style=for-the-badge&logo=materialdesign&logoColor=white
+[MkDocsMaterial-url]: https://squidfunk.github.io/mkdocs-material/
+[Markdown]: https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white
 [Markdown-url]: https://www.markdownguide.org/
