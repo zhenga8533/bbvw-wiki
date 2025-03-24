@@ -36,7 +36,9 @@
 <h3 align="center">Blaze Black/Volt White Wiki</h3>
 
   <p align="center">
-    project_description
+    BBVW Wiki Generator is an automated documentation generator designed specifically for the Blaze Black and Volt White ROM hacks of Pokémon Black and White. This project processes raw game data—such as Pokémon stats, movesets, wild encounters, trainer rosters, item changes, and more—and transforms it into a clean, searchable MkDocs-powered wiki.
+
+    The tool helps ROM hack developers and players alike by providing a browsable reference of in-game changes in a structured, modern web format. It combines custom Python scripts and Markdown generation to output a professional-grade wiki that can be deployed or shared with the community.
     <br />
     <a href="https://github.com/zhenga8533/bbvw-wiki"><strong>Explore the docs »</strong></a>
     <br />
@@ -46,6 +48,7 @@
     <a href="https://github.com/zhenga8533/bbvw-wiki/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     &middot;
     <a href="https://github.com/zhenga8533/bbvw-wiki/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+
   </p>
 </div>
 
